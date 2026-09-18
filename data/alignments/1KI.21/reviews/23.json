@@ -1,0 +1,9 @@
+{
+  "alignment_sha256": "52162f12e85ecd15c10628e3ca8ed981d75b783214b186567b8004c46257474e",
+  "contract_version": "ot-hebrew-verse-v2",
+  "notes": [
+    "Independent review: all 16 source and 17 target IDs partitioned exactly once; checked unit edges and heads. Confirmed s003 le -> t002 'of' is correctly aligned rather than unrepresented: the chapter's dative-le convention covers le before a pronominal suffix where English supplies no word, whereas here the le of reference before the proper noun Jezebel is actually rendered by the ASV's 'of', so rule 14's principle (align to what the ASV renders) applies. Verified s007 le'mor le unrepresented (rule 27), s012 'et unrepresented (rule 16), s011 shall+eat headed on 'eat' (rules 17/24), s015 supplied 'the' joining construct 'rampart' (rule 29), s016 'of Jezreel' headed on Jezreel (rule 19), s009 ha -> 'The'."
+  ],
+  "ref": "1KI.21.23",
+  "status": "reviewed"
+}

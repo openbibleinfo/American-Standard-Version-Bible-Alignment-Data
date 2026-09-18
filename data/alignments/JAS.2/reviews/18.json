@@ -1,0 +1,17 @@
+{
+  "alignment_sha256": "03e552c68fca54123168c10de49011ee6467d04d971a88a6195743af017fe801",
+  "contract_version": "nt-greek-verse-v62",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Returned unchanged: re-checked independently and found nothing to correct. All 28 s### and all 30 t### ids are partitioned exactly once; no ids invented; every aligned unit has nonempty arrays with both heads inside them, and every unrepresented unit is source-only with a null target head.",
+    "Four articles (s012, s016, s023, s026) are all unrepresented under rule 20: in each case a genitive pronoun stands free to take the supplied possessive, and rule 76's availability test is satisfied — none of s014, s018, s025, s028 is spent on any other role, each realizing only its possessive.",
+    "s015 χωρίς takes 'apart from' whole, headed on 'apart'. The competing reading gives 'from' to the article s016 under rules 21/42; rejected because the ASV writes no determiner for that noun ('thy works', not 'the works'), so the article has no 'the' to anchor and rule 21 forbids a bare 'from' on it. Rule 42's 'near to Salim' is the model, and rule 71 keeps the head on the adverb's own word rather than on the leading preposition.",
+    "s003 τις → 'a man' is headed on 'man'. The competing head is 'a', by analogy with rule 69's 'any man' headed on 'any'; that precedent is scoped to a negative-polarity indefinite whose 'any' carries the clause's negation, whereas here 'a' is only the determiner the count noun requires, and rules 22 and 77 keep the head on the nominal word and never on the determiner. Materially different but documented in the unit note per rule 16.",
+    "Both crasis tokens (s007, s019) are aligned under rule 55 and headed on the pronominal, not noncompositional: each English pair spells out both elements of the one source token. The second is discontinuous only in that its clause is reordered, not in its own tokens.",
+    "Variant selections were taken from the packet as given (rule 12); no unit carries a FALLBACK EXCLUDED BY EVIDENCE mark, so rule 97 is not in play and nothing here is 'added'.",
+    "No rule 37 case: the whole of this verse's Greek is translated within it, and no English is orphaned."
+  ],
+  "ref": "JAS.2.18",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,159 @@
+{
+  "alignments": [
+    {
+      "note": "Protasis conjunction אִם takes the *If* written for it.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb with its subject pronoun and auxiliary, headed on the lexical verb (rules 17, 24).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Anarthrous substantival participle takes the supplied determiner *any*, headed on the word carrying the lexeme (rules 46, 31).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The privative מִן keeps the causal function word the ASV writes for it; the negation goes to the negative morpheme standing in the clause (rule 48).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "בְּלִי is the negative substantive that *want* realizes (rule 48). Corrected: the *of* is not part of this morpheme's rendering. MACULA tags בְּלִי Ncmsc, so it stands in construct on לְבוּשׁ, and rule 19 gives the chain's own relation to the nomen rectum — exactly as `כָּל־עֵץ` → *any kind of tree* gives *of tree* to its rectum and forbids reading *any kind of* as one indivisible quantifier. The *of* stands between the two nouns the Hebrew writes.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Nomen rectum takes the construct relation *of* together with its own word, headed on the noun (rules 19, 24).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "One connective rendered by a coordinator and a subordinator written together at the recast clause's left edge; headed on the coordinator (rule 55).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Assimilated article takes the written *the* (rules 12, 15).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Substantival adjective keeps its own word.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "The possessive לְ is what makes the verbless clause possessive and carries the *had* (rule 43).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Existential אַיִן heads on the negation word (rule 50).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Noun keeps its own English.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "JOB.31.19",
+  "review_notes": [
+    "Corrected one edge: the *of* of *for want of clothing* was moved from בְּלִי to its nomen rectum לְבוּשׁ. בְּלִי is tagged Ncmsc here, so a construct relation stands between the two nouns, and rule 19 places that relation on the rectum; the accepted reading treated *want of* as one indivisible English rendering, which rule 19 explicitly forbids for *all of*, *any of* and *any kind of*. Everything else is unchanged.",
+    "The privative division follows rule 48: the מִן keeps the function word *for* and the present negative substantive takes the negation word, rather than the מִן taking both.",
+    "*the needy had no covering* divides as rule 43 and rule 50 direct — the possessive לְ carries the *had* and אַיִן heads on *no*."
+  ]
+}

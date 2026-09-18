@@ -1,0 +1,28 @@
+{
+  "chapter": "2SA.16",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2SA.16.18"
+  ],
+  "rejected": {},
+  "conventions": [
+    "A predicate לְ + pronominal suffix that the ASV renders by an independent possessive ('thine', 'his') fuses under rule 49's fused-genitive paragraph, headed on the suffix; the copula joins the fused unit where the clause is verbless (16.4 'thine is') and goes to הָיָה where that verb is written (16.18 'his will I be'). Rule 21's unrepresented לְ is reserved for a recasting that leaves the לְ-phrase no English word at all.",
+    "לִפְנֵי rendered 'in the presence of' / 'in … presence' (three times in 16.19) and לְעֵינֵי rendered 'in the sight of' (16.22) are split under rule 2: the ASV spends 'in' on the preposition and 'presence'/'sight' on the noun's own lexeme, which is rule 30's 'to meet' shape rather than its 'before' fusion. The supplied 'the' goes to the construct noun and the 'of' to the rectum; a possessive rectum ('thy father's') leaves the noun bare 'presence'.",
+    "A subject pronoun the ASV supplies before a participial predicate in a verbless clause ('he abideth' 16.3, 'he came out' 16.5) is given to the nominal written earlier in the verse that it resumes (rule 25), not to the participle and not marked added; the participle keeps only its lexical verb and, where written, the presentative 'there' (16.5 'there came out')."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 57 candidate groups and the full dump. One real split found: the predicate genitive לְ + suffix. 2SA.16.4 fuses לְךָ → 'thine' (copula joining the fused unit, rule 49's fused-genitive paragraph), while 2SA.16.18 left the לְ of לוֹ אֶהְיֶה → 'his will I be' unrepresented under rule 21. The written הָיָה in 16.18 takes the copula either way and says nothing about the לְ; rule 21's unrepresented ruling rests on a passive recasting that leaves no English word for the לְ-phrase, and 'his' is exactly the word that writes its belonging relation. 16.18 is patched to fuse s020+s021 → 'his', headed on the suffix, matching 16.4.",
+    "Not splits, each licensed by the source or the ASV: waw → And/Then/So/that/with/and when (rule 14/45/55, every rendering read off the ASV); articles unrepresented beside a demonstrative, an agreement article, an assimilated form with no 'the', a vocative, or 'king David' (rules 12, 29, 36, 41, 47); לִפְנֵי → 'in' + 'presence' and לְעֵינֵי → 'in' + 'the sight' split in 16.19 and 16.22 because the ASV writes a word for each morpheme (rule 30's 'to meet' shape), consistently across all four phrases; 16.1 רֹאשׁ → 'top' with italic 'of the ascent' added versus 16.22 גָּג → 'top of the house' whole, which differ on rule 31's subtraction ('top' alone writes רֹאשׁ but not גָּג); both לְעֻמַּת compounds fused (over against / at); גַּם … גַּם → both … and, each particle taking only its own word.",
+    "16.10 מַה־לִּי וְלָכֶם: 'with' given to the second לְ and the waw left unrepresented; the reverse (waw → 'with', לְ unrepresented) is equally defensible and is named in the note. Single occurrence, so not a cross-verse matter; left as accepted.",
+    "BSB disagreements (R ×9, C ×4, Td ×14, two instrumental בְּ) are all documented convention differences: bare datives (rule 40), waws the ASV leaves unwritten before הִנֵּה or inside a relative recast, articles beside demonstratives and agreement articles, and the instrumental בְּ of 'cast stones/dust' whose object the ASV promotes. None is an error.",
+    "No promotion: nothing this chapter taught is outside the contract as it stands."
+  ]
+}

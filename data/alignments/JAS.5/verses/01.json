@@ -1,0 +1,158 @@
+{
+  "alignments": [
+    {
+      "note": "Imperative Ἄγε → Come.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Adverb νῦν → now.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Article governing an expressed vocative takes the supplied address word under rule 89: ye. No participle follows, so rule 32 is not in question, and rule 89's contrast — a bare vocative with no supplied word — does not hold here, the ASV having written ye. The substantival adjective keeps its own word, so no nominal is supplied for the article to take under rules 22, 49 or 102.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Substantival adjective πλούσιοι → rich; the article beside it has already taken the address word.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Aorist imperative → weep.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Circumstantial participle rendered as a coordinate finite verb; the supplied juncture is a rule 88 helper on the word it introduces, howl, and is not added. Rule 88's \"never on the participle it follows\" scopes the case where the participle stands first; here the converted participle is what the juncture introduces, so the principle places it on this unit. Rule 98 is not the contrast: it is scoped to an asyndetic seam between two like constituents, which is why JAS.1.27's two infinitives take an added and, whereas κλαύσατε ὀλολύζοντες is a finite imperative plus a converted participle.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "The preposition governing the phrase takes the English preposition under rule 36: for.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Displaced by the possessive under rule 20: the genitive ὑμῶν is present and free to take your, so the article realizes nothing. Rule 76 does not reach it either way, since a pronoun whose English is merely discontinuous has not been spent.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun ταλαιπωρίαις → miseries, bare, the determiner slot being occupied by the possessive and the case preposition already carried by the expressed ἐπί.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Genitive pronoun realized by the possessive your under rule 20. The later upon you is taken as the participle's own English object rather than a second discontinuous realization of this token; reading your … you as one discontinuous unit under rules 15 and 76, on the model of 3JN.1.13's resumptive them, remains defensible, but the two English words fill different argument slots.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Second attributive article before a participle with an expressed head noun: rule 31 makes the relativizer and copula the participle's helpers and leaves the article its own unrepresented unit.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The participle carries the supplied relative clause under rule 31 (*that are*), with *upon* realizing its own ἐπι- element and the resumptive *you* a rule 7 pronoun helper on the verb that requires an object in English. Head on the lexical verb *coming* under rules 9 and 17. The verse's only ὑμῶν is spent on *your miseries*, so *you* answers to no free source token, and the `added` reading is real: EPH.1.16 marks a supplied *of you* `added` unhedged on the ground that the projected text has no second ὑμῶν, as 2CO.9.13 does for a supplied object. The fold is taken because the contract decides this class in terms — rule 74 sends a supplied **object** to the verb that requires it in English, against the supplied subject it sends to the infinitive, and rule 103 excepts a resumptive pronoun by name, folding *them* onto `Πολλά` at 3JN.1.13. Rule 103's `added` is for supplied **lexical** content, which rule 7's own list excludes a pronoun from.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t013",
+        "t014",
+        "t015"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "JAS.5.1",
+  "review_notes": [
+    "Reviewed against the token table and the contract; the accepted alignment is correct and is returned unchanged. Only unit notes were expanded, at s003 and s006, to record the tests a later reader would otherwise have to redo.",
+    "Every s### and t### id is partitioned exactly once: 12 source units covering s001–s012 and 15 target tokens covering t001–t015.",
+    "Two articles are unrepresented for different reasons: s008 by possessive displacement (rule 20), s011 as a second attributive article before a participle governing an expressed head noun (rule 31). Neither is grouped with its noun.",
+    "s003 is aligned rather than unrepresented because the ASV supplies an address word (rule 89); the corpus has no unit leaving such an article empty. Since πλούσιοι is a substantival adjective, rules 22, 49 and 102 were checked as well — the ASV supplies no nominal here, only ye, so nothing beyond the address word is the article's.",
+    "The supplied and at t006 is a rule 88 helper on howl, not added. This is the one place JAS.5.1 could go wrong against its own book: JAS.1.27 marks a supplied and added under rule 98, but that seam joins two infinitives rendered alike, whereas here a converted circumstantial participle follows a finite imperative, which is rule 88's scope in terms.",
+    "Competing reading recorded at s010: your … you as one discontinuous possessor unit under rules 15 and 76. The article at s008 is unrepresented under either reading, so nothing else in the verse turns on it."
+  ]
+}

@@ -1,0 +1,5 @@
+# Jude 1 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **JUD.1.1** — A substantival article whose complement is an adjective rather than a participle keeps the supplied relativizer, and the adjective takes only the supplied copula: τοῖς … κλητοῖς → “to them that” on the article, headed on “them”, and “are called” on the adjective. Rule 32's split applies where a participle follows, because the participle is what can carry a relative clause; an adjective cannot, which is rule 31's reasoning for a prepositional phrase holding for an adjectival complement. Where the complement is instead a noun phrase, rule 53 keeps the copula with the article as well: JUD.1.12 οἱ … σπιλάδες → “they who are” on the article and “hidden rocks” on the noun. The corpus is not unanimous on the adjectival case, so this is recorded here rather than promoted.

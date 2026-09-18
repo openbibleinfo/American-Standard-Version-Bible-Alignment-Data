@@ -1,0 +1,185 @@
+{
+  "alignments": [
+    {
+      "note": "Imperative rendered by the bare English verb.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Preposition governing the pronoun; rule 36 keeps *for* on the preposition rather than on the verb.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Genitive pronoun object.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Causal conjunction rendered *for*; postpositive in Greek, clause-initial in English under rule 15.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Inflected passive verb takes its supplied subject and auxiliary under rule 9; head on the lexical participle *persuaded*, not on *are*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Reported speech with an expressed complementizer, so rule 43's unrepresented case does not apply.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Verb with its supplied subject pronoun under rule 9; head on the lexical verb. Not a light-verb collapse under rule 73, since the ASV spells both *have* and *conscience* out.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Attributive adjective; bare *good*, the supplied determiner going to the noun under rule 58.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Both adjective and noun are anarthrous, so rule 58 gives the supplied *a* to the noun, discontinuously under rule 15. Reading *a* as a rule 7 helper on the adjective it stands next to is what rule 58 forbids.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Circumstantial participle rendered by an English participle.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "No conjunction governs the clause, so the infinitival *to* is rule 7's ordinary helper on its own verb rather than rule 40's clause-introducer. The middle's reflexive sense is carried by the intransitive *live* itself, so no separate reflexive pronoun competes.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Adverb rendered *honorably*, modifying the infinitive.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Preposition rendered *in*; the ASV writes it out separately, so no compound unit under rule 94.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Substantival adjective expanded with the generic noun *things*; rule 17 heads it on *all*. No article stands here, so rule 102's article-owns-the-nominal case does not arise.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "HEB.13.18",
+  "review_notes": [
+    "All 14 source and 20 target ids partitioned exactly once.",
+    "s007/s008: the supplied *a* is placed on the noun per rule 58 (both words anarthrous), giving the noun a discontinuous target.",
+    "s014: infinitival *to* kept with its verb per rule 61's closing clause, no preposition or conjunction governing the construction.",
+    "Variant SBLGNT.HEB.13.18.v006 resolved to r00-base covering s004; no fallback exclusion marked, so rule 97 does not apply."
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "chapter": "JOB.27",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Relative clauses the ASV supplies over asyndetic finite clauses with a written antecedent (27.2 who hath taken away, 27.2 who hath vexed, 27.13 which they receive, 27.18 which the keeper maketh) are added throughout. Where a waw precedes such a clause and the ASV writes its own connective for it (27.2 And the Almighty who…), the waw keeps that connective and the relative is still added; rule 17's waw → which reading applies only where the ASV writes no separate connective for the waw."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 22 candidate lemmas end to end. Every multi-treatment bucket is the ASV rendering one morpheme differently in different contexts (suffix my/me/mine/his/him/their; waw and/but/then/for; כְּ as/like; בְּ in/at/concerning/is in/unrepresented before a fronted bare object; עַל upon/at/unrepresented where the ASV promotes the object of hiss; כִּי for/though/When; אִם Surely…not/that/Will/If/Though). No construction is analysed two ways with nothing in the source to license the difference.",
+    "Read the dump for added units the table cannot see: supplied relatives over asyndetic finite clauses with a written antecedent are added consistently (27.2 who ×2, 27.13 which, 27.18 which), and in 27.2 the waw before the second clause keeps its written And so the who is added under rules 51/55 rather than taken by the waw under rule 17. Supplied objects (27.6 me, 27.8 him, 27.12 it, 27.17 it ×2), supplied subjects (27.22 God, 27.23 Men), the impersonal it of 27.14, and the italic prepositional phrase of 27.19 are all added on the same terms in every verse.",
+    "Assimilated articles: the where the ASV writes it (27.16 ×2, 27.18), unrepresented where it does not (27.15 in death, 27.20 like waters) — rule 12, consistent.",
+    "BSB disagreements are all documented convention differences, none an error: 27.5 paragogic he (rule 32); 27.6 בְּ silenced by the ASV fronting the object bare (rule 40); 27.23 second עַל silenced by 'hiss him' (rule 40); 27.11 object marker with bare object (rule 16); 27.12 deictic זֶה after לָמָּה left unrepresented with 'then' given to the waw (rules 14, 22) — the competing reading gives 'then' to זֶה, is named in the note, and is not a correction.",
+    "Large unit 27.6 מִיָּמָי → 'so long as I live' noncompositional: the split (suffix → I, מִן+יוֹם → so long as…live) is imaginable but not clearly preferable, and the note names it; left as accepted.",
+    "No contract promotion or amendment: the chapter's judgments are applications of rules 14, 17, 34, 44, 46, 50, 55 and 56 already in the contract."
+  ]
+}

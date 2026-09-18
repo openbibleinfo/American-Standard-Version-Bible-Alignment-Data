@@ -1,0 +1,29 @@
+{
+  "chapter": "1SA.6",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The compound place names BEIT SHEMESH and QIRYAT YEARIM arrive as two Np tokens sharing one lemma. Align each to the English word written for it -- Beth and shemesh, Kiriath and jearim -- rather than fusing them under rule 30, and give any relational or directional word the ASV writes for the whole name to the first token, which is the word that English stands before: the of of a construct relation under rule 19 (6.12, 6.15, 6.19, 6.20, 6.21) and the supplied to of rule 33 (6.9, with Ekron at 6.16 read on the same terms). Where the ASV writes the name for its inhabitants and supplies a noun phrase around it -- u-veit shemesh qotzrim -> they of Beth shemesh were reaping (6.13) -- the supplied they of joins the first token's unit under rule 46, on the ground that the written name is the source nominal the English noun phrase realizes; the competing reading, which marks they of added under rules 17 and 30, is named in that verse's note.",
+    "The gentilic beit-ha-shimshi (6.14, 6.18) arrives as two Ngmsa tokens whose second carries the lemma ha. Read the surface and morphology rather than the lemma, under rule 39: the first token takes Beth and the second takes the written the together with shemite, and the article is not treated as a separate determiner morpheme to be counted against the phrase's the under rules 29 and 47."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v208",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 64 candidate lemma groups and then read the dump end to end, since the table is keyed by source lemma and this chapter carries twelve added units it cannot see. No construction is analysed two ways with nothing in the source licensing the difference.",
+    "min compounds: fused and headed on the min at 6.7 (me-achareihem -> from) and 6.20 (me-aleinu -> from), split at 6.5 (me-aleichem -> from off). One English rendering against two is rule 30's own condition, and the source heads agree across all three.",
+    "asher with a preposition and a resumptive suffix: fused at 6.15 (wherein) and 6.18 (whereon), split at 6.7 (on which, suffix unrepresented) and 6.15 (that was with it). Rule 22's amendment decides each by whether the ASV wrote one English word or two, and all four go the way it directs.",
+    "Apodosis connectives: then is added at 6.9 where the apodosis is juxtaposed with no conjunction, aligned to the waw later in that same verse where one is written, and the 6.16 apodosis waw is unrepresented where the ASV opens the clause bare. Each is read off the Hebrew, per rule 14's closing sentences.",
+    "The phrase's the: fronted onto an article standing on the rectum at 6.8, 6.11, 6.17 and 6.18; supplied on the construct where no article morpheme stands at 6.11 (the images), 6.15, 6.19, 6.20 and 6.21. That is rule 29's count applied consistently, not two treatments.",
+    "Supplied English is marked uniformly: object pronouns added at 6.7 (you), 6.13 (it), 6.15 (them) and 6.16 (it); supplied possessive at 6.13; supplied coordinators at 6.19 and 6.21; the cleft frame and its relative at 6.9; the italic run which stone remaineth as one unit at 6.18. No verse folds such a word into a neighbouring morpheme's unit to avoid the mark.",
+    "we-lammah -> Wherefore then (6.6) and we-attah -> Now therefore (6.7) divide alike, the lexeme-bearing word to the interrogative or adverb and the leftover connective to the waw, which is rule 14's paragraph on two connective-force words standing together at a clause head rather than a second convention.",
+    "BSB: all 35 disagreements are the documented convention difference over unrendered function morphemes (Rd 5, R 6, C 4, Td 13, To 4), plus the two echad tokens the ASV renders with a bare determiner (6.7 a new cart, 6.12 the highway) and the resumptive suffix of 6.7 that rule 22 leaves unwritten beside a separately rendered relative and preposition. None is a genuine error, and no accepted edge was moved.",
+    "Contract: no promotion. The two candidates that looked general are already stated generally where they stand -- rule 14's opening sentence on two connective-force words at a clause head, and rule 56's amendment reading word as one English rendering rather than one token, which covers by all means at 6.3. The one case the contract does not reach in terms, a place name standing for its inhabitants taking a supplied they of at 6.13, is a single instance with no corpus precedent either way, and that verse's note already names the competing reading under rule 8."
+  ]
+}

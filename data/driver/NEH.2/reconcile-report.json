@@ -1,0 +1,26 @@
+{
+  "chapter": "NEH.2",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "`אֱלֹהֵי הַשָּׁמַיִם` → *the God of heaven* (2.4, 2.20): the ASV renders *heaven* anarthrously and writes one *the*, so the article on the rectum takes that fronted *the* under rule 29 and `אֱלֹהֵי` keeps the bare *God*; the construct takes no supplied *the*. The verse pass was first tempted to leave the article unrepresented and supply the *the* on the construct; that is the competing reading and it was rejected.",
+    "Periphrastic `הָיָה` + participle rendered by a single English finite verb — `אֱהִי שֹׂבֵר` → *viewed* (2.13, 2.15), `אֱהִי עֹלֶה` → *went I up* (2.15) — is one fused unit under rule 30, headed on the participle, which carries the lexeme; `הָיָה` is not marked unrepresented beside it. The competing reading marks `הָיָה` unrepresented and is named in each note.",
+    "The pleasing idiom is read by contiguity. `אִם־עַל־הַמֶּלֶךְ טוֹב` → *If it please the king* (2.5, 2.7) gives *it please* to `טוֹב` as its fixed rendering under rule 20 and leaves `עַל` unrepresented under rule 40, because the article and `מֶלֶךְ` stand between the preposition and the adjective, so rule 30/40 fusion cannot reach it; `וַיִּיטַב לִפְנֵי הַמֶּלֶךְ` → *it pleased the king* (2.6) fuses the verb, the `לְ` and `פְּנֵי` in one unit headed on the verb, as `רַע בְּעֵינֵי` → *it displease* does, because there the three are contiguous and none has English of its own."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 20 verses end to end against the candidate table and the added units the table cannot see. No cross-verse split found: every recurring construction is analysed one way wherever the ASV renders it the same way, and each difference in treatment is licensed by a different ASV rendering.",
+    "Checked in particular: the divine title אֱלֹהֵי הַשָּׁמַיִם (2.4, 2.20) — article on the rectum takes the fronted *the*, construct bare, both verses; periphrastic הָיָה + participle → one finite verb (2.13 *viewed*, 2.15 *went I up*, *viewed*) fused and headed on the participle in all three; attributive gate names (2.13, 2.14, 2.15) — fronted *the* to the rectum's article, construct bare; possessive recastings *the king's forest/letters/pool/words* (2.8, 2.9, 2.14, 2.18) — *the* to the possessor's article; resumptive suffix after אֲשֶׁר + preposition written as two English words (2.8 *enter into*, 2.12 *rode upon*, 2.17 *are in*) — suffix unrepresented in all three; resumptive pronoun of a tripartite relative clause (2.13 הֵם, 2.18 הִיא) unrepresented with the copula on the predicate; dative לְ + suffix rendered bare — preposition unrepresented in every case where the ASV writes no *unto*; supplied object pronouns *it* / *of it* (2.1, 2.10, 2.16, 2.19) all `added`, never folded into the verb; apodosis waw after a waw the ASV renders *And when* / *But when* (2.10, 2.19) unrepresented in both; לִפְנֵי fused where the ASV writes one word (2.1 *was before*, 2.6 *it pleased*, 2.13 *toward*) and split where it writes two (2.1 *in his presence*, 2.5 *in thy sight*).",
+    "Single-verse choices a later reader might revisit, each with its competing reading named in the note and none a split: 2.6 עַד־מָתַי → *For how long* marked noncompositional (rule 17's closing sentence prefers per-morpheme alignment for a bare *how long*, but here the *For* and the *how long* cannot be assigned non-arbitrarily, since מָתַי alone is *when*); 2.20 הֵשִׁיב … דָּבָר → *answered* fused across the intervening object on rule 35's what-the-word-carries reasoning; 2.14 *that was under me* with *that* added and *was under* on תַּחַת.",
+    "BSB disagreements are all documented convention differences: cohortative he ×4, unrepresented datives/prepositions the ASV recasts, apodosis waws, agreement and possessor articles, resumptive suffixes and pronouns, the object marker in 2.20. None is a genuine error.",
+    "No contract promotion: the one construction the contract does not name (periphrastic הָיָה + participle rendered by a single English verb) is recorded as a chapter convention; corpus precedent for it was not in the briefing, so it is not promoted."
+  ]
+}

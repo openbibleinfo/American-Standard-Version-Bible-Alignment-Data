@@ -1,0 +1,9 @@
+# 1 John 2 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **1JN.2.20** — A supplied generic nominal completing a substantival adjective belongs to the article that governs it, not to the adjective: τὸν πονηρόν → *the … one* + *evil* (2.13, 2.14) and τοῦ ἁγίου → *the … One* + *Holy* (2.20) are one analysis under rules 22 and 49. Rule 17's generic-noun clause chooses a head and does not reassign the word; rule 66's closing clause says so.
+- **1JN.2.22** — The ASV's appositional *even* is its own `added` unit wherever it stands (2.22 on a substantival article, 2.25 before an articular appositive). Rule 32 gives such an article the pronoun and nothing else, and *even* realizes no property of an article the way a case preposition does.
+- **1JN.2.12** — A dative already spent on a retained object is not available to take a supplied possessive, so the article takes it and is `aligned` to it rather than `unrepresented` (2.12 ὑμῖν → *you*, αἱ → *your*). This is rule 76's second arm, as 1JN.1.9 reads the same construction.
+- **1JN.2.21** — A negator standing with πᾶς joins it into one unit only where the ASV writes a single English negative for both (2.21 *no*), and splits where the ASV writes two words (2.16, 2.19 *all … not*). The test is rule 39's English one, not rule 59's `τις`/`τι` scope clause; πᾶς being no negative settles only that rules 41 and 59 cannot empty the negator.
+- **1JN.2.3** — ἐν τούτῳ rendered by a transparent deictic compound — *hereby*, *herein* — is `aligned` under rule 35, the second element realizing the preposition. Rule 45's `μετὰ ταῦτα` → *hereafter* is not the model: that compound has lexicalized past both tokens.

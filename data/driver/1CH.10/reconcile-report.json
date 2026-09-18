@@ -1,0 +1,28 @@
+{
+  "chapter": "1CH.10",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "נֹשֵׂא כֵלִים → armorbearer (10.4 twice, 10.5): the construct chain fuses into the one English word under rule 30; both lexemes are written in it, so the head is the construct נֹשֵׂא under rule 23; the 3ms suffix takes 'his' separately.",
+    "הַר גִּלְבֹּעַ → mount Gilboa (10.1, 10.8): attributive rendering under rule 28; הַר takes 'mount', the name takes 'Gilboa', and no 'of' is placed.",
+    "1CH.10.11 is a temporal protasis ('And when all Jabesh-gilead heard…') whose apodosis is the whole of 1CH.10.12. The waw opening 10.11 takes 'And when' as one rendering (rule 55, head 'And'); the waw opening 10.12 is the apodosis waw for which the ASV writes no connective and is unrepresented (rule 14). Neither verse is short of anything.",
+    "הַמּוֹרִים בַּקָּשֶׁת → the archers: the participle, the preposition and קֶשֶׁת share one unit headed on the participle (rules 30, 40), because 'archers' alone carries the shooting, the instrument relation and the bow. The assimilated article on the bow stays outside the fusion as its own unrepresented unit, since 'archers' says nothing of the bow's determination (as the article of דִּבְרֵי הַיָּמִים → chronicles does). The bare הַיּוֹרִים later in the verse is article + participle as usual.",
+    "Phrasal particles in this chapter stay with the verb under rule 44's clause-level reading: 'fell down' (10.1, falling is downward) and 'took away' (10.12, the removal is what the clause narrates, נָשָׂא being carry/bear rather than mere taking). The competing reading that marks the particle added is named in each unit's note; 'thrust through' (10.4) is not in question, since the particle completes the lexeme of דָּקַר."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 26 candidate lemmas. Every difference is licensed by the ASV's own English: waw takes whichever connective is written (Now, Then, But, Therefore, So, when, that, And when) and is unrepresented only at the three bare apodoses (10.5, 10.7, 10.12); the two aligned object markers in 10.9 are the first-family case (carry the tidings unto/to); the Td→Aampa pair is not a split, since 10.4's articles sit beside a demonstrative that takes 'these' (rule 41) while 10.8's takes a written 'the'.",
+    "Recurring constructions are analysed identically wherever they recur: נֹשֵׂא כֵלִים → armorbearer fused and headed on the construct (10.4 twice, 10.5); הַר גִּלְבֹּעַ → mount Gilboa (10.1, 10.8); the possessive written in the article's place on 'his sword' (10.4, 10.5); כָּל־אִישׁ → all the men (10.7, 10.12); דָּרַשׁ/שָׁאַל בְּ → 'of' on the written בְּ (10.13, 10.14).",
+    "The 10.3 three-morpheme unit (מוֹרִים בַּקָּשֶׁת → archers) was inspected: rule 40's fusion clause and rule 30's one-rendering condition are met, the assimilated article correctly stands outside as in דִּבְרֵי הַיָּמִים → chronicles, and the competing split is named in the note. Left as accepted.",
+    "The seven BSB disagreements are all convention: two articles absorbed by a demonstrative (10.4), a בְּ silenced by 'abuse me' (10.4), three apodosis waws the ASV leaves unconnected (10.5, 10.7, 10.12) and one bare object marker (10.12). None is an error.",
+    "No patches. Conventions recorded for the chapter's recurring judgments, including the cross-verse protasis/apodosis split between 10.11 and 10.12. No rule promoted: the archers fusion is already covered by rules 30 and 40 and no corpus precedent for it was supplied."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "3899de751594bb24a41e44f0e1dfa9c55cb1ef89b7cbf1d18423beea19a3ed2b",
+  "contract_version": "ot-hebrew-verse-v84",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Coverage verified: all 8 source and all 9 target tokens are partitioned exactly once, and every head is a member of its own array.",
+    "The supplied the on דְּבַר is correctly placed under rule 29: no article morpheme stands anywhere in the chain (the rectum is a bare divine name), so the construct noun takes the ASV's single the.",
+    "וַיְהִי is the clause's own verb rather than rule 45's presentative frame, since the ASV writes came for it and no complementizer that follows; the לְ of לֵאמֹר is unrepresented under rule 27."
+  ],
+  "ref": "EZK.15.1",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

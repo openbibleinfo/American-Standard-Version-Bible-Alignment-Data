@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "afd471ddd798062ec700dd5d1cccf2c139b84fd0571d9b0403e111c5d2bfaf78",
+  "contract_version": "ot-hebrew-verse-v208",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Checked the whole partition: all 18 source ids and all 22 target ids are covered exactly once, with no invented ids.",
+    "Superscription aligned as ordinary source text. `שִׁיר` takes *A Song* with the indefinite article under rule 15, and the article on `מַעֲלוֹת` is `unrepresented` under rule 29's closing sentence, since the ASV writes no *the* for the phrase at all; nothing is fronted, because the phrase's only determiner is the *A* standing before the construct's own word.",
+    "The two *ye*s are allocated by position under rule 36, which is settled here rather than a tie: t007 stands immediately after the imperative and is `בָּרַךְ`'s subject pronoun, t010 stands immediately before the vocative noun and is `עֶבֶד`'s. This is exactly rule 36's `הַלְלוּהוּ כָּל־כּוֹכְבֵי אוֹר` → *Praise him, all* ***ye*** *stars of light* pattern, with the ASV here writing one pronoun for each morpheme.",
+    "`הָעֹמְדִים` is split under rule 41: the attributive article takes the relative *That* the ASV wrote in place of a *the*, and the participle keeps its own *stand*, the two standing apart because the ASV fronts `בַּלֵּילוֹת` between them (rule 25).",
+    "`כֹּל` keeps only its own *all*: the ASV writes no *of* between *all* and *servants*, so rule 19's quantifying-construct *of* does not arise, and the written *of* at t012 is the relation between `עַבְדֵי` and `יְהוָה`.",
+    "`בֵית` takes a supplied *the* under rule 29 because no article morpheme stands in that chain, while the assimilated `[הַ]` of `בַּלֵּילוֹת` is `unrepresented` under rules 12 and 29, the ASV writing *by night* bare."
+  ],
+  "ref": "PSA.134.1",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

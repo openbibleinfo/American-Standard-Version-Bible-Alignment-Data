@@ -1,0 +1,227 @@
+{
+  "alignments": [
+    {
+      "note": "A supplied definite article belongs to the nominal expression it determines (rule 15). 'young lions' has both halves of כְּפִיר's lexeme, so the tie is broken by English syntax onto the noun (rules 31, 24).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Verb with auxiliary.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Suffix (rule 18).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "The second clause is asyndetic in Hebrew — no waw stands before נָתְנוּ — so the supplied 'and' answers to no morpheme (rules 42, 55).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The idiom נָתַן קוֹל is rendered by the single word 'yelled', so the contiguous verb and its complement share one unit headed on the lexeme-bearing noun (rules 30, 44). The ASV footnote 'given out their voice' confirms the idiom.",
+      "source": [
+        "s005",
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "'yelled' carries nothing for the suffix (rule 22).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Conjunction (rule 14).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Verb with subject pronoun and auxiliary (rule 17).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Suffix (rule 18).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "The resultative is recast as a bare object complement ('made his land waste'), leaving the preposition nothing (rules 21, 40).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Suffix (rule 18).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Niphal verb with copula and particle; head on the lexical verb (rules 24, 44).",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020",
+        "t021"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "מִבְּלִי rendered by the single word 'without'; the two contiguous morphemes fuse, headed on the one carrying the privative lexeme (rule 30).",
+      "source": [
+        "s017",
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Participle used substantivally with no supplied English beyond its own word (rule 46).",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    }
+  ],
+  "ref": "JER.2.15",
+  "review_notes": [
+    "Variant WLC.JER.2.15.v001 is underdetermined and resolved to r00-base for s016; the ASV's 'are burned up' is compatible with the projected reading, so no ketiv/qere consequence arises under rule 53."
+  ]
+}

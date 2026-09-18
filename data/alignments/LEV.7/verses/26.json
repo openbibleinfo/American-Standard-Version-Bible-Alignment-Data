@@ -1,0 +1,196 @@
+{
+  "alignments": [
+    {
+      "note": "Conjunction waw takes the ASV's coordinating And (rule 14).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb with its subject pronoun and auxiliary (rule 17).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The single English no carries both the quantification and the negation, so kol and lo share one unit across the intervening noun and verb (rules 25, 30 and 35), headed on the negative, which is what distinguishes no from all. This is rule 35's own wekol-melakhah lo taasu case and matches the treatment of the same pair at LEV.7.23. Splitting them, with no on lo and manner on kol, was the competing reading and is what the accepted alignment took.",
+      "source": [
+        "s002",
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The noun keeps its own English together with the generic manner the ASV supplies to expand it (rules 31 and 35), and the of between the two nouns is the chain's own relation on the rectum (rule 19); head on blood, which carries the lexeme.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The ASV renders this one waw by the correlative pair whether ... or, so both English words belong to the waw's single discontinuous unit, headed on the closing connective (rule 14, with rule 25 for the discontinuity). Both lameds hold English words of their own, so neither has a claim on whether.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "The preposition heads the predicate phrase, so it carries the construction-supplied copula it be, headed on the preposition (rule 49).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Assimilated article with no the written for it (rules 12 and 29).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Preposition rendered of.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Assimilated article with no the written (rules 12 and 29).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "kol rendered any; its rectum takes the of (rule 19).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Rectum takes the relational of, headed on the noun (rule 19); unit discontinuous around the possessive (rule 25).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Possessive suffix (rule 18).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    }
+  ],
+  "ref": "LEV.7.26",
+  "review_notes": [
+    "kol and lo now share one discontinuous unit on the single no, headed on the negative, as LEV.7.23 already reads the same pair (rules 25, 30 and 35).",
+    "manner of blood goes whole to dam, headed on blood, which is what rule 35 does with manner of work in its own example; the of is still the chain's own relation on the rectum, so nothing moves back to kol.",
+    "The verse's two earlier corrections stand: the relational of stays on the rectum rather than inside an English quantifier, and the correlative whether ... or stays on the single waw of laoph welabbehemah, headed on or (rule 14).",
+    "All 16 source and 21 target ids remain partitioned exactly once; the only units with an empty side are the two unrepresented assimilated articles."
+  ]
+}

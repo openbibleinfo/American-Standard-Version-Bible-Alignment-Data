@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "7f07532656ab4f4970f983f8416581d30d6d2c1272199595eb6351db02b34f6c",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Unchanged from the accepted alignment: all 13 units verified against the token table and the contract, and no unit was altered.",
+    "Partition checked directly: s001–s013 each appear in exactly one unit, and t001–t016 each appear exactly once (t001+t004 / t003 / t002 / t005 / — / t007 / t006 / t008 / t009 / t010 / t011+t012 / t013 / t014+t015+t016). Every head is a member of its own array, and the one unrepresented unit has an empty target and a null target head.",
+    "s005 is the only unrepresented unit and the reading is rule 20 proper, not rule 23: a free genitive pronoun occupies the determiner slot, so the article realizes nothing. The contrast within the verse is s009 and s011, where no possessor competes and each article keeps its own *the* under rules 19 and 21.",
+    "s013's head is the one place a materially different reading was weighed. Rule 71's precedent is stated for the improper preposition ἐγγύς rather than for the verb ἐγγίζω, so it does not govern this unit directly; the route is rule 91's operational test (with rule 104's root-family query), which points at the same ἐγγ- material and returns *hand* unbroken. Rule 17 independently rejects *is*, the finite auxiliary, and *at*, the prepositional word, in favour of the meaning-bearing complement.",
+    "s001 keeps *Be* and *patient* together across the intervening s003 and s002 targets under rule 15; splitting the copula off would strand a helper from the word licensing it, contrary to rule 27."
+  ],
+  "ref": "JAS.5.8",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

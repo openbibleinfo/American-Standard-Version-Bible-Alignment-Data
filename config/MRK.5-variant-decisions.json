@@ -1,0 +1,505 @@
+{
+  "schema_version": 1,
+  "chapter": "MRK.5",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.MRK.5.1.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 5:1 reads 'the country of the Gerasenes', transliterating Γερασηνῶν rather than Γαδαρηνῶν ('Gadarenes')."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.2.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Genitive absolute vs. dative participle is a Greek construction difference; ASV 'And when he was come out of the boat' renders either identically."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.2.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "εὐθύς/εὐθέως are orthographic variants both rendered 'straightway', and ὑπήντησεν/ἀπήντησεν both 'there met him'; the English distinguishes neither."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.3.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 5:3 'could any more bind him, no, not with a chain' renders οὐκέτι ('any more'), which the RP reading lacks, and the singular ἁλύσει rather than plural ἁλύσεσιν."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.4.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Pure transposition of ἴσχυεν and αὐτόν; ASV 'no man had strength to tame him' cannot show Greek word order."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.5.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 5:5 'in the tombs and in the mountains' follows the base order μνήμασιν … ὄρεσιν, not the RP transposition 'in the mountains and in the tombs'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.6.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Connective καί vs. postpositive δέ with the same participle; ASV's sentence-initial 'And when he saw' renders either conjunction."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.6.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Accusative vs. dative object of προσεκύνησεν; ASV 'worshipped him' renders both, and the attached note concerns the sense of the Greek verb, not the case."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.7.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 5:7 'he saith' is a present, rendering λέγει; the aorist εἶπεν would be 'he said'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.9.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Transposition of ὄνομά and σοι; ASV 'What is thy name?' cannot show it."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.9.v011",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 5:9 'And he saith unto him' renders λέγει αὐτῷ; the RP reading ἀπεκρίθη λέγων would give 'he answered, saying', which the ASV does not have."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.9.v012",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Λεγιών/Λεγεών is a spelling variant of the same name; ASV 'Legion' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.10.v013",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Neuter αὐτά vs. masculine αὐτούς; English 'them' carries no gender."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.12.v014",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 5:12 'And they besought him, saying' has no rendering of the RP addition πάντες οἱ δαίμονες ('all the demons'), which the ASV would have had to translate."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.13.v015",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 5:13 'And he gave them leave' lacks any rendering of the RP addition εὐθέως ὁ Ἰησοῦς ('straightway Jesus'), and keeps the pronoun subject."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.13.v016",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 5:13 gives the number as an appositional phrase, 'in number about two thousand', not as the separate finite clause ἦσαν δέ ('and they were about two thousand')."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.14.v017",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Connective καί vs. postpositive δέ; ASV's 'And they that fed them fled' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.14.v018",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 5:14 'they that fed them' renders the pronoun αὐτούς; the RP reading τοὺς χοίρους would give 'they that fed the swine'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.14.v019",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἀπήγγειλαν and ἀνήγγειλαν differ only in prefix and are both rendered 'told it'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.14.v020",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 5:14 'And they came to see' renders the simple ἦλθον; the compound ἐξῆλθον would be 'went out' / 'came forth'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.15.v021",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 5:15 'sitting, clothed and in his right mind' has no conjunction between 'sitting' and 'clothed', so it does not render the RP καί added after καθήμενον."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.15.v022",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "λεγιῶνα/Λεγεῶνα is a spelling variant; ASV 'the legion' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.16.v023",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Connective καί vs. postpositive δέ; ASV 'And they that saw it declared' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.18.v024",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 5:18 'And as he was entering into the boat' renders the present participle ἐμβαίνοντος; the aorist ἐμβάντος would be 'when he had entered'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.18.v025",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Transposition of μετ᾽ αὐτοῦ and ᾖ; ASV 'that he might be with him' cannot show it."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.19.v026",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 5:19 'And he suffered him not' keeps a pronoun subject and does not render the RP explicit subject ὁ Ἰησοῦς."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.19.v027",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἀπάγγειλον and ἀνάγγειλον differ only in prefix and are both rendered 'tell them'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.19.v028",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Transposition of ὁ κύριος and σοι; ASV 'how great things the Lord hath done for thee' cannot show Greek order."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.22.v029",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 5:22 'And there cometh one of the rulers of the synagogue' has no 'behold', so it does not render the RP addition ἰδού."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.23.v030",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 5:23 'and beseecheth him much' is a present, matching παρακαλεῖ and the historic present 'there cometh' of v. 22; the imperfect παρεκάλει would be 'was beseeching'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.23.v031",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Transposition of τὰς χεῖρας and αὐτῇ; ASV 'lay thy hands on her' cannot show it."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.23.v032",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἵνα and ὅπως are both rendered by the purpose 'that she may be made whole'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.23.v033",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Aorist subjunctive ζήσῃ vs. future ζήσεται, both inside the same 'that … and live' clause; the ASV wording distinguishes neither."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.25.v034",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 5:25 reads 'And a woman'; the ASV renders the indefinite τις as 'a certain', so the RP addition is not represented."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.25.v035",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Transposition of δώδεκα and ἔτη; ASV 'twelve years' cannot show Greek order."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.27.v036",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 5:27 'having heard the things concerning Jesus' renders an articular τὰ περὶ τοῦ Ἰησοῦ with 'the things' set in roman, not as an italicized supply."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.28.v037",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "The candidates differ by transposition and by the bracketing of τῶν ἱματίων; ASV 'If I touch but his garments' renders the same words in English order and settles neither."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.29.v038",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "εὐθύς/εὐθέως is an orthographic variant; ASV 'And straightway' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.30.v039",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "εὐθύς/εὐθέως is an orthographic variant; ASV 'And straightway Jesus' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.33.v040",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Bare dative vs. ἐπί with the dative after γέγονεν; ASV 'what had been done to her' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.34.v041",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Nominative-for-vocative Θυγάτηρ vs. vocative θύγατερ; English 'Daughter' as address is the same for both."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.36.v042",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 5:36 'not heeding the word spoken', with the margin 'Or, overhearing', renders παρακούσας; the RP εὐθέως ἀκούσας would give 'straightway hearing' and no such margin."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.37.v043",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'to follow with him' can render μετ᾽ αὐτοῦ or the dative αὐτῷ governed by the συν- prefix of συνακολουθῆσαι."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.37.v044",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Presence or absence of the Greek article before ἀδελφόν; English 'the brother of James' requires its own article either way."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.38.v045",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 5:38 'And they come to the house' renders the plural ἔρχονται; the singular ἔρχεται would be 'he cometh'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.38.v046",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 5:38 'and he beholdeth a tumult' has the connective 'and', which the RP asyndeton omits."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.40.v047",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Emphatic αὐτὸς δέ vs. articular ὁ δέ as subject; ASV 'But he, having put them all forth' renders both as a plain pronoun."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.40.v048",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 5:40 'where the child was' has no participle 'lying', so it does not render the RP addition ἀνακείμενον."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.41.v049",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 5:41 transliterates 'Talitha cumi' with a final vowel, matching κοῦμι; κουμ would give 'cum'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.41.v050",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἔγειρε vs. ἔγειραι are alternative imperative forms of the same verb, both rendered 'Arise'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.42.v051",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "εὐθύς/εὐθέως is an orthographic variant; ASV 'And straightway the damsel rose up' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.5.42.v052",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 5:42 'And they were amazed straightway with a great amazement' renders the second εὐθύς, which the RP reading omits."
+    }
+  ]
+}

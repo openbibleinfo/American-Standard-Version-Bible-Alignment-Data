@@ -1,0 +1,7 @@
+# 2 Chronicles 19 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **2CH.19.11** — Hendiadys of two imperatives rendered by one English verb phrase: חִזְקוּ וַעֲשׂוּ → 'Deal courageously' gives 'Deal' to עֲשׂוּ, 'courageously' to חִזְקוּ (the verb whose contribution the ASV writes as an adverb, rule 56), and leaves the waw between them unrepresented (rule 56 closing sentence). This is the same division 2CH.19.4 makes for וַיָּשָׁב וַיֵּצֵא → 'he went out again'. The competing reading — all three morphemes as one noncompositional unit — was considered and set aside because each verb holds a word of its own.
+- **2CH.19.6** — A generic construct head דְּבַר fuses with its rectum where the ASV writes one word for the pair (בִּדְבַר מִשְׁפָּט → 'in the judgment', rule 30, headed on מִשְׁפָּט), and keeps its own word where the ASV writes one (לְכֹל דְּבַר־יְהוָה → 'in all matters of Jehovah', 2CH.19.11). The ASV margin 'in the matter of judgment' corroborates the fusion and decides nothing (rule 38).
+- **2CH.19.6** — The supplied subject 'he' of 'and he is with you in the judgment' resumes יְהוָה written earlier in the verse and joins the name's discontinuous unit (rule 25), headed on 'Jehovah'; the copula 'is' goes to the prepositional predicate עִם (rule 49). The competing reading marks 'he' added.

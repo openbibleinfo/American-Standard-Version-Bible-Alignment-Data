@@ -1,0 +1,170 @@
+{
+  "alignments": [
+    {
+      "confidence": "high",
+      "note": "The purpose conjunction is realized by “that.”",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "confidence": "high",
+      "note": "The negative particle is realized by “no.”",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "confidence": "high",
+      "note": "The inflected passive verb is expanded as “advantage may be gained over us”; “advantage” carries the lexical sense, while the modal, passive auxiliary, and first-person reference are licensed helpers.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005",
+        "t006",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "confidence": "high",
+      "note": "The Greek preposition is realized by “by.”",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "confidence": "high",
+      "note": "The article before the name Satan has no English realization.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "The name corresponds directly to “Satan.”",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "confidence": "high",
+      "note": "The negative particle is realized by “not.”",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "confidence": "high",
+      "note": "The explanatory conjunction is realized by “for.”",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "confidence": "high",
+      "note": "The genitive pronoun is realized as the possessive “his.”",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "confidence": "high",
+      "note": "The article's determiner slot is displaced by the possessive supplied by αὐτοῦ.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "The noun corresponds directly to “devices.”",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "confidence": "high",
+      "note": "The inflected verb is rendered by the adjectival predicate “we are ignorant of”; “ignorant” is the lexical anchor, with the subject, copula, and complement preposition as licensed helpers.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013",
+        "t015",
+        "t016"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "2CO.2.11",
+  "review_notes": [
+    "All 12 source IDs and all 18 target IDs are partitioned exactly once.",
+    "Both Greek articles were audited separately: the article before Satan is unrealized, and the article before νοήματα is displaced by αὐτοῦ.",
+    "Lexical predicate heads were chosen over auxiliaries: “advantage” for πλεονεκτηθῶμεν and “ignorant” for ἀγνοοῦμεν."
+  ]
+}

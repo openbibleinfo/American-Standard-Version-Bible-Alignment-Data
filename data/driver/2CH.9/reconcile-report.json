@@ -1,0 +1,26 @@
+{
+  "chapter": "2CH.9",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2CH.9.13"
+  ],
+  "rejected": {},
+  "conventions": [
+    "The title הַמֶּלֶךְ שְׁלֹמֹה rendered 'king Solomon' leaves its article its own unrepresented unit (9.9, 9.12, 9.15, 9.20, 9.22); where the ASV writes 'the king' alone the article takes the 'the' as usual.",
+    "מִזֶּה וּמִזֶּה follows the ASV's word count: one noncompositional unit headed on the first מִן where the ASV writes 'on either side' (9.18), and five units — each מִן → 'on', each זֶה taking 'the one side' / 'the other', the waw 'and' — where it writes a word for each member (9.19)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v218",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 55 candidate groups end to end. One genuine split: 2CH.9.13 מִשְׁקַל הַזָּהָב → 'the weight of gold' gave the phrase's single 'the' to the construct and left the rectum's article unrepresented, while 9.11 (עֲצֵי הָאַלְגּוּמִּים → 'the algum trees') and 9.25 (עָרֵי הָרֶכֶב → 'the chariot cities') front the same anarthrous-rectum 'the' onto the article under rule 29. Patched 9.13 so the article takes 'the' and מִשְׁקַל keeps 'weight'.",
+    "Everything else in the table is the ASV rendering one word differently: the waw connectives (And/Now/So/Moreover/Howbeit/therefore/even/with/also/that) each answer to a word the ASV wrote; 'And when' pairs in 9.1 and 9.3 both head on the coordinator; both apodosis waws in 9.1 and the one in 9.4 are unrepresented on the same terms; 'king Solomon' leaves its article unrepresented in 9.9, 9.12, 9.15, 9.20, 9.22 alike; מִלְּבַד (9.12) and לְבַד מִן (9.14) both fuse to 'besides' headed on בַּד; מִזֶּה וּמִזֶּה is one noncompositional 'on either side' in 9.18 and split in 9.19 because there the ASV writes a word for each morpheme; the two כְּ+pronoun → 'such' fusions (9.9, 9.11) head on the preposition alike; לַ → 'there were to' (9.18) and לַ → 'had' (9.21) follow the ASV's two frames under rules 49 and 43.",
+    "BSB disagreements: the 9.13 article was the one genuine error and is fixed. The rest are documented conventions — unrendered apodosis waws (rule 14), datives and comparative prepositions the recasting silences (rules 40, 30), articles the ASV writes no 'the' for (rule 29), and the resumptive object suffix of 9.25 carried by the relative (rule 22).",
+    "No contract promotion or amendment: the fix applies rule 29 as written, and the chapter's other judgments are ordinary applications. Two chapter conventions recorded so the repeated notes have a home."
+  ]
+}

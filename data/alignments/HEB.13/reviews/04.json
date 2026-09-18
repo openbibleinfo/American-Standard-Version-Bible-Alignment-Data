@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "0295d33129154c0fcf07ed69e17a63038da77713aa3e1adf88c91b0822ec48b8",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: s001-s016 and t001-t021 each occur exactly once; every head is a member of its own array and every unrepresented unit has an empty target with a null target head.",
+    "Both verbless clauses are handled alike under rules 24 and 53: the supplied *Let ... be had in* rides with the predicate adjective τίμιος and *let ... be* with ἀμίαντος, not with the subject nouns γάμος and κοίτη. The ASV's word order (*Let marriage be*) is exactly the reading rule 53 refuses, and rule 63's noun-phrase exception does not reach an adjectival predicate.",
+    "Head on *honor* for τίμιος is right under rule 17's support-phrase clause and rule 91's operational test: *had* is the empty support verb and the corpus spends no *had* on this lexeme. t005 *in* stays inside that unit because ἐν is already spent on *among* (rule 36), so no source token competes for it.",
+    "ἐν πᾶσιν is correctly split rather than joined: rule 94 makes a compound prepositional unit available only where the ASV writes a single English word, and *among all* is two.",
+    "The three article decisions check out: ὁ γάμος and ὁ θεός are `unrepresented` under rule 23 (the ASV writes both nouns bare, and no possessive, demonstrative or indefinite determiner is in play for rules 20, 51 or 60), while ἡ κοίτη keeps its *the* under rule 19, each split from its noun under rule 13."
+  ],
+  "ref": "HEB.13.4",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

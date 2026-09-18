@@ -1,0 +1,30 @@
+{
+  "chapter": "EZK.44",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "EZK.44.19"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Rule 30 fusions of several morphemes into a single English word are recorded aligned in this chapter, not noncompositional: therein at 44.3 and 44.14, theirs at 44.29, wherein at 44.19. The chapter carries no noncompositional unit. This is recorded as a chapter judgment rather than proposed as a contract ruling because the corpus is genuinely divided on the neighbouring case - therein runs 33 aligned against 26 noncompositional - while for the relative-plus-preposition wherein it shows 20 aligned units of the identical shape and no noncompositional one among the commonest treatments.",
+    "The divine-speech formula is divided the same way in all five of its occurrences (44.6, 44.9, 44.12, 44.15, 44.27): adon takes the supplied the with its own noun under rule 15, its lexicalized 1cs suffix is unrepresented because the ASV writes no possessive for it, YHWH takes Jehovah, and where the formula is introduced by neum that noun takes the finite saith. BSB represents the suffix, which is the documented convention difference and not an error.",
+    "The compound me-alay is divided by rule 40 in all three of its occurrences (44.10 twice, 44.15): min takes the single written from and al is unrepresented, since the ASV spends no English word on what al contributes. The pair is not fused under rule 30, because from renders min alone while al's own sense is dropped, which is the split rule 2 requires."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v79",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 58 candidate lemma groups, plus the full dump read end to end for the added-versus-folded asymmetries the lemma table is blind to. One real split: EZK.44.19 records the one-English-word fusion wherein as noncompositional, while the chapter's three other rule 30 fusions are aligned - therein at 44.3 (s007+s008) and 44.14 (s018+s019), theirs at 44.29 (s017+s018). Nothing in the source licenses that difference; indivisibility is a property of the English word, and wherein is no more indivisible than therein. Corrected to aligned, so the chapter now carries no noncompositional unit.",
+    "Corpus basis for the correction: LEMMA=be shows 20 aligned units of the identical shape (Tr+R+Sp -> wherein, e.g. 1KI.13.31 asher bo, 1KI.8.36 asher bah) and no noncompositional wherein among the commonest treatments. The neighbouring case is genuinely divided in the corpus - therein runs 33 aligned against 26 noncompositional - which is why this is recorded as a chapter convention and not promoted to the contract.",
+    "The unit's membership is left as accepted: asher + be in the fusion, with the resumptive suffix s026 unrepresented under rule 22. The competing reading, which the 20 corpus units take, folds s026 into the fusion; it is named in the unit's note under rule 8 rather than imposed, since rule 22 covers a resumptive the ASV renders once and the accepted edge is defensible on its own terms. That reading would also close the BSB disagreement on WLC.EZK.44.19.026, which is a side effect and not the motive.",
+    "Candidates checked and rejected as source-licensed rather than splits: the appositional even (44.7 has a marker standing on the very phrase and takes it; 44.6 and 44.19 have none, so the word is added - both verses already carry Corrected review notes); me-alay, with min taking from and al unrepresented (44.10 twice, 44.15); the haya family (rule 43 have in 44.18/44.25/44.28, rule 21 resultative le unrepresented in 44.12/44.28, one-word fusion theirs in 44.29 against a written for in 44.30); the sharet object division (the marker takes the preposition in 44.5 and 44.12 under rule 16, the verb takes it in 44.11, 44.15 and 44.16 under rule 44, exactly as the presence or absence of a marker requires); the two-article he-hatser phrases under rule 47 in 44.17, 44.19, 44.21 and 44.27; derek taking a supplied by under rule 33 where no preposition stands (44.1, 44.4) against min taking it where one does (44.3).",
+    "Supplied-word rulings are coherent across the chapter and no further added unit is owed: the difference at 44.23 is a whole supplied object noun with no Hebrew word inside it and no morpheme free to carry it, ben already holding its between; whereas anything that causeth sweat at 44.18 and that dieth of itself at 44.31 are rule 31 expansions of a substantive whose lexeme sits inside the phrase, and execute the office of priest at 44.13 completes the denominative verb's own lexeme. Their at 44.20 is added because pera carries no suffix, against the suffixed their heads and their loins at 44.18.",
+    "BSB: none of the 39 disagreements is a genuine error. The Td, R, To, Sp1cs and Sn recurrences are the documented convention difference, BSB attaching articles, prepositions, object markers, the Adonai suffix and the paragogic nun to their phrases; the two Sp2ms tokens in 44.5 follow from reading sim leb as a rule 30 fusion, whose competing split reading that verse already names; the 44.10 waw is genuinely unrepresented, the ASV writing no connective at the apodosis head; the 44.29 suffix is resumptive of the fronted objects under rule 22.",
+    "Conventions: three recorded, none of them a restatement. Promotions and amendments: none. The one candidate that generalises - a contract ruling on the status of rule 30 fusions - is contradicted by the corpus itself (therein 33 aligned against 26 noncompositional, first 4 against 4), and a rule the corpus contradicts is worse than none. The whether ... or of 44.31, given to the first min on rule 14's correlative reasoning, rests on a single hedged unit whose competing reading is already recorded, so it stays a verse-level judgment."
+  ]
+}

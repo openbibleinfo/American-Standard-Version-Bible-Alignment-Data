@@ -1,0 +1,164 @@
+{
+  "alignments": [
+    {
+      "note": "Participial predicate with supplied copula riding as a helper; head on Blessed.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Article → the under rule 19; the noun it governs is expressed, so it takes only the determiner.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Attributive participle rendered as a finite relative clause; the relativizer is its helper under rule 31, an expressed head noun standing before it.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "βασιλεία → kingdom.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The ASV repeats the antecedent after the relative clause; βασιλεία is already spent on t004 and no article of the repeated phrase's own governs it, so rule 103 marks the repetition added with its supplied determiner inside the unit, as GAL.3.20 and 2CO.3.7 do. Reading it as a discontinuous second realization of βασιλεία under rule 15 remains defensible.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The determiner slot is occupied by our, which ἡμῶν writes: rule 20 empties the article and of stays with the noun.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Discontinuous of … father under rule 15; the case preposition rides with the noun since no determiner stands on the article.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Genitive pronoun carries the possessive under rule 20.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Name in apposition.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Transliterated Hosanna.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "ἐν → in.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Article → the.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Substantival superlative → highest.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "MRK.11.10",
+  "review_notes": [
+    "The starred the* kingdom* is a repeated antecedent, marked added under rule 103; the note names the competing rule 15 reading."
+  ]
+}

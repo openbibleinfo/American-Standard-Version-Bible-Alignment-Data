@@ -1,0 +1,29 @@
+{
+  "chapter": "NEH.10",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Offering compounds head on the word carrying the lexeme rather than 'offering(s)'/'things': מנחה → meal, עלה → burnt, חטאת → sin, תרומה → heave, קדשים → holy (10.33, 10.37, 10.39). Where the ASV's modifier is a specifier on a noun that already names the thing, the head stays on the noun: חדשים → new moons on 'moons', מועדים → set feasts on 'feasts', תירוש → new wine on 'wine' (10.33, 10.37, 10.39). The competing head is named in each note.",
+    "'first fruits' is headed by lemma: בכורים heads on 'fruits' (10.35), because the ASV writes 'fruit' alone for פרי in the same verse and rule 31's tie-break makes 'fruits' the class noun; ראשית heads on 'first' (10.37), because dropping 'first' loses that lexeme and 'fruits' is the supplied generic. The two verses are not in conflict.",
+    "The subject of the participial clause opening 10.29 (מחזיקים 'they clave') is the list of 10.28; under rule 10 nothing carries across the verse, so the ASV's 'they' is added in 10.29, while in 10.37 the same 'they' is the written הם. A participle the ASV renders as a finite verb takes no article rendering (10.31 s005, 10.37 s036) and no subject pronoun of its own."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v218",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 35 candidate lemmas against the verses. No construction is analysed two ways: article treatment follows rule 29/41/47 uniformly (fronted 'the' to an arthrous rectum rendered anarthrously in 10.28, 10.29, 10.33, 10.34, 10.38, 10.39; supplied 'the' on constructs with no article morpheme; unrepresented where the ASV writes 'a', a bare noun, or a possessive 'God's').",
+    "Predicate participles the ASV renders as finite verbs leave their article unrepresented (10.31 המביאים 'bring', 10.37 המעשרים 'take the tithes'); attributive participles take 'that' (10.36, 10.39 'the priests that minister'). Licensed by the construction, not a split.",
+    "Waw + subordinator pairs are consistent: 'and if'/'and that' go whole to the waw under rule 55 (10.31 x2, 10.37); a 'that' over a clause with no conjunction is added (10.31 t019); a written אשר takes its own 'that' (10.30).",
+    "Quantifier chains are consistent across 10.31, 10.35, 10.37: the 'of' before כל belongs to כל as the rectum of the preceding construct, and 'manner' joins כל as a supplied generic.",
+    "'first fruits' heads on 'fruits' for בכורים (10.35, rule 31 tie-break: 'fruit' is written alone for פרי in the verse) and on 'first' for ראשית (10.37, where the subtraction does not tie). Different lemmas, not a split.",
+    "10.39 ושם → 'where are' with the waw unrepresented follows rule 17's explicit-pronoun pattern (relative word realizes a present morpheme, waw left nothing); the fusion alternative is named in the note. Left as accepted.",
+    "BSB disagreements: seven Td tokens where the ASV writes no 'the' (indefinite 'a shekel', bare 'wares'/'lots', possessive 'God's', finite-verb recasting of participles), the second infinitival ל of 10.29 with no 'to' written, the על of 10.32 recast as 'charge ourselves', three object markers, and the 10.39 waw above. All convention; none a genuine error.",
+    "No promotions or amendments: the chapter applies existing rules and teaches nothing the contract lacks."
+  ]
+}

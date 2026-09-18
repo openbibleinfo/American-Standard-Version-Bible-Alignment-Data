@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "chapter": "REV.4",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.REV.4.2.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV begins directly with 'Straightway', supporting base εὐθέως rather than RP Καὶ εὐθέως."
+    },
+    {
+      "unit_id": "SBLGNT.REV.4.3.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV 'and he that sat' directly represents καὶ ὁ καθήμενος, which RP omits."
+    },
+    {
+      "unit_id": "SBLGNT.REV.4.3.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV 'like an emerald to look upon' directly represents base ὅμοιος ὁράσει σμαραγδίνῳ."
+    },
+    {
+      "unit_id": "SBLGNT.REV.4.4.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "ASV 'thrones' does not distinguish nominative θρόνοι from accusative θρόνους in this verbless construction."
+    },
+    {
+      "unit_id": "SBLGNT.REV.4.4.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV has no second determiner in 'upon the thrones I saw four and twenty elders', supporting the base without RP's added τοὺς."
+    },
+    {
+      "unit_id": "SBLGNT.REV.4.4.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV 'arrayed in white garments' directly represents base ἐν, omitted by WH."
+    },
+    {
+      "unit_id": "SBLGNT.REV.4.5.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "ASV relative 'which' excludes RP's added αὐτοῦ ('his') but does not distinguish neuter ἅ from feminine αἵ."
+    },
+    {
+      "unit_id": "SBLGNT.REV.4.5.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV 'the seven Spirits' directly represents base τὰ, omitted by RP."
+    },
+    {
+      "unit_id": "SBLGNT.REV.4.7.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "ASV 'had' does not preserve the masculine-versus-neuter participial form."
+    },
+    {
+      "unit_id": "SBLGNT.REV.4.7.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV 'a face as of a man' directly represents base τὸ πρόσωπον ὡς; RP lacks both the article and ὡς."
+    },
+    {
+      "unit_id": "SBLGNT.REV.4.8.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "ASV 'each one' is compatible with both καθ᾽ ἓν and ἕκαστον."
+    },
+    {
+      "unit_id": "SBLGNT.REV.4.8.v012",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV 'of them' directly represents base αὐτῶν, omitted by RP."
+    },
+    {
+      "unit_id": "SBLGNT.REV.4.8.v013",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "ASV 'having' does not preserve the masculine-versus-neuter participial form."
+    },
+    {
+      "unit_id": "SBLGNT.REV.4.9.v014",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "In the temporal clause, ASV 'shall give' does not securely distinguish future δώσουσιν from subjunctive δῶσιν."
+    },
+    {
+      "unit_id": "SBLGNT.REV.4.9.v015",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "ASV 'on the throne' can represent either dative τῷ θρόνῳ or genitive τοῦ θρόνου after ἐπί."
+    },
+    {
+      "unit_id": "SBLGNT.REV.4.11.v016",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV 'our Lord and our God' represents base ἡμῶν and has no 'the holy' corresponding to RP's addition."
+    },
+    {
+      "unit_id": "SBLGNT.REV.4.11.v017",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "ASV 'all things' is compatible with both τὰ πάντα and article-less πάντα."
+    }
+  ]
+}

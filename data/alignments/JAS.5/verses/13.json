@@ -1,0 +1,115 @@
+{
+  "alignments": [
+    {
+      "note": "Finite κακοπαθεῖ rendered by the discontinuous English predicate 'Is ... suffering'; rule 9 puts the head on the lexical verb rather than the auxiliary, and rule 15 permits the discontinuity across the intervening subject and prepositional phrase.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Indefinite τις → 'any'.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Preposition ἐν → 'among' under rule 36.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "ὑμῖν → 'you'.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Third-person imperative προσευχέσθω → 'let him pray'; the periphrastic imperative auxiliary 'let' and its subject 'him' are inflection-licensed helpers under rules 7 and 9, and rule 17 heads the unit on the lexical verb 'pray'. Rule 73 forbids splitting the bare 'let' off as a unit headed on itself.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Finite εὐθυμεῖ → 'Is cheerful'; the copular auxiliary is the verb's own helper under rule 9 and the head goes to the meaning-bearing word 'cheerful' under rule 17.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Second τις → the second 'any'; kept separate from the first occurrence under rule 2.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Third-person imperative ψαλλέτω → 'let him sing praise', with 'let him' as inflection-licensed helpers as at s005. Rule 91's test puts the head on 'sing': ψάλλω's own sense is to sing, so 'sing' is a real gloss of the lexeme rather than an empty support verb like the 'bear' of 'bear witness' or the 'make' of 'make known', and 'praise' is the supplied completion. Heading on 'praise' as the meaning-bearing complement of a light-verb rendering is the competing reading and remains defensible.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013",
+        "t014",
+        "t015"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "JAS.5.13",
+  "review_notes": [
+    "Reviewed unchanged: the accepted alignment partitions all eight s### and all fifteen t### ids exactly once, and every unit is aligned with nonempty arrays and heads drawn from their own arrays (rule 3). No unrepresented or added unit is needed, the ASV realizing each Greek token and supplying no lexical English that no token licenses.",
+    "Both questions are marked by inversion alone and no interrogative particle stands in the Greek, so rules 44 and 64 are not in play. The auxiliary 'Is' in each clause is its own finite verb's helper under rule 9 — κακοπαθεῖ's discontinuous 'Is ... suffering' and εὐθυμεῖ's copular 'Is cheerful' — and not a copula belonging to the indefinite subject; rule 53's word-order warning points the same way.",
+    "ἐν ὑμῖν is split into 'among' and 'you' under rules 2 and 36: the preposition has its own English word, so no compound unit is in question (rule 94's single-English-word precondition is not met).",
+    "The one live question is the s008 head. Rule 91's test is operational — which word the corpus already spends on ψάλλω — and it was not run here, the briefing carrying no corpus access. A later reader with the corpus should check the other ψάλλω units (EPH.5.19 ψάλλοντες, ASV 'making melody', is the nearest) before treating 'sing' as settled; if the corpus spends the complement word on that lexeme, the competing head on 'praise' gains weight. The unit note names that competing reading as rule 16 requires, so nothing is lost either way.",
+    "s006's head rests on the same test with no corpus attestation to consult: εὐθυμέω appears nowhere else in the aligned books, so 'cheerful' is taken as the lexeme's gloss and the supplied 'Is' as its copula, which is rule 104's neighbouring-class fallback reached by the plainest route."
+  ]
+}

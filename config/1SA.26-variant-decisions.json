@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "chapter": "1SA.26",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1SA.26.5.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere/ketiv differ only in the spelling of the 3ms suffix on the plural (plene סביבתיו vs defective סביבתו); ASV 'round about him' renders either identically and the verse's only note is alternative_rendering on 'barricade', which cannot decide a reading. Base qere fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.1SA.26.7.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere מראשתיו vs ketiv מראשתו is a plene/defective spelling of the same suffixed noun; ASV 'at his head' does not distinguish them and no note is mapped. Base qere fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.1SA.26.7.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere סביבתיו vs ketiv סביבתו is a plene/defective spelling of the same suffixed noun; ASV 'round about him' renders either identically and no note is mapped. Base qere fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.1SA.26.11.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere מראשתיו vs ketiv מראשתו is a plene/defective spelling of the same suffixed noun; ASV 'at his head' does not distinguish them and no note is mapped. Base qere fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.1SA.26.16.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere מראשתיו vs ketiv מראשתו is a plene/defective spelling of the same suffixed noun; ASV 'at his head' does not distinguish them, and the verse's only note (hebrew_gloss on 'sons of death') is unrelated. Base qere fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.1SA.26.22.v006",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text 'Behold the spear, O king!' treats המלך as a vocative, which requires the articular ketiv החנית (an articled noun cannot stand in construct); the qere חנית המלך is the construct 'the king's spear', which ASV relegates to the mapped textual_variant note 'Another reading is, the king's spear'. ASV wording plus the note select the ketiv."
+    }
+  ]
+}

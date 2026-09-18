@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "chapter": "2PE.1",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.2PE.1.1.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text reads 'Simon Peter' (Simon = Sigma-iota-mu-omega-nu), and the mapped textual_variant note relegates the other reading to the margin: 'Many ancient authorities read Symeon.' The note marks Symeon as what the ASV did not print, so the text renders r01."
+    },
+    {
+      "unit_id": "SBLGNT.2PE.1.3.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text reads 'called us by his own glory and virtue': the possessive 'his own' renders the adjective idia with the datives, i.e. the base reading. The mapped textual_variant note puts the rival in the margin ('Some ancient authorities read through glory and virtue' = dia doxes kai aretes), confirming the base is the printed text."
+    },
+    {
+      "unit_id": "SBLGNT.2PE.1.4.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r02"
+      ],
+      "evidence": "ASV 'his precious and exceeding great promises' keeps timia before megista, which excludes r01 (megista kai timia, 'exceeding great and precious'). It does not distinguish where hemin stands: 'he hath granted unto us' renders the pronoun the same whether it follows megista (base) or timia (r02). No note bears on the unit; the one note here is alternative_rendering."
+    },
+    {
+      "unit_id": "SBLGNT.2PE.1.4.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The unit is the presence or absence of the article to with the following noun; English 'the corruption that is in the world by lust' would read identically either way, and Greek anarthrous nouns of this kind are regularly rendered definite. No mapped textual note; the single note is alternative_rendering and cannot decide a reading."
+    },
+    {
+      "unit_id": "SBLGNT.2PE.1.9.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "hamartematon and hamartion are synonyms both rendered 'sins'; ASV 'the cleansing from his old sins' is the same English for either. The only note is alternative_rendering ('Or, closing his eyes') and concerns a different word."
+    },
+    {
+      "unit_id": "SBLGNT.2PE.1.12.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'I shall be ready always to put you in remembrance' renders the future mello ('I shall be about/ready to'). The rival ouk amelesa/ouk ameleso is a litotes, 'I will not be negligent to put you in remembrance'; the ASV shows no negative and no verb of negligence, so it renders the base."
+    },
+    {
+      "unit_id": "SBLGNT.2PE.1.17.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'This is my beloved Son, in whom I am well pleased' is the fixed English order for this saying and does not report where houtos estin stood in the Greek; nor does collapsing 'my Son, my beloved' into 'my beloved Son' reveal whether the second mou was present. The only note is a greek_gloss on 'having received'."
+    },
+    {
+      "unit_id": "SBLGNT.2PE.1.18.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Both readings say 'in the holy mount'; the difference is attributive order and the extra article (hagio orei vs orei to hagio), which English cannot show. No note is attached to the verse."
+    },
+    {
+      "unit_id": "SBLGNT.2PE.1.21.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The unit is only the order of prophecy and pote; ASV 'For no prophecy ever came by the will of man' renders either arrangement identically. The verse's single note is a greek_gloss on 'was brought'."
+    },
+    {
+      "unit_id": "SBLGNT.2PE.1.21.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'but men spake from God': 'from God' renders the preposition apo with theou, the base reading. The rival substitutes hagioi, yielding 'holy men of God spake'; the ASV has no 'holy' with 'men' here, reserving 'Holy' for the Spirit, so it renders the base."
+    }
+  ]
+}

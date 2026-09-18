@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "f5439238ed8e0856af4c1aed0d1235be0108cd26bcd8e8abcdad594c60f4a344",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed unchanged: every unit in the accepted alignment survives review. Notes were tightened on s002, s003, s005 and s007 to name the rules ruled out; no unit membership or head moved.",
+    "Every s### and t### id is partitioned exactly once; no ids invented.",
+    "The ASV markup on t009 *one* is evidence only (rule 11); it is analysed as the article's supplied nominal under rule 102 rather than `added`. Rule 102 records the corpus as unanimous on this shape, so per rule 84's line the head on *one* is not hedged.",
+    "The clause `οὐκ ἀντιτάσσεται ὑμῖν` is read as the ASV punctuates it, as a statement about the righteous one; nothing in the alignment turns on reading it as a question, and no interrogative particle stands for rules 44 or 64 to decide."
+  ],
+  "ref": "JAS.5.6",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

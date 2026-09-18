@@ -1,0 +1,27 @@
+{
+  "chapter": "PSA.56",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "PSA.56.2"
+  ],
+  "rejected": {},
+  "conventions": [
+    "כָּל־הַיּוֹם → 'all the day long' (vv. 1, 2, 5): 'long' joins יוֹם as 'day long', headed on day (rule 31; corpus 'day long' head=day ×8); כֹּל takes only 'all' and the article its 'the'. Do not give 'long' to כֹּל or mark it added."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "One real split: כָּל־הַיּוֹם → 'all the day long' gave 'long' to יוֹם in vv. 1 and 5 (day long, head=day) but to כֹּל in v. 2 (all … long). Patched v. 2 to the vv. 1/5 shape; corpus reads יוֹם → 'day long' headed on 'day' in 8 units and never records כֹּל → 'all long'.",
+    "Checked and left: לִי rendered against/unto/is for (different ASV words); עַל are against/are upon; הֲ → Are (v. 8, verbless-clause copula, rule 20) vs Hast (v. 13, gapped-verb auxiliary, rule 17); יוֹם → 'What time' (v. 3, supplied determiner before the noun, rules 15/33) vs 'the day' + added 'that' (v. 9, absolute noun before a finite clause, rule 52) — different English shapes, not a split.",
+    "Resumptive supplied 'they' given to the earlier nominal under rule 25 in both v. 2 (שׁוֹרְרַי) and v. 8 (דִּמְעָתִי); supplied object 'me' (v. 2) and italic 'his' ×2 (v. 10) correctly added; 'swallow … up' keeps 'up' with the verb in vv. 1 and 2.",
+    "BSB disagreements (v. 7 לָמוֹ, v. 8 paragogic he) are documented convention differences (rules 40, 32), not errors.",
+    "Title v. 0: עַל → 'set to' headed on 'to' with 'set' noted as competing head; left as accepted, flagged for a cross-psalm title reconciliation rather than changed here.",
+    "No promotion: the one lesson is a placement the corpus already settles; recorded as a convention."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "chapter": "JDG.7",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Where MACULA segments a compound place name into two tokens carrying the one compound lemma, each token takes the English element answering to it and neither is folded into the other nor marked unrepresented beside it: Beth + shittah for beyt ha-shittah (JDG.7.22), Beth + barah for beyt barah (JDG.7.24, twice), Abel + meholah for avel mecholah (JDG.7.22). A relational *of* the ASV writes before such a name is the enclosing chain's and goes to the first of the two tokens, as sephat avel mecholah -> *the border of Abel-meholah* does; the second token takes its bare word. But read what the ASV wrote for the first element rather than the shared lemma: where it translates that element instead of transliterating it, the pair is an ordinary construct chain under rules 19 and 29, so eyn charod -> *the spring of Harod* (JDG.7.1) gives *the spring* to eyn, with the determiner the nominal licenses under rule 15, and *of Harod* to charod."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v177",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 63 candidate lemma groups, then the full dump end to end for the asymmetries the table cannot show (English marked `added` in one verse and folded into a licensing morpheme in another). No cross-verse split found; patches are empty.",
+    "Closest near-miss: the identical formula machaneh midyan hayah lo at JDG.7.1 and JDG.7.8. 7.1 aligns the lamed to the *of* of *on the north side of them*; 7.8 marks it `unrepresented` beside *beneath him*. Rule 40 reads the condition and not the lemma - whether the ASV spends a word on the preposition's own relation - and the two renderings differ in exactly that, so both stand. Rule 11 keeps the 7.1 *of* on the present function morpheme rather than on the supplied generic *side*.",
+    "The presentative hayah frame's *that* is placed two ways and both are rule 45's: JDG.7.9 and JDG.7.15 give it to the apodosis waw, which is where the ASV writes it; JDG.7.17 writes it immediately after the frame and ahead of the ka-asher clause, so the frame keeps it; JDG.7.4 has no apodosis waw at all.",
+    "Determiners and prepositions beside numerals are consistent, not divergent: JDG.7.19 *the hundred men* and JDG.7.25 *the two princes* put the supplied determiner on the counted noun under rule 15, while JDG.7.16 *into three companies* puts a supplied preposition on the numeral under rule 33's own direction. Every phrase with an article morpheme present (7.7, 7.8, 7.16, 7.20, 7.22) gives the written *the* to that morpheme.",
+    "Waw surpluses at JDG.7.11, JDG.7.13 and JDG.7.17 were counted clause by clause against the ASV's written connectives; each `unrepresented` waw is correct. JDG.7.18 gives the verb a subject *I* and anochi its own *I* in the first colon but only *ye* to attem in the second - two written pronouns against two morphemes, then one.",
+    "Heads are uniform across repeats: ad to *as far as* headed on *far* (4x), min to *out of* headed on *out* (3x), qtseh to *the outermost part* headed on *outermost* (3x), naphal to *lay along* / *lay flat* headed on *lay*, and the three fused prepositions head as rule 23 directs - mittachat on min, me-ever on the noun, be-tokh on the construct.",
+    "The six `added` units (7.6 *putting*, 7.9 *thee*, 7.17 *when*, 7.19 *when*, 7.20 *wherewith*, 7.21 *them*) were each tested against the morphemes standing in their own clause and against the verses that fold a comparable word in; none has a morpheme to carry it, and the two supplied *when*s stand where 7.13's waw takes *And when* only because a waw is written there.",
+    "BSB: all 28 disagreements are the documented convention difference on function morphemes (R, Rd, Td, To) the ASV leaves unrendered. The two named exceptions are settled by rule - na at 7.3 has no written English (rule 30 places a rendered particle only), and the paragogic nun at 7.17 is rule 32's own case. No genuine error, and no accepted edge was touched for the aggregate.",
+    "One convention recorded, on the MACULA-segmented compound place name, which recurs five times and which rules 19 and 29 do not reach on their own. No promotion: that judgment rests on this chapter alone, the corpus extract carries no comparable names from finished chapters, and a rule written on one chapter's evidence would bind every later one on nothing."
+  ]
+}

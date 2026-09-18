@@ -1,0 +1,29 @@
+{
+  "chapter": "PRO.5",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "PRO.5.6"
+  ],
+  "rejected": {},
+  "conventions": [
+    "פָּלַס is rendered in this chapter by an English light verb plus the complement *level* — v.6 *she findeth ... not the level path*, v.21 *he maketh level all his paths*. In both, *level* is the word carrying the root's lexeme: it stays inside the verb's unit rather than going to the noun standing beside it or being marked added, and it is the target head. The v.6 colon is the harder of the two, because *level* there stands as an attributive on *path* and the ASV's own verb *findeth* renders nothing of פלס; v.21, where the same root is written as a plain predicate, is what settles it."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v191",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "One genuine cross-verse split: פָּלַס is rendered as a light verb plus the complement *level* in both v.6 (she findeth ... not the level path) and v.21 (he maketh level), but v.21 heads on *level* while v.6 headed on *findeth*. Rule 44's subtraction and rule 24 both put the head on *level* — dropping *findeth* leaves the פלס lexeme standing, dropping *level* loses it — and nothing in the source licenses the difference (Piel imperfect against Piel participle, one and the same rendering). PRO.5.6 is patched: the target head moves from t004 to t007, edges unchanged.",
+    "The edges of that v.6 unit were left alone deliberately. The verse pass kept *level* inside the verb's unit rather than marking it added, and did so on the strength of v.21; that is the same reasoning that makes the two heads have to agree, so the head is what was wrong and not the allocation.",
+    "Checked the other 26 candidate lemmas; no further split. Every difference is the ASV rendering one morpheme differently in different contexts: מִן → out of / than / from / in; בְּ → in / at / with / for / unrepresented (v.13, where the object is promoted to a bare object of obeyed, rule 40); לְ → unto / to / for / that; פֶּן → Lest twice and So that ... not once; אַיִן → not (v.17) and lack (v.23), each the word carrying the negation under rule 50; שָׁגָה → be ravished twice and go astray once, each headed on the lexeme-bearing word; זָר → strangers, of a strange woman, a strange woman, all headed on strange.",
+    "The two prepositions on תָּוֶךְ are not a split: v.15 מִתּוֹךְ is one rendering (out of) and fuses under rule 30, while v.14 בְּתוֹךְ has a word for the preposition and a word for the construct noun (In / the midst) and splits under rule 2. The compound-preposition heads agree with rule 23 read whole: v.8 מֵעַל heads on the opening morpheme because neither carries content the other lacks, and v.20 לָמָּה heads on מָה because the interrogative does.",
+    "The three added coordinators (v.6 t015, v.16 t007, v.19 t019's neighbour t017) are each a colon with no conjunction morpheme in it — rule 14's closing count run identically three times, not an inconsistency. The added *my* of v.7 is rule 18's closing sentence, and the suffixed vocatives of v.1 and v.20 take their own possessive, so the added-against-aligned difference there is licensed by the source.",
+    "Read but not changed: v.5 *go down* heads on *go* while v.23 *go astray* heads on *astray*. Different lemmas and different constructions — rule 44 names directional particles such as forth and away as staying with the verb, and astray is a complement in the way counsel and king are — so both are defensible as the rule now stands. Flagging the pair rather than churning an accepted edge; if rule 44's particle-against-complement boundary is ever revisited, יָרַד → go down is the test case.",
+    "BSB: none of the five disagreements is an error. All five are the documented convention difference — the paragogic he of הַקְשִׁיבָה (rule 32), the אֶל of v.8 and the בְּ of v.13 that the ASV's recasting leaves nothing to say (rule 40), and the two unwritten resumptive occurrences, the second suffix of לְךָ לְבַדֶּךָ (rule 22) and the object suffix of יִלְכְּדֻנוֹ standing beside its marked object (rules 16 and 22).",
+    "No promotion and no amendment. The פלס case is rule 44 applied rather than a case the contract has not met; restating it would be the padding the brief warns against."
+  ]
+}

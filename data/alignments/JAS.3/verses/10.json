@@ -1,0 +1,196 @@
+{
+  "alignments": [
+    {
+      "note": "Expressed Greek preposition takes the whole English preposition 'out of' (rule 36); the article behind it keeps a bare 'the' under rule 19, since rule 21's case preposition is owed to an article only where no Greek preposition is expressed to hold it. Giving 'of' to the article was rejected on that ground.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Article realized by 'the' (rule 19). The intensive 'same' does not displace it: the ASV writes both words, so rule 38's displacement does not apply and the determiner slot is the article's own.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Attributive intensive αὐτοῦ → 'same', split from the article under rule 26. This is the identity adjective, not a demonstrative, so rule 38 is not in question.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Head noun, bare behind its own article (rule 57).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Finite verb with its English particle; 'forth' is part of the phrasal rendering of ἐξέρχομαι and answers to no separate source token — s001 ἐκ already has its own 'out of'. Head on the verb word 'cometh' under rule 91's operational test, the corpus spending the verb word on ἔρχομαι-compounds.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Subject noun.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Expressed conjunction.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Second subject noun.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Ordinary negative aligned to 'not'; discontinuity permitted by rule 15, the ASV placing it after 'ought'. No negative indefinite stands here, so rules 41 and 59 are not in question, and the ASV writes two words rather than one, so rule 39 does not join it to χρή.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Impersonal χρή → 'ought'.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Anarthrous vocative; no article stands, so rule 89 is not in question and the noun takes 'brethren' alone. The ASV supplies no address word here — 'My' answers to μου.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Genitive pronoun carries the possessive 'My'.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Substantival demonstrative with no article in question (rule 38's closing clause); the generic 'things' expands it and rule 17's generic-noun clause keeps the head on the demonstrative, as rule 99 cites for ταῦτα → 'these things'.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Adverb → 'so'. No καί answers it here and the ASV writes no correlative 'even so', so rules 82 and 100 are not in question.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "No preposition governs the infinitive, so the infinitival 'to' is a rule 7 helper on its verb (rule 61); head on the lexical verb 'be'.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "JAS.3.10",
+  "review_notes": [
+    "Reviewed unchanged. All 15 source and 19 target ids partitioned exactly once; no unrepresented or added units in this verse.",
+    "s001/s002: 'out of' stays whole on the expressed preposition ἐκ. Rule 21 hands a case preposition to the article only where no Greek preposition is expressed to carry it (rule 36), and rule 95's REV.14.10 shape says in terms that an article standing after such a rendering is not owed an 'of the'. The competing reading — 'out' to ἐκ and 'of the' to the article — was rejected on that ground.",
+    "s002/s003: 'the same' is split because the ASV writes a determiner and the intensive separately; αὐτοῦ here is the identity adjective in attributive position, not a demonstrative, and rule 38 empties an article only where another source word occupies the English determiner slot, which is not the case when the ASV writes 'the' itself.",
+    "s009: 'not' is discontinuous from its clause-initial Greek position; the alternative of folding it with χρή into a single unit was rejected because the ASV writes two independent English words (rules 2 and 39), and rule 15 already permits the discontinuity.",
+    "s005 head: 'cometh' rather than 'forth'. 'forth' is the particle of the phrasal rendering of the compound verb and answers to no separate source token, s001 ἐκ having its own 'out of'; rule 91's operational test puts the head on the word the corpus spends on the lexeme, which for ἔρχομαι-compounds is the verb word."
+  ]
+}

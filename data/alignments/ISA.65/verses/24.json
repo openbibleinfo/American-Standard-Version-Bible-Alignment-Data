@@ -1,0 +1,125 @@
+{
+  "ref": "ISA.65.24",
+  "alignments": [
+    {
+      "source": ["s001"],
+      "source_head": "s001",
+      "target": ["t001"],
+      "target_head": "t001",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s002"],
+      "source_head": "s002",
+      "target": ["t002", "t003", "t004", "t005", "t006", "t007"],
+      "target_head": "t004",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "וְהָיָה as the presentative 'it shall come to pass'; the supplied dummy subject and the complementizer 'that' both belong to this construction."
+    },
+    {
+      "source": ["s003"],
+      "source_head": "s003",
+      "target": ["t008"],
+      "target_head": "t008",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s004"],
+      "source_head": "s004",
+      "target": ["t009", "t010"],
+      "target_head": "t010",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s005"],
+      "source_head": "s005",
+      "target": [],
+      "target_head": null,
+      "status": "unrepresented",
+      "confidence": "medium",
+      "note": "Apodosis waw before אֲנִי אֶעֱנֶה; the ASV leaves it unrendered, and the verse's single 'and' at t014 sits with the second waw."
+    },
+    {
+      "source": ["s006"],
+      "source_head": "s006",
+      "target": ["t011"],
+      "target_head": "t011",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Independent pronoun is its own unit; only the verb's inflection stays with אֶעֱנֶה."
+    },
+    {
+      "source": ["s007"],
+      "source_head": "s007",
+      "target": ["t012", "t013"],
+      "target_head": "t013",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s011"],
+      "source_head": "s011",
+      "target": ["t014"],
+      "target_head": "t014",
+      "status": "aligned",
+      "confidence": "medium",
+      "note": "The ASV fronts the connective to the head of the whole second couplet; the waw of וַאֲנִי אֶשְׁמָע is the conjunction it realizes."
+    },
+    {
+      "source": ["s008"],
+      "source_head": "s008",
+      "target": ["t015", "t018"],
+      "target_head": "t018",
+      "status": "aligned",
+      "confidence": "medium",
+      "note": "עוֹד + pronoun + participle is the 'while X is still doing' idiom; the supplied subordinator 'while' rests on עוֹד, which carries the temporal sense, though it could be read with the participle clause."
+    },
+    {
+      "source": ["s009"],
+      "source_head": "s009",
+      "target": ["t016"],
+      "target_head": "t016",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s010"],
+      "source_head": "s010",
+      "target": ["t017", "t019"],
+      "target_head": "t019",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The participle supplies its own copula 'are'."
+    },
+    {
+      "source": ["s012"],
+      "source_head": "s012",
+      "target": ["t020"],
+      "target_head": "t020",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s013"],
+      "source_head": "s013",
+      "target": ["t021", "t022"],
+      "target_head": "t022",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    }
+  ],
+  "review_notes": [
+    "Two apodosis waws (s005, s011) but one English 'and' (t014). Placed on s011 because t014 follows 'answer' and heads the second couplet; s005 marked unrepresented per rule 22."
+  ]
+}

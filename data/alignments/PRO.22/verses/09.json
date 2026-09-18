@@ -1,0 +1,169 @@
+{
+  "alignments": [
+    {
+      "note": "Explicit subject pronoun takes only its own English (rule 20).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The ASV subordinates the verbless predication טוֹב־עַיִן הוּא as a relative clause and supplies a verb of having for a clause that writes no הָיָה, no possessive preposition and no suffix; the relative answers to no morpheme (rule 41's closing paragraph) and neither does the 'hath' (rule 43's closing count). The two words stand together and do the one office of making the Hebrew predicate into a relative clause, so they are one `added` unit headed on the verb, exactly as PRO.22.12 reads the supplied 'him that hath'. The earlier two-unit reading cited rule 2, which tests source-target allocation and has no grip between two words that answer to no morpheme.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "טוֹב rendered 'bountiful'; the marginal gloss 'good' was read and set aside (rule 38).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Supplied indefinite article joins the nominal expression's noun (rule 15); unit discontinuous around the adjective (rule 25).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Pual with its auxiliaries, headed on the lexical verb (rule 24).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "כִּי rendered 'For'.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Subject pronoun stays with the finite verb (rule 17).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Partitive מִן.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Pronominal suffix rendered by the possessive (rule 18).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "לֶחֶם rendered 'bread'.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Dative lamed rendered 'to'.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Assimilated article takes the written 'the' (rules 12, 15).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Substantival adjective; the article beside it holds the written 'the', so the adjective keeps only its own word.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    }
+  ],
+  "ref": "PRO.22.9",
+  "review_notes": [
+    "The Hebrew gloss 'good' for 'bountiful' was read and set aside; the printed text governs (rule 38).",
+    "Reconciliation change: the supplied 'that' and 'hath' were previously two `added` units. They are now one, headed on 'hath', matching PRO.22.12's 'him that hath', which is the same supplied device over a Hebrew with no possessive morpheme in it. Rules 20, 33 and 43 place a supplied word together with what the ASV supplies alongside it, and rule 2's smallest-unit preference tests source-target allocation, which does not arise here.",
+    "ID partition after the merge: s001-s012 and t001-t018 each appear exactly once across the 13 units."
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "1KI.18",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1KI.18.36.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "Qere וּבִדְבָרְךָ֣ is singular (Ncmsc); ketiv ובדבריך is plural (Ncmpc). ASV closes the verse “that I have done all these things at thy word” — singular “word”, where the plural of this same noun is rendered “the words of the prophets” at 1 Kings 22:13. The singular distinguishes the qere."
+    },
+    {
+      "unit_id": "WLC.1KI.18.42.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere בִּרְכָּֽיו and ketiv ברכו are the same dual of בֶּרֶךְ with a 3ms suffix; OSHB tags both Ncfdc/Sp3ms, so the ketiv is only the defective spelling. ASV “put his face between his knees” renders either, and no note is mapped to the word, so nothing distinguishes them."
+    }
+  ]
+}

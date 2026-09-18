@@ -1,0 +1,203 @@
+{
+  "alignments": [
+    {
+      "note": "Finite verb, reordered under rule 15.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "τε … καί spelled out with two English conjunctions, so each particle keeps its own under rule 70: *And* here and *and* on s006. Leaving τε unrepresented would strand the clause-initial word.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Dative pronoun object.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Article to *the* under rule 19.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "One Greek noun to an English phrase; rule 66 names ἀρχιερεύς → *chief priest* and heads it on the core word *priests*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Corrected: the article governs a substantival adjective with no expressed noun, so under rules 49 and 102 it takes both the determiner and the supplied nominal *men*, discontinuously under rule 15, headed on the supplied nominal. *men* glosses no element of πρῶτος, which is rule 66's test for a supplied word. Rule 17's generic-noun clause is scoped to anarthrous Greek and does not reach a phrase a Greek article governs; this is the head JAS.1.11 corrected from *the* to *man*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Corrected: the adjective keeps its own bare word, the supplied nominal having gone to the article under rule 102.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Article carrying the genitive's *of* under rule 21.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Bare noun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Article before a name with no English realization, rule 23.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Name.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Finite verb with its subject pronoun; head on the lexical verb under rule 9.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Accusative pronoun object.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "ACT.25.2",
+  "review_notes": [
+    "Corrected the οἱ πρῶτοι unit: the supplied nominal *men* belongs to the article under rule 102's substantival-adjective clause, leaving *principal* bare on the adjective and heading the article's unit on *men*.",
+    "τε keeps the clause-initial *And* because the ASV writes two English conjunctions for the τε … καί pair (rule 70)."
+  ]
+}

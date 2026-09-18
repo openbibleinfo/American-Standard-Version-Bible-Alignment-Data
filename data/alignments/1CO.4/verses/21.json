@@ -1,0 +1,171 @@
+{
+  "alignments": [
+    {
+      "note": "Interrogative pronoun rendered *What*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb with its subject pronoun; *will* here glosses `θέλω` lexically rather than serving as an auxiliary, so rule 17 heads on it.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Deliberative subjunctive with supplied auxiliary and subject, headed on the lexical verb.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Preposition rendered *unto*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Object pronoun.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Preposition rendered *with*; the ASV places the phrase after the verb, which rule 15 permits.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Anarthrous noun with a supplied indefinite determiner, a rule 51 helper on the noun.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Disjunctive particle rendered *or*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Preposition rendered *in*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Noun rendered *love*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "`τε` with no answering `καί` keeps whatever connective the ASV writes for it, here *and*, as rule 70 has it for `υἱῶν τε Ἰσραήλ` → *and the children of Israel*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Anarthrous noun with a supplied indefinite determiner (rule 51); the ASV places the connective before it, which rule 15 permits.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Genitive rendered *of gentleness*, headed on the noun (rule 17).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "1CO.4.21",
+  "review_notes": [
+    "All 13 source and 19 target ids are partitioned exactly once.",
+    "`τε` is `aligned` to *and* under rule 70's no-answering-`καί` arm; the single English conjunction is not shared with any other particle here."
+  ]
+}

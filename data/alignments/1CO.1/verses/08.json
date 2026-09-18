@@ -1,0 +1,192 @@
+{
+  "alignments": [
+    {
+      "note": "Relative pronoun.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Adjunctive particle realized by 'also' under rule 65's English-side test.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Future auxiliary rides with the verb discontinuously under rule 15; rule 17 heads on the lexical verb.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Pronoun to pronoun.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The improper preposition is rendered by a single English word, so rule 42's frame question does not arise.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Greek is anarthrous, so the supplied 'the' is a rule 51 helper on the noun rather than an article's realization.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Predicate adjective takes the supplied copula under rule 53, and the supplied complementizer belongs to the expanded complement clause under rule 85; head on the adjective.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Preposition to preposition.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Article to 'the'.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Noun to noun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "The genitive pronoun takes the determiner slot with 'our'; rule 20 empties the article.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Discontinuous under rule 15; the case preposition stays with the noun under rule 21's determinerless clause.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Genitive pronoun carries the possessive.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Name to name.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Name split separately under rule 26.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    }
+  ],
+  "ref": "1CO.1.8",
+  "review_notes": [
+    "The supplied 'that ye be' at t009-t011 is taken as a rule 85 complementizer plus rule 53 copula on the predicate adjective, not as an 'added' predicate: anenkletous is a standing token the supplied words are predicated of."
+  ]
+}

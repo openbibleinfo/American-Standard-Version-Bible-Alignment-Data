@@ -1,0 +1,5 @@
+# Job 38 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- The interrogative compound 'ey-zeh is aligned as one fused unit under rule 30 wherever the ASV renders it by a single interrogative word, headed on 'ey, which carries the wh-lexeme; the enclitic demonstrative is never marked unrepresented beside it, and a construction-supplied copula joining the unit (Where is, 38.19 twice) does not defeat rule 30's one-rendering condition. This is not the mi zeh of 38.2, where the ASV writes this for the demonstrative, each morpheme owns a word, and rule 2 splits the pair. The corpus fuses 'ey-zeh in all six units it records (JER.6.16, 1KI.13.12, ISA.66.1 twice, ECC.11.6, 1KI.22.24) and splits it in none, while it leaves the deictic of lammah-zeh and ben-mi-zeh unrepresented in sixteen; read which compound is written before choosing.

@@ -1,0 +1,118 @@
+{
+  "alignments": [
+    {
+      "note": "Waw rendered 'And'.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Construct noun with supplied 'the' (rule 29).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Nomen rectum takes 'of'.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Attributive article takes the ASV's 'the' (rule 15).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "One English word 'first-born' split by the tokenizer; head on 'first', the element carrying the lexeme's distinguishing sense (rule 31).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "'Joel' is italic and has no counterpart in the projection, which reads וַשְׁנִי; the ASV supplies the name from verse 33 and 1 Sam. 8:2 while still rendering the Hebrew consonants as 'the second' (rule 30).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "MACULA reads this token as the name Vashni, but the ASV construes the same consonants as 'the second'; I align the token to that rendering. The competing reading gives this token 'Joel' and marks 'the second' added, which would leave the ASV's own footnote about the Hebrew unexplained.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Waw rendered 'and'.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Proper name.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "1CH.6.28",
+  "review_notes": [
+    "The ASV's footnote states the Hebrew has Vashni and Abiah; the alignment follows the projection's tokens rather than the ASV's emendation."
+  ]
+}

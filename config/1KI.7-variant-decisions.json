@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "chapter": "1KI.7",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1KI.7.20.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere הַשְּׂבָכָה carries the article, the ketiv שבכה does not. The ASV's 'beside the network' supplies an English definite article that anaphoric reference to the network of v.17-18 would require under either reading, so the wording does not distinguish them; the qere base stands."
+    },
+    {
+      "unit_id": "WLC.1KI.7.23.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere וְקָו and ketiv וקוה are orthographic variants of the same noun קָו 'line', both rendered 'and a line'. Nothing in the ASV wording or its notes distinguishes them; the qere base stands."
+    },
+    {
+      "unit_id": "WLC.1KI.7.36.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The pair differs only in where the conjunction is written: qere וְעַל מִסְגְּרֹתֶיהָ against ketiv עַל וּמִסְגְּרֹתֶיהָ. Either yields the ASV's 'and on the panels thereof', so the wording does not distinguish them; the qere base stands."
+    },
+    {
+      "unit_id": "WLC.1KI.7.45.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "Qere הָאֵלֶּה 'these' against ketiv האהל 'the tent'. The ASV reads 'even all these vessels', rendering the demonstrative and showing no trace of a tent, so it follows the qere."
+    }
+  ]
+}

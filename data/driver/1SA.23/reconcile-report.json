@@ -1,0 +1,27 @@
+{
+  "chapter": "1SA.23",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "1SA.23.27"
+  ],
+  "rejected": {},
+  "conventions": [
+    "The lengthened-imperative ending (מַהֲרָה, לֵכָה, הַגִּישָׁה) is unrepresented whether MACULA tags it Sh (23.9) or Sd (23.27): it carries no motion or place, so rule 32's Sd sentence has nothing for it to take. English the ASV writes beside such an imperative — 'hither' in 'Bring hither', 'thee' in 'Haste thee' — belongs to the verb's own rendering under rule 44.",
+    "The toponyms חֹרְשָׁה (15, 16, 18, 19) and יְשִׁימוֹן (19, 24) are rendered by the ASV as common nouns ('the wood', 'the desert') with the margin's 'Horesh'/'Jeshimon' set aside (rule 38). The name takes the common noun; an article morpheme, assimilated or written, takes the ASV's 'the' (rules 12, 29), and the bare form in 23.16 takes the supplied 'into the' as an accusative of direction (rules 33, 15)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 66 candidate groups end to end. The waw, בְּ, לְ, אֶל, הַ and suffix buckets are all differences the ASV writes (Then/So/wherefore/And when; 'of' for inquired-of בְּ; bare 'told David', 'besiege David', 'smite the Philistines' under rule 40; articles left unwritten before demonstratives and vocatives), not splits.",
+    "One real inconsistency, inside 1SA.23.27: the two lengthened-imperative endings on מַהֲרָה and לֵכָה, both tagged Sd, were treated two ways — s009 given 'thee' and s012 unrepresented — while 1SA.23.9 marked the same ending (tagged Sh there) unrepresented. Rule 32 lets an Sd take only English spent on motion or place; 'thee' in 'Haste thee' is the ASV's reflexive idiom for the verb (rule 44). Patched: 'Haste thee' on the verb, both endings unrepresented.",
+    "Accepted as defensible with competing readings already noted: 23.3 אַף כִּי noncompositional; 23.4 יסף→'again' / עוֹד→'yet'; 23.7 'that hath gates' on the rectum; 23.13 'who were' added; 23.26 periphrastic יְהִי unrepresented beside 'made haste'; 23.10 בַּעֲבוּר split.",
+    "BSB disagreements are all convention: unrepresented dative/recast prepositions (R, Rd), articles the ASV leaves unwritten (Td), object markers, the paragogic he in 23.9, the apodosis waw in 23.25, and the periphrastic auxiliary in 23.26. The 23.1 הֵמָּה has no ASV pronoun written for it. None is an error; 23.27 Sd now also disagrees with BSB by this patch, on the contract's own terms.",
+    "No promotion: the Sd tag on a lengthened imperative is a MACULA tagging matter the contract already handles by reading what the ASV writes, and no corpus precedent for it was supplied."
+  ]
+}

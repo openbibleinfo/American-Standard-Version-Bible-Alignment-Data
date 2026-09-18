@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "beb298ae08054590cb15ef5c225de985aebf3fe6dbcdb6366165eef6714783ba",
+  "contract_version": "nt-greek-verse-v120",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: 12 source units cover s001-s012 exactly once and the 15 target tokens t001-t015 exactly once. Every head is a member of its own array; the two unrepresented units have empty targets and null target heads.",
+    "s003 is aligned rather than unrepresented because the ASV supplies the address word *ye* for an article governing a vocative phrase (rule 89). Since the complement is a substantival adjective rather than a noun, rules 22, 49 and 102 were checked too: the ASV supplies no nominal here, only *ye*, so the adjective keeps its own bare *rich* and nothing further is the article's.",
+    "The two unrepresented articles are empty for different reasons and neither is merged with its noun: s008 by possessive displacement (rule 20, the free genitive ὑμῶν taking *your*), s011 as a second attributive article standing after an expressed head noun whose participle carries the relativizer (rule 31).",
+    "The supplied *and* at t006 is a rule 88 helper on the verb of the clause it introduces (*howl*), not `added`. Rule 98 is not the contrast: its scope is an asyndetic seam between two like constituents each rendered in its own class, whereas here a circumstantial participle has been converted into a coordinate imperative alongside a finite imperative — a constituent of another class, which rule 88 names in terms.",
+    "s012 keeps *upon you* inside the participle's unit: *upon* realizes the ἐπι- preverb with no expressed preposition competing (rule 106), and the resumptive *you* is a rule 7 pronoun helper, pronouns being exactly what rule 103 excepts from its `added` clause. The competing reading — *your … you* as one discontinuous realization of ὑμῶν under rules 15 and 76 — is named at s010 and remains defensible; the article at s008 is unrepresented under either reading, so nothing else in the verse turns on it."
+  ],
+  "ref": "JAS.5.1",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

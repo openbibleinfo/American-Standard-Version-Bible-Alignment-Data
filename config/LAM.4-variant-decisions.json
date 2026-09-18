@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "chapter": "LAM.4",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.LAM.4.3.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's plural 'the jackals' identifies the qere reading תנים rather than the ketiv תנין."
+    },
+    {
+      "unit_id": "WLC.LAM.4.3.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV explicitly reads 'like the ostriches,' matching the qere כיענים rather than the separated ketiv כי ענים."
+    },
+    {
+      "unit_id": "WLC.LAM.4.12.v003",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV's 'neither all the inhabitants' explicitly coordinates the inhabitants with the kings, reflecting the ketiv's prefixed conjunction וכל."
+    },
+    {
+      "unit_id": "WLC.LAM.4.16.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV coordinates the two negative clauses by punctuation ('priests, they favored not the elders'); this English permits either the qere's prefixed conjunction or the ketiv without it. The Hebrew-gloss note concerns 'face' and does not distinguish these readings."
+    },
+    {
+      "unit_id": "WLC.LAM.4.17.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's 'Our eyes do yet fail' expresses both the first-person possessive and the feminine-plural subject in English, so its wording does not determine whether the adverbial form bears the qere or ketiv suffix."
+    },
+    {
+      "unit_id": "WLC.LAM.4.21.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV addresses the daughter of Edom with the feminine-singular 'that dwellest,' matching the qere יושבת rather than ketiv יושבתי."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "03e24d3b2e35b350e43f4044e6150553ddcc3c905464232f4af192e210878756",
+  "contract_version": "nt-greek-verse-v64",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed unchanged: the accepted alignment is correct on every unit; only two unit notes were expanded to record the competing readings.",
+    "Partition verified: all 13 source ids (s001-s013) and all 17 target ids (t001-t017) appear exactly once. Every `aligned` unit has nonempty arrays with both heads inside them; the single `unrepresented` unit (s010) has an empty target and a null target head.",
+    "The contested unit is the article ταῖς. Rule 20's first arm empties it because ὑμῶν stands free and unspent and takes *your*; the competing reading — aligning ταῖς to *your* under rule 20's second arm, with ὑμῶν left elsewhere — is unavailable, since the second arm applies only where no other source word is present to take the possessive. Rule 76's availability test would reach the article only if the ASV had already spent ὑμῶν on some other role (an object, a nominative subject), which it has not.",
+    "The supplied *it* (t014, ASV italic) was the other reading worth checking. It is kept as a rule 7 helper on δαπανήσητε rather than marked `added`: rule 103 governs supplied lexical content whose source token is already realized elsewhere in the verse, and here no source token is spent on it at all, while rule 103 names a resumptive pronoun as the case that folds. Rule 74's supplied-object clause puts it on the verb that requires it in English, and δαπανάω is the only candidate.",
+    "Discontinuity in the s013 unit (t011-t014 with t015-t017 intervening for ἐν/ὑμῶν/ἡδοναῖς) is licensed by rule 15; no unrelated intervening token is absorbed, since the prepositional phrase is split cleanly across s009, s011 and s012.",
+    "Heads follow rule 17 throughout: *ask*, *ask* and *spend* rather than the supplied subject pronouns or the modal *may*."
+  ],
+  "ref": "JAS.4.3",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,192 @@
+{
+  "alignments": [
+    {
+      "note": "Preposition; the ASV writes separate words for preposition and adverb, so no compound unit is built (rule 94).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Temporal adverb rendered by the two-word *that time*; head on the nominal word.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Finite verb.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Article before a name with no English realization (rule 23).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Name.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Infinitive with its marker as a rule 7 helper; no conjunction governs the clause (rule 61).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Connective.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Infinitive with its repeated marker as a helper on this verb (rules 40, 103).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Imperative with the supplied English subject pronoun.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Finite verb rendered by the frame *is at hand*; head on the meaning-bearing complement (rules 17, 71, 91).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Causal particle.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Article to *the*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "The ASV gives *heaven* no determiner, so the article has no *the* to anchor and the case preposition stays with the noun (rules 21, 23).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive noun rendered *of heaven*.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "MAT.4.17",
+  "review_notes": [
+    "ἀπὸ τότε is split rather than joined, the ASV having written separate English words (rule 94).",
+    "Heading τότε's unit on *that* rather than *time* remains defensible; *time* is taken as the nominal anchor."
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "alignments": [
+    {
+      "note": "Connective καί → And.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Substantival demonstrative τοῦτο → this, standing with no article (rule 38 closing clause).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Participle rendered by a bare participle.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Article → the (rule 19); the noun stands bare.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "καιρόν → season.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "ὅτι introduces reported speech and the ASV writes the complementizer that, so it is aligned in the ordinary way rather than left unrepresented under rule 43.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "ἤδη → already.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Verbless clause with no expressed subject: the ASV supplies both the subject pronoun and the copula, and under rule 68 the predicate noun carries them, so ὥρα takes it is time, headed on the noun.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Accusative subject of the infinitive. The English for is the marker that licenses an accusative subject in the for … to frame, so it belongs to the pronoun it introduces (rule 27); rule 106's accusative arm confirms it does not realize the pronoun's case. Reading for as part of the infinitive's own frame remains defensible.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Infinitive with its rule 7 marker, no conjunction governing the clause (rule 40/61); headed on the lexical verb.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "ἐξ → out of; the English preposition governs the phrase and so realizes the Greek preposition (rule 36).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "ὕπνου → sleep, bare with no determiner.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "γάρ → for.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "νῦν → now.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "The clause is verbless and its predicate is the comparative adverb, so the supplied copula is the predicate's helper under rule 53 and not the subject's, discontinuously under rule 15. ἐγγύτερον is the comparative of the improper preposition ἐγγύς, its class decided from the lexeme and not from the ADV-C tag (rule 95), so under rule 101 it keeps its trailing English preposition: the ASV gives ἡμῶν no determiner for an article to anchor, and rule 21 hands a governed word only the preposition that realizes its own case, which 'to' does not do for a genitive. Headed on nearer, as rule 71 heads a single-word improper preposition on its own word.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t020",
+        "t022",
+        "t023"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Genitive governed by the comparative, standing bare: rule 101 keeps the trailing 'to' with the improper preposition and states that no corpus unit anywhere puts such a preposition on a bare governed noun, χωρὶς ἐμοῦ → 'apart from' / 'me' being the shape. Reading 'to us' as one unit under rule 21's determinerless clause was the earlier analysis and is what this patch corrects. The ASV margin's 'our salvation' would instead make this a possessive on σωτηρία, but the text's rendering is what is aligned.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "The ASV gives salvation no determiner, so the article has no English word to anchor (rule 23).",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "σωτηρία → salvation, the subject standing bare; the supplied copula went to the comparative predicate under rule 53.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Comparative particle ἤ → than.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "note": "ὅτε → when.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t026"
+      ],
+      "target_head": "t026"
+    },
+    {
+      "note": "Finite verb with its subject pronoun and the supplied first, which renders the inceptive force of the aorist and so is a rule 7 helper on the verb rather than added (rule 11 makes the ASV's markup evidence, not a verdict); headed on the lexical verb under rule 17. Attaching first to ὅτε, as the packet gloss when first suggests, remains defensible.",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t027",
+        "t028",
+        "t029"
+      ],
+      "target_head": "t029"
+    }
+  ],
+  "ref": "ROM.13.11",
+  "review_notes": [
+    "Verbless clauses decided twice and differently on rule 53's own test: ὥρα has no expressed subject, so the predicate noun takes both supplied words under rule 68; the σωτηρία clause has an expressed subject and an adverbial predicate, so the copula goes to ἐγγύτερον and not to the noun.",
+    "Reconciliation correction: s015/s016. The trailing 'to' moves from ἡμῶν into ἐγγύτερον's unit under rule 101, ἐγγύτερον being the comparative of the improper preposition ἐγγύς (class decided from the lexeme, rule 95) and the ASV giving the governed pronoun no determiner. Rule 21 cannot license 'to' on a genitive, since it realizes no genitive case.",
+    "The ASV margin (our salvation) would relocate ἡμῶν as a possessive; the text's reading is aligned, and the margin is named in that unit's note.",
+    "Variant SBLGNT.ROM.13.11.v009 selected r00-base, compatible with the English for s008 and s009; no textual decision is made here (rule 12)."
+  ]
+}

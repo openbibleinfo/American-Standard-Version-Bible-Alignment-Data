@@ -1,0 +1,111 @@
+{
+  "alignments": [
+    {
+      "note": "'How long' renders עַד־מָתַי jointly; neither English word writes either morpheme's own lexeme ('until'/'when'), so the pair is indivisible (rule 6), anchored on the first source token. No matrix frame is written, so rule 17's duration-frame ruling does not apply; a split giving 'long' to עַד and 'How' to מָתַי was considered and rejected as arbitrary.",
+      "source": [
+        "s001",
+        "s002"
+      ],
+      "source_head": "s001",
+      "status": "noncompositional",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Auxiliary and subject pronoun with the verb (rule 17).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Adverbial accusative 'injustice' rendered as the adverb 'unjustly'.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "נָשָׂא of the 'lift the face' idiom rendered 'respect'; the ASV spends a separate word on the noun, so rule 2 splits rather than fusing.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Construct noun takes the supplied 'the' (rule 29).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Anarthrous substantival adjective as rectum: 'of' under rule 19, supplied 'the' under rule 46.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "PSA.82.2",
+  "review_notes": [
+    "עַד־מָתַי treated as one noncompositional 'How long' unit; competing split noted in the unit."
+  ]
+}

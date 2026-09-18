@@ -1,0 +1,221 @@
+{
+  "alignments": [
+    {
+      "confidence": "high",
+      "note": "Relative pronoun to *who*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "confidence": "high",
+      "note": "Aorist indicative to *delivered*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "confidence": "high",
+      "note": "Accusative pronoun to *us*, split from its verb under rule 2.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 36: the English preposition governing the phrase realizes ἐκ; *out of* is one preposition headed on *out*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "confidence": "medium",
+      "note": "One Greek correlative demonstrative adjective rendered *so great*; rule 17 heads on the word carrying the sense, *great*, with *so* its intensifying helper under rule 7. A head on *so* — the deictic element of τηλικοῦτος — remains defensible, so this is materially divided under rule 16.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 58: adjective and noun are both anarthrous and the ASV supplies one determiner for the phrase, so *a* belongs to the noun and not to the adjective it happens to follow in the English idiom *so great a death*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "confidence": "high",
+      "note": "Coordinating conjunction to *and*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 9: the auxiliary rides with the verb and the lexical *deliver* is the head. The ASV writes no object for this occurrence.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 36: *on* governs the relative phrase and realizes εἰς, not the verb, even though English idiom reads *set … hope on* as one phrasal predicate.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "confidence": "high",
+      "note": "Relative pronoun to *whom*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 91: the head is the word the corpus spends on the lexeme, and *hope* is what glosses ἐλπ-, *set* being the empty support verb. Subject, auxiliary and the supplied possessive *our* are rule 7 and 9 helpers on the verb that licenses them; no other source token competes for the possessive.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016",
+        "t017",
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "confidence": "high",
+      "note": "Ordinary complementizer after ἐλπίζω rather than recitative ὅτι; rule 43's test is the English, and the ASV writes *that*, so it is aligned to that word in the ordinary way.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "confidence": "high",
+      "note": "Adjunctive καί decided on the English alone, as rule 65 has it: the ASV writes *also*, so the particle is its own aligned unit.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "confidence": "high",
+      "note": "Adverb to *still*.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 9 heads on the lexical *deliver*; the supplied subject *he* and the auxiliary are inflection-licensed helpers, and the supplied object *us* stays with the verb that requires it in English under rule 74. Discontinuous across *also still* under rule 15, which are their own units and are not absorbed.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022",
+        "t025",
+        "t026"
+      ],
+      "target_head": "t025"
+    }
+  ],
+  "ref": "2CO.1.10",
+  "review_notes": [
+    "Reviewed and returned with the same units and heads as accepted; three rule citations were corrected without changing any edge, head, status or confidence.",
+    "Partition verified: every s001-s015 and every t001-t026 appears exactly once. No unrepresented or added unit is needed — the ASV realizes all fifteen source tokens, and the two supplied English words (*he*, *us* at the close) are helpers on the verb that licenses them under rules 7, 9 and 74, so rule 11 keeps them from being marked `added` mechanically.",
+    "s004: the governing rule is 58, not 51. Both the adjective τηλικούτου and the noun θανάτου are anarthrous and the ASV supplies one determiner for the phrase, so *a* belongs to the noun even though English idiom (*so great a death*) places it after the adjective. Rule 58's closing warning against reading a supplied determiner off English word order is exactly this configuration.",
+    "s012: this is an ordinary complementizer, not recitative ὅτι. The status is the same either way because rule 43's test is whether the ASV wrote an English word, and it wrote *that*; but the previous note's framing would mislead a reader who met a genuinely recitative ὅτι later in the chapter.",
+    "s011: rule 91 rather than rule 17 alone settles the head. The corpus spends *hope* on the ἐλπ- lexeme, so *set* is the genuinely empty support verb and *hope* is the gloss — the same shape as `μαρτυρέω` → *bear witness*. Recorded `high` on rule 84's line, since the corpus is not divided here.",
+    "s003 is the only materially divided unit. τηλικοῦτος fuses a deictic element with a magnitude element, and *so* against *great* is a real competing head rather than mere idiomaticity, so `medium` under rule 16.",
+    "s009: *on* is εἰς and not part of the support rendering. Rule 36 states this in terms — an English preposition governing a prepositional phrase realizes the Greek preposition even where English idiom makes the verb phrasal — so *set our hope* keeps its five tokens and *on whom* splits into preposition and relative.",
+    "The textual note about *set our hope; and still will he deliver us* is a reading question the prepared projection already settled (variant SBLGNT.2CO.1.10.v008 -> r00-base). Rule 12 forbids revisiting it in the alignment file, and nothing in this verse's analysis turns on it."
+  ]
+}

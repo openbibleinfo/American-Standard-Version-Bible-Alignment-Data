@@ -1,0 +1,27 @@
+{
+  "chapter": "DEU.27",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Determiner count in demonstrative phrases. Where a demonstrative pronoun morpheme stands in the phrase (`זֹאת`, `זֶה`, `אֵלֶּה`, `הוּא`), that pronoun takes the written *this*, *these*, *This* or *same*, and both the noun's own article and the agreement article on the demonstrative are `unrepresented` (27.3, 27.4, 27.8, 27.9, 27.26). Rule 41's construct-chain paragraph, which gives a demonstrative standing before the rectum's word to the rectum's article, does not reach these: the pronoun is a morpheme that licenses the determiner, so rule 41's later limit governs instead, and the corpus reading of `הֶעָרִים הָאֵלֶּה` → *these cities* agrees. Where no demonstrative pronoun is written, the article itself takes the demonstrative — `הַיּוֹם` → *this day* (27.1, 27.4, 27.10). Where the ASV writes two determiners, each morpheme takes the one standing before its own word — `בַּיּוֹם הַהוּא` → *the same day* (27.11) gives *the* to the present article and *same* to `הוּא`. In a construct chain the construct noun still takes a supplied *the* of its own: `כָּל־דִּבְרֵי הַתּוֹרָה הַזֹּאת` → *all the words of this law* (27.3, 27.8, 27.26) puts *the words* on `דִּבְרֵי`, *of law* on the rectum, and *this* on `זֹאת`.",
+    "The twelvefold curse formula `אָרוּר` + anarthrous participle (27.15-27.25) is divided one way throughout: `אָרוּר` takes *Cursed* with the construction-supplied copula *be* (rule 20), and the participle takes the supplied *he that* together with its own English, headed on the word carrying its lexeme (rule 46) — on the complement where the ASV writes a light verb, as *setteth light by* (27.16) and *maketh ... to wander* (27.18) do. 27.26 is not a departure: the Hebrew writes `אֲשֶׁר` there, so the relative takes *he that* whole and heads on *that* under rule 46's first rider, a present morpheme taking its English before a bare participle does."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v138",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 34 candidate lemma groups plus the full dump read end to end for `added`-side splits the table cannot see. No construction is analysed two ways without something in the source or in the ASV licensing the difference.",
+    "`שִׂיד` (27.2 *plaster* vs 27.4 *thou shalt plaster*): the ASV writes the subject and auxiliary only in 27.4. Target-side, not a split.",
+    "`וְהָיָה` frame (27.2 gives *that* to the apodosis waw `וַהֲקֵמֹתָ`, 27.4 to the verb): 27.4's apodosis `תָּקִימוּ` is asyndetic, so rule 45's own division applies and the two readings are the same rule reading two different Hebrew clauses.",
+    "Article treatments are internally consistent: an article is `unrepresented` only where it is an agreement article on a demonstrative, where a demonstrative pronoun in the phrase took the phrase's one determiner, or where an assimilated `[הַ]` has no *the* written. 27.11 writes two determiners (*the same day*) and each morpheme takes the one standing before its own word.",
+    "Remaining candidates are ASV wording over one construction: `בְּהַר עֵיבָל` *in* (27.4) vs *upon* (27.13), `עַל` *upon* (27.8) vs *for* (27.13), `צָוָה` *commanded* (27.1) vs *charged* (27.11), `לְ` *unto* (27.5, 27.6) vs possessive *of* (27.9), `אָב`/`אֵם` as English possessive (27.17, 27.20) vs *of* (27.22), and `לְ` + infinitive as `לֵאמֹר` (27.1, 27.9, 27.11) vs a written *to* (27.26).",
+    "BSB disagreements are documented convention differences throughout: the R block is `לֵאמֹר`'s `לְ`, the dative and ethical-dative `לְ`s and the `בְּ` of `שָׁמַע בְּקוֹל` (rules 27, 40); To is rule 16; the Td block is articles the ASV leaves unwritten; `בַּ` at 27.11 is a bare adverbial accusative. `דָּם` at 27.25 is the only substantive candidate and is correctly `unrepresented`, since *an innocent person* writes nothing for it. No genuine error.",
+    "Two conventions recorded; no promotion or amendment, since rules 41, 45, 46 and 19 already decide everything this chapter had to settle."
+  ]
+}

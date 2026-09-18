@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "fd520b98f0c7f81b2e1c3531c4cdf38527ae6a6451895dab84ee3d79d5d27659",
+  "contract_version": "nt-greek-verse-v100",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: 16 source and 23 target IDs used exactly once.",
+    "s011 ἐν is unrepresented because the ASV writes no second *in*, the phrase being recast as a relative clause: rule 36 empties a preposition only where English realizes it nowhere, which is this case.",
+    "Both διδακτοῖς are recast as finite relative clauses, each taking its relativizer and the lexical *teacheth* discontinuously under rule 15, with the intervening words left to their own tokens under rule 27.",
+    "The supplied *words* on s014 is folded onto the anarthrous substantival adjective under rules 7 and 17: πνευματικοῖς has not spent its English, so rule 103's licensing test makes it a helper and not `added`, and the head stays on *spiritual*. The ASV's alternative *to spiritual men* is not followed."
+  ],
+  "ref": "1CO.2.13",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

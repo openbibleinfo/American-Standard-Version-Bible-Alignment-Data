@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "38940119c0dcaa29e47290b641912caf2bc4b06bc9cf46d21d4534c2152315da",
+  "contract_version": "ot-hebrew-verse-v202",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 15 source morphemes and all 18 target tokens are partitioned exactly once; every head is a member of its array.",
+    "`אֲרוֹן הָאֱלֹהִים` → *the ark of God* is rule 29's fronting case: the rectum is rendered anarthrously, so the written *the* is the article's (s006) and the construct keeps the bare *ark*.",
+    "Eben-ezer arrives as two source tokens sharing one lemma and the ASV transliterates it in two words, so rule 2 splits them rather than fusing under rule 30; each English word answers to one token.",
+    "The directive `he` (s015) is tagged Sd and the ASV writes *unto* for the direction, so it is its own aligned unit under rule 32 while `אַשְׁדּוֹד` keeps only the name."
+  ],
+  "ref": "1SA.5.1",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

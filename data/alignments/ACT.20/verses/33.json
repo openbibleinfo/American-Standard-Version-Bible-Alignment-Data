@@ -1,0 +1,94 @@
+{
+  "alignments": [
+    {
+      "note": "Noun to noun.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Particle to 'or'.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Noun to noun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Particle to 'or'.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Noun to noun.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Negative indefinite rendered 'no man's'; the supplied generic noun completes it and the head stays on the negative word (rules 17, 69).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Finite verb with its subject pronoun.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    }
+  ],
+  "ref": "ACT.20.33",
+  "review_notes": [
+    "The English possessive 'man's' is the indefinite's own supplied completion, so the head stays on 'no' as rule 69 heads 'any man' on 'any'."
+  ]
+}

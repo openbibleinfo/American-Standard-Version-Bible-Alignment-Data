@@ -1,0 +1,219 @@
+{
+  "alignments": [
+    {
+      "note": "Interrogative pronoun to *Who*. The question is marked by the interrogative word itself, so rules 44 and 64 are not in question.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Verbless clause with an adjectival predicate: rule 53 gives the supplied copula *is* to the predicate adjective and not to the subject pronoun. Rule 63's exception is scoped to a noun-phrase predicate, and rule 68's demonstrative-subject case likewise turns on a noun-phrase predicate, as its own contrast shows: `Οὗτοι οἱ λόγοι πιστοὶ καὶ ἀληθινοί` → *These words are faithful and true* gives *are faithful* to the predicate adjective. Head on the adjective under rule 17.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Coordinating conjunction to *and*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Second predicate adjective; the supplied copula already rides with s002 and is not repeated in the English.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Preposition to *among*. The ASV spreads the phrase over two words, so rule 94 keeps the preposition and its pronoun as separate units.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Pronoun to *you*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Third-person imperative: the auxiliary *let* and the supplied subject *him* are rule 7/9 helpers inside the verb's own unit, as `κόπους … μηδεὶς παρεχέτω` → *let no man trouble me* keeps *let* inside its unit under rule 73. Headed on the lexical verb *show* per rule 17, which forbids choosing a word merely because it is finite.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Expressed Greek preposition rendered *by*; the English preposition governing the phrase realizes it under rule 36. Since a Greek preposition is expressed, rule 21's case-preposition-on-the-article clause is not in question and the article takes only its determiner.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Rule 20's second arm as read by rule 76: the ASV supplies a possessive *his* for this phrase, and the only genitive pronoun in the verse (s014) is already spent on the second *his*, of *his works*, so it is not available to displace this determiner. The article therefore takes it. The competing reading marks the article `unrepresented` on the view that s014 licenses both English possessives, citing rule 76's `τοῖς δεσμοῖς μου` → *for me in my bonds*; I rejected that because there the pronoun's two English words are its oblique realization and its possessive, one word's English split across a phrase, whereas here the two *his* tokens are two determiners in two separate noun phrases, and rule 76's test is availability rather than mere presence.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Attributive adjective to *good*. The Greek is articular and the article beside it has already taken the determiner, so rule 58's supplied-determiner clause, scoped to anarthrous Greek, does not apply.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Noun to *life*. Where the ASV writes the fuller *manner of life* for this lexeme the head is *life* (1PE.1.18, 1PE.3.16, EPH.4.22) under rules 66 and 99, and the bare rendering here is the same word.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Rule 20 proper: the genitive pronoun s014 is free and occupies the English determiner slot of *his works*, so this article realizes nothing.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun to *works*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Genitive pronoun to the possessive *his* of *his works*, displacing s012's determiner under rule 20.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Preposition to *in*; the Greek noun is anarthrous and the ASV supplies no determiner, so nothing else rides here.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Noun to *meekness*.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Genitive noun rendered *of wisdom*; rule 17 heads a source noun rendered *of + noun* on the noun, the case preposition riding along.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    }
+  ],
+  "ref": "JAS.3.13",
+  "review_notes": [
+    "Reviewed unchanged: every unit of the accepted alignment survives review, with notes tightened to name the rules the competing readings rest on.",
+    "Partition verified: all 17 source ids and all 20 target ids appear exactly once. Every aligned unit has nonempty arrays with both heads members; the one `unrepresented` unit (s012) has an empty target and a null target head.",
+    "Two English *his* tokens against one Greek genitive pronoun is the verse's only real decision. t015 goes to s014 under rule 20 proper, which leaves s012 `unrepresented`; t012 goes to s009 under rule 76's availability reading, since s014 has been spent. The rejected alternative — s014 taking both possessives and s009 `unrepresented` — is named in s009's note. A reference comparison will report s009 as represented, and that report is not a correction.",
+    "Rule 76's `τοῖς δεσμοῖς μου` precedent was weighed for the competing reading and does not carry: there one word's English is split between an oblique realization and a possessive inside a single phrase, whereas here two determiner slots in two separate noun phrases are at stake.",
+    "s002 carries the supplied copula under rule 53's adjectival-predicate case, not the subject pronoun s001. Rule 63's noun-phrase exception and rule 68's demonstrative-subject case both turn on a noun-phrase predicate and do not reach an adjectival one.",
+    "No rule 37 versification split, no `FALLBACK EXCLUDED BY EVIDENCE` mark, and hence nothing `added` in this verse; every English helper here is licensed by a present source token."
+  ]
+}

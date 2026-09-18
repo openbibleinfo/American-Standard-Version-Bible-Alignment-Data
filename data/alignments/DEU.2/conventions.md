@@ -1,0 +1,6 @@
+# Deuteronomy 2 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- A preposition standing before `פָּנֶה` is one unit with it wherever the ASV writes a single rendering for the pair — `לְפָנִים` → *aforetime* (2.10, 2.12, 2.20), `לְפָנֵי` → *before* (2.21, 2.31, 2.33, 2.36), `עַל־פְּנֵי` → *upon* and `מִפְּנֵי` → *because of* (2.25) — headed on the construct noun. It is divided, a word to each morpheme, only where the ASV writes two, as `מִפְּנֵי` → *from before* in 2.12 and 2.22. A single *before* written for `מִפְּנֵי` is not evidence that the `מִן` went unrendered, and the preposition is never marked `unrepresented` beside a construct noun holding the whole word.
+- `נָסַע` rendered *take ... journey* (2.1 *took our journey*, 2.24 *take your journey*) keeps the possessive determiner English writes inside that idiom in the verb's own unit, headed on *journey* under rule 44: no possessive morpheme stands in either clause and English writes no bare *take journey*, so the determiner completes the one rendering rather than supplying a possessor. The competing reading, an `added` pronoun under rule 18's closing sentence, is named in both verses.

@@ -1,0 +1,165 @@
+{
+  "alignments": [
+    {
+      "note": "Coordinating conjunction to the verse-opening and.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Future indicative with its auxiliary and the phrasal particle; rule 9 heads on the lexical verb turn rather than the auxiliary will.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "No genitive pronoun or other source word is present to take the supplied possessive, so under rule 20's second arm the article is what their realizes; rule 11 keeps the ASV's supplied word from being added.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Noun to ears; the determiner slot is already the article's.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Expressed preposition to from; rule 21 leaves the English the to the article beside it.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Correlative men left unwritten by the ASV; rule 70 makes it its own unrepresented unit, the answering de keeping its own and. A reference comparison will report this as a disagreement, and that report is not a correction.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Article to the under rule 19; the case preposition stays with the expressed apo rather than riding here.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Noun to truth.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The answering de takes its own and.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Future passive rendered by the phrasal turn aside; head on the lexical verb.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Preposition to unto under rule 36, the English preposition governing the phrase rather than belonging to the verb.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "The ASV gives fables no determiner, so nothing anchors the article and rule 23 leaves it empty; rule 21 forbids putting a bare unto on it.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun to fables.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "2TI.4.4",
+  "review_notes": [
+    "All 13 source and 14 target IDs partitioned exactly once; no invented IDs.",
+    "s003 men and s011 tous are the two unrepresented units, both under rules 70 and 23 respectively.",
+    "s006 takes the supplied possessive their under rule 20's second arm, since no genitive pronoun competes for the slot; the competing reading would leave the article unrepresented and fold their onto akoen, but rule 20 is explicit that a supplied possessive with no other source word to belong to is the article's."
+  ]
+}

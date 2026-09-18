@@ -1,0 +1,23 @@
+{
+  "chapter": "PSA.64",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Where the ASV recasts an active clause as an English passive, the suffix whose referent becomes the English subject takes that subject pronoun (they), whether it is a verbal object suffix (64.8 יַּכְשִׁילוּהוּ → they shall be made to stumble) or a possessive suffix on the Hebrew subject noun (64.7 הָיוּ מַכּוֹתָם → shall they be wounded); the finite verb keeps only its auxiliaries and lexical verb, and the verb's own 3mp agent goes unexpressed rather than taking the pronoun under rule 17. Rules 18 and 40 read together."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 13 candidate lemmas end to end against the dump. None is a split: every difference is one the ASV licenses (my/me/them/they/themselves for suffixes by case; So/And/But for waws; That vs of for a purpose lamed vs a gerund lamed, both rule 52; words vs an purpose for דָּבָר; arrows vs the adverbial-accusative With an arrow for חֵץ).",
+    "Constructions that recur were analysed the same way each time: the supplied at reaching a bare object or object suffix of יָרָה sits on the verb under rule 44 in 64.4 (twice) and 64.7; the passive recastings of 64.7 (their wounds shall be → shall they be wounded) and 64.8 (they cause him to stumble → they shall be made to stumble) both give the English subject pronoun to the suffix whose referent it denotes and keep auxiliaries with the verb; anarthrous substantives take the supplied the under rule 46 in 64.1, 64.4 and 64.10; the three added units (And and even in 64.3, say they in 64.6) each answer to no morpheme and no verse folds an equivalent supplied word into a neighbour.",
+    "BSB disagreements (64.5 לָמוֹ ×2, 64.8 בָם): all three are prepositions whose pronoun the ASV renders bare; unrepresented under rule 40 is the documented convention difference, not an error.",
+    "Head choices worth a later reader's eye but not errors: the secret counsel on counsel (64.2), laying … privily on privily (64.5), wisely consider of on consider (64.9), Chief Musician on Musician (64.0); each note names or should be read as naming the competing head. No edges changed."
+  ]
+}

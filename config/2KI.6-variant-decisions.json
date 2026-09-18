@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "2KI.6",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2KI.6.10.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'warned him of' renders a 3ms object suffix on the verb, the qere וְהִזְהִירוֹ; the ketiv והזהירה carries a 3fs suffix ('warned her/it') with no feminine referent the ASV wording reflects."
+    },
+    {
+      "unit_id": "WLC.2KI.6.25.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'dove's dung' is equally the qere דִּבְיוֹנִים and the ketiv חרי יונים, which the qere euphemistically replaces with the same sense; the English does not distinguish them. Both verse notes are alternative_rendering ('Or, shekels') and concern the silver, not this unit. Base qere fallback retained."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "chapter": "1SA.11",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "הַגִּלְגָּל (vv.14, 15) is written bare 'Gilgal' by the ASV: the toponym's article is its own unrepresented unit (rule 29), and the supplied directional 'to' of 'go to Gilgal' / 'went to Gilgal' joins the name as an adverbial accusative (rule 33); the בַּגִּלְגָּל of v.15 gives 'in' to the preposition with the assimilated article still unrepresented."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 15 verses end to end against the candidate table and the dump. Every multi-treatment bucket is licensed by a different ASV rendering: waw takes whatever connective is written (and/Then/Therefore/that/so that) and is unrepresented only at the bare apodosis of v.3 (rule 14); לְ + suffix takes 'with' where the ASV writes it (vv.1, 2, 10) and is unrepresented before a bare indirect object (vv.3, 5, 9) or beside a הָיָה that holds the 'have' (v.9, rule 43); חֹם is 'is hot' in v.9 and 'the heat' in v.11 because the ASV recast one and not the other.",
+    "Article placement is consistent across the chapter: arthrous chains give each noun its own 'the' (vv.4, 11), anarthrous or attributively rendered recta front the article's 'the' (v.7 'the hand of messengers', v.11 'the morning watch'), demonstratives take the written this/those with both articles unrepresented (vv.6, 13), and the article on הַגִּלְגָּל is unrepresented in both v.14 and v.15 with the supplied 'to' on the toponym.",
+    "The three added units (v.2 'it', v.3 'then', v.7 'them') are each consistent with how the chapter treats the same construction elsewhere: object suffixes present take their pronoun (v.7 'cut them', v.12 'put them'), and a supplied object with no morpheme is added. The v.3 'then' is a defensible judgment (waw already holds 'and'; 'then' stands before 'if', not at the apodosis head) and its note names the competing reading.",
+    "BSB disagreements are all documented convention differences: dative/possessive לְ left unrendered, articles on toponyms and beside demonstratives, the object marker of v.3, the bare apodosis waw of v.3, the subject suffix on אֵינֶנּוּ whose subject 'Whosoever' already carries (v.7), the paragogic nun of v.9, and the silenced בַּ of 'this day' (v.13). None is a genuine error.",
+    "Nothing here generalises beyond what the contract already states; no promotions or amendments."
+  ]
+}

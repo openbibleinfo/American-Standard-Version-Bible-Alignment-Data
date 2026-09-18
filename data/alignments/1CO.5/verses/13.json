@@ -1,0 +1,145 @@
+{
+  "alignments": [
+    {
+      "note": "δέ → *But*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The article's modifier is a bare adverb with no verb to carry a relativizer, so the article keeps *them that* under rule 31, headed on the nominal word.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The adverbial predicate takes the supplied copula under rules 31 and 53, headed on the adverb.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Article before the name-like θεός with no English determiner written, unrepresented under rule 23.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "θεός → *God*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "κρίνει → *judgeth*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "ἐξάρατε → *Put away*; the particle realizing the preverb rides inside the compound verb's own unit and the head stands on the verb word under rule 106. The expressed ἐξ below keeps its own separate English preposition, which rule 106 requires where the ASV writes a particle in addition to a complete prepositional expression.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "An article governing a substantival adjective takes both the determiner and the supplied noun under rules 49 and 102 — τὸν πτωχόν → *the … man* is the same shape — headed on the supplied nominal and discontinuous under rule 15.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "πονηρόν keeps its own bare word *wicked* under rule 102.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "ἐξ → *from among*, one English prepositional expression for the preposition, headed on the prepositional word.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "ὑμῶν αὐτῶν is compressed into the single reflexive *yourselves*, whose parts answer to each token — *your-* to the pronoun and *-selves* to the intensive — so the pair is one aligned unit under rule 39's test rather than one token left empty.",
+      "source": [
+        "s011",
+        "s012"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "1CO.5.13",
+  "review_notes": [
+    "τὸν πονηρόν follows rule 102: the article takes *the … man* and the adjective keeps a bare *wicked*.",
+    "ὑμῶν αὐτῶν is joined into one unit because a single English word spells both tokens (rule 39); the head is the only target token."
+  ]
+}

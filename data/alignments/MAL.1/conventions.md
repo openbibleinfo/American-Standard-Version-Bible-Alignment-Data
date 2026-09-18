@@ -1,0 +1,6 @@
+# Malachi 1 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Interrogative הֲ takes no English auxiliary. Where the ASV fronts a modal or copula to form the question (should I accept, will he accept), that word is the inflected verb's own under rule 17 and the particle is unrepresented; English carries the interrogativity by inversion. Applied to MAL.1.2, 1.8 (x2), 1.9, 1.13; MAL.1.13 was realigned to match. The corpus is divided on this (5 unrepresented, 4 aligned before a verb), so this is a chapter convention and not a promotable rule.
+- The lexicalized divine title אֲדֹנָי (H136) is two morphemes and stays two units: the noun takes the English lexeme plus any supplied the or of, and the frozen Sp1cs suffix is unrepresented. Applied to MAL.1.12 and MAL.1.14; MAL.1.14 was realigned from a fused Ncmpc+Sp1cs unit. The corpus keeps the suffix separate in 10 of 11 occurrences (1KI.2.26, 1KI.3.10, 1KI.8.53, 1KI.22.6, ISA.61.1, ISA.61.11, ISA.65.13, ISA.65.15, PSA.2.4, PSA.16.2), fusing only at 1KI.3.15.

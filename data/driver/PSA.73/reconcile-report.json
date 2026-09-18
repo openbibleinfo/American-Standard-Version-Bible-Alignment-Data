@@ -1,0 +1,26 @@
+{
+  "chapter": "PSA.73",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Fronted וַאֲנִי opening a colon (v2, v22, v23, v28): the pronoun takes only the English pronoun written for it. Where the ASV writes 'as for me' with no marker on the pronoun (v2) the 'as for' is its own added unit under rule 16; where the ASV writes 'for me' for a following לִי (v28) the suffix takes 'me' and the fronted אֲנִי is unrepresented, since one written pronoun answers to two morphemes (rule 25). The BSB represents the pronoun in v28; that is a convention difference, not an error.",
+    "Free-paraphrase colons (v6 'is as a chain about their neck', v7 'They have more than heart could wish', v16 'It was too painful for me', v19 'utterly consumed') are kept split under rule 2 rather than fused noncompositional: the whole recasting goes to the morpheme whose lexeme it renders (the denominative verb, the verb of exceeding, the predicate noun, the second finite verb under rule 56's auxiliary reading), with the alternative named in each unit's note. Supplied 'other' in v5 ('as other men', 'like other men') joins the noun under rule 31."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 26 candidate groups and the full dump end to end, including every `added` unit; found no construction analysed two ways without a source licence.",
+    "Suffix and preposition variation (הוּא, לְ, בְּ, הַ, עִם, כְּ) is the ASV rendering each context differently: v6/v18 dative לְ left bare beside a written object pronoun vs v10 'by them'; v25 'have' vs v28 'for'; v22 'before thee' beside a written הָיִיתִי holding the copula vs v23 'am with thee' in a verbless clause (rule 49); v9 'the heavens' vs v25 'heaven' follows the ASV's own article.",
+    "Fronted וַאֲנִי is handled consistently: v2 gives 'me' to the pronoun and marks the supplied 'as for' added (rule 16, no marker on the fronted phrase); v28 gives 'for me' to לִי and its suffix and leaves the pronoun unrepresented, since two morphemes denote the referent and the ASV wrote one pronoun (rule 25).",
+    "All ten `added` units (v1 Even, v2 as for, v3 When, v17 And, v20 So, v25 but thee / that, v26 But, v27 departing, v28 it) answer to no morpheme; none has a counterpart folded into a licensing word elsewhere in the chapter.",
+    "BSB disagreements are all convention: the six R tokens are datives/object prepositions the ASV recasts bare (rule 40); v14 י is a possessive lost when 'my chastisement' became 'chastened'; v20/v28 י is the lexicalized title suffix (rule 57); v16 ה is a cohortative he (rule 32); v28 אֲנִי is the fronted pronoun above. No genuine error.",
+    "No promotion or amendment: the chapter's judgments (paraphrastic colons in v6, v7, v16, v19 kept split under rule 2 with the recasting placed on the lexeme-bearing morpheme) are verse-local applications of existing rules, not new generalisations."
+  ]
+}

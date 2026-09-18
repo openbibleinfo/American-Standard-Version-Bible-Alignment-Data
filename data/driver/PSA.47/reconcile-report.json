@@ -1,0 +1,24 @@
+{
+  "chapter": "PSA.47",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "A bare appositional nominal that the ASV construes as a result complement and introduces with a supplied infinitival copular frame — עַם אֱלֹהֵי אַבְרָהָם → 'To be the people of the God of Abraham' (To be italic) — takes that frame into the noun's own unit under rule 33, on the terms that give a bare nominal its supplied 'for' or 'as', with the copula joining the predicate nominal under rule 20 and the head staying on the noun. No לְ stands in the phrase for rule 49 to place the frame on. The competing reading marks 'To be' one added unit; it was named in the note and not taken."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 13 candidate lemmas; none is a split. Every difference is licensed by the source or is the ASV's own choice of English: אֱלֹהִים 'of the God' in 47.9 is a chain rectum (rule 19); the נוּ suffixes take us/our by the case the ASV writes (rule 18); לְ 'unto' in 47.1 follows a verb while 47.9's 'belong unto' is a possessive לְ that is itself the verbless clause's predicate (rule 49); כֹּל 'of all' in 47.7 is the rectum of the מֶלֶךְ chain; עַל over/upon and קוֹל voice/sound are ASV word choice.",
+    "זָמַר is consistent across all five occurrences: light verb + complement headed on praises (rule 44); 47.6 s001 takes the supplied 'to' reaching the bare object אֱלֹהִים under rule 44's supplied-preposition clause, while 47.6 s005 gives the written לְ its own 'unto' — the same division the corpus makes at PSA.68.4 and PSA.68.32.",
+    "Article הָ in 47.1 is unrepresented on a vocative whose 'ye' belongs to the noun (rule 36); the 'ye' stands before 'peoples', not after the imperative, so the allocation is right. The one BSB disagreement (that article) is the documented convention difference, not an error.",
+    "Supplied subject pronouns were read end to end: 47.2's resuming 'He' goes to יְהוָה, the nominal written earlier in the verse (rule 25); 47.9's 'He' goes to the finite נַעֲלָה (rule 17); 47.1's 'your' is added with no suffix on כָף (rule 18). No added/folded split across verses.",
+    "47.9's italic 'To be' before the bare appositional עַם was placed on the noun under rule 33 with the added reading named in the note; recorded as a convention since the contract does not state it directly. Nothing to promote: a single instance with no corpus precedent shown."
+  ]
+}

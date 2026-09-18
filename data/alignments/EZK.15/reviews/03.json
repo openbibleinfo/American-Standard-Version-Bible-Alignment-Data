@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "dc316f82c371437356f4e37ec67a60539ee77e9eab52161c673c3c645712a0a9",
+  "contract_version": "ot-hebrew-verse-v84",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Coverage verified: all 20 source and all 22 target tokens partitioned exactly once across 19 units (18 source-bearing plus one added).",
+    "The verse writes מִן + suffix twice and the ASV renders it once as thereof and once as of it; rule 30's one-English-word condition is met only in the first, so fusing one and splitting the other is right rather than inconsistent.",
+    "אִם correctly takes both the connective or (rule 14's כִּי/אִם clause) and the fronted auxiliary will (rule 17's disjunctive-question clause, אִם לֹא תָחִילוּ → will ye not tremble); men is added under rule 17's supplied-subject clause, exactly as יָשְׁבוּ בָהּ → men shall dwell therein.",
+    "Minor wording only: the note on s011 calls its unit discontinuous from its auxiliary, though the unit holds the single token t013 and the auxiliary sits in the אִם unit. The alignment itself is unaffected."
+  ],
+  "ref": "EZK.15.3",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

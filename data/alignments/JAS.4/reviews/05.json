@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "3b7570831c8821adf826052da06d96f664ed90796a09e09c8d1c45e4aa746692",
+  "contract_version": "nt-greek-verse-v64",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed and left substantively unchanged: every s### and t### id is partitioned exactly once, every unit is aligned with nonempty arrays, and every head is a member of its own array.",
+    "Only note wording was corrected. The κενῶς unit had called itself discontinuous; its two target tokens are adjacent, and what rule 15 licenses there is the reordering against the Greek, not a discontinuity. The κατῴκισεν head on dwell now cites rule 91's corpus test (rule 32's οἱ κατοικοῦντες → they that dwell spends dwell on this stem) rather than resting on the rule 17 analogy alone, and the Doth unit now names rule 86 as the competing reading it rejects.",
+    "The ASV reorders heavily against the Greek: κενῶς follows speaketh, and Πρὸς φθόνον follows the verb it modifies. Rule 15 covers the discontinuity for ἐπιποθεῖ (Doth … long) and the reordering elsewhere; no unrelated intervening token was absorbed into either unit.",
+    "No unrepresented or added unit was needed. Doth is do-support licensed by the finite ἐπιποθεῖ under rule 9, not a supplied clause-introducer answering to nothing, so rule 86 does not reach it; and no interrogative particle stands in the verse, so rules 44 and 64 are not in question.",
+    "SBLGNT.JAS.4.5.v004 selected r00-base κατῴκισεν, covering s014, and carries no FALLBACK EXCLUDED mark, so rule 97 is not in question and rule 12 forbids revisiting it here. The marginal dwelleth in us of the textual_variant note is not the projection's reading, and the alternative_rendering notes (saith in vain; yearneth for even unto jealous envy) are not the ASV text being aligned."
+  ],
+  "ref": "JAS.4.5",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

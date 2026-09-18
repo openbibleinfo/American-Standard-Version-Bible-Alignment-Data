@@ -1,0 +1,189 @@
+{
+  "alignments": [
+    {
+      "note": "One compound verb rendered verb-plus-adverb; head on 'abounded', which glosses the pleonaz- stem, 'exceedingly' answering to hyper-.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Postpositive conjunction rendered 'and'.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Article as 'the'.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Subject noun.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Rule 20: hemon (s007) takes the determiner slot as 'our', so the article realizes nothing and 'of' stays with the noun.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Case preposition rides with the noun under rule 20; discontinuous around the possessive.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Genitive pronoun as 'our'.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Coordinator.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Rule 31: an article following its nouns with a prepositional modifier keeps only the supplied relativizer.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Rule 31/53: the prepositional phrase has no verb, so it carries the supplied copula.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Name.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Name, split under rule 26.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "1TI.1.14",
+  "review_notes": [
+    "s005 emptied by rule 20; s012 keeps only 'which' under rule 31's article-follows-noun clause, with 'is in' on the preposition."
+  ]
+}

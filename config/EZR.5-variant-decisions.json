@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "chapter": "EZR.5",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.EZR.5.1.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Ketiv נביאה and qere נביא are alternative spellings of the singular emphatic 'the prophet'; ASV 'Haggai the prophet' renders either identically and the only note is an alternative_rendering on a different phrase. Base qere carries the projection."
+    },
+    {
+      "unit_id": "WLC.EZR.5.1.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Ketiv נביאיא and qere נבייא are orthographic variants of the plural emphatic 'the prophets'; ASV 'Now the prophets' does not distinguish them and the alternative_rendering note concerns 'in the name of', not this word. Base qere carries the projection."
+    },
+    {
+      "unit_id": "WLC.EZR.5.2.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Ketiv נביאיא and qere נבייא are spelling variants of the plural emphatic 'the prophets'; ASV 'the prophets of God' renders either the same way and no note is mapped to this verse. Base qere carries the projection."
+    },
+    {
+      "unit_id": "WLC.EZR.5.12.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Nebuchadnezzar king of Babylon, the Chaldean' is singular, in apposition to the king; that renders the qere singular emphatic כסדאה. The ketiv כסדיא is plural emphatic 'the Chaldeans', which the English wording excludes. The alternative_rendering note concerns 'after that', not this word."
+    },
+    {
+      "unit_id": "WLC.EZR.5.15.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Ketiv אלה and qere אל are both the Aramaic plural demonstrative 'these'; ASV 'Take these vessels' renders either identically and no note is mapped to this verse. Base qere carries the projection."
+    }
+  ]
+}

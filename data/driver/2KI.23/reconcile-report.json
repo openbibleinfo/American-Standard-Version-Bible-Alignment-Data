@@ -1,0 +1,33 @@
+{
+  "chapter": "2KI.23",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2KI.23.4",
+    "2KI.23.5",
+    "2KI.23.13",
+    "2KI.23.16",
+    "2KI.23.17"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Construct chains whose rectum carries an article and is rendered anarthrously — צְבָא הַשָּׁמָיִם → the host of heaven, הַר־הַמַּשְׁחִית → the mount of corruption, אִישׁ הָאֱלֹהִים → the man of God — give the phrase's single 'the' to the rectum's article (rule 29 fronting) and leave the construct its bare word; the article is not unrepresented. Verses 4, 5, 13, 16, 17 were corrected to this at reconciliation. Arthrous chains (the book of the covenant, the governor of the city) are counted the/the as before.",
+    "מִחוּץ לְ before a place name → 'without' is one three-morpheme aligned unit headed on חוּץ (rule 30); the trailing לְ is part of the compound's single rendering and is not marked unrepresented (vv. 4, 6).",
+    "Hiphil דקק → 'beat ... to dust': the verb takes 'beat', לְ takes 'to', עָפָר takes 'dust', and the ASV's object pronoun 'it' is added under rule 44, since the Hebrew writes no object (vv. 6, 15)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 93 candidate groups, the 14 added units and the BSB list. Nearly every multi-treatment bucket is the ASV rendering one word differently (the/no the before names, of/to/unto on Jerusalem, also/even/Moreover for גַּם, like/like unto for כְּמוֹ) and is not a split.",
+    "One real cross-verse split: construct chains whose rectum carries an article and is rendered anarthrously — צְבָא הַשָּׁמָיִם → the host of heaven (vv. 4, 5), הַר־הַמַּשְׁחִית → the mount of corruption (v. 13), אִישׁ הָאֱלֹהִים → the man of God (vv. 16, 17) — gave the phrase's single 'the' to the construct and left the article unrepresented. Rule 29's fronting sentence (and its own example אֹצְרוֹת בֵּית הָאֱלֹהִים) sends that 'the' to the article; the construct keeps its bare word. Patched all five; arthrous chains in the chapter (the book of the covenant, the governor of the city) were already counted correctly.",
+    "v. 5: the second 'in' of 'in the cities of Judah, and in the places round about Jerusalem' restates the one written בְּ over a coordinated member and belongs to that בְּ's discontinuous unit (rule 33), not to the bare מְסִבֵּי. Folded into the v. 5 patch.",
+    "BSB disagreements are all documented convention: rule 40 silenced prepositions (v. 2 לְ/עַד, v. 3 second בְ, v. 10 second לְ, v. 17 אֵלָיו, v. 18 לוֹ, v. 33 עַל), rule 16 markers, agreement and demonstrative-held articles, 'king Josiah' with no 'the', the apodosis waw of v. 16 and the recast-infinitive waw of v. 5, and the directive he of v. 8 under 'where'. None is an error. Five Td disagreements vanish with the rule-29 patch as a consequence, not a goal.",
+    "Flag left unpatched: v. 14 'filled their places with the bones of men' gives 'with' to the noun under rule 33; 'fill ... with' admits no other preposition, so rule 33's valency sentence arguably sends it to the verb (rule 44). Single verse, borderline.",
+    "No promotions or amendments: rule 29 already carries the exact example the chapter misread."
+  ]
+}

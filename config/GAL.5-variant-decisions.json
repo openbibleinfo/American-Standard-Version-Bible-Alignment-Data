@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "chapter": "GAL.5",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.GAL.5.1.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'For freedom did Christ set us free: stand fast therefore' has no relative pronoun and makes the freedom clause an independent sentence, so it does not render RP's relative construction (r02, 'in the freedom with which Christ freed us, stand'). Between r00-base and r01 the words are identical and only the raised dot differs, which English punctuation does not settle."
+    },
+    {
+      "unit_id": "SBLGNT.GAL.5.4.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is the presence of the article after the preposition; English 'from grace' is the same either way, and no note is mapped here (the greek_gloss note concerns 'brought to nought')."
+    },
+    {
+      "unit_id": "SBLGNT.GAL.5.7.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Article with the dative only; ASV 'obey the truth' supplies the English article regardless of whether the Greek article is read."
+    },
+    {
+      "unit_id": "SBLGNT.GAL.5.10.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἐάν and ἄν are orthographic alternates in this indefinite relative clause; ASV 'whosoever he be' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.GAL.5.14.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'is fulfilled' is an ordinary rendering both of the perfect passive πεπλήρωται (resultant present state) and of the present passive πληροῦται, so the English does not distinguish the tense."
+    },
+    {
+      "unit_id": "SBLGNT.GAL.5.14.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "σεαυτόν and ἑαυτόν are both rendered 'thyself' after 'Thou shalt love'; the reflexive form is invisible in the ASV."
+    },
+    {
+      "unit_id": "SBLGNT.GAL.5.17.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV begins the verse 'For the flesh lusteth against the Spirit', the causal connective γάρ; δέ would be rendered 'but' or 'and'."
+    },
+    {
+      "unit_id": "SBLGNT.GAL.5.17.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Pure word order between ἀλλήλοις and ἀντίκειται; ASV 'these are contrary the one to the other' fixes English order independently of the Greek sequence."
+    },
+    {
+      "unit_id": "SBLGNT.GAL.5.17.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἐάν and ἄν are orthographic alternates in the same clause; ASV 'the things that ye would' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.GAL.5.19.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's list of the works of the flesh runs 'fornication, uncleanness, lasciviousness' with no 'adultery', so it does not render RP's added μοιχεία."
+    },
+    {
+      "unit_id": "SBLGNT.GAL.5.20.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "ASV 'strife, jealousies' matches neither candidate cleanly: the singular 'strife' fits ἔρις while the plural 'jealousies' fits ζῆλοι, and the two words are bundled in one reading, so the English splits rather than settles the unit. r00-base and r01 differ only in the comma."
+    },
+    {
+      "unit_id": "SBLGNT.GAL.5.21.v012",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'envyings, drunkenness, revellings' with no 'murders' between them, so the added φόνοι is not rendered. The two mapped notes are classed alternative_rendering and bear on 'forewarn', not on this unit."
+    },
+    {
+      "unit_id": "SBLGNT.GAL.5.21.v013",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'even as I did forewarn you' renders καθώς; an added ascensive καί need not surface separately in English, so the presence of καί is not distinguished."
+    },
+    {
+      "unit_id": "SBLGNT.GAL.5.24.v014",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'they that are of Christ Jesus', rendering the added Ἰησοῦ; the RP reading has Χριστοῦ alone."
+    }
+  ]
+}

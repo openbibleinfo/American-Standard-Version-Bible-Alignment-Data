@@ -1,0 +1,33 @@
+{
+  "chapter": "2CH.31",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "הִתְיַחֵשׂ (Vtc) is rendered throughout by the relative clause *(them) that were reckoned by genealogy*, headed on *reckoned*. Where a suffix stands on it (31.16) that suffix takes *them* under rule 18 and the infinitive keeps the rest; where none stands (31.17, 31.18, 31.19) the supplied antecedent and relative join the infinitive's own unit under rule 46. The alternative of heading on *genealogy* under rule 44 was considered and rejected: *reckoned* carries the lexeme.",
+    "אֱמוּנָה is read by what the ASV writes for it, not by its form. בֶּאֱמוּנָה fuses with its preposition to the single word *faithfully* at 31.12 (rule 30), and splits as preposition plus *office of trust* at 31.15 and 31.18, where *office* is the supplied generic and *trust* carries the lexeme (rule 31). The possessive follows the morphology: *their* is `added` at 31.15, which writes no suffix, and is the suffix's at 31.18, which does.",
+    "In this chapter's verbless clauses the copula goes to whichever side the Hebrew makes the predicate, which is not the English word order. 31.12 (וַעֲלֵיהֶם נָגִיד) writes a nominal predicate, so the fronted עַל phrase keeps only *over* and *was* joins נָגִיד under rule 49's closing limit; 31.14 (עַל נִדְבוֹת) and 31.15 (עַל־יָדוֹ) write no nominal predicate, so the preposition is the predicate and carries *was over* and *were ... under*. At 31.15 the preposition and its construct noun fuse to the one word *under*, and the copula joins that fused unit.",
+    "Three distributive or resumptive repetitions are rendered once by the ASV and are marked the same way under rule 22: עֲרֵמוֹת עֲרֵמוֹת → *by heaps* (31.6), עִיר וָעִיר → *every city* (31.19, the repeated noun and its waw both unrepresented), and דְּבַר־יוֹם בְּיוֹמוֹ → *the duty of every day* (31.16, where the preposition and suffix of the resumptive phrase go unrepresented with the noun and the supplied verb *required* is `added`). BSB attaches each repeated element to its own phrase and disagrees on all three.",
+    "An appositional or explicative English word is placed by counting what the morpheme beside it already holds. At 31.16 the לְ of לְכָל־הַבָּא holds nothing else, so it takes the *even* the ASV writes in its slot; at 31.3 the לְ of לְעֹלוֹת already holds *for* and no object marker stands on the phrase, so *to wit* is its own `added` unit under rules 16 and 51. The 31.16 reading is the hedged one of the two and its note names the alternative."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v117",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 21 verses end to end against the 50-lemma candidate table, the 10 `added` units (which the lemma-keyed table cannot see), and the corpus precedent. No construction in this chapter is analysed two ways without something in the source licensing the difference, so patches is empty.",
+    "Waw (89 tokens, 8 treatments): every connective is read off the ASV as rule 14 directs - Now, Then, Moreover, also, the 'And when' pair of 31.8 (rule 55), and plain and. The two unrepresented waws are the apodosis waw of 31.8, where the ASV opens 'they blessed' bare, and the waw of the distributive עִיר וָעִיר at 31.19 (rule 22). Both are licensed by the Hebrew, not by preference.",
+    "Article (67 tokens): every unrepresented article is counted rather than dropped - agreement articles on the ordinals (31.7), coordinated attributives (31.3, 31.20), the first-article reading of 'the chief priest' (31.10, rule 47), and הֶהָמוֹן הַזֶּה, where the demonstrative takes the phrase's one determiner (rule 41). Rule 29's fronting test is applied uniformly: arthrous rectum at 31.2/4/15/17, anarthrous rectum with the fronted 'the' on the article at 31.5/13/14/21.",
+    "עַל and the verbless copula only look inconsistent from outside: 31.12 gives the copula to the written nominal predicate נָגִיד, while 31.14 and 31.15 give it to the preposition, which is the predicate in those clauses. That is rule 49's closing limit, not a split. Likewise מִיַּד splits at 31.13 (two English words) while עַל־יָד fuses to 'under' at 31.15 (one), which is rule 30's one-rendering condition doing its work.",
+    "Appositional English is counted, not preferred: 31.16 puts 'even' on the לְ because that morpheme holds nothing else, while 31.3 leaves 'to wit' added because its לְ already holds 'for' and no object marker stands on the phrase (rules 16, 51, 52). The 31.16 unit's note names the competing reading, so rule 8 covers it.",
+    "אֱמוּנָה fuses to 'faithfully' at 31.12 (one English word, rule 30) and splits as 'office of trust' at 31.15 and 31.18 (rule 31); the supplied 'their' is added at 31.15 because no suffix stands there and is the suffix's at 31.18 because one does. הִתְיַחֵשׂ x4 divides the same way: the suffix takes 'them' at 31.16, and the supplied 'them that' joins the infinitive under rule 46 at 31.17-19, where no suffix is present.",
+    "The three repetitions the ASV renders once - עֲרֵמוֹת עֲרֵמוֹת (31.6), עִיר וָעִיר (31.19), יוֹם בְּיוֹמוֹ (31.16) - are handled identically under rule 22, including the preposition and suffix carried inside the third. The ten added units are each a word no morpheme in its own clause answers to.",
+    "BSB: 26 disagreements, all documented convention differences - recast prepositions left bare (rule 40), unrendered articles (rules 22, 47), repetition tokens (rule 22), the object marker at 31.17 (rule 16), the directive he at 31.14 (rule 32), and the two לְs at 31.2, where the contract expressly refuses to let a benefactive preposition carry the 'both' of 'both ... and'. None is a genuine error and no accepted edge was changed.",
+    "Textual units: both are the Conaniah ketiv/qere (31.12, 31.13). The selected reading covers one token each and aligns as an ordinary proper name; rule 53 is not reached.",
+    "Promotions: none. The one construction that tempted a rule - the supplied relative on the attributive prepositional phrase at 31.19, 'that were in the fields' - occurs once here, and the corpus precedent supplied with this briefing shows no בְּ rendered by a relative to carry it. The unit's note already records the competing rule-55 reading."
+  ]
+}

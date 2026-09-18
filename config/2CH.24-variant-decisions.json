@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "2CH.24",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2CH.24.25.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere בְּמַחֲלוּיִם and ketiv במחליים are spellings of the same plural noun; ASV's 'they left him very sick' renders the sense either supports equally, with no difference in number, person, or root to expose the choice. The only note on the verse is versional (Vulgate/LXX 'son'), which is not mapped to this lemma and concerns a different word. Nothing in the English distinguishes the readings, so the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.2CH.24.27.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV renders a noun inside a coordinated list of things written in the commentary: 'concerning his sons, AND THE GREATNESS OF the burdens laid upon him, and the rebuilding of the house of God.' That is the ketiv ורב, conjunction plus the noun רֹב 'greatness/multitude', parallel to the other nominal members. The qere יִרֶב is a finite verb ('were many / increased') and would have produced a clause, not the construct phrase 'the greatness of the burdens' that ASV prints. The 'Or, uttered against' note is classed alternative_rendering and is disregarded; the hebrew_gloss 'founding' belongs to the later 'rebuilding'."
+    }
+  ]
+}

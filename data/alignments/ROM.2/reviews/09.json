@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "9b7405075f49d7279f0164f9eddba7b66ce41ea69071ef63a7d05c6080cebc1a",
+  "contract_version": "nt-greek-verse-v108",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "Corrected s008/s009: the accepted alignment gave *that* to the post-nominal article τοῦ, but its modifier is a participle, so under rule 31 the relativizer is the participle's helper and the article is unrepresented. Rule 31's *follows its noun* clause is scoped to verbless modifiers.",
+    "A reference comparison will report the unrepresented τοῦ as a disagreement; under rule 31 that report is not a correction.",
+    "s013/s015 follow rule 70's two-conjunction arm; the corpus's twelve one-conjunction units would instead empty τε, and that reading remains defensible here."
+  ],
+  "ref": "ROM.2.9",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

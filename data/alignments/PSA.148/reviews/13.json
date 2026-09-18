@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "fcc1b500e047a32943f0a950d06fd4ac09d10b20590e76aa2c6fcbb5783bb1ca",
+  "contract_version": "ot-hebrew-verse-v197",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "The flagged three-morpheme unit `לְ בַד וֹ` → alone is genuinely indivisible: `בַד` is a word the ASV never writes alone, and the suffix's reference stands inside the single English word exactly as it does in `בָּהּ` → therein, so rule 30's one-rendering condition is met and rule 22's unrendered-occurrence sentence does not reach the suffix. Head on `בַד`, which carries the lexeme, under rule 23. The competing reading fuses only the preposition and its noun and marks the suffix unrepresented.",
+    "Neither of the two verbless clauses writes a subject pronoun, so the copula goes to the participial predicate in the first under rule 20 and to the preposition heading the predicate in the second under rule 49.",
+    "Both anarthrous nouns of the closing colon take a supplied the determining the nominal expression under rule 15.",
+    "Scoped LS17+LS06 correction independently confirmed; evidence: data/audits/retrospective-new-chapters-2026-09-12/receipts/PSA.148.13.json. Original full-review coverage is carried forward only for unchanged content. The scoped assessment and independent confirmation cover the changed candidate units and their notes; no new full-verse review is claimed. Original reviewer, date fields and contract provenance are preserved; original receipt: data/audits/retrospective-new-chapters-2026-09-12/before/PSA.148.13/review.json."
+  ],
+  "ref": "PSA.148.13",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

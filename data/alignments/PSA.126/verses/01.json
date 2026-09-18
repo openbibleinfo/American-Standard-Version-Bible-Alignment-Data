@@ -1,0 +1,158 @@
+{
+  "alignments": [
+    {
+      "note": "Construct noun; supplied indefinite article joins the noun under rule 15.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Article on the rectum; ASV writes no 'the' for the phrase (rule 29).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rectum takes 'of' under rule 19.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Temporal בְּ + infinitive construct recast as a finite clause takes 'When' (rule 52).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Infinitive construct rendered transitively; 'back' stays with the verb because 'brought' alone does not write the returning (rule 44, as with שׁוּב → 'turn ... again').",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Object marker; ASV renders the object bare (rule 16).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The ASV's 'those that returned' answers to a reading of this word as the participle (שָׁבֵי) rather than the noun שִׁיבָה the projection carries; no variant unit is recorded, so under rule 53 the English is aligned to the token as printed. The nominal recast as head noun plus relative clause is one unit (rule 46 closing paragraph), headed on the verb the recasting writes.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Rectum of the chain; the ASV recasts the construct relation with 'to', which belongs to the rectum (rule 19).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Finite verb with its subject pronoun (rule 17).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Comparative preposition rendered by a two-word expression; headed on the word carrying the lexeme (rule 24).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Anarthrous substantival participle takes the supplied 'them that' (rule 46), headed on the lexeme.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    }
+  ],
+  "ref": "PSA.126.1",
+  "review_notes": [
+    "'those that returned' (s008) reflects a different reading of שִׁיבַת; no variant unit recorded, aligned as printed under rule 53."
+  ]
+}

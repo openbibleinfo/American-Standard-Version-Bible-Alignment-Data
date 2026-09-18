@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "chapter": "1SA.29",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1SA.29.5.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'his ten thousands' is plural, rendering the plural qere בְּרִבְבֹתָיו. The ketiv ברבבתו, lacking the plural yod, stands as a distinct reading only as the singular 'his ten thousand'; the ASV's plural does not render that."
+    }
+  ]
+}

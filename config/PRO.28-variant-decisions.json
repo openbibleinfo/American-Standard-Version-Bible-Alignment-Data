@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "PRO.28",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PRO.28.8.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'by interest and increase' renders the two nouns as a coordinated pair under one preposition. The qere w@tarbit ('and increase') and the ketiv ubtarbit ('and by increase') both yield exactly this English: the ASV's single 'by' can distribute over both nouns or translate the ketiv's repeated beth without a second 'by'. No italicized supply and no textual note bears on the preposition, so the English does not distinguish the readings; the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.PRO.28.16.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'But he that hateth covetousness shall prolong his days' renders a singular subject with a singular verb, matching the qere sone' (singular participle). The ketiv sn'y is the plural/construct form, which would give 'they that hate ... shall prolong', and the ASV's 'he that hateth ... his days' excludes it. The chapter's only note here is classed alternative_rendering and concerns the English construal of the first clause, so it does not enter; the singular wording alone decides."
+    }
+  ]
+}

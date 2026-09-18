@@ -1,0 +1,209 @@
+{
+  "alignments": [
+    {
+      "note": "Vocative noun; anarthrous, so no article competes.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Article of εὐδοκία. The ASV writes *my heart's desire*, whose determiner slot is already occupied by the genitive phrase rendered with *'s*; rule 20 empties the article.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Correlative μέν; the ASV writes no word for it (rule 70). A reference comparison will report this as a disagreement; that report is not a correction.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "εὐδοκία rendered by the single word *desire*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Article of καρδίας; the first-person possessive adjective ἐμῆς carries *my*, so the article realizes nothing (rule 54).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "ἐμός names the possessor itself and takes *my* (rule 54).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Genitive noun rendered with the English prenominal possessive *heart's*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Coordinating καί.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "No genitive pronoun stands here, so the supplied possessive *my* is the article's own under rule 20's second arm, not an `added` word (rule 11).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "δέησις → *supplication*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Expressed preposition realized by *to* (rule 36).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Article before θεόν; the ASV writes *God* with no determiner, so nothing anchors it (rules 21, 23).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "θεόν → *God*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Verbless clause: the prepositional predicate carries the supplied copula under rule 53, and rule 62 heads such a unit on the word realizing the preposition. Giving *is* instead to εἰς, the other prepositional phrase in the clause, remains defensible; I took ὑπέρ because the ASV writes *is for* together and εἰς already carries the whole supplied clause-introducer.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Genitive pronoun → *them*.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "The preposition is realized by the word introducing its English clause (rules 40, 61), the ASV recasting εἰς σωτηρίαν as a finite purpose clause.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "The verbal noun is rendered by the finite *they may be saved*; subject and auxiliaries are rule 7 helpers and rule 17 heads on the lexical verb.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015",
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "ROM.10.1",
+  "review_notes": [
+    "The supplied *my* at t006 is the article's under rule 20's second arm, since no genitive pronoun stands with δέησις; the ASV's italics are evidence, not a verdict (rule 11).",
+    "μέν is left unrepresented per rule 70's English-side test."
+  ]
+}

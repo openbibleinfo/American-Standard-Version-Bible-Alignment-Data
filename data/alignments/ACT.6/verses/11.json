@@ -1,0 +1,191 @@
+{
+  "alignments": [
+    {
+      "note": "tote -> Then.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Subject pronoun is the verb's own helper under rule 9.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "andras -> men.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Rule 31: the attributive participle rendered as a finite relative clause takes the supplied relativizer as its helper; head on the verb word.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Rule 43: recitative hoti, which the ASV marks by punctuation and no English word. The same chapter aligns hoti to that at 6:14, where the ASV writes the complementizer; rule 43 decides from the English and rule 24 covers a chapter doing both.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Perfect with subject and auxiliary as the verb's own helpers under rule 9.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "autou -> him, the participle's subject in the genitive.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "lalountos -> speak.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "blasphema -> blasphemous.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "rhemata -> words.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "eis -> against, the preposition's own English on its first conjunct.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Mousen -> Moses.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "kai -> and.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Rule 21's determinerless clause: the ASV writes against God with no determiner, so the article anchors nothing and the case preposition stays with the noun, exactly as tou theou -> of God does at 6:2 and 6:7. Rule 23's article before a name reads the same way.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "theon -> against God. One Greek preposition governs two coordinate members and the ASV writes its English twice, so the second against* is a rule 7 helper on the member it introduces, as rule 40 gives to accomplish whole to teleioso and as rule 86 declines `added` for a conjunction's English repeated in a coordinated clause; the ASV writes no determiner, so under rule 21's determinerless clause the noun keeps it, matching of God at 6:2 and 6:7. Rule 103 does not reach it, its scope being a full lexical noun or verb and not a word in rule 7's own list. Competing readings: `added` under rule 103, or a discontinuous second realization of eis under rule 15 — both leave theon bare and both break the chapter's parallel with of God.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    }
+  ],
+  "ref": "ACT.6.11",
+  "review_notes": [
+    "The repeated against* is folded onto theon rather than marked `added`; rule 103 is scoped to a full lexical noun or verb, and rule 40's repeated-marker precedent places it on the coordinate member it introduces.",
+    "ton is unrepresented for the same reason the article before theou is at 6:2 and 6:7: the ASV supplies no determiner, so nothing anchors there and the preposition stays with the noun.",
+    "A reference comparison will report ton as a disagreement, as it does the parallel articles at 6:2, 6:7, 6:9 and 6:14; that report is not a correction."
+  ]
+}

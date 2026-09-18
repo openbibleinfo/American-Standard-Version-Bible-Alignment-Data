@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "8dd0c2ff593ab307e0ebfae8640d91c9beb0428ebabab2e889313c3b97a997b1",
+  "contract_version": "nt-greek-verse-v61",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed and returned unchanged: I could not find an edge or a head the contract decides differently. All 20 source ids and all 27 target ids are partitioned exactly once; every aligned unit has nonempty arrays with both heads inside them, and the two unrepresented units are source-only with a valid source head and a null target head.",
+    "The one materially contested edge is unto in he is like unto a man. The accepted reading keeps it with ἀνδρί as the dative's case preposition, and I confirm it. Rule 42 refuses in as many words to read a supplied preposition as part of the governing word's own idiom merely because nigh unto reads as one English phrase, and like unto is the same shape; rule 69 is the closer model still, giving οὐ κατενάρκησα οὐθενός → on any man to the governed word with the case preposition riding along under rules 21 and 36. The competing reading — is like unto whole on ἔοικεν — is named in that unit's note and remains defensible.",
+    "Both three-token units on a single noun (of the word, unto a man) are driven by the Greek being anarthrous, not by bundling. λόγου and ἀνδρί have no article, so rule 51's anarthrous clause makes the supplied the and a helpers on the noun and rule 21 has no article for the case preposition to ride with. Had an article stood there, rule 21 would have split of the and unto a off onto it.",
+    "The two unrepresented articles are decided by different rules and should not be collapsed into one reason. τό before πρόσωπον is rule 20 displacement: the ASV's recast puts his in the determiner slot and αὐτοῦ is present and unspent, so rule 76's availability arm does not reach it. τῆς before γενέσεως is rule 23: the genitive becomes the attributive adjective natural and the ASV writes no determiner for it at all.",
+    "ἔοικεν heads on like rather than is. The Greek is a single finite verb of resemblance, so the English is is the auxiliary rule 9 and rule 17 both tell us to pass over in favour of the lexical predicate. The expressed οὗτος keeps its own he, so no supplied-subject question under rules 53 or 68 arises here."
+  ],
+  "ref": "JAS.1.23",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

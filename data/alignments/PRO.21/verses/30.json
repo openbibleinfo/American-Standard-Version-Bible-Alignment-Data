@@ -1,0 +1,109 @@
+{
+  "alignments": [
+    {
+      "note": "The existential takes its supplied dummy and copula and heads on the negation word (rule 50).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "A single *nor* carries both the coordination and the negation of the second existential, so the two morphemes share one unit headed on the negative (rule 35).",
+      "source": [
+        "s003",
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "noncompositional",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "A second waw-plus-negative fusion on the same terms (rule 35).",
+      "source": [
+        "s006",
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "noncompositional",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The compound preposition לְנֶגֶד is rendered by the single word *against* (rule 30); with two prepositions and no morpheme carrying content the other lacks, the syntactic head is the one standing first (rule 23). Heading on נֶגֶד was the competing reading.",
+      "source": [
+        "s009",
+        "s010"
+      ],
+      "source_head": "s009",
+      "status": "noncompositional",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Divine name.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    }
+  ],
+  "ref": "PRO.21.30",
+  "review_notes": [
+    "Both *nor*s carry a negation of their own, so neither is a bare connective given to the waw alone (rule 35)."
+  ]
+}

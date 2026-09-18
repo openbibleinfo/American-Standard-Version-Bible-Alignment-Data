@@ -1,0 +1,5 @@
+# Isaiah 61 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- The divine title אֲדֹנָי and its frozen 1cs suffix. Both occurrences here stand in `אֲדֹנָי יְהוִה`, which the ASV writes *the Lord Jehovah*: no *my*, so nothing realizes the suffix and it is `unrepresented`, and the supplied *the* goes to the title (ISA.61.1 s002/s003, ISA.61.11 s015/s016). Recorded at `medium` in both verses, because the corpus places that *the* the other way just as often — 1KI.2.26, 1KI.3.10 and PSA.2.4 give it to the noun, 1KI.22.6, ISA.65.13 and ISA.65.15 give it to the suffix, and 1KI.3.15 fuses the two into one unit. Do not read the `unrepresented` suffix as a fact about the lemma: it follows from the ASV writing no *my* here. Where the ASV does write *my Lord* the suffix takes it in the ordinary way — PSA.16.2 `אֲדֹנָי אָתָּה` → *Thou art my Lord* — so rule 18 governs and no rule about אֲדֹנָי is needed.

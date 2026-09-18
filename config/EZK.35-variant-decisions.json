@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "chapter": "EZK.35",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.EZK.35.9.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV renders 'thy cities shall not be inhabited' (yashab), which is the ketiv תישבנה; the mapped textual_variant note 'Another reading is, return' relegates the qere תָשֹׁבְנָה (shub, 'return') to the margin, so the ASV text follows the ketiv."
+    },
+    {
+      "unit_id": "WLC.EZK.35.12.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the plural 'They are laid desolate', matching the qere plural שָׁמֵמוּ; the singular ketiv שממה ('it is desolate') is carried only by the marginal 'Or, It is', which is classed alternative_rendering and does not itself decide, while the text's plural wording does."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "chapter": "PSA.94",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Double interrogative particles in one colon (vv. 9–10): where הֲ stands on the participial subject and a second הֲ stands on לֹא before the finite verb, the ASV's single fronted 'shall' is given to the הֲ on לֹא and the הֲ on the participle is unrepresented. In v9 the second colon additionally opens with אִם; the auxiliary still goes to that colon's own הֲ, parallel to the first colon, and אִם is unrepresented (competing reading: 'shall' to אִם, noted on the unit).",
+    "Where a single supplied 'ye' stands immediately after an imperative and immediately before a vocative (Consider, ye brutish), the ASV's comma and the parallel colon's 'ye fools' resolve rule 36's adjacency tie in favour of the vocative; the verb keeps only its own word."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 25 candidate lemmas end to end. Every bucket with two treatments is the ASV rendering one word differently (suffix as me/my/them/their own by case; Jehovah with or without the supplied O; dative לְ written 'for me' in v16 but recast as the possessive 'my' in v17 and v22, where rule 40 leaves the preposition unrepresented). No construction is analysed two ways without the source licensing it.",
+    "The two `added` units (v2 'their' with no suffix present; v10 appositional 'Even' before a phrase no marker or waw stands on) have no counterpart folded into a neighbouring morpheme elsewhere in the chapter.",
+    "Verses 9 and 10 share the הֲ‑participle … הֲלֹא‑verb shape and are aligned identically: the הֲ on the participial subject is unrepresented and the הֲ standing on לֹא takes the fronted 'shall'. In v9 the second colon also opens with אִם; the pass gave 'shall' to the colon's own הֲ (parallel to the first colon) and left אִם unrepresented, with the competing reading noted. Defensible and consistent; recorded as a convention.",
+    "BSB disagreements (11): interrogative הֲ on the participle (v9, v10), אִם (v9), resumptive object suffixes under a written relative (v12 ×2), dative/resultative לְ recast as a possessive or under הָיָה (v13, v17, v22 ×3), paragogic he on עֶזְרָתָה (v17). All are documented convention differences; none is an error.",
+    "Chapter‑specific readings already carried in notes and left as is: v1 'to whom vengeance belongeth' on the construct rectum (relational recasting, both occurrences alike); v3 first‑colon 'shall' as the distributed realization of the gapped verb; v8 single 'ye' resolved to the vocative by the ASV comma and the parallel 'ye fools'; v15 'shall follow' on the prepositional predicate אַחֲרָיו; v22 'high tower' headed on 'high'.",
+    "No promotions or amendments: nothing here generalises beyond what the contract already says, and the one gap noticed (rule 36 where a single pronoun is adjacent to both imperative and vocative) has no corpus precedent in the briefing to carry it."
+  ]
+}

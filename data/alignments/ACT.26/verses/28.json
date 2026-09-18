@@ -1,0 +1,156 @@
+{
+  "alignments": [
+    {
+      "note": "Article before a name with no English determiner (rule 23).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "δέ → And.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Name.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The Greek clause has no verb; the standing prepositional phrase is the predicate and carries the supplied said, headed on the prepositional word (rules 17, 62).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Article before a name with no English determiner (rule 23).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Name.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Adjective with the supplied intensifier but as a helper (rule 7).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "πείθεις rendered by the nominal persuasion together with the modal frame thou wouldest fain; head on the word glossing the lexeme (rule 91).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Infinitive rendered by the bare make.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Accusative object pronoun.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Anarthrous predicate noun with supplied determiner (rule 51).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "ACT.26.28",
+  "review_notes": [
+    "v037 is underdetermined and v038 selected, both resolving to the base; the English matches.",
+    "said* is folded onto πρός under rule 62 rather than marked added, since the prepositional phrase is the verbless clause's predicate and Ἀγρίππας stands as its subject.",
+    "persuasion is kept inside πείθεις's unit as the word glossing that lexeme; marking it added under rule 103 and heading the unit on wouldest remains defensible. The ASV's margin (In a little time) construes ἐν ὀλίγῳ temporally, which would not change the token pairings."
+  ]
+}

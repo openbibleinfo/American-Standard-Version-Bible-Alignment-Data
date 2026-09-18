@@ -1,0 +1,26 @@
+{
+  "chapter": "PSA.111",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "לָעַד and לְעוֹלָם are read by what the ASV writes for the pair: where it writes 'for ever' the לְ takes 'for' and the noun 'ever' (rule 2; vv.3, 8, 9, 10), and where it writes a lone 'ever' the preposition and noun share one unit headed on the noun under rule 40's adverb fusion (v5 'will ever be mindful', v8 'for ever and ever' second 'ever'). The 'and' the ASV writes between the two asyndetic phrases in v8 is added (rule 14). The alternative of leaving the לְ unrepresented beside a lone 'ever' was considered and set aside."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 11 candidate lemmas across the 10 verses; none is a split. Every difference is licensed by the source or by the ASV's rendering.",
+    "הוּא Sp3mp: v6 לָהֶם → them (dative suffix, rule 40) against v10 עֹשֵׂיהֶם → his commandments (object suffix realized by the lexical expression naming its referent, rule 18) — two constructions, one bucket.",
+    "לְ before a construct noun: v2 agentive 'of', v6 dative left bare (rule 40), v9 'unto', v10 possessive 'have' in a verbless clause (rule 43) — each is what the ASV wrote for that preposition's relation.",
+    "לָעַד / לְעוֹלָם: split for/ever wherever the ASV writes both words (vv.3, 8, 9, 10); fused as one unit headed on the noun where the ASV writes a lone 'ever' (v5 'will ever be mindful', v8 second 'ever'). v8 carries both shapes and the added 'and' between the two asyndetic phrases is correct under rule 14.",
+    "בְּ in v1: 'with' on the first בְּ and 'In … in' on the second is rule 33/25's distributed scope over the coordinated וְעֵדָה, which carries no preposition of its own; not a split.",
+    "BSB disagreements (v4 לְ, v6 two לְ): all three are rule 40 recastings — a לְ-phrase promoted to direct object and two datives rendered as bare indirect objects. Convention differences, not errors.",
+    "Remaining units (copula placement in vv.3, 4, 7, 9, 10; supplied 'my' added in v1; light verbs in vv.1, 2, 5; supplied determiners on constructs) all follow the contract as written. No patches, no promotions, no amendments."
+  ]
+}

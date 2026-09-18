@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "PRO.17",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PRO.17.13.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'Evil shall not depart from his house' is intransitive and renders either stem: the qere תָמוּשׁ (qal, 'depart') directly, and the ketiv תָמִישׁ (hiphil) in its attested intransitive sense, with no object supplied in the English to force the causative. No ASV note is mapped to this unit, so nothing in the verse distinguishes qere from ketiv; the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.PRO.17.27.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'he that is of a cool spirit' renders קַר 'cool', the ketiv וקר, not the qere יְקַר 'precious/rare of spirit' — the English has no word answering to 'precious' and no marginal alternative offering one. The single note here is classed alternative_rendering and only reorders the clauses ('a man of understanding is of a cool spirit'), keeping 'cool spirit' in both renderings, so it does not bear on the reading but confirms the wording."
+    }
+  ]
+}

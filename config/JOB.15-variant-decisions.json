@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "chapter": "JOB.15",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JOB.15.15.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'his holy ones' is plural, matching the qere בִּקְדֹשָׁיו, but the ketiv בקדשו is the common defective spelling of the same 3ms plural suffix (-ו for -יו) and is read 'his holy ones' too; the English cannot tell the two orthographies apart. No textual note is mapped to this unit. Base fallback (qere) retained."
+    },
+    {
+      "unit_id": "WLC.JOB.15.22.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'he is waited for of the sword' renders a singular passive participle with the sword as agent, which is the qere וְצָפוּי 'he is watched for'. The ketiv וצפו is an active plural 'they watch/have watched', which would yield 'they watch him for the sword' rather than a passive with 'of the sword' as agent; the ASV's construction excludes it."
+    },
+    {
+      "unit_id": "WLC.JOB.15.31.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'in vanity' renders שָׁוְא/שָׁו in either spelling; the qere בַּשָּׁיו and ketiv בשו differ only orthographically and both mean 'in vanity/emptiness'. Nothing in the English wording, no italic supply, and no mapped textual note distinguishes them. Base fallback (qere) retained."
+    }
+  ]
+}

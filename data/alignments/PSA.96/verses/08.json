@@ -1,0 +1,177 @@
+{
+  "alignments": [
+    {
+      "note": "Imperative to *Ascribe*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Preposition to *unto*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Construct noun takes a supplied *the* under rule 29; no article morpheme stands in the chain.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The ASV recasts the construct relation with *unto*; under rule 19 the preposition belongs to the rectum, headed on the noun. Discontinuous around the possessive under rule 25. The supplied *due* is not the relation's rendering but a lexical predicate and is placed separately.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "*due* is a supplied lexical adjective predicating something of the glory, exactly as *done* in `חֲמַס אֶרֶץ` → *violence done to the land* under rule 20's nominal-recasting boundary; a construct relation licenses the preposition *unto* but not a supplied lexical predicate. Competing reading: *due unto* whole on the rectum as the recast relation under rule 19; rejected because *due* names a state the Hebrew never writes. ASV italic corroborates without deciding (rule 7).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Suffix to possessive under rule 18.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "`נָשָׂא` rendered *Bring*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Supplied *an* belongs to the noun under rule 15.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Directional `לְ` to *into*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Suffix to possessive under rule 18.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "PSA.96.8",
+  "review_notes": [
+    "Corrected: *due* in *the glory due unto his name* was folded into the rectum as part of the recast construct relation; under rule 20's nominal-recasting boundary (`חֲמַס אֶרֶץ` → *violence done to the land*, *done* added) a construct relation licenses only the preposition, so *unto* stays on `שֵׁם` and *due* is its own added unit."
+  ]
+}

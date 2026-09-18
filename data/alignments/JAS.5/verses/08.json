@@ -1,0 +1,170 @@
+{
+  "alignments": [
+    {
+      "note": "Discontinuous under rule 15; the imperative copula *Be* is a rule 9 helper and rule 17 heads on the lexical predicate *patient*, not the auxiliary.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Intensifying καί realized by *also* (rule 65's English-side test). No comparative stands for it to answer, so rules 82 and 100 are not in question.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Expressed subject pronoun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Bare imperative.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Rule 20: the genitive pronoun ὑμῶν is free and takes the supplied possessive *your*, so the article realizes nothing. Rule 76's availability test agrees, ὑμῶν being spent on no other English word.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun stands bare, the determiner slot being occupied by the possessive.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Genitive pronoun rendered by the possessive *your* under rule 20.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Causal ὅτι rendered *for*. Rule 43 is not in question, the ASV writing a word for it.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Rule 19: article surfaces as *the*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Noun alone; its determiner is on the article under rule 19.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Rule 21: the genitive's case preposition *of* rides with the article's *the*, headed on *the*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Noun stands alone under rule 21.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "The whole frame *is at hand* renders the expressed perfect; the copula is a rule 9 helper on the verb's own English, so rule 53 is not in question. Head on *hand* by rule 91's operational test, the ἐγγ- family heading *at hand* and *is at hand* on *hand* in every corpus unit rule 71 lists (JHN.2.13, JHN.6.4, JHN.7.2, JHN.11.55, PHP.4.5, REV.1.3, REV.22.10) and never on the prepositional word. Heading on *is* or on *at* is the competing reading and nothing in the family supports it.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "JAS.5.8",
+  "review_notes": [
+    "Unchanged from the accepted alignment: all 13 units verified against the token table and the contract, and no unit was altered.",
+    "Partition checked directly: s001–s013 each appear in exactly one unit, and t001–t016 each appear exactly once (t001+t004 / t003 / t002 / t005 / — / t007 / t006 / t008 / t009 / t010 / t011+t012 / t013 / t014+t015+t016). Every head is a member of its own array, and the one unrepresented unit has an empty target and a null target head.",
+    "s005 is the only unrepresented unit and the reading is rule 20 proper, not rule 23: a free genitive pronoun occupies the determiner slot, so the article realizes nothing. The contrast within the verse is s009 and s011, where no possessor competes and each article keeps its own *the* under rules 19 and 21.",
+    "s013's head is the one place a materially different reading was weighed. Rule 71's precedent is stated for the improper preposition ἐγγύς rather than for the verb ἐγγίζω, so it does not govern this unit directly; the route is rule 91's operational test (with rule 104's root-family query), which points at the same ἐγγ- material and returns *hand* unbroken. Rule 17 independently rejects *is*, the finite auxiliary, and *at*, the prepositional word, in favour of the meaning-bearing complement.",
+    "s001 keeps *Be* and *patient* together across the intervening s003 and s002 targets under rule 15; splitting the copula off would strand a helper from the word licensing it, contrary to rule 27."
+  ]
+}

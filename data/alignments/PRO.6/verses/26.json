@@ -1,0 +1,163 @@
+{
+  "alignments": [
+    {
+      "note": "",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Compound English preposition is one rendering; head on the content word it turns on (rules 24, 30).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Generic head noun with the attributive naming the class, rendered by one English word; the pair shares a unit headed on the morpheme carrying the lexeme, with the indefinite article going to the nominal expression (rules 15, 30).",
+      "source": [
+        "s003",
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The Hebrew writes no subject naming this man; the supplied subject is one added unit headed on its noun (rules 2, 20). The ASV italics corroborate and decide nothing (rule 7).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The predicate עַד names the endpoint of reduction to a piece of bread. The ASV's is brought to expresses that result relation, not a separate event of physical bringing, so its change frame joins the preposition and heads on to under rule 49. The competing rule 20 supplied-lexical-verb reading would detach the reduction frame from the predicate that licenses it; only a man is supplied independently.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Supplied indefinite article with the construct noun (rules 15, 29).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Rectum takes the chain's *of* (rule 19).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "The chain is rendered by one English word writing neither noun's own lexeme, so the pair is indivisible and the construct is the deterministic anchor (rule 6); the supplied *the* joins the expression (rule 29). The margin's literal gloss (*Hebrew a man's wife*) corroborates the fusion and decides nothing (rule 38).",
+      "source": [
+        "s009",
+        "s010"
+      ],
+      "source_head": "s009",
+      "status": "noncompositional",
+      "target": [
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "The preposition the English verb needs to reach its own bare object belongs to the verb's unit (rule 44).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Supplied *the* determines this nominal (rule 15), discontinuous around the adjective (rule 25).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    }
+  ],
+  "ref": "PRO.6.26",
+  "review_notes": [
+    "Scoped review of the first colon: *a man* is an added subject; *is brought to* renders the resultative endpoint predicate עַד under rule 49, headed on *to*."
+  ]
+}

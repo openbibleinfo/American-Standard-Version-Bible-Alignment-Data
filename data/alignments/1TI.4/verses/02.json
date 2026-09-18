@@ -1,0 +1,102 @@
+{
+  "alignments": [
+    {
+      "note": "ἐν → through.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Anarthrous Greek, so the supplied determiner is an ordinary rule 7/51 helper on the noun.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "One Greek compound noun expanded to *men that speak lies*; rule 91 heads on the word glossing the lexeme, *speak*, as `βλασφημοῦντες` → *speaking evil of* heads on *speaking*, with *men* the generic completion and *of* the case preposition riding along.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005",
+        "t006",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "The whole supplied expansion *as with a hot iron* belongs to the participle, no other source token licensing it; discontinuous under rule 15.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t014",
+        "t015",
+        "t016",
+        "t017",
+        "t018"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Rule 47: `ἴδιος` between article and expressed noun carries the supplied possessive, so the article realizes nothing.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rule 47: *their own* to the possessive adjective.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "The article being unrepresented, the supplied case preposition stays with the noun (rule 21's determinerless clause); discontinuous under rule 15.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t013"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "1TI.4.2",
+  "review_notes": [
+    "The head of `ψευδολόγων` was reviewed independently: *men* is the generic completion and *speak* the gloss, so rule 91's operational test puts the head there rather than on the formal English noun."
+  ]
+}

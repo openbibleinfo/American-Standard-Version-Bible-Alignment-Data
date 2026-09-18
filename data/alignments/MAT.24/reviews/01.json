@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "71d28ecd8e046a4e8770475c46dca957b33e2ea71f14c270708e9bc10ced0408",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 19 source and 27 target ids partition exactly once.",
+    "Rule 88 correctly places the supplied 'and' on ἐπορεύετο, the finite verb it introduces after the converted participle ἐξελθών; 'on his way' is the idiom's own English and no source token competes for it.",
+    "οἱ is rightly unrepresented under rule 20, αὐτοῦ carrying 'his'; προσῆλθον's supplied 'to him' has no Greek preposition or pronoun to belong to (s015 αὐτῷ is spent on the later 'him')."
+  ],
+  "ref": "MAT.24.1",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

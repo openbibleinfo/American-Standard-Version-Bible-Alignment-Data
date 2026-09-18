@@ -1,0 +1,121 @@
+{
+  "alignments": [
+    {
+      "note": "Pual verb with its subject pronoun and auxiliary (rule 17).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Distributive noun rendered 'one'.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Construct noun rendered 'another'.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The ASV writes 'one to another' with no pronoun for the suffix.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Verb with its subject pronoun and the adverb of its rendering; head on the lexical verb.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t009"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Waw rendered by the coordinator-plus-subordinator pair 'so that' as one rendering, headed on the coordinator (rule 55). The corpus also heads such pairs on the subordinator.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Negative fused with the supplied modal into 'cannot'; no `יָכֹל` stands in the clause (rule 35).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Verb with its subject pronoun and auxiliary, discontinuous around 'cannot' (rules 17, 25).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "JOB.41.17",
+  "review_notes": [
+    "'so that' taken as one rendering of the waw under rule 55; head placed on 'so', with 'that' named as the corpus's other heading."
+  ]
+}

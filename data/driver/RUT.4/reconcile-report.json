@@ -1,0 +1,26 @@
+{
+  "chapter": "RUT.4",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "גֹּאֵל is rendered *near kinsman* throughout (4.1, 4.3, 4.6, 4.8, 4.14) and every unit heads on *kinsman*: rule 31's subtraction ties, and the ASV's own use decides it, since *near* is the specifier it writes beside a class noun it also writes alone (RUT.2.20 *near kinsmen*, RUT.3.9 and RUT.3.12 *near kinsman*). A supplied indefinite article joins that nominal under rule 15 (4.14) and is never the head, and a supplied preposition standing beside the noun is the governing verb's under rule 44 (4.14 *without*), not this noun's.",
+    "The particle of this chapter's phrasal verbs stays with the verb and is not marked `added` under rule 44's surplus-particle sentence: *sat/sit down* for יָשַׁב (4.1 three times, 4.2 twice), *turn/turned aside* for סוּר (4.1 twice), *drew off* for שָׁלַף (4.7, 4.8), *raise up* for hiphil קוּם (4.5, 4.10), *is come again* for שׁוּב (4.3), *cut off* for כָּרַת (4.10), and *went in* for בּוֹא (4.13, whose direction the following אֶל writes). In each the bare English verb fails to write the source verb's whole lexeme, so both of that sentence's conditions fail. The supplied reflexive object *him* of 4.1's *sat him down* is a different matter and is `added`, Qal יָשַׁב licensing no reflexive.",
+    "For קָרָא with שֵׁם, count the ASV's words against the two morphemes rather than carrying one division into both places. At 4.11 the ASV writes only *be famous*, so the finite verb takes the *be* that carries its imperative slot and שֵׁם takes *famous*, which writes the renown; at 4.14 it writes *let his name be famous*, so שֵׁם takes *name*, its suffix *his*, and the verb takes *let ... be famous* headed on *famous*, a morpheme already holding an English word of its own not being a home for a second. The fused reading of 4.11 under rule 30 is named in that unit."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v195",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 45 candidate lemma groups and the whole dump end to end (the table is blind to `added` units, so the chapter's ~20 supplied-English units were counted verse by verse against the morphemes standing in their clauses). No construction is analysed two ways without a licensing difference in the source or in the ASV's own words. No patches.",
+    "Nearest candidates, all dismissed. (i) קָרָא + שֵׁם: 4.11 *be famous* splits *be* onto the verb and *famous* onto שֵׁם, while 4.14 *let his name be famous* gives *name* to שֵׁם and *let ... be famous* to the verb — the ASV writes a word for the noun in one place and not in the other, so what differs is the count, not the analysis (recorded as a convention). (ii) The supplied object *it* is `added` at every occurrence in 4.4–4.8, no object morpheme standing in any of those clauses, while 4.16 וַתְּשִׁתֵהוּ → *laid it* gives the pronoun to the suffix; that is rule 44's own division. (iii) לְ aligned in nine places and `unrepresented` in fourteen tracks exactly whether the ASV writes a word for it: the dative and possessive recastings of 4.4, 4.12, 4.13, 4.14 and 4.17, the resultative beside הָיָה at 4.13, 4.15 and 4.16, לֵאמֹר at 4.4 and 4.17, and the bare complement of *cannot* at 4.6 all keep nothing. (iv) אֵת is `unrepresented` in eighteen places and takes *of* once, at 4.15, where the ASV recasts the governing infinitive as the noun *a nourisher* and spends that word on the object relation (rule 16). (v) The rule 29 counts at 4.2 (*the elders of the city*, arthrous rectum, nothing fronted) and 4.3 (*the parcel of land*, anarthrous rectum, the article's *the* fronted onto the construct) differ because the rectum's determiner differs, which is what rule 29 makes the test.",
+    "Two judgments left standing with their competing readings named in the units rather than patched, since both are defensible and neither conflicts with anything else in the chapter: 4.5's בְּיוֹם קְנוֹתְךָ → *What day thou buyest*, where *What* is given to the בְּ rather than to the construct relation under rule 19; and 4.10's וְגַם → *Moreover*, where the one written word is given to גַּם, whose lexeme it writes, leaving the waw `unrepresented` under rule 14's closing paragraph. Every other waw in the chapter (60 of them) takes the connective the ASV wrote for it.",
+    "BSB: all 25 disagreements are documented convention differences, none an error. Paragogic he at 4.1 (twice) and 4.4 is rule 32; the sixteen R disagreements are the recast prepositions of rules 40, 21, 27 and 52 listed above; the four Td are articles for which the ASV writes no *the* (4.7 twice) or for which another morpheme carries the phrase's single determiner (4.12, rules 41 and 47); the 4.10 waw and the 4.11 suffix of שְׁתֵּיהֶם are the two judgment calls named above. BSB attaches each of these to its host word by its own convention.",
+    "4.14's earlier correction — the supplied *without* moved from גֹּאֵל onto הִשְׁבִּית — is in the accepted file and is consistent with the chapter's other rule 44 supplied prepositions (4.1 *of* on דִּבֶּר, 4.1 *unto* on יֹּאמֶר, 4.4 *unto* on the גָּלָה אֹזֶן idiom)."
+  ]
+}

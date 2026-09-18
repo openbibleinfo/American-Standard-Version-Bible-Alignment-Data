@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "chapter": "PRO.27",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PRO.27.10.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV renders a construct chain, \"thy father's friend\", with no ASV note attached to this unit. Qere וְרֵעַ and ketiv ורעה are orthographic variants of the same construct noun before אביך and yield the same English; nothing in the wording distinguishes them."
+    },
+    {
+      "unit_id": "WLC.PRO.27.15.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV \"a contentious woman\" translates אשת מדינים/מדונים identically; the qere מִדְיָנִים and ketiv מדונים are alternate plural forms of the same noun \"contentions\". No ASV note is mapped here, so the English cannot distinguish the readings."
+    },
+    {
+      "unit_id": "WLC.PRO.27.20.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV transliterates the proper name as \"Abaddon\" without a note. Qere וַאֲבַדּוֹ and ketiv ואבדה are spelling variants of that same name, and the ASV's fixed English form reflects neither final letter, so the wording settles nothing."
+    },
+    {
+      "unit_id": "WLC.PRO.27.24.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV \"unto all generations\" renders the repeated לדור (ו)דור as a single idiomatic phrase; the only difference between qere וָדוֹר and ketiv דור is the conjunction, which this English rendering does not represent. No ASV note is mapped to the unit."
+    }
+  ]
+}

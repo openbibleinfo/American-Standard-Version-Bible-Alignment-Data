@@ -1,0 +1,28 @@
+{
+  "chapter": "JOB.17",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "JOB.17.9"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Anarthrous substantival adjectives, including one in construct on a following noun (טֳהָר־יָדַיִם → 'he that hath clean hands'), take the ASV's supplied 'the', 'men', 'a ... man' or 'he that' into their own unit under rule 46 (17.8, 17.9, 17.10). A supplied verb of having that recasts the construct relation ('hath') is the only added word; rule 2's טוֹב־עַיִן 'He that hath' precedent applies only where a written הוּא takes the 'He' and the phrase is a predicate.",
+    "Where the ASV recasts a colon and supplies an English subject pronoun, the pronoun goes with a finite Hebrew verb the ASV keeps as the English predicate even across a number mismatch ('It shall go down' for 3fp תֵּרַדְנָה, rule 17), and is added where the English predicate answers to a noun the ASV has verbalized and the Hebrew finite verb is dropped ('they spit' for תֹּפֶת ... אֶהְיֶה, 17.6, with אֶהְיֶה unrepresented).",
+    "A fronted nominal with no marker and no preposition on it leaves the ASV's 'as for' added under rule 16 (17.10 כֻּלָּם, 17.15 תִקְוָתִי); an appositional 'Even' before a phrase with neither marker nor waw is added on the same terms (17.11), while the waw of 17.5 takes its own 'Even' under rule 14."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Cross-verse table: all 14 lemma groups are ASV-driven differences (suffix case, connective choice, article written or not, 'from' vs 'by reason of', מִי with and without a construction copula); none is a split.",
+    "One real split the table cannot see: the anarthrous substantival adjective. JOB.17.8 (Upright men, the innocent, the godless), JOB.17.9 s003 (the righteous) and JOB.17.10 (a wise man) join the ASV's supplied noun-phrase material to the adjective under rule 46, but JOB.17.9 s007 טֳהָר־יָדַיִם → 'he that hath clean hands' marked 'he that hath' as one added unit on rule 2's טוֹב־עַיִן example. That example rests on a written הוּא taking 'He' and on the phrase being a predicate; here the construct adjective is the clause's subject substantive and no pronoun stands, so rule 46 governs: 'he that' joins the adjective (never added) and only the supplied verb of having 'hath' is added under rule 20/43. Patched.",
+    "BSB disagreements (7) are all documented convention: paragogic he (rule 32), resultative לְ silenced by the double-object recasting (rule 40), אֶהְיֶה dropped by the ASV's recasting of 17.6b, the unrendered 3mp suffix of כֻּלָּם where the ASV writes 'all my members', and three waws the ASV writes no connective for (rules 14, 56). No genuine error.",
+    "Noncompositional 'shall wax stronger and stronger' (17.9) left standing; competing split named in its note. Supplied 'It' of 17.16 kept with the finite verb the ASV retains as predicate (rule 17) while 'they' of 17.6 is added because its English predicate answers to a noun; recorded as a convention.",
+    "No promotions or amendments: rule 46 already states the ruling the patch applies."
+  ]
+}

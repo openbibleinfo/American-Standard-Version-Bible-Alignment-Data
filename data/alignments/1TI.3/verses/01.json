@@ -1,0 +1,137 @@
+{
+  "alignments": [
+    {
+      "note": "Verbless Greek clause with an adjectival predicate; the supplied copula is a rule 53 helper on the predicate adjective, not on the subject noun phrase.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Article realized by *the* (rule 19).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Ordinary conditional particle.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Anarthrous indefinite; the supplied determiner is a rule 7/51 helper. Head on the nominal *man* rather than the determiner.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "One Greek noun rendered by the whole phrase *the office of a bishop*. Rule 91's test puts the head on *office*: the corpus spends *bishop* on ἐπίσκοπος (1TI.3.2), so *office* is what answers to the abstract lexeme ἐπισκοπή. A head on *bishop* is the competing reading.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Adjective and noun both anarthrous, so the supplied determiner belongs to the noun under rule 58; discontinuous under rule 15.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Inflected verb takes its English subject; head on the lexical verb under rule 9.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "1TI.3.1",
+  "review_notes": [
+    "Every s### and t### partitioned exactly once.",
+    "The chief judgment call is the head of ἐπισκοπῆς → *the office of a bishop*; taken on *office* by rule 91's operational test."
+  ]
+}

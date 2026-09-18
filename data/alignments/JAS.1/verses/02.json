@@ -1,0 +1,122 @@
+{
+ "alignments": [
+  {
+   "note": "Quantifier to *all*; rule 26 keeps it separate from the noun it modifies.",
+   "source": [
+    "s001"
+   ],
+   "source_head": "s001",
+   "status": "aligned",
+   "target": [
+    "t003"
+   ],
+   "target_head": "t003"
+  },
+  {
+   "note": "Noun to *joy*, independently recoverable from the quantifier.",
+   "source": [
+    "s002"
+   ],
+   "source_head": "s002",
+   "status": "aligned",
+   "target": [
+    "t004"
+   ],
+   "target_head": "t004"
+  },
+  {
+   "note": "Imperative with its supplied English object *it*, a rule 7 helper on the verb that requires it (rule 74's object side: a supplied object stays with the verb whose argument it is). Head on the lexical verb *Count* under rule 17.",
+   "source": [
+    "s003"
+   ],
+   "source_head": "s003",
+   "status": "aligned",
+   "target": [
+    "t001",
+    "t002"
+   ],
+   "target_head": "t001"
+  },
+  {
+   "note": "Anarthrous vocative; no article competes, so the noun simply takes *brethren* (rule 89's final clause).",
+   "source": [
+    "s004"
+   ],
+   "source_head": "s004",
+   "status": "aligned",
+   "target": [
+    "t006"
+   ],
+   "target_head": "t006"
+  },
+  {
+   "note": "Genitive pronoun realized by the possessive *my*; no article stands here for rule 20 to empty.",
+   "source": [
+    "s005"
+   ],
+   "source_head": "s005",
+   "status": "aligned",
+   "target": [
+    "t005"
+   ],
+   "target_head": "t005"
+  },
+  {
+   "note": "Temporal conjunction to the word introducing its English clause (rule 40).",
+   "source": [
+    "s006"
+   ],
+   "source_head": "s006",
+   "status": "aligned",
+   "target": [
+    "t007"
+   ],
+   "target_head": "t007"
+  },
+  {
+   "note": "Dative noun with the English preposition its case licenses, discontinuous around *manifold* under rule 15 and headed on the noun under rule 17. Rule 21 keeps a supplied case preposition with the noun where no determiner-bearing article stands to anchor it (*by prayer*, *to God*, *unto men*), and rule 58 places it on the noun rather than the intervening attributive adjective. The governing precedent is JHN.19.29, the corpus's one other anarthrous dative under a περι- compound: `περιθέντες ὑσσώπῳ` → *upon hyssop* gives *upon* to the noun and not to the compound verb, citing rules 21 and 36 and conceding nothing; 2PE.2.5 `κόσμῳ` → *upon the world* does the same, though it concedes the verb reading. The competing reading attaches *into* to `περιπέσητε` as the compound verb's own particle, on the strength of the packet's gloss line (*you might fall into*) and of the περι- prefix. I rejected it because the corpus gives a compound verb an English particle only where that particle answers to the prefix itself (PHP.1.25 `παραμενῶ` → *abide with*, 2CO.8.22 `συνεπέμψαμεν` → *we have sent with*), and περι- means *around*, not *into*: on that reading *into* would answer to nothing in the Greek while the dative's case went unmarked. The chapter draws the same line at JAS.1.23, where `ἔοικεν` → *is like* leaves *unto* to `ἀνδρί`, and still lets a verb keep a genuine particle at JAS.1.18, where `ἀπεκύησεν` → *he brought forth*. The verse note's alternative rendering *trials* does not change the alignment.",
+   "source": [
+    "s007"
+   ],
+   "source_head": "s007",
+   "status": "aligned",
+   "target": [
+    "t010",
+    "t012"
+   ],
+   "target_head": "t012"
+  },
+  {
+   "note": "Inflected subjunctive takes its supplied subject *ye* under rule 7 and the lexical verb, headed on *fall* under rules 9 and 17. *into* is not here: see the s007 note for why the case preposition goes with the dative noun.",
+   "source": [
+    "s008"
+   ],
+   "source_head": "s008",
+   "status": "aligned",
+   "target": [
+    "t008",
+    "t009"
+   ],
+   "target_head": "t009"
+  },
+  {
+   "note": "Attributive adjective to *manifold*; the Greek is anarthrous and no determiner is supplied, so rule 58's supplied-determiner clause is not in question and only its case-preposition clause bears, keeping *into* off the adjective.",
+   "source": [
+    "s009"
+   ],
+   "source_head": "s009",
+   "status": "aligned",
+   "target": [
+    "t011"
+   ],
+   "target_head": "t011"
+  }
+ ],
+ "ref": "JAS.1.2",
+ "review_notes": [
+  "Changed from the accepted alignment at one edge: *into* (t010) moves from s008 (περιπέσητε) to s007 (πειρασμοῖς), which is now the discontinuous *into … temptations* headed on *temptations*, and s008 keeps *ye fall* headed on *fall*. Rule 69's `οὐ κατενάρκησα οὐθενός` → *I was not a burden on any man* puts the supplied preposition on the governed nominal under rules 21 and 36 despite an equally phrasal-looking English verb; rule 36 refuses the phrasal-verb argument by name, and rule 21's determinerless list (*by prayer*, *to God*, *unto men*) is this construction.",
+  "The accepted reading remains defensible and is named in the s007 note per rule 16. Its best evidence is the packet's own gloss of s008 as *you might fall into*; that is a literal interlinear gloss rather than an ASV-based one (the same column glosses s005 *of me* where the ASV writes *my*), so it does not settle where the ASV's *into* attaches.",
+  "All nine source ids and all twelve target ids are partitioned exactly once. Every unit is aligned: no unrepresented, added or noncompositional units, since every source token has an English realization and every English token answers to a source token.",
+  "Unchanged and checked: s003 keeps its supplied object *it* under rule 74's object side, headed on *Count*; s005 takes *my* with no article present to empty under rule 20; s004 is an anarthrous vocative with no supplied address word, so rule 89's final clause leaves *brethren* on the noun."
+ ]
+}

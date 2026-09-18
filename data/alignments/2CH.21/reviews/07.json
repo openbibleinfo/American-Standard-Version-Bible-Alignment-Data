@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "39238733089ab39baf8a59a2f651f50f39f3d26045d1f9b4a4bdb26223232196",
+  "contract_version": "ot-hebrew-verse-v210",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "*alway* is read as a fusion of `כֹּל` and `יָמִים` with the separately segmented article unrepresented, following rule 30's treatment of `דִּבְרֵי הַיָּמִים` → *chronicles*; head on the governing construct under rule 23, both lexemes standing inside the one word.",
+    "The `לְ` before `הַשְׁחִית` is unrepresented because the ASV writes no word for it in this recasting (rules 40, 52), while the `לְ` before `תֵת` takes the written *to*.",
+    "`לְמַעַן` → *because of* heads on the content word *because* rather than the connective (rule 24).",
+    "Scoped deferred investigation PARITY-146 independently resolved; evidence: data/audits/retrospective-deferred-2026-09-14/receipts/2CH.21.7.json. Original full-review coverage is carried forward only for exact unchanged units and metadata. Two fresh sessions independently agreed on the changed source/target ownership, heads and statuses. Unit notes come from the recorded assessment; their independent agreement is recorded separately. No new full-verse review or new historical review is claimed; original identity, dates and contract provenance are preserved."
+  ],
+  "ref": "2CH.21.7",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

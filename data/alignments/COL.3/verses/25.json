@@ -1,0 +1,141 @@
+{
+  "alignments": [
+    {
+      "note": "Substantival article before a participle supplies the pronoun and nothing else (rule 32).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Causal conjunction, fronted in English (rule 15); SBLGNT.COL.3.25.v024 selected r00-base.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Participle rendered as a finite relative clause with the relativizer as helper (rule 32); ἀδικέω is a support-verb rendering whose meaning-bearing complement 'wrong' takes the head (rules 17, 91).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Future with auxiliary, headed on the lexical verb; 'again' is the verb's own particle and 'for' is the phrasal government of an accusative object, which has no case for an English preposition to realize, so both stay inside the unit (rules 17, 106).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t008",
+        "t009"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Relative pronoun expanded with an antecedent noun and determiner; the noun carries the content and takes the head (rule 77). Putting 'wrong' with the verb instead, leaving the relative 'the … that', remains defensible.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Finite verb with subject and auxiliary as helpers, headed on the verb word (rules 7, 9); its cognate complement stands in the relative's unit.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Connective.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "The negation is written once, as the determiner 'no'; the following noun is not itself a negative, so rules 41 and 59 do not empty the negator.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Expressed existential verb with its expletive subject; rule 96's supplied-verb question does not arise, the Greek verb being written.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Compound noun rendered by the phrase 'respect of persons'; the verbal-root word takes the head, as 'men-pleasers' heads on 'pleasers' (rules 66, 91).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t020",
+        "t021",
+        "t022"
+      ],
+      "target_head": "t020"
+    }
+  ],
+  "ref": "COL.3.25",
+  "review_notes": [
+    "'for' kept inside the verb's unit under rule 106's accusative arm: ὅ is accusative and has no case for the preposition to realize.",
+    "The two ἀδικέω tokens were headed independently; the second's cognate noun sits in the relative's unit, with the competing division recorded in the note."
+  ]
+}

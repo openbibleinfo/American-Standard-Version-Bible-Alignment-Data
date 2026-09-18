@@ -1,0 +1,6 @@
+# 1 Samuel 8 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- The king's-manner speech coordinates a second verb whose object the Hebrew gaps, and the ASV supplies a *them* English requires: וְשָׂם לוֹ (8.11), וְלָשׂוּם (8.12), וְנָתַן לַעֲבָדָיו (8.14), וְעָשָׂה לִמְלַאכְתּוֹ (8.16). Every one of those pronouns is its own `added` unit under rule 44, whether or not the verse names the referent earlier: no object morpheme stands in the clause the pronoun stands in, and a noun already rendered as the object of its own verb (בְּנֵיכֶם, שְׂדוֹתֵיכֶם and the rest) does not take a second English word. Rule 25's resumption was considered and set aside for all four.
+- יַעְשֹׂר (8.15, 8.17) is rendered by the light verb *take the tenth*, one unit headed on *tenth* under rule 44, and the *of* the English needs to reach its bare object joins that unit rather than the object noun. At 8.15 the ASV writes that *of* a second time over the coordinated member (*of your seed and of your vineyards*); both occurrences belong to the verb's one discontinuous unit under rule 25's clause on a supplied function word rewritten over a gapped member.

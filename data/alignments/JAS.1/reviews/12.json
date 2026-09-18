@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "569c82146033ab3fbb273cae983e1022f5d6a009205c076b612976bde79a9d78",
+  "contract_version": "nt-greek-verse-v61",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Kept the accepted alignment's units and heads unchanged; the only substantive edit is to s019's note, which cited rule 31 for the relativizer. Rule 31 is only the test (does the article govern an expressed head noun?); here it governs none, so the split and the relativizer's placement on the participle are rule 32's, and the note now says so. No id membership, status or head moved.",
+    "Partition verified: s001–s020 and t001–t029 each appear exactly once. Units are presented in target order, so s008 precedes s007 and s016–s017 precede s015.",
+    "s012 is the only `unrepresented` unit. A reference comparison will report it as a disagreement; rule 21's determinerless case (*of peace*, *by prayer*) decides it, since the ASV writes *of life* with no *the* for the article to anchor.",
+    "t022/t023 carry ASV addition markup. The variant line selects r01 of SBLGNT.JAS.1.12.v002, which covers s015–s017, and carries no `FALLBACK EXCLUDED BY EVIDENCE` mark, so rule 97 is not in play in either direction and rule 11 keeps *the Lord* aligned rather than `added`. Rule 12 bars reopening the textual question here even though the ASV's own base evidently lacked `ὁ κύριος`.",
+    "s007/s008 were split rather than bundled: *approved* recovers `δόκιμος` and *when he hath been* recovers `γενόμενος`. The competing reading — treating *hath been approved* as one English passive verb phrase on the participle — is recorded in the s007 note per rule 16.",
+    "*when* at t009 is a helper, not `added`: rule 86's test asks whether a source token licenses the subordinator, and the participle `γενόμενος` is such a token."
+  ],
+  "ref": "JAS.1.12",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,147 @@
+{
+  "alignments": [
+    {
+      "note": "First-plural verb takes its supplied subject pronoun and the lexical verb under rules 7 and 9; head on the lexical verb.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Anarthrous Greek noun, so the supplied indefinite is an ordinary rule 7/51 helper on the noun it determines.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Portmanteau under rule 35: *where-* answers to the relative and *-of* to the preposition, so the pair is one aligned unit headed on the pronominal, not noncompositional under rule 45.",
+      "source": [
+        "s003",
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "No conjunction governs the infinitive, so the infinitival marker is a rule 7 helper on its own verb (rules 40, 61).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "The English negation is written once, as the determiner *no* on the noun. `ἐξουσίαν` is a plain noun and not a negative indefinite, so rules 41 and 59 do not empty the negator; it takes the negation word in the ordinary way and the noun keeps its own English.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The subject is expressed by the substantival article, which takes *they*, so the finite verb keeps only *have*. The ASV spells both elements of `ἔχουσιν ἐξουσίαν` out, so rule 2 splits the pair rather than rule 73 joining it.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "The noun's own English word; its determiner slot is occupied by the negation on `οὐκ`.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Substantival article before a participle: rule 32 gives it the pronoun and nothing else, exactly as `οἱ κατοικοῦντες` → *they that dwell*. The competing reading is rule 90's, giving the article the relativizer *that* and letting the participle keep a bare *serve*; that rule is scoped to where the ASV writes only **one** English word for the pair, and here it writes two, so rule 32 governs.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The participle carries the supplied relativizer under rules 7 and 32, discontinuously from the article under rule 15; head on the verb.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Article to English *the* under rule 19. The dative is the participle's complement and the ASV supplies no case preposition, so nothing rides along under rule 21.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Independently recoverable from its article under rules 13 and 26.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "HEB.13.10",
+  "review_notes": [
+    "All 12 source and 15 target ids partitioned exactly once.",
+    "The one materially contested unit is `οἱ` / `λατρεύοντες`: rule 32's split (article → *they*, participle → *that serve*) taken over rule 90's, because the ASV writes two English words for the pair rather than one.",
+    "`οὐκ` is aligned rather than left unrepresented: rules 41 and 59 empty a negator only before a second negative word, and `ἐξουσίαν` is a plain noun."
+  ]
+}

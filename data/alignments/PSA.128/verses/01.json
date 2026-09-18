@@ -1,0 +1,156 @@
+{
+  "alignments": [
+    {
+      "note": "Construct noun of the superscription; the supplied indefinite *A* belongs to the nominal expression it determines under rule 15 and is not `added`.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Article on the rectum; the ASV writes no *the* for the phrase (*A Song of Ascents*), so the article is `unrepresented` under rule 29. The construct carries a supplied indefinite article instead, so nothing is fronted.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Nomen rectum with the chain's relational *of*, headed on the noun under rules 19 and 24.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Predicate of a verbless clause; the construction-supplied copula *is* joins the predicate under rule 20 and the unit heads on the word carrying the lexeme.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Quantifying construct noun; the generic *one* the ASV supplies to expand it joins its unit under rule 31 and the head stays on *every*, which carries the lexeme. No *of* is written for the chain, so rule 19 has nothing to place here.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Anarthrous substantival adjective in construct; the supplied relative *that* joins its own unit under rule 46, headed on the word carrying the lexeme. No article morpheme stands on it, so rule 41 does not govern.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Rectum of the construct relation, rendered as the bare object of *feareth*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Attributive/substantival article rendered by a relative rather than a *the*; the article takes that relative and heads on it under rule 41.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Participle rendered as the finite predicate of the relative clause.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Preposition with its own written English word.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Noun; the possessive belongs to the suffix under rule 18.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Pronominal suffix realized by the possessive *his*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "PSA.128.1",
+  "review_notes": [
+    "The superscription is aligned as ordinary source text: `שִׁיר` takes the supplied *A* under rule 15 and the determined-state rectum's article goes `unrepresented` under rule 29 because the ASV writes no *the* for the phrase.",
+    "`כָּל־יְרֵא יְהוָה`: *every one* is read as the quantifier with its supplied generic under rule 31 and *that feareth* as the anarthrous substantive with its supplied relative under rule 46. The competing reading would give *one that* jointly to `יְרֵא` as rule 46's *him that*; that was set aside because `כֹּל` is the construct quantifier and rule 31 places a generic supplied to expand it inside the quantifier's own unit."
+  ]
+}

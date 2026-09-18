@@ -1,0 +1,23 @@
+{
+  "chapter": "PSA.98",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Heads for the psalm's three multi-word imperatives, applied wherever each recurs in the chapter: רוע hiphil → Make a joyful noise heads on noise (rule 44 complement; joyful named as the alternative), זמר → sing praises heads on praises (rule 44, sing named as the alternative), and רנן → sing for joy heads on sing, for joy being read as an adjunct rather than a light-verb complement (joy named as the alternative, following the corpus majority at 1CH.16.33, JER.51.48, PSA.149.5)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all nine candidate lemmas. Every difference is licensed by the ASV or the source: the two waws of PSA.98.4 take the different connectives written for them (and / yea, rule 14); אֶרֶץ, יְשׁוּעָה and קוֹל differ only by construct position and by whether the ASV wrote a the (rules 15/19/29); שִׁיר and שָׁפַט are noun-vs-verb and infinitive-vs-finite; the הוּא and לְ buckets are all single-occurrence context differences.",
+    "The three multi-word imperative renderings are consistent across verses: רוע → Make a joyful noise heads on noise in PSA.98.4 and PSA.98.6; זמר → sing praises heads on praises in PSA.98.4 and PSA.98.5; רנן → sing for joy heads on sing in PSA.98.4 and PSA.98.8 (matching corpus precedent 1CH.16.33, JER.51.48, PSA.149.5). לפני fuses to before headed on the construct in both PSA.98.6 and PSA.98.9.",
+    "Read the dump for added-side splits: the only added unit is the supplied their of PSA.98.8 (no suffix present, rule 18); no verse folds a comparable supplied possessive into a noun. The unrepresented object marker in PSA.98.3 is rule 16's ordinary case.",
+    "BSB: no disagreements on represented status. No genuine errors found. Nothing here generalises beyond what the contract already says, so no promotions or amendments."
+  ]
+}

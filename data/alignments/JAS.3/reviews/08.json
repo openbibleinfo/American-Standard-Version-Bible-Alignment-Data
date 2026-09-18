@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "112c6eb14703a2b03f4d0e2a48ca67358ee45fd9c57712109a35a503f4505693",
+  "contract_version": "nt-greek-verse-v63",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed unchanged. All 12 source and all 18 target ids partition exactly once; every unit is `aligned` with nonempty arrays and heads inside them, so rules 1, 3 and 10 hold.",
+    "Both verbless clauses lack an expressed subject, so rule 68 puts the supplied *it is* on the predicate rather than on any subject token; rules 53 and 63 do not reach them, there being no subject pronoun and no subject noun.",
+    "The *a* of *a restless evil* was re-checked. κακόν is a substantival A-NSN doing the nominal work, ἀκατάστατον only attributive, so the determiner is the nominal word's under rule 58 either way — by its main clause if κακόν is read as the phrase's noun, by its substantival clause (`νεκρῶν` → *the dead*) if it is read as an adjective. Rule 102 is not in question, the Greek being anarthrous with no article to take the determiner.",
+    "The one materially contested unit is the *no man* split across οὐδείς and ἀνθρώπων; the competing whole-phrase reading on οὐδείς with ἀνθρώπων unrepresented is named in the s007 note.",
+    "Both variant units are informational only: v008 (s005–s007) is underdetermined with the base among the compatible readings, and v009 (s008) is a selected base. Neither is marked FALLBACK EXCLUDED BY EVIDENCE, so rule 97 is not engaged and no token needs `added`."
+  ],
+  "ref": "JAS.3.8",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

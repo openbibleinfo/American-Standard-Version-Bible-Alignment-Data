@@ -1,0 +1,184 @@
+{
+  "alignments": [
+    {
+      "note": "Finite verb with its supplied subject pronoun.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Inferential particle rendered *then*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Article to *the*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Object noun. The ASV's margin offers *in regard of the law*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Complementizer written out by the ASV.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Substantival article before a participle whose antecedent pronoun another source token has already written: the expressed ἐμοί in apposition takes *me*, so nothing is left for the article (rule 32, on the pattern of τοῖς … σῳζομένοις ἡμῖν → *unto us who are saved*).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Expressed dative pronoun with its case preposition; no determiner stands, so the preposition rides with the pronoun (rule 21).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Participle rendered as a finite relative clause, keeping the relativizer and its own verb (rule 32).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Infinitive rendered by the bare English verb after the modal.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Article with no English determiner: the ASV writes a bare *good* (rule 23).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Substantival adjective, bare.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "The ASV writes a single *to me* for the two datives of this verse, and that phrase is taken by the expressed ἐμοί of the participial phrase (s007). Assigning *to me* to this second dative instead, and leaving s007 empty, remains defensible; the ASV's placement of *to me who would do good* is what decides it here.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Article with no English determiner: the ASV writes a bare *evil* (rule 23).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Substantival adjective as subject.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Finite verb rendered *is present*; head on the lexical word (rule 17).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "ROM.7.21",
+  "review_notes": [
+    "Two datives ἐμοί stand in the Greek and the ASV writes *to me* once; s007 takes it and s012 is `unrepresented`, with the alternative recorded in that unit's note."
+  ]
+}

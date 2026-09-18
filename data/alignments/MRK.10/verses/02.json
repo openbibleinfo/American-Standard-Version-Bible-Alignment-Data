@@ -1,0 +1,161 @@
+{
+  "alignments": [
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Participle rendered as a finite clause; the expletive subject and the προσ- prefix's 'unto him' belong to it. The separate αὐτόν of the main verb keeps its own 'him' at t009.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Rule 88: the supplied juncture rides with the finite verb it introduces.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Pronoun object.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The ASV renders the indirect question as direct speech and writes no word for εἰ; rule 43's test — the presence of an English word — leaves it empty.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rule 68's ἔξεστίν → 'it is lawful': the supplied subject rides with the predicate, headed on the meaning-bearing word.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Anarthrous dative; the case preposition and supplied indefinite are rule 7/21 helpers on the noun.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Rule 7: the infinitival marker belongs to its verb, no conjunction governing the clause.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017",
+        "t018"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Rule 51's anarthrous clause: no article competes, so the supplied possessive is a helper on the noun; rule 11 keeps the italics from making it 'added'.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Participle.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Pronoun.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    }
+  ],
+  "ref": "MRK.10.2",
+  "review_notes": [
+    "εἰ is left unrepresented because the ASV converts the indirect question to direct speech; giving it 'Is' would double-count the verb's own English."
+  ]
+}

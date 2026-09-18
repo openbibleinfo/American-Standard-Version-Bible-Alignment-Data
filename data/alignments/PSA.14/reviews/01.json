@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "71573af8d26d3b8cde5b15a2804d62e091e486e305b39c92993cde892bc2c966",
+  "contract_version": "ot-hebrew-verse-v2",
+  "notes": [
+    "Independent review by claude-opus-5 — annotated",
+    "Ledger checked: all 18 source IDs and all 33 target IDs are partitioned exactly once across 19 units; no invented IDs.",
+    "Accepted alignment judged correct and returned unchanged; only note wording was tightened with rule citations.",
+    "s003: kept Chief as target head because נצח supplies the directing/preeminence sense while Musician is the noun the ASV supplies; a reader preferring the substantive Musician has a defensible alternative, hence medium confidence.",
+    "s005/t005-t006: the italic A Psalm is genuinely unlicensed here (no מִזְמוֹר in this superscription), so the italic markup and the added label agree; this is not a case of rule 7 overriding markup.",
+    "s007: The before fool is a supplied determiner attached to the noun that licenses it, not an added unit; contrast rule 12, where a real [הַ] token exists in the superscription.",
+    "s014: alternative head done (English lexical verb) versus abominable (Hebrew lexeme of תעב) — retained abominable per rule 24's lexeme-first criterion, flagged medium."
+  ],
+  "ref": "PSA.14.1",
+  "status": "reviewed"
+}

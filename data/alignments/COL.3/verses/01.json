@@ -1,0 +1,217 @@
+{
+  "alignments": [
+    {
+      "note": "Conditional particle to the word introducing the English clause (rule 40).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Inferential conjunction.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Inflected verb takes subject and auxiliary as helpers, headed on the lexical verb (rule 9). The preverb συν- is realized by 'together' inside the verb's own unit (rule 106); 'with' is left to the dative, since the ASV writes a particle for the preverb in addition to the case preposition.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Article before a name with no English determiner (rule 23).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The ASV gives the noun no determiner, so the case preposition 'with' stays with the noun rather than anchoring on the article (rules 21, 106).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Substantival article before an adverb: it keeps the discontinuous 'the things that', headed on the nominal word, since a bare adverb has no verb to carry the relativizer (rules 22, 32).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Adverbial predicate carries the supplied copula (rule 53).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Imperative.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Relative adverb.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Article before a name, no English realization (rule 23).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Name.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Expressed copula; the participle keeps its own word, so the pair splits under rule 2.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Preposition governing the phrase (rule 36).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Anarthrous substantival adjective expanded with a supplied noun and determiner: helpers ride with it and the head stays on the adjective (rules 17, 51).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t020",
+        "t021",
+        "t022"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "No English determiner for 'God', so the article anchors nothing (rules 21, 23).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Case preposition stays with the determinerless noun (rule 21).",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t023",
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Participle in the periphrasis; the copula is the expressed ἐστιν's.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    }
+  ],
+  "ref": "COL.3.1",
+  "review_notes": [
+    "Checked the article–noun sequences at s004/s005, s010/s011, s015/s016: each decided on whether the ASV writes a determiner (rules 21, 23).",
+    "τὰ ἄνω analysed as rule 32's contrast case (no participle follows), with the copula on the adverb under rule 53."
+  ]
+}

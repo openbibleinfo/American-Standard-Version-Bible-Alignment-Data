@@ -1,0 +1,148 @@
+{
+  "alignments": [
+    {
+      "note": "Relative, preposition and adverb rendered by one causal English word; no morpheme's own lexeme is written in it, so rule 6's first-token anchor applies (rules 30, 6).",
+      "source": [
+        "s001",
+        "s002",
+        "s003"
+      ],
+      "source_head": "s001",
+      "status": "noncompositional",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Verb with its subject pronoun and phrasal particle; head stays on the verb (rule 44).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Preposition rendered by the participle *following*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Suffix as object pronoun.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Waw takes the written *And*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The quantifier is rendered *any*; the *of* between the two nouns belongs to the rectum (rule 19).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Nomen rectum takes the *of* (rule 19), discontinuous around the possessive.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Suffix as possessive.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Negative.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Verb rendered as a light verb plus complement with its auxiliary; the preposition the English verb needs to reach its bare object belongs to the verb (rules 44, 25).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t011",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t012"
+    }
+  ],
+  "ref": "JOB.34.27",
+  "review_notes": [
+    "אֲשֶׁר עַל־כֵּן was kept whole under rule 30 rather than leaving עַל־כֵּן unrepresented beside a relative holding *Because*."
+  ]
+}

@@ -1,0 +1,5 @@
+# 2 Corinthians 6 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **2CO.6.16** — Where the ASV recasts one of this chapter's verbless rhetorical questions ("what X hath Y with Z?") and supplies an English have/hath that answers to no Greek token, that supplied verb rides with the relational noun that names the relation — fellowship, communion, concord, portion, agreement — and never with the complement the ASV's inversion puts in front of it. The complement stands bare, keeping only its own determiner. The complement's case varies across 6:14-16 (dative at 6:14 and 6:15b, genitive at 6:15a, dative at 6:16) while the supplied verb does not, so the case cannot be what licenses it; rules 53 and 63 refuse to read a supplied verb off English word order, and rule 17 heads it on the meaning-bearing noun. All five units are high: the competing reading is word-order-driven, not materially defensible.

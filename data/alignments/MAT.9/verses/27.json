@@ -1,0 +1,208 @@
+{
+  "alignments": [
+    {
+      "note": "καί → And.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Participle with a supplied subordinator (rule 86); *by* realizes the παρα- preverb inside the verb's own unit (rule 106).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Adverb ἐκεῖθεν → from thence, headed on the adverbial word.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Article before a name (rule 23).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Ἰησοῦ → Jesus.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "ἠκολούθησαν → followed.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Dative object → him; the projection carries the base reading of unit SBLGNT.MAT.9.27.v022.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "δύο → two.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Anarthrous substantival adjective with a supplied generic noun; rule 17's generic-noun clause is scoped to anarthrous Greek and heads on the adjective. Rule 102 does not reach this, no article standing to take the supplied nominal.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "κράζοντες → crying out, the particle being the English verb's own.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "καί → and.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "λέγοντες → saying.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "ἐλεάω rendered by the support frame *Have mercy on*, headed on the meaning-bearing complement *mercy* (rule 17). The *on* is licensed by the frame's own supplied noun and stays inside the verb's unit under rule 21's support-frame clause; rule 106's accusative arm reaches the same answer from the other side, an accusative having no case for an English preposition to realize.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018",
+        "t019"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Accusative object standing bare, the preposition in front of it belonging to the support frame (rules 21, 106).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Anarthrous vocative with a supplied address word as a rule 7 helper (rule 89's anarthrous arm).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Genitive name rendered *of David*; head on the name (rule 17).",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t023",
+        "t024"
+      ],
+      "target_head": "t024"
+    }
+  ],
+  "ref": "MAT.9.27",
+  "review_notes": [
+    "Corrected: *on* at t019 moves from the accusative pronoun into the verb's unit. Rule 21's support-frame clause (`οὐ λογίζεται τὸ κακόν` → *taketh not account of evil*) and rule 106's accusative arm (`ἐκδεχομένου αὐτούς` → *waited for them* with a bare *them*) both require it, and the accepted note conceded the point while keeping the ASV's surface grouping.",
+    "The target head of s014 is unaffected by the change; only the edge moved."
+  ]
+}

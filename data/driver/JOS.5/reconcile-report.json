@@ -1,0 +1,27 @@
+{
+  "chapter": "JOS.5",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "אֲשֶׁר with a resumptive preposition and suffix is divided by how many English words the ASV writes for the three morphemes, not by the construction. JOS.5.6 'unto whom Jehovah sware' writes two, so the relative takes 'whom', the resumptive לְ takes the 'unto' the ASV fronts with it (rule 25), and the resumptive suffix is unrepresented (rule 22); JOS.5.15 'the place whereon thou standest' writes one, so אֲשֶׁר, עַל and the suffix share one unit headed on the relative (rules 22, 30). The two are one policy, not a chapter split.",
+    "שַׂר צְבָא יְהוָה is rendered twice and placed by rule 29's count of the ASV's determiners. JOS.5.14 'as prince of the host of Jehovah' supplies a 'the' on the middle construct צָבָא and gives each rectum its own 'of'; JOS.5.15 'the prince of Jehovah's host' recasts the inner relation as an English possessive, and the phrase's single written 'the' stands before 'prince', so it is the supplied determiner of the outer construct שַׂר and the divine name keeps only 'Jehovah's'. Rule 29's sentence putting a left-edge 'the' on the possessor governs a possessive that is the whole phrase (the king's gate), not one nested inside a larger chain."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v142",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 15 verses end to end plus the 39-lemma candidate table. Every multi-treatment bucket traces to something the source or the ASV licenses, not to a split: הַ takes a written 'the' wherever one stands before its own word, and is unrepresented only where the phrase's single determiner answers to a demonstrative pronoun (JOS.5.2, 9, 12, rule 41) or where the ASV writes none at all (בַּגִּלְגָּל, בָּעֶרֶב in JOS.5.10). בְּ, לְ, מִן, עַד and אֶל vary only with the English word the ASV wrote, and every unrepresented one is a recasting that writes no function word: dative לְ in 2, 3 and 6; gerund לְ in 8; possessive לְ under a written הָיָה in 12 (rule 43); bare locative בְּ of 'that year' in 12.",
+    "Article counting is uniform and follows rule 29's count rather than a position. Two written 'the's give one to the construct and one to the rectum's article (5.1 kings of the Amorites/Canaanites, 5.3 hill of the foreskins, 5.11 and 5.12 produce of the land); one written 'the' goes to the rectum's article with the construct bare (5.4 and 5.6 men of war, 5.11 the selfsame day); a multi-level chain takes a second supplied 'the' on the middle term (5.12 fruit of the land of Canaan, 5.14 host of Jehovah).",
+    "Checked the three `added` units by hand, since the candidate table is blind to them. The appositional 'even' of JOS.5.4 t022 and JOS.5.6 t016 is one analysis applied twice — no marker and no connective stands on the appositive (rule 16) — and the supplied relative 'whom' of JOS.5.7 t004 subordinates a finite clause juxtaposed to a written antecedent whose resumption is already spent on the suffix of אֹתָם (rules 46, 55). No verse folds a comparable supplied word into a neighbouring morpheme, so no split is hiding behind the added units.",
+    "The two treatments of אֲשֶׁר + preposition + resumptive suffix are licensed, not split: JOS.5.6 writes two English words ('unto whom'), so rule 30's one-word condition fails and the three morphemes divide with the resumptive suffix unrepresented under rule 22, while JOS.5.15 writes one ('whereon') and the three share a unit headed on the relative. Recorded as a convention so a later reader does not read the pair as a chapter split.",
+    "The wayehi frames (5.1, 5.8, 5.13) all give 'it came to pass' to הָיָה and the frame's 'that' to the apodosis waw (rule 45); 'in their stead' (5.7) and 'in their places' (5.8) both give the whole two-word rendering to תַּחַת headed on the lexeme-bearing word with the suffix taking 'their'; both 'any more' units (5.1, 5.12) head on 'more'. All consistent.",
+    "BSB disagreements: none is a genuine error. The six Td cases are the demonstrative-determiner count of rule 41; the five R cases are recastings that leave the preposition no English (rules 40, 43, 52); JOS.5.6 הֶם is a resumptive suffix beside a written relative (rule 22); the two JOS.5.7 אֵת are the ordinary object marker (rule 16); JOS.5.12 בַּ is the bare 'that year'; JOS.5.15 הוּא is the resuming pronoun of a tripartite clause whose only English is the copula, which rule 20 sends to the predicate. These are the documented convention differences and no accepted edge was changed for them.",
+    "One head judgment worth knowing about: JOS.5.13's fused לְנֶגֶד → 'over against' heads on נֶגֶד under rule 23's first clause, since the relational lexeme is what לְ lacks, rather than on the opening morpheme as rule 23's compound-preposition carve-out would give. The verse note names the competing reading. I did not promote an amendment: no corpus head data for נֶגֶד was in the packet, and rule 23 as written already decides the case by its first clause."
+  ]
+}

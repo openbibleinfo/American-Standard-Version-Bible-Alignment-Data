@@ -1,0 +1,181 @@
+{
+  "alignments": [
+    {
+      "confidence": "high",
+      "note": "The supplied phrase “with him” completes the participle’s sense and remains with it.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "confidence": "high",
+      "note": "",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "confidence": "high",
+      "note": "",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "confidence": "high",
+      "note": "The inflected verb supplies “we”; as the verb licensing the English content clause, it also takes the discontinuous complementizer “that” under rule 74.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t009"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "confidence": "high",
+      "note": "",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "confidence": "high",
+      "note": "",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "confidence": "high",
+      "note": "",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "confidence": "high",
+      "note": "",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "confidence": "high",
+      "note": "",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "confidence": "high",
+      "note": "The English genitive phrase is determinerless, so the article has no realization and “of” remains with the noun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "The English “of” realizes the noun’s genitive case.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "confidence": "high",
+      "note": "The infinitive is rendered by the finite lexical verb “receive”; its explicit accusative subject is aligned separately, while the supplied complementizer belongs to the governing verb.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "confidence": "high",
+      "note": "The accusative pronoun is the expressed subject of the infinitive and is rendered as “ye” in the finite English clause.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    }
+  ],
+  "ref": "2CO.6.1",
+  "review_notes": [
+    "Corrected the accepted alignment by moving t009 “that” from s012 δέξασθαι to s004 παρακαλοῦμεν. Rule 74 assigns a supplied complementizer to the verb licensing the clause, while the infinitive retains only its own lexical verb and its expressed subject remains separate."
+  ]
+}

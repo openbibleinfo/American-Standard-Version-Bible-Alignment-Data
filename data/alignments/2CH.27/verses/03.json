@@ -1,0 +1,193 @@
+{
+  "alignments": [
+    {
+      "note": "Explicit subject pronoun takes only its own English (rule 20).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb; the subject pronoun is written separately in the Hebrew, so the verb keeps only the lexical verb.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Definite direct-object marker; the ASV writes the object bare, spending no word on the object relation (rule 16).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Construct noun. The phrase's single *the* stands on the attributive's own article (s007), which is a present article morpheme, so `שַׁעַר` keeps only its own word (rule 47).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Article on the attributive adjective takes the phrase's one written *the*; the head noun is a construct that can carry no article of its own, and a present article morpheme takes the English before a supplied one (rule 47).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Attributive adjective rendered prenominally.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Nomen rectum of `שַׁעַר` taking the relational *of* (rule 19), and itself a construct with no article morpheme, so the second *the* is supplied to it (rule 29).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Nomen rectum with the relational *of* (rule 19).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Construct noun; the chain's rectum carries an article, which takes the single written *the*, so `חוֹמָה` keeps only its own word (rule 29).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Article segmented off the toponym takes the phrase's one *the*, exactly as `בְּנֵי הָרָמָה` → *The children of Ramah* does (rule 29); it is not set aside as lexicalized in the name.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Nomen rectum with the relational *of* (rule 19), rendered anarthrously.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Finite verb with its English subject pronoun (rule 17).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "`לָרֹב` is rendered by the single English word *much*, so rule 30's one-English-word condition is met and the preposition shares the noun's unit, headed on the morpheme carrying the lexeme. Marking the `לְ` `unrepresented` beside a bare `רֹב` → *much* was available, but no English word here is spent on the preposition in particular.",
+      "source": [
+        "s015",
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "2CH.27.3",
+  "review_notes": [
+    "Both articles in this verse sit on words the ASV renders after a fronted *the*: s007 on the attributive of a construct head, s012 on a toponym. Rule 47 and rule 29's toponym rider give each the written *the* and leave the construct nouns bare.",
+    "The object marker is unrepresented; *built the upper gate* spends no word on the object relation."
+  ]
+}

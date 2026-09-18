@@ -1,0 +1,27 @@
+{
+  "chapter": "EZR.5",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Aramaic genitive דִּי between two nominals takes the ASV's 'of' itself (5.2, 5.8, 5.13, 5.14, 5.16, 5.17), the construct noun keeping only its own word and a supplied 'the' under rule 29; the Td on the rectum is unrepresented wherever the ASV writes 'of God' / 'of Babylon' bare, and takes 'the' only where one stands before its own word. Where the ASV writes an English possessive (דִּי מַלְכָּא → king's, 5.17) דִּי shares the rectum's unit and the rectum's Td takes the phrase's 'the'; where the ASV renders the דִּי-phrase attributively ('the gold and silver vessels', 5.14) דִּי is unrepresented under rule 28 and the head noun's Td takes the single fronted 'the'.",
+    "Proleptic pronominal suffixes — the anticipatory suffix before a דִּי-phrase (עַבְדוֹהִי דִּי־אֱלָהּ 5.11), the object suffix resuming a fronted object (בַּיְתָה דְנָה סַתְרֵהּ 5.12), and the object suffix resumed by a written דִּי relative (דִּי פֶחָה שָׂמֵהּ 5.14) — are their own unrepresented units where the ASV writes no pronoun for them; the noun, demonstrative or relative already carries the reference (rule 22). Where the ASV does spend an identifying word in the suffix's place (בֵּהּ־זִמְנָא → 'At the same time', 5.3) the suffix takes it, the competing reading being 'same' added.",
+    "The construct עֲבַר of עֲבַר־נַהֲרָה is rendered by its own lexeme 'beyond' and takes that preposition (rule 19's directional-construct case, 5.3, 5.6); בַּעֲבַר → 'were beyond' fuses the בְּ with the construct under rule 30, headed on עֲבַר, the predicate copula joining the fused unit. The Td on נַהֲרָה takes the written 'the' of 'the River'.",
+    "Aramaic copular independent pronouns in tripartite verbless clauses (מַן־אִנּוּן שְׁמָהָת 5.4, אֲנַחְנָא הִמּוֹ עַבְדוֹהִי 5.11) are unrepresented; the construction-supplied copula goes to the predicate (מַן → 'what ... were', עֲבַד → 'are the servants') under rule 20's tripartite sentence. A waw plus explicit הוּא recast as 'which' gives 'which' to the pronoun and leaves the waw unrepresented (5.8)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v218",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 48 candidate lemmas verse by verse. Every within-bucket difference is licensed by what the ASV actually wrote: Td endings take 'the' only where a 'the' stands before their own word (5.2/5.13/5.14/5.16/5.17 'of God' bare; 5.8 'the great God' fronts the single the to the noun's ending under rule 47; demonstrative phrases leave the Td nothing under rule 41); dative/object לְ is unrepresented before a bare English object (5.2, 5.4, 5.9, 5.10, 5.12) and takes 'unto' where written (5.3, 5.9); waw takes whatever connective is written (Now, But, even, therefore, who) and is unrepresented where the ASV opens bare (5.10 before also, 5.11 s032, 5.8 before a pronoun the relative realizes).",
+    "The one pair that looks like a split — 5.12 waw → 'who' vs 5.11 waw unrepresented with 'which' on the object suffix — is two constructions: in 5.12 'who' is the subject relative and no pronoun answers to it (rule 17 last paragraph); in 5.11 'which' is the object of 'builded' and realizes the object suffix of בְּנָהִי (rule 18, as וַיָּסֶךְ ... בַּעֲדוֹ → 'And whom God hath hedged in'). Both verse notes name the competing reading.",
+    "5.14 s009: דִּי דַהֲבָה rendered attributively ('the gold ... vessels') leaves דִּי unrepresented under rule 28. DAN.7.9-10 fused דִּי נוּר → 'fiery' instead; that is an adjective writing both morphemes, and this chapter's reading is defensible on rule 28, so it is left standing and recorded as a judgment rather than patched. Not promoted: the corpus is too thin and not uniform.",
+    "BSB disagreements are all convention differences (Td without a written 'the', silent dative/object לְ, copular pronouns in tripartite clauses, proleptic and resumptive object suffixes, waw recast as a relative). None is a genuine error.",
+    "No contract change: דִּי → 'of' already follows from rule 11 (a present function morpheme takes the function word first) and the corpus does it in 45 units; the possessive 'king's' fusion is already in rule 29."
+  ]
+}

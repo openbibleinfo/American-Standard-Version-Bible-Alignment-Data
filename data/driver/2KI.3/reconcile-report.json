@@ -1,0 +1,28 @@
+{
+  "chapter": "2KI.3",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2KI.3.21",
+    "2KI.3.24",
+    "2KI.3.26"
+  ],
+  "rejected": {},
+  "conventions": [
+    "In the repeated lament 'Jehovah hath called these three kings together' (3.10, 3.13) the 'together' is a surplus particle answering to no morpheme and is `added` under rule 44; it is not the promoted-object לְ (unrepresented under rule 40) nor the demonstrative's. חֶלְקָה → 'piece of land' (3.19, 3.25) is one unit headed on 'piece', 'land' the competing head."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 63 candidate lemmas. The waw, article, preposition, object-marker, מֶלֶךְ and name variation is ASV-driven (bare 'king Jehoram' vs 'the king of Israel', 'Moab' vs 'the Moabites', apodosis waws rendered or not), and every article/marker/dative treatment follows the contract consistently across verses.",
+    "One chapter-wide error, consistent across three verses and therefore invisible to the lemma table: 2KI.3.21, 3.24 and 3.26 marked the 'when' of 'Now when'/'And when' as `added` beside a waw holding only the coordinator. Rule 55 says a coordinator and subordinator written together at the clause's left edge for one connective are that connective's single unit (`וָאֶרְאֶה` → 'And when I looked'), and the corpus aligns a waw to 'and when' in 206 units. Patched all three: the waw takes both words, headed on the coordinator; the apodosis waws stay `unrepresented` as they were.",
+    "Within-verse judgment calls left as noted by the verse pass: 3.7 copula placement on כָּמוֹנִי, 3.16 doubled גֵּבִים fused as 'full of trenches', 3.20 כְּ → 'about the time of', 3.4 each bare numeral phrase taking its own supplied 'of'.",
+    "BSB disagreements are all documented convention: unrendered articles (Td ×14), לֵאמֹר and recast prepositions (R ×8), object markers אוֹתָם in 3.10/3.13, the resumptive suffix of לְפָנָיו in 3.14 (rule 22), and apodosis waws (C ×4). None is a genuine error.",
+    "No promotion: the one correction is a misreading of rule 55 as it already stands."
+  ]
+}

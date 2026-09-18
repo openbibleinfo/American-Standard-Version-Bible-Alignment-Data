@@ -1,0 +1,215 @@
+{
+  "alignments": [
+    {
+      "note": "",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Infinitive recast as finite passive *is driven away*; *away* completes the lexeme (rule 44).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Verb with its particle, discontinuous around the supplied object.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t009"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Apodosis *so* with no conjunction morpheme in the clause (rule 14).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Supplied object pronoun; no object morpheme present (rule 44).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Infinitive recast as finite *melteth*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "מִפְּנֵי → *before* fused (rule 30).",
+      "source": [
+        "s008",
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Supplied *the* joins the noun (rule 15).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Jussive with *let ... perish* frame, discontinuous around the subject.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Substantival adjective with supplied *the* (rule 46).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Apodosis *So* with no conjunction morpheme (rule 14).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "מִן → *at*; the ASV spends a word on the preposition and another on פָּנֶה, so rule 2 splits the pair (corpus: 22 units).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Construct פָּנֶה → *the presence* with supplied *the* (rule 29); *presence* is the noun's own lexeme, so the compound does not fuse under rule 30.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t022",
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Rectum takes *of* (rule 19).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t024",
+        "t025"
+      ],
+      "target_head": "t025"
+    }
+  ],
+  "ref": "PSA.68.2",
+  "review_notes": [
+    "Reconciliation: split מִפְּנֵי אֱלֹהִים → *at the presence of God* into מִן → *at*, פָּנֶה → *the presence*, אֱלֹהִים → *of God* to match corpus precedent; the first מִפְּנֵי → *before* remains fused under rule 30."
+  ]
+}

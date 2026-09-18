@@ -1,0 +1,27 @@
+{
+  "chapter": "PSA.54",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The Ziphite historical note ('when the Ziphites came and said to Saul, Doth not David hide himself with us?') stands in the ASV superscription PSA.54.0 but in WLC at the head of PSA.54.1 (s001–s014). Under rule 54's verse-boundary paragraph it is one added unit with null head in 54.0 and fourteen unrepresented units in 54.1; neither verse reaches into the other."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all eight candidate lemmas; none is a real split. Every difference is licensed by the source or by rule 54's verse-boundary handling.",
+    "הוּא Sp1cs→R: PSA.54.4 unrepresented is the lexicalized suffix of אֲדֹנָי (rule 57); PSA.54.5 'mine' is an ordinary possessive on שֹׁרְרָי (rule 18). Different constructions.",
+    "בְּ R→Vqrmpc: PSA.54.4 'is of' is a beth-essentiae prepositional predicate carrying the construction copula (rule 49); PSA.54.7 'upon' is an adjunct. Both correct.",
+    "לְ/דָּוִד/לֹא/הַ in PSA.54.1 s001–s014 are unrepresented because the ASV renders the Ziphite note inside the superscription (PSA.54.0), where it is one added unit with null head — rule 54's verse-boundary divergence, applied consistently on both sides.",
+    "Supplied-preposition treatment is consistent: 'sought after' (54.3) and 'give thanks unto' (54.6) both give the valency preposition to the verb reaching a bare object under rule 44.",
+    "BSB disagreements: 54.2 paragogic he (rule 32), 54.4 dative לִ recast as possessive 'my' (rule 40), 54.4 Adonai suffix (rule 57) — all documented convention differences, none an error.",
+    "PSA.54.3 לְנֶגְדָּם → before heads on the lamed under rule 23's two-R compound sentence with neged named as competing head; single occurrence, defensible, left as accepted.",
+    "No contract promotion or amendment: the chapter taught nothing the contract does not already state."
+  ]
+}

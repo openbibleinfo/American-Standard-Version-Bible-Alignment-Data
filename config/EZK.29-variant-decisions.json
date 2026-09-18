@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "EZK.29",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.EZK.29.4.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere חַחִים and ketiv חחיים differ only in the plene spelling of the same plural noun; both are rendered 'hooks'. ASV 'And I will put hooks in thy jaws' is compatible with either, and no ASV note is mapped to this unit. Underdetermined; the qere base carries the projection."
+    },
+    {
+      "unit_id": "WLC.EZK.29.7.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "The ketiv בכפך carries the 2ms suffix ('by thy hand'), the qere בַכַּף does not ('by the hand'). ASV renders 'When they took hold of thee by thy hand', with the possessive unitalicized, which reflects the suffixed ketiv; the ASV note itself records the unsuffixed reading as the other option ('Another reading is, with the hand'), confirming it is not the one in the text."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "alignments": [
+    {
+      "note": "Negative.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Finite verb with subject pronoun and auxiliary (rule 17).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The quantifier is itself what *any* renders (rule 15).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "One substantive rendered by a two-word English phrase; *thing* is the supplied generic and the head stays on *abominable* (rule 31).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t006"
+    }
+  ],
+  "ref": "DEU.14.3",
+  "review_notes": [
+    "Rule 31's subtraction test puts the head on *abominable*, since *thing* alone is any thing."
+  ]
+}

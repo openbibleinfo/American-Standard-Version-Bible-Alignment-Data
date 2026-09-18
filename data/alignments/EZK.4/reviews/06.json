@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "5fe2801295c6009ba3aa796d4b473d6bfa619f1548e0965ce9a30a546bf2ddd5",
+  "contract_version": "ot-hebrew-verse-v64",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: 33 units (32 source units plus one `added`) cover all 32 source and 37 target ids exactly once.",
+    "t003 *when* is left `added` on rule 55's contiguity test, since `שֵׁנִית`'s fronted *again* stands between it and the waw's *And*, exactly as `הִנֵּה`'s *behold* does in the Leviticus case; the competing reading takes *And when* as one rendering of the waw, which the corpus does in twenty-seven contiguous units.",
+    "The apodosis waw (s005) is unrepresented because the ASV writes no connective before *thou shalt lie*.",
+    "`יוֹם לַשָּׁנָה` is written twice and rendered once; the first occurrence carries *each day for a year* and the second is unrepresented under rule 22, whose tail-to-tail clause governs a counted noun in a numeral phrase rather than a repeated distributive phrase.",
+    "Variant unit WLC.EZK.4.6.v001 is underdetermined and resolved to r00-base, covering s010 and s011; the fallback reading is among those the ASV's *thy right side* permits, so rule 53 does not apply and no textual decision is made here."
+  ],
+  "ref": "EZK.4.6",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

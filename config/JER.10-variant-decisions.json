@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "chapter": "JER.10",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JER.10.13.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere הָאָ֑רֶץ (with article) against ketiv ארץ. ASV renders 'from the ends of the earth', a construct chain whose English definiteness follows the phrase rather than the written article: 'ends of earth' and 'ends of the earth' are indistinguishable in translation. The single note here is classed alternative_rendering and concerns the clause 'at the sound of his giving an abundance of waters', not this lemma, so it cannot decide the unit. Nothing in the English wording, no italicized supply, and no mapped textual note distinguishes the readings; the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.JER.10.17.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere יֹשֶׁ֖בֶת against ketiv ישבתי, the same feminine singular participle with and without the archaic -i ending; the two spellings carry identical sense and would be rendered alike. ASV 'O thou that abidest in the siege' and the note 'O inhabitant (Hebrew inhabitress) of the fortress' confirm a feminine singular addressee, which both readings supply equally, and both notes are classed alternative_rendering (English wording of 'wares/bundle', 'land/ground', 'siege/fortress'), so neither can decide a reading. Underdetermined; the qere base fallback carries the projection."
+    }
+  ]
+}

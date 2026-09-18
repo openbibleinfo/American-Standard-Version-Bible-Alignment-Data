@@ -1,0 +1,24 @@
+{
+  "chapter": "PSA.95",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "A predicative לְ + pronominal suffix that the ASV renders by a bare English possessive with a construction-supplied copula — לוֹ → 'is his' (95.5), 'are his' (95.4) — is one fused unit of the preposition and the suffix under rule 49's closing paragraph, headed on the possessive, with the copula joining the fused unit; the לְ is the verbless clause's own predicate, which is the boundary rule 40 draws against an adjunct dative rendered 'his'. The split reading (לְ → 'is', suffix → 'his') exists in the corpus (e.g. DEU.32.35) and is named in each unit's note; this chapter took the fusion in both places."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 15 candidate lemmas end to end. Every difference is licensed by the source or by the ASV's own rendering: הוּא Sp3ms→C is an object suffix ('it', 95.5) beside a possessive suffix ('his', 95.7); בְּ R→Ncmsc is a bare-object recasting silenced under rule 40 (שָׁמַע בְּ → 'hear his voice', 95.7) beside a rendered locative ('in my wrath', 95.11); יָד is a prepositional object in 95.4 and a construct rectum taking 'of' in 95.7; אֲשֶׁר is unwritten where the ASV writes a main clause (95.4, 95.5) and rendered where it writes 'When'/'Wherefore' (95.9, 95.11); the two אִם are an optative ('oh that', 95.7) and an oath negation ('That … not', 95.11, corpus 'that not' ×6 headed on 'not').",
+    "The one construction that recurs across verses — predicative לְ + suffix rendered by a bare English possessive with a copula ('are his' 95.4, 'is his' 95.5) — is fused identically in both under rule 49's closing paragraph, with the split reading named in each note. Recorded as a convention because the corpus also carries the split (לְ → 'is' beside a suffix → 'mine', e.g. DEU.32.35), so a later reader needs to know which this chapter took.",
+    "The single `added` unit ('their' before 'heart', 95.10) answers to no suffix and no other verse folds a comparable possessive into a noun, so the table's blind spot hides no split.",
+    "BSB disagreements (4): both unrepresented אֲשֶׁר (95.4, 95.5) are the ASV writing main clauses with no relative; the 95.7 בְּ is rule 40's bare-object recasting; the 95.11 paragogic nun is rule 32. All are documented convention differences, none a genuine error.",
+    "The 12 repeated notes in the validation report are one-line lexical notes ('Noun.', 'Suffix to his.'), not chapter judgments; nothing there needs a convention. No promotion or amendment: the chapter taught nothing the contract lacks, and the one recurring judgment has contradictory corpus precedent."
+  ]
+}

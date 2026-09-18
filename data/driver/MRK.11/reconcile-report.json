@@ -1,0 +1,29 @@
+{
+  "chapter": "MRK.11",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "συκῆ → fig tree is headed on tree at 11:13, 11:20 and 11:21. Rule 66's two arms pull opposite ways here and the same verse decides it: 11:13 spends figs on σύκων separately, so fig glosses the base noun and tree is what συκῆ's own tree-forming derivation contributes, which puts the phrase with ζῷον → living creature and κτίσμα → created thing rather than with ἀγάπαις → love feasts. Head on fig is the reading rejected.",
+    "ὀψέ is written two ways and both are one analysis, the ASV's phrasing deciding. At 11:11 the ASV compresses ὀψέ and ὥρας into the single word eventide, so rule 39's test keeps the pair one aligned unit headed on ὀψέ, and the intervening τῆς stands unrepresented for want of a determiner. At 11:19 no ὥρας stands and ὀψέ takes evening alone, the ASV's every answering to ὅταν and ἐγένετο left unrepresented because the compression writes no word for the verb of becoming. Neither verse is precedent for emptying ὀψέ."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v101",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 51 candidate groups and the dump end to end. No construction in this chapter is analysed two ways without a source difference licensing it, so there are no patches.",
+    "-soever: ὃς ἄν → Whosoever is one aligned unit at 11:23 under rule 50, while bare ὅσα → whatsoever stands alone at 11:24. The difference is the presence of the particle, not two readings.",
+    "Why: aligned to the bare accusative Τί at 11:3 and noncompositional with διά at 11:31. Rule 45 turns on an expressed Greek preposition, so the identical English word is decided twice by one test, as διὰ τοῦτο → Therefore at 11:24 is.",
+    "ὅτι is decided throughout by whether the ASV wrote a word: unrepresented at 11:3 and 11:17 (recitative) and at 11:23a (dropped complementizer, rule 43's own stated case), aligned to that at 11:23b and 11:24, and to the infinitival to at 11:32 where the ASV recasts the clause under rule 40. ἵνα → that at 11:16 and 11:25 against to at 11:28 is the same test, and rule 24 blesses both.",
+    "Preverb particles are consistent across four compounds under rule 106: 11:12 ἐξελθόντων … ἀπό and 11:19 ἐξεπορεύετο … ἔξω keep out and forth on the verb because ἀπό and ἔξω already carry their own English words, while 11:11 and 11:15 εἰσῆλθεν/εἰσελθὼν εἰς leave the verb bare because into carries the preverb. The accusative arm is applied alike at 11:11 (upon), 11:24 (for) and 11:29 (of), and the oblique arm at 11:7 (on him).",
+    "Every unrepresented article traces to a stated rule — 20 where a possessive is present (11:1, 11:7, 11:8, 11:10, 11:14, 11:17, 11:18, 11:23, 11:25), 23 for a determinerless phrase or a name, 30 at 11:14, and 38 at 11:23 and 11:28 — and no article the ASV wrote a the for is left empty.",
+    "The candidate table is blind to added units, so I checked every supplied English word by hand. The chapter's one added unit is 11:10's repeated the kingdom, which is GAL.3.20's frame exactly: ἡ governs the expressed βασιλεία, so the article's phrase is complete and the repeat stands in a slot no token governs. Every other supplied word — your way (11:2), is (11:9, 11:10), in the morning (11:20), there (11:27), and the resumptive him/it/them at 11:2, 11:14, 11:18, 11:23, 11:24 — folds onto a token that licenses it, and none is a full lexical noun or verb whose licensor was already spent.",
+    "BSB disagreements: all eight are documented convention differences and none is an error. 11:1 τῶν and 11:14 οἱ are rule 20 (his), 11:11 τῆς and 11:25 τοῖς are rule 23 (no determiner written), 11:14 τόν is rule 30, 11:28 τήν and 11:23 τῷ are rule 38, 11:32 τόν is an article before a name, 11:13 ἀπό is rule 34's pleonastic preposition, and 11:23 ὅτι is rule 43's dropped complementizer. The only genuine judgment call is 11:19 ἐγένετο, where the ASV compresses ὅταν ὀψὲ ἐγένετο into every evening; the verse note already names the competing reading that stretches every over both tokens, and I would not change an accepted edge to close that gap.",
+    "No promotion. The chapter's head choices all fall out of rules already in force — 66's denominal clause for ἐγγίζουσιν → nigh, 21's own cited example for ἀναμνησθείς → remembrance, 17's meaning-bearing complement for γίνεται → pass and ἀφῆκαν → go — and the one thing the chapter had to settle for itself, the ὀψέ pair at 11:11 and 11:19, rests on a single occurrence each and would make a rule out of one datum."
+  ]
+}

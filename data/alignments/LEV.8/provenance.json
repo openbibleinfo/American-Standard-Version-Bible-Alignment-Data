@@ -1,0 +1,23 @@
+{
+  "artifact_hashes": {
+    "review_receipts_sha256": "f8d6c8af47f5dda010ac563431f569c7816159b9a265e2d61cda7d40d7c8fc4e",
+    "source_lock_entries_sha256": "7cedc38af232d421808ad90e5d1d520a4eaa6f4f19fc3ed3f311908647a308aa",
+    "variant_decisions_sha256": "985d6278c30ee6fc28daaa79ab5815a2be32636f03b4e1e23a1fd5e743d6f705",
+    "verse_divisions_sha256": "absent",
+    "verse_responses_sha256": "2812145eb6208bb898ec6e20d8148eb69a3eaf221fb3de83aa6eb0faab99f43a"
+  },
+  "chapter": "LEV.8",
+  "contract": {
+    "sha256": "b1046e4f650a507e422d7e29f770a0d63bc908d96828e6a96fa174e0ea3fc056",
+    "version": "ot-hebrew-verse-v98"
+  },
+  "created_at": "2026-09-02T22:43:22.965895+00:00",
+  "models": {
+    "alignment": "gpt-5.6-sol (codex, packed=all)",
+    "reconciliation": "gpt-5.6-sol (codex)",
+    "review_context": "gpt-5.6-sol (codex, packed=all)"
+  },
+  "omissions": [],
+  "repository_revision": "fe9ca0b1308e723e72309a23889e736652e1b59f",
+  "testament": "OT"
+}

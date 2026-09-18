@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "bec33e776dfce2b85bfe7b449e988982b0ea612256588c60ce8b99a9f4d36446",
+  "contract_version": "ot-hebrew-verse-v99",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "Correction: the accepted alignment marked t035 not as added. The Hebrew writes לֹא once at the head of וְלֹא תָמֻתוּ and gaps it in the coordinated וְעַל כָּל־הָעֵדָה יִקְצֹף, which the ASV renders by rewriting the negation; rule 25 gives every occurrence of such a negative to that one morpheme's discontinuous unit, headed on the first. The added unit is removed and t035 joins s024.",
+    "Rule 35 was checked and does not govern t035: the second clause's waw has its own and that, so no single English word carries both the coordination and the negation.",
+    "The waw of s018 fuses with the לֹא of s021 as neither across the fronted object, under rule 35's distance clause.",
+    "the hair of your heads is read as one substantive's multi-word rendering (rule 31) plus the suffix, so nothing is added there.",
+    "Partition verified after the change: all 44 source and 56 target ids are used exactly once across 43 units."
+  ],
+  "ref": "LEV.10.6",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

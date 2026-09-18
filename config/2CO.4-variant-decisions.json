@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "chapter": "2CO.4",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.2CO.4.1.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἐγκακοῦμεν and ἐκκακοῦμεν are orthographic variants of the same verb; ASV 'we faint not' renders either identically and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.4.2.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "συνιστάνοντες/συνιστάντες/συνιστῶντες are alternative present participle formations of the same verb; ASV 'commending ourselves' renders all three identically."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.4.4.v003",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'should not dawn upon them' carries an unitalicized 'upon them' answering to the dative αὐτοῖς; the base reading leaves the object unexpressed, and ASV italicizes supplied words. The marginal 'that they should not see the light . . . image of God' is classed alternative_rendering and concerns the construal of subject and object, not the presence of αὐτοῖς."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.4.5.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'but Christ Jesus as Lord' preserves the order Χριστὸν Ἰησοῦν; the transposed Ἰησοῦν Χριστόν would give 'Jesus Christ'. The mapped note ('Some ancient authorities read through Jesus') bears on a different variation, not this order."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.4.6.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Light shall shine out of darkness' is a future indicative, rendering λάμψει; the aorist infinitive λάμψαι would yield an imperatival 'Let light shine'."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.4.6.v006",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'in the face of Jesus Christ' renders Ἰησοῦ Χριστοῦ; the base Χριστοῦ alone would give 'of Christ', and 'Jesus' is not italicized."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.4.10.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'the dying of Jesus' has no 'the Lord'; the added κυρίου would give 'of the Lord Jesus', as ASV renders it where it stands (4:14)."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.4.12.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The correlative μέν is regularly left unrendered in ASV; 'So then death worketh in us, but life in you' answers to the δέ clause alone and is compatible with or without μέν."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.4.14.v009",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text reads 'he that raised up the Lord Jesus' with the mapped textual_variant note 'Some ancient authorities omit the Lord', so κύριον stands in the text and the omission is relegated to the margin."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.4.14.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'shall raise up us also with Jesus' renders σὺν Ἰησοῦ; διὰ Ἰησοῦ would give 'through Jesus' (which ASV notes at 4:5 as an 'ancient authorities' reading elsewhere, not here)."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.4.16.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἐγκακοῦμεν and ἐκκακοῦμεν are orthographic variants of the same verb; ASV 'we faint not' renders either identically."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.4.16.v012",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'our inward man' has an unitalicized possessive matching ἡμῶν in ὁ ἔσω ἡμῶν; ἔσωθεν alone ('the man from within') supplies no pronoun and ASV italicizes supplied words."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.4.17.v013",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'our light affliction' renders τῆς θλίψεως ἡμῶν with an unitalicized 'our'; the omission would leave 'the light affliction', and the separate 'for us' answers to ἡμῖν later in the verse."
+    }
+  ]
+}

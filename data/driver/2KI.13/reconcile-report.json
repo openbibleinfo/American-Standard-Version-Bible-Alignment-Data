@@ -1,0 +1,28 @@
+{
+  "chapter": "2KI.13",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The two-token name בֶּן הֲדַד is aligned as two units, Ben and hadad; where the ASV writes of before it as a chain's rectum (v3, v25) the of joins the first token, headed on Ben, and where it stands bare (v24) each token takes only its own word. A single fused unit was the alternative and was not taken.",
+    "עַד־כַּלֵּה (v17, v19) is read as till + infinitive absolute recast finite: the infinitive takes the supplied subject and auxiliary (thou have consumed / thou hadst consumed), headed on consumed, and the object pronoun the ASV writes after it (them, it) is its own added unit under rule 44, since no object morpheme stands in the Hebrew.",
+    "פָּנֶה is unrepresented wherever the ASV writes nothing for face: חִלָּה אֶת־פְּנֵי יְהוָה → besought Jehovah (v4, verb and noun not contiguous so no rule 30 fusion) and בָּכָה עַל־פָּנָיו → wept over him (v14, the suffix alone taking him). Where the ASV does write a word — מֵעַל פָּנָיו → from his presence (v23) — the noun takes it. Fusing noun and suffix into him was the alternative in v14 and was not taken.",
+    "The regnal formula's italic and reigned (v1, v10) is one added unit headed on reigned: the Hebrew writes the reign-length numeral directly after the accession clause, and no morpheme licenses either the connective or the verb."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 57 candidate lemmas and the 11 added units end to end. Every split in the table is the ASV rendering one word differently (waw connectives read off the text; king / the king; Aram as Syria / the Syrians; אֵת unrepresented on bare objects but taking of in v14 and unto in v23 under rule 16's adjunct and valency families; פָּנֶה unrepresented in v4 and v14 where the ASV writes nothing for face, presence in v23).",
+    "Recurring formulae are analysed one way throughout: הֶחֱטִיא אֶת־יִשְׂרָאֵל → made Israel to sin (v2, v6, v11); the regnal date with its trailing absolute שָׁנָה unrepresented and the italic and reigned added (v1, v10); דִּבְרֵי הַיָּמִים → chronicles with the article taking its own the (v8, v12); בָּהּ → therein with the supplied but added (v6, v11); תַּחְתָּיו → in his stead (v9, v24); עַד־כַּלֵּה → till thou have/hadst consumed with the object pronoun added (v17, v19); שָׁלֹשׁ פְּעָמִים → thrice fused (v18, v19) but split where the ASV writes Three times (v25).",
+    "Verb-plus-preposition fusions are consistent under rule 30's contiguity condition: יֵּלֶךְ אַחַר → followed (v2) and יָבֹאוּ בָ → invaded (v20) fuse because verb and preposition are contiguous and one word carries both, while יִּגַּע הָאִישׁ בְּ → touched (v21) leaves the בְּ unrepresented because the subject stands between.",
+    "The v21 review already placed as soon as on the waw of וַיִּגַּע and left the supplied as of as they were burying added with the frame's that on the apodosis waw; that division matches rules 14, 45 and 55 and needs no further change.",
+    "BSB disagreements: all eleven are convention differences (trailing שָׁנָה, dative and deontic לְ, נגע ב, the article of a band, the dropped יֵּלֶךְ that the ASV margin itself records, the bare-apodosis waw of v21, the waw between auxiliary שׁוּב and לָקַח in v25, and the two unwritten פָּנֶה). None is an error.",
+    "Nothing to promote: the chapter's judgments are instances of rules already in the contract, and the one novel English (waw → as soon as) simply extends rule 14's open connective list."
+  ]
+}

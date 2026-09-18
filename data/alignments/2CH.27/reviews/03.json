@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "a39582b9f4cfec5a527b480eb8152f3a24a9959c36f9a6b2150445c4b308daf7",
+  "contract_version": "ot-hebrew-verse-v114",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition checked: all 16 source ids and all 19 target ids appear exactly once across the 15 units, and every head is a member of its array.",
+    "s007: the phrase's single *the* goes to the article on the attributive `הָעֶלְיוֹן` and `שַׁעַר` keeps only *gate*. Rule 47 states this for a head noun that is a construct able to carry no article of its own — a present article morpheme takes the written *the* before a supplied one does. The competing reading, a supplied *the* on `שַׁעַר` with s007 `unrepresented`, is what that rule rules out.",
+    "s012: the article MACULA segments off the toponym `הָעֹפֶל` takes the chain's one written *the*, by rule 29's toponym rider (`בְּנֵי הָרָמָה` → *The children of Ramah*); it is not set aside as lexicalized in the name, and `חוֹמָה` keeps only *wall*.",
+    "`לָרֹב` → *much* meets rule 30's one-English-word condition, so the preposition shares the noun's unit headed on `רֹב`. Marking the `לְ` `unrepresented` beside a bare `רֹב` was available, but no English word here is spent on the preposition in particular.",
+    "The object marker is `unrepresented`: *built the upper gate* spends no word on the object relation (rule 16)."
+  ],
+  "ref": "2CH.27.3",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

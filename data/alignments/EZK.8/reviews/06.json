@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "eca10ac814d54298e79f46e717a56db6c77a18883ba9f5cccf274ebcba62f021",
+  "contract_version": "ot-hebrew-verse-v66",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 31 source and 43 target ids are partitioned exactly once across the 31 units.",
+    "s007 (הֲ) is unrepresented because the ASV marks the question by inversion alone (seest thou), which is rule 17's second limit and differs from 8.12, 8.15 and 8.17 where a fronted auxiliary is written.",
+    "The even at t014 is added: rule 16 licenses an appositional even only on a marker standing on the phrase it introduces, and this clause writes no אֵת anywhere.",
+    "s020 (לְ) takes the complementizer that and s021 keeps I should go far off, headed on far by rule 44's subtraction; s022+s023 (מֵעַל) fuse to the single from.",
+    "Variant WLC.EZK.8.6.v001 was resolved to r00-base before the packet was built and carries no fallback-exclusion mark, so rule 53 does not apply."
+  ],
+  "ref": "EZK.8.6",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

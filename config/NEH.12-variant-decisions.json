@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "chapter": "NEH.12",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.NEH.12.9.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV renders the name as ‘Unno,’ distinguishing the ketiv reading from the qere base."
+    },
+    {
+      "unit_id": "WLC.NEH.12.14.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's main text reads ‘Malluchi’; its mapped textual-variant note identifies ‘Melicu’ only as another reading, so the main wording selects the qere base."
+    },
+    {
+      "unit_id": "WLC.NEH.12.16.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the name as ‘Iddo,’ distinguishing and selecting the qere base reading."
+    },
+    {
+      "unit_id": "WLC.NEH.12.46.v004",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV's main text has singular ‘there was a chief’; the mapped textual-variant note gives plural ‘there were chiefs’ only as another reading, so the main wording selects the singular ketiv."
+    }
+  ]
+}

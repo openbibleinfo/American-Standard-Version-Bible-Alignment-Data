@@ -1,0 +1,173 @@
+{
+  "alignments": [
+    {
+      "note": "",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Supplied determiner is a rule 7 helper on the indefinite; head on the nominal word.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "ἴδιος carries the supplied *his own* before an expressed head noun, so the article realizes nothing (rules 20, 47).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rule 47.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "The supplied complementizer *how* introduces the expanded infinitival complement and belongs to it under rule 85; the infinitival *to* is its own rule 7 helper. The expressed πῶς is the second *how*, in the main clause.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The expressed πῶς governs the apodosis *how shall he take care*; the earlier *how* is supplied for the infinitive.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Anarthrous Greek, so both the supplied determiner and the case preposition are rule 7/21 helpers on the noun.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Genitive with no determiner; *of* rides with the noun under rule 21.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Light-verb rendering *shall he take care*; rule 17 heads on the meaning-bearing complement *care*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015",
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "1TI.3.5",
+  "review_notes": [
+    "Every s### and t### partitioned exactly once.",
+    "The two English *how*s are distinguished: the expressed πῶς takes the main-clause one and the infinitive's complement takes the supplied one."
+  ]
+}

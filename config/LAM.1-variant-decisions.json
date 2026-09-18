@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "chapter": "LAM.1",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.LAM.1.6.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'from the daughter of Zion' is compatible both with the qere's prefixed preposition in מִבַּת and the ketiv's separately written מן בת; the alternative_rendering note concerns 'majesty'/'beauty' and does not decide this unit."
+    },
+    {
+      "unit_id": "WLC.LAM.1.11.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'their pleasant things' does not distinguish the qere מַחֲמַדֵּיהֶם from the ketiv מחמודיהם; both candidate readings remain compatible, and no mapped textual note decides between them."
+    },
+    {
+      "unit_id": "WLC.LAM.1.18.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's vocative 'all ye peoples' does not uniquely distinguish the qere הָעַמִּים from the anarthrous ketiv עמים; the English address remains compatible with either, and no mapped textual note decides the unit."
+    }
+  ]
+}

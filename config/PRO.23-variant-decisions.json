@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "chapter": "PRO.23",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PRO.23.5.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV renders the clause freely (\"Wilt thou set thine eyes upon that which is not?\") and its margin glosses the Hebrew as \"Shall thine eyes fly upon it, and it is not?\", which reads the eyes as the flying subject; the English therefore does not fix hiphil qere הֲתָעִיף against qal ketiv התעוף, and the note is classed alternative_rendering and cannot decide a reading in any case."
+    },
+    {
+      "unit_id": "WLC.PRO.23.5.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere יָעוּף and ketiv ועיף are the same verb of flying; \"Like an eagle that flieth toward heaven\" renders either, and no mapped textual note bears on the unit."
+    },
+    {
+      "unit_id": "WLC.PRO.23.6.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere תִּתְאָיו and ketiv תתאו are orthographic variants of the same hithpael of אוה; \"Neither desire thou his dainties\" is compatible with both and PRO.23.6 carries no note."
+    },
+    {
+      "unit_id": "WLC.PRO.23.24.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere גִּיל and ketiv גול are spellings of the same infinitive of rejoicing; the ASV's \"will greatly rejoice\" reflects the infinitive absolute either way, with no note to distinguish them."
+    },
+    {
+      "unit_id": "WLC.PRO.23.24.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere יָגִיל and ketiv יגול are spellings of the same imperfect of גיל; \"will greatly rejoice\" renders either and no note is mapped to the unit."
+    },
+    {
+      "unit_id": "WLC.PRO.23.24.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The qere וְיוֹלֵד carries the conjunction on the participle; the ketiv יולד leaves it off and puts a waw on the following verb (see the ketiv וישמח at v007). ASV places its conjunction before the participial clause and none before the predicate: \"And he that begetteth a wise child will have joy of him.\" That is the qere's clause division."
+    },
+    {
+      "unit_id": "WLC.PRO.23.24.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "Same clause division as v006: the ketiv וישמח would require \"he that begetteth a wise child, and he will have joy\", but ASV renders the predicate without a conjunction (\"will have joy of him\"), matching the unwaw'd qere יִשְׂמַח."
+    },
+    {
+      "unit_id": "WLC.PRO.23.26.v008",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV's text \"let thine eyes delight in my ways\" renders the ketiv תרצנה (רצה, to take pleasure in), and its note, classed textual_variant and mapped to this unit, sets the qere תִּצֹּרְנָה (נצר, to keep) aside as \"Another reading is, observe\"."
+    },
+    {
+      "unit_id": "WLC.PRO.23.29.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere מִדְיָנִים and ketiv מדונים are alternate spellings of the same noun of strife; \"who hath contentions?\" renders either, and the verse's notes are hebrew_gloss and alternative_rendering, which do not decide a reading."
+    },
+    {
+      "unit_id": "WLC.PRO.23.31.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads \"When it sparkleth in the cup\": כּוֹס is the cup, while the ketiv בכיס is the bag or purse. The English wording renders the qere בַּכּוֹס; the verse's only note is an alternative_rendering on \"goeth down smoothly\"."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chapter": "1SA.28",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "'ob with the article and no ba'alat (28.3 ha'obot → 'those that had familiar spirits', 28.9 → 'those that have familiar spirits'): the article takes the 'those' written in its place (r41) and the noun takes the whole relative clause of having as its own recasting (r46 closing), headed on 'familiar' since the ASV never writes 'spirit' alone for 'ob (r31). Where ba'alat is written (28.7 'eshet ba'alat-'ob → 'a woman that hath a familiar spirit') the 'that hath' is ba'alat's under r43's noun-of-possession clause and 'ob keeps 'a familiar spirit'. The competing allocation ('those that' to the article) is named in the notes.",
+    "gam standing at a clause head with no waw (gam-koach lo-hayah bo → 'and there was no strength in him') takes the ASV's connective 'and' rather than leaving it added: a present additive particle is the morpheme the connective answers to (r11). Beside a waw rendered 'with' (28.23 wegam-ha'ishah → 'together with the woman') gam takes 'together' and the waw 'with'; the competing reading gives 'together with' whole to the waw.",
+    "halak → 'went away' with no min or other directional morpheme in the clause: 'away' is marked added under r44's surplus-particle sentence, since 'went' writes the whole lexeme and the departure is stated nowhere in the Hebrew; qum → 'rose up' keeps its particle because rising is what the verb writes. The alternative (keeping 'away' with halak) is named in the note."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked every multi-treatment bucket in the candidate table against the source. Every difference is licensed by the ASV's wording or by a different Hebrew construction: waw takes whichever connective is written (And/and/then/So/But/Now/even/for/therefore/seeing/with/nor/that) and is unrepresented only in the three 'And when' apodoses (28.5, 28.6, 28.12) and between mahar and its lexical verb (28.20, r56); articles are unrepresented only on toponyms, beside a demonstrative that takes 'this/that/those', or before a bare noun; dative le is silenced only where the ASV writes 'Seek me', 'bring me up', 'lamented him' and takes 'unto' where written (28.8).",
+    "The one construction that recurs in different shapes — the 'familiar spirit' phrases — is analysed consistently: where ba'alat is written (28.7 twice) it takes 'that hath' under r43's noun-of-possession clause and 'ob takes 'a familiar spirit'; where only the article + 'obot stands (28.3, 28.9) the article takes 'those' and the noun takes 'that had/have familiar spirits' as its own recasting (r46 closing), with the competing allocation noted in both verses. 28.8 be-'ob → 'by the familiar spirit' splits article and noun as usual.",
+    "gam: neither/nor (28.6, 28.15), also (28.19, 28.22), 'and' where no waw stands (28.20, r11 priority of a present function morpheme over an added connective) and 'together' beside a waw rendered 'with' (28.23). Each is a different context and each carries its note.",
+    "BSB disagreements: all 21 are convention — assimilated/agreement articles the ASV writes nothing for, dative/locative prepositions the ASV's recasting silences, apodosis waws, the cohortative he of 28.15 (tagged Sd by MACULA but rendered by nothing either way), and the be- of 'that night' in 28.25. None is an error.",
+    "28.17 t006 'thee' against the 3ms suffix is a versional divergence with no packet variant unit; aligned as printed and noted under r53's closing paragraph, which is the correct handling.",
+    "No general rule taught; promotions and amendments empty."
+  ]
+}

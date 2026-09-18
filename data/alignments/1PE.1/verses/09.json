@@ -1,0 +1,14 @@
+{
+  "ref": "1PE.1.9",
+  "alignments": [
+    {"source": ["s001"], "source_head": "s001", "target": ["t001"], "target_head": "t001", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s002"], "source_head": "s002", "target": ["t002"], "target_head": "t002", "status": "aligned", "confidence": "high", "note": "Article surfaces as English 'the' (rule 19)."},
+    {"source": ["s003"], "source_head": "s003", "target": ["t003"], "target_head": "t003", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s004"], "source_head": "s004", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "Displaced by the possessive: the genitive pronoun hymon is present to carry 'your', so the article realizes nothing and the case preposition 'of' stays with the noun (rules 20, 21)."},
+    {"source": ["s005"], "source_head": "s005", "target": ["t004", "t006"], "target_head": "t006", "status": "aligned", "confidence": "high", "note": "Source noun rendered 'of + noun'; head on the noun (rules 17, 21)."},
+    {"source": ["s006"], "source_head": "s006", "target": ["t005"], "target_head": "t005", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s007"], "source_head": "s007", "target": ["t007", "t008", "t009"], "target_head": "t009", "status": "aligned", "confidence": "medium", "note": "Greek is anarthrous, so the supplied 'the' is a rule 7/51 helper on the noun; the appositional 'even' is likewise licensed by this noun and is not mechanically 'added' (rule 11). A reading marking 'even' as 'added' remains defensible."},
+    {"source": ["s008"], "source_head": "s008", "target": ["t010", "t011", "t012"], "target_head": "t012", "status": "aligned", "confidence": "high", "note": "Anarthrous noun: the supplied possessive 'your' has no other source word to belong to and rides with the noun, as does the case preposition 'of' (rules 7, 11, 21)."}
+  ],
+  "review_notes": []
+}

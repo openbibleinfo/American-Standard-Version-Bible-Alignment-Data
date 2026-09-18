@@ -1,0 +1,157 @@
+{
+  "alignments": [
+    {
+      "note": "Waw takes the connective written for it (rule 14).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Proper name; discontinuous from its verb, which the ASV writes after the apposition (rule 25).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Construct with supplied determiner, the rectum being a bare proper name (rules 15, 29).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Rectum takes the relational *of* (rule 19).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Finite verb, discontinuous from its waw under rule 25.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Preposition takes the *from* written for its own relation.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Article takes the *the* standing before its own word (rule 29).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "CORRECTION. The accepted alignment gave *from* to `מִן` alone and marked the `לְ` `unrepresented` under rule 40. `מִלְ` is a compound preposition written from two prepositions, the class rule 23 records as `מֵאֵת` → *of* and `מֵעַל` → *from*: neither morpheme owns a part of the one written word, and rule 30's subtraction test finds both left with no rendering at all when it is dropped, so the condition is met and they share one unit. Rule 40 reaches a preposition whose own relation the recasting leaves unstated while its object keeps English of its own, which is not this case. Headed on the morpheme governing the rest, which in Hebrew stands first (rule 23), exactly as `מֵעָלָיו` → *toward* is read in the same chapter at JDG.8.3. The competing reading is the split the accepted alignment took.",
+      "source": [
+        "s009",
+        "s010"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Article on the rectum takes the phrase's single *the*, fronted by the anarthrous rendering of the name; a segmented toponym article is not set aside as lexicalized (rule 29).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Construct noun; its determiner is the fronted article's under rule 29.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Rectum takes the relational *of* (rule 19).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "JDG.8.13",
+  "review_notes": [
+    "Corrected one unit: `מִלְ` of `מִלְמַעֲלֵה` is a two-preposition compound sharing the single written *from* under rules 23 and 30, not a `מִן` with an `unrepresented` `לְ` beside it under rule 40.",
+    "All 13 source and 15 target ids remain partitioned exactly once; the correction merges two accepted units into one and changes nothing else."
+  ]
+}

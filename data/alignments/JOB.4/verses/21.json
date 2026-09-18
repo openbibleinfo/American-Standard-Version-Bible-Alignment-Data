@@ -1,0 +1,145 @@
+{
+  "alignments": [
+    {
+      "note": "Interrogative particle takes the fronted question copula 'Is' (rule 17).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Negative to 'not'.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Niphal verb rendered 'plucked up'; the particle names nothing on its own, so the head stays on the verb (rule 44).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "יֶתֶר rendered 'tent cord'; head on 'cord', which carries the lexeme, 'tent' being the ASV's specifier (rule 31).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Suffix to 'their'.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Preposition rendered 'within'.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Suffix to 'them'.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Verb with its subject pronoun; head on 'die'.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Waw rendered by the pair 'and that' at the clause edge; the corpus aligns a waw to 'and that' (rule 55). Headed on the coordinator.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Negative and preposition fused into the single 'without', which carries both the negation and the relation (rules 30, 35); headed on the negative. The competing reading gives 'without' to לֹא alone and marks בְ unrepresented.",
+      "source": [
+        "s010",
+        "s011"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Noun to 'wisdom'.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "JOB.4.21",
+  "review_notes": [
+    "The ASV's marginal alternative rendering of the first colon does not affect the division of the printed text."
+  ]
+}

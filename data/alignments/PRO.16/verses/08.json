@@ -1,0 +1,121 @@
+{
+  "alignments": [
+    {
+      "note": "Adjectival predicate with the construction-supplied copula under rule 20, headed on the comparative rendering of the lexeme.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Substantive with its indefinite article under rule 15.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Preposition rendered *with*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Noun rendered *righteousness*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Comparative מִן rendered by the bare *Than* under rule 24.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Construct noun rendered attributively under rule 28.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Rectum rendered *revenues*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Preposition rendered *with*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "One English word carries both the negation and the noun's lexeme, so the two morphemes share a unit under rule 30. Headed on the negative: both senses stand inside *injustice*, so neither morpheme carries content the other lacks, and rule 23's tie provision takes the morpheme standing first and governing the rest, which is also where that rule's ruling that a negation heads the unit it is fused into puts it, and where rule 35 heads a fused *no* or *Nor*. The competing reading heads on מִשְׁפָּט because *injustice* writes that noun's lexeme; rule 23 excludes the English word written as a criterion for a source head, so that reading is named here rather than taken.",
+      "source": [
+        "s009",
+        "s010"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    }
+  ],
+  "ref": "PRO.16.8",
+  "review_notes": [
+    "Corrected at reconciliation: the source head of the fused לֹא מִשְׁפָּט → *injustice* unit moved from מִשְׁפָּט to לֹא. Rule 23 decides a source head by which morpheme carries content the others lack, or, where the single English word writes more than one morpheme's sense, by the morpheme standing first and governing the rest; it states expressly that the English word written does not choose a source head.",
+    "This aligns the verse with PRO.16.24, where צוּף־דְּבַשׁ → *honeycomb* heads on the governing construct on exactly those terms. The competing head remains named in the unit's note under rule 8.",
+    "No edge changed: the unit's source array, target array and target head are as the verse pass returned them, and every s### and t### is partitioned once."
+  ]
+}

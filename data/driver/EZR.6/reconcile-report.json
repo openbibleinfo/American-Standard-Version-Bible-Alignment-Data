@@ -1,0 +1,30 @@
+{
+  "chapter": "EZR.6",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "אָסְפַּרְנָא is rendered by the fixed phrase 'with all diligence' and is one unit headed on diligence (rule 30); neither 'with' nor 'all' answers to any other morpheme (6.8, 6.12, 6.13).",
+    "עֲבַר־נַהֲרָה, though MACULA tags both words Np, is aligned morpheme by morpheme: עֲבַר takes 'beyond' as a directional construct under rule 19's rider, נַהֲר 'River', and the Td ending 'the'. A בְּ standing before it fuses with עֲבַר under rule 30 and, as a prepositional predicate, takes the copula under rule 49 ('are beyond', 6.6); the bare construct after מִדַּת takes 'beyond' alone (6.8, 6.13).",
+    "Periphrastic הוה + participle: the finite הוה takes the jussive frame, subject pronoun and modal the ASV writes ('be', 'let it be', 'they may') and the participle takes the lexical verb ('given', 'offer'); rule 2 splits the two verbs (6.8, 6.9, 6.10).",
+    "בֵּית־אֱלָהָא with a following demonstrative דֵךְ/דְנָה → 'this house of God': the demonstrative takes 'this', the Td on אֱלָהָא is unrepresented under rule 41's closing paragraph, and no the is fronted; where no demonstrative stands, the same chain fronts the rectum's Td to the phrase's 'the' under rule 29 (6.3, 6.5, 6.18, 6.22 against 6.7, 6.8, 6.12, 6.16, 6.17).",
+    "מִנִּי שִׂים טְעֵם → 'I make / have made a decree': the recasting leaves מִן unrepresented and the 1cs suffix takes the subject pronoun I (rule 40). In 6.11 MACULA tags the מִן Ncmpc and the suffix Sp3ms; the form is read past the tags (rule 39) and aligned as in 6.8.",
+    "Aramaic חַד after an indefinite noun is an indefinite article and takes the ASV's 'a' as a present morpheme under rule 11 (6.2 'a roll'); as an ordinal in a date it takes 'first' (6.3). The rule 15 alternative, חַד unrepresented with 'a' on the noun, was considered and set aside."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v218",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 46 candidate groups and the seven added units end to end. No construction is analysed two ways: every difference in the table is an ASV rendering the source licenses (waw → both/and/Also/Moreover/that by count of connectives; לְ/בְּ/מִן by the word written or silenced under rule 40; Td rendered, unrepresented beside a demonstrative or an indefinite, or fronted under rule 29; דִּי → of/which/that/where/even/unrepresented by what the ASV wrote for the relation).",
+    "Recurring chapter shapes are consistent across every verse they touch: 'is/are at Jerusalem' on the בְּ (6.2, 6.5×2, 6.9, 6.12, 6.18); 'this house of God' with the demonstrative taking this and the rectum's Td unrepresented (6.7, 6.8, 6.12, 6.16, 6.17); the Td of בֵּית־אֱלָהָא fronted to the phrase's the where no demonstrative stands (6.3, 6.5, 6.18, 6.22); periphrastic הוה + participle split auxiliary/lexical verb (6.8, 6.9, 6.10); 'with all diligence' one unit on אָסְפַּרְנָא (6.8, 6.12, 6.13); מִנִּי שִׂים טְעֵם → 'I make a decree' with מִן silenced (6.8, 6.11); עֲבַר־נַהֲרָה morpheme by morpheme with a preceding בְּ fused into עֲבַר (6.6, 6.8, 6.13).",
+    "The seven added units (6.3 'and' between asyndetic clauses, 6.5 'every one' and 'them', 6.9 'also' with no waw, 6.11 'and' between participle and jussive, 6.12 'the same', 6.14 'it') each answer to no morpheme, and no sibling verse folds the same supplied word into a neighbouring token.",
+    "BSB disagreements are all documented convention, none a genuine error: the 12 Td endings are beside a demonstrative, an indefinite a, or the attributively rendered gold/silver; 6.5 דִּי of material is rendered attributively; 6.7 לַ is an object marker; the six R tokens are prepositions the ASV's recasting leaves nothing for (dative 'given them', 'I make a decree', object of seek); 6.11 מִנִּ is the same מִן as 6.8 under a stray Ncmpc tag.",
+    "Single-verse candidate, not a split and not patched here: 6.3 gives 'Concerning' to the fronted בֵּית־אֱלָהָא under rule 33, but that nominal is a topicalized casus pendens resumed by בַּיְתָא, which rules 16 and 33 both say is not a case-function (their 'as for' → added ruling); a verse re-pass should consider marking 'Concerning' added.",
+    "6.11 MACULA tags מִנִּי as Ncmpc + Sp3ms where 6.8 tags the same word R + Sp1cs; the verse pass read the form and aligned both identically (rule 39). No promotion: nothing here generalises beyond what rules 15, 17, 29, 30, 40, 41 and 49 already say."
+  ]
+}

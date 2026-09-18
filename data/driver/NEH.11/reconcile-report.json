@@ -1,0 +1,28 @@
+{
+  "chapter": "NEH.11",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Two-token place names that MACULA segments into two tokens (Col-hozeh, Kiriath-arba, Beth-pelet, Hazar-shual, Beer-sheba, En-rimmon, Beth-el) are one unit each, headed on the first token, including Beer-sheba whose second token is tagged as a numeral (Acfsa) and Kiriath-arba whose second token carries an article inside the name. A supplied preposition before such a name (at Beth-el) joins the name unit under rule 33. Where the ASV translates rather than transliterates (the valley of Hinnom 11.30, the valley of craftsmen 11.35), the construct and rectum are split as an ordinary chain.",
+    "Census totals: a verbless clause whose predicate is a compound numeral (11.6, 11.18, 11.19) takes the construction-supplied were on the opening numeral of the Hebrew figure, not on the closing counted noun or the last numeral; the alternative was named in each note.",
+    "Overseer clauses: where paqid is indefinite and a name stands in the clause (11.9 Joel ... was their overseer; 11.14 their overseer was Zabdiel) the indefinite noun is the predicate and takes the copula, and the al + suffix is unrepresented with its suffix taking their (rule 40); where paqid heads a definite construct (11.22 the overseer of the Levites ... was Uzzi) it is the subject and the copula goes to the predicate name. English word order was not the test; Hebrew definiteness was.",
+    "The town-list formula uvenoteha is rendered and the towns thereof (11.25, 11.27, 11.28, 11.30, 11.31): the noun takes the towns with its supplied the under rule 15, the suffix takes thereof, and the margin's Hebrew daughters is read and set aside (rule 38). Where the Hebrew gaps the verb (11.31), the italic dwelt is a supplied lexical verb and is added under rule 20, not carried from the dwelt of 11.25 (rule 10)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v218",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 36 verses end to end, including the six `added` units the lemma table cannot see (11.1 other; 11.3 to wit; 11.16 who; 11.17 who; 11.31 dwelt, onward). Each answers to no morpheme and none is folded elsewhere in a sister verse; no added/folded split exists.",
+    "Every candidate group is an ASV rendering difference the source licenses: waw connectives (and/but/Now/Moreover/So/also), the children vs the sons, partitive min as certain of / some of / of / among (whole on the preposition, rule 19), construct chains with fronted vs arthrous vs possessive the (rule 29, applied identically in 11.1, 11.3, 11.11, 11.16, 11.17, 11.22, 11.24), and prepositions silenced by recasting (11.2 dative lamed, 11.9/11.14 al recast as their, 11.26 no in before Beth-pelet).",
+    "Copula placement is consistent: numeral predicates take were on the opening numeral (11.6, 11.18, 11.19); prepositional predicates take it on the preposition (11.20, 11.21, 11.23, 11.24, 11.36); overseer clauses put it on the indefinite predicate paqid (11.9, 11.14) and on the predicate name Uzzi where paqid is a definite construct subject (11.22) — a difference the Hebrew definiteness licenses, not a split.",
+    "Two-token place names (Col-hozeh, Kiriath-arba, Beth-pelet, Hazar-shual, Beer-sheba, En-rimmon, Beth-el) are one unit each throughout; translated names (valley of Hinnom, valley of craftsmen) are split construct/rectum throughout. Hassenuah and Haggedolim carry their article inside the name unit in both verses.",
+    "BSB disagreements (7) are all convention: three articles the ASV writes no the for (11.1 ten, 11.1 parts, 11.16 agreement article) and four prepositions left bare by the ASV's recasting. None is an error. No edge changed.",
+    "The 11.23 five-morpheme noncompositional unit (debar-yom beyomo → as every day required) was checked; no split of its parts is clearly preferable and the first-token source head is rule 6's fallback."
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "alignments": [
+    {
+      "note": "Waw takes the coordinating *And*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Verb takes its auxiliary; the explicit subject noun stands in its own units (rule 17).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Object suffix takes *them* (rule 18).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Article takes the written *the*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Noun takes its own word.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Article on מִזְבֵּחַ takes the written *the*; briefing glosses on s006-s008 are shifted and the morphology governs (rule 39).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Noun takes its own word.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Directive he takes the directional *upon* (rule 32).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Verbless clause: the supplied *it is* joins this predicate nominal (rule 20) and the supplied *the* joins the noun (rules 15, 29).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Rectum takes *of* (rule 19), rendered *the offering made by fire* and headed on *fire* (rule 31); *offering* was the competing head.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015",
+        "t016",
+        "t017",
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "לְ rendered *for* (rule 11).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Indefinite *a* belongs to the nominal (rule 15); unit discontinuous around *sweet*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Construct relation rendered attributively as *sweet* (rule 28).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "כֹּל rendered *all*.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "No article morpheme here, so the supplied *the* joins the noun (rule 15).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t025",
+        "t026"
+      ],
+      "target_head": "t026"
+    },
+    {
+      "note": "The ASV writes no English preposition for the possessive לְ: its relation stands inside the genitive *Jehovah’s*, so the preposition and the name share one unit under rule 30’s one-rendering condition, and the construction-supplied copula *is* joins that fused unit exactly as it joins לִפְנֵי -> *was before* there (rules 20, 49). Head on the lexeme-bearing name. Splitting the pair — *is* to the preposition, *Jehovah’s* to the name — is the competing reading, rejected because that split leaves the לְ holding a copula the construction supplies rather than any rendering of its own relation, and because the corpus fuses לְ + the divine name in all six comparable units (EXO.9.29 *is Jehovah’s*, EXO.13.12 *shall be Jehovah’s*, ISA.44.5 *am Jehovah’s*, 1SA.17.47, EXO.12.11, EXO.12.27). Recording it `noncompositional` instead was also available; `aligned` follows EXO.9.29, the closest parallel, and this chapter’s own לִפְנֵי units.",
+      "source": [
+        "s016",
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t027",
+        "t028"
+      ],
+      "target_head": "t028"
+    }
+  ],
+  "ref": "LEV.3.16",
+  "review_notes": [
+    "*all the fat is Jehovah’s*: לַיהוָה is one fused unit carrying the construction’s copula (rules 30, 49), headed on *Jehovah’s*; the split reading and the `noncompositional` status are both named in that unit’s note. Corrected at chapter reconciliation, where the chapter’s uniform fusion of לִפְנֵי and לְעֻמַּת and the corpus precedent were both in view.",
+    "Glosses on the altar’s three morphemes are reversed in the briefing (rule 39).",
+    "אִשֶּׁה headed on *fire* by rule 31’s subtraction test, as in vv. 3, 5, 9, 11 and 14; *offering* remains defensible and is named in the unit’s note."
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chapter": "2KI.2",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Oath formula חַי־יְהוָה וְחֵי־נַפְשְׁךָ אִם־אֶעֶזְבֶךָּ → 'As Jehovah liveth, and as thy soul liveth, I will not leave thee': each חַי/חֵי takes 'As … liveth' discontinuous around its noun (rule 55), the waw takes 'and', and the oath אִם takes the 'not' the ASV writes for its implicit negation (rule 11); the verb keeps only 'I will leave'. Applied identically in 2.2, 2.4, 2.6.",
+    "MACULA segments בֵּית־אֵל into two Np tokens. Each takes its own English word ('Beth' / 'el'); any supplied preposition or copula for the bare place-name (directional 'to'/'unto' under rule 33, locative 'were at' under rules 20/33) joins the first token, and the second holds only 'el'. Applied in 2.2 (twice), 2.3, 2.23.",
+    "מִנֶּגֶד → 'over against' is one fused unit (rule 30) headed on נֶגֶד, which carries the 'opposite' content the מִן lacks (rule 23's content-bearing sentence, not its first-morpheme default for contentless compounds); the ASV's supplied object pronoun ('them' 2.7, 'him' 2.15) answers to no suffix and is `added`. Likewise מֵרָחוֹק → 'afar off' heads on רָחוֹק and בְּטֶרֶם → 'before' on טֶרֶם.",
+    "שְׁנֵיהֶם as subject or object: the numeral takes 'two' or 'both' and the suffix takes the pronoun the ASV writes for it ('they two' 2.6, 2.7, 2.8; 'them both' 2.11); the suffix is never left unrepresented beside the numeral.",
+    "Particle 'on'/'away' with verbs of motion is read by rule 44's clause-level test: 2.11 'went on' keeps 'on' with the participle because the infinitive absolute הָלוֹךְ (→ 'still') writes the continuation; 2.6 'went on' for a bare וַיֵּלְכוּ leaves 'on' `added` because nothing in the clause writes it. 2.3/2.5 'take away' keeps 'away' with לֹקֵחַ because the direction is written by מֵעַל.",
+    "הֶחֱשׁוּ → 'hold ye your peace' is one unit headed on 'peace' (rule 44 light verb + complement); the possessive 'your' is part of the fixed English idiom's rendering and is kept inside the unit rather than marked `added` under rule 18's closing sentence. Applied in 2.3 and 2.5; the competing reading is noted on both units."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 56 candidate lemma groups against the 25 verses; no construction is analysed two ways without a source or ASV difference licensing it.",
+    "Apodosis waw after וַיְהִי is uniform: takes the frame's *that* where the ASV writes it (2.1, 2.9, 2.11) and is unrepresented where the ASV opens the apodosis bare (2.14, 2.15, 2.17); the 'and when'/'and as'/'so that' pairs all head on the coordinator per rule 55.",
+    "The oath formula (2.2, 2.4, 2.6) is identical in all three verses: each חַי/חֵי takes 'As … liveth', the oath אִם takes 'not'.",
+    "2.6 *went on* (on added) vs 2.11 *went on* (on kept) is licensed: the infinitive absolute הָלוֹךְ writes the continuation in 2.11, nothing does in 2.6 (rule 44 surplus-particle test).",
+    "The `added` units are consistent: supplied objects 'it' (2.3, 2.5, 2.8, 2.12, 2.20), supplied pronoun after מִנֶּגֶד (2.7, 2.15), supplied subordinators/connectives with no morpheme (2.10 nevertheless/when/so, 2.11 as, there appeared).",
+    "BSB disagreements (9 Td, 2 Ti, 5 C, 4 R, 1 To, 1 Rd) are all documented convention differences under rules 12, 14, 16, 17, 29, 40 and 45; none is a genuine error.",
+    "Heads on the fused compounds מִנֶּגֶד → over against and בְּטֶרֶם → before go to the content-bearing second morpheme, consistently in both occurrences of each.",
+    "No promotion: the chapter teaches nothing the contract does not already say with corpus backing."
+  ]
+}

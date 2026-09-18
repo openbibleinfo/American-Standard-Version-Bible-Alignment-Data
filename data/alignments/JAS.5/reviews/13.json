@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "88fd1b58b5ce4cb9afbd5968c6b9a7851b2059ad047165ae10fd49661249b14a",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed unchanged: the accepted alignment partitions all eight s### and all fifteen t### ids exactly once, and every unit is aligned with nonempty arrays and heads drawn from their own arrays (rule 3). No unrepresented or added unit is needed, the ASV realizing each Greek token and supplying no lexical English that no token licenses.",
+    "Both questions are marked by inversion alone and no interrogative particle stands in the Greek, so rules 44 and 64 are not in play. The auxiliary 'Is' in each clause is its own finite verb's helper under rule 9 — κακοπαθεῖ's discontinuous 'Is ... suffering' and εὐθυμεῖ's copular 'Is cheerful' — and not a copula belonging to the indefinite subject; rule 53's word-order warning points the same way.",
+    "ἐν ὑμῖν is split into 'among' and 'you' under rules 2 and 36: the preposition has its own English word, so no compound unit is in question (rule 94's single-English-word precondition is not met).",
+    "The one live question is the s008 head. Rule 91's test is operational — which word the corpus already spends on ψάλλω — and it was not run here, the briefing carrying no corpus access. A later reader with the corpus should check the other ψάλλω units (EPH.5.19 ψάλλοντες, ASV 'making melody', is the nearest) before treating 'sing' as settled; if the corpus spends the complement word on that lexeme, the competing head on 'praise' gains weight. The unit note names that competing reading as rule 16 requires, so nothing is lost either way.",
+    "s006's head rests on the same test with no corpus attestation to consult: εὐθυμέω appears nowhere else in the aligned books, so 'cheerful' is taken as the lexeme's gloss and the supplied 'Is' as its copula, which is rule 104's neighbouring-class fallback reached by the plainest route."
+  ],
+  "ref": "JAS.5.13",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

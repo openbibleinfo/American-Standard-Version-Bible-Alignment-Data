@@ -1,0 +1,134 @@
+{
+  "alignments": [
+    {
+      "note": "Imperative verb; the ASV fronts it.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Ordinary negative μή with an expressed verb, aligned to *not* (rule 44's interrogative case does not arise).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The ASV gives the governed noun's English no determiner for the article to anchor, so under rules 21 and 23 it realizes nothing and the phrase's own prepositions stay with the noun.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "One Greek noun expanded into a whole English phrase. *show* is a supplied support verb and the infinitival *to* is a rule 7/61 helper on it, no conjunction governing the clause. `φιλοξενία` returns nothing on rule 91's lemma test, so rule 104 sends the query to the neighbouring class, and the φιλ- family answers it: no corpus unit heads a φιλ- compound on the stem where the English glosses the φιλ- element with its own word, the family heading *love*, *loving*, *lover* or *kindness* throughout — `φίλανδρος` → *love their husbands* and `φιλότεκνος` → *to love their children* at TIT.2.4, `φιλάγαθος` → *a lover of good* at TIT.1.8, `φιλάδελφος` → *loving as brethren* at 1PE.3.8, `φιλανθρωπία` → *love toward man* at TIT.3.4, `φιλοπρωτεύω` → *who loveth to have the preeminence* at 3JN.1.9, and the three `φιλαδελφία` units. Head on *love*, which is also this phrase's lexical nucleus under rule 17. The reading is not beyond argument: several of those units carry no head reasoning of their own, and 1PE.1.22 — the nearest lemma — is hedged and concedes its complement, so a head on *strangers* remains defensible. The ξεν- root is not the class that decides it, recording only how a simplex `ξένος` is glossed, and the corpus's own gloss for `φιλοξεν-` is *hospitality*, which favours neither word.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Preposition fused with a governed demonstrative into one *there-* word: rule 81 makes this `aligned`, *there-* answering to ταύτης and instrumental *-by* to διά, headed on the demonstrative. Not rule 45's `noncompositional`, which wants an English word answering to neither token.",
+      "source": [
+        "s005",
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Postpositive γάρ rendered by the clause-initial *for*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Plain indefinite τινες → *some*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "The aorist participle carries the main English predicate; the auxiliary *have* is a rule 9 helper and rule 17 heads the unit on the lexical verb.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "λανθάνω with a complementary participle inverts in English: the finite verb's own sense is realized adverbially as *unawares* while ξενίσαντες takes the predicate. Discontinuity is permitted by rule 15.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Anarthrous accusative object → bare *angels*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "HEB.13.2",
+  "review_notes": [
+    "All 11 source and 14 target ids partitioned exactly once.",
+    "s001 is the only unrepresented unit; no added units, the ASV supplying no English that lacks a licensing token.",
+    "The head of s002 is the one genuinely open choice in the verse: *love* over *strangers*, recorded in that unit's note."
+  ]
+}

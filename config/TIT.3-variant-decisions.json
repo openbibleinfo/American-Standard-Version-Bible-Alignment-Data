@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "chapter": "TIT.3",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.TIT.3.1.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the pair asyndetically, 'to be in subjection to rulers, to authorities', with no conjunction joining them; the RP reading's added kai would surface as 'rulers and authorities' (so KJV, 'principalities and powers'). The ASV's departure from that wording distinguishes the base text."
+    },
+    {
+      "unit_id": "SBLGNT.TIT.3.5.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is only the case of the relative pronoun (accusative ha vs. genitive by attraction hon) with no difference in sense; ASV 'works done in righteousness, which we did ourselves' renders either identically. Both verse notes are classed alternative_rendering (laver; and through renewing) and touch other words, so nothing maps to this unit."
+    },
+    {
+      "unit_id": "SBLGNT.TIT.3.5.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Neuter to eleos and masculine ton eleon are declensional forms of the same noun with the same meaning; ASV 'according to his mercy' is produced by either. The two notes here are alternative_rendering and concern 'washing' and 'renewing', so neither maps to this unit."
+    },
+    {
+      "unit_id": "SBLGNT.TIT.3.7.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Aorist passive-form genethomen and middle genometha are alternative subjunctives of ginomai with the same sense 'become'; ASV 'we might be made heirs' matches either, as KJV's identical 'should be made heirs' on the RP reading shows. The single note is alternative_rendering about the placement of 'according to hope'."
+    },
+    {
+      "unit_id": "SBLGNT.TIT.3.8.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The RP addition is the article ta before the predicate adjectives; ASV 'These things are good and profitable unto men' is the natural rendering with or without it, KJV giving the same English from the articled text. The note is alternative_rendering about 'maintain good works'."
+    },
+    {
+      "unit_id": "SBLGNT.TIT.3.9.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV has the plural 'strifes' alongside 'questionings' and 'fightings'; the WH reading eris is singular accusative, which would give 'strife'. The number of the English noun distinguishes plural ereis."
+    },
+    {
+      "unit_id": "SBLGNT.TIT.3.13.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Apollon and Apollo are competing accusative spellings of the same personal name; ASV 'Apollos' reflects the nominative form of the name and cannot distinguish the accusative ending."
+    },
+    {
+      "unit_id": "SBLGNT.TIT.3.15.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV ends the epistle 'Grace be with you all.' with no closing 'Amen', so the RP addition of Amen is not represented in the English."
+    }
+  ]
+}

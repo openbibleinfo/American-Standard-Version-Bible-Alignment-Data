@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "02e4e9284cb1867282e60ffc3bc8a92a7c250159b5bbd12dd3ccd9d01c58ecbf",
+  "contract_version": "ot-hebrew-verse-v69",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: 10 source and 15 target IDs each used exactly once.",
+    "מִמִּי נָעַמְתָּ is split by rule 30's subtraction test: *pass* renders the comparative מִן and *in beauty* the verb's lexeme, so this is not the גָּדַל ... מִן → *exceeded* case where the preposition goes unrendered.",
+    "Both ה tokens are tagged `Sh` (paragogic), not `Sd`, so rule 32's first sentence applies and they are `unrepresented`."
+  ],
+  "ref": "EZK.32.19",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

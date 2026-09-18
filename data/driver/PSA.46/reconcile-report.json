@@ -1,0 +1,27 @@
+{
+  "chapter": "PSA.46",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "PSA.46.9"
+  ],
+  "rejected": {},
+  "conventions": [
+    "The refrain יְהוָה צְבָאוֹת עִמָּנוּ מִשְׂגָּב־לָנוּ אֱלֹהֵי יַעֲקֹב (vv. 7, 11) and the opening אֱלֹהִים לָנוּ מַחֲסֶה (v. 1) are aligned alike: יהוה → Jehovah with `of hosts` on צָבָא; עִם → `is with` carrying the rule-49 copula; the predicate noun (מִשְׂגָּב, מַחֲסֶה) takes the copula `is` discontinuous around `our`; the possessive לְ is unrepresented and its suffix takes `our` (rule 40). Margin 'high tower' set aside.",
+    "A subject pronoun the ASV supplies for a participial predicate with no nominal in the verse denoting it (`He maketh wars to cease`, מַשְׁבִּית) is added, not folded into the participle: rule 17's pronoun reaches a finite verb's person and number only, and rule 25's 1SA.2.8 example (מֵקִים → He raiseth up) is the precedent. Finite verbs in the same verse keep their `He` under rule 17."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Cross-verse table: all nine candidate lemmas are context differences the ASV licenses, not splits. בְּ is `into` (46.2), `is in` with the rule-49 copula (46.5) and unrepresented where its object is promoted to the direct object of `uttered` (46.6, rule 40); the Sp1cp bucket mixes `with us` (עִמָּנוּ, 46.7/11) with the possessive `our` of לָנוּ (46.1, 46.7, 46.11), which are two constructions treated consistently each; אֶרֶץ takes a supplied `the` only where no article morpheme stands (46.6) and leaves the written `the` to the article elsewhere (46.8, 46.9, 46.10).",
+    "One correction, PSA.46.9: the supplied subject `He` of `He maketh wars to cease` was folded into the participle מַשְׁבִּית under rule 17. The contract's own examples settle this the other way: rule 25 leaves the `He` of `מֵקִים מֵעָפָר דָּל` → *He raiseth up the poor* (1SA.2.8) added because the verse writes no nominal for it, and states that rule 17's permission reaches a finite verb's person and number while a participle predicate takes only what the construction supplies. No nominal denoting Jehovah stands in v.9 (the name is in v.8, outside the unit of work under rule 10). `He` is now its own added unit; the two finite `He breaketh` / `He burneth` keep their pronouns under rule 17. Edges otherwise unchanged.",
+    "BSB disagreements (R × 4: לָנוּ 46.1/7/11, בְּקוֹלוֹ 46.6) are the documented convention difference — BSB attaches a silenced preposition to its phrase where rule 40 leaves it unrepresented. None is an error.",
+    "Checked and left standing: עַל־כֵּן → Therefore fused, head on עַל (rule 23); לִפְנוֹת בֹּקֶר → `right early` as one three-morpheme unit headed on the construct infinitive (rules 23, 30), with `and that` added for want of a waw; אֲשֶׁר → exclamative `What` in 46.8 (present relative takes the word the recast clause opens with, rule 11); the three asyndetic supplied subordinators/coordinators of 46.3 each added (rules 14, 55); `cutteth … in sunder` kept whole on the piel (rule 44, the particle completes the intensive lexeme).",
+    "Flag for a later reader, not changed: the superscription's `set to` for עַל (46.0) heads on `to`; rule 24's `according to` → `according` reasoning would head it on `set`. Whichever is chosen should match the other Psalms superscriptions already finalized, which this pass cannot see."
+  ]
+}

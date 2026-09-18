@@ -1,0 +1,510 @@
+{
+  "schema_version": 1,
+  "chapter": "LUK.7",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.LUK.7.1.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 7:1 opens \"After he had ended all his sayings\" with no rendered connective; the ASV renders a sentence-initial δέ (\"And\"/\"Now\") as a matter of course, so the absence distinguishes the single word Ἐπειδή from Ἐπεὶ δέ."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.4.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Subjunctive παρέξῃ and future παρέξει both stand in the relative clause after ἄξιός ἐστιν ᾧ; ASV \"worthy that thou shouldest do this for him\" renders either identically, and no note bears on the unit."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.6.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r01",
+        "r02"
+      ],
+      "evidence": "ASV 7:6 has \"sent friends to him, saying unto him\": the \"to him\" is a separate rendering from λέγων αὐτῷ (\"saying unto him\") and answers to πρὸς αὐτόν, which the base lacks, so the base is excluded; the remaining difference between r01 and r02 is word order only, which the English cannot show."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.6.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἱκανός εἰμι and εἰμι ἱκανός differ only in order; ASV \"I am not worthy\" is the same English for both."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.7.v005",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 7:7 reads \"but say the word, and my servant shall be healed\" — a future indicative in a result clause, answering ἰαθήσεται. The imperative ἰαθήτω, coordinated with εἰπέ, would give \"let my servant be healed\"; the ASV's \"shall be healed\" matches its rendering of the future at the parallel Mt. 8:8."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.9.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "οὐδέ and οὔτε are both carried by ASV \"no, not in Israel\"; the English negative gives no purchase on which particle stood."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.10.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variants differ only in the position of εἰς τὸν οἶκον relative to οἱ πεμφθέντες; ASV \"they that were sent, returning to the house\" contains both elements and settles neither order."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.10.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 7:10 reads \"found the servant whole\" with nothing answering to ἀσθενοῦντα; the added participle would require \"the sick servant\" (so KJV), and the ASV has no such word and no note offering one."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.11.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Aorist ἐπορεύθη and imperfect ἐπορεύετο are both rendered \"he went\" in ASV 7:11. The verse's textual note concerns \"on the next day\" (τῇ ἑξῆς), not the verb, so it is not mapped to this unit's candidates."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.11.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 7:11 reads \"and his disciples went with him, and a great multitude\" with no qualifier on the disciples; the added ἱκανοί would give \"many of his disciples\", which the ASV does not have."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.12.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "μονογενὴς υἱός and υἱὸς μονογενής differ only in order; ASV \"the only son of his mother\" renders both alike."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.12.v012",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "English requires a copula in \"she was a widow\" whether or not ἦν stood in the Greek, so the ASV cannot show the presence or absence of the verb."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.12.v013",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "As with the first ἦν in the verse, \"much people of the city was with her\" needs an English copula either way; the omission is invisible in translation."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.16.v014",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV \"A great prophet is arisen among us\" looks perfect, but the same verse renders the aorist ἐπεσκέψατο as \"God hath visited his people\", so the ASV's English perfect does not distinguish aorist ἠγέρθη from perfect ἐγήγερται."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.17.v015",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV \"in the whole of Judaea, and all the region round about\" governs both nouns with one preposition; English idiom does not repeat \"in\", so a second ἐν would leave no trace."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.19.v016",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 7:19 reads \"sent them to the Lord\", rendering κύριον; the alternative names Ἰησοῦν, which the ASV would render \"Jesus\" as it does elsewhere in the chapter."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.19.v017",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἄλλον and ἕτερον are both \"another\" in ASV 7:19, and the verse carries no note marking a distinction."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.20.v018",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV \"John the Baptist hath sent us unto thee\" uses the English perfect, which the ASV also uses for aorists in this chapter (7:16 \"hath visited\"); aorist ἀπέστειλεν and perfect ἀπέσταλκεν are therefore both permitted."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.21.v019",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 7:21 begins \"In that hour\" with no connective; the alternative reads αὐτῇ δέ, and the ASV renders such a δέ (\"And in that same hour\", KJV). The unrendered δέ distinguishes ἐκείνῃ."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.21.v020",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant adds only the article τό before the infinitive βλέπειν; ASV \"he bestowed sight\" cannot show a Greek article."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.22.v021",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 7:22 reads \"And he answered and said unto them\" with a pronoun subject; the added ὁ Ἰησοῦς would be rendered \"Jesus answered\", as the ASV names him explicitly at 7:6 and 7:9."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.22.v022",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 7:22 runs \"the things which ye have seen and heard; the blind receive their sight\" with nothing answering to ὅτι. Here ὅτι introduces the content of the report, not direct speech, and the ASV renders such a ὅτι (\"how that\", KJV); its absence distinguishes the shorter reading."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.22.v023",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "In ASV 7:22 the list is asyndetic throughout — \"the blind receive their sight, the lame walk, the lepers are cleansed\" — except before \"and the deaf hear\". That single conjunction answers to καί before κωφοί."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.24.v024",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "πρὸς τοὺς ὄχλους and the dative τοῖς ὄχλοις after ἤρξατο λέγειν are both \"unto the multitudes\" in ASV 7:24."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.24.v025",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV \"What went ye out into the wilderness to behold?\" renders aorist ἐξήλθατε and perfect ἐξεληλύθατε alike; the ASV does not hold the English past and perfect apart for this verb (cf. 7:16, 7:20)."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.25.v026",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "As at 7:24, ASV \"But what went ye out to see?\" leaves aorist and perfect indistinguishable."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.26.v027",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "As at 7:24 and 7:25, ASV \"But what went ye out to see?\" does not distinguish ἐξήλθατε from ἐξεληλύθατε."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.27.v028",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV \"Behold, I send my messenger\" requires an English subject pronoun for ἀποστέλλω whether or not emphatic ἐγώ stood; the pronoun is not italicized as a supply either way, so it cannot decide the unit."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.28.v029",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 7:28 begins \"I say unto you\" with no \"for\"; the ASV renders γάρ, so its absence distinguishes λέγω without γάρ."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.28.v030",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 7:28 reads \"there is none greater than John\" — neither \"prophet\" (προφήτης) nor \"the Baptist\" (τοῦ βαπτιστοῦ) appears, though the ASV renders both words elsewhere in the chapter (7:26, 7:20)."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.32.v031",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 7:32 reads \"and call one to another; who say, We piped unto you\" — a relative clause answering ἃ λέγει. The participle λέγοντες would give \"saying\" and καὶ λέγουσιν \"and say\"; only the relative accounts for \"who say\"."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.32.v032",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 7:32 balances \"We piped unto you\" against a bare \"we wailed\"; the added ὑμῖν would give \"we wailed unto you\", and the ASV, having rendered the first dative, does not render a second."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.33.v033",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 7:33 reads \"eating no bread nor drinking wine\", attaching the negative to the first participle and correlating with μήτε; the correlative pair μήτε … μήτε gives \"neither eating bread nor drinking wine\" (so KJV), which the ASV deliberately does not have."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.33.v034",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variants differ only in whether object precedes participle (ἄρτον ἐσθίων / ἐσθίων ἄρτον); ASV \"eating no bread nor drinking wine\" fixes the English order regardless."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.35.v035",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "πάντων stands before or after τῶν τέκνων αὐτῆς; ASV \"of all her children\" is the same English for either order."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.36.v036",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "οἶκος and οἰκία are both \"house\" in ASV 7:36; the ASV keeps no lexical distinction between them."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.36.v037",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "κατεκλίθη and ἀνεκλίθη are both \"sat down to meat\" in ASV 7:36; the verse's note is an alternative_rendering (\"reclined at table\") about English wording and cannot decide a reading."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.37.v038",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variants differ only in whether ἥτις ἦν precedes or follows ἐν τῇ πόλει; ASV \"a woman who was in the city, a sinner\" contains both and settles neither order."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.37.v039",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 7:37 reads \"a sinner; and when she knew that he was sitting at meat\" — the \"and\" before the participial clause renders καί, which the alternative omits."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.37.v040",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "κατάκειται and ἀνάκειται are both \"was sitting at meat\" in ASV 7:37; the note offering \"reclining at table\" is an alternative_rendering and does not bear on the Greek."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.38.v041",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "The candidates differ only in the position of ὀπίσω relative to παρὰ τοὺς πόδας αὐτοῦ; ASV \"standing behind at his feet\" has both elements and cannot fix the Greek order."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.38.v042",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "The candidates differ only in where τοῖς δάκρυσιν stands; ASV \"she began to wet his feet with her tears\" follows English order and does not settle it."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.39.v043",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 7:39 reads \"if he were a prophet\" without the article, and the verse's textual_variant note puts \"the prophet\" in the margin as what \"some ancient authorities read\" — placing the articular reading outside the ASV text."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.40.v044",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "The candidates differ only in where φησίν stands; ASV \"And he saith, Teacher, say on\" must front an English subject and verb to open the sentence, so its position does not report the Greek order."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.42.v045",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 7:42 begins \"When they had not wherewith to pay\" with no connective; the ASV renders δέ, so the unrendered particle distinguishes ἐχόντων without δέ."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.42.v046",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 7:42 reads \"Which of them therefore will love him most?\" with no imperative of address; the added εἰπέ would give an interposed \"tell me\" (so KJV), which the ASV does not have."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.42.v047",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἀγαπήσει αὐτόν and αὐτὸν ἀγαπήσει differ only in order; ASV \"will love him most\" renders both alike."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.43.v048",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 7:43 opens \"Simon answered and said\" with no connective, which excludes the reading with δέ; the remaining difference is the article ὁ before the name, which English cannot show."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.44.v049",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 7:44 reads \"thou gavest me no water for my feet\"; the \"me\" is not italicized and answers to μοι, which the alternative omits."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.44.v050",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV \"water for my feet\" supplies the possessive that English idiom requires with parts of the body, so \"my\" does not report a Greek μου; the article is likewise invisible."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.44.v051",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 7:44 reads \"wiped them with her hair\", where 7:38 in the same passage reads \"the hair of her head\"; the ASV renders τῆς κεφαλῆς when it stands, and here it does not."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.7.46.v052",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "τοὺς πόδας μου and μου τοὺς πόδας differ only in the position of the pronoun; ASV \"hath anointed my feet\" is the same for either."
+    }
+  ]
+}

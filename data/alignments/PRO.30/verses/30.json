@@ -1,0 +1,141 @@
+{
+  "alignments": [
+    {
+      "note": "Supplied determiner joins the noun under rule 15.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Supplied relative over a verbless clause with a written antecedent and no relative morpheme; added under rule 55, exactly as at PRO.30.12 and PRO.30.24. Rule 41's articleless attributive does not reach it: גִּבּוֹר predicates of לַיִשׁ rather than modifying it inside one nominal expression, as the parallel `הַנְּמָלִים עַם לֹא־עָז` of PRO.30.25 shows, and the relative's scope runs on over the coordinated finite clause.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Predicate adjective with the construction-supplied copula under rule 20; head on the word carrying the lexeme.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Preposition to *among*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The ASV writes no *the* before *beasts*, so the assimilated article is unrepresented under rule 29.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun to *beasts*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Waw to *And*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Negative to *not*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Verb with its particle *away*, which completes the שׁוב lexeme; discontinuous around the negative under rule 25.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t011"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "מִפְּנֵי rendered by the single *for*; the preposition and its construct noun share one unit headed on the construct noun under rule 30.",
+      "source": [
+        "s009",
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "כֹּל to *any*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "PRO.30.30",
+  "review_notes": [
+    "מִפְּנֵי is fused under rule 30 because the ASV writes one preposition for the pair; splitting it would leave one of the two morphemes unrepresented.",
+    "Reconciliation patch: *which* is now added under rule 55 and *is mightiest* belongs to the adjective with the copula of rule 20, matching PRO.30.12 and PRO.30.24. Rule 41's articleless attributive was the competing reading and is set aside because the Hebrew writes a predication — the same shape is rendered as a main clause at 30.25 and 30.26, and the English relative governs the coordinated finite clause as well."
+  ]
+}

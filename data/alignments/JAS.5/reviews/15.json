@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "af0ac1b2bcb0bc2234d4c22e8903636e179865249c6abf073c40f22724fafb50",
+  "contract_version": "nt-greek-verse-v120",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: all 19 source ids and all 29 target ids are covered exactly once; every head is a member of its array and the sole unrepresented unit (s004) has an empty target and a null target head.",
+    "s004/s005 keeps the case preposition with the noun (*of faith*) and leaves the article empty under rule 21's determinerless clause read with rule 23, the ASV giving *faith* no determiner for the article to anchor. This is the required grouping rather than the convenience merge rule 13 forbids.",
+    "s007/s008 audited against rules 31, 32 and 90: the article governs no expressed head noun, so it is substantival and rule 31 is out; the ASV writes two English words across the pair (*him* and *that*), so rule 90's one-word case is out and rule 32's ordinary split stands, headed on the lexical predicate *sick*.",
+    "s014 κἂν stays one `aligned` unit on *and if*. Rule 39 does not carry, being scoped to a cluster fused with the negative μή, and here each English word answers to one fused element — which is rule 39's own test for staying `aligned`. Rule 55 has no pronominal to select, so rule 17 puts the head on the non-καί element, *if*.",
+    "s016/s017 is the one materially contested unit and its note names the alternative: joining ᾖ πεποιηκώς into a single unit headed on *committed* under rule 9. It is kept split under rule 2, the finite copula carrying the person, number and the perfect auxiliary and the lexical participle keeping *committed*; a later reader revisiting JAS.5 periphrastics should start there.",
+    "s010's *up* stays inside the verb's unit as the English verb's own particle, discontinuous across the object pronoun under rule 15, no Greek preposition being expressed for rule 36 to reach. No rule 37, 97 or 103 case arises anywhere in the verse and nothing is `added`."
+  ],
+  "ref": "JAS.5.15",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

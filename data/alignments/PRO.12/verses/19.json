@@ -1,0 +1,145 @@
+{
+  "alignments": [
+    {
+      "note": "Construct noun with a supplied *the*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Rectum with the chain's *of*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Niphal verb with auxiliary and copula.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Preposition rendered *for*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Noun rendered *ever*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Waw rendered *But*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Prepositional predicate takes the construction-supplied copula under rule 49, headed on the preposition; discontinuous around the supplied *but* under rule 25.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "The restrictive *but* meaning *only* answers to no morpheme: the waw has already taken the adversative *But* of t010, and no other morpheme in the colon carries a limiting sense (rule 30).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "The verb is rendered nominally as *a moment*, its indefinite article joining the nominal expression under rule 15.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Construct noun with the phrase's supplied determiner, the rectum being rendered attributively (rule 29).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Rectum rendered attributively as *lying* (rule 28).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    }
+  ],
+  "ref": "PRO.12.19",
+  "review_notes": [
+    "The second *but* is a restrictive adverb, not a second connective; folding it into `עַד` would give that morpheme two English words where one states its relation."
+  ]
+}

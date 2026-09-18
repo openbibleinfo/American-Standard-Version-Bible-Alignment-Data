@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "e7de99869ce2db06b24129f8838d0cba0aca21c6979bcab31ade0d755921bff2",
+  "contract_version": "ot-hebrew-verse-v216",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "`נָטַשׁ אֵת־דִּבְרֵי הָאֲתֹנוֹת` is recast as *hath left off caring for the asses*: the verb takes the whole verb phrase, the object marker takes the *for* its English verb needs (rule 16, which takes precedence over rule 44's supplied-preposition clause because a marker is present), and `דִּבְרֵי` is left unrendered.",
+    "`מֵעִמָּדִי` and `הַיּוֹם` each fuse under rule 30; the fusions were checked against rule 2 and no morpheme owns a part of either rendering.",
+    "Scoped deferred investigation PARITY-130 independently resolved; evidence: data/audits/retrospective-deferred-2026-09-14/receipts/1SA.10.2.json. Original full-review coverage is carried forward only for exact unchanged units and metadata. Two fresh sessions independently agreed on the changed source/target ownership, heads and statuses. Unit notes come from the recorded assessment; their independent agreement is recorded separately. No new full-verse review or new historical review is claimed; original identity, dates and contract provenance are preserved."
+  ],
+  "ref": "1SA.10.2",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

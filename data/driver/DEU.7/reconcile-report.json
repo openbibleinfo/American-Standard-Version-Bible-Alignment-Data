@@ -1,0 +1,27 @@
+{
+  "chapter": "DEU.7",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Where an anarthrous prepositional phrase stands attributively to a noun and the ASV recasts it as a relative clause - KESEPH WE-ZAHAV ALEHEM to 'the silver or the gold *that is on* them' (DEU.7.25) - the supplied relative and the construction-supplied copula both join the preposition's unit, headed on the preposition. The relative realizes the Hebrew attributive relation exactly as it does for the articleless adjective or participle of rule 41's closing paragraph, and rule 49 places the copula; the word is not an added subordinator under rule 55. The competing reading, marking the 'that' added, is named in that verse's review notes."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v127",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 63 candidate lemma groups. Every bucket showing two treatments is licensed by what the ASV writes or by a morpheme present in one context and absent in the other; none is one construction analysed two ways.",
+    "PANEH compounds occur eight times and take both shapes: fused where the ASV writes one preposition (7.1, 7.2, 7.19 'of', 7.21 'at', 7.22, 7.23, 7.24 'before'), split where it writes a word for each morpheme (7.20 'from before', and MIN+TACHAT to 'from under' in 7.24). That is rule 30's subtraction test applied uniformly, not a split.",
+    "Because the candidate table is blind to added units, I counted every ASV connective (and/or/nor/but/then/so/that) against the conjunctions written in each verse. Exactly one is in surplus - the 'and' of 'by little and little' (7.22), where the Hebrew juxtaposes MEAT MEAT - and it is correctly added. The other two added units, the apodosis 'then' of 7.2 (asyndetic clause) and the object 'it' of 7.25 (no object morpheme), have no counterpart elsewhere in the chapter that was folded into a neighbouring word instead.",
+    "Modality is consistent: where YAKOL stands it takes the modal (7.17 'can I', 7.22 'thou mayest', split from LO because the ASV writes the negation as a separate word); where none stands, the supplied periphrasis stays with the finite verb (7.24 'there shall ... be able to stand').",
+    "Negation recast onto a nominal is consistent too: LO alone takes 'no' in 7.2 and 7.24, where no KOL stands, while the single 'none' of 7.15 is read as the rule 35 fusion of KOL with the clause's LO. Articles follow rules 29/41/47 uniformly (a written demonstrative silences both articles; an agreement article is silent under one written 'the'), and both unrendered resumptive suffixes (7.15 s018, 7.19 s045) are unrepresented under rule 22.",
+    "BSB: all 40 disagreements fall in the documented convention classes - paragogic nun (rule 32), prepositions the ASV's recasting leaves unstated (rule 40), articles with no written 'the' (rule 29), object markers (rule 16) - plus the two resumptive suffixes above. None is a genuine error, and no accepted edge was changed.",
+    "The validator's '72 repeated notes' are rule restatements ('Article.', 'Conjunction.', 'Object marker (rule 16).'), not chapter judgments that went unrecorded. The one real judgment - the supplied relative of 'that is on them' in 7.25 - is now in the conventions log.",
+    "Two readings a later chapter should watch, both defensible here and both flagged in their verses' review notes: WAW+GAM fused as 'Moreover' in 7.20 (rule 30's one-word condition; the corpus aligns a bare waw to 'moreover' in 71 units, but the briefing shows no GAM precedent), and the placement of 'for' on the dative LO in 7.6 with the following resultative LE unrepresented."
+  ]
+}

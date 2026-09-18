@@ -1,0 +1,119 @@
+{
+  "alignments": [
+    {
+      "note": "Apodosis waw → *then* (rule 14).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Verb with subject pronoun, auxiliary and phrasal particle; head stays on the lexical verb (rules 17, 44).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Object marker with no English of its own (rule 16).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "כַּף → *hand*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Suffix → *her*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The ASV recasts the clause's negation onto the nominal, so the negative takes the determiner that negation has become (rule 15).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "חוּס rendered by a light verb plus complement, *shall have ... pity*; head on the complement (rule 44), discontinuous around the negative determiner (rule 25).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "עַיִן → *eye*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Suffix → *thine*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    }
+  ],
+  "ref": "DEU.25.12",
+  "review_notes": [
+    "The *have* of *shall have no pity* is the verb חוּס's own light-verb rendering, not rule 43's possessive recasting; nothing in the clause is possessive."
+  ]
+}

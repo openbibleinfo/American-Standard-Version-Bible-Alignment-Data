@@ -1,0 +1,180 @@
+{
+  "alignments": [
+    {
+      "note": "Vocative noun -> brethren. The Greek vocative is anarthrous, so no article competes and the ASV supplies no address word (rule 89's anarthrous clause); the possessive is s002's, not a supplied helper here.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Genitive pronoun realized by the possessive My. No article stands over the vocative, so rules 20 and 76 are not in question: the possessive is the pronoun's own.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Ordinary conditional ean -> if. Rule 72 is untouched: the particle does not stand after a relative or an indefinite pronoun generalizing it, so its closing clause applies and it is aligned to *if* like any other conditional.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Indefinite tis -> any. No negator stands in the clause, so rules 59 and 69 are not in question.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Preposition en -> among.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Dative pronoun -> you.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Aorist passive subjunctive rendered by the simple verb err; the ASV writes no auxiliary and no supplied subject, the subject being s004. Rule 36 keeps *from* off this verb even though *err from* reads as a phrasal unit in English.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Preposition apo -> from. Rule 36: the English preposition governing the phrase realizes the Greek preposition, not the verb it depends on.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Article -> the under rule 19. It takes a bare *the* and not *from the*: rule 21's case preposition rides with the article only where no Greek preposition is expressed, and apo is expressed here and takes *from* itself under rule 36.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Noun -> truth, standing bare beside its own article as rule 21 has it.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Expressed conjunction -> and. This is coordination the Greek writes, so rules 88 and 98 are not in question.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Subjunctive verb -> convert; the ASV writes no auxiliary. Rule 15 permits the reordering, the English subject *one* standing before the verb.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Second indefinite tis -> one, the subject of convert. Kept its own unit under rule 2 rather than merged with s012 or with the first tis at s004.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Accusative pronoun -> him, the object of convert.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "JAS.5.19",
+  "review_notes": [
+    "Reviewed unchanged: the accepted alignment is correct as it stands. All 14 source and 14 target ids are partitioned exactly once; every unit is aligned, with no unrepresented or added units in this verse, and every head is the sole token of a one-token unit under rule 10.",
+    "The verse is compositionally transparent and fully atomized: no source pair licenses a merge under rules 35, 39, 45 or 94, since the ASV writes a separate English word for every source token and no two tokens collapse into one.",
+    "s009 takes a bare *the* rather than *from the*. Rule 21 hands a case preposition to the article only where the Greek expresses no preposition; here apo is expressed and rule 36 keeps *from* on it, so the article anchors only the determiner and the noun stands bare.",
+    "s004 and s013 are the same lemma rendered two ways (*any*, *one*). Each is aligned to its own English word rather than merged into a shared unit; they are separate clause participants (the one who errs, and the one who converts him), so rule 24's same-analysis habit is satisfied by treating both as plain indefinites and not by giving them one unit.",
+    "Rule 36 is the only place this verse could plausibly have gone wrong: *err from* invites reading *from* as the verb's particle. The rule forbids it in terms, so *from* stays with apo and s007 keeps a bare *err*."
+  ]
+}

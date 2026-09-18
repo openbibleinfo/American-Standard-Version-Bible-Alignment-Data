@@ -1,0 +1,5 @@
+# Malachi 2 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Supplied English object pronoun for an elided Hebrew object: where the ASV writes an object pronoun that no source morpheme realizes, it joins the unit of the verb whose object it supplies, and the head stays on the lexical verb; it is not 'added'. MAL.2.2 'ye will lay it' and 'do lay it' (שׂים, no suffix) set the pattern; MAL.2.13 'receiveth it' (לקח) and MAL.2.17 'have we wearied him' (יגע hiphil) were brought into line, each having been an 'added' unit. Rule 30 reserves 'added' for English that no morpheme licenses at all, and a transitive verb licenses the object English requires and Hebrew elides. OT precedent runs the same way on both lemmas: 1KI.18.23 שׂים -> 'lay it', 1KI.17.11 קחת -> 'fetch it', 1KI.22.6/12/15 נתן -> 'will deliver it'. The corpus is not unanimous — 'added it' occurs 11 times elsewhere — so this is recorded as a chapter convention and not promoted to the contract.

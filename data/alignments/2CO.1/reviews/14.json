@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "d0e851a35856320b742b096def070193cdec518b32dfe4348b79f3f2838614e3",
+  "contract_version": "nt-greek-verse-v58",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed the accepted alignment; returned unchanged except for one confidence correction at s012. All 21 source and 26 target IDs remain partitioned exactly once.",
+    "s012 raised from medium to high. It is the same construction as s002 — comparative adverb followed by an intensifying καί that the ASV renders *also* — and s002 was recorded high, so the two should not differ. Rule 82's correlative reading requires an English *so*, which the ASV writes in neither clause, and the old note's alternative (*even also* as one split frame) is not available, *even* standing beside *as* as καθάπερ's own gloss.",
+    "s018 τοῦ is the only unrepresented unit and is correct: rule 20 displacement by a free ἡμῶν → *our*, matching the contract's τοῦ θελήματος αὐτοῦ → *of his will*, with *of* left on κυρίου. Rule 76's availability test is satisfied, ἡμῶν being spent on nothing else.",
+    "The verse's live question is the verbless comparative καθάπερ καὶ ὑμεῖς ἡμῶν → *even as ye also are ours*. I confirmed the supplied *are* on the predicate ἡμῶν: rule 56's spelled-out arm, καθὼς ἡμεῖς ἕν → *even as we are one*, is structurally identical, and rule 53's noun-phrase exception rests on an article-plus-noun predicate spelling itself out, which a single *ours* does not. s013 and s014 stay medium together, since the competing reading moves *are* between them.",
+    "ἀπὸ μέρους → *in part* correctly stays two units: rule 94 permits a compound prepositional unit only where the ASV writes a single English word, and rule 34's pleonastic case does not apply, *in* being a genuine English preposition answering to ἀπό under rule 36. Likewise ἐν τῇ ἡμέρᾳ splits into *in* and *the*, the Greek preposition being expressed."
+  ],
+  "ref": "2CO.1.14",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

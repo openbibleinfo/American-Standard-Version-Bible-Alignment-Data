@@ -1,0 +1,23 @@
+{
+  "artifact_hashes": {
+    "review_receipts_sha256": "987f372424ede471edcb451c82a9df4a34271e229d2f7d596cca04717e9cee5b",
+    "source_lock_entries_sha256": "7cedc38af232d421808ad90e5d1d520a4eaa6f4f19fc3ed3f311908647a308aa",
+    "variant_decisions_sha256": "f67051dc510b4d88a2ffb95c98d5b0c1d0ae358a009ed9ea3d72b5b3457aa508",
+    "verse_divisions_sha256": "absent",
+    "verse_responses_sha256": "a8c545bf0f6388822604438d34937c26b42f3cace149e99e9470956fabcd790a"
+  },
+  "chapter": "JOB.28",
+  "contract": {
+    "sha256": "4edb05c541b1f0ad4caa777316a79cc85fc004c4533307e4b28789dd77cb3919",
+    "version": "ot-hebrew-verse-v178"
+  },
+  "created_at": "2026-09-07T13:32:54.965990+00:00",
+  "models": {
+    "alignment": "gpt-6-astra (codex-astra, packed=all)",
+    "reconciliation": "gpt-6-astra (codex-astra)",
+    "review_context": "gpt-6-astra (codex-astra, packed=all)"
+  },
+  "omissions": [],
+  "repository_revision": "fe9ca0b1308e723e72309a23889e736652e1b59f",
+  "testament": "OT"
+}

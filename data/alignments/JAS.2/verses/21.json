@@ -1,0 +1,205 @@
+{
+  "alignments": [
+    {
+      "note": "Name aligned on its own token (rule 26).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The genitive pronoun ἡμῶν is free and takes the supplied possessive 'our', so the article realizes nothing (rule 20).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Head noun stands bare, its determiner slot occupied by the possessive (rule 20).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Genitive pronoun realized by the possessive 'our'.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Ordinary negative aligned to 'not'; the question is marked by inversion, and no interrogative particle stands here for rule 44 or 64 to apply to.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Preposition realized by 'by' (rule 36).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Governed noun stands alone (rule 21).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Aorist passive with its auxiliary; the discontinuous 'Was … justified' is one unit under rule 15, headed on the lexical verb rather than the auxiliary (rules 9 and 17).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The participle is expanded into a finite clause; the supplied subordinator 'in that', the supplied subject 'he' and the phrasal particle 'up' are rule 7 helpers on the participle, which is the token carrying the subordination (rule 86). Head on the lexical verb word rather than the particle (rule 17); the corpus glosses ἀναφέρω with the verb word 'offer'/'offered'.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Name aligned on its own token (rule 26).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "αὐτοῦ takes the possessive 'his', displacing the article's determiner (rule 20).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Head noun stands bare beside the displaced article (rule 20).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Genitive pronoun realized by 'his'.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Preposition realized by 'upon' (rule 36).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Article surfaces as 'the'; the preposition is expressed, so nothing else rides here (rules 19 and 21).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Governed noun stands alone.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "JAS.2.21",
+  "review_notes": [
+    "Alignment kept as accepted; the only change is to the s009 note, which cited rule 88 alongside rule 86. Rule 88 governs a supplied coordinating 'and' at a participle-to-finite seam, and no such juncture stands here, so the citation was dropped and the head reasoning made explicit.",
+    "Partition verified: s001–s016 and t001–t019 each appear exactly once, and both unrepresented units carry a valid source head with an empty target and null target head.",
+    "Both articles are unrepresented under rule 20 rather than aligned: ἡμῶν and αὐτοῦ are free genitive pronouns carrying nothing else, so rule 76's availability test does not reach them and neither article has a determiner left to take.",
+    "The competing reading for s009 would split 'in that' off as `added` under rule 86; rejected because a participle is exactly the token rule 86 names as licensing a supplied subordinator, so the whole frame stays with ἀνενέγκας.",
+    "'Was' is kept with ἐδικαιώθη rather than read as an interrogative supplied word: the passive requires the auxiliary, and rule 63 refuses to read a verb off inverted English word order. No interrogative particle stands in the source, so rules 44 and 64 are not in question and οὐκ is an ordinary negative on 'not'."
+  ]
+}

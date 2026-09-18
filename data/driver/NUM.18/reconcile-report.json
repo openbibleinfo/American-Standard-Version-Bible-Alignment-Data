@@ -1,0 +1,33 @@
+{
+  "chapter": "NUM.18",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Appositional 'even': read which morpheme stands on the phrase the word introduces. The le of specification takes it in 18.8 (le-khol qodshey), 18.9 (le-khol minchatam) and 18.11 (le-khol tenufot); the object marker takes it in 18.21 and 18.29, where the marker itself stands on the appositive. Neither is 'added', and the two are not interchangeable: a marker standing elsewhere in the clause does not carry an 'even' written before a phrase a le introduces, and vice versa.",
+    "le plus a pronominal suffix rendered by a bare English possessive with no preposition written is one fused unit headed on the suffix, under rule 49's closing paragraph with rule 30: zeh yihyeh lekha -> 'thine' (18.9, 18.13, 18.14, 18.15, 18.18 twice), ve-zeh lekha -> 'is thine' (18.11, the construction's copula joining that one unit because the prepositional phrase is the predicate), lakhem -> 'your' (18.31, where sakhar is the written predicate and keeps the copula). Do not reach for rule 40 here: that rule governs a dative whose own pronoun the ASV writes separately. Where the ASV does write a preposition the pair splits (18.10 'unto thee'), and where hayah recasts the clause with 'have' the preposition is unrepresented and the suffix takes the subject pronoun (18.20).",
+    "Superlative qodesh haqqodashim: the construct takes 'most holy', the article takes the written 'the', and the plural rectum takes 'things' (18.9, 18.10). Where the ASV writes only 'most holy', the rectum is unrepresented under rule 22 rather than taking 'most' (18.9, qodesh qodashim hu lekha). The competing division, 'most' to the rectum and 'holy' to the construct, is defensible and is named in the verse notes; it is also where BSB disagrees, and that disagreement is convention and not error.",
+    "The waw of a negative purpose or result clause takes the ASV's bare 'that': ve-lo yamutu -> 'that they die not' (18.3), ve-lo yihyeh od qetsef -> 'that there be wrath no more' (18.5), ve-lo tamutu -> 'that ye die not' (18.32), and ve-yilavu -> 'that they may be joined' (18.2). It is neither 'added' under rule 55 nor fused with the following lo as 'neither' under rule 35, because a conjunction stands in the clause and the negative has its own written word.",
+    "be-tokh fuses as the single word 'among' (18.20 twice, 18.23, 18.24), while mi-tokh splits into 'from' plus 'among' (18.6): rule 30's subtraction test is what separates them, since dropping 'among' in 18.6 leaves tavekh with no rendering of its own while dropping it in the fused cases leaves only the expression as a whole diminished."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v115",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 66 candidate lemma groups and the verse dump end to end. No construction is analysed two ways without something in the source licensing the difference, so there are no patches.",
+    "Superlative qodesh haqqodashim (18.9 twice, 18.10) has one analysis throughout: the construct takes 'most holy', the article takes the written 'the', the plural rectum takes 'things'; where the ASV writes only 'most holy' (18.9, second occurrence) the rectum is unrepresented under rule 22. The competing division, 'most' to the rectum, is named in both verse notes.",
+    "nachal is not a split. 18.20 writes no cognate noun, so the verb takes 'shalt have inheritance' headed on the complement under rule 44; 18.23 and 18.24 write nachalah, so the verb keeps only 'shall have' and the noun its own word under rule 43. The head difference follows from what the Hebrew writes.",
+    "mimmennu fuses as 'thereof' in 18.28 (one English word, rule 22's therein rider with rule 30) and splits wherever the ASV writes two words: 'of it' 18.26, 'out of it' 18.29, 'from it' 18.30 and 18.32.",
+    "le plus pronominal suffix runs three ways and each is the contract's: fused as 'thine'/'your' where no English preposition is written (18.9, 18.11, 18.13, 18.14, 18.15, 18.18 twice, 18.31); split where the ASV writes one (18.10 'unto thee'); preposition unrepresented with the suffix taking the subject pronoun where hayah carries the 'have' (18.20). The copula joins the fused unit where the prepositional phrase is the predicate (18.11) and stays with a written nominal predicate otherwise (18.31).",
+    "Article counts under rule 29 were checked phrase by phrase. Arthrous rectum: the article takes the 'the' before its own word and the construct a supplied one (18.1, 18.3, 18.4, 18.5, 18.16). Anarthrous rectum: the single written 'the' is fronted onto the article (18.15 bekhor ha'adam and bekhor habbehemah, 18.18 both attributive chains). 18.15 already carries its own correction to this effect and agrees with the rest of the chapter.",
+    "The candidate table is blind to added units, so the chapter's three (18.7 'that', 18.9 'reserved', 18.22 'and') were read against every verse that could have folded the same word into a neighbouring morpheme. Nothing elsewhere folds in a supplied coordinator, subordinator or lexical participle, so the table's clean look is not hiding one.",
+    "Appositional 'even' is carried by the le of specification in 18.8, 18.9 and 18.11 and by the object marker in 18.21 and 18.29. Both are rule-licensed and neither is interchangeable with the other: in each case the morpheme that stands on the appositive is the one that takes the word. Recorded as a convention.",
+    "BSB: 24 disagreements, all documented convention differences (object markers, datives and other recast prepositions, assimilated articles for which the ASV writes no 'the', the resumptive hu of 18.9 and 18.23). The only substantive one is 18.9 qodashim, which falls out of the superlative reading above and is hedged in the verse note. None is a genuine error, and no accepted edge was changed for the aggregate.",
+    "No promotion. The one candidate, widening rule 49's closing paragraph from the divine name to a pronominal suffix, is already inside that rule's general wording, and the supplied corpus tables show no le-to-'thine' row to count, so a rule written from this chapter alone would rest on nothing verifiable."
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "schema_version": 1,
+  "chapter": "MAT.19",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.MAT.19.3.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'there came unto him Pharisees' without the article, and the mapped textual note 'Many authorities, some ancient, insert the' places the article among the rejected readings; the base omits οἱ."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.3.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'and saying, Is it lawful' carries no second dative pronoun, but 'came unto him' already renders προσῆλθον αὐτῷ and English would suppress an immediately repeated 'unto him'; the chapter's only mapped note concerns the article, so neither reading is excluded."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.3.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Is it lawful for a man to put away his wife' renders ἀνθρώπῳ explicitly with 'for a man'; the WH omission leaves the phrase without that subject."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.4.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'And he answered and said, Have ye not read' has no indirect object; the ASV renders εἶπεν αὐτοῖς as 'said unto them' where it stands, so the added αὐτοῖς is not in the text translated."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.4.v005",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text reads 'he who made them from the beginning' with the mapped note 'Some ancient authorities read created' — 'made' is ποιήσας in the text and κτίσας ('created') is relegated to the note."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.5.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Ἕνεκα and Ἕνεκεν are orthographic variants of the same preposition; both yield ASV 'For this cause' and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.5.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Simplex and compound alike mean 'be joined to'; ASV 'shall cleave to his wife' renders either, and the only note is a cross-reference to Gen. 2:24."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.7.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'and to put her away' renders the object pronoun αὐτήν; the WH/Treg omission leaves ἀπολῦσαι without the expressed object the ASV supplies unitalicized."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.9.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Recitative ὅτι before direct speech is untranslated in ASV 'And I say unto you, Whosoever shall put away'; its presence or absence leaves the English identical."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.9.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV prints 'and he that marrieth her when she is put away committeth adultery' in the text, with the note 'The following words, to the end of the verse, are omitted by some ancient authorities' marking the omission as the rejected reading."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.10.v011",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'The disciples say unto him' lacks the possessive; the ASV renders μαθηταὶ αὐτοῦ as 'his disciples' (cf. 19:23 'his disciples'), so the added αὐτοῦ is absent from the text translated."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.11.v012",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Not all men can receive this saying' renders the demonstrative τοῦτον with 'this'; the WH omission would give simply 'the saying'."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.13.v013",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Plural and singular verbs differ only in Greek concord with the neuter plural παιδία; ASV 'Then were there brought unto him little children' requires an English plural either way."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.15.v014",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is word order only; ASV 'And he laid his hands on them' renders both arrangements identically."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.16.v015",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is word order only; ASV 'one came to him and said' does not reflect the position of αὐτῷ relative to εἶπεν."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.16.v016",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text reads 'Teacher' and the mapped note 'Some ancient authorities read Good Teacher' assigns the added ἀγαθέ to the margin."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.16.v017",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Aorist subjunctive σχῶ and present ἔχω both underlie ASV 'that I may have eternal life'; the English does not distinguish them."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.17.v018",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'Why askest thou me concerning that which is good? One there is who is good' with the note 'Some ancient authorities read Why callest thou me good? None is good save one, even God' excludes the RP reading r02; r00 and r01 differ only in punctuation spacing and cannot be told apart in English."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.17.v019",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is word order only; ASV 'if thou wouldest enter into life' renders either arrangement."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.17.v020",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Aorist τήρησον and present τήρει both give ASV imperative 'keep the commandments'; the English carries no aspectual marker distinguishing them."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.18.v021",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "εἶπεν and ἔφη are both rendered 'said' in ASV 'And Jesus said'; the English does not distinguish the two verbs of speaking."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.20.v022",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is word order only; English idiom fixes 'All these things' whichever order stands in Greek."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.20.v023",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'All these things have I observed: what lack I yet?' has no 'from my youth', so the RP expansion ἐφυλαξάμην ἐκ νεότητός μου is not the text translated."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.21.v024",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "English requires the definite article in 'give to the poor' regardless of whether Greek τοῖς stands before πτωχοῖς."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.21.v025",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'treasure in heaven' uses the English singular for both the Greek plural οὐρανοῖς and the singular οὐρανῷ; number here is not distinguished."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.22.v026",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'when the young man heard the saying' has no demonstrative; the ASV renders λόγον τοῦτον as 'this saying' (cf. 19:11), so the WH addition is absent."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.23.v027",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is word order only; ASV 'It is hard for a rich man to enter' does not reflect the position of δυσκόλως."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.24.v028",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "τρυπήματος and τρήματος are synonyms for the aperture; ASV 'a needle’s eye' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.24.v029",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'for a camel to go through a needle’s eye' renders διελθεῖν; the ASV reserves 'enter' for εἰσελθεῖν, which it uses in the following clause of this same verse."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.24.v030",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r01",
+        "r02"
+      ],
+      "evidence": "ASV 'than for a rich man to enter into the kingdom of God' supplies its own verb 'enter', excluding the verbless r00, and reads 'God' not 'heaven', excluding Treg's r03; r01 and r02 differ only in the position of εἰσελθεῖν."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.25.v031",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'And when the disciples heard it' lacks the possessive that the ASV supplies for μαθηταὶ αὐτοῦ elsewhere in the chapter (19:23 'his disciples')."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.28.v032",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "καθήσεσθε and καθίσεσθε are future forms of the same sense; ASV 'ye also shall sit upon twelve thrones' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.28.v033",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'ye also shall sit upon twelve thrones' renders the second-person ὑμεῖς, continuing 'ye who have followed me'; Treg's third-person αὐτοὶ would give 'they also'."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.29.v034",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ὅστις and ὅς alike underlie ASV 'And every one that hath left'; the English relative does not distinguish them."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.29.v035",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV lists 'houses, or brethren' at the head of the series, so οἰκίας ἢ stands in this position in the text translated; Treg omits it here."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.29.v036",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV's series runs 'father, or mother, or children' with no 'or wife', and the mapped note 'Many ancient authorities add or wife: as in Lk. 18:29' assigns γυναῖκα ἢ to the margin."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.29.v037",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's series ends at 'or lands, for my name’s sake' with no trailing 'or houses'; Treg's added ἢ οἰκίας is not rendered."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.29.v038",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ὀνόματός μου and ἐμοῦ ὀνόματος are alternative expressions of the same possessive; ASV 'for my name’s sake' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.19.29.v039",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text reads 'shall receive a hundredfold' (ἑκατονταπλασίονα) with the mapped note 'Some ancient authorities read manifold' assigning πολλαπλασίονα to the margin."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "chapter": "NUM.35",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The hiphil/hophal death formula is a light verb plus complement under rule 44 and heads on 'death' throughout this chapter: yumat -> 'shall be put to death' (35.16, 17, 18, 21, 31) and yamit -> 'shall put to death' (35.19 twice, 35.21). The corpus heads the same formula on 'put' in a minority of units, so the choice is recorded rather than left to be rediscovered verse by verse.",
+    "The object marker takes an English word only where the ASV spends one on the object relation itself, and the chapter met all three outcomes: the marker takes the supplied 'for' before each measured side phrase (35.5, four units) and the 'beyond' through which the verb reaches its object (35.26); it is unrepresented wherever the ASV writes the marked object bare (35.6, 35.7, 35.14, 35.19, 35.21, 35.25, 35.27, 35.30, 35.33, 35.34); and a topicalizing word the ASV writes before a fronted phrase carrying no marker at all is added, which is the 'concerning' of 35.8.",
+    "Where a preposition fuses with its construct noun into one English word and a lamed follows, that lamed carries no English of its own and is unrepresented under rule 40: min-chuts le -> 'without' (35.5, 35.27) and me-ever la- -> 'beyond' (35.14). Contrast 35.4, where the construct noun qir holds its own word 'wall', so rule 30's one-rendering condition is unmet and min takes its own preposition.",
+    "NUM.35.6 fronts ha-arim with an object marker and the ASV resumes it with a bare 'they' inside the verbless clause. Both realizations were given to arim as one discontinuous unit, on the reasoning rule 18 uses for a twice-realized suffix and rule 25 for a twice-realized pronoun; no resumptive morpheme stands in the Hebrew and rule 16's 'as for' family gives the marker nothing here, so the alternative was to mark the pronoun added under rule 30. This is the chapter's one genuinely open call and it is recorded rather than promoted, since it occurs once and no corpus precedent was available to settle it."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v124",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 50 candidate groups and the whole dump end to end, including the added units the lemma table is blind to. No construction is analysed two ways without the ASV licensing the difference, so no patches.",
+    "The waw before wayyamot is 'and' at 35.17-18 and 'so that' at 35.16, 20, 21, 23; that is the ASV's own wording in each verse, not a split (rules 14, 55). The la- before an infinitive construct (to / that / for / of across 35.2, 6, 15, 30, 31, 32) is read off the ASV the same way under rule 52.",
+    "bi-shgagah and be-feta fuse as one adverb, while bi-tsediyyah at 35.20 leaves its bet unrepresented because 'lying in wait' is the noun's own compound rendering - rule 40's rider, the same reasoning as saviv la-mishkan. The two be-lo pairs at 35.22 and 35.23 divide on rule 30's one-English-word test: 'without' fuses, a separately written 'not' leaves the bet nothing.",
+    "kol takes 'any' at 35.23, where a determiner morpheme stands on the noun, while the bare nefesh takes it at 35.11, 15 and 30; that is rule 15's stated limit applied consistently, not a split.",
+    "All nine added units check out as supplied English with no answering morpheme: the italic verb of 35.7, 'concerning' at 35.8, 'a man' at 35.17/18/23, the object pronouns at 35.21/23, and the surplus 'and' of 35.29.",
+    "BSB: none of the 31 disagreements is an error. They are the documented convention differences - the lamed of lemor (rule 27), prepositions the ASV's recasting silences (rule 40), morphemes written inside wherein/whereby/therein (rule 22), and articles for which no 'the' is written (rule 29). The six three-morpheme fusion units flagged as large were checked and retained under rule 22.",
+    "The shemen ha-qodesh correction already sitting in NUM.35.25 is right and brings that phrase into line with ha-kohen ha-gadol in the same verse: the single written 'the' goes to the article standing before the rectum's own word and the construct keeps only its own noun.",
+    "No promotions. Rule 56's 'at any time' for a cognate infinitive absolute and rule 16's 'concerning' before an unmarked fronted phrase each occur once here and each falls within a fair reading of the rule as written; widening either on one instance, with no corpus row to check it against, would cost every later chapter more than it is worth."
+  ]
+}

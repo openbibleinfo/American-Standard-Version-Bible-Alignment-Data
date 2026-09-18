@@ -1,0 +1,114 @@
+{
+  "ref": "PSA.16.6",
+  "alignments": [
+    {
+      "source": ["s001"],
+      "source_head": "s001",
+      "target": ["t001", "t002"],
+      "target_head": "t002",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Anarthrous noun; no article morpheme is present, so the supplied The belongs to the noun that licenses it rather than being added."
+    },
+    {
+      "source": ["s002"],
+      "source_head": "s002",
+      "target": ["t003", "t004"],
+      "target_head": "t004",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Explicit subject noun is its own unit; the verb takes only its auxiliary and participle, headed on the lexical predicate."
+    },
+    {
+      "source": ["s003"],
+      "source_head": "s003",
+      "target": ["t005"],
+      "target_head": "t005",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s004"],
+      "source_head": "s004",
+      "target": ["t006"],
+      "target_head": "t006",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s005"],
+      "source_head": "s005",
+      "target": ["t007"],
+      "target_head": "t007",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s006"],
+      "source_head": "s006",
+      "target": [],
+      "target_head": null,
+      "status": "unrepresented",
+      "confidence": "high",
+      "note": "Assimilated article supplied by MACULA; the ASV writes no the for in pleasant places."
+    },
+    {
+      "source": ["s007"],
+      "source_head": "s007",
+      "target": ["t008", "t009"],
+      "target_head": "t008",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Substantival adjective rendered by a two-word phrase; places is supplied to complete it, and pleasant carries the lexeme."
+    },
+    {
+      "source": ["s008"],
+      "source_head": "s008",
+      "target": ["t010"],
+      "target_head": "t010",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s009"],
+      "source_head": "s009",
+      "target": ["t013", "t015"],
+      "target_head": "t015",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Hebrew has no indefinite article, so a belongs to the noun that licenses it."
+    },
+    {
+      "source": ["s010"],
+      "source_head": "s010",
+      "target": ["t014"],
+      "target_head": "t014",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The ASV recasts the predicate as the attributive goodly, which carries the verb's lexeme; the supplied have is the possessive preposition's, not this verb's."
+    },
+    {
+      "source": ["s011"],
+      "source_head": "s011",
+      "target": ["t012"],
+      "target_head": "t012",
+      "status": "aligned",
+      "confidence": "medium",
+      "note": "Possessive preposition recast as English have: al-plus-suffix is what makes the clause possessive, so the supplied have realizes it, as the possessive lamed takes had in 1KI.7.28. Attaching have to the verb shaphrah instead remains defensible."
+    },
+    {
+      "source": ["s012"],
+      "source_head": "s012",
+      "target": ["t011"],
+      "target_head": "t011",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The suffix takes the subject pronoun the recasting gives it."
+    }
+  ],
+  "review_notes": []
+}

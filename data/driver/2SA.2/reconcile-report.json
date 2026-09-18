@@ -1,0 +1,30 @@
+{
+  "chapter": "2SA.2",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2SA.2.23"
+  ],
+  "rejected": {},
+  "conventions": [
+    "מֵאַחֲרֵי rendered *from following* (2.19, 2.21, 2.22, 2.26, 2.30) splits: מִן takes *from* and אַחֲרֵי takes the verbal *following*. Where the ASV writes a single word for the pair — *followed* (2.27), *behind* (2.23) — or for הָיוּ אַחֲרֵי (*followed*, 2.10), the morphemes fuse under rule 30 headed on אַחַר, which carries the content.",
+    "Pleonastic יָסַף + עוֹד rendered by one adverbial expression — *again* (2.22), *any more* (2.28) — fuses under rule 30 rather than leaving עוֹד unrepresented beside a rendered verb; the unit heads on the finite verb as source head, and the subject pronoun the ASV writes for that verb (*they*) joins it. Where לֹא is rendered *no* onto a following עוֹד (*no more*, 2.28) each morpheme takes its own word.",
+    "נְעָרִים → *young men* (2.14, 2.21) heads on *young* under rule 31, since the ASV does not write bare *men* for נַעַר; the competing head *men* is named in each note.",
+    "Rule 45 with a casus pendens: in 2.23 (וַיְהִי כָּל־הַבָּא … וַיַּעֲמֹדוּ → *it came to pass that as many as came … stood still*) the apodosis opens with its fronted subject, so the waw on the verb is resumptive rather than apodosis-opening; the frame keeps its *that* and that waw is unrepresented. Where the waw itself opens the apodosis (2.1) it takes the *that*."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 72 candidate groups against the verses. The waw, article, לְ, בְּ, עַל, אֶל and אַחַר buckets differ only where the ASV differs: every unrepresented waw is an apodosis or resumptive waw the ASV leaves bare (2.23 s044, 2.30 s013), every unrepresented article stands beside a demonstrative/pronoun that took the determiner or before a name the ASV writes bare, and מֵאַחֲרֵי splits into *from* + *following* in five verses and fuses only where the ASV writes one word (*followed* 2.27, *behind* 2.23; likewise הָיוּ אַחֲרֵי → *followed* 2.10).",
+    "Pleonastic יָסַף עוֹד is fused under rule 30 in both 2.22 (*again*) and 2.28 (*they any more*), headed on the verb each time; the two are consistent and recorded as a convention.",
+    "One correction, 2.23: כָּל־הַבָּא → *as many as came* left the substantival article unrepresented while its relative sense stood inside the rendering (*as … as*). Rule 30 directs fusion rather than an unrepresented morpheme whose sense the word carries, and the corpus fuses כֹּל + הַ → *whosoever* (1CH.26.28); patched to one unit on s032+s033 headed on כֹּל / *many*.",
+    "Rule 45 in 2.23: the frame keeps its *that* because the apodosis opens with a fronted subject (casus pendens) and the waw on וַיַּעֲמֹדוּ is resumptive rather than apodosis-opening, unlike 2.1 where the waw opens the apodosis and takes the *that*. Not a split; source structure differs.",
+    "BSB disagreements are all documented convention differences: unrendered datives/ethical datives (R, Rd), articles beside a demonstrative or before a bare name (Td), the resumptive suffix of כֻּלֹּה (2.9) and the possessive of *light of foot* (2.18), unrendered apodosis waws (2.23, 2.30), the oath כִּי (2.27) and the inversion-only הֲ (2.26). None is an error.",
+    "Heads flagged as competing in notes and left standing: נְעָרִים → *young men* on *young* (2.14, 2.21), לָמָּה → *wherefore* on מָה, בְנֵי־חַיִל → *valiant* on חַיִל, *the day brake* kept with אוֹר in 2.32. No corpus evidence in the packet for any of these, so nothing promoted."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "chapter": "JOB.2",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The ASV renders הַשָּׂטָן throughout as the bare name *Satan* and writes no *the* for the phrase, so the article morpheme is `unrepresented` in all six occurrences (2.1, 2.2, 2.3, 2.4, 2.6, 2.7) and the noun takes *Satan* alone. Six of the chapter's thirteen Td disagreements with BSB are this one decision and are convention differences rather than review candidates.",
+    "מֵאֵת is one unit in both occurrences, fused under rule 30 whatever English the ASV spends on it: *from* at 2.7, headed on מִן, and the compound *at the hand of* at 2.10, headed on *hand* under rule 24. The 2.10 compound carries the phrase's only *the*, so the article of הָאֱלֹהִים is `unrepresented` rather than fronted onto it; the corpus reads מֵאֵת as one unit for *from*, *of* and *on the behalf of*. בְּתוֹךְ → *among* fuses on the same terms at 2.1 and 2.8.",
+    "A pronominal suffix on הִנֵּה (2.6 הִנּוֹ → *he*) or on עוֹד (2.3 עוֹדֶנּוּ → *he*, 2.9 עֹדְךָ → *thou*) is the subject of the verbless or participial clause and takes the English subject pronoun written for it, while the host particle keeps only its own word — the reading rule 50 gives a suffix on אַיִן, applied here to a particle that is not the existential."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v92",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 28 candidate lemma groups and then the dump end to end, since the table is keyed by source lemma and cannot see a supplied English word folded into its licensor. No cross-verse split found; nothing is patched.",
+    "Waw: every treatment is read off the ASV (Again 2.1, And, So 2.7/2.13, But 2.10, Then 2.9, yea 2.4, although 2.3, when 2.1, Now when 2.11, And when 2.12), with 2.7 s020, 2.11 s016 and 2.12 s012 unrepresented because no connective is written there. The three coordinator-plus-subordinator cases are one construction handled one way under rule 55, headed on the coordinator where one is written and on *when* at 2.1 where none is.",
+    "Article: aligned to a written *the* (2.1, 2.8, the three gentilics of 2.11), to *his* under rule 41 (2.13), and unrepresented where the ASV writes nothing (six occurrences of the article on Satan, plus 2.10 twice, 2.11 twice, 2.12). At 2.11 the written demonstrative is what *this* renders, which is rule 41's own limit and matches rule 29's example of these cities, so both articles there are correctly unrepresented.",
+    "Compound prepositions are uniform: me-et fused at 2.7 (from, headed on min) and at 2.10 (at the hand of, headed on hand); be-tok fused to among at 2.1 and 2.8; min fused only at 2.12 (afar off) and split wherever it holds an English word of its own (2.2 twice, 2.7, 2.11).",
+    "The chapter records no added unit, and every supplied English word has a morpheme standing where it is written: the on of on the day (rule 33), both indefinite articles of a perfect and an upright man (rule 15), hath on the possessive lamed (rule 43), What on gam (2.10), and the and before he will renounce on the present conjunction im (2.5, which is why rule 14's surplus sentence does not reach it). The last two are what a later reader would revisit; each unit already names its competing reading under rule 8, so neither is a defect to correct.",
+    "BSB: 25 disagreements, none a genuine error. Thirteen are Td (six of them the article of ha-satan), six are prepositions silenced by rule 40 recastings, two are waws for which the ASV writes no connective, one is a rule 16 object marker, and the remaining three (zeh of ey mizzeh, the suffix inside the fused samta libbeka, the lo of the oath im lo) follow from fusion decisions whose units already record the competing reading.",
+    "Conventions: three recorded (the ha-satan decision, the me-et fusion including its the at 2.10, and the subject-pronoun reading of a suffix on hinneh/od). No promotions or amendments: the two judgments that looked general are already decided by rule 29's these cities and rule 45's own apodosis-waw sentence, so a new rule would only restate them."
+  ]
+}

@@ -1,0 +1,7 @@
+# Ezekiel 2 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- The refrain בֵּית מְרִי (2.5, 2.6, 2.8) is rendered attributively throughout, so under rule 28 the construct בַּיִת takes house together with the clause's supplied copula and indefinite article (rules 20, 15) and מְרִי takes rebellious, the unit discontinuous around it under rule 25. Where 2.7 writes bare מְרִי as the predicate, are most rebellious all belongs to that noun: most intensifies the one morpheme the ASV is rendering there and no other morpheme in the clause answers to it.
+- אִם ... וְאִם → whether ... or whether (2.5, 2.7) is distributed morpheme by morpheme: each אִם takes the whether standing before its own clause and the waw takes or. This is not rule 14's correlative pair, because the second אִם is itself present to carry the second member.
+- אֵת with a 2fs suffix, which MACULA tags To here, takes with wherever the ASV spends a word on the relation — speak with thee (2.1) and the verbless are with thee (2.6, where rule 49 adds the copula). The unrepresented rulings on אֵת elsewhere in the chapter (2.3, 2.4, 2.7, 2.8, 2.10) are rule 16's ordinary bare-object case, not a different reading of the same construction.

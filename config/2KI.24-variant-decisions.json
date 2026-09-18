@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "chapter": "2KI.24",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2KI.24.10.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere עָלוּ (plural) vs ketiv עלה (singular) differ only in verb number; ASV 'the servants ... came up' has a plural subject with an English past tense that does not mark number, so the wording permits either reading. No note mapped. Base qere carries the projection."
+    },
+    {
+      "unit_id": "WLC.2KI.24.14.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere עֲשֶׂרֶת vs ketiv עשרה are gender forms of the same numeral 'ten'; ASV 'ten thousand' renders either identically. No note mapped. Base qere carries the projection."
+    },
+    {
+      "unit_id": "WLC.2KI.24.15.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere אֵילֵי vs ketiv אולי are both read 'chief/mighty men'; ASV 'the chief men of the land' fits either, and the notes 'Or, eunuchs' and 'Or, mighty' are alternative_rendering, which never decides a reading. Base qere carries the projection."
+    },
+    {
+      "unit_id": "WLC.2KI.24.18.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV wording 'Hamutal' transliterates the qere vocalisation חֲמוּטַל; the ketiv חמיטל would be 'Hamital', which the ASV relegates to its hebrew_gloss note 'Hebrew Hamital.' The text follows the qere, the note records the ketiv it did not print."
+    }
+  ]
+}

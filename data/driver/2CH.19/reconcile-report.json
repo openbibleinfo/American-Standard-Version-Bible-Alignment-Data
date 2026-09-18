@@ -1,0 +1,29 @@
+{
+  "chapter": "2CH.19",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Hendiadys of two imperatives rendered by one English verb phrase: חִזְקוּ וַעֲשׂוּ → 'Deal courageously' gives 'Deal' to עֲשׂוּ, 'courageously' to חִזְקוּ (the verb whose contribution the ASV writes as an adverb, rule 56), and leaves the waw between them unrepresented (rule 56 closing sentence). This is the same division 2CH.19.4 makes for וַיָּשָׁב וַיֵּצֵא → 'he went out again'. The competing reading — all three morphemes as one noncompositional unit — was considered and set aside because each verb holds a word of its own.",
+    "A generic construct head דְּבַר fuses with its rectum where the ASV writes one word for the pair (בִּדְבַר מִשְׁפָּט → 'in the judgment', rule 30, headed on מִשְׁפָּט), and keeps its own word where the ASV writes one (לְכֹל דְּבַר־יְהוָה → 'in all matters of Jehovah', 2CH.19.11). The ASV margin 'in the matter of judgment' corroborates the fusion and decides nothing (rule 38).",
+    "The supplied subject 'he' of 'and he is with you in the judgment' resumes יְהוָה written earlier in the verse and joins the name's discontinuous unit (rule 25), headed on 'Jehovah'; the copula 'is' goes to the prepositional predicate עִם (rule 49). The competing reading marks 'he' added."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 11 verses end to end against the candidate table and the one `added` unit (19.7 'it'). No construction is analysed two ways without the ASV licensing the difference.",
+    "waw: every unrepresented waw is accounted for — 19.2 s028 (ASV writes no connective; 'for' is the causal בְּ's, governing 'this thing'), 19.4 s008 and 19.11 s035 (the waw between an auxiliary verb rendered as an adverb and its lexical verb, rule 56 closing sentence), 19.10 s029 (bare apodosis, rule 14). 19.7 'Now therefore' follows rule 14's וְעַתָּה ruling exactly; 19.8 וְגַם → Moreover fuses under rule 30 headed on גַם; 19.7's two 'nor's rest on the gapped אֵין (rule 35); 19.10's 'that' and 'and so' are both waw renderings with competing readings already named in their notes.",
+    "Auxiliary verb → adverb is treated the same way twice: 19.4 שׁוּב → again and 19.11 חִזְקוּ → courageously (hendiadys 'be strong and do' → 'Deal courageously'), each with its intervening waw unrepresented. Consistent under rule 56.",
+    "Articles: every unrepresented הַ is one the ASV writes no 'the' for (19.2 'king Jehoshaphat', 19.3 'God', 19.8 'controversies'); 19.5 gives the phrase's single 'the' to the attributive's article over the construct (rule 47); 19.11 'the chief priest' fronts the rectum's article (rule 29) and 'the king's matters' puts it on the possessor (rule 29 possessive case); 19.8 'the heads of the fathers houses' is the arthrous count. All consistent.",
+    "לְ: 19.10's בֵּין X לְ Y chain matches rule 26's worked example token for token; 19.2's three unrendered לְs are object-marking and infinitive לְ the ASV writes bare (rule 40/52); 19.5 'city by city' gives 'by' to the waw and leaves the לְ bare, consistent with rule 22's limit where the ASV writes a word for each occurrence.",
+    "דְּבַר: 19.6 דְּבַר מִשְׁפָּט → 'the judgment' fuses (rule 30 generic head noun) while 19.11 writes 'matters' for both occurrences — the ASV licenses the difference; both notes name the alternative.",
+    "BSB disagreements are all convention: unrendered articles, unrendered לְ (including לֵאמֹר, rule 27), unrendered waws, paragogic nun (rule 32), and עַל left bare by 'charged them' (rule 40). None is an error.",
+    "Nothing here generalises beyond what the contract already says; no promotion or amendment."
+  ]
+}

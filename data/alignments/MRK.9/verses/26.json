@@ -1,0 +1,220 @@
+{
+  "alignments": [
+    {
+      "note": "",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Supplied object pronoun folds onto its verb (rules 7, 103).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "The ASV supplies the subject noun 'the boy'; no source token stands for it, and a full lexical noun is not among rule 7's helpers (rules 5, 103).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Substantival adjective with the generic completion 'one'; head on the adjective (rule 17).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "One clause-introducer, headed on the word realizing the conjunction (rule 61).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Article governing a substantival adjective takes both the determiner and the supplied noun (rules 49, 102); discontinuous around the adjective (rule 15).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Recitative ὅτι: the ASV punctuates direct speech and writes no complementizer (rule 43).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The aorist rendered by a copular predicate; head on the meaning-bearing word (rule 17).",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t025",
+        "t026",
+        "t027"
+      ],
+      "target_head": "t027"
+    }
+  ],
+  "ref": "MRK.9.26",
+  "review_notes": [
+    "'the boy' marked added, the ASV supplying a subject noun no source token licenses (rules 5, 103).",
+    "τοὺς πολλούς analysed as rule 102's 'the … part', the article taking determiner and supplied noun."
+  ]
+}

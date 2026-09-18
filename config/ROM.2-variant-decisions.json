@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "chapter": "ROM.2",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.ROM.2.5.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'wrath and revelation of the righteous judgment of God': a single genitive chain, revelation OF the righteous judgment. The RP reading adds kai before dikaiokrisias, which would give a third coordinate member ('revelation and righteous judgment'). The English has only two coordinated nouns after 'day of', so the added kai is excluded."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.2.8.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "r00/r01 differ only in the movable nu, which no English can show. r02 adds men, a correlative particle the ASV regularly leaves untranslated; 'but unto them that are factious' neither renders nor excludes it. Nothing in the verse or its notes distinguishes the three; base fallback carries the projection."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.2.8.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'shall be wrath and indignation' preserves the order orge (wrath) then thymos (indignation), matching the base. The RP reading inverts to thymos kai orge, which the ASV would have rendered 'indignation and wrath'. Word order here is visible in the English and settles the unit."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.2.13.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Article-only variant. ASV 'the hearers of the law' supplies the English definite article for anarthrous nomou as freely as for arthrous tou nomou, so the wording cannot show which Greek stood. Both chapter notes are classed alternative_rendering ('Or, righteous', 'Or, accounted righteous') and concern the English of dikaioi/dikaiothesontai, not this article."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.2.13.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Presence or absence of the article to is invisible in English; the ASV clause 'but the doers of the law shall be justified' reads identically under either. The verse's two notes are alternative_rendering about 'righteous'/'accounted righteous' and do not touch this unit."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.2.13.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Same article-only variant at the second occurrence: 'the doers of the law' renders nomou and tou nomou alike. No ASV wording, supply, or mapped textual note distinguishes them; the notes present are alternative_rendering."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.2.14.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "poiosin (plural) and poie (singular) differ only in agreement with the neuter plural subject ethne, which regularly takes a singular verb in Greek. Either way English must read 'Gentiles ... do by nature the things of the law'. The ASV wording therefore cannot show which verb form stood, and no note bears on it."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.2.16.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "hemera hote and he hemera both yield 'in the day when'; the WH relative construction and the base adverb are indistinguishable in English idiom. The verse notes are 'Or, judgeth' (alternative_rendering, bearing on the verb at v009) and a cross-reference to 1:1 (other); neither maps here."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.2.16.v009",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "The candidates differ only in accent: krinei (present) against krinei circumflex (future). The ASV text reads 'shall judge', an unambiguous English future, which renders the future accentuation. The note 'Or, judgeth' is classed alternative_rendering and so cannot decide a reading, but the text the translators printed does."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.2.16.v010",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'by Jesus Christ' gives the order Iesou Christou, matching r01. The base order Christou Iesou would have been rendered 'Christ Jesus', as the ASV does elsewhere when that order stands. Name order is visible in the English and settles the unit."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.2.17.v011",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV opens the verse 'But if thou bearest the name of a Jew' - the conditional Ei de. The RP reading Ide is an imperative 'Behold', which would have produced a wholly different opening and no 'if'. The English conditional excludes it."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.2.17.v012",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Article-only variant. 'and restest upon the law' renders nomo and to nomo identically, since English supplies the definite article for the Mosaic law regardless. No wording, italicized supply, or note distinguishes them."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.2.26.v013",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ouch and ouchi are the same interrogative negative in a longer and shorter form; both yield 'shall not his uncircumcision be reckoned'. The difference is orthographic and cannot surface in English, and no note bears on it."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+# 1 John 4 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **1JN.4.2** — The portmanteau 'en touto' -> *Hereby* / *Herein* is one aligned unit headed on the demonstrative, never noncompositional: *here-* answers to the demonstrative and *-by* / *-in* to the preposition, so part of the English answers to each token under rule 35 and rule 45's test. Applies at 1JN.4.2, 4.9, 4.10, 4.13 and 4.17, following 1JN.2.3, 1JN.2.5, 1JN.3.16, 1JN.3.19 and 1JN.3.24. Rule 45's lexicalized compounds, such as 'meta tauta' -> *hereafter*, are the contrast; 'dia touto' -> *therefore* at 4.5 stays noncompositional.
+- **1JN.4.7** — The reciprocal 'allelous' -> *one another* is headed on *another*, which realizes the allos-lexeme, not on *one*, which is the supplied English completion standing first (rules 17, 66). Applies at 1JN.4.7, 4.11 and 4.12.
+- **1JN.4.12** — A supplied English determiner never takes the target head; the head goes to the nominal word it determines. 'tis' -> *a man* heads on *man*, 'popote' -> *at any time* on *time*, 'oudeis' -> *No man* on *No*, and the substantival article's supplied nominal at 4.3 on *spirit*. Rule 69's *any man* heads on *any* only because *any* is itself a lexical indefinite, which a bare supplied article is not.

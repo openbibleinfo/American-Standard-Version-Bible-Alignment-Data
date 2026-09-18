@@ -1,0 +1,22 @@
+{
+  "chapter": "PSA.100",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all six candidate lemmas; every difference is licensed by the source or the ASV's own rendering, not a split. הוּא: possessive/object/subject suffix vs. independent pronoun, each taking the English written for it (rule 18/20); the one *he that* in v3 is the explicit pronoun of the ASV's cleft, and no other verse has a cleft. לְ: *of* (superscription), *unto* (dative), *before* (split לִפְנֵי where the ASV writes *presence* for פָּנֶה), *endureth for* (predicate לְעוֹלָם, rule 20's own example, 35 corpus units) — five different constructions. בּוֹא: *come* v2 vs *enter* v4 is the ASV's lexical choice; the supplied *into* in v4 goes to the bare directional nouns under rule 33 in both cola, which is the only reading that also covers the verb-gapped second colon. כִּי: *that* (complement of דְּעוּ) vs *for* (causal), both written by the ASV. דּוֹר/וְ in v5: דֹּר וָדֹר → *all generations* on the first occurrence with waw and second דֹּר unrepresented follows rule 22's distributive paragraph and the corpus majority (9 aligned *all generations* on the first noun vs. 1 fused).",
+    "Also checked the `added` units, which the table cannot see: v3 *It is* (cleft dummy+copula), v4 *And* and *and* (asyndetic cola). No verse folds a comparable supplied word into a neighbour, so no hidden split.",
+    "BSB disagreements (v1 הָ, v5 waw, v5 second דֹר) are all documented convention differences — the ASV writes no *the* in *all ye lands*, and BSB attaches repetition morphemes to the rendered occurrence. None is an error.",
+    "Two hedged units carry their competing reading in the note as rule 8 asks: v3 וְלוֹ → *are his* fused on the suffix under rule 49's fused-genitive paragraph (vs. *are* on לְ alone), and v3 *he that* on הוּא (vs. *that* as an added cleft relative). Both stand; neither generalises.",
+    "No conventions or promotions: nothing here goes beyond what the contract already states."
+  ]
+}

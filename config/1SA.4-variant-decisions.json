@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "chapter": "1SA.4",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1SA.4.13.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the phrase 'by the wayside', where 'by' is the construct noun yad ('hand, side') governing derek ('way'). That reading of the consonants is the qere yad; the ketiv yk yields no word that could produce the locative 'by' the ASV prints, and the ASV carries no note at 4:13 preserving it. The ASV wording therefore distinguishes the qere."
+    }
+  ]
+}

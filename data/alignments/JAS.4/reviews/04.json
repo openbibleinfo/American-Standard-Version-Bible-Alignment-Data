@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "1d7b98dbaa2d3449ebd3f28b52c49a4e45f2e5001dbf98d2b672f39692085bc9",
+  "contract_version": "nt-greek-verse-v64",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed against the contract; the accepted alignment is returned unchanged. Every s### and t### is partitioned exactly once (24 source, 30 target), all heads are members of their arrays, and the two `unrepresented` units are source-only with null target heads.",
+    "Both `τοῦ θεοῦ` phrases (s010/s011 and s022/s023) leave the article `unrepresented` because the ASV supplies no determiner for *God*, and the case preposition (*with*, *of*) therefore stays with the noun under rule 21's determinerless clause — the same shape as rule 21's own `τῷ θεῷ` → *to God*. A reference comparison will report both articles as disagreements, and that is not a correction.",
+    "s013+s014 joined under rule 72's `-soever` arm rather than split; the alternative reading, splitting *Whosoever* across the relative and leaving `ἐάν` `unrepresented`, is what rule 72 reserves for verses where no `-soever` is written, so it does not apply here.",
+    "*would* (t018) is given to `βουληθῇ` and the bare *be* (t019) to `εἶναι`. The competing reading takes *would* as the modal the generalizing particle licenses under rule 50/72 and gives *would be* whole to `εἶναι`; it is rejected because `ἐάν` is already spent inside *Whosoever* under rule 72's first arm, and because *would* here glosses `βούλομαι` (*wish, be minded*) lexically rather than serving as an empty auxiliary.",
+    "*himself* (t026) rides with `καθίσταται` as the supplied object the English middle requires, headed on *maketh* under rule 17. Rule 103 does not reach it: a resumptive pronoun is exactly the class rule 7 names, and no source token has been spent on it elsewhere in the verse.",
+    "Variant SBLGNT.JAS.4.4.v003 is underdetermined with the base fallback still among the permitted readings, so it carries no `FALLBACK EXCLUDED BY EVIDENCE` mark and rule 97 is not in question; v002 is compatible with the base and covers s001 only."
+  ],
+  "ref": "JAS.4.4",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

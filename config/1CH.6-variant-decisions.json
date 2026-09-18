@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "chapter": "1CH.6",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1CH.6.26.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the plural construct: 'the sons of Elkanah: Zophai his son, and Nahath his son'. Qere בְּנֵי 'sons of' is what the English 'the sons of' reflects; the ketiv בנו 'his son' (singular, with suffix rather than construct) would have given 'his son, Elkanah' and no plural head for the following list. Wording distinguishes the reading."
+    },
+    {
+      "unit_id": "WLC.1CH.6.35.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'the son of Zuph', transliterating צוּף (qere) with its waw; the ketiv ציף would transliterate as Ziph. The ASV note tying this name to Zophai in verse 26 likewise assumes the Zuph form. The proper name in the English distinguishes the reading."
+    }
+  ]
+}

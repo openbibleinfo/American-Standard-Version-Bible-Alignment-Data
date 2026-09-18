@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "chapter": "ZEC.14",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.ZEC.14.2.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV renders the clause with the explicit verb 'ravished,' distinguishing the ketiv reading r01 from the qere/base euphemism."
+    },
+    {
+      "unit_id": "WLC.ZEC.14.6.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV's main text, 'the bright ones shall withdraw themselves,' uses a finite verbal predicate and thus distinguishes the ketiv reading r01; the alternative_rendering note does not decide the unit."
+    }
+  ]
+}

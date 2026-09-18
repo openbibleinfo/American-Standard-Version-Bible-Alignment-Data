@@ -1,0 +1,171 @@
+{
+  "alignments": [
+    {
+      "note": "Inflected verb with its English subject; head on the lexical verb.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Reported speech with an expressed English complementizer, so the conjunction is aligned in the ordinary way.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Temporal adverb to *when*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Expressed copula with its subject pronoun; the predicate is a noun, but the copula is expressed rather than supplied, so rule 63 is not in question.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Predicate noun *Gentiles*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Participle rendered as a finite clause; the supplied subject and copula ride with it under rules 7 and 9, head on the lexical verb *led*, the preverb ἀπο- realized by *away* under rule 106.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Preposition to *unto*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Article realized by the supplied demonstrative determiner *those* under rule 60; no Greek demonstrative competes for the slot.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Second attributive article with no English realization, rule 23.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Attributive adjective to *dumb*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Noun to *idols*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "ὡς ἄν compressed into the single word *howsoever*; rule 50 makes this one aligned unit, the *-soever* answering to the particle.",
+      "source": [
+        "s011",
+        "s012"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Finite verb with its subject and modal auxiliary; head on the lexical verb *led*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018",
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    }
+  ],
+  "ref": "1CO.12.2",
+  "review_notes": [
+    "ὡς ἄν is taken as a single compressed unit under rule 50 rather than splitting *howsoever*."
+  ]
+}

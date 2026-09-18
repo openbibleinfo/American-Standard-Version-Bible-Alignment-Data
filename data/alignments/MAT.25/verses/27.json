@@ -1,0 +1,229 @@
+{
+  "alignments": [
+    {
+      "note": "Impersonal verb rendered by the English modal verb.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Rule 74: the accusative subject of the infinitive becomes the English subject and is its own token here.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Inferential conjunction.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Rule 7: the infinitival marker and perfect auxiliary belong to the verb, no conjunction governing the clause.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Rule 20: μου carries the possessive.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Rule 20: the genitive pronoun takes 'my'.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Rule 21: the dative's 'to' rides with the article, headed on 'the'.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Expressed conjunction.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "The participle is nominalized in English; the supplied 'at' realizes its adverbial force and rides with it under rule 21's determinerless clause.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "The expressed nominative subject is what the possessive 'my' of 'my coming' realizes, so it is not `added`.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Rule 106's reasoning: 'back' belongs to the middle verb's own English ('receive back'), headed on the verb word. The supplied subject rides under rule 9.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t018",
+        "t019",
+        "t020"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Rule 50: the modal particle is aligned to the English modal it licenses, the lexical verb standing alone.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Rule 54: the first-person possessive adjective is substantival and its absolute possessive carries its own determiner, leaving the article nothing.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rule 54: 'mine own' is the adjective's whole English.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    }
+  ],
+  "ref": "MAT.25.27",
+  "review_notes": [
+    "'my' at t014 is assigned to the expressed ἐγώ rather than left as a helper on the participle, the pronoun being present and otherwise unrealized.",
+    "ἄν takes 'should' under rule 50; leaving it unrepresented would be the recurring failure that rule names."
+  ]
+}

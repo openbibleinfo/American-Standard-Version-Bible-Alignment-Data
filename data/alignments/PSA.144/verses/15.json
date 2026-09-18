@@ -1,0 +1,179 @@
+{
+  "alignments": [
+    {
+      "note": "Predicate noun of a verbless clause with the construction-supplied copula under rule 20.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Article rendered *the*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Relative particle rendered *that*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The adverb is the relative clause's predicate and is recast as *in such a case*: the copula joins it under rule 20 and the supplied preposition and generic noun under rules 33 and 31, headed on *such*, which carries the lexeme.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The ASV's recasting leaves the dative preposition with no English word (rule 40).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Its suffix is likewise unrendered; the ASV writes no pronoun for it.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "No conjunction morpheme opens the second colon, so the supplied connective is added under rule 14's closing sentences; the italic corroborates without deciding.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Predicate noun with the supplied copula under rule 20.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Article rendered *the*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "The relative particle and the resumptive possessive suffix on `אֱלֹהָיו` are carried by one *whose*, so they share a unit headed on the relative under rule 22.",
+      "source": [
+        "s011",
+        "s014"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "The suffixed noun is the Hebrew clause's predicate and takes the construction-supplied copula under rule 20, though the ASV writes it as the English subject.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Divine name.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "PSA.144.15",
+  "review_notes": [
+    "`לּוֹ` and its suffix are unrepresented: the ASV's *in such a case* renders `כָּכָה` and writes nothing for the dative.",
+    "The copula of the last clause is placed on `אֱלֹהָיו`, read as the Hebrew predicate; the competing reading puts it on the divine name, following the English word order rather than the Hebrew clause."
+  ]
+}

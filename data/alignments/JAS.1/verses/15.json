@@ -1,0 +1,164 @@
+{
+  "alignments": [
+    {
+      "note": "Temporal adverb rendered by Then.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Article surfaces as the under rule 19; split from its noun under rule 26.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Noun stands alone, its determiner having gone to the article.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Circumstantial participle expanded into a finite clause: the supplied subordinator when is a rule 7 helper on the participle (rule 86 places a supplied when on a participle, and a participle is exactly the token that licenses it), the supplied subject it and the auxiliary hath ride along under rules 7 and 9, and rule 9 heads the unit on the lexical verb conceived rather than on it or hath. The supplied subject stays with the verb whose subject it is, as rule 74 has it.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Finite verb; no helper is written for it.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Anarthrous accusative rendered by a bare sin.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Second article surfaces as the under rule 19, kept separate from its noun under rule 26.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Postpositive connective realized by and; rule 15 permits the reordering relative to the article. This is an expressed Greek conjunction, so rule 88's supplied participle-to-finite juncture is not in question.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Noun stands alone beside its own article.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Aorist passive participle expanded into a finite clause exactly as s004 is, which is rule 24's habit: when, the supplied subject it, and the copula is are helpers on the participle, and the head is the meaning-bearing fullgrown rather than the copula, under rules 9 and 17.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014",
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "One verb rendered by the phrasal bringeth forth; forth is the verb's own particle and not a separate source item, as rule 36's girt with and rule 34's afar off treat an English particle. Head on bringeth: rule 91's test asks which English word the lexeme is glossed by, and ἀποκυέω is itself bring forth rather than a support verb with a contentful complement, so rule 17's make straight case does not apply. Heading on forth was the competing reading and is rejected on that ground.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Anarthrous accusative rendered by a bare death.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "JAS.1.15",
+  "review_notes": [
+    "Reviewed against the contract and returned unchanged: no unit's membership, status or head was altered. Two notes were expanded to cite the rules that were checked (s004 on rule 74's supplied subject, s008 on rule 88's expressed-conjunction carve-out, s011 on the particle precedent); no analysis changed.",
+    "Every s### and t### id is used exactly once; no ids invented. All twelve units are aligned with nonempty arrays and heads inside them, so rules 3-6 are satisfied and no unrepresented or added unit arises.",
+    "Both participles get identical treatment (when + supplied subject + auxiliary or copula on the participle) per rule 24, and both head on the lexical participle rather than on hath or is. Rule 86 licenses the supplied when in both: the participle is the source token carrying the subordination, so nothing here is added.",
+    "No article is left unrepresented: both ἡ tokens have an English the of their own, and no possessive or demonstrative competes for the slot, so rules 20, 38 and 49 do not reach this verse.",
+    "The one live head question is s011. bringeth was kept over forth because ἀποκυέω is glossed bring forth as a whole and bring is not an empty support verb of the make known / bear witness kind; the same lemma at JAS.1.18 should be headed on the verb word for consistency if that verse is aligned later.",
+    "δέ takes t010 and the second article takes t011 across the ASV's order; rule 15 covers the crossing and rule 26 keeps the article off its noun."
+  ]
+}

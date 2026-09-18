@@ -1,0 +1,183 @@
+{
+  "alignments": [
+    {
+      "note": "Article before ὑπομονή; the ASV writes a bare 'patience' with no determiner and no other supplied word for it to carry, so rule 23 leaves it empty. It cannot take the 'its' of t005: that possessive stands in the anarthrous ἔργον phrase, which this article does not govern, so neither rule 76's second arm nor rule 57 reaches it.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Postpositive δέ rendered by the verse-opening 'And'.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Bare noun; the verse note offers 'stedfastness' as an alternative rendering, but the ASV text reads 'patience'.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Third-person imperative rendered periphrastically; the auxiliary 'let' is a rule 9 helper and rule 17 heads the unit on the lexical verb 'have', discontinuously under rule 15.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Attributive adjective takes a bare 'perfect'; the supplied possessive goes with the noun under rule 58.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Both adjective and noun are anarthrous, so rule 58 gives the supplied determiner 'its' to the noun, discontinuously under rule 15; rule 11 keeps the ASV's italics from making it 'added'. The competing reading would put 'its' on τέλειον beside it, which rule 58 refuses since a determiner determines the noun phrase.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Purpose ἵνα realized by the word introducing the English clause, here 'that' rather than a bare infinitive (rule 40).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Subjunctive with its supplied subject and modal auxiliary; rule 9 heads the unit on the lexical verb 'be'.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Predicate adjective.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Coordinating καί between the two predicate adjectives.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Predicate adjective.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Participle rendered by a bare 'lacking'; the ASV reorders it before the prepositional phrase, which rule 15 permits without absorbing the following tokens.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "The English preposition governing the phrase realizes ἐν under rule 36, and rule 94 keeps the pair split since the ASV writes two words rather than one.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Negative indefinite carrying the clause's whole negation. No separate Greek negator stands with it, so rules 41 and 59 are not in question and nothing is emptied.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "JAS.1.4",
+  "review_notes": [
+    "Reviewed against nt-greek-verse-v61 and returned unchanged; no unit was altered.",
+    "Every s### and t### id is partitioned exactly once: 14 source ids across 14 units, 17 target ids across 13 aligned units and one empty target.",
+    "s001 stays unrepresented. Re-derived rather than inherited: the article governs ὑπομονή, whose English 'patience' carries no determiner, and the only supplied determiner in the verse ('its', t005) stands in the anarthrous ἔργον phrase. Rule 76's second arm needs an article standing over the possessed noun and rule 57 covers only an interposed genitive, so neither lets this article reach across. Rule 23 decides it.",
+    "'its' (t005) is a rule 58 supplied determiner on the anarthrous noun ἔργον, not an ASV addition; rule 11 makes the italics evidence only, and rule 86 is not in question because a source word is available to license the word. Rule 58's worked examples all use 'the', but its reasoning is rule 51's 'the word it determines', which does not turn on the determiner being definite. The competing reading, 'its perfect' together on τέλειον, is named in that unit's note.",
+    "ἐν μηδενί is split rather than joined: the ASV writes 'in nothing' as two words, so rule 94's single-word precondition for a compound prepositional unit is not met, and rule 36 gives 'in' to the preposition. No separate Greek negator stands with μηδενί, so rules 41, 59 and 69 never engage and nothing is emptied.",
+    "Both verb units head on the lexical verb under rule 17: 'have' over the auxiliary 'let' at s006, and 'be' over the supplied subject and modal 'ye may' at s008."
+  ]
+}

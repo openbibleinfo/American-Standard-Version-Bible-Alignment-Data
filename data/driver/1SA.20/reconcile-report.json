@@ -1,0 +1,29 @@
+{
+  "chapter": "1SA.20",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "1SA.20.3"
+  ],
+  "rejected": {},
+  "conventions": [
+    "גָּלָה אֹזֶן with a possessive suffix rendered 'disclose(th) it unto me/thee' (20.2, 20.12, 20.13): the verb takes 'disclose', the object marker and אֹזֶן are each unrepresented, the suffix takes 'unto me'/'unto thee' as its expanded realization (rule 18), and the object 'it' is added (rule 44). The rule 30/40 alternative of fusing verb + marker + noun into 'disclose' was available and not taken; the chapter is consistent on the split.",
+    "הַחִצִּים מִמְּךָ וָהָלְאָה / וָהֵנָּה (20.21, 20.22, 20.37): the adverb takes 'beyond' or 'on this side', the waw before it is unrepresented (no connective written), and the מִן heading the predicate takes the construction's copula ('are', 'are of') under rule 49 except where an interrogative הֲ stands to take the fronted 'Is' under rule 20, in which case the מִן is unrepresented (rule 40).",
+    "Noun subject + prepositional predicate rendered with a presentative 'there is X PP' (20.3 כְּפֶשַׂע בֵּינִי, 20.21 שָׁלוֹם לְךָ): the whole frame 'there is' joins the predicate preposition, and the noun keeps only its own English with any supplied article. 20.12's טוֹב אֶל is not this case: the adjective is read as the impersonal predicate and keeps 'there be good'."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked every multi-treatment bucket in the candidate table against the source. Almost all are the ASV rendering one lemma differently in different contexts (waw connectives, לְ/אֶל/מִן relations, suffix case), which the source licenses.",
+    "One genuine split: the presentative frame in a verbless clause of noun + prepositional predicate. 1SA.20.21 puts 'there is' on the predicate לְ (שָׁלוֹם לְךָ → 'there is peace to thee', rule 49 closing paragraph), while 1SA.20.3 put 'there is' on the subject noun פֶּשַׂע (כְּפֶשַׂע בֵּינִי → 'there is a step between me'). Same construction, same English frame; 20.3 is patched so the frame joins בֵּין and פֶּשַׂע keeps 'a step'. The approximative כְ stays unrepresented and 'but' stays on כִּי as the verse pass had it.",
+    "1SA.20.12 הִנֵּה־טוֹב אֶל־דָּוִד → 'there be good toward David' was considered and left: טוֹב is an adjective (Aamsa) and the clause reads as an impersonal predicate adjective with an adjunct, so rule 20 keeps the frame on it; that is a source difference from the noun subjects of 20.3 and 20.21.",
+    "The three גָּלָה אֹזֶן → 'disclose' verses (20.2, 20.12, 20.13) are consistent with each other and recorded as a convention, since rule 30/40 fusion of verb + marker + noun was an available alternative. The three מִמְּךָ וָהָלְאָה/וָהֵנָּה verses (20.21, 20.22, 20.37) are consistent and recorded likewise.",
+    "BSB disagreements are all convention: paragogic he, articles the ASV leaves unwritten, silenced prepositions and object markers, unrendered waws, two infinitive absolutes with no adverb written, the deictic זֶה of לָמָּה זֶּה, the reflexive dative of 20.20, the first פַּעַם of 20.25, the reciprocal suffixes of 20.41. None is an error.",
+    "No promotion or amendment: nothing this chapter taught generalises beyond rules already in the contract."
+  ]
+}

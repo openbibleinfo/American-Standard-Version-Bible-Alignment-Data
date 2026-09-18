@@ -1,0 +1,6 @@
+# Psalms 139 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Comparative `מִן` with a degree adverb: both English words belong to the preposition's one discontinuous unit, headed on the relational word — `מִמֶּנִּי` → *too … for* (v6, headed on *for*) and `מֵחוֹל` → *more … than* (v18, headed on *than*). The degree adverb is not left with the predicate adjective or the verb of multitude it stands beside, since rule 20 supplies the copula and nothing more, and it is not `added`, since rule 11 gives a function word first to the morpheme whose sense it carries.
+- The psalm writes its conditional and temporal cola both with and without a conjunction and the ASV supplies *If* or *When* either way, so each colon is counted on its own before the word is placed. A waw standing in the colon takes it (v8 `וְאַצִּיעָה` → *If*, v11 `וָאֹמַר` → *If*, v16 `ו` → *When*); an asyndetic colon leaves it `added` (v9 *If*, v9 *And*, v18 *If*, v18 *When*); and the v18 `וְעוֹדִי` waw, which stands in the main clause rather than in the temporal clause the ASV subordinated, is `unrepresented` for want of a written connective.

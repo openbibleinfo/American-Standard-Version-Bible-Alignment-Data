@@ -1,0 +1,155 @@
+{
+ "alignments": [
+  {
+   "confidence": "high",
+   "note": "The supplied nominal “things” takes the target head over both the supplied determiner and the relativizer; the topical frame “touching” realizes the accusative of respect on the relative pronoun.",
+   "source": [
+    "s001"
+   ],
+   "source_head": "s001",
+   "status": "aligned",
+   "target": [
+    "t002",
+    "t003",
+    "t004",
+    "t005"
+   ],
+   "target_head": "t004"
+  },
+  {
+   "confidence": "high",
+   "note": "",
+   "source": [
+    "s002"
+   ],
+   "source_head": "s002",
+   "status": "aligned",
+   "target": [
+    "t001"
+   ],
+   "target_head": "t001"
+  },
+  {
+   "confidence": "high",
+   "note": "",
+   "source": [
+    "s003"
+   ],
+   "source_head": "s003",
+   "status": "aligned",
+   "target": [
+    "t006",
+    "t007"
+   ],
+   "target_head": "t007"
+  },
+  {
+   "confidence": "high",
+   "note": "",
+   "source": [
+    "s004"
+   ],
+   "source_head": "s004",
+   "status": "aligned",
+   "target": [
+    "t008",
+    "t009"
+   ],
+   "target_head": "t009"
+  },
+  {
+   "confidence": "high",
+   "note": "",
+   "source": [
+    "s005"
+   ],
+   "source_head": "s005",
+   "status": "aligned",
+   "target": [
+    "t010"
+   ],
+   "target_head": "t010"
+  },
+  {
+   "confidence": "high",
+   "note": "",
+   "source": [
+    "s006"
+   ],
+   "source_head": "s006",
+   "status": "aligned",
+   "target": [
+    "t011"
+   ],
+   "target_head": "t011"
+  },
+  {
+   "confidence": "high",
+   "note": "The article before God has no English determiner.",
+   "source": [
+    "s007"
+   ],
+   "source_head": "s007",
+   "status": "unrepresented",
+   "target": [],
+   "target_head": null
+  },
+  {
+   "confidence": "high",
+   "note": "",
+   "source": [
+    "s008"
+   ],
+   "source_head": "s008",
+   "status": "aligned",
+   "target": [
+    "t012"
+   ],
+   "target_head": "t012"
+  },
+  {
+   "confidence": "high",
+   "note": "The conjunction introduces the assertion after “behold,” but the English supplies no complementizer.",
+   "source": [
+    "s009"
+   ],
+   "source_head": "s009",
+   "status": "unrepresented",
+   "target": [],
+   "target_head": null
+  },
+  {
+   "confidence": "high",
+   "note": "",
+   "source": [
+    "s010"
+   ],
+   "source_head": "s010",
+   "status": "aligned",
+   "target": [
+    "t015"
+   ],
+   "target_head": "t015"
+  },
+  {
+   "confidence": "high",
+   "note": "",
+   "source": [
+    "s011"
+   ],
+   "source_head": "s011",
+   "status": "aligned",
+   "target": [
+    "t013",
+    "t014"
+   ],
+   "target_head": "t014"
+  }
+ ],
+ "ref": "GAL.1.20",
+ "review_notes": [
+  "The accepted edges are correct. The target head for s001 has been corrected from t004 “things” to t005 “which,” which most directly realizes the Greek relative pronoun; “touching the things” is its licensed topical and nominal expansion.",
+  "The article before God is unrepresented because the English has no determiner.",
+  "The conjunction ὅτι is unrepresented because the English has no overt “that.”"
+ ]
+}

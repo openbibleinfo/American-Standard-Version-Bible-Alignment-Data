@@ -1,0 +1,18 @@
+{
+  "alignment_sha256": "0174fc32359ddb54a2238e162ebf89283b74b4fbc3a9d8f62ac6d01f6ce301e6",
+  "contract_version": "nt-greek-verse-v58",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "All 25 source and all 36 target IDs are partitioned exactly once; every aligned unit's head is a member of its own array.",
+    "Changed from the accepted alignment: s005 `ἄρα` raised from `medium` to `high`. The accepted note conceded that no *then* stands in the verse, which defeats its own hedge. The only materially different reading is giving *therefore* to ἄρα and leaving οὖν empty, and clause position excludes it — *therefore* sits in the participial clause where οὖν stands. Rule 16 wants a competing analysis, and rule 84 warns that hedging against an undisputed unit is the recurring failure. Everything else is unchanged.",
+    "s004 and s005 are separate `unrepresented` units under rules 44 and 64. The point worth recording is that *did* is not a supplied interrogative word: it is the past indicative's do-support required by English inversion, so it rides with s008 under rule 9, as the auxiliary does in rule 44's `μὴ πλείονα σημεῖα ποιήσει;` → *will he do more signs?*. Rule 64's `μήτι` → *Can* case is the contrast, where the supplied modal carries a sense the Greek verb does not. A reference comparison will report both particles as disagreements, and that report is not a correction.",
+    "s003's *When* is a rule 7 helper on the participle, not `added`. Rule 86's test is whether a source token licenses the subordination, and a participle is exactly such a token; the corpus places a supplied *when* on a participle in sixty-six of its sixty-seven units.",
+    "s007/s008 are split rather than joined: `τῇ ἐλαφρίᾳ ἐχρησάμην` → *did I show fickleness* spells both elements out, so rule 73's collapsed light-verb pair is not in question and rule 2's ordinary split applies.",
+    "s006 is `unrepresented` because the ASV writes no determiner for *fickleness*; rule 21 forbids leaving a bare case preposition on the article. Contrast s013, where the Greek is anarthrous and the supplied *the* is therefore the noun's own helper under rule 51, and s019/s023, where the ASV writes *the* and rules 19 and 61 align the article to it.",
+    "s010 heads on *things* per rule 77's generic-noun arm, not on the relativizer *that*.",
+    "The doubled `ναί ναί` and `οὔ οὔ` are quoted particles, each its own unit under rule 2; rule 33 is not in question, these being neither adjacent `οὐ μή` nor an emphatic negation."
+  ],
+  "ref": "2CO.1.17",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

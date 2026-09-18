@@ -1,0 +1,131 @@
+{
+  "alignments": [
+    {
+      "note": "Conjunction to conjunction.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Substantival demonstrative compressed into the adverbial 'thus'.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Supplied 'when' is a rule 86 helper on the participle; subject and auxiliary ride along, discontinuous under rule 15.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "θεὶς τὰ γόνατα is a light-verb pair collapsed into the single English verb 'kneeled down'; one unit under rule 73, with the source head on the noun the target head realizes.",
+      "source": [
+        "s004",
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t009"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Article inside the collapsed idiom; no English word answers to it (rules 23, 93).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The genitive pronoun is absorbed by the collapsed idiom 'kneeled down'; the ASV writes no possessive for it.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Preposition to 'with'.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Quantifier to 'all'.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Pronoun to pronoun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "The supplied juncture 'and' introduces this finite verb after the participle rendered finite (rule 88).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    }
+  ],
+  "ref": "ACT.20.36",
+  "review_notes": [
+    "θεὶς τὰ γόνατα αὐτοῦ → 'he kneeled down' is read as rule 73's collapsed pair, leaving the article and the genitive pronoun unrepresented; splitting 'kneeled' from 'down' across the tokens would give the article and pronoun words the ASV never wrote for them."
+  ]
+}

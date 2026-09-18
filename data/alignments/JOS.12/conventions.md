@@ -1,0 +1,5 @@
+# Joshua 12 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- A proper name MACULA segments into two source tokens is aligned token for token rather than kept whole as one unit, and the relational word the chain writes for it goes to the first element, which is the word that English word stands before. Beth-jeshimoth at 12.3 takes *to Beth* and *jeshimoth*; Beth-el takes *of Beth* and *el* at 12.16 and a bare *Beth* and *el* at 12.9, where mi-tsad already carries the relation as *is beside*; Shimron-meron takes *of Shimron* and *meron* at 12.20; Baal-gad takes *Baal* and *gad* at 12.7, the min beside it keeping its own *from*. Each element holds an English word of its own, so rule 2 prefers the split and rule 30's one-rendering condition is not met. Keeping such a name as a single two-token unit was the competing reading, named in the review notes at 12.3 and 12.16.

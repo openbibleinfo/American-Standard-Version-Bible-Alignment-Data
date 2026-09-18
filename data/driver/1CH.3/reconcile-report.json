@@ -1,0 +1,25 @@
+{
+  "chapter": "1CH.3",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "In the Hebron list (3.1–3) the לְ before each mother's name takes the of or by the ASV writes for it; the לְ of 3.2 stands before the son's name (לְאַבְשָׁלוֹם), the ASV writes nothing for it, and it is its own unrepresented unit under rule 40. BSB's representation of it is the documented convention difference, not an error.",
+    "Compound proper names MACULA segments into two Np tokens sharing one lemma (Bath-shua 3.5, Jushab-hesed 3.20) are one unit against the ASV's two hyphen-split tokens, headed on the first token of each side.",
+    "Where the ASV writes 'the sons' for a singular construct בֶן (3.19, 3.21, 3.23; margin 'Hebrew son'), the noun takes the plural together with the supplied the under rule 29, and the margin is read and set aside under rule 38."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 16 candidate lemmas across the 24 verses. Every difference is licensed by the ASV: waw → Now/and (rule 14); בֵּן → the son / son / the sons / were the sons according to whether the ASV writes a determiner, a possessive rectum (Solomon's son, 3.10), a plural for the singular construct (3.19, 3.21, 3.23, margin 'Hebrew son'), or a copula; שֵׁנִי → the second (3.1, no article morpheme, supplied the joins the ordinal) vs second (3.15, written article takes the); names with or without of as construct rectum (rule 19).",
+    "לְ: the לְ before each mother's name takes the of/by the ASV writes (3.1, 3.3, 3.5); the לְ of 3.2 stands before the son's name (לְאַבְשָׁלוֹם) and the ASV writes nothing for it, so unrepresented under rule 40 is correct. This is the single BSB disagreement, and it is the documented convention difference (BSB attaches the preposition to its phrase), not an error.",
+    "The one added unit (3.9 'these') answers to no morpheme in the verse; the note names the competing כֹּל → All these reading. The one 3-morpheme unit (3.9 מִלְּבַד → besides) matches corpus precedent (1KI.10.13) and is headed on the construct noun under rule 30.",
+    "Compound names MACULA segments as two Np tokens (Bath-shua 3.5, Jushab-hesed 3.20) are one unit against the ASV's two tokens in both verses. No patches; no promotion — the chapter teaches nothing the contract does not already say."
+  ]
+}

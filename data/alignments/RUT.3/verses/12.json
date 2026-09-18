@@ -1,0 +1,190 @@
+{
+  "alignments": [
+    {
+      "note": "Waw of the pair And now takes And (rule 14).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The discourse adverb takes the word writing its own lexeme, now (rule 14).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Two ki particles stand in the verse and the ASV writes one that; it stands before the complement clause, so the second particle takes it and this asseverative one goes unrendered (rules 22, 42).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The clause is verbless and its subject is the ki clause the ASV extraposes and renders in full further on, so this anticipatory it fills a subject slot English cannot leave empty and denotes nothing the verse names: it is added (rules 25, 20). Rule 20's carve-out for an impersonal it inside a morpheme's own fixed rendering does not reach it, since the ASV writes amnam elsewhere as of a truth, indeed and no doubt, with no such frame; rule 44's impersonal recasting governs a clause with a verb in it, which this has not.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The adverb is the predicate of this verbless clause and takes the construction-supplied copula together with the word carrying its lexeme (rules 20, 31); head on true.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The particle standing before the complement clause takes the written that.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Predicate participle with the construction's copula and indefinite article; near is the ASV's specifier and the head stays on kinsman, the class noun the ASV writes alone for goel later in this verse (rules 20, 15, 31).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Explicit pronoun takes I; the copula goes to the predicate (rule 20).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "The waw is rendered howbeit, which the ASV's open connective list includes (rule 14).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "The ASV writes one connective for the waw and this adverb together, and howbeit carries the adversative rather than this particle's additive sense, so the particle goes unrendered (rule 14).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The existential particle takes the presentative frame there is, headed on the word carrying the existence; the dummy there is supplied by English syntax (rules 43, 50).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "The indefinite article belongs to the noun that licenses it (rule 15).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Adjective rendered by the comparative nearer.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Comparative preposition rendered than (rule 24).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Suffix takes I (rule 18).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "RUT.3.12",
+  "review_notes": [
+    "Corrected: the it of it is true is now its own added unit. The clause is verbless and the ki clause is its extraposed subject, so the pronoun is the anticipatory expletive rule 25 marks added, while the copula stays on the predicate adverb under rule 20. RUT.3.14's Let it be known is the other case, where a verb stands to be recast and rule 44 keeps the pronoun with it.",
+    "The verse writes two ki particles and the ASV one that; the that stands before the complement clause, so the second particle takes it and the first is unrepresented (rule 42's counting).",
+    "howbeit is given to the waw and the gam is unrepresented, since the one English word carries the coordination rather than the additive sense."
+  ]
+}

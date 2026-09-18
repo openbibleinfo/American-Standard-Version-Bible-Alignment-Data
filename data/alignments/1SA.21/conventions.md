@@ -1,0 +1,6 @@
+# 1 Samuel 21 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **1SA.21.8** — גַּם … וְגַם under a clause negative rendered *neither … nor* (כִּי גַם־חַרְבִּי וְגַם־כֵּלַי לֹא־לָקַחְתִּי → *I have neither brought my sword nor my weapons*): the present לֹא takes the opening *neither* and the waw of the second member takes the closing *nor*, as rule 14 directs for a correlative pair another morpheme is itself what the opening word says; both גַּם are their own `unrepresented` units, since the ASV writes no *both*, *also* or *even* for either. The competing reading that gives *neither*/*nor* to the two גַּם was considered and set aside.
+- **1SA.21.7** — בַּיּוֹם הַהוּא rendered by the bare *that day* (21.7 *was there that day*, 21.10 *fled that day*): the בְּ is `unrepresented` under rule 40, the assimilated article [הַ] and the agreement article on הוּא are both `unrepresented`, יוֹם takes *day*, and the demonstrative pronoun הוּא takes the written *that* under rule 41. The same allocation is used for הַדְּבָרִים הָאֵלֶּה → *these words* in 21.12.

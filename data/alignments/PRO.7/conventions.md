@@ -1,0 +1,5 @@
+# Proverbs 7 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Head of a modifier-plus-generic rendering. Where a Hebrew substantive is rendered by an English modifier and a generic noun, this chapter heads on the modifier, by rule 31's subtraction: `פְּתָאיִם` → *the simple ones* on *simple*, `רְחֹבוֹת` → *broad places* on *broad*, `שְׁלָמִים` → *peace offerings* on *peace*, `חֲטֻבוֹת` → *striped cloths* on *striped*, `עֲצֻמִים` → *a mighty host* on *mighty*, `כֶּסֶא` → *full moon* on *full*. The one unit headed on the noun is `נַעַר` → *A young man* at PRO.7.7, where rule 31's class-noun tie-break is met: the ASV writes a bare *the man* for `אִישׁ` at PRO.7.19, so *young* is the specifier distinguishing one class word from another. Read the chapter for that usage before moving a head onto the English noun; where no same-class word is written alone, the modifier heads.

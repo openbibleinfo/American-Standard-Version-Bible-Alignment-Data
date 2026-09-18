@@ -1,0 +1,169 @@
+{
+  "alignments": [
+    {
+      "note": "Article governing εὐποιΐας (and κοινωνίας). The ASV recasts both nouns as infinitives, 'to do good and to communicate', writing no determiner for either, so the article has nothing to anchor and is its own unrepresented unit under rule 23.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "δέ → But.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "One Greek noun rendered by an English infinitival phrase; the infinitival *to* is a rule 7 helper on its verb under rule 61, no preposition governing the construction. Head on *good* under rule 17's meaning-bearing-complement clause, which heads a light-verb rendering on its complement as `make straight` heads on *straight*. Rule 91's lemma test returns nothing for `εὐποιΐα`, so rule 104 sends the query to the neighbouring class, and the English phrase is the class that answers it: the corpus renders this collocation at 3JN.1.11 twice — `ἀγαθοποιῶν` → *that doeth good* headed on *good* and `κακοποιῶν` → *that doeth evil* headed on *evil*, both unhedged, the note saying in terms that the complement is the meaning-bearing word. The `do well` units head on *do* instead — 1PE.2.14, 1PE.2.20, 1PE.3.6 — but there the complement is adverbial rather than nominal, and all three are hedged with two conceding *well*, so they do not govern a nominal complement. Heading on *do* was the competing reading and rested on a prefix-versus-stem test the corpus does not support: `δυσνόητος` → *hard to be understood* heads on *hard* at 2PE.3.16 and `ἀγαθοποιῶν` → *that doeth good* on *good*, so the head follows the English phrase's lexical nucleus and not which morpheme a word answers to.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "καί → and.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "κοινωνίας → 'to communicate', the infinitival marker riding with its verb under rules 7 and 61.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Ordinary negative μή → not; rule 44 does not touch it, the clause being an imperative and not a question.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "ἐπιλανθάνεσθε → forget.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Attributive demonstrative → such. The Greek is anarthrous here, so rule 38 raises no question of an article to empty.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "γάρ → for.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Dative noun rendered 'with … sacrifices'. No article stands to anchor the case preposition, so under rule 21's determinerless clause 'with' stays with the noun; the unit is discontinuous across the demonstrative under rule 15.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Passive verb with its supplied subject-less auxiliary; rule 9 keeps 'is' inside the unit and rule 17 puts the head on the lexical word. Head on 'pleased' rather than 'well' by rule 104's εὐ- test, the corpus heading εὐάρεστος → 'well pleasing' on 'pleasing'.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Article before θεός with no English determiner written; unrepresented under rule 23.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "θεός → God.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "HEB.13.16",
+  "review_notes": [
+    "Every s### and t### id is partitioned exactly once; 13 source and 17 target tokens accounted for.",
+    "Two article units (s001, s012) are unrepresented under rule 23 — the ASV writes no determiner for either the recast infinitival phrase or the bare 'God'.",
+    "Both εὐ- compounds (s003, s011) are headed on the stem word by rule 104's operational query rather than on the prefix's English; the competing heads 'good' and 'well' are named in the notes.",
+    "s010 is discontinuous under rule 15, 'with' riding with the noun because no article stands to anchor it (rule 21, determinerless clause)."
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "chapter": "2CO.5",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.2CO.5.3.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "εἴ γε and εἴ περ are both conditional particles rendered alike; ASV's 'if so be that' distinguishes neither, and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.5.3.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'being clothed we shall not be found naked', rendering ἐνδυσάμενοι; ἐκδυσάμενοι would give 'being unclothed'."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.5.5.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV has 'who gave unto us the earnest of the Spirit' with no adverbial 'also'; the RP addition ὁ καὶ δούς would be rendered 'who also gave'."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.5.10.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "φαῦλον and κακόν are both rendered 'bad' in ASV's 'whether it be good or bad'; the only note here is a greek_gloss on another word."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.5.12.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV opens 'We are not again commending ourselves unto you' with no causal 'for'; the RP γάρ would be rendered."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.5.12.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's 'and not in heart' translates the negated dative alike whether the preposition ἐν is repeated (μὴ ἐν καρδίᾳ) or not (οὐ καρδίᾳ); English supplies 'in' either way."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.5.14.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'because we thus judge, that one died for all, therefore all died' — a declarative ὅτι clause with no conditional 'if', which the RP ὅτι εἰ would require."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.5.16.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV has 'even though we have known Christ after the flesh' (εἰ καί) with no connective rendering the RP δέ."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.5.17.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'behold, they are become new' without 'all things', which the RP τὰ πάντα καινά would supply."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.5.18.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'through Christ'; the RP addition would give 'through Jesus Christ'."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.5.21.v011",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV opens 'Him who knew no sin he made to be sin' with no 'for'; the RP γάρ would be rendered."
+    }
+  ]
+}

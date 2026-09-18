@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "233e13c697b11b4a2c3d951f2f7ad0ae8af65cf709410c36cc6bcea064e7a976",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 20 source and 37 target IDs partition exactly once; the `added` unit has an empty source array and null source head.",
+    "*until now* is `added` rather than folded onto `παρηκολούθηκας`: no source token licenses it, and rule 7's helper class does not reach supplied adverbial lexical content whose candidate licensor has already spent its English (rule 103's principle). Reading it as part of the perfect's rendering remains defensible, and the unit's note records that.",
+    "*of these things* keeps the supplied *of* with `Ταῦτα`, headed on *these* under rule 17's generic-noun clause; the frame *put … in mind* is the participle's own English and heads on *put*, discontinuously under rule 15.",
+    "`καλὸς διάκονος` is anarthrous throughout, so rule 58 gives the supplied *a* to the noun and leaves the adjective bare.",
+    "`Χριστοῦ` and `Ἰησοῦ` are split as separately recoverable names under rule 17 rather than sharing one head."
+  ],
+  "ref": "1TI.4.6",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

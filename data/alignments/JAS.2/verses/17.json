@@ -1,0 +1,155 @@
+{
+  "alignments": [
+    {
+      "note": "οὕτως takes the whole English correlative *Even so*, headed on *so* under rule 17. The corpus is unanimous: in all thirteen units where οὕτως stands with a separate καί the correlative is the adverb's own and is never split across the two — *even so* headed on *so* at JHN.5.21, JHN.5.26, 2CO.1.5 and EPH.5.28, and a bare *so* at 2CO.1.7, 2CO.8.6, EPH.5.24, GAL.4.29 and JAS.1.11 — and rule 82 forbids in terms heading such a unit on *even*. JAS.1.11 has no comparative particle before it and still splits this way, so the absence of a preceding ὥσπερ here licenses nothing. Competing reading: give *Even* to καί as its direct gloss under rule 26; declined because rule 82 confines that bare-even gloss to where the ASV writes no correlative at all (2CO.11.12, EPH.2.3), and reading the *so* out of this unit in order to claim none competes is circular. Analysed as at JAS.2.26 under rule 24.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Adjunctive καί, decided on the English alone under rule 65: `aligned` where the ASV gives it a word, `unrepresented` where it does not. The ASV writes no *also* here, and *Even so* is already οὕτως's own corpus expression (see the s001 note), so nothing is left for the particle. Where the ASV does write a separate *also* the corpus aligns it there and still leaves *even so* whole on the adverb — JHN.5.21, JHN.5.26, 2CO.1.5, EPH.5.28. A reference comparison will report this token as a disagreement, and that report is not a correction.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The ASV writes a bare *faith* with no determiner, so the article has no English realization and is its own unit under rule 23; rule 21 forbids leaving a bare case word on it, and no possessive, demonstrative or indefinite is supplied for it to take under rules 20, 51 or 60.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "πίστις → *faith*, standing bare since its article is unrepresented.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Ordinary conditional ἐάν → *if*, untouched by rule 72's generalizing case.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Ordinary negative μή → *not*, aligned like any other under rule 44's closing clause. Rules 41 and 59 do not apply: ἔργα is not a negative indefinite, and the ASV writes the negation in *not*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "The inflected verb takes its English subject pronoun and lexical verb under rule 9, headed on *have* rather than on *it*. The unit is discontinuous around *not*, which belongs to μή, as rule 15 permits.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "ἔργα → *works*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Predicate adjective νεκρά → *dead*. The Greek expresses its own copula in ἐστιν, so rule 53's supplied-copula question does not arise and the copula stays with s010.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Expressed ἐστιν → *is*, its own unit; the predicate adjective keeps only *dead*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "κατά → *in*. The ASV spreads the prepositional phrase over two separate words, so rule 94's precondition for a compound unit is not met and rule 2 splits the pair; rules 45 and 35 are therefore not in question.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Reflexive ἑαυτήν → *itself*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    }
+  ],
+  "ref": "JAS.2.17",
+  "review_notes": [
+    "Reviewed and left unchanged: all twelve units stand as accepted, with two notes lightly expanded (s002 now cites rule 82's bare-*even* precedent by name; s007 now cites rule 15 for the discontinuity). No unit's ids, status or heads were altered.",
+    "Variant SBLGNT.JAS.2.17.v016 is underdetermined and resolves to r00-base, covering s007 and s008; it carries no FALLBACK EXCLUDED BY EVIDENCE mark, so rule 97 does not apply and no textual decision is made here under rule 12.",
+    "The only materially contested unit is the *Even so* split: s001/s002 each take a word, against the reading that treats *Even so* as one realization of οὕτως with καί unrepresented. Noted on both units. The split is the better reading because rule 65 decides an intensifying καί on the English alone and rule 82 names a bare *even* as what καί answers to where no *so* competes for it; here *so* is already οὕτως's own word, so nothing forces the fused reading.",
+    "κατ᾽ ἑαυτήν was rechecked against rules 94, 45 and 35: the ASV writes two English words, so rule 94's precondition for a compound prepositional unit fails and neither the aligned-portmanteau nor the noncompositional reading is available. *in* stays on the preposition under rule 36.",
+    "The article s003 was rechecked against rules 19, 21, 51, 57 and 60: the ASV supplies no determiner of any kind for *faith*, definite, indefinite or demonstrative, so rule 23 is the case and the unrepresented status is not a convenience grouping.",
+    "All 12 source and 12 target ids are partitioned exactly once; no added or noncompositional units were needed, and every head is a member of its own array."
+  ]
+}

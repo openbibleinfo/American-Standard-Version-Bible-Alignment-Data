@@ -1,0 +1,31 @@
+{
+  "chapter": "NUM.32",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "NUM.32.28"
+  ],
+  "rejected": {},
+  "conventions": [
+    "A generic English noun the ASV supplies to complete a present substantive's phrase joins that substantive's unit and heads on the word carrying the lexeme (rule 31), whether the substantive is an adjective or participle - טַף to 'little ones' (vv. 16, 17, 24, 26), חָלוּץ to 'armed man' (v. 21) - or a noun the ASV recasts as the possessor of the supplied English head noun - אֲבוֹת to 'of the fathers houses' (v. 28). In this chapter 'added' is reserved for a supplied lexical verb (the 'to go' of vv. 17 and 20), a supplied possessive with no suffix in the phrase (vv. 33, 38), and an appositional 'even' standing before a phrase no object marker marks (v. 33, twice).",
+    "Where the ASV writes 'to go before' for לִפְנֵי (vv. 17, 20), the fused לִפְנֵי takes 'before' alone and the supplied 'to go' is its own added unit under rule 20, since nothing in the clause is diminished by dropping it. Both verses are aligned that way, and both notes name the competing reading, which takes the whole 'to go before' as the preposition's rendering.",
+    "מֵעֵבֶר לַיַּרְדֵּן is split in v. 19 and fused in v. 32 because the ASV writes three words in the one place and one in the other, not because the chapter analysed it twice: 'on the other side of the Jordan' gives 'on' to מִן, 'the other side' to עֵבֶר and 'of' to the לְ, while 'beyond the Jordan' meets rule 30's one-rendering condition, fuses מֵעֵבֶר headed on the noun and leaves the לְ unrepresented under rule 40. The same reading governs the construct מֵעֵבֶר הַיַּרְדֵּן later in v. 19, where rule 19 puts the 'of' on the rectum.",
+    "The reflexive English pronoun beside Niphal חלץ answers to different morphemes in vv. 17 and 20, and the source licenses the difference: v. 17 writes an explicit אֲנַחְנוּ and the ASV's 'we ourselves' is emphatic apposition to that pronoun, so both words are the pronoun's; v. 20 writes no pronoun and its 'yourselves' renders the Niphal's own voice, which rule 44 keeps with the verb."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v124",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 64 candidate lemma groups, then read the dump end to end for the added-versus-folded question the lemma table is blind to. One real split, in NUM.32.28.",
+    "The split: a generic English noun the ASV supplies to complete a present substantive's phrase is folded into that substantive's unit everywhere else in the chapter - טַף to 'little ones' (vv. 16, 17, 24, 26), חָלוּץ to 'armed man' (v. 21) and 'man that is armed' (vv. 27, 29) - but v. 28 marked the italic 'houses' of אֲבוֹת to 'of the fathers houses' as added. Rule 31 governs that word: it joins the substantive's unit and the head stays on 'fathers', the word whose loss loses the lexeme. Rule 20's added clause reaches a supplied lexical verb and expressly excludes rule 31's generic completion, and rule 33's added clause requires the function word to be supplied as well, whereas here the construct relation carries the 'of'. Patched, with the competing reading now named in the unit note under rule 8.",
+    "Corpus precedent for the italic 'houses' in the formula רָאשֵׁי אֲבוֹת was not in the packet - אָב was not among the lemmas dumped. The patch rests on the contract as written rather than on precedent. A later corpus pass over LEMMA=אָב with TARGET='houses' would confirm it or reopen it; it is one target token either way, which is why this was not made an evidence request.",
+    "Candidates checked and rejected, with what licenses each difference: מֵעֵבֶר לַיַּרְדֵּן split in v. 19 ('on the other side of') and fused in v. 32 ('beyond'), which is rule 30's one-rendering condition meeting two different English renderings; Niphal חלץ with 'we ourselves' in v. 17, emphatic apposition to an explicit אֲנַחְנוּ, against 'arm yourselves' in v. 20, the verb's own voice with no pronoun written; 'had' on הָיָה in v. 1 against 'have' on the possessive לְ in v. 4, which is the pair rule 43 prescribes; אֵת taking 'to'/'unto' in vv. 28 and 38 against thirty-odd unrepresented markers, rule 16's first family; the article on הַגִּלְעָד and הַבָּשָׁן taking the written 'the' in vv. 26 and 29 and unrepresented in vv. 33 and 40, which is rule 29's count of the ASV's 'the's; הַ to 'that' in v. 13 (attributive) against 'that which' in v. 24 (substantival); and four unrepresented waws (vv. 2, 9, 15, 30), each where the ASV opens the clause with no connective.",
+    "BSB: no disagreement is a genuine error. Every one falls in a documented convention class - R x16 (the לְ of לֵאמֹר, the dative לְ before a bare English indirect object, the possessive לְ silenced where a written הָיָה carries the 'had'), Sn x4 (paragogic nun, which rule 32 names as the bulk of these), Td x11 (articles left unrendered where a demonstrative takes the phrase's one determiner or the ASV writes no 'the'), C x4 (waws the ASV does not render), plus NUM.32.4 הִוא (resumptive subject pronoun the ASV renders once, rule 22) and NUM.32.32 לַ ('beyond the Jordan' writes nothing for its relation, rule 40). No accepted edge was changed to move the rate.",
+    "Left standing but worth a later reader's eye: v. 32's italic 'shall remain' on אִתָּנוּ, taken as rule 49's relational verb written where a copula would stand, with the added reading named in its note; and v. 38's supplied 'other' on שֵׁמֹת, which matches the chapter's own folding of supplied 'the other' and 'this' into עֵבֶר in v. 19.",
+    "Four conventions recorded, none of them a restatement: the supplied-generic-noun rule the patch turns on, the treatment of the supplied 'to go' beside לִפְנֵי in vv. 17 and 20, the מֵעֵבֶר לַיַּרְדֵּן pair, and the חלץ reflexive pair. No promotions: rules 20, 31 and 33 already decide the v. 28 case as written, so what failed there was application and not text, and a rule written from one token in a formula this frequent could collide with precedent the packet did not carry."
+  ]
+}

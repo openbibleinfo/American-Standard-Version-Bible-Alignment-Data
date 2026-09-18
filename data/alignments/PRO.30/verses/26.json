@@ -1,0 +1,144 @@
+{
+  "alignments": [
+    {
+      "note": "Supplied determiner joins the noun under rule 15.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Nominal predicate with the construction-supplied copula and its indefinite article; discontinuous around *but* and the attributive under rule 25.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t005",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "The restrictive *but* answers to no morpheme in the clause and is added under rule 30.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "לֹא־עָצוּם is rendered by the single *feeble*, which carries both the negation and the adjective's sense; one unit under rules 30 and 35, headed on the morpheme carrying the lexeme. Heading on the negative was the competing reading under rule 23.",
+      "source": [
+        "s003",
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Waw rendered by the connective *Yet* under rule 14.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Verb with subject pronoun; the ASV inverts the order.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Preposition to *in*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "The assimilated article takes the written *the* under rule 12.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Noun to *rocks*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Noun to *houses*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Suffix to *their*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    }
+  ],
+  "ref": "PRO.30.26",
+  "review_notes": [
+    "*feeble* fuses the negative with עָצוּם rather than leaving one of them unrepresented, which rule 30 forbids where the one English word carries both senses.",
+    "*but* in *are but a feeble folk* is a restrictive adverb no morpheme licenses, so it is added."
+  ]
+}

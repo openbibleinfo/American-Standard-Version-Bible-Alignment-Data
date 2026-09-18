@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "chapter": "2KI.8",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2KI.8.1.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'go thou' renders the 2fs pronoun; qere אַתְּ and ketiv אתי are spelling variants of the same pronoun and the English cannot distinguish them. No mapped note. Base qere fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.2KI.8.10.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV main text 'say unto him, Thou shalt surely recover' renders qere ל֖וֹ ('to him'); the mapped textual_variant note 'Another reading is, say, Thou shalt not recover' identifies ketiv לא as the alternative the ASV did not follow in its text."
+    },
+    {
+      "unit_id": "WLC.2KI.8.17.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'eight years' is the idiomatic English for the numeral phrase whether the noun is plural qere שָׁנִים or singular ketiv שנה; the English does not distinguish. No mapped note. Base qere fallback carries the projection."
+    }
+  ]
+}

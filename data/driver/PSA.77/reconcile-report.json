@@ -1,0 +1,24 @@
+{
+  "chapter": "PSA.77",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Second-colon question auxiliary: where the second colon of a double question carries its own particle (אִם in 77.9) that particle takes the rewritten auxiliary (Hath); where the second colon is asyndetic (77.8 גָּמַר אֹמֶר) the rewritten auxiliary (Doth) is the first הֲ's distributed occurrence under rule 25, headed on the first, and is not given to the colon's verb."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 20 candidate lemmas end to end. Every multi-treatment bucket is licensed by the ASV's own wording or by a morpheme present in one verse and absent in the other: וְ C→Tn (and / so that / And) follows the ASV's connective; C→Vqh1cs (77.1 unrepresented, 77.3 and) follows the ASV fronting the cohortative in 77.1 and writing 'Even' at an asyndetic colon head; הַ Td→Ncbsa (77.18 The, 77.20 unrepresented before 'a flock') follows rules 12/15; בְּ Rd→Td variants are the copula-bearing prepositional predicates of rule 49 beside plain adjuncts.",
+    "Cross-verse constructions confirmed consistent: title suffix of אֲדֹנָי unrepresented (77.2, 77.7); 'for ever' split לְ→for + noun→ever (77.7, 77.8); מִקֶּדֶם → of / old (77.5, 77.11); vocative O God on the noun (77.13, 77.16); אַף→also (77.16, 77.17); assimilated article to 'the' wherever the ASV writes one; prepositional predicate copula (77.13, 77.18, 77.19); interrogative particle takes the fronted auxiliary (77.7, 77.8, 77.9), with the second-colon auxiliary going to אִם where it stands (77.9) and to the first particle's distributed unit where the colon is asyndetic (77.8). The four added units (Even 77.1, his 77.8, But I will remember 77.10, thine 77.15) are each a run no morpheme licenses and are consistent with each other.",
+    "BSB disagreements: all five are convention differences, none an error. 77.1 waw: the ASV fronts the verb and writes no connective for it; 'Even' opens the asyndetic second colon. 77.2/77.7 Sp1cs: lexicalized title suffix (rule 57). 77.7 לִ before the infinitive complement: no English word (rules 40/52). 77.7 עוֹד: pleonastic beside יֹסִיף, the one 'more' given to the finite verb under rule 56 with the competing allocation noted.",
+    "Two verse-level judgment calls reviewed and left in place with their notes: 77.4 'so ... that' placed on the waw as a discontinuous result correlative (competing: 'so' added, 'that' to the waw); 77.7 'no more' divided לֹא→no, יֹסִיף→more, עוֹד unrepresented (competing: לֹא עוֹד→no more fused). Neither is a cross-verse split and neither is patched.",
+    "No promotion or amendment: the chapter's one arguably general point, an interrogative particle distributed over an asyndetic parallel colon, is already covered by rule 25's closing sentences."
+  ]
+}

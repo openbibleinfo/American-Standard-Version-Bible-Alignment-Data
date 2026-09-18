@@ -1,0 +1,190 @@
+{
+  "alignments": [
+    {
+      "note": "The ASV renders this clause at the end of its verse 30, so no target token of this verse answers to the waw (rule 10).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Preposition of the flocks clause, rendered in the ASV's preceding verse.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Article of the flocks clause, rendered in the ASV's preceding verse.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun of the flocks clause, rendered in the ASV's preceding verse.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Proper name of the flocks clause, rendered in the ASV's preceding verse.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Article of the flocks clause, rendered in the ASV's preceding verse.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Gentilic of the flocks clause, rendered in the ASV's preceding verse.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Quantifier takes *All*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Demonstrative.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Verbless clause: the construction-supplied copula joins the nominal predicate (rule 20), which takes a supplied *the*, the rectum's article holding the *the* before its own word (rule 29).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Article takes the *the* standing before its own word.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Rectum takes *of* (rule 19).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Written relative takes *which*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The possessive `לְ` is written inside the following English genitive rather than by a preposition of its own, so it shares that word's unit and the clause's copula joins it (rule 49's fused-genitive paragraph); headed on the word carrying the lexeme. The unit is discontinuous around *king* under rule 25.",
+      "source": [
+        "s014",
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Assimilated article: the ASV writes no *the* before *king* (rules 12 and 29).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    }
+  ],
+  "ref": "1CH.27.31",
+  "review_notes": [
+    "The ASV renders `וְעַל־הַצֹּאן יָזִיז הַהַגְרִי` at the end of its verse 30, so s001–s007 are `unrepresented` here; the corresponding English is `added` in this alignment's v30 (rule 10).",
+    "The fused `לְ` + `דָּוִיד` unit is discontinuous around the written `מֶלֶךְ`; the competing reading fuses the preposition with `מֶלֶךְ` instead, but the English possessive marker stands on *David's*."
+  ]
+}

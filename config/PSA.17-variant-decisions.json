@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "PSA.17",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PSA.17.11.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The two readings differ in the pronominal suffix: qere סְבָב֑וּנוּ is 1cp ('compassed us'), ketiv סבבוני is 1cs ('compassed me'). ASV PSA.17.11 renders 'They have now compassed us in our steps', and continues 'to cast us down', so the English carries the plural object throughout and distinguishes the qere. No note is attached to this unit."
+    },
+    {
+      "unit_id": "WLC.PSA.17.14.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere וּֽצְפוּנְךָ֮ and ketiv וצפינך differ only in the vowel letter (waw vs yod) of the same root צפן with 2ms suffix; both yield 'thy hidden store / thy treasure' with the same syntax and the same 'and' conjunction. ASV 'And whose belly thou fillest with thy treasure' renders that sense without preferring either spelling, and neither ASV note bears on this unit — both are classed alternative_rendering and concern the wording of 'men who are thy hand' and 'whose portion in life', not the reading here. Nothing in the English excludes either candidate, so both remain compatible and the qere base fallback carries the projection."
+    }
+  ]
+}

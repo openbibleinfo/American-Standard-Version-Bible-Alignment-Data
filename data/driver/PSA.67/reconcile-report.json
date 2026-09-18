@@ -1,0 +1,23 @@
+{
+  "chapter": "PSA.67",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Appositional כֻּלָּם after a bare plural noun (עַמִּים כֻּלָּם) rendered 'all the peoples': כֹּל takes 'all', the noun takes 'the peoples' with its supplied the, and the 3mp suffix is unrepresented because the ASV writes no 'of them' (rules 19, 40). Applies identically in 67.5; BSB attaches the suffix to 'all' and disagrees by convention. The gloss on s008/s009 is reversed (rule 39)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all eight candidate lemmas; every difference is licensed by the ASV's wording, not a split. הוּא suffixes vary by person and case; אֱלֹהִים is 'O God' only where vocative (67.3, 67.5); אֶרֶץ is bare 'earth' after the assimilated article in 67.2/67.4 (article unrepresented, rule 12), 'The earth' with a supplied the in 67.6 where no article morpheme stands (rule 15), and the rectum 'of the earth' in 67.7 (rule 19); בָּרַךְ is a bare jussive 'bless' in 67.1 and 'will bless' in 67.6/67.7; הַ takes 'the' in 67.0 where the ASV writes one; אֵת is the preposition H854 → 'upon' in 67.1 and the marker H853 unrepresented in 67.7; לְ is 'For' (dedicatory) in 67.0 and the purpose complementizer 'that' in 67.2 (rule 52).",
+    "Read the dump for added-vs-folded splits the table cannot see: the two added units (67.1 'And' before an asyndetic colon, rule 14; 67.6 appositional 'even' with no marker or waw, rule 16) are the only supplied connectives in the chapter and no verse folds a comparable word into a neighbour. The refrain verses 67.3 and 67.5 are token-for-token identical in analysis.",
+    "BSB disagreements (67.3 s009, 67.5 s009, 67.4 s015) are convention differences, not errors: BSB attaches the appositional כֻּלָּם suffix and the resumptive object suffix to their host renderings, while this project marks a suffix the ASV writes no pronoun for unrepresented (rules 19, 22, 40). No edge changed.",
+    "No promotion: the chapter teaches nothing the contract does not already state."
+  ]
+}

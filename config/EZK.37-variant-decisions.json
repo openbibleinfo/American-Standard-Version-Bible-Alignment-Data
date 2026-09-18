@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "chapter": "EZK.37",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.EZK.37.16.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders a plural: \"for the children of Israel his companions\". The qere חֲבֵרָיו is plural \"his companions\"; the ketiv חברו is singular \"his companion\". English number distinguishes the two, so the qere is selected. The mapped note is classed alternative_rendering (\"Or, of\") and bears only on the English wording of the preposition, not on the reading."
+    },
+    {
+      "unit_id": "WLC.EZK.37.16.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders a plural at the second occurrence too: \"for all the house of Israel his companions\". The qere חֲבֵרָיו is plural, the ketiv חברו singular; the English plural selects the qere. The note \"Or, of\" is an alternative_rendering and does not touch the reading."
+    },
+    {
+      "unit_id": "WLC.EZK.37.19.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads \"the tribes of Israel his companions\" — plural, matching the qere חֲבֵרָיו against the singular ketiv חברו. The mapped note is classed alternative_rendering and concerns how the following clause is phrased in English, so it does not bear on this unit."
+    },
+    {
+      "unit_id": "WLC.EZK.37.22.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The only variation is Hebrew verb number: plural qere יִהְיוּ against singular ketiv יהיה. The subject is plural either way (\"they ... two nations\"), and English requires a plural verb with a plural subject regardless of Hebrew agreement, so \"they shall be no more two nations\" is the natural rendering of both. No italicized supply and no mapped textual_variant note distinguishes them; the qere base fallback carries the projection."
+    }
+  ]
+}

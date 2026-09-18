@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "chapter": "TIT.2",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.TIT.2.3.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "μηδὲ and μὴ are both simple negatives before διαβόλους; ASV 'not slanderers nor enslaved to much wine' renders either identically, and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.TIT.2.4.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "r00/r01 differ only by movable nu, which no English can show. ASV 'that they may train the young women' renders the ἵνα clause as purpose, which translators supply for ἵνα with the indicative σωφρονίζουσιν as readily as for the subjunctive; the wording does not distinguish mood here."
+    },
+    {
+      "unit_id": "SBLGNT.TIT.2.5.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'workers at home' renders οἰκουργούς (work at home); οἰκουρούς means keepers/guardians of the house, which ASV deliberately revised away from KJV's 'keepers at home'."
+    },
+    {
+      "unit_id": "SBLGNT.TIT.2.7.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἀφθορίαν and the compounded ἀδιαφθορίαν carry the same sense; ASV's single word 'uncorruptness' fits either and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.TIT.2.7.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV lists exactly two qualities in the doctrine — 'uncorruptness, gravity' — with no rendering of a further ἀφθαρσίαν, so the added noun is absent from the text ASV translated."
+    },
+    {
+      "unit_id": "SBLGNT.TIT.2.8.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The readings differ only in the order of λέγειν and περὶ ἡμῶν; ASV 'having no evil thing to say of us' follows English word order and cannot show which Greek sequence stood behind it."
+    },
+    {
+      "unit_id": "SBLGNT.TIT.2.10.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Only the order of πᾶσαν and πίστιν differs; ASV 'showing all good fidelity' places the adjective before the noun as English requires either way."
+    },
+    {
+      "unit_id": "SBLGNT.TIT.2.10.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'the doctrine of God our Saviour' is definite either way: an anarthrous noun made definite by its following genitive is regularly rendered with 'the', so the English does not report the article's presence."
+    },
+    {
+      "unit_id": "SBLGNT.TIT.2.11.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The added ἡ only makes σωτήριος attributive rather than predicate; ASV renders it as the separate phrase 'bringing salvation to all men', which suits both. The verse's only note is classed alternative_rendering and concerns English phrasing, so it cannot decide the unit."
+    },
+    {
+      "unit_id": "SBLGNT.TIT.2.13.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV prints 'Jesus Christ', matching Ἰησοῦ Χριστοῦ; ASV renders the name order of its text and writes 'Christ Jesus' where Χριστοῦ Ἰησοῦ stands. The mapped note is alternative_rendering about 'our great God and Saviour' and does not bear on the name order."
+    }
+  ]
+}

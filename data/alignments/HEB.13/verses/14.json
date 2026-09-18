@@ -1,0 +1,138 @@
+{
+  "alignments": [
+    {
+      "note": "Postpositive γάρ realized by the clause-initial For.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Inflected verb takes its supplied English subject under rules 7 and 9; head on the lexical verb have, not the pronoun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Ordinary negative οὐ aligned to not. No negative indefinite stands in the clause, so rules 41 and 59 do not arise.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Adverb ὧδε → here.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Attributive participle rendered by the bare adjective abiding; the supplied determiner goes with the noun under rule 58.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Anarthrous Greek with a supplied determiner: rule 58 gives the determiner to the noun, so the discontinuous an … city is one unit under rule 15, headed on city.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "ἀλλά → but.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Supplied subject we is a rule 7 helper; after is the compound verb's own particle, no Greek preposition being expressed for rule 36 to attach it to. Head on the lexical verb seek.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "The article governs no expressed noun of its own, and the ASV supplies both a determiner and the nominal *city* for it; rules 22, 49 and 102 make both words the article's and head the unit on the supplied nominal rather than on *the*. Rule 103 is the competing reading and has to be ruled out by name, because `πόλιν` is expressed and already spent on *an abiding city* earlier in this same verse, which is rule 103's stated trigger for marking supplied lexical content `added`. Rule 103's own scope is what leaves room here: it says that **rule 7** does not fold such content, its whole rationale being that a full lexical noun is not on rule 7's helper list, whereas rules 22, 49 and 102 fold onto an article by a different mechanism — the article's own determiner slot — and not as a rule 7 helper. The corpus is genuinely split on supplied repeated nominals and neither reading is safe to assert as settled: where the supplied noun is the **article's own elided head**, as it is here, the fold runs about nine to three (JAS.1.25, 1JN.4.3, JHN.20.19, JHN.15.2, REV.3.10, GAL.2.20 and 1JN.1.2 folding, against JHN.1.9, 2CO.3.7 and REV.4.1 adding); where the supplied noun instead heads a phrase an articular genitive merely modifies, the fold is the minority reading, REV.11.15 and JAS.2.1 against GAL.2.7, REV.20.12 and REV.16.12. This unit is in the first class. The contrary reading — `τήν` `unrepresented` and *the city* `added` with its determiner inside the unit — remains defensible and is what a literal reading of rule 103 gives; JHN.1.9's *even the light* is the nearest unit that takes it.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Attributive participle rendered as a finite relative clause: the relativizer which and the copula is are helpers on the participle under rules 31, 7 and 9, and the infinitival to rides with its verb under rule 61. Head on the lexical verb come.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016",
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    }
+  ],
+  "ref": "HEB.13.14",
+  "review_notes": [
+    "All 10 source and 18 target ids partitioned exactly once.",
+    "s006 is discontinuous (t006, t008) around the participle's adjective, permitted by rule 15.",
+    "s008's head on the supplied city rather than on the is the one materially contested choice; the competing rule 32 reading is named in the unit's note."
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "9acc574cfcb7eebaa2c2afaa09b17cd98bc877ecac12b773a697caaec7748aa0",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Every unit's source and target membership, status and head is unchanged from the accepted alignment; the correction is confined to notes. The partition was already complete and correct — all 16 source ids and all 22 target ids appear exactly once.",
+    "The `τήν` unit's note previously described *of* as a case preposition. It is not: `τὴν γῆν` is the accusative object of `ἐθεμελίωσας`, and English marks no accusative with *of*. The *of* is licensed by the support frame *lay the foundation of*, which makes its placement a materially contested edge that rule 16 requires the note to name. The competing reading puts *of* inside the verb's unit (*didst lay the foundation of*) and leaves `τήν` a bare *the*, on the model of rule 91's TIT.3.2 `βλασφημεῖν` → *to speak evil of*. The article reading was kept because rule 67's article-carrier clause hands a determiner-bearing article a supplied frame's trailing *of* even where the case does not license it (`τὴν χάριν` → *in regard of this*, also accusative), and because TIT.3.2 had no determiner-bearing article competing for that word.",
+    "The head of `ἐθεμελίωσας` is the other contested point and the note now settles it by rule 91's operational test rather than by rule 17 alone: the lemma's corpus units spend *grounded* (EPH.3.17) and *establish* (1PE.5.10), neither of which appears here, so rule 104 sends the query to the root family, where `θεμέλιος` is *foundation*. That is positive evidence for *foundation* over *lay*, which the accepted note lacked.",
+    "The two articles of this verse are decided differently, and deliberately: `τήν` before `γῆν` takes the determiner under rule 21, while `τῶν` before `χειρῶν` is `unrepresented` under rule 20 because `σου` is free — rule 76's availability test — to take *thy*. A reference comparison will report the empty `τῶν` as a disagreement, and that report is not a correction.",
+    "`κατ᾿ ἀρχάς` is split rather than compounded because rule 94's precondition is a single English word and the ASV wrote three; `οἱ οὐρανοί` and `ἔργα` are crossed relative to the Greek order by the ASV's inversion of a fronted predicate nominal, which rule 15 permits, and no intervening word is absorbed. The vocative's move to second position is the same permission."
+  ],
+  "ref": "HEB.1.10",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

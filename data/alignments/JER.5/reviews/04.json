@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "7bc4fae2a730e7ab4d583c72e7b37b42b759a4ecda037c16ae7ddfc6c985f7cf",
+  "contract_version": "ot-hebrew-verse-v57",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 15 source and 24 target tokens are partitioned exactly once, with one `added` unit.",
+    "*nor* is correctly `added`: מִשְׁפַּט אֱלֹהֵיהֶם is asyndetic, the לֹא at s009 already has its *not*, and rule 35's fusion needs a waw to rest on.",
+    "Rule 20 is applied correctly in both clauses: the explicit pronouns אֲנִי and הֵמָּה take only *I* and *these*, while the supplied *are* joins the predicate דַּלִּים."
+  ],
+  "ref": "JER.5.4",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

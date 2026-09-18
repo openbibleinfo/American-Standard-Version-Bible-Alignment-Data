@@ -1,0 +1,27 @@
+{
+  "chapter": "PSA.26",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "PSA.26.2"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Where כִּלְיָה (reins) and לֵב stand together, the ASV renders כִּלְיָה as heart, with the margin 'Heb. reins' on that word, and לֵב as mind, keeping the Hebrew order (so also PSA.7.9, JER.11.20, JER.17.10, JER.20.12). Align heart to כִּלְיָה and mind to לֵב; do not read the English as a reordering of the two nouns."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all nine candidate groups. הוּא, וְ, בְּ, יהוה, לְ, לֹא, אֲנִי, הָלַךְ and יָשַׁב differ only where the ASV writes different English (also/And/Nor/but/so for waws; my/mine/me for suffixes; O Jehovah where the ASV writes O and bare Jehovah in 26.8 and 26.12; לֹא → without in 26.1 where the ASV recasts the verb as a gerund). None is a split.",
+    "Rule 35 is applied consistently: 26.4 fuses waw + a present second לֹא as Neither; 26.9 gives Nor to the waw alone because the second colon has no negative morpheme.",
+    "26.1 (אֲנִי → I, verb keeps have walked) and 26.11 (אֲנִי → me, verb keeps I will walk) agree with rule 17: the explicit pronoun takes the pronoun the ASV writes for it and the verb takes what remains. The 'as for' of 26.11 is added under rule 16's explicit ruling; the corpus's 8 'as for me' units on אֲנִי predate that sentence and do not override it.",
+    "One genuine error, patched: PSA.26.2 swapped the two nouns. The ASV's fixed convention wherever כליות and לב stand together (PSA.7.9 'the minds and hearts', JER.11.20 'the heart and the mind', JER.17.10, JER.20.12) renders כִּלְיָה as heart, with the margin 'Heb. reins' on that word, and לֵב as mind, keeping the Hebrew order. So heart ↔ כִלְיוֹתַי and mind ↔ לִבִּי, with no reordering; the two possessives follow their nouns.",
+    "BSB disagreements: 26.2 cohortative he (rule 32), 26.7 בְּ whose object the ASV promotes to the direct object of make … heard (rule 40), and 26.7 second purpose לְ for which the ASV writes no word (rule 52/40) are all documented convention differences, not errors.",
+    "The three repeated notes (supplied the on a construct, of on a rectum, O on a vocative) restate rules 29, 19 and 36 and need no convention. No promotion or amendment: the chapter taught nothing the contract lacks."
+  ]
+}

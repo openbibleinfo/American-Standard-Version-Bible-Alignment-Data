@@ -1,0 +1,31 @@
+{
+  "chapter": "PSA.69",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "PSA.69.20",
+    "PSA.69.22"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Comparative degree word beside מן: where the ASV writes the verb's own lexeme in comparative form and nothing else for the verb — רבו → 'are more', dropping 'more' leaves רבב bare — the degree word is the verb's and מן takes only 'than'; where the verb holds a word of its own — תיטב → 'please' in PSA.69.31 — the degree word ('better') is the comparative מן's under rule 24, headed on than. The subtraction test decides it, not the presence of a comparative adjective.",
+    "A subject pronoun the ASV supplies for a second clause whose referent the verse denotes only by a pronominal suffix already holding its own pronoun ('talk of me ... I am the song', 'their table ... when they are in peace') is added; a suffix holding 'me' or 'their' is not a home for a second realization under rule 25. PSA.69.12 and PSA.69.22 both read this way.",
+    "A supplied subordinator is placed by whether a conjunction stands in its clause: 'while' before the participial clause of PSA.69.3 is added (no morpheme), 'When' in PSA.69.10-11 and the contiguous pair 'And when' in PSA.69.22 belong to the waw that opens the clause (rules 14, 55)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 37 verses end to end, including every added unit, against the 41-lemma candidate table. The suffix, waw, preposition, אלהים, מן, לא/אל and participle buckets all differ by ASV context (vocative O, comparative vs ablative מן, written vs unwritten connective, resultative ל with or without a written to) and are not splits.",
+    "PSA.69.22: the ASV writes 'And when' contiguously at the head of the waw's own recast clause, which rule 55's pair sentence gives whole to that waw; the verse pass marked 'when' added as if no conjunction stood in the clause. Patched: waw s009 takes 'And when', headed on And, with the corpus's competing head on 'when' named in the note. PSA.69.3's added 'while' is the genuinely conjunctionless case and is unchanged.",
+    "PSA.69.20: 'some' is the subject the ASV supplies for the infinitive לנוד ('some to take pity'); rules 18 (closing sentence) and 52 give a supplied infinitive subject to the infinitive itself, and rule 17's added ruling governs a lexical noun supplied for a finite verb. Patched: נוד takes 'some take pity', discontinuous around the ל's 'to', headed on pity; the reading of 'some' as a supplied object of 'looked for' is named in the note.",
+    "PSA.69.4 'are more than' and PSA.69.31 'better than' are not a split: in 69.4 'more' is the whole English rendering of רבו (dropping it leaves the verb bare), while in 69.31 'please' already carries יטב and 'better' is the degree adverb rule 24 gives to the comparative מן. Recorded as a convention.",
+    "Supplied subject pronouns for a second clause whose referent is denoted only by a suffix already holding its own pronoun are added in both 69.12 ('I') and 69.22 ('they'); consistent, and recorded.",
+    "BSB disagreements: the seven unrepresented ל/אל are rule 40/21 recastings (object-marking ל, resultative ל, dative ל recast as subject, אל before a bare object); the three unrepresented waws are apodosis or jussive waws the ASV opens bare; the four Sh are paragogic/cohortative he under rule 32; the 69.6 אדני suffix is rule 57. None is a genuine error.",
+    "No promotion: the two corrections are misapplications of rules already written, and the degree-word distinction rests on one chapter's two verses."
+  ]
+}

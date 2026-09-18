@@ -1,0 +1,121 @@
+{
+  "alignments": [
+    {
+      "note": "Preposition to preposition.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Relative pronoun.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Finite verb with its English subject; rule 9 heads on the lexical verb.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Rule 20's second arm names this very phrase: with no other word present to take the possessive, ten apolytrosin gives our to the article. The noun is accusative, so no case preposition rides along.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Noun stands bare, its determiner slot taken by the article's our.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Article to the (rule 19).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Rule 20's second arm: no genitive pronoun or other possessor stands in this phrase, so the supplied our is what this article realizes, and rule 20's own clause has any case preposition riding along as in rule 21. The genitive's of therefore joins the article, headed on our, exactly as rule 21's of the is headed on the. Rule 20's first arm is the contrast and is not this case: where a genitive pronoun displaces the article, as at COL.1.13's tes agapes autou, the article is unrepresented and of stays with the noun.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Noun stands alone, the determiner and the case preposition being the article's under rules 20 and 21.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    }
+  ],
+  "ref": "COL.1.14",
+  "review_notes": [
+    "Corrected s008/s009: the accepted alignment gave our to the article but left of with the noun, which is rule 20's first arm applied to a phrase where no possessor token stands. Rule 20's second arm aligns the article to the supplied possessive 'with any case preposition riding along as in rule 21', so of our is one unit headed on our and hamartion stands bare.",
+    "This also brings the verse into line with COL.1.21's te dianoia -> in your, where the same bare-case article takes both the supplied possessive and the case preposition.",
+    "s004 is untouched: ten apolytrosin is accusative, so there is no case preposition to ride with its our.",
+    "Every s### and t### id is partitioned exactly once."
+  ]
+}

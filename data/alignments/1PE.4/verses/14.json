@@ -1,0 +1,24 @@
+{
+  "ref": "1PE.4.14",
+  "alignments": [
+    {"source": ["s001"], "source_head": "s001", "target": ["t001"], "target_head": "t001", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s002"], "source_head": "s002", "target": ["t002", "t003", "t004"], "target_head": "t004", "status": "aligned", "confidence": "high", "note": "Inflected verb takes its English subject and auxiliary; head on the lexical verb (rule 9)."},
+    {"source": ["s003"], "source_head": "s003", "target": ["t005"], "target_head": "t005", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s004"], "source_head": "s004", "target": ["t006", "t007"], "target_head": "t007", "status": "aligned", "confidence": "high", "note": "Anarthrous in Greek, so the supplied determiner is an ordinary helper on the noun (rule 51)."},
+    {"source": ["s005"], "source_head": "s005", "target": ["t008", "t009"], "target_head": "t009", "status": "aligned", "confidence": "high", "note": "Case preposition rides with the noun (rule 17)."},
+    {"source": ["s006"], "source_head": "s006", "target": ["t010", "t011", "t012"], "target_head": "t010", "status": "aligned", "confidence": "high", "note": "Verbless clause with no expressed subject, so the predicate adjective carries both the supplied copula and the supplied pronoun (rule 68)."},
+    {"source": ["s007"], "source_head": "s007", "target": ["t013"], "target_head": "t013", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s008"], "source_head": "s008", "target": ["t014"], "target_head": "t014", "status": "aligned", "confidence": "high", "note": "Attributive article governing pneuma across the interposed genitive takes the English determiner (rules 19, 57)."},
+    {"source": ["s009"], "source_head": "s009", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "The ASV gives the noun no determiner, so the article carries nothing and the case preposition stays with the noun (rules 21, 23)."},
+    {"source": ["s010"], "source_head": "s010", "target": ["t016", "t017"], "target_head": "t017", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s011"], "source_head": "s011", "target": ["t018"], "target_head": "t018", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s012"], "source_head": "s012", "target": ["t019"], "target_head": "t019", "status": "aligned", "confidence": "high", "note": "Second attributive article before its own repeated English determiner (rules 19, 57)."},
+    {"source": ["s013"], "source_head": "s013", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "Determinerless *of God*, so the article realizes nothing (rules 21, 23)."},
+    {"source": ["s014"], "source_head": "s014", "target": ["t021", "t022"], "target_head": "t022", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s015"], "source_head": "s015", "target": ["t015", "t020"], "target_head": "t020", "status": "aligned", "confidence": "medium", "note": "One Greek noun realized twice, the ASV supplying a *Spirit* for the first article's phrase; the discontinuous unit is licensed by rule 15 and the italics are evidence only (rule 11). Head on the unsupplied occurrence, which stands where the Greek noun does; heading on t015 remains defensible."},
+    {"source": ["s016"], "source_head": "s016", "target": ["t024"], "target_head": "t024", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s017"], "source_head": "s017", "target": ["t025"], "target_head": "t025", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s018"], "source_head": "s018", "target": ["t023"], "target_head": "t023", "status": "aligned", "confidence": "high", "note": "The English preposition governing the phrase realizes epi, not the verb (rule 36)."}
+  ],
+  "review_notes": []
+}

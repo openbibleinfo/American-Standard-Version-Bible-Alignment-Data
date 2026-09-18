@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "72d67078b0edd013f440903e504bb6f10854c7a89dcd3a0da29efd2e22f42ac1",
+  "contract_version": "ot-hebrew-verse-v216",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Large-source-unit check: the one multi-source unit is `וְ` + `לֹא` → *Neither*, retained under rule 35 because the single English word carries both the coordination and the negation, headed on the negative, which is what distinguishes it from a bare *and*. Every other unit is single-source.",
+    "The fronted *do* is the verb's own under rule 17: no interrogative morpheme stands in the clause, and the unit is discontinuous around the subject under rule 25.",
+    "The article on `עֹבְרִים` takes the supplied *they that* and heads on the pronoun under rule 41, a present article morpheme governing rather than rule 46's anarthrous case; *by* stays with the participle as a phrasal particle under rule 44.",
+    "`אֵת` is `unrepresented` under rule 16: the ASV writes *We bless you* bare, spending no word on the object relation. Both `בִּרְכַּת` and `שֵׁם` take supplied *the*s under rule 29, no article morpheme standing in either chain.",
+    "All 15 source and 22 target ids partitioned exactly once; no change."
+  ],
+  "ref": "PSA.129.8",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

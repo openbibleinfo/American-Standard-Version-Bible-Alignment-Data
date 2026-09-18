@@ -1,0 +1,186 @@
+{
+  "alignments": [
+    {
+      "confidence": "high",
+      "note": "Coordinating καί to the verse-opening And.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "confidence": "high",
+      "note": "Attributive demonstrative supplies the English determiner (rule 38).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "confidence": "high",
+      "note": "The demonstrative already occupies the determiner slot, so the article realizes nothing (rule 38).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "The article carries no English determiner of its own, so the case preposition in stays with the noun (rules 21, 23).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "confidence": "high",
+      "note": "Inflected verb takes its supplied subject and auxiliary; head on the lexical verb minded (rules 9, 17).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "confidence": "high",
+      "note": "Comparative adverb rendered first, standing after the infinitive in the ASV's order (rule 15).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "confidence": "high",
+      "note": "The English preposition governing the phrase realizes πρός (rule 36).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "confidence": "high",
+      "note": "Pronoun object of the preposition.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "confidence": "high",
+      "note": "No conjunction governs this infinitive, so the infinitival to is its own helper (rules 7, 61).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "confidence": "high",
+      "note": "Purpose ἵνα realized by the clause-introducing that (rule 40).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "confidence": "high",
+      "note": "Attributive ordinal; the supplied determiner determines the noun phrase and belongs to the noun, not to the adjective (rule 58).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "confidence": "high",
+      "note": "Both adjective and noun are anarthrous, so the supplied a goes with the noun, discontinuously a … benefit (rules 15, 58). χάριν here is the accusative of the noun χάρις governed by σχῆτε, not the postposition of rule 46; the ASV margin offers grace, which is a lexical gloss and not a competing alignment.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "confidence": "high",
+      "note": "Subjunctive with supplied subject and modal; head on the lexical verb have (rules 9, 17). The ASV spells both χάριν and σχῆτε out, so rule 2 splits the pair and rule 73 does not apply.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "2CO.1.15",
+  "review_notes": [
+    "Reviewed against the contract and the token table: every s### and t### is partitioned exactly once, all heads are members of their arrays, and the unit boundaries are unchanged from the accepted alignment. Only s012's confidence was corrected.",
+    "s003 stays unrepresented under rule 38: ταύτῃ is attributive and already occupies the English determiner slot, so the article realizes nothing and cannot anchor the case preposition. Rule 21's determinerless case therefore puts in on the noun s004 rather than on the article.",
+    "s011/s012 follow rule 58 without qualification — the supplied a determines the noun phrase, so it rides with χάριν and δευτέραν stays bare. Rule 58 forbids reading a supplied determiner off English word order, which is the only thing an a-on-second reading could rest on, so the previous medium was hedging against a settled line (rule 84) and is raised to high. The remaining uncertainty the old note recorded — the margin's Or, grace — is a lexical-gloss question that changes no unit boundary or head, so it is not a rule 16 competing analysis; it is kept in the note as information.",
+    "s013 is not a rule 73 light-verb collapse: ἔχω + χάρις is spelled out as two English words (have, benefit), which is rule 73's own rule 2 contrast, so the pair splits and the supplied ye/might ride with the finite verb.",
+    "χάριν is tagged N-ASF and governed by σχῆτε with δευτέραν agreeing, so rule 46's postposition frame is not in question anywhere in this verse."
+  ]
+}

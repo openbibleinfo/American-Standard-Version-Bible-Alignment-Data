@@ -1,0 +1,25 @@
+{
+  "chapter": "1SA.27",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Piel חָיָה rendered 'saved … alive' (27.9, 27.11) is one discontinuous unit headed on 'alive', the complement carrying the lexeme under rule 44; 'saved' is the competing head and was not taken. The clause's לֹא takes the opening 'neither' and the waw before the second noun the closing 'nor' in both verses.",
+    "The temporal infinitive-construct formula בּוֹאֲךָ (27.8, 'as thou goest to Shur') keeps the supplied 'as' with the bare infinitive under rule 33's adverbial reasoning rather than marking it added under rule 55; the suffix takes 'thou' under rule 18 and the directive he takes 'to' under rule 32."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 36 candidate lemmas end to end and the dump for `added` units. No cross-verse split found: every treatment difference is licensed by the ASV's own rendering (waw connectives read off the text; לְ aligned where 'for'/'to' is written and unrepresented where the dative or resultative is recast bare under rules 40/21/52; בְּ unrepresented only where the object is promoted to a bare English object).",
+    "Recurring constructions are consistent across verses: לֹא → 'neither' with the waw taking the closing 'nor' (27.9, 27.11); Piel חָיָה → 'saved … alive' headed on 'alive' in both 27.9 and 27.11; bare directional גַּת → 'to Gath' under rule 33 (27.4, 27.11); supplied 'the' on constructs (27.1, 27.2, 27.6, 27.7, 27.10); copula on the prepositional predicate (27.2, 27.8); demonstrative phrases בַּיּוֹם הַהוּא / הַיּוֹם הַזֶּה with both articles unrepresented and the demonstrative taking 'that'/'this' (27.6).",
+    "The two `added` units (27.3 'even' before an appositive with no marker or waw; 27.11 'them' as a supplied object of 'bring') are correctly placed and nothing of the same kind is folded elsewhere; 27.12's 'him' of 'to abhor him' is the Hiphil's own reflexive referent under rule 44, not a supplied object.",
+    "BSB disagreements are all convention: the unrepresented infinitive absolute in 27.1 (ASV writes no intensifier, rule 56), the twelve unrepresented לְ prepositions (dative/resultative/לֵאמֹר recastings), and 27.6's בַּ and articles (ASV writes 'that day' bare). None is a genuine error.",
+    "27.10 'Against whom' answers to the LXX/Vulgate reading אֶל־מִי; aligned to MT אַל under rule 53's unmarked-slot paragraph with the divergence named in the note, no textual decision taken. 27.8 'Girzites' follows the selected ketiv. Nothing here generalises beyond rules already in the contract; no promotions or amendments."
+  ]
+}

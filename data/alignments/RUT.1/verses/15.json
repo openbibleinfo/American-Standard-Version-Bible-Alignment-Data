@@ -1,0 +1,222 @@
+{
+  "alignments": [
+    {
+      "note": "Conjunction waw rendered by the ASV's And (rule 14).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb with its English subject pronoun; head on the lexical verb (rules 17, 24).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Presentative particle rendered Behold.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Qal perfect of שׁוּב rendered by the whole English verb phrase is gone back; the particle back completes the lexeme of returning, so it is the verb's under rule 44, and the head is the lexical participle gone (rule 24).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Construct noun יְבֶמֶת rendered by the English compound sister in law; head on sister, the word carrying the lexeme, with in law the compound's own connective and complement (rules 24, 31).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "2fs suffix rendered by the possessive thy (rule 18).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "אֶל rendered unto.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Noun עַם rendered people.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "3fs suffix rendered by the possessive her (rule 18).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Conjunction waw rendered and (rule 14).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Second אֶל rendered by its own unto; the ASV writes one for each preposition, so nothing is distributed here (rule 25).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "אֱלֹהִים rendered by the singular god as printed.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "3fs suffix rendered by the possessive her (rule 18).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Feminine singular imperative with its English subject pronoun thou; head on the lexical verb (rules 17, 24).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "אַחַר rendered after.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Second occurrence of יְבֶמֶת, rendered by its own compound sister in law and headed on sister as above; both occurrences are written, so rule 22 does not arise.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t023",
+        "t024",
+        "t025"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "2fs suffix rendered by the possessive thy (rule 18).",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    }
+  ],
+  "ref": "RUT.1.15",
+  "review_notes": [
+    "Every source and target ID is partitioned exactly once; no unrepresented or added units were needed.",
+    "The two occurrences of יְבֶמֶת each hold their own English compound, so neither is resumptive under rule 22.",
+    "sister in law is headed on sister under rule 31's subtraction test; the competing head would be law, which names nothing of the relation on its own."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "chapter": "JER.6",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JER.6.7.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV renders 'As a well casteth forth its waters'. Both readings are the same noun for a water-pit (qere bayir, ketiv bor) and both are rendered 'well' in English; the two ASV notes here are classed alternative_rendering and concern the verb ('Or, keepeth fresh'), not the noun, so nothing in the English distinguishes the readings. Base fallback (qere) carries the projection."
+    },
+    {
+      "unit_id": "WLC.JER.6.21.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV reads 'the neighbor and his friend shall perish'. Qere waw-consecutive perfect and ketiv imperfect of the same root both yield a plain future 'shall perish' in English; ASV has no note mapped here. The English cannot distinguish the two forms, so the base fallback (qere) carries the projection."
+    },
+    {
+      "unit_id": "WLC.JER.6.25.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV reads 'Go not forth into the field'. The qere is a masculine plural jussive and the ketiv a feminine singular; English 'Go not forth' marks neither number nor gender, and there is no ASV note on this verse. Undistinguished, so the base fallback (qere) carries the projection."
+    },
+    {
+      "unit_id": "WLC.JER.6.25.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV reads 'nor walk by the way'. As with the parallel verb in the same clause, the qere is masculine plural and the ketiv feminine singular, and the English imperative 'walk' shows neither number nor gender; no ASV note is mapped here. The base fallback (qere) carries the projection."
+    },
+    {
+      "unit_id": "WLC.JER.6.29.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'the lead is consumed of the fire', which renders two separate words: the prepositional phrase 'of the fire' (me-esh) and a finite verb 'is consumed' (tam). That is the qere's word division. The ketiv joins them into a single word (me-ishtam, 'from their fire'), leaving the clause without the verb ASV supplies unitalicized. The note here is classed alternative_rendering ('Or, are burned') and only varies the English of that same verb, confirming ASV read a verb at this point. ASV wording therefore selects the qere."
+    }
+  ]
+}

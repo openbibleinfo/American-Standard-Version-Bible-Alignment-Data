@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "chapter": "MAT.4",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.MAT.4.3.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Pure word order: both readings contain the same three words. ASV 'the tempter came and said unto him' fixes English order independently of the Greek sequence, and no note bears on it."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.4.4.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The article before the participial subject is untranslatable in isolation: 'But he answered and said' renders ho de apokritheis and apokritheis alike, since the English subject pronoun is required either way. The only note is a cross-reference to Dt. 8:3."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.4.4.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "epi and en with the dative are both rendered 'by' in 'by every word that proceedeth out of the mouth of God'; the ASV wording does not distinguish the prepositions and the note is only the Dt. 8:3 reference."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.4.5.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders this chapter's historic presents as English presents ('taketh him into the holy city' for paralambanei in this same verse, 'saith' at 4:10). Against that, the past tense 'and he set him on the pinnacle' answers to the aorist estesen, not the present histesin."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.4.9.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's past 'and he said unto him' answers to the aorist eipen; where the chapter has the historic present legei the ASV prints a present ('Then saith Jesus unto him', 4:10), so the past tense here distinguishes the aorist."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.4.9.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Pure word order of soi and panta; 'All these things will I give thee' is the same English for either sequence, and the note only cross-references the marginal note on 2:2."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.4.10.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'Get thee hence, Satan' with nothing answering to opiso mou; the longer reading would require 'behind me' (as at Mt. 16:23). The bare imperative is distinguished by the absence of that phrase."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.4.12.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'Now when he heard that John was delivered up' with an unnamed subject; the added ho Iesous would give 'when Jesus heard'. The pronoun distinguishes the shorter reading."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.4.16.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "skotia and skotos are synonymous nouns both rendered 'darkness'; 'The people that sat in darkness' does not distinguish them and the verse carries no note."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.4.16.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Pure word order of phos and eiden; 'Saw a great light' follows English order for either sequence and no note bears on it."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.4.23.v011",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV prints 'And Jesus went about in all Galilee' with the textual_variant note 'Some ancient authorities read he', which maps the named subject ho Iesous to the text rendered and the subjectless base to the margin. Between the two readings that name Jesus, the prepositional 'in all Galilee' answers to en hole te Galilaia (dative), not to the accusative holen ten Galilaian of r02."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.4.24.v012",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders every following kai in the series ('and epileptic, and palsied') but sets 'possessed with demons' immediately after 'holden with divers diseases and torments' without a conjunction; that asyndeton distinguishes the reading lacking kai after sunechomenous. The only note is an alternative_rendering on 'demoniacs'."
+    }
+  ]
+}

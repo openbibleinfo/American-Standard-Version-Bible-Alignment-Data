@@ -1,0 +1,26 @@
+{
+  "chapter": "2CH.14",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2CH.14.13"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Phrasal particles in this chapter's verbs of removal and plunder — סוּר hiphil → took away (14.3, 14.5), שָׁבַר piel → brake down (14.3), גָּדַע → hewed down (14.3), נָשָׂא → carried away (14.13), שָׁבָה → carried away (14.15) — are read as completing the verb's lexeme under rule 44 and kept in the verb's unit headed on the verb, not marked added as surplus; the notes name the competing reading."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v218",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 34 candidate lemmas end to end. The waw, suffix, article, לְ, כִּי, יהוה, אֵלֶּה, אָמַר, הָיָה, חַיִל, אֶלֶף, מִן and עִם groups are ASV-licensed differences (connective read off the ASV, possessive vs object pronoun, demonstrative/agreement articles unrepresented under rule 41, dative and possessive לְ silenced under rules 40/43, לִפְנֵי fused as before in 14.5/7/12/13 and split as to meet in 14.10 exactly as rule 30 directs). No cross-verse split found.",
+    "One genuine contract error, patched: 2CH.14.13 עַד לְ → unto was split with the לְ marked unrepresented under rule 40, but rule 30 names עַד לְ → to as a fusion when the ASV writes one word for the pair. Now one unit on s011+s012, headed on עַד (rule 23) and unto. This is one of the six R-class BSB disagreements in the report; the other five (14.4 dative לְ, 14.6 עִם under had no, 14.7 dative לְ, 14.8 possessive לְ under had, 14.13 לָהֶם under the verbal recasting) are convention differences under rules 40 and 43 and stand.",
+    "The six Td BSB disagreements (14.2 coordinated-substantive second article, 14.6/14.7/14.11 demonstrative and agreement articles) are rule 41/47 conventions, not errors. The 14.7 נּוּ suffix on עוֹד is a rule 22 resumptive the ASV writes once; BSB's attachment is a convention difference.",
+    "The 14.5 חַמָּנִים → sun images head (on images) and the 14.7 מִסָּבִיב → on every side fusion each occur once and carry notes naming the competing reading; left as accepted.",
+    "Repeated notes in the validation report restate contract rules (16, 19, 29, 30, 31, 41, 47) and need no convention. One chapter-wide judgment recorded: the phrasal particles of took away / brake down / hewed down / carried away are kept with the verb under rule 44."
+  ]
+}

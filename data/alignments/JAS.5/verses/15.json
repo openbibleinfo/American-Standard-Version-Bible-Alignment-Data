@@ -1,0 +1,251 @@
+{
+  "alignments": [
+    {
+      "note": "Coordinating conjunction to the verse-opening *and*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Article surfaces as *the* under rule 19.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Head noun; split from its article under rule 26.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The ASV gives *faith* no determiner, so this article has no *the* to anchor. Rule 21's determinerless clause makes it `unrepresented` under rule 23 and leaves the case preposition *of* with the noun; rule 21 forbids leaving a bare *of* on the article.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive noun rendered *of faith*; the case preposition rides with the noun per rule 21's determinerless clause, headed on the noun per rule 17.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Future indicative with its auxiliary; rule 9 heads on the lexical verb *save*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Substantival article before a participle: rule 32 gives it the pronoun *him* and nothing else, the relative clause staying with the participle. Rule 90 does not arise, the ASV writing two English words (*him* and *that*) rather than one, so the ordinary split applies; rule 31 does not apply either, since the article governs no expressed head noun.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Attributive participle rendered as a finite relative clause; the relativizer and copula are helpers on the participle under rules 7, 9 and 32, headed on the lexical predicate *sick*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Coordinating conjunction to *and*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Future indicative with its auxiliary and the phrasal particle *up*, discontinuous across the object pronoun under rule 15; headed on the lexical verb *raise*. The *up* is the English verb's own particle — no Greek preposition stands for it to answer to, so rule 36 does not reach it.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016",
+        "t018"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Accusative object pronoun to *him*, kept separate from the verb's own unit.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Article surfaces as *the* under rule 19.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Subject noun, split from its article under rule 26.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Crasis of `καί` and `ἐάν`: one source word spelling a conjunction and a conditional particle together, so it takes both English words as one `aligned` unit under rule 55. JHN.8.55 is this unit's twin — the same lemma rendered *and if* and headed on *if* — and JHN.11.54 `κἀκεῖ` → *and there* heads on the adverb, which is what shows rule 55's head generalizes past the pronominal to whichever element is not the `καί`. All six corpus `κἄν` units are one `aligned` unit, none `noncompositional` and none split, and of the sixty-three crasis units in the corpus not one is headed on the word answering to the `καί`. This is an ordinary conditional `ἐάν`, so rule 72 does not arise.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Accusative object to *sins*.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Subjunctive of `εἰμί` in the periphrastic perfect `ᾖ πεποιηκώς`; it carries the person and number, so the supplied subject *he* and the auxiliary *have* that realizes it belong here under rules 7 and 9, while the lexical participle keeps *committed*. Reading the two source tokens as one unit on *have committed* is defensible, but rule 2 prefers the split since both English pieces remain independently recoverable.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Perfect participle to the lexical verb *committed*.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Future passive with its supplied subject and auxiliaries; rule 17 heads on the lexical predicate *forgiven*, not on *shall* or *be*.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t025",
+        "t026",
+        "t027",
+        "t028"
+      ],
+      "target_head": "t028"
+    },
+    {
+      "note": "Dative pronoun to *him*.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t029"
+      ],
+      "target_head": "t029"
+    }
+  ],
+  "ref": "JAS.5.15",
+  "review_notes": [
+    "Returned unchanged: the accepted alignment survives review. Every s001-s019 and t001-t029 id is partitioned exactly once; all heads are members of their arrays and the sole `unrepresented` unit (s004) has an empty target and a null target head.",
+    "s007/s008 audited against rules 31, 32 and 90. The article governs no expressed head noun, so it is substantival and rule 31 is out; the ASV writes two English words across the pair (*him* and *that*), so rule 90's one-word case is out and rule 32's ordinary split stands - *him* to the article, *that is sick* to the participle headed on the lexical predicate.",
+    "s014 `κἂν` stays one `aligned` unit on *and if* under rule 55. Rule 39 is the competing reading and does not carry: it is scoped to a particle fused with the negative `μή`, and here each English word answers to one fused element, which is exactly rule 39's own test for staying `aligned`. Rule 55's head-on-the-pronominal has nothing to select here, so rule 17 decides and puts the head on *if*.",
+    "s016/s017 is the one materially contested unit and its note names the alternative: joining `ᾖ πεποιηκώς` into a single unit on *have committed*. Kept split under rule 2, with *he have* on the finite copula that carries the person and number and *committed* on the lexical participle. A later reader wanting to revisit JAS.5 periphrastics should start there.",
+    "s005 `πίστεως` -> *of faith* keeps the case preposition on the noun and leaves s004 `unrepresented`, per rule 21's determinerless clause read with rule 23. This is the correct grouping rather than a convenience merge of article and noun, which rule 13 forbids.",
+    "s010's *up* is kept with `ἐγερεῖ` as the English verb's own particle, discontinuous across the object pronoun under rule 15. Rule 36 does not apply, since no Greek preposition governs a phrase for it to realize.",
+    "No rule 37, 97 or 103 case arises: no token's English sits in a neighbouring verse, the packet marks no excluded fallback, and no supplied English lexical content repeats an already-spent source token. Nothing here is `added`."
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "chapter": "PSA.129",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "PSA.129 reads the ASV's *from my youth up* (129.1, 129.2) as one discontinuous rendering of the ablative `מִן`: both *from* and *up* belong to that preposition's unit under rules 24 and 25, headed on *from*, which carries the relation. The competing reading, marking *up* `added` under rule 30, is named in each unit's note. This does not reach an English particle that completes a verb's own lexeme: the *up* of `שָׁלַף` → *groweth up* (129.6) and the *asunder* of `קִצֵּץ` → *cut asunder* (129.4) stay with their verbs under rule 44, headed on the verb. Read what the particle closes — a preposition's relational frame, or a verb the bare English word leaves short — before placing it."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v216",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "All 8 candidate lemma groups examined; none is a split. Each multi-treatment is context the source licenses: חָרַשׁ finite *plowed* (129.3) against substantival participle *The plowers*; שֶׁ as *Which* (129.6) against *Wherewith* (129.7), the latter a bare relative because no suffix in that clause points at the antecedent (כַפּוֹ and חִצְנוֹ denote the reaper); הַ unrepresented on an anarthrously rendered rectum (129.1) against substantival *they that* (129.8); לְ silenced by a bare-object recasting (129.3) against *against* (129.2).",
+    "The two waw-negative treatments, which the lemma table cannot pose as one question, are rule 35's two shapes aligning what is actually there: 129.7 gives the bare waw *Nor* because the Hebrew gaps the negative in that colon, and 129.8 fuses וְ + לֹא into a single *Neither* headed on the negative.",
+    "The chapter marks nothing `added` (73 aligned, 3 unrepresented), so the table's documented blindness to added units hides nothing here; every supplied English word was checked against the rule cited. Supplied determiners divide consistently by whether an article morpheme stands: rule 29 on a construct noun (129.4, 129.6, 129.8), rule 15 on a rectum (129.6), rule 46 on a substantival participle or adjective (129.3, 129.4, 129.5, 129.7), rule 41 on the one article the ASV writes a determiner for (129.8). All 77 source and 125 target ids partition once per verse.",
+    "The chapter's one substantive judgment is *from my youth up* (129.1, 129.2), read as one discontinuous rendering of מִן headed on *from* rather than leaving *up* `added`; both verses take it identically and both name the competing reading. Its flip side is 129.4 *cut asunder* and 129.6 *groweth up*, where the particle completes the verb's own lexeme and stays with the verb under rule 44. Recorded as one convention, since the chapter places the same English word two ways on principled grounds.",
+    "BSB: neither disagreement is an error, and neither accepted edge was touched. PSA.129.3 לְ is unrepresented because the ASV writes *made long their furrows* as a bare object, which rules 40 and 21 name as the usual source of such disagreements; PSA.129.8 אֵת is unrepresented because *We bless you* spends no word on the object relation (rule 16). Both are the documented convention difference, BSB attaching the morpheme to its phrase.",
+    "Two heads worth a later reader's eye, both already carrying their competing reading in the unit note: 129.7 `מְעַמֵּר` → *he that bindeth sheaves* heads on *sheaves*, the denominative verb's own lexeme, against *bindeth*; 129.6 `קַדְמַת` → *before* keeps the preposition as the construct noun's own rendering under rule 19's directional rider rather than marking the noun unrepresented.",
+    "No promotion. The *from ... up* frame sits close to rule 24's *too ... for* sentence, but the evidence is two occurrences of one phrase, מִן was not a candidate lemma so no corpus row was supplied to test it, and a rule broad enough to cover it would risk swallowing the phrasal-verb particles 129.4 and 129.6 turn on. I did not spend the evidence round on it: it would change no alignment, and the convention carries the judgment forward for the next chapter to decide with the corpus in front of it."
+  ]
+}

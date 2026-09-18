@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "chapter": "PSA.74",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PSA.74.6.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'And now' renders the qere וְעַתָּה (adverb 'now'); the ketiv ועת would be the noun 'time' and is not what the English says."
+    },
+    {
+      "unit_id": "WLC.PSA.74.11.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'thy bosom' renders the qere חֵיקְךָ (bosom); the ketiv חוקך would read as 'thy statute' and is not reflected in the English."
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "alignments": [
+    {
+      "note": "The supplied contrastive determiner *One* joins the noun's unit under rule 15, which reads a correlative *one ... another* standing where an *a* or a *the* would stand as the nominal expression's determiner (`מִמַּטֶּה לְמַטֶּה אַחֵר` → *from one tribe to another tribe*). No numeral or determiner morpheme stands in the phrase, so nothing else licenses the word; it is never the head, which stays on *generation* under rule 31.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The `לְ` of the distributive `דּוֹר לְדוֹר` takes the *to* written for it, discontinuous from its object under rule 25 since English postposes the phrase after the verb and its object.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "The second `דּוֹר` is realized by the correlative *another*, which is the whole of what the ASV writes for it in this recasting; the alternative reading, marking the noun `unrepresented` and *another* `added`, would leave a written lexical noun holding nothing against rule 2 while an English word plainly answering to it stood unaligned.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Finite verb with its auxiliary under rule 17, headed on the lexical verb by rule 24.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The construct noun keeps only its own word; the possessive belongs to the suffix under rule 18.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Pronominal suffix rendered by the possessive *thy* (rule 18), fronted before its host noun as English writes possessives; the unit is reordered under rule 25.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The waw takes the *And* written for it under rule 14.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "`גְּבוּרָה` is rendered by the phrase *mighty acts*; by rule 31's subtraction test *acts* alone is any acts, so the generic noun is the supplied completion and the head stays on *mighty*, which carries the lexeme, exactly as `עֹלָה` → *burnt offerings* heads on *burnt*. The competing reading heads on the noun *acts* on the ground that the Hebrew word is itself a noun, but rule 31 expressly refuses that reasoning (it would head *dry land* on *land*).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Second pronominal suffix rendered by *thy* under rule 18, fronted before the noun phrase it possesses (rule 25).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Finite verb with its auxiliary under rule 17, headed on the lexical verb *declare* by rule 24; the ASV writes no separate subject pronoun for it, the subject being carried over from the first colon.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    }
+  ],
+  "ref": "PSA.145.4",
+  "review_notes": [
+    "`דּוֹר לְדוֹר` is read as three units — *One generation*, *to*, *another* — rather than as one fused idiom, since the ASV spends a distinct English word on each morpheme and rule 30's one-rendering condition is therefore unmet.",
+    "No `added` or `unrepresented` units: every target token answers to a morpheme standing in the verse, and every morpheme is rendered."
+  ]
+}

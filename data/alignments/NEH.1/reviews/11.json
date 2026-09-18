@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "a2cd600196d530806f4ae2ea86d7bd9e799e338b30777f679031088961c34fa6",
+  "contract_version": "ot-hebrew-verse-v217",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 51 source and 56 target tokens partitioned once.",
+    "Lexicalized 1cs suffix of אֲדֹנָי unrepresented; the title takes 'O Lord' (rules 36, 57).",
+    "לִפְנֵי → 'in the sight of' read as one compound rendering of which no morpheme owns a part (rule 30), headed on 'sight'; the two dative le's before עַבְדְּךָ and רַחֲמִים are unrepresented since the ASV writes their objects bare (rule 40).",
+    "הַצְלִיחָה's paragogic he (Sh) unrepresented (rule 32); הַיּוֹם splits into 'this' + 'day' since a determiner is written for the article.",
+    "Scoped LS09 correction independently confirmed; evidence: data/audits/retrospective-new-chapters-2026-09-12/receipts/NEH.1.11.json. Original full-review coverage is carried forward only for unchanged content. The scoped assessment and independent confirmation cover the changed candidate units and their notes; no new full-verse review is claimed. Original reviewer, date fields and contract provenance are preserved; original receipt: data/audits/retrospective-new-chapters-2026-09-12/before/NEH.1.11/review.json."
+  ],
+  "ref": "NEH.1.11",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

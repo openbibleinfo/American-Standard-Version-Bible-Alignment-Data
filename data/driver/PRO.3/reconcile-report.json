@@ -1,0 +1,30 @@
+{
+  "chapter": "PRO.3",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "A single English Neither or Nor is read off what stands in the colon it opens. Where a waw and a prohibitive both stand there, the one word is their rule 35 fusion, one unit headed on the negative (PRO.3.11). Where the negative is gapped in that colon and only a waw stands, the word goes to the waw alone under rule 25's carve-out, and the earlier colon's al is not distributed into it (PRO.3.25).",
+    "A supplied English relative over a finite clause the Hebrew juxtaposes to a written antecedent is added: PRO.3.13 marks two thats, separate units because rendered material stands between them, and PRO.3.12 marks whom. A relative or antecedent the ASV writes inside its recasting of a single Hebrew nominal, or one licensed by an article or by an anarthrous substantive, joins that morpheme's unit and is never added: PRO.3.27 be'alav -> them to whom it is due, PRO.3.15 hafatzeykha -> the things thou canst desire, PRO.3.18 them that (article, rule 41) and every one that (anarthrous participle, rule 46).",
+    "A supplied English preposition before a bare nominal is placed by what governs that nominal in the Hebrew, and the chapter runs the test both ways. An accusative of material completing a passive or recast-intransitive predicate gives the word to the verb (PRO.3.10 shall be filled with plenty, shall overflow with new wine); a nominal whose own case-function or recast contribution the word states gives it to the nominal (PRO.3.23 in thy way, PRO.3.35 of fools).",
+    "The adverbial phrase lamed plus betach is one fused unit under rules 30 and 40, headed on the noun, since the ASV writes securely for the pair and no word for the preposition apart from it (PRO.3.23, PRO.3.29). The preposition is not marked unrepresented beside a noun holding the whole word."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v192",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 35 verses end to end against the 35-lemma candidate table, the validation report and the corpus rows. No split found; patches empty.",
+    "The two Neithers are licensed by the source and are not a split: PRO.3.11 writes both a waw and a second al in the second colon, so the one English word is their rule 35 fusion headed on the negative, while PRO.3.25 gaps the negative in that colon and a waw stands there, which is rule 25's own carve-out sending the word to the waw alone. The first colon's al is correctly not distributed into v.25.",
+    "The two kol-plus-negative fusions agree with each other (PRO.3.15 kol + lo, PRO.3.31 al + kol, both -> none headed on the negative), and both send the single written of to the rectum under rule 19's quantifying-construct clause rather than reading none of as one English quantifier. That is what leaves PRO.3.31's second beth unrepresented, and it agrees with PRO.3.15.",
+    "Head choices on one-substantive-to-two-words renderings were checked against rule 31 rather than taken at face value: PRO.3.10 new wine heads on new, PRO.3.14 fine gold on gold, PRO.3.16 right hand and left hand on right and left, PRO.3.21 sound wisdom on sound, PRO.3.9 the first fruits on first. Each heads on the word rendering the source lexeme; the head stays on the class noun only in harutz, where fine is a specifier the lexeme does not carry, which is rule 31's tannin -> sea monsters sentence. No inconsistency.",
+    "The 5 added units were read against every supplied word the chapter folded in, since the candidate table cannot see them. The boundary is uniform: a relative the ASV writes over a finite clause juxtaposed to a written antecedent is added (PRO.3.12 whom, PRO.3.13 that twice), while a relative or antecedent written inside the recasting of a single nominal, or licensed by an article or an anarthrous substantive, joins the source unit (PRO.3.15 hafatzeykha, PRO.3.18 both substantives, PRO.3.27 be'alav).",
+    "The seven object markers agree: PRO.3.7, PRO.3.9 and PRO.3.12's first marker are unrepresented because the ASV writes those objects bare, and PRO.3.12's second marker takes the in of delighteth in under rule 16's first family, the preposition through which the English verb reaches its object. The uncommitted edit to verses/12.json is consistent with the rest of the chapter and needs no further change.",
+    "BSB: the three disagreements are all beth marked unrepresented under rule 40 - PRO.3.26's beth essentiae, which the ASV writes as a bare predicate nominal with confidence left to kesel, and PRO.3.31's two objects promoted to direct objects. That is the documented convention difference, not an error; no accepted edge was touched to improve the rate.",
+    "Four conventions recorded. No promotion: the one place the contract felt thin was rule 31's class-noun tie-break, which as written pulls fine gold both ways, but the tannin sentence already reaches it and the packet carries no rule 31 head precedent to test a widening against."
+  ]
+}

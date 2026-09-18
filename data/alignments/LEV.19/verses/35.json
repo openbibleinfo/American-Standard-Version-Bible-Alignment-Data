@@ -1,0 +1,195 @@
+{
+  "alignments": [
+    {
+      "note": "The ASV recasts the negation onto the object nominal, so לֹא takes no (rule 15).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Verb takes subject pronoun, auxiliary and lexical verb (rule 17).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Noun takes unrighteousness.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Preposition takes the first written in.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Assimilated article token; no the is written (rules 12, 29).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun takes judgment.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Preposition takes the second written in.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Assimilated article token; no the is written.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "מִדָּה rendered measures of length. Head on measures under rule 31: dropping it loses the lexeme measure, which is the ASV's ordinary rendering of this word, while of length is the specifier distinguishing it from מִשְׁקָל and מְשׂוּרָה, exactly as rule 31's tie-break keeps the head on a class noun the ASV writes for a word of that class. Heading on length, on the reading that measures is a supplied generic covering all three phrases, was the competing reading.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The ASV writes no third in; the preposition takes nothing (rule 40).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Assimilated article token; no the is written.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun with the of of the ASV's measures of ... construction, headed on the lexeme.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Waw rendered by the connective or (rule 14).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "The ASV writes no fourth in (rule 40).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Assimilated article token; no the is written.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun takes of quantity, headed on the lexeme.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "LEV.19.35",
+  "review_notes": [
+    "Corrected: the head of the מִדָּה unit moves from length to measures. Rule 31's subtraction test loses the lexeme measure when measures is dropped and loses nothing of it when length is dropped, and rule 31's tie-break keeps the head on a class noun that is the ASV's ordinary rendering of the word.",
+    "The ASV writes two ins for four Hebrew prepositions, so the third and fourth are unrepresented under rule 40 and every assimilated article token is unrepresented under rule 29."
+  ]
+}

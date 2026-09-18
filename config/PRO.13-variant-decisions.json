@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "chapter": "PRO.13",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PRO.13.20.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV renders an imperative, 'Walk with wise men', which answers the ketiv infinitive absolute הלוך used for a command, not the qere participle הוֹלֵךְ ('he that walketh'). The ASV note 'According to another reading, He that walketh with wise men shall be wise' confirms the participial qere is the reading the translators set aside, so the main text follows the ketiv."
+    },
+    {
+      "unit_id": "WLC.PRO.13.20.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV continues in the second person, 'and thou shalt be wise', matching the ketiv וחכם (waw plus perfect carrying on the preceding imperative); the qere יֶחְכָּם is third masculine singular and would give 'he shall be wise', which is exactly the wording of the ASV's alternative-reading note. The main text therefore follows the ketiv."
+    }
+  ]
+}

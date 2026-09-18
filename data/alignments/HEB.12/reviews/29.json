@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "023994509907fad0efd4d83d33a1e1ed4360596e8d4d05cf6f54e7463a4e971c",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Checked partition: all 7 source ids and all 7 target ids appear exactly once; every aligned unit has nonempty arrays with heads inside them, and the two unrepresented units have valid source heads with empty targets and null target heads.",
+    "s001 kai unrepresented is right on the English-side test rules 65 and 70 apply to a particle: the ASV writes one 'for', which answers to gar, and no second connective word stands for the intensifying kai. A reference comparison reporting this is not a correction.",
+    "s003 article unrepresented is rule 20 proper, not rule 76: hemon is a free genitive pronoun spending its English only on 'our', so the possessive belongs to it and the article realizes nothing.",
+    "s006 copula placement is correct under rule 63. The subject is a lexical noun phrase (ho theos hemon), not a pronoun, so rule 53's pronoun exception is switched off and the predicate nominal carries the supplied 'is', discontinuously under rule 15 - the exact shape of pneuma ho theos -> 'God is a Spirit'. Rule 68 is not in play, the clause expressing a subject.",
+    "The supplied 'a' correctly rides with pyr rather than with the participle: both source words are anarthrous, and rule 58 puts a supplied determiner on the noun rather than on the attributive modifier. Head on 'fire' follows rule 17, the word that realizes the lexeme.",
+    "s007 split from s006 is required by rule 26; 'consuming fire' is a compositionally transparent phrase with independently recoverable pieces."
+  ],
+  "ref": "HEB.12.29",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

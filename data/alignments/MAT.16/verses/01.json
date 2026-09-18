@@ -1,0 +1,191 @@
+{
+  "alignments": [
+    {
+      "note": "Connective καί → And.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Circumstantial participle converted to a finite clause; the supplied juncture and (t007) goes to the finite verb it introduces under rule 88, not to this participle.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Article → the (rule 19).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Recoverable token pair split from its article under rule 26.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Coordinating καί → and.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Second conjunct noun.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "πειράζω requires an English object; the supplied resumptive pronoun him (t009) folds onto the participle as a rule 7 helper, rule 103 naming a resumptive pronoun as the contrast to added lexical content.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Rule 88 places the supplied juncture and on the finite verb it introduces; discontinuous over the intervening participial phrase under rule 15.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Accusative object of ἐπηρώτησαν → him.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Anarthrous noun; the supplied indefinite is an ordinary rule 7/51 helper on the noun it determines.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Preposition → from (rule 36).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "The ASV gives heaven no determiner, so the article has no the to anchor and the case preposition stays with the noun (rules 21, 23).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Governed noun, bare.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Infinitive with its own marker under rule 7; head on the lexical verb (rule 17).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Dative pronoun → them.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "MAT.16.1",
+  "review_notes": [
+    "The two English him tokens are split: t009 is the supplied object English requires for trying, t011 renders the expressed αὐτόν.",
+    "The juncture and (t007) is placed on ἐπηρώτησαν per rule 88; placing it on προσελθόντες remains the reading rule 88 refuses."
+  ]
+}

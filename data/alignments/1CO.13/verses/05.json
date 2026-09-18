@@ -1,0 +1,158 @@
+{
+  "alignments": [
+    {
+      "note": "`ἀσχημονέω` rendered by the light-verb frame *doth behave itself unseemly*, discontinuous across *not* (rule 15); head on the meaning-bearing *unseemly*, *behave* being the support verb and *doth* the auxiliary (rule 17).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Ordinary negative aligned to *not*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Finite verb.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Ordinary negative aligned to *not*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "The reflexive genitive `ἑαυτῆς` is a source word able to take the English possessive, so it displaces the substantival article's determiner and the article realizes nothing (rules 20, 54).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Reflexive possessive rendered by the two-word *its own*; head on *own*, the word realizing the reflexive force, on the reasoning rule 107 applies to a two-word emphatic. Heading on *its* remains defensible.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Passive verb with its copula, discontinuous across *not* (rules 9, 15); head on the lexical verb.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Ordinary negative aligned to *not*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "`λογίζομαι` rendered by the support-verb frame *taketh … account of*, discontinuous across *not* (rule 15); head on the meaning-bearing *account* (rule 17). The *of* stays inside this unit rather than riding to the object: `τὸ κακόν` is accusative, which English realizes with no preposition, so the *of* is licensed by the frame's own supplied noun *account* and belongs to what licenses it (rules 27, 106). Giving the *of* to `κακόν` as an *of + noun* rendering under rule 21 remains the reading the corpus takes for a genitive or dative, and is why this unit is worth checking.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t015",
+        "t016"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Ordinary negative aligned to *not*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "The ASV writes no determiner for *evil*, so the article has nothing to anchor and is its own unit (rule 23). This is unaffected by where the *of* goes, an accusative article having no case preposition to carry in any event (rule 21).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Substantival adjective standing bare as the verb's accusative object; head on *evil* (rules 17, 106).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "1CO.13.5",
+  "review_notes": [
+    "The only change from the accepted alignment is t016 (*of*), which moves from the `κακόν` unit into the `λογίζεται` unit. Every status and every head is unchanged, `τό` remains `unrepresented`, and the BSB disagreement recorded against s005 is untouched.",
+    "`τὰ ἑαυτῆς` is still split: the article is `unrepresented` because the reflexive pronoun, unlike rule 47's `ἴδιος`, can itself say whose, so it carries *its own* (rules 20, 54).",
+    "Each of the four negatives is an ordinary `οὐ` aligned to its own *not*; no negative indefinite stands anywhere in the verse, so rules 41 and 59 are not in question.",
+    "The verse now treats both of its support-verb frames alike, keeping *doth behave itself unseemly* and *taketh … account of* whole inside their verbs, which is rule 24's habit applied within one verse."
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "chapter": "PSA.140",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PSA.140.9.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 140:9 reads 'Let the mischief of their own lips cover them.' The qere yekassemo (3ms piel with suffix) and the ketiv yekassumo (3mp) differ only in the number of the covering verb; English 'Let ... cover them' is uninflected after 'let', so the rendering shows nothing of the verb's number, and the singular subject 'mischief' is the same collective noun under either reading. No ASV note is mapped to this unit. Underdetermined; the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.PSA.140.10.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 140:10 reads 'Let burning coals fall upon them' — an intransitive clause with the coals themselves as subject, which is the niphal yimmotu of the qere. The ketiv ymytw is a hiphil causative ('let them/him drop [coals] upon them'), which the ASV does not render: it supplies no agent dropping the coals. The verse's only note, 'Or, floods', is classed alternative_rendering and attaches to the English wording of mahamoroth, so it does not bear on this unit."
+    },
+    {
+      "unit_id": "WLC.PSA.140.12.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 140:12 reads 'I know that Jehovah will maintain the cause of the afflicted' — first person singular, which is the qere yada'ti. The ketiv yada'ta is second person ('thou knowest'), which the ASV's 'I know' excludes outright."
+    }
+  ]
+}

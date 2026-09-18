@@ -1,0 +1,208 @@
+{
+  "alignments": [
+    {
+      "note": "Verbless clause: the copula joins the predicate noun under rule 20; the supplied *the* joins the nominal expression under rule 15.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Explicit subject pronoun takes only its own English (rule 20).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The preposition is rendered *of* (rule 11).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Divine name.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Construct noun keeps its own word.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Pronominal suffix rendered by the possessive (rule 18).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Negative.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Finite verb with subject pronoun and auxiliary (rule 17); *yourselves* renders the Hithpael's own reflexive voice (rule 44).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "waw + negative fused as *nor*, headed on the negative (rule 35).",
+      "source": [
+        "s009",
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "noncompositional",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Lexical verb.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "No quantifier morpheme stands on the noun, so the supplied determiner *any* joins the noun's unit under rule 15; the clause's negative is already fused into *nor*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Construct noun.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Suffix rendered by the possessive.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Preposition rendered *for*.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Anarthrous substantival participle takes the supplied *the* into its own unit and heads on the lexeme (rule 46).",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t022",
+        "t023"
+      ],
+      "target_head": "t023"
+    }
+  ],
+  "ref": "DEU.14.1",
+  "review_notes": [
+    "Rule 35 fusion for the single *nor*; rule 15 for the supplied *any* on an unquantified noun."
+  ]
+}

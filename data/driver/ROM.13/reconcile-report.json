@@ -1,0 +1,29 @@
+{
+  "chapter": "ROM.13",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "ROM.13.11"
+  ],
+  "rejected": {},
+  "conventions": [
+    "ROM.13 aligns the ASV's text and never its marginal alternatives, naming the margin in the affected unit's note instead. This decides real edges rather than presentation: 13:4's three 'Or, it' notes leave the supplied subject pronouns of ἐστιν as 'he', and 13:11's 'Or, our salvation nearer than when etc.' is declined, so ἡμῶν is aligned as the word governed by ἐγγύτερον and not as a possessive on σωτηρία. Rule 11 makes the ASV's own addition markup evidence rather than a verdict; a marginal rendering is weaker still, being a translation the ASV did not adopt in its text."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v95",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 31 candidate lemma groups and the full dump end to end. No cross-verse split found: every difference the table reports is licensed by the source or by what the ASV wrote.",
+    "Articles (51 occurrences, 14 treatments): every aligned article answers to a determiner the ASV wrote, every unrepresented one stands where it wrote none. The three rule-20-second-arm articles agree (13:7 τὰς → their, 13:8 τὸν → his, 13:10 τῷ → his), and 13:9's τὸν before πλησίον is empty only because σου is expressed to take the possessive — rule 20 proper against rule 20's second arm, licensed by the source.",
+    "The added/fold audit, which the candidate table cannot see, is consistent. The chapter's one added unit (13:7 'is due') and its five folds (13:1 powers, 13:5 ye, 13:11 first, 13:14 fulfil, 13:14 thereof) divide on rule 103's licensing test: 13:1 folds a supplied nominal standing inside a phrase a Greek article governs (rule 102); 13:14 folds a resumptive pronoun and a verb completing a standing preposition's own English; 13:7's supplied predicate stands in a slot no token governs, ὀφειλή being already spent on 'dues'.",
+    "Verbless clauses were decided five times across four verses, each time by what was left in the clause: 13:5 ἀνάγκη, 13:9 ἐντολή and 13:11 ὥρα take the supplied subject with the copula because no subject is expressed (rule 68); 13:10 πλήρωμα takes it against an expressed noun subject (rule 63); 13:11 ἐγγύτερον takes it as an adverbial predicate (rule 53). One analysis, five contexts.",
+    "One correction, and it is a single-verse rule error rather than a split — ROM.13.11 s015/s016. ἐγγύτερον is the comparative of the improper preposition ἐγγύς (rule 95 decides the class from the lexeme, never from the ADV-C tag), and the ASV gives ἡμῶν no determiner for an article to anchor, so rule 101 keeps 'nearer to' whole on the adverb and leaves the pronoun a bare 'us' — the shape of χωρὶς ἐμοῦ → apart from / me. The unit as returned rested on rule 21, but rule 21 hands a governed word only the preposition realizing its own case, and 'to' does not realize a genitive; rule 101 states in terms that no corpus unit puts such a trailing preposition on a bare governed noun.",
+    "BSB disagreements: neither is an error. ROM.13.4 τὸ before κακόν is unrepresented because the ASV writes a bare 'evil' (rule 23) — and the flag is not even internally systematic, since the same verse's τὸ before ἀγαθόν is empty on identical grounds and went unflagged. ROM.13.9 τῷ before λόγῳ is emptied by the attributive demonstrative τούτῳ under rule 38. Both are the documented convention difference over function morphemes; no edge changed for them.",
+    "Left as returned, with the disagreement named: 13:7's 'is due'. Rule 56 is arguable there — the Greek clause expresses a subject (φόρον) and no predicate at all, which is rule 56's own configuration for handing the supplied copula to the subject — but 'is due' is copula plus a lexical predicate whose lexeme is spent on 'dues' at t005, which is rule 103's case, and the verse's own note already records the rule 15 alternative. A one-instance judgment between two live rules is not something to overturn from outside the verse.",
+    "Also checked and consistent: ἐνδύω/ἀποβάλλω preverb particles (13:12 twice, 13:14) all ride inside the verb's unit under rule 106; the four τῷ → 'to whom' datives of 13:7 are analysed alike; the three μή clauses of 13:13 share one English 'in' per pair, given to the first member; διά is rendered three ways (13:5 twice, 13:6) and each is decided on the English the ASV wrote (rules 45, 78, and the plain reading)."
+  ]
+}

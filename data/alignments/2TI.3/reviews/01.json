@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "d50b427ec06e2fa4c2e1a02d7ab6b8cdb40f5cb37fb8bdc175c6a614c1d5aaf1",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: all ten source ids and all twelve target ids appear exactly once; every head is a member of its own array.",
+    "Rule 58 is applied correctly: `ἐσχάταις` and `ἡμέραις` are both anarthrous, so the supplied *the* rides with the noun discontinuously under rule 15, exactly as the rule's own `Ἐπ᾽ ἐσχάτου χρόνου` → *In the last time* has it, with the head on *days* rather than on the determiner.",
+    "s008 heads on *come* rather than the auxiliary *shall*, per rules 9 and 17.",
+    "s010's note calls `χαλεποί` a predicate adjective where the ASV reads it attributively (*grievous times*); this is descriptive wording only and changes no id, status or head, so it is left as written."
+  ],
+  "ref": "2TI.3.1",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

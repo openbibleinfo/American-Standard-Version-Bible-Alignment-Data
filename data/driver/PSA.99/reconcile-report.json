@@ -1,0 +1,25 @@
+{
+  "chapter": "PSA.99",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Supplied subject pronoun of a participial (verbless) clause: where a single nominal or explicit pronoun standing earlier in the verse denotes the referent, the pronoun joins that morpheme's discontinuous unit under rule 25 and the participle keeps only its verb (v1 'He sitteth' → יְהוָה; v8 'thou tookest vengeance' → the earlier אַתָּה). Where the referent is a coordination of several nominals that no single morpheme denotes (v6 'They called' for Moses, Aaron and Samuel), the pronoun stays with the participle rendered as a finite verb under rule 17 rather than being marked added."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 14 candidate groups against the source. None is a split: every difference is licensed by the Hebrew or by the ASV's own rendering (object vs possessive suffix for הוּא; And vs Though for a waw; vocative O Jehovah in v8; predicate 'is great' v2 vs attributive 'great' v3; article present in v2 vs supplied in v1 for עַם; dative לְ unrepresented in v7/v8 vs 'at' before a noun in v5/v9; עַל 'above' v2 vs 'of' v8).",
+    "The one construction analysed two ways is the supplied subject pronoun of a participial clause: v1 (He sitteth) and v8 (thou tookest vengeance) give it to the earlier written nominal under rule 25, while v6 (They called) keeps it with the participle under rule 17 because the referent is Moses, Aaron and Samuel together and no single morpheme denotes it. The verse notes state both readings and the difference is licensed; recorded as a convention below.",
+    "v5 footstool: הֲדֹם רַגְלָיו fused as one unit headed on the construct, per rules 30 and 23 (horsehoofs precedent); the rejected reading (רֶגֶל unrepresented under rule 22) is named in the note. Kept.",
+    "BSB disagreements (v7 לָמוֹ, v8 לָהֶם): both are dative לְ whose relation the ASV leaves unstated before a bare pronoun object, rule 40. Convention difference, not errors.",
+    "Repeated notes 'Copula joins the adjectival predicate, rule 20' and 'Supplied the joins the noun, rule 15' restate contract rules and need no convention entry.",
+    "No promotions or amendments: the chapter taught nothing the contract does not already say."
+  ]
+}

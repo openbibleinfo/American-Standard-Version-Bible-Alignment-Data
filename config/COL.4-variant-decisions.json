@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "chapter": "COL.4",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.COL.4.1.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'ye also have a Master in heaven' renders either the singular ouranoi or the plural ouranois; ASV uses 'in heaven' for both, and the three glossing notes here (Lords, bondservants, equality) touch other words. Nothing in the English distinguishes the number."
+    },
+    {
+      "unit_id": "SBLGNT.COL.4.8.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'that ye may know our state' has the second person plural verb, gnote, not the third singular gno ('that he may know')."
+    },
+    {
+      "unit_id": "SBLGNT.COL.4.8.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'that ye may know our state' renders hemon; the RP hymon would give 'your state'."
+    },
+    {
+      "unit_id": "SBLGNT.COL.4.12.v004",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'a servant of Christ Jesus', which renders the added Iesou; the short reading gives only 'of Christ'."
+    },
+    {
+      "unit_id": "SBLGNT.COL.4.12.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'that ye may stand perfect' renders either stathete or stete; both are aorist subjunctives of 'stand' and ASV's single verb does not distinguish them."
+    },
+    {
+      "unit_id": "SBLGNT.COL.4.12.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'and fully assured in all the will of God' renders peplerophoremenoi; peplaeromenoi would give 'filled'/'complete', not the assurance sense ASV states."
+    },
+    {
+      "unit_id": "SBLGNT.COL.4.13.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'that he hath much labor for you' renders polyn ponon; the RP zelon polyn would give 'much zeal'."
+    },
+    {
+      "unit_id": "SBLGNT.COL.4.15.v008",
+      "status": "selected",
+      "selected_reading": "r02",
+      "compatible_readings": [
+        "r02"
+      ],
+      "evidence": "ASV 'Nymphas, and the church that is in their house' has the masculine accusative Nymphan (with the note 'The Greek may represent Nympha') and the plural auton; the textual_variant note 'Some ancient authorities read her' places autes in the margin, not in the ASV text, excluding the base and r01, while auton rather than autou is read."
+    },
+    {
+      "unit_id": "SBLGNT.COL.4.16.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Laodikeon and Laodikaion are orthographic variants of the same genitive plural; ASV 'the church of the Laodiceans' renders either, and the sole note (Greek the) concerns the article."
+    },
+    {
+      "unit_id": "SBLGNT.COL.4.18.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV ends 'Grace be with you.' with no 'Amen', so the RP addition of Amen is not rendered."
+    }
+  ]
+}

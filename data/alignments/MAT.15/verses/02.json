@@ -1,0 +1,225 @@
+{
+  "alignments": [
+    {
+      "note": "'dia ti' -> 'Why' is named in rule 45: one English word answering to neither token separately, headed on the governed word.",
+      "source": [
+        "s001",
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "noncompositional",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Determiner slot taken by the possessive 'thy', which belongs to the genitive pronoun s005 (rule 20).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Genitive pronoun rendered by the possessive.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Periphrastic auxiliary 'do' is a rule 9 helper; head on the lexical verb. Discontinuous under rule 15.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Article to 'the' (rule 19).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Genitive article carries the case preposition and is headed on 'the' (rule 21).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Ordinary negative; no negative indefinite follows, so rule 41 does not apply.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Supplied subject pronoun rides with the finite verb; head on the lexical verb.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Determiner displaced by the possessive 'their' on the genitive pronoun s016 (rule 20).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Genitive pronoun as possessive.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Noun, reordered under rule 15.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Supplied subject pronoun rides with the verb; head on the lexical verb.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "MAT.15.2",
+  "review_notes": [
+    "The variant unit covering s016 carries the base reading, which the ASV's 'their' realizes."
+  ]
+}

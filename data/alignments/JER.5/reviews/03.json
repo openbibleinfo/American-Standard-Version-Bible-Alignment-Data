@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "d91a2bcad2e8516bf2643756ece9b756aa898f9c9c28f9a16b506056a8fc6bb1",
+  "contract_version": "ot-hebrew-verse-v57",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 26 source and 43 target tokens are partitioned exactly once, with two `added` units (*look*, the second *but*).",
+    "*look* is correctly `added`: the Hebrew clause is verbless (the ASV's own note reads 'Hebrew are not thine eyes upon'), the preposition already has its *upon*, and rule 20's lexical-verb boundary refuses a wholly supplied verb. The unit note names the rule 49 competing reading.",
+    "The second *but* answers to no waw (מֵאֲנוּ stands asyndetically after כִּלִּיתָם), so it is `added` on rule 42's surplus-connective reasoning; the first *but* is licensed by the waw of וְלֹא and is aligned there, with the negative taking its own *not* under rule 2 rather than fusing.",
+    "The ASV footnotes 'Or, faithfulness' (s007) and 'Or, instruction' (s018) are rendering alternatives and do not change the alignment."
+  ],
+  "ref": "JER.5.3",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

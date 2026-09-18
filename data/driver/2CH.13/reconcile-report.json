@@ -1,0 +1,27 @@
+{
+  "chapter": "2CH.13",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The idiom הִתְחַזֵּק לִפְנֵי (hithpael of חָזַק with לִפְנֵי) rendered by the single English verb withstand is one three-morpheme unit under rule 40's fused-predicate sentence, headed on the verb, in both 2CH.13.7 (could withstand, with not left to לֹא) and 2CH.13.8 (withstand); the object or suffix after לִפְנֵי stays its own unit. The competing reading, leaving לִפְנֵי unrepresented beside the verb, was considered and rejected because no English word is spent on the preposition or its noun apart from the verb and the three morphemes are contiguous."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v218",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 49 candidate lemmas and every added unit across the 22 verses. Every difference in the table is an ASV rendering difference the source licenses; no construction was analysed two ways.",
+    "Waw: every rendering (And/and, but, Yet, Then, Thus, so, with, also, that, when, And when) is read off the ASV under rules 14/17/51/55; the three unrepresented waws (13.1 asyndetic English, 13.9 apodosis waw with so that standing ahead of the protasis, 13.14 waw before behold) each answer to no written connective.",
+    "Articles: written the goes to the article; every/our/their standing in the article's slot go to the article under rule 41 (13.10, 13.11, 13.12); an/no-the cases are unrepresented under rules 15/29; the agreement articles of 13.11 and 13.18 are unrepresented under rules 41/47. All consistent.",
+    "Distributive babboqer babboqer / ba'ereb ba'ereb (13.11, three times) read uniformly under rule 22: first article takes every, first noun the noun, both prepositions and the repeated triple unrepresented.",
+    "hithpael chazaq + lifne -> withstand fused as one three-morpheme unit under rule 40 in both 13.7 (could withstand) and 13.8; suffix/object kept separate in both. Compound prepositions me-al le- (13.4) and me-ahare (13.13 x2) head on the opening min under rule 23 in every instance.",
+    "Added units (even x2, so that, them that are, as for, we have, set they in order) each answer to no morpheme and are correctly one unit per contiguous run; no verse folds the same kind of supply into a neighbour.",
+    "BSB disagreements are all documented convention differences (unrendered connective waws, rule 40 datives/instrumental be, rule 26 repeated beyn, rule 29 articles, rule 22 distributive repetitions and their prepositions, rule 16 object markers). None is a genuine error.",
+    "One chapter-wide judgment recorded as a convention (the withstand fusion). Nothing here generalises beyond what rules 22, 23, 40 and 41 already say, so no promotions or amendments."
+  ]
+}

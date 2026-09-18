@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "chapter": "EZK.23",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.EZK.23.14.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'the Chaldeans' permits both the qere and ketiv spellings and no mapped textual-variant note distinguishes them; retain the qere base fallback."
+    },
+    {
+      "unit_id": "WLC.EZK.23.16.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'she doted upon them' permits both verbal forms; the Hebrew gloss 'at the sight of her eyes' does not distinguish the qere from the ketiv, so retain the qere base fallback."
+    },
+    {
+      "unit_id": "WLC.EZK.23.42.v003",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV explicitly renders 'drunkards,' distinguishing the ketiv סובאים from the qere סָבָאִים."
+    },
+    {
+      "unit_id": "WLC.EZK.23.43.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV explicitly has 'Now,' distinguishing the qere עַתָּה from ketiv עת; the mapped notes are alternative renderings or a Hebrew gloss, not textual variants."
+    },
+    {
+      "unit_id": "WLC.EZK.23.43.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's main wording 'will they play the harlot' is plural and therefore distinguishes qere יִזְנוּ from singular ketiv יזנה; the alternative-rendering notes do not decide a reading."
+    }
+  ]
+}

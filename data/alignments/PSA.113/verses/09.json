@@ -1,0 +1,154 @@
+{
+  "alignments": [
+    {
+      "note": "Participial predicate with no subject nominal in the verse; a participle in a verbless clause takes only the copula, so the supplied subject pronoun is added (rules 20, 25), as in verse 7.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Hiphil 'cause to dwell' rendered by causative light verb plus 'to keep' (rule 52 closing sentence, rule 44); 'house' is the written בַּיִת's. Head on 'keep', the lexical complement; 'maketh' is the competing head. Discontinuous around the object (rule 25).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Substantival adjective in construct takes the supplied generic 'woman' (rules 31, 46), headed on 'barren'. The chain's single 'the' goes to the present article on the rectum (rule 29), not supplied here.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Article on the nomen rectum takes the chain's 'the', fronted to the left edge because the ASV renders 'house' anarthrously (rule 29 fronting; a present article takes the written 'the' before a supplied one, rule 47). Competing reading: mark the article unrepresented because the recasting dissolves the chain, and give 'the' to the substantive under rule 46.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Rectum rendered as bare complement of 'keep'; no 'of' written.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "No waw in the Hebrew; supplied connective is added (rule 14). Separate from the copula, which does a different office (rule 2).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "אֵם is the predicate nominal of the object-complement predication ('sit as a mother'), so the construction-supplied copula 'to be' joins it (rule 20) together with the supplied 'a' (rule 15); discontinuous around the attributive 'joyful' (rule 25). Competing readings: 'to be' on the adjective as a predicate adjective, or added with 'And'.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t012",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "ASV writes no 'the' before 'children'; the indefinite 'a' is the construct noun's (rules 15, 29).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rectum takes 'of' (rule 19).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Adjective standing after אֵם is attributive (rule 41's order test) and the ASV renders it attributively as 'joyful'; the copula belongs to the predicate nominal it modifies.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Imperative with its supplied subject pronoun (rule 17).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Short divine name; margin 'Hallelujah' read and set aside (rule 38).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "PSA.113.9",
+  "review_notes": [
+    "Corrected two placements: the chain's 'the' goes to the present article on הַבַּיִת (rule 29 fronting) rather than being supplied on the substantive, and the copula 'to be' joins the predicate nominal אֵם (rule 20) rather than the attributive adjective שְׂמֵחָה, which keeps 'joyful'. 'He' and 'And' remain added."
+  ]
+}

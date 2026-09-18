@@ -1,0 +1,192 @@
+{
+  "alignments": [
+    {
+      "note": "Noun with the supplied indefinite article under rule 15.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The assimilated article is a real token under rule 12, but the ASV writes *A man* and no *the* for the phrase, so it is unrepresented under rule 29.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The possessive לְ is what makes this verbless clause possessive and carries the *hath* under rule 43.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The possessed noun keeps only its own word.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Written preposition rendered *in*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Construct noun with supplied *the*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Nomen rectum with its *of*, discontinuous around the possessive.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Pronominal suffix rendered by the possessive *his*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Waw rendered *And*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "The subject noun with its supplied *a*; the ASV resumes the same referent with *it* in the exclamation, so both realizations are this noun's one discontinuous unit under rule 25, headed on the first. The competing reading marks *it* an `added` dummy under rule 20.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013",
+        "t020"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Written preposition rendered *in*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "The suffix is realized not by a pronoun but by the adjective *due*, which is what the ASV writes for its possessive force under rule 18. The competing reading marks the suffix unrepresented and *due* `added`.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Noun rendered *season*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Exclamatory interrogative rendered *how*.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Predicate adjective with the construction-supplied copula under rule 20.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t018"
+    }
+  ],
+  "ref": "PRO.15.23",
+  "review_notes": [
+    "Two units are materially contested and both are noted in place: the resumptive *it* on דָבָר, and *due* as the realization of the suffix on עֵת."
+  ]
+}

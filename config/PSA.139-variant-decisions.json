@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "PSA.139",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PSA.139.6.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The ketiv and qere differ only by metathesis of aleph and yod in the same root; both are read as a form meaning 'wonderful'. ASV 'Such knowledge is too wonderful for me' renders that sense and would be identical under either spelling, and no ASV note is mapped here. Nothing in the English distinguishes the readings, so the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.PSA.139.16.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'When as yet there was none of them' is a negative clause: it renders the ketiv ולא ('and not one of them'). The qere ולו is the prepositional 'and for him/it', which yields no negation and cannot produce 'there was none'. The English wording therefore distinguishes the ketiv."
+    }
+  ]
+}

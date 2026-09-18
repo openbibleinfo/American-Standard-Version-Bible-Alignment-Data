@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "chapter": "1CH.9",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1CH.9.4.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV explicitly reads the personal name 'Bani,' distinguishing the qere/base reading from ketiv Benjamin."
+    },
+    {
+      "unit_id": "WLC.1CH.9.33.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's 'were free from other service' conveys the contextual sense but does not distinguish the qere spelling/vocalization from the ketiv; no mapped textual note decides the reading, so the base fallback is retained."
+    },
+    {
+      "unit_id": "WLC.1CH.9.35.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV explicitly reads the personal name 'Jeiel,' distinguishing the qere/base reading from ketiv Jeuel."
+    }
+  ]
+}

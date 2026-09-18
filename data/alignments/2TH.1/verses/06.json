@@ -1,0 +1,127 @@
+{
+  "alignments": [
+    {
+      "note": "The conditional particle takes the whole English clause-introducer *if so be that* under rule 40, headed on *if*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Verbless clause with no expressed subject, so rule 68 gives the supplied *it is* to the predicate; *thing* is the generic completion, so rule 17 heads on *righteous*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007",
+        "t008",
+        "t009"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Infinitive with its rule 7 marker *to*, no conjunction governing the clause (rule 61).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Rule 32: the substantival article before a participle supplies the pronoun *them* and nothing else; the dative's case preposition rides with it under rule 21.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Participle carrying the supplied relativizer as a rule 7 helper (rule 32).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Pronoun object of the participle.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Cognate accusative rendered *affliction*, discontinuous from its verb under rule 15.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "2TH.1.6",
+  "review_notes": [
+    "Every source and target ID partitioned exactly once.",
+    "s002 heads on *righteous* rather than the supplied generic *thing*, per rule 17's generic-noun clause and rule 68's `καλόν` → *it is good*."
+  ]
+}

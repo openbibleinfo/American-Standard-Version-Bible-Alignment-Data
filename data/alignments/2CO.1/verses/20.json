@@ -1,0 +1,280 @@
+{
+  "alignments": [
+    {
+      "confidence": "high",
+      "note": "γάρ → For.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "confidence": "medium",
+      "note": "ὅσαι is the predicate quantifier of a verbless clause, so under rule 53 the supplied copula 'be' rides with it rather than with the subject noun phrase; head on 'many', the word realizing the lexeme, with 'how' and 'soever' as rule 7 helpers. Reading ὅσαι attributively, which would leave no predicate and send 'be' to 'promises' under rule 56, remains defensible. No ἄν or ἐάν stands here, so rules 50 and 72 are not in question and 'soever' is ὅσαι's own.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "confidence": "high",
+      "note": "Anarthrous ἐπαγγελίαι; the supplied 'the' is a rule 51/7 helper on the noun since no Greek article competes.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "confidence": "high",
+      "note": "Genitive noun rendered 'of + noun'; rule 17 heads on the noun.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "confidence": "medium",
+      "note": "Verbless clause with prepositional predicate ἐν αὐτῷ; rule 53 gives the supplied copula to the preposition, discontinuously under rule 15, and rule 63 keeps it off the noun-phrase subject τὸ Ναί. Word order ('in him is the yea') is not what decides. Reading τὸ Ναί as a predicate nominal with an unexpressed subject, which would put 'is' there under rule 68, remains defensible.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t012"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "confidence": "high",
+      "note": "αὐτῷ → him.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "confidence": "high",
+      "note": "Article of τὸ Ναί → the (rule 19).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "confidence": "high",
+      "note": "Ναί → yea.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "confidence": "high",
+      "note": "διό → wherefore.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "confidence": "high",
+      "note": "Intensifying καί realized by 'also', so it is its own aligned unit (rule 65).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "confidence": "medium",
+      "note": "Second verbless clause; the supplied 'is' rides with the prepositional predicate δι' αὐτοῦ under rule 53, parallel to the first clause. Giving it to πρὸς δόξαν instead is defensible, since two prepositional phrases stand in the clause.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t019"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "confidence": "high",
+      "note": "αὐτοῦ → him.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "confidence": "high",
+      "note": "Article of τὸ Ἀμήν → the (rule 19).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "confidence": "high",
+      "note": "Ἀμήν → Amen.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "confidence": "high",
+      "note": "Article of τῷ θεῷ: the ASV writes 'of God' with no determiner, so under rules 21 and 23 the article has no 'the' to anchor and the case preposition stays with the noun. The 'the' at t023 determines 'glory', not 'God'.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "τῷ θεῷ → 'of God' as one unit on the noun (rule 21, whose own example is τῷ θεῷ → to God), headed on God.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t025",
+        "t026"
+      ],
+      "target_head": "t026"
+    },
+    {
+      "confidence": "high",
+      "note": "πρός → unto; discontinuous from δόξαν under rule 15.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "confidence": "high",
+      "note": "Anarthrous δόξαν; the supplied 'the' is a rule 51/7 helper on the noun it determines.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t023",
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "confidence": "high",
+      "note": "διά → through.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t027"
+      ],
+      "target_head": "t027"
+    },
+    {
+      "confidence": "high",
+      "note": "ἡμῶν → us.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t028"
+      ],
+      "target_head": "t028"
+    }
+  ],
+  "ref": "2CO.1.20",
+  "review_notes": [
+    "Reviewed and returned unchanged in structure, heads and statuses; only two notes were expanded to name the competing readings that justify their medium confidence.",
+    "Partition verified: s001-s020 and t001-t028 each appear exactly once, every head is a member of its own array, and the single unrepresented unit (s015) has an empty target and null target head.",
+    "Both supplied copulas ('is' at t012 and t019) sit on the prepositional predicates ἐν and δι' under rule 53, which refuses to read a copula off English word order, and rule 63 keeps the first off the noun-phrase subject τὸ Ναί. s005 stays medium because τὸ Ναί could instead be read as a predicate nominal with an unexpressed subject, which rule 68 would give the copula to; s011 stays medium because δι' αὐτοῦ and πρὸς δόξαν both stand in the clause.",
+    "The clause-initial 'be' (t005) stays on ὅσαι as rule 53's adjectival-predicate copula; medium records the attributive reading of ὅσαι, on which the clause would have no predicate and rule 56 would send 'be' to 'the promises'.",
+    "Both supplied 'the' determiners (t006, t023) stand before anarthrous Greek nouns, so rule 51's helper clause applies and no article competes. The one Greek article whose noun the ASV leaves bare is τῷ before θεῷ, and rule 21's own worked example τῷ θεῷ → 'to God' settles it: article unrepresented, case preposition on the noun.",
+    "'how many soever' is headed on 'many' per rule 17. No ἄν or ἐάν stands in this verse, so rules 50 and 72 are not in question and the whole phrase, '-soever' included, is ὅσαι's own."
+  ]
+}

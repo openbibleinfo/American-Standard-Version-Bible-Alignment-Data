@@ -1,0 +1,205 @@
+{
+  "alignments": [
+    {
+      "note": "Purpose lamed takes the complementizer (rule 52).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Infinitive of הָיָה with the separately written modal, which rule 52 keeps with the verb.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Supplied 'the' belongs to the nominal expression it determines (rule 15).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Predicate adjective.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The preposition of לְבִלְתִּי takes the complementizer (rules 48, 52).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "The negative particle standing in the clause takes the ASV's 'not' before the preposition could (rule 48).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Supplied subject and modal belong to the infinitive (rule 52); the reflexive renders the Hithpael's own voice (rule 44); discontinuous around 'not' (rule 25).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t011",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "No conjunction morpheme stands in this clause, so the contrastive 'but' answers to nothing (rule 14, last sentence). The competing reading takes 'but that' as one rendering of a lamed on the analogy of rule 55's coordinator-plus-subordinator pair, but that clause governs a waw, and no waw is written here.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "The lamed before שְׁמֹר takes the 'by' the ASV writes for its gerund recasting, exactly as rule 52 leaves the function word with the preposition and the verbal material with the infinitive. The competing reading gives this lamed the 'that' of t015 on linear grounds, but that complementizer introduces the clause whose finite verb renders עָמְדָהּ, and counting the ASV's two function words against the two lamed morphemes leaves each with one (rule 52's counting; rule 42's method).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Infinitive construct rendered as the gerund 'keeping'.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Object marker with a bare English object (rule 16).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Pronominal suffix (rule 18).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Purpose lamed of לְעָמְדָהּ takes the complementizer of the clause whose finite verb renders its infinitive (rule 52); the ASV fronts that 'that' before the gerund adjunct, which is ordinary reordering and not a reason to move it to the other lamed.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Infinitive with the separately written modal (rule 52).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "The suffix on the infinitive construct is its subject and takes the English subject pronoun (rule 18).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    }
+  ],
+  "ref": "EZK.17.14",
+  "review_notes": [
+    "Corrected: the accepted alignment gave 'that' to the lamed of לִשְׁמֹר and the supplied 'by' to the infinitive שְׁמֹר, leaving the lamed of לְעָמְדָהּ unrepresented. Rule 52 keeps the function word with the preposition and the verbal material with the infinitive, and its counting sentence sets the ASV's two function words against the verse's two remaining lamed morphemes: 'by' goes to the lamed of לִשְׁמֹר and 'that' to the lamed of לְעָמְדָהּ, whose infinitive is what the finite 'it might stand' renders.",
+    "The 'but' remains added: no conjunction morpheme stands in the clause, and rule 55's coordinator-plus-subordinator pair governs a waw (rule 14, last sentence).",
+    "The first two purpose clauses and the לְבִלְתִּי negation are unchanged and correct (rules 48, 52)."
+  ]
+}

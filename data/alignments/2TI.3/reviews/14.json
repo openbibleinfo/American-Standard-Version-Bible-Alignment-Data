@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "286c2a297d7241c07c6b358d5ca20d1e2559179de85f847ec83bb798fc3cd33f",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition checks out: all 12 source ids and all 22 target ids appear exactly once, every head is a member of its own array, and there are no unrepresented/added units to validate.",
+    "s005 οἷς → the things which is headed on things, which is rule 77's generic-noun arm (ἃ εἰργασάμεθα → the things which we have wrought); the relativizer would be the head only if the supplied word were a bare antecedent or determiner, which things is not.",
+    "s008's trailing of (t015) is correctly kept inside the verb's unit: the relative is stranded and no Greek preposition stands for it to answer to, so rule 36's 'preposition realizes the preposition' does not reach it, while s010 παρά does take its own of at t017.",
+    "s012's them (t022) is a supplied object of the second ἔμαθες, whose Greek object is unexpressed, so rule 103's resumptive-pronoun contrast (3JN.1.13) plus rule 74's supplied-object side put it on the verb that requires it rather than marking it added. Reading it instead as a discontinuous second realization of s005 remains defensible but was not taken, and the unit note records the choice.",
+    "Splits are at the smallest defensible size throughout — σύ/μένε separated as thou/abide under rule 2 with rule 15 covering the reorder, and each ἔμαθες keeping its own subject and auxiliary headed on the lexical verb under rule 9."
+  ],
+  "ref": "2TI.3.14",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,26 @@
+{
+  "chapter": "1SA.21",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "גַּם … וְגַם under a clause negative rendered *neither … nor* (כִּי גַם־חַרְבִּי וְגַם־כֵּלַי לֹא־לָקַחְתִּי → *I have neither brought my sword nor my weapons*): the present לֹא takes the opening *neither* and the waw of the second member takes the closing *nor*, as rule 14 directs for a correlative pair another morpheme is itself what the opening word says; both גַּם are their own `unrepresented` units, since the ASV writes no *both*, *also* or *even* for either. The competing reading that gives *neither*/*nor* to the two גַּם was considered and set aside.",
+    "בַּיּוֹם הַהוּא rendered by the bare *that day* (21.7 *was there that day*, 21.10 *fled that day*): the בְּ is `unrepresented` under rule 40, the assimilated article [הַ] and the agreement article on הוּא are both `unrepresented`, יוֹם takes *day*, and the demonstrative pronoun הוּא takes the written *that* under rule 41. The same allocation is used for הַדְּבָרִים הָאֵלֶּה → *these words* in 21.12."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 15 verses end to end against the 46-lemma candidate table. Every bucket that shows two treatments is licensed by a difference in the ASV's rendering or the Hebrew construction, not by a divergent analysis: suffix pronouns follow the case the ASV wrote; the waw takes whichever connective is written (Then/And/So/Now/therefore/then/though/nor) and goes unrepresented only for the bare apodosis of 21.5; the article is unrepresented wherever a demonstrative (21.7, 21.10, 21.12) or a possessive standing in its place (21.5 *their*) takes the determiner, and takes *the* wherever one is written.",
+    "Recurring constructions are analysed one way throughout: בַּיּוֹם הַהוּא → *that day* (21.7, 21.10) with בְּ, the assimilated article and the agreement article unrepresented and הוּא → *that*; dative לְ + suffix as a bare indirect object (21.6, 21.9) versus *unto* where written (21.1, 21.5); לִפְנֵי fused as *before* (21.6, 21.7) with the 21.6 מִן taking its own *from*; מִפְּנֵי fused whether rendered *for fear of* (21.10, headed on *fear*) or *of* (21.12); existential אַיִן headed on the negation word in all four occurrences with the presentative frame joining it only where the ASV writes one; construct nouns taking supplied *the* and recta taking *of* on rule 29's count; the two הֲ of 21.11 taking the fronted copula (verbless) and the fronted *did* (finite) respectively.",
+    "The six `added` units (21.1 *came*, 21.3 *me*, 21.5 *but*, 21.9 *here* and *it*, 21.14 *then*) each answer to no morpheme, and the same supplied words are not folded into a licensing morpheme elsewhere in the chapter: the 21.9 *it* of *give it me* goes to the written suffix while the 21.3 *me* of *give me* stays `added` because תְּנָה carries no object morpheme.",
+    "Two hedged readings stand as accepted with their competing analyses named in the notes: 21.5 כִּתְמוֹל שִׁלְשֹׁם → *about these three days* as one noncompositional unit anchored on כְּ under rule 6, and 21.8 הָיָה → *required* beside נָחוּץ → *haste*, where dropping *required* leaves the written verb with nothing. Neither is a split.",
+    "BSB disagreements (19): all convention differences — object markers rendered bare (21.2, 21.9, 21.14), the paragogic he of 21.3, the apodosis waw of 21.5, dative and reflexive לְ left unrendered (21.6, 21.9, 21.11), the לְ of לֵאמֹר, the silent preposition and articles of *that day*, the second גַּם of 21.8, the unrendered reflexive suffix of 21.9, and the proleptic object suffix of 21.13 that the ASV realises once as *his behavior*. None is a genuine error.",
+    "Two conventions recorded; no promotion or amendment. The chapter's one non-obvious judgment (גַּם … וְגַם under לֹא rendered *neither … nor*) follows rule 14's explicit assignment and has no corpus precedent shown, so it is logged rather than promoted."
+  ]
+}

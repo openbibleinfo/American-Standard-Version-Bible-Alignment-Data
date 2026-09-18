@@ -1,0 +1,195 @@
+{
+  "alignments": [
+    {
+      "note": "Conditional particle to the English conjunction introducing the clause (rule 40).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Postpositive connective rendered by the fronted 'But'.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Improper preposition rendered by a single English word, so rule 71's frame question does not arise; the governed noun is anarthrous and keeps no supplied preposition (rule 101).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Expressed finite copula takes its English subject pronoun and verb (rules 7, 9); head on the verb word.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Anarthrous noun standing bare after the improper preposition (rule 101).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Genitive relative rendered by the single portmanteau 'whereof', whose '-of' realizes the case; aligned rather than noncompositional under rule 35's test.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Predicate adjective to its English noun.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Perfect indicative rendered by a periphrastic passive; head on the lexical verb rather than the auxiliaries (rules 9, 17).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Quantifier subject of the relative clause; the ASV fronts it, which rule 15 permits.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Inferential particle carrying content of its own, aligned in the ordinary way.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Substantival adjective rendered by a single English noun.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Expressed conjunction to its English word.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Ordinary negative before a plain noun; rules 41 and 59 do not bear on it, no negative indefinite standing here.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Anarthrous predicate noun standing bare.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Second expressed copula with its inverted subject pronoun (rules 7, 9); inversion is English word order and does not move the unit.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "HEB.12.8",
+  "review_notes": [
+    "All 15 source and all 19 target IDs partitioned exactly once; no unrepresented or added units were needed.",
+    "s006 'whereof': read as aligned under rule 35, the '-of' answering to the genitive case, rather than noncompositional under rule 45, which wants an English word answering to neither element.",
+    "s008 head placed on 'made' rather than the auxiliary 'have' or 'been', per rules 9 and 17.",
+    "Variant SBLGNT.HEB.12.8.v003 is underdetermined over s012-s015 and carries no FALLBACK EXCLUDED mark, so rule 97 does not apply and no new textual decision was made (rule 12)."
+  ]
+}

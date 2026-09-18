@@ -1,0 +1,29 @@
+{
+  "chapter": "ECC.2",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "ECC.2.13"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Comparative frames: a comparative preposition takes the whole English frame the ASV writes for it into its own unit and heads on the relational word, never on a degree adverb or a supplied content word — מִן -> 'more than' (2.9) and 'than' (2.25) head on 'than', כְּ -> 'as far as' (2.13) heads on the opening 'as', כְּ -> 'As ... so' (2.15) heads on 'As', עִם -> 'even as' (2.16, twice) heads on 'as'. Where the ASV writes no comparative word at all because the comparison is inside a verb its recasting supplies ('wisdom excelleth folly', 2.13), the מִן is unrepresented rather than fused: it is not contiguous with יִתְרוֹן, so rule 30's condition is unmet.",
+    "The 'I made me / I builded me' series (2.4-2.8) reads alike throughout: the dative לְ is unrepresented under rule 40 and its suffix takes the written 'me'. ECC.2.4's first clause writes no dative — הִגְדַּלְתִּי מַעֲשָׂי — and its 'me' goes to the possessive suffix on מַעֲשָׂי rather than being marked added; likewise the 'my' of 'in my house' at 2.7 goes to the suffix of לִי, recast as a determiner on the noun beside it. Where the ASV instead writes 'the' for such a suffix, as at 2.11 ('the works', with the one 'my' reserved for יָדַי), the suffix is unrepresented under rule 22 and the supplied determiner joins the noun under rule 15.",
+    "טוֹב לִפְנֵי is one fused unit on 'pleaseth' at ECC.2.26, both times, on rule 40's רַע בְּעֵינֶיךָ -> 'if it displease thee' pattern: the adjective, the preposition and פָּנֶה share the single English word, the unit heads on the adjective, and a suffix standing on the construct keeps its own pronoun ('him'). Where no suffix stands, the anarthrous substantive additionally takes the supplied 'him that' under rule 46. These are the chapter's two three-morpheme units, and the validator's large-source-unit flag on them is answered here rather than in each verse."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v159",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 58 candidate lemma groups, then read the dump end to end for the splits the table cannot see: added units, head placement, and supplied-word ownership. One real split found, in head placement on comparative frames.",
+    "The split: ECC.2.9 heads מִן -> 'more than' on 'than', ECC.2.15 heads כְּ -> 'As ... so' on 'As', ECC.2.16 heads עִם -> 'even as' on 'as' (twice) — but ECC.2.13 heads כְּ -> 'as far as' on the degree adverb 'far'. Nothing in the source licenses the difference. Rule 24's first sentence puts the head on the token realizing the morpheme's lexeme ('as' does, 'far' does not), and its degree-word ruling keeps the degree adverb inside the unit while heading on the relational word. ECC.2.13 patched: head moved from t009 to t008; edges, statuses and every other unit unchanged.",
+    "Checked and found consistent, not split: the six added units (2.3 'how' x2 and italic 'me', 2.12 'can/do', 2.23 'but', 2.26 'God') each answer to no morpheme, while every parallel supplied word in the chapter is a single compound rendering of one present morpheme ('yea even', 'even as', 'seeing that', 'as far as'); article treatment tracks what the ASV writes in all 42 occurrences; שֶׁ takes 'wherein' only where no resumptive morpheme stands (2.18-2.22) and fuses to 'whose' where one does (2.21); אֵת is unrepresented except where the ASV spends a word on the object relation (2.12 'even', 2.14 'to'); rule 44's supplied preposition reaching a bare object suffix (2.15 'to me') sits correctly beside rule 16's marker case (2.14); 'wise man' heads on 'wise' while 'men servants' and 'men singers' head on the class noun, which is rule 31's subtraction test giving two answers rather than two analyses.",
+    "BSB: no genuine error, and no accepted edge was changed to improve the rate. The R x 10 and Td x 10 blocks are the documented convention differences (datives silenced by the recasting under rule 40 in the 2.4-2.8 series; articles with no written 'the' under rule 29). Each named single rests on a present morpheme that already holds the English or on a recasting that writes none: 2.11 י and 2.14 ו are rule-22 resumptions the ASV renders once, 2.13 יֵּשׁ/לַ and 2.22 לָ are left with nothing by the verbal recasting, 2.12 הוּ by the passive, 2.15 נִי by the explicit pronoun beside גַּם, 2.23 הוּא is rule 20's tripartite resuming pronoun, and 2.1's ה is rule 32's paragogic he.",
+    "Open question left for a later chapter, not resolved here and not promoted: ECC.2.15 gives 'so' to the comparative כְּ as the closing member of an 'As ... so' pair. Rule 14's correlative-pair sentence is written for connective morphemes, and its closing sentence names 'so' among the words that are added where no conjunction stands, so the competing reading marks it added. The verse note already records both. One occurrence, and the briefing carries no corpus rows for כְּ, so this is too thin either to overturn the verse or to carry a rule.",
+    "The two large-source-unit flags in ECC.2.26 are correct as they stand: טוֹב לִפְנֵי -> 'pleaseth' is rule 40's רַע בְּעֵינֶיךָ -> 'if it displease thee' fusion, one English word carrying the adjective, the preposition and פָּנֶה, with the suffix keeping its own 'him'. Recorded as a convention rather than patched."
+  ]
+}

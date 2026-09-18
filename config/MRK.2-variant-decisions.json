@@ -1,0 +1,484 @@
+{
+  "schema_version": 1,
+  "chapter": "MRK.2",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.MRK.2.1.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV subordinates the clause: 'And when he entered again into Capernaum ... it was noised', which renders the participle εἰσελθὼν. The finite εἰσῆλθεν (with the καὶ of v002) would give two coordinate clauses, 'he entered ... and it was noised', which the ASV does not have."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.1.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV has no conjunction before 'it was noised' — the participial 'when he entered' runs straight into the main clause. The added καὶ belongs to the finite-verb construction the ASV did not render."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.1.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'that he was in the house', with the note 'Or, at home', renders ἐν οἴκῳ and εἰς οἶκόν alike; εἰς οἶκόν ἐστιν is idiomatic for being at home, so the English distinguishes neither. The note is alternative_rendering and cannot decide a reading."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.2.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'And many were gathered together' has no adverb. The ASV renders εὐθέως/εὐθύς in Mark with 'straightway' (2:8, 2:12); its absence here shows the added εὐθέως was not in the text rendered."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.3.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "The three readings differ only in the position of φέροντες relative to πρὸς αὐτὸν παραλυτικὸν. 'bringing unto him a man sick of the palsy' follows English order and would render any of them; nothing in the ASV fixes the Greek sequence."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.4.v006",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text reads 'when they could not come nigh unto him', which is προσεγγίσαι, and the mapped textual_variant note 'Many ancient authorities read bring him unto him' marks προσενέγκαι as the rejected alternative."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.4.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'the roof where he was' renders ὅπου ἦν directly and ἐφ᾽ ᾧ ἦν ('on which he was') just as naturally in English; neither locative is excluded by the ASV wording."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.5.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'And Jesus seeing their faith' renders καὶ ἰδὼν, and the ASV routinely renders connective δέ as 'And' as well, so ἰδὼν δὲ is not excluded."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.5.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'thy sins are forgiven' with no indirect object. The RP reading ἀφέωνταί σοι supplies a dative that the ASV would render 'forgiven thee' (as it does not); the tense difference alone would not decide, but the missing 'thee' does."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.5.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The ASV has a single possessive, 'thy sins'. The base already carries σου before ἁμαρτίαι; the added σου belongs to the RP σοι ... σου construction, which would double the pronoun in English."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.7.v011",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV punctuates two clauses, 'Why doth this man thus speak? he blasphemeth', rendering the finite verb βλασφημεῖ. The noun βλασφημίας would be the object of λαλεῖ, 'speak blasphemies', which the ASV does not have."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.8.v012",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "εὐθύς and εὐθέως are alternative forms of the same adverb; 'straightway' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.8.v013",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'that they so reasoned within themselves' already carries οὕτως and ἐν ἑαυτοῖς; the added intensive αὐτοὶ leaves no separate trace in the English."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.8.v014",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'saith unto them' keeps the historical present λέγει; the aorist εἶπεν would be 'said', which is what the ASV writes elsewhere in the chapter (2:25 'he said')."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.9.v015",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'Thy sins are forgiven' renders the present ἀφίενται and the perfect ἀφέωνται alike; unlike 2:5 there is no dative in either reading to distinguish them."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.9.v016",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "Ἔγειρε, Ἐγείρου and Ἔγειραι are competing imperative forms of the same verb; 'Arise' renders all three."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.9.v017",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The readings differ only in the position of σου and the spelling κράβαττον/κράββατον; 'take up thy bed' is the same English for both."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.10.v018",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r02"
+      ],
+      "evidence": "ASV places 'on earth' before the infinitive — 'hath authority on earth to forgive sins' — which follows the Treg and RP orders, where ἐπὶ τῆς γῆς stands ahead of ἁμαρτίας. The WH/NIV order, with ἐπὶ τῆς γῆς last, would be rendered 'to forgive sins on earth'; the remaining two are not distinguished, since the ASV cannot show whether ἐπὶ τῆς γῆς preceded or followed ἀφιέναι."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.11.v019",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 2:11 reads 'Arise, take up thy bed' with no conjunction, against 2:9 'Arise, and take up thy bed' where the Greek has καὶ. The RP ἔγειραι καὶ would have produced the same 'and' here."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.12.v020",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV attaches the adverb to the second verb: 'And he arose, and straightway took up the bed', i.e. καὶ ἠγέρθη, καὶ εὐθὺς ἄρας. The RP order puts εὐθέως with ἠγέρθη, which would read 'he arose straightway, and took up'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.12.v021",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἔμπροσθεν and ἐναντίον are synonyms here; 'before them all' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.12.v022",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'We never saw it on this fashion' places the negative adverb where English idiom requires it, whichever of οὕτως and οὐδέποτε stood first in the Greek."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.15.v023",
+      "status": "selected",
+      "selected_reading": "r02",
+      "compatible_readings": [
+        "r02"
+      ],
+      "evidence": "ASV opens 'And it came to pass, that he was sitting at meat', a past narrative formula rendering ἐγένετο with the ἐν τῷ + infinitive clause. The present γίνεται would be 'it cometh to pass', and the ASV keeps Marcan presents as presents elsewhere in this chapter ('saith', 2:8)."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.15.v024",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'and they followed him' is the ASV's rendering for both the imperfect ἠκολούθουν and the aorist ἠκολούθησαν; the English past does not mark the aspect."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.16.v025",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text reads 'the scribes of the Pharisees', the genitive τῶν Φαρισαίων, and the mapped textual_variant note 'Some ancient authorities read and the Pharisees' assigns καὶ οἱ Φαρισαῖοι to the margin."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.16.v026",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'when they saw that he was eating' renders the participle ἰδόντες; a connective καὶ standing before it need not surface in English, so the Treg reading is not excluded."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.16.v027",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV has a ὅτι clause, 'saw that he was eating', not the accusative-and-participle 'saw him eating' of αὐτὸν ἐσθίοντα, so the RP reading is excluded. Between ὅτι ἐσθίει and ὅτι ἤσθιεν the English is silent: a present in indirect discourse after a past main verb is Englished as 'was eating' just as an imperfect is."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.16.v028",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV names the groups in the order 'with the sinners and publicans', matching ἁμαρτωλῶν καὶ τελωνῶν; the RP order would give 'publicans and sinners', which the ASV does write later in the same verse where the Greek has that order."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.16.v029",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV asks 'How is it that he eateth', the bare interrogative ὅτι. Τί ὅτι would be 'Why is it that', a rendering the ASV does not give here."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.16.v030",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'with publicans and sinners', matching τελωνῶν καὶ ἁμαρτωλῶν; the Treg order would have reversed the pair, as the ASV shows it can render (earlier in this verse, 'the sinners and publicans')."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.16.v031",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text reads 'he eateth and drinketh', and the mapped textual_variant note 'Some ancient authorities omit and drinketh' marks the shorter reading as the alternative; the text rendered therefore had καὶ πίνει."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.17.v032",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The ὅτι is recitative, introducing direct speech; the ASV punctuates the saying with a colon and renders no word for it, so its presence or absence leaves no trace."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.17.v033",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV ends the verse 'I came not to call the righteous, but sinners', with nothing answering to εἰς μετάνοιαν ('to repentance') and no italicized supply."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.18.v034",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV makes the Pharisees themselves the ones fasting: 'John's disciples and the Pharisees were fasting'. The RP genitive would give 'the disciples of John and those of the Pharisees', which the ASV writes only later in the verse where the Greek has that construction."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.18.v035",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV spells out the noun in the question — 'and the disciples of the Pharisees fast' — without italics, which requires μαθηταὶ in the text; the RP omission leaves only the article to be rendered."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.19.v036",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'as long as they have the bridegroom with them' follows English order regardless of whether the prepositional phrase preceded or followed the verb in Greek, and αὐτῶν and ἑαυτῶν are both 'with them' here."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.20.v037",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads the singular 'in that day', which is ἐκείνῃ τῇ ἡμέρᾳ; the RP plural would be 'in those days', and the ASV shows it distinguishes number by writing 'the days will come' earlier in the same verse."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.21.v038",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV begins the verse 'No man seweth' with no conjunction, while it renders initial καί as 'And' throughout the chapter (2:1, 2:2, 2:3, 2:13)."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.21.v039",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The readings differ only in the case governed by ἐπί; 'on an old garment' renders the accusative and the dative alike."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.21.v040",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders a prepositional phrase, 'taketh from it, the new from the old', which requires ἀπ᾽ αὐτοῦ. Without the preposition αὐτοῦ is a possessive with τὸ πλήρωμα ('its filling up'), not the source the ASV names."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.22.v041",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads the future 'else the wine will burst the skins' (ῥήξει, not the present ῥήσσει) and calls the subject simply 'the wine', with nothing for the RP addition ὁ νέος."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.22.v042",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'and the wine perisheth, and the skins', a single verb ἀπόλλυται with the skins added elliptically. The RP reading gives two verbs, 'the wine is spilled and the skins will perish', which the ASV does not render."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.22.v043",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'but they put new wine into fresh wine-skins' supplies a verb that could render the verbal adjective βλητέον ('is to be put') or be understood from βάλλει earlier in the verse; no italics mark it as a supply, and the English does not decide."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.23.v044",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02",
+        "r03"
+      ],
+      "evidence": "'he was going ... through the grainfields' takes its 'through' from διὰ τῶν σπορίμων, which all the readings share, so it does not distinguish παραπορεύεσθαι from διαπορεύεσθαι; nor does the English show the position of the infinitive relative to ἐν τοῖς σάββασιν."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.23.v045",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'his disciples began' puts subject before verb as English requires, whichever order the Greek had."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.24.v046",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'on the sabbath day' renders the dative τοῖς σάββασιν with or without ἐν; the preposition leaves no separate trace in the English."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.25.v047",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads the past 'And he said unto them', which is ἔλεγεν, against 'saith unto them' at 2:8 where the Greek has the present λέγει; the intensive αὐτὸς is carried by the pronoun 'he'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.26.v048",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV begins the verse 'How he entered into the house of God', rendering πῶς; the reading that omits it leaves the clause without the interrogative the ASV writes."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.26.v049",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'save for the priests' renders εἰ μὴ with the accusative (subject of the infinitive) and with the dative alike; English marks no case here."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.2.27.v050",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders a connective at 2:27 — 'And he said unto them' — where the omission would leave asyndeton; the ASV renders Marcan initial καί as 'And' throughout the chapter."
+    }
+  ]
+}

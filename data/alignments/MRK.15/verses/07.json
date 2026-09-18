@@ -1,0 +1,196 @@
+{
+  "alignments": [
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Existential verb with its expletive subject.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Rule 32: substantival article before a participle supplies the pronoun and nothing else.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Participle.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Name.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Participle with the supplied 'lying' as a rule 7 helper standing in for the copula; rule 11 keeps the italics from making it `added`.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Rule 92: where the ASV writes a separate antecedent pronoun, the article owns the pronoun and the noun keeps the relativizer.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "The noun recast as a finite relative clause; 'made' is the support verb and 'insurrection' carries the lexeme, so rules 17 and 91 head there.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Rule 77's generic-noun arm: 'men' is a supplied nominal with content of its own, naming the referents as 'things' does, rather than a bare antecedent pronoun such as 'he whom' or 'that which', so the nominal takes the head and not the relativizer. Heading on 'who' remains defensible and is the minority corpus reading.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Article to 'the' under rule 19.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Pluperfect with its auxiliary.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t020",
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    }
+  ],
+  "ref": "MRK.15.7",
+  "review_notes": [
+    "Corrected the head of s010 οἵτινες → 'men who' from the relativizer to 'men'. Rule 77 splits on whether the supplied word has content of its own: its bare-antecedent list is wholly pronominal ('he whom', 'him whom', 'him of whom', 'that which'), while a supplied generic noun is the nominal the relative substantivizes and takes the head, fifteen corpus units to four. 'men' is a generic noun of the 'things' type, not a pronoun or determiner, so the earlier classification of it as a bare antecedent misapplied that test.",
+    "Edges are unchanged; only the target head of that one unit moved. s008 and s013 are the same root rendered twice and each keeps its own English."
+  ]
+}

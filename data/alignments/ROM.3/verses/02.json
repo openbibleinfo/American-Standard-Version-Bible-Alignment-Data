@@ -1,0 +1,162 @@
+{
+  "alignments": [
+    {
+      "note": "πολύ → Much.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The ASV writes *every way* with no preposition, so under rule 36 English realizes κατά nowhere.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "πάντα → every.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "τρόπον → way.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "*first of all* is the ASV's whole adverbial expression for πρῶτον; *of all* is a rule 7 completion of it, headed on *first*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Rule 70: the ASV writes no *indeed* for μέν; marking the correlation elsewhere is not writing it. Reading *of all* as the μέν's is the competing analysis and is refused.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The ASV writes no *for*; γάρ has no English realization here. SBLGNT.ROM.3.2.v001 is underdetermined between r00-base and r01 and both carry the particle, so this is not a textual question.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "ὅτι → that.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Passive verb with supplied subject and auxiliary under rule 9; *with* is the English verb's own government over the retained accusative object, which rule 106's accusative arm keeps inside the verb's unit.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Article → the.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "λόγια → oracles.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "No determiner for θεοῦ, so rule 21's determinerless clause empties the article.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "*of God* headed on the noun.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "ROM.3.2",
+  "review_notes": [
+    "μέν and γάρ both stand unrepresented; a reference comparison will report them as disagreements, which rule 70 says is not a correction for μέν."
+  ]
+}

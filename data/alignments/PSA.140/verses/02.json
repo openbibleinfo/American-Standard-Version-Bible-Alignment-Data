@@ -1,0 +1,120 @@
+{
+  "alignments": [
+    {
+      "note": "Written relative.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Plural noun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Supplied possessive with no suffix or other possessive morpheme in the phrase (rule 18's closing sentence); rule 15's supplied determiner does not reach a possessive.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "One English word for the whole `כָּל־יוֹם` expression (rule 30); neither noun carries content the other lacks, so the head is the governing construct standing first (rule 23).",
+      "source": [
+        "s006",
+        "s007"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Finite verb with its fronted auxiliary and subject pronoun (rule 17); the reflexive *themselves* and the particle *together* are part of the English phrasal verb (rule 44), and the supplied *for* is the preposition the recast English verb needs to reach the noun the Hebrew verb governs directly (rules 33 and 44).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010",
+        "t011",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "The verb's bare object in the Hebrew; the ASV margin's *stir up wars* was read and set aside under rule 38, the printed text governing.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "PSA.140.2",
+  "review_notes": [
+    "The *for* of *for war* was given to the verb rather than to the noun because `מִלְחָמוֹת` is what `גּוּר` governs in the Hebrew (rule 33's direct-object question); the competing reading places it on the noun as an adverbial."
+  ]
+}

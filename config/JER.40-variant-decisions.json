@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "chapter": "JER.40",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JER.40.3.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the lemma as ‘this thing,’ whose demonstrative and definite force distinguishes the qere הַדָּבָר from ketiv דבר."
+    },
+    {
+      "unit_id": "WLC.JER.40.8.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV’s proper-name form ‘Ephai’ reflects the qere עֵיפַי rather than ketiv עופי."
+    },
+    {
+      "unit_id": "WLC.JER.40.16.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV ‘Thou shalt not do this thing’ does not distinguish qere תַּעֲשֵׂה from ketiv תעש; both candidates remain compatible, so the documented qere base retains the projection."
+    }
+  ]
+}

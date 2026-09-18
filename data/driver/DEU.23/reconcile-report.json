@@ -1,0 +1,30 @@
+{
+  "chapter": "DEU.23",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "`נָשַׁךְ` in the interest laws is rendered *lend upon interest* and *lent upon interest*, and every occurrence heads on the English verb rather than on *interest*: the Hebrew verb's own lexeme is the lending, and the noun is the phrasal complement English needs in order to state it, not a bleached light verb's complement. All four occurrences are read that way — 23.19 *thou shalt not lend upon interest* and *is lent upon interest*, 23.20 *thou mayest lend upon interest* and *thou shalt not lend upon interest*. Rule 44's light-verb head was the competing reading and is named in both verses under rule 8.",
+    "An English relative adverb goes to the morpheme carrying the local or directional sense it is built on, and a connective whose sense that word does not carry is left `unrepresented` beside it. At 23.12 `שָׁמָּה` with its directive `he` takes the whole of *whither* while the waw of `וְיָצָאתָ` is `unrepresented`, because *whither* says the direction but not the coordination; at 23.16 `בְּ` takes the bare *where* of *where it pleaseth him best*, no relative or resumptive morpheme standing in that clause. Where a relative morpheme is written it joins the fusion instead, as `אֲשֶׁר ... שָׁמָּה ה` → *whither* does at 23.20 under rule 22. Rule 17's sentence giving a recast relative to the waw was the competing reading at 23.12 and is named there."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v137",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 35 candidate lemma groups, the three `added` units, and the dump end to end. Every bucket with more than one treatment is the ASV writing different English for one construction the chapter analysed one way; no construction is analysed two ways with nothing in the source to license the difference.",
+    "`מִחוּץ לַמַּחֲנֶה` at 23.10 (*out of the camp*) and 23.12 (*without the camp*) is one analysis with two renderings: `מִן`+`חוּץ` fused under rule 30 in both, the `לְ` `unrepresented` in both, the assimilated article taking the written *the* in both. Only the English preposition differs.",
+    "The two *whither* units are licensed by the source rather than a split. 23.20 writes `אֲשֶׁר`, a relative morpheme whose sense the word carries, so it joins the fusion under rule 22; 23.12 writes only `שָׁמָּה` with its directive `he`, and that clause's waw is `unrepresented` because *whither* carries the direction but not the waw's coordination. Both verses name the competing reading under rule 8.",
+    "`דּוֹר` + ordinal (23.2, 23.3, 23.8) is one treatment throughout: the supplied preposition and the supplied determiner both join the noun under rules 33 and 15, and the ordinal keeps only its own word. Only the preposition's English differs (*to* / *of*).",
+    "The rule 33 / rule 44 boundary for a supplied preposition holds chapter-wide: goal and appositional accusatives take the word themselves (`מַחֲנֶה` → *in camp* 23.9, `בֵּית יְהוָה` → *into the house* 23.18, `דּוֹר` 23.2/3/8, `אֲרַם נַהֲרַיִם` → *of Mesopotamia* 23.4), while `עֲנָבִים` at 23.24 — the bare direct object of *eat*, with no marker and no preposition of its own — leaves its *of* with the verb. The 23.24 note records that correction explicitly.",
+    "Compound prepositions head on the governing first morpheme in all three places regardless of the English written: `מֵעִם` → *from* (23.15) and → *of* (23.21), `מֵאַחֲרֵי` → *from* (23.14). That is rule 23's instruction not to read the source head off the translation, applied consistently.",
+    "The three `added` units are each a supplied word no morpheme licenses — *his* at 23.1 (no possessive morpheme, rule 18's closing sentence), *him* at 23.10 and *any* at 23.24 (supplied objects with no object morpheme, rule 44). Nowhere else in the chapter is a word of the same kind folded into a neighbouring unit: every supplied subject pronoun in a recast relative clause (23.20 `מִשְׁלַח`, 23.23 `מוֹצָא`, 23.13 `צֵאָה`, 23.10 `קְרֵה`) joins its clause's unit under rules 46 and 17, which is the distinction rule 44 draws.",
+    "BSB: all twelve disagreements are documented convention differences and none is a genuine error. The six `R` are prepositions the ASV's own recasting leaves nothing to say — 23.5's infinitival `לְ` after *would not hearken* (rule 52), 23.8's resumptive `לָהֶם` (rule 22), 23.10's `אֶל` standing before the compound `מִחוּץ` (rule 40), 23.12 and 23.13's possessive `לְ` in *shalt have* (rule 43), and 23.16's `לוֹ` in *where it pleaseth him best* (rule 40). The two `לַ` of `מִחוּץ לַמַּחֲנֶה` go the same way, 23.5's `אֵת` is rule 16, 23.8's `הֶם` is the suffix of the unrendered resumptive phrase, 23.13's waw is a genuinely unrendered apodosis connective (the ASV opens *thou shalt dig* bare), and 23.12's waw is the *whither* case above.",
+    "The one `noncompositional` unit, `עַל־דְּבַר אֲשֶׁר` → *because* at 23.4, is left as accepted. Rule 6's first-token fallback and rule 23's construct head are both arguable for a three-morpheme grammaticalized conjunction whose one English word writes no morpheme's lexeme; the verse note names the competing reading, and there is no corpus row for this expression to settle it.",
+    "Two conventions recorded. Nothing here generalises on the evidence available — the relative-adverb case is a single occurrence with no corpus row behind it — so no promotions and no amendments."
+  ]
+}

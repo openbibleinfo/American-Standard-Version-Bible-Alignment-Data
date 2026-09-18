@@ -1,0 +1,29 @@
+{
+  "chapter": "JDG.21",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Indefinite אִישׁ under a negation is read as rule 35's indefinite quantifier. Where the ASV spends a single negative word on the pair, the negative or existential and אִישׁ share one unit headed on the negation word — לֹא־בָא אִישׁ → *there came none* (21.8), אֵין־שָׁם אִישׁ → *there were none* (21.9), the latter with the existential frame joining under rule 50. Where the ASV instead writes a word for each, rule 2 splits them and אִישׁ keeps its own indefinite determiner — אִישׁ מִמֶּנּוּ לֹא־יִתֵּן → *There shall not any of us give* (21.1). Read what the ASV wrote, not the Hebrew's negation.",
+    "A lexicalized adverbial phrase the ASV renders by one English adverb absorbs its article into the fused unit: הַיּוֹם → *to day* (21.3) and כָּעֵת → *now* (21.22, article assimilated) are one unit each, because the English word carries the definiteness as well as the noun. Rule 30's דִּבְרֵי הַיָּמִים sentence governs the other case, where the fused word carries nothing of the article: there the article stands outside and takes a written *the*, as בְּנֵי הֶחָיִל → *the valiantest* does at 21.10. Where the ASV writes a separate determiner instead — בָּעֵת הַהִיא → *at that time* (21.14, 21.24) — no fusion arises and rules 41 and 47 count the phrase's determiners as usual.",
+    "For the twice-written question מַה־נַּעֲשֶׂה ... לַנּוֹתָרִים לְנָשִׁים, the identical English *for them that remain* divides two ways because the two verses write different morphemes. At 21.7 the clause also writes לָהֶם: its preposition takes the *for* standing before *them*, its suffix takes *them* under rule 18, the appositional לַ is unrepresented under rule 40, and the article keeps only the relative *that* under rule 41. At 21.16 no such phrase stands: the לַ takes the *for* and the substantival article takes the whole supplied *them that*, headed on the pronoun. Count the ASV's two *for*s against the prepositions and read which word each stands before, before treating the two verses as inconsistent."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v191",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 49 candidate lemma groups, every `added` unit by reading the dump end to end (the table is blind to them), and each BSB disagreement. No construction is analysed two ways without the source licensing the difference; patches is empty.",
+    "אִישׁ is the chapter's signature word and the closest thing to a split: bare *any* beside a separate *not* at 21.1, fused into a single *none* with לֹא at 21.8 and with the existential אַיִן at 21.9. Rule 35's closing sentence decides this by what the ASV wrote — one negative word fuses, a word for each splits — so the difference is licensed.",
+    "הַ before a substantival participle divides two ways for one and the same English phrase (*for them that remain*): at 21.7 the written לָהֶם supplies *them* under rule 18 and the article keeps only *that*, at 21.16 no such suffix stands and the article takes *them that* under rule 41. Source-licensed, and recorded as a convention so it is not 'fixed' later.",
+    "The article inside a fused adverbial (הַיּוֹם → *to day* at 21.3, כָּעֵת → *now* at 21.22, the flagged 3-morpheme unit) versus outside one (בְּנֵי הֶחָיִל → *the valiantest* at 21.10) turns on whether a separate *the* is written. Corpus agrees: הַ+יּוֹם → *to day* fuses in 7 units, כָּל+הַ+יָּמִים → *for ever* in 7, כָּל+הַ → *whosoever* in 6.",
+    "מִשָּׁם fuses to *thence* and then splits to *from thence* inside JDG.21.24 alone, on rule 30's one-rendering condition read twice in one verse.",
+    "The five `added` units (21.14 *yet*; 21.22 *of them*, *them*, *else*; 21.23 *them*) each stand beside a morpheme already holding its own English, and no comparable word is folded in elsewhere; the two *repented them* units at 21.6 and 21.15 are rule 44's reflexive carve-out and agree with each other.",
+    "BSB: no genuine error. The R×8 and Td×9 recurrences are the documented convention difference (rules 27, 40, 29, 12); the two אֵת markers are rule 16; the 21.9 waw is unrepresented only because *For when* was spent on that verse's first waw; the 21.19 directive he is silenced by the מִן that took *on*, as rule 32's own last sentence directs.",
+    "JDG.21.19 arrives already corrected in the packet (מִזְרְחָה הַשֶּׁמֶשׁ → *on the east side*); that reading is consistent with the chapter's other fusions and needs no further patch."
+  ]
+}

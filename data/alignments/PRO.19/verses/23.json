@@ -1,0 +1,150 @@
+{
+  "alignments": [
+    {
+      "note": "Construct noun with a supplied *the* under rule 29, no article morpheme being present.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Rectum with the chain's *of* under rule 19.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The `לְ` phrase is the predicate of this verbless clause, so the supplied *tendeth* is the result frame English writes where the copula would stand and joins the preposition's unit under rules 20 and 49; the unit heads on the word carrying the relation, as rule 49 heads *belonged to* on the preposition. The competing reading, which the ASV italic corroborates, marks *tendeth* a wholly supplied lexical verb and `added` under rule 20; I did not take it because *tendeth* introduces no participant the Hebrew does not write and stands beside the predicate's own English, which is rule 20's test for a linking verb.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Noun to *life*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Waw to *And* under rule 14.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "A contiguous run of supplied English doing one office, making the Hebrew predicate into a relative clause; one `added` unit headed on the verb of having, exactly as rule 2 reads *him that hath*. The ASV italics fall on these three words and not on *he*.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Finite verb with the subject pronoun realizing its own person and number under rule 17, discontinuous around the supplied relative clause under rule 25.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Adjective to *satisfied*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Finite verb with its subject pronoun and auxiliaries, discontinuous around the negative under rule 25.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017",
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Negative to *not*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Bare nominal with the supplied *with* stating what it contributes to the clause, under rule 33.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022"
+      ],
+      "target_head": "t022"
+    }
+  ],
+  "ref": "PRO.19.23",
+  "review_notes": [
+    "Corrected: the accepted alignment marked the italic *tendeth* `added` as a wholly supplied lexical verb. The clause is verbless with a prepositional predicate, and rule 49 gives such a predicate the ASV's supplied copula or result frame on the preposition, rule 20 counting as a copula whatever verb the ASV writes where a copula would stand when it adds no participant the Hebrew does not write. *tendeth to* now forms one unit on the `לְ`, headed on *to*.",
+    "The ASV italicizes *that hath it* but not *he*, which corroborates giving the subject pronoun to the finite verb under rule 17 and marking only the supplied relative clause `added`."
+  ]
+}

@@ -1,0 +1,5 @@
+# Judges 13 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- A two-noun construct chain that the ASV renders by a single English noun is one fused unit under rule 30, headed on the construct noun under rule 23, and the second noun is never marked unrepresented under rule 22 on the ground that the one English word is the first noun's own ordinary rendering: גְּדִי עִזִּים to 'kid' at 13.15 and 13.19, גֶּפֶן הַיַּיִן to 'vine' at 13.14. A separately segmented article on the rectum is no part of that fusion and takes the written 'the' beside it, as it does in דִּבְרֵי הַיָּמִים to 'chronicles' (13.14, 13.19). JDG.13.14 was corrected to this reading from one that left יַיִן unrepresented; align a fourth instance the same way, and split only where the ASV spends an English word on each noun.

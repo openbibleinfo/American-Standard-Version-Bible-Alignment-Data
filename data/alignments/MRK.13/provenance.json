@@ -1,0 +1,23 @@
+{
+  "artifact_hashes": {
+    "review_receipts_sha256": "17f41e32b6c28119ddfbbc5772d759d48a98123ee1b502df91326b09951c2e3a",
+    "source_lock_entries_sha256": "b65ac384131b974822cb41cbc5fd369a28f16a5d2e18149a018ac36aba031ec8",
+    "variant_decisions_sha256": "5e9e486640f93b568f2c580d6d9ca4b135131eff1c8289e239053cec49aa085b",
+    "verse_divisions_sha256": "absent",
+    "verse_responses_sha256": "1c3861ef7828382aea7650ac76c6021691a61debe953c62fb2bd1aab6c4dec61"
+  },
+  "chapter": "MRK.13",
+  "contract": {
+    "sha256": "e2b8143408cd5ebc512a5ce551b883a9dc2bda6172163796c7fe3bd1b724b995",
+    "version": "nt-greek-verse-v99"
+  },
+  "created_at": "2026-08-28T11:57:50.201505+00:00",
+  "models": {
+    "alignment": "gpt-5.6-sol (codex, packed=all)",
+    "reconciliation": "gpt-5.6-sol (codex)",
+    "review_context": "gpt-5.6-sol (codex, packed=all)"
+  },
+  "omissions": [],
+  "repository_revision": "fe9ca0b1308e723e72309a23889e736652e1b59f",
+  "testament": "NT"
+}

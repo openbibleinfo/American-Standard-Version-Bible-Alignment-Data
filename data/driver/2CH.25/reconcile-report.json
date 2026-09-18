@@ -1,0 +1,26 @@
+{
+  "chapter": "2CH.25",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Appositional *even* / *to wit* before a phrase the Hebrew sets in apposition: where a לְ stands on the appositive phrase (25.5 לְכָל־יְהוּדָה → *even all Judah*; 25.10 לַגְּדוּד → *to wit the army*) that לְ takes the word under rule 11's priority of a present function morpheme, and the parallel לְ the ASV leaves without a second *under* is unrepresented. Where nothing stands on the appositive (25.7 *to wit* with the second *with* going to the single עִם under rule 25; 25.19 *even thou* where אַתָּה already holds *thou*) the word is added under rule 16. The competing reading in 25.5 and 25.10 — לְ unrepresented and the word added — is named in each unit's note."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked every multi-treatment bucket in the candidate table and read the 12 added units end to end against their licensing morphemes; no construction is analysed two ways without a source or ASV difference to license it.",
+    "Appositional even / to wit: given to the לְ standing on the appositive phrase in 25.5 (לְכָל־יְהוּדָה → even all Judah) and 25.10 (לַגְּדוּד → to wit the army); marked added in 25.7 (to wit, no morpheme on the phrase, the second with going to the single עִם under rule 25) and 25.19 (even thou, pronoun already holding thou). The two shapes turn on whether a morpheme stands on the appositive, so they are one judgment, not a split; recorded as a convention since both verses hedged it.",
+    "Object marker taking a preposition: of in 25.11 (smote of the children of Seir) and 25.14 (the slaughter of the Edomites), after in 25.15 and 25.20 (sought after); bare in every other occurrence. Consistent with rule 16.",
+    "Unrepresented waws (25.13 s015, 25.27 s010) are both clauses the ASV opens bare after a long fronted subject or temporal phrase; the 25.13 even is the waw before עַד under rule 16, not a surplus.",
+    "לִמְקוֹמָם → home fused (25.10, twice) against בְּבֵיתֶךָ → at home split (25.19): the ASV writes a separate preposition only in 25.19, so rule 30's one-word condition decides both.",
+    "BSB disagreements are all convention: object markers, articles before אֱלֹהִים/Lebanon/vocative king, לֵאמֹר and recast prepositions, paragogic he, the suffix inside the fused home, and the two unrendered waws. None is a genuine error.",
+    "No promotion: the chapter's one hedged judgment (appositional even on a לְ) lacks corpus evidence beyond this chapter and is already reachable from rule 11's priority sentence."
+  ]
+}

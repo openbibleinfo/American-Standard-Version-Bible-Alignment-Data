@@ -1,0 +1,3656 @@
+{
+  "version": 1,
+  "description": "Reviewed lexical metadata for accepted OSHB alternate-source morphemes. Keys preserve the exact OSHB code and language. This is a finite, versioned headword crosswalk, not an alignment judgment or a surface-form fallback. Citations refer to the locally available MACULA Hebrew lowfat files at the revision in config/sources.lock.json; explicit judgments disclose missing exact lexical attestation.",
+  "entries": {
+    "arc:5649": {
+      "lemma": "עֲבַד",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "5649",
+        "language": "arc",
+        "accepted_occurrences": [
+          "WLC.DAN.2.4.v001.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "15-Ezr-004-lowfat.xml",
+            "id": "o150040110101",
+            "ref": "EZR 4:11!10",
+            "attribute": "lemma",
+            "source_lemma": "עֲבַד",
+            "code_match": "exact"
+          },
+          {
+            "file": "15-Ezr-005-lowfat.xml",
+            "id": "o150050110071",
+            "ref": "EZR 5:11!7",
+            "attribute": "lemma",
+            "source_lemma": "עֲבַד",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "arc:l": {
+      "lemma": "לְ",
+      "evidence": {
+        "kind": "explicit-lexical-judgment",
+        "oshb_code": "l",
+        "language": "arc",
+        "accepted_occurrences": [
+          "WLC.DAN.2.4.v001.r01.001"
+        ],
+        "reason": "OSHB morpheme code l explicitly denotes the Aramaic inseparable preposition to/for. Map to its lexical grammatical headword; do not copy an inflected surface. Language is preserved in the entry key."
+      }
+    },
+    "hbo:1119": {
+      "lemma": "בְּמוֹ",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "1119",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.ISA.25.10.v001.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "18-Job-016-lowfat.xml",
+            "id": "o180160040151",
+            "ref": "JOB 16:4!15",
+            "attribute": "lemma",
+            "source_lemma": "בְּמוֹ",
+            "code_match": "exact"
+          },
+          {
+            "file": "18-Job-016-lowfat.xml",
+            "id": "o180160050021",
+            "ref": "JOB 16:5!2",
+            "attribute": "lemma",
+            "source_lemma": "בְּמוֹ",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:1121 a": {
+      "lemma": "בֵּן",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "1121 a",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.1CH.22.7.v001.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-003-lowfat.xml",
+            "id": "o010030160101",
+            "ref": "GEN 3:16!10",
+            "attribute": "lemma",
+            "source_lemma": "בֵּן",
+            "code_match": "unsuffixed"
+          },
+          {
+            "file": "01-Gen-004-lowfat.xml",
+            "id": "o010040170161",
+            "ref": "GEN 4:17!16",
+            "attribute": "lemma",
+            "source_lemma": "בֵּן",
+            "code_match": "unsuffixed"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords. OSHB suffix is retained in the mapping key; the unsuffixed MACULA citation corroborates this explicitly selected sense and is not a runtime suffix-stripping rule."
+      }
+    },
+    "hbo:121": {
+      "lemma": "אָדָם",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "121",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.JOS.3.16.v002.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-002-lowfat.xml",
+            "id": "o010020200113",
+            "ref": "GEN 2:20!11",
+            "attribute": "lemma",
+            "source_lemma": "אָדָם",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-003-lowfat.xml",
+            "id": "o010030170013",
+            "ref": "GEN 3:17!1",
+            "attribute": "lemma",
+            "source_lemma": "אָדָם",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:1409": {
+      "lemma": "גָּד",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "1409",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.GEN.30.11.v001.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-030-lowfat.xml",
+            "id": "o010300110051",
+            "ref": "GEN 30:11!5",
+            "attribute": "lemma",
+            "source_lemma": "גָּד",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:1431": {
+      "lemma": "גָּדַל",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "1431",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2SA.22.51.v006.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-012-lowfat.xml",
+            "id": "o010120020052",
+            "ref": "GEN 12:2!5",
+            "attribute": "lemma",
+            "source_lemma": "גָּדַל",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-019-lowfat.xml",
+            "id": "o010190130081",
+            "ref": "GEN 19:13!8",
+            "attribute": "lemma",
+            "source_lemma": "גָּדַל",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:1471 a": {
+      "lemma": "גּוֹי",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "1471 a",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.EZK.36.13.v002.r01.001",
+          "WLC.EZK.36.14.v003.r01.002",
+          "WLC.EZK.36.15.v005.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-010-lowfat.xml",
+            "id": "o010100050042",
+            "ref": "GEN 10:5!4",
+            "attribute": "lemma",
+            "source_lemma": "גּוֹי",
+            "code_match": "unsuffixed"
+          },
+          {
+            "file": "01-Gen-010-lowfat.xml",
+            "id": "o010100050092",
+            "ref": "GEN 10:5!9",
+            "attribute": "lemma",
+            "source_lemma": "גּוֹי",
+            "code_match": "unsuffixed"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords. OSHB suffix is retained in the mapping key; the unsuffixed MACULA citation corroborates this explicitly selected sense and is not a runtime suffix-stripping rule."
+      }
+    },
+    "hbo:1511": {
+      "lemma": "גִּזְרִי",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "1511",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.1SA.27.8.v002.r01.003"
+        ],
+        "citations": [
+          {
+            "file": "09-1Sa-027-lowfat.xml",
+            "id": "o090270080083",
+            "ref": "1SA 27:8!8",
+            "attribute": "lemma",
+            "source_lemma": "גִּזְרִי",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:1624": {
+      "lemma": "גָּרָה",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "1624",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.DAN.11.10.v002.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "05-Deu-002-lowfat.xml",
+            "id": "o050020050021",
+            "ref": "DEU 2:5!2",
+            "attribute": "lemma",
+            "source_lemma": "גָּרָה",
+            "code_match": "exact"
+          },
+          {
+            "file": "05-Deu-002-lowfat.xml",
+            "id": "o050020090091",
+            "ref": "DEU 2:9!9",
+            "attribute": "lemma",
+            "source_lemma": "גָּרָה",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:168": {
+      "lemma": "אֹהֶל",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "168",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2KI.14.12.v004.r01.002",
+          "WLC.2SA.18.17.v005.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-004-lowfat.xml",
+            "id": "o010040200091",
+            "ref": "GEN 4:20!9",
+            "attribute": "lemma",
+            "source_lemma": "אֹהֶל",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-009-lowfat.xml",
+            "id": "o010090210071",
+            "ref": "GEN 9:21!7",
+            "attribute": "lemma",
+            "source_lemma": "אֹהֶל",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:1697": {
+      "lemma": "דָּבָר",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "1697",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.DAN.9.12.v002.r01.001",
+          "WLC.JDG.13.17.v001.r01.001",
+          "WLC.JER.15.16.v004.r01.001",
+          "WLC.JER.23.18.v001.r01.001",
+          "WLC.PSA.105.28.v002.r01.001",
+          "WLC.PSA.119.147.v002.r01.002",
+          "WLC.PSA.119.161.v003.r01.003",
+          "WLC.PSA.147.19.v001.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-011-lowfat.xml",
+            "id": "o010110010062",
+            "ref": "GEN 11:1!6",
+            "attribute": "lemma",
+            "source_lemma": "דָּבָר",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-012-lowfat.xml",
+            "id": "o010120170101",
+            "ref": "GEN 12:17!10",
+            "attribute": "lemma",
+            "source_lemma": "דָּבָר",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:1734": {
+      "lemma": "דּוֹדוֹ",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "1734",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2SA.23.9.v004.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "07-Jdg-010-lowfat.xml",
+            "id": "o070100010111",
+            "ref": "JDG 10:1!11",
+            "attribute": "lemma",
+            "source_lemma": "דּוֹדוֹ",
+            "code_match": "exact"
+          },
+          {
+            "file": "10-2Sa-023-lowfat.xml",
+            "id": "o100230090061",
+            "ref": "2SA 23:9!6",
+            "attribute": "lemma",
+            "source_lemma": "דּוֹדוֹ",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:1817 b": {
+      "lemma": "דֶּלֶת",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "1817 b",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.ISA.26.20.v001.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-019-lowfat.xml",
+            "id": "o010190060053",
+            "ref": "GEN 19:6!5",
+            "attribute": "lemma",
+            "source_lemma": "דֶּלֶת",
+            "code_match": "unsuffixed"
+          },
+          {
+            "file": "01-Gen-019-lowfat.xml",
+            "id": "o010190090202",
+            "ref": "GEN 19:9!20",
+            "attribute": "lemma",
+            "source_lemma": "דֶּלֶת",
+            "code_match": "unsuffixed"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords. OSHB suffix is retained in the mapping key; the unsuffixed MACULA citation corroborates this explicitly selected sense and is not a runtime suffix-stripping rule."
+      }
+    },
+    "hbo:1869": {
+      "lemma": "דָּרַךְ",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "1869",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.JER.51.3.v001.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "04-Num-024-lowfat.xml",
+            "id": "o040240170071",
+            "ref": "NUM 24:17!7",
+            "attribute": "lemma",
+            "source_lemma": "דָּרַךְ",
+            "code_match": "exact"
+          },
+          {
+            "file": "05-Deu-001-lowfat.xml",
+            "id": "o050010360121",
+            "ref": "DEU 1:36!12",
+            "attribute": "lemma",
+            "source_lemma": "דָּרַךְ",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:1870": {
+      "lemma": "דֶּרֶךְ",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "1870",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2SA.22.33.v004.r01.001",
+          "WLC.PRO.21.29.v003.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-003-lowfat.xml",
+            "id": "o010030240161",
+            "ref": "GEN 3:24!16",
+            "attribute": "lemma",
+            "source_lemma": "דֶּרֶךְ",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-006-lowfat.xml",
+            "id": "o010060120121",
+            "ref": "GEN 6:12!12",
+            "attribute": "lemma",
+            "source_lemma": "דֶּרֶךְ",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:1980": {
+      "lemma": "הָלַךְ",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "1980",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.PRO.13.20.v001.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-002-lowfat.xml",
+            "id": "o010020140062",
+            "ref": "GEN 2:14!6",
+            "attribute": "lemma",
+            "source_lemma": "הָלַךְ",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-003-lowfat.xml",
+            "id": "o010030080061",
+            "ref": "GEN 3:8!6",
+            "attribute": "lemma",
+            "source_lemma": "הָלַךְ",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:2000": {
+      "lemma": "הָמַם",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "2000",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2SA.22.15.v002.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "02-Exo-014-lowfat.xml",
+            "id": "o020140240122",
+            "ref": "EXO 14:24!12",
+            "attribute": "lemma",
+            "source_lemma": "הָמַם",
+            "code_match": "exact"
+          },
+          {
+            "file": "02-Exo-023-lowfat.xml",
+            "id": "o020230270052",
+            "ref": "EXO 23:27!5",
+            "attribute": "lemma",
+            "source_lemma": "הָמַם",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:2072": {
+      "lemma": "זַבּוּד",
+      "evidence": {
+        "kind": "explicit-lexical-judgment",
+        "oshb_code": "2072",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.EZR.8.14.v001.r01.002"
+        ],
+        "reason": "The ketiv proper name Zabbud זבוד is retained, rather than qere Zaccur זכור. This is an explicit lexical metadata judgment; the qere citation supplies comparison context, not attestation of the selected ketiv headword.",
+        "oshb_reading": {
+          "id": "WLC.EZR.8.14.v001.r01.002",
+          "ref": "EZR.8.14",
+          "surface": "זבוד",
+          "morph": "Np",
+          "code": "2072",
+          "language": "hbo"
+        },
+        "qere_comparison": {
+          "id": "WLC.EZR.8.14.007",
+          "source_xml_id": "o150080140052",
+          "source_ref": "EZR.8.14",
+          "lemma": "זַכּוּר",
+          "strong": "H2139"
+        }
+      }
+    },
+    "hbo:2079": {
+      "lemma": "זַבַּי",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "2079",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.NEH.3.20.v002.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "15-Ezr-010-lowfat.xml",
+            "id": "o150100280051",
+            "ref": "EZR 10:28!5",
+            "attribute": "lemma",
+            "source_lemma": "זַבַּי",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:2080": {
+      "lemma": "זְבוּדָה",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "2080",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2KI.23.36.v003.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "12-2Ki-023-lowfat.xml",
+            "id": "o120230360151",
+            "ref": "2KI 23:36!15",
+            "attribute": "lemma",
+            "source_lemma": "זְבוּדָה",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:2113": {
+      "lemma": "זְוָעָה",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "2113",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.JER.34.17.v002.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "23-Isa-028-lowfat.xml",
+            "id": "o230280190131",
+            "ref": "ISA 28:19!13",
+            "attribute": "lemma",
+            "source_lemma": "זְוָעָה",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:2142": {
+      "lemma": "זָכַר",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "2142",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.PSA.77.11.v002.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-008-lowfat.xml",
+            "id": "o010080010012",
+            "ref": "GEN 8:1!1",
+            "attribute": "lemma",
+            "source_lemma": "זָכַר",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-009-lowfat.xml",
+            "id": "o010090150012",
+            "ref": "GEN 9:15!1",
+            "attribute": "lemma",
+            "source_lemma": "זָכַר",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:2342 a": {
+      "lemma": "חוּל",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "2342 a",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.JER.4.19.v002.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "24-Jer-051-lowfat.xml",
+            "id": "o240510290032",
+            "ref": "JER 51:29!3",
+            "attribute": "lemma",
+            "source_lemma": "חוּל",
+            "code_match": "exact"
+          },
+          {
+            "file": "26-Ezk-030-lowfat.xml",
+            "id": "o260300160041",
+            "ref": "EZK 30:16!4",
+            "attribute": "lemma",
+            "source_lemma": "חוּל",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:2403 b": {
+      "lemma": "חַטָּאת",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "2403 b",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.1KI.16.26.v002.r01.003",
+          "WLC.DAN.9.24.v005.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-004-lowfat.xml",
+            "id": "o010040070091",
+            "ref": "GEN 4:7!9",
+            "attribute": "lemma",
+            "source_lemma": "חַטָּאת",
+            "code_match": "unsuffixed"
+          },
+          {
+            "file": "01-Gen-018-lowfat.xml",
+            "id": "o010180200082",
+            "ref": "GEN 18:20!8",
+            "attribute": "lemma",
+            "source_lemma": "חַטָּאת",
+            "code_match": "unsuffixed"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords. OSHB suffix is retained in the mapping key; the unsuffixed MACULA citation corroborates this explicitly selected sense and is not a runtime suffix-stripping rule."
+      }
+    },
+    "hbo:2416 c": {
+      "lemma": "חַיָּה",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "2416 c",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.JOB.33.28.v004.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-001-lowfat.xml",
+            "id": "o010010240102",
+            "ref": "GEN 1:24!10",
+            "attribute": "lemma",
+            "source_lemma": "חַיָּה",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-001-lowfat.xml",
+            "id": "o010010250041",
+            "ref": "GEN 1:25!4",
+            "attribute": "lemma",
+            "source_lemma": "חַיָּה",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:2421": {
+      "lemma": "חָיָה",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "2421",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.PSA.71.20.v003.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-005-lowfat.xml",
+            "id": "o010050030012",
+            "ref": "GEN 5:3!1",
+            "attribute": "lemma",
+            "source_lemma": "חָיָה",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-005-lowfat.xml",
+            "id": "o010050060012",
+            "ref": "GEN 5:6!1",
+            "attribute": "lemma",
+            "source_lemma": "חָיָה",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:2438": {
+      "lemma": "חִירָם",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "2438",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.1CH.14.1.v001.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "10-2Sa-005-lowfat.xml",
+            "id": "o100050110021",
+            "ref": "2SA 5:11!2",
+            "attribute": "lemma",
+            "source_lemma": "חִירָם",
+            "code_match": "exact"
+          },
+          {
+            "file": "11-1Ki-005-lowfat.xml",
+            "id": "o110050150021",
+            "ref": "1KI 5:15!2",
+            "attribute": "lemma",
+            "source_lemma": "חִירָם",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:2449": {
+      "lemma": "חָכַם",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "2449",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.PRO.13.20.v002.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "02-Exo-001-lowfat.xml",
+            "id": "o020010100021",
+            "ref": "EXO 1:10!2",
+            "attribute": "lemma",
+            "source_lemma": "חָכַם",
+            "code_match": "exact"
+          },
+          {
+            "file": "05-Deu-032-lowfat.xml",
+            "id": "o050320290021",
+            "ref": "DEU 32:29!2",
+            "attribute": "lemma",
+            "source_lemma": "חָכַם",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:2489": {
+      "lemma": "חֵלְכָה",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "2489",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.PSA.10.10.v003.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "19-Psa-010-lowfat.xml",
+            "id": "o190100080082",
+            "ref": "PSA 10:8!8",
+            "attribute": "lemma",
+            "source_lemma": "חֵלְכָה",
+            "code_match": "exact"
+          },
+          {
+            "file": "19-Psa-010-lowfat.xml",
+            "id": "o190100140111",
+            "ref": "PSA 10:14!11",
+            "attribute": "lemma",
+            "source_lemma": "חֵלְכָה",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:2595": {
+      "lemma": "חֲנִית",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "2595",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.1SA.26.22.v006.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "09-1Sa-013-lowfat.xml",
+            "id": "o090130190161",
+            "ref": "1SA 13:19!16",
+            "attribute": "lemma",
+            "source_lemma": "חֲנִית",
+            "code_match": "exact"
+          },
+          {
+            "file": "09-1Sa-013-lowfat.xml",
+            "id": "o090130220072",
+            "ref": "1SA 13:22!7",
+            "attribute": "lemma",
+            "source_lemma": "חֲנִית",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:2617 a": {
+      "lemma": "חֶסֶד",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "2617 a",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.PSA.59.10.v001.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "03-Lev-020-lowfat.xml",
+            "id": "o030200170181",
+            "ref": "LEV 20:17!18",
+            "attribute": "lemma",
+            "source_lemma": "חֶסֶד",
+            "code_match": "exact"
+          },
+          {
+            "file": "20-Pro-014-lowfat.xml",
+            "id": "o200140340042",
+            "ref": "PRO 14:34!4",
+            "attribute": "lemma",
+            "source_lemma": "חֶסֶד",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:2695": {
+      "lemma": "חֶצְרוֹ",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "2695",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2SA.23.35.v011.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "13-1Ch-011-lowfat.xml",
+            "id": "o130110370011",
+            "ref": "1CH 11:37!1",
+            "attribute": "lemma",
+            "source_lemma": "חֶצְרוֹ",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:2851": {
+      "lemma": "חִתִּית",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "2851",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.EZK.32.32.v002.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "26-Ezk-026-lowfat.xml",
+            "id": "o260260170201",
+            "ref": "EZK 26:17!20",
+            "attribute": "lemma",
+            "source_lemma": "חִתִּית",
+            "code_match": "exact"
+          },
+          {
+            "file": "26-Ezk-032-lowfat.xml",
+            "id": "o260320230161",
+            "ref": "EZK 32:23!16",
+            "attribute": "lemma",
+            "source_lemma": "חִתִּית",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:3035": {
+      "lemma": "יִדּוֹ",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "3035",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.EZR.10.43.v006.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "13-1Ch-027-lowfat.xml",
+            "id": "o130270210041",
+            "ref": "1CH 27:21!4",
+            "attribute": "lemma",
+            "source_lemma": "יִדּוֹ",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:3045": {
+      "lemma": "יָדַע",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "3045",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.PSA.119.79.v001.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-003-lowfat.xml",
+            "id": "o010030050021",
+            "ref": "GEN 3:5!2",
+            "attribute": "lemma",
+            "source_lemma": "יָדַע",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-003-lowfat.xml",
+            "id": "o010030050121",
+            "ref": "GEN 3:5!12",
+            "attribute": "lemma",
+            "source_lemma": "יָדַע",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:3086": {
+      "lemma": "יְהוֹעַדָּן",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "3086",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2KI.14.2.v001.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "12-2Ki-014-lowfat.xml",
+            "id": "o120140020151",
+            "ref": "2KI 14:2!15",
+            "attribute": "lemma",
+            "source_lemma": "יְהוֹעַדָּן",
+            "code_match": "exact"
+          },
+          {
+            "file": "14-2Ch-025-lowfat.xml",
+            "id": "o140250010141",
+            "ref": "2CH 25:1!14",
+            "attribute": "lemma",
+            "source_lemma": "יְהוֹעַדָּן",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:3160": {
+      "lemma": "יְחֻבָּה",
+      "evidence": {
+        "kind": "explicit-lexical-judgment",
+        "oshb_code": "3160",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.1CH.7.34.v005.r01.001"
+        ],
+        "reason": "The ketiv name Jehubbah retains initial yod absent from qere Hubbah. This is an explicit lexical metadata judgment; the qere citation supplies comparison context, not attestation of the selected ketiv headword.",
+        "oshb_reading": {
+          "id": "WLC.1CH.7.34.v005.r01.001",
+          "ref": "1CH.7.34",
+          "surface": "יחבה",
+          "morph": "Np",
+          "code": "3160",
+          "language": "hbo"
+        },
+        "qere_comparison": {
+          "id": "WLC.1CH.7.34.008",
+          "source_xml_id": "o130070340072",
+          "source_ref": "1CH.7.34",
+          "lemma": "חֻבָּה",
+          "strong": "H3160a"
+        }
+      }
+    },
+    "hbo:3171": {
+      "lemma": "יְחִיאֵל",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "3171",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2CH.29.14.v003.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "13-1Ch-015-lowfat.xml",
+            "id": "o130150180082",
+            "ref": "1CH 15:18!8",
+            "attribute": "lemma",
+            "source_lemma": "יְחִיאֵל",
+            "code_match": "exact"
+          },
+          {
+            "file": "13-1Ch-015-lowfat.xml",
+            "id": "o130150200042",
+            "ref": "1CH 15:20!4",
+            "attribute": "lemma",
+            "source_lemma": "יְחִיאֵל",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:3203": {
+      "lemma": "יְכָלְיָהוּ",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "3203",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2CH.26.3.v001.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "14-2Ch-026-lowfat.xml",
+            "id": "o140260030151",
+            "ref": "2CH 26:3!15",
+            "attribute": "lemma",
+            "source_lemma": "יְכָלְיָהוּ",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:3205": {
+      "lemma": "יָלַד",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "3205",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.JER.2.27.v006.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-003-lowfat.xml",
+            "id": "o010030160091",
+            "ref": "GEN 3:16!9",
+            "attribute": "lemma",
+            "source_lemma": "יָלַד",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-004-lowfat.xml",
+            "id": "o010040010072",
+            "ref": "GEN 4:1!7",
+            "attribute": "lemma",
+            "source_lemma": "יָלַד",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:3241": {
+      "lemma": "יָנִים",
+      "evidence": {
+        "kind": "explicit-lexical-judgment",
+        "oshb_code": "3241",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.JOS.15.53.v003.r01.002"
+        ],
+        "reason": "The ketiv place name Janim ינים is retained, rather than qere Janum ינום. This is an explicit lexical metadata judgment; the qere citation supplies comparison context, not attestation of the selected ketiv headword.",
+        "oshb_reading": {
+          "id": "WLC.JOS.15.53.v003.r01.002",
+          "ref": "JOS.15.53",
+          "surface": "ינים",
+          "morph": "Np",
+          "code": "3241",
+          "language": "hbo"
+        },
+        "qere_comparison": {
+          "id": "WLC.JOS.15.53.002",
+          "source_xml_id": "o060150530022",
+          "source_ref": "JOS.15.53",
+          "lemma": "יָנוּם",
+          "strong": "H3241a"
+        }
+      }
+    },
+    "hbo:3273": {
+      "lemma": "יְעִיאֵל",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "3273",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2CH.29.13.v002.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "13-1Ch-005-lowfat.xml",
+            "id": "o130050070061",
+            "ref": "1CH 5:7!6",
+            "attribute": "lemma",
+            "source_lemma": "יְעִיאֵל",
+            "code_match": "exact"
+          },
+          {
+            "file": "13-1Ch-009-lowfat.xml",
+            "id": "o130090350061",
+            "ref": "1CH 9:35!6",
+            "attribute": "lemma",
+            "source_lemma": "יְעִיאֵל",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:3299": {
+      "lemma": "יַעֲשָׂי",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "3299",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.EZR.10.37.v005.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "15-Ezr-010-lowfat.xml",
+            "id": "o150100370042",
+            "ref": "EZR 10:37!4",
+            "attribute": "lemma",
+            "source_lemma": "יַעֲשָׂי",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:3318": {
+      "lemma": "יָצָא",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "3318",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.EZR.8.17.v002.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-001-lowfat.xml",
+            "id": "o010010120012",
+            "ref": "GEN 1:12!1",
+            "attribute": "lemma",
+            "source_lemma": "יָצָא",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-001-lowfat.xml",
+            "id": "o010010240031",
+            "ref": "GEN 1:24!3",
+            "attribute": "lemma",
+            "source_lemma": "יָצָא",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:3328": {
+      "lemma": "יִצְחָר",
+      "evidence": {
+        "kind": "explicit-lexical-judgment",
+        "oshb_code": "3328",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.1CH.4.7.v001.r01.001"
+        ],
+        "reason": "The ketiv proper name Izhar has consonants יצחר; the qere Zohar צחר is a distinct spelling and cannot supply its headword. This is an explicit lexical metadata judgment; the qere citation supplies comparison context, not attestation of the selected ketiv headword.",
+        "oshb_reading": {
+          "id": "WLC.1CH.4.7.v001.r01.001",
+          "ref": "1CH.4.7",
+          "surface": "יצחר",
+          "morph": "Np",
+          "code": "3328",
+          "language": "hbo"
+        },
+        "qere_comparison": {
+          "id": "WLC.1CH.4.7.006",
+          "source_xml_id": "o130040070052",
+          "source_ref": "1CH.4.7",
+          "lemma": "צֹחַר",
+          "strong": "H6714"
+        }
+      }
+    },
+    "hbo:3406": {
+      "lemma": "יְרֵימוֹת",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "3406",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.EZR.10.29.v003.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "13-1Ch-007-lowfat.xml",
+            "id": "o130070070062",
+            "ref": "1CH 7:7!6",
+            "attribute": "lemma",
+            "source_lemma": "יְרֵימוֹת",
+            "code_match": "exact"
+          },
+          {
+            "file": "13-1Ch-012-lowfat.xml",
+            "id": "o130120060022",
+            "ref": "1CH 12:6!2",
+            "attribute": "lemma",
+            "source_lemma": "יְרֵימוֹת",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:3427": {
+      "lemma": "יָשַׁב",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "3427",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2CH.34.9.v003.r01.002",
+          "WLC.EZK.35.9.v001.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-004-lowfat.xml",
+            "id": "o010040160052",
+            "ref": "GEN 4:16!5",
+            "attribute": "lemma",
+            "source_lemma": "יָשַׁב",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-004-lowfat.xml",
+            "id": "o010040200081",
+            "ref": "GEN 4:20!8",
+            "attribute": "lemma",
+            "source_lemma": "יָשַׁב",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:3499 b": {
+      "lemma": "יֶתֶר",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "3499 b",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.JOB.30.11.v001.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-049-lowfat.xml",
+            "id": "o010490030071",
+            "ref": "GEN 49:3!7",
+            "attribute": "lemma",
+            "source_lemma": "יֶתֶר",
+            "code_match": "unsuffixed"
+          },
+          {
+            "file": "01-Gen-049-lowfat.xml",
+            "id": "o010490030092",
+            "ref": "GEN 49:3!9",
+            "attribute": "lemma",
+            "source_lemma": "יֶתֶר",
+            "code_match": "unsuffixed"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords. OSHB suffix is retained in the mapping key; the unsuffixed MACULA citation corroborates this explicitly selected sense and is not a runtime suffix-stripping rule."
+      }
+    },
+    "hbo:3559 a": {
+      "lemma": "כּוּן",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "3559 a",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.PRO.21.29.v002.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-041-lowfat.xml",
+            "id": "o010410320081",
+            "ref": "GEN 41:32!8",
+            "attribute": "lemma",
+            "source_lemma": "כּוּן",
+            "code_match": "unsuffixed"
+          },
+          {
+            "file": "01-Gen-043-lowfat.xml",
+            "id": "o010430160162",
+            "ref": "GEN 43:16!16",
+            "attribute": "lemma",
+            "source_lemma": "כּוּן",
+            "code_match": "unsuffixed"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords. OSHB suffix is retained in the mapping key; the unsuffixed MACULA citation corroborates this explicitly selected sense and is not a runtime suffix-stripping rule."
+      }
+    },
+    "hbo:3562": {
+      "lemma": "כּוֹנַנְיָהוּ",
+      "evidence": {
+        "kind": "explicit-lexical-judgment",
+        "oshb_code": "3562",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2CH.31.12.v001.r01.001",
+          "WLC.2CH.31.13.v002.r01.001"
+        ],
+        "reason": "Conaniah: retain the ketiv plene spelling כונניהו rather than replacing it with the qere consonants כנניהו. This is an explicit lexical metadata judgment; the qere citation supplies comparison context, not attestation of the selected ketiv headword.",
+        "oshb_reading": {
+          "id": "WLC.2CH.31.12.v001.r01.001",
+          "ref": "2CH.31.12",
+          "surface": "כונניהו",
+          "morph": "Np",
+          "code": "3562",
+          "language": "hbo"
+        },
+        "qere_comparison": {
+          "id": "WLC.2CH.31.12.018",
+          "source_xml_id": "o140310120101",
+          "source_ref": "2CH.31.12",
+          "lemma": "כָּנַנְיָהוּ",
+          "strong": "H3562a"
+        }
+      }
+    },
+    "hbo:3588 a": {
+      "lemma": "כִּי",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "3588 a",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2SA.16.10.v003.r01.001",
+          "WLC.2SA.16.10.v004.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-001-lowfat.xml",
+            "id": "o010010040051",
+            "ref": "GEN 1:4!5",
+            "attribute": "lemma",
+            "source_lemma": "כִּי",
+            "code_match": "unsuffixed"
+          },
+          {
+            "file": "01-Gen-001-lowfat.xml",
+            "id": "o010010100111",
+            "ref": "GEN 1:10!11",
+            "attribute": "lemma",
+            "source_lemma": "כִּי",
+            "code_match": "unsuffixed"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords. OSHB suffix is retained in the mapping key; the unsuffixed MACULA citation corroborates this explicitly selected sense and is not a runtime suffix-stripping rule."
+      }
+    },
+    "hbo:3605": {
+      "lemma": "כֹּל",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "3605",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.LAM.4.12.v003.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-001-lowfat.xml",
+            "id": "o010010210071",
+            "ref": "GEN 1:21!7",
+            "attribute": "lemma",
+            "source_lemma": "כֹּל",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-001-lowfat.xml",
+            "id": "o010010210161",
+            "ref": "GEN 1:21!16",
+            "attribute": "lemma",
+            "source_lemma": "כֹּל",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:3622": {
+      "lemma": "כְּלָהִי",
+      "evidence": {
+        "kind": "explicit-lexical-judgment",
+        "oshb_code": "3622",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.EZR.10.35.v004.r01.001"
+        ],
+        "reason": "The accepted ketiv name Cheluhi כלהי is retained, rather than the qere consonants כלהו. This is an explicit lexical metadata judgment; the qere citation supplies comparison context, not attestation of the selected ketiv headword.",
+        "oshb_reading": {
+          "id": "WLC.EZR.10.35.v004.r01.001",
+          "ref": "EZR.10.35",
+          "surface": "כלהי",
+          "morph": "Np",
+          "code": "3622",
+          "language": "hbo"
+        },
+        "qere_comparison": {
+          "id": "WLC.EZR.10.35.003",
+          "source_xml_id": "o150100350041",
+          "source_ref": "EZR.10.35",
+          "lemma": "כְּלֻהוּ",
+          "strong": "H3622a"
+        }
+      }
+    },
+    "hbo:3707": {
+      "lemma": "כָּעַס",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "3707",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.JER.25.7.v001.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "05-Deu-004-lowfat.xml",
+            "id": "o050040250182",
+            "ref": "DEU 4:25!18",
+            "attribute": "lemma",
+            "source_lemma": "כָּעַס",
+            "code_match": "exact"
+          },
+          {
+            "file": "05-Deu-009-lowfat.xml",
+            "id": "o050090180242",
+            "ref": "DEU 9:18!24",
+            "attribute": "lemma",
+            "source_lemma": "כָּעַס",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:3709": {
+      "lemma": "כַּף",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "3709",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.EZK.29.7.v002.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-008-lowfat.xml",
+            "id": "o010080090052",
+            "ref": "GEN 8:9!5",
+            "attribute": "lemma",
+            "source_lemma": "כַּף",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-020-lowfat.xml",
+            "id": "o010200050161",
+            "ref": "GEN 20:5!16",
+            "attribute": "lemma",
+            "source_lemma": "כַּף",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:3726": {
+      "lemma": "כְּפַר הָעַמֹּנִי",
+      "evidence": {
+        "kind": "explicit-lexical-judgment",
+        "oshb_code": "3726",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.JOS.18.24.v005.r01.001"
+        ],
+        "reason": "The code denotes the compound place name Chephar-haammoni, כְּפַר הָעַמֹּנִי. A dictionary headword may name the whole proper-name lexeme even where the accepted token covers its second component. Preserve that lexical identity without changing token boundaries. This is an explicit lexical judgment from the accepted OSHB spelling; the qere comparison does not attest the full headword.",
+        "oshb_reading": {
+          "id": "WLC.JOS.18.24.v005.r01.001",
+          "ref": "JOS.18.24",
+          "surface": "העמני",
+          "morph": "Np",
+          "code": "3726",
+          "language": "hbo"
+        },
+        "qere_comparison": {
+          "id": "WLC.JOS.18.24.003",
+          "source_xml_id": "o060180240031",
+          "source_ref": "JOS.18.24",
+          "lemma": "הַ",
+          "strong": null
+        }
+      }
+    },
+    "hbo:3782": {
+      "lemma": "כָּשַׁל",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "3782",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.NAM.3.3.v001.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "03-Lev-026-lowfat.xml",
+            "id": "o030260370012",
+            "ref": "LEV 26:37!1",
+            "attribute": "lemma",
+            "source_lemma": "כָּשַׁל",
+            "code_match": "exact"
+          },
+          {
+            "file": "09-1Sa-002-lowfat.xml",
+            "id": "o090020040042",
+            "ref": "1SA 2:4!4",
+            "attribute": "lemma",
+            "source_lemma": "כָּשַׁל",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:3808": {
+      "lemma": "לֹא",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "3808",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.JOB.13.15.v001.r01.001",
+          "WLC.JOB.41.12.v001.r01.001",
+          "WLC.JOB.6.21.v002.r01.001",
+          "WLC.PRO.19.7.v001.r01.001",
+          "WLC.PRO.26.2.v001.r01.001",
+          "WLC.PSA.139.16.v002.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-002-lowfat.xml",
+            "id": "o010020050131",
+            "ref": "GEN 2:5!13",
+            "attribute": "lemma",
+            "source_lemma": "לֹא",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-002-lowfat.xml",
+            "id": "o010020170051",
+            "ref": "GEN 2:17!5",
+            "attribute": "lemma",
+            "source_lemma": "לֹא",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:3885 b": {
+      "lemma": "לוּן",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "3885 b",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.EXO.16.7.v002.r01.001",
+          "WLC.NUM.16.11.v001.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "02-Exo-015-lowfat.xml",
+            "id": "o020150240012",
+            "ref": "EXO 15:24!1",
+            "attribute": "lemma",
+            "source_lemma": "לוּן",
+            "code_match": "unsuffixed"
+          },
+          {
+            "file": "02-Exo-016-lowfat.xml",
+            "id": "o020160020022",
+            "ref": "EXO 16:2!2",
+            "attribute": "lemma",
+            "source_lemma": "לוּן",
+            "code_match": "unsuffixed"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords. OSHB suffix is retained in the mapping key; the unsuffixed MACULA citation corroborates this explicitly selected sense and is not a runtime suffix-stripping rule."
+      }
+    },
+    "hbo:430": {
+      "lemma": "אֱלֹהִים",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "430",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.1KI.1.47.v003.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-001-lowfat.xml",
+            "id": "o010010010031",
+            "ref": "GEN 1:1!3",
+            "attribute": "lemma",
+            "source_lemma": "אֱלֹהִים",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-001-lowfat.xml",
+            "id": "o010010020101",
+            "ref": "GEN 1:2!10",
+            "attribute": "lemma",
+            "source_lemma": "אֱלֹהִים",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:4320": {
+      "lemma": "מִיכָיָה",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "4320",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.JER.26.18.v002.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "12-2Ki-022-lowfat.xml",
+            "id": "o120220120131",
+            "ref": "2KI 22:12!13",
+            "attribute": "lemma",
+            "source_lemma": "מִיכָיָה",
+            "code_match": "exact"
+          },
+          {
+            "file": "16-Neh-012-lowfat.xml",
+            "id": "o160120350121",
+            "ref": "NEH 12:35!12",
+            "attribute": "lemma",
+            "source_lemma": "מִיכָיָה",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:4325": {
+      "lemma": "מַיִם",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "4325",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.ISA.44.24.v002.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-001-lowfat.xml",
+            "id": "o010010020142",
+            "ref": "GEN 1:2!14",
+            "attribute": "lemma",
+            "source_lemma": "מַיִם",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-001-lowfat.xml",
+            "id": "o010010060062",
+            "ref": "GEN 1:6!6",
+            "attribute": "lemma",
+            "source_lemma": "מַיִם",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:4608": {
+      "lemma": "מַעֲלֶה",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "4608",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.EZK.40.31.v022.r01.001",
+          "WLC.EZK.40.34.v029.r01.001",
+          "WLC.EZK.40.37.v035.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "09-1Sa-009-lowfat.xml",
+            "id": "o090090110032",
+            "ref": "1SA 9:11!3",
+            "attribute": "lemma",
+            "source_lemma": "מַעֲלֶה",
+            "code_match": "exact"
+          },
+          {
+            "file": "10-2Sa-015-lowfat.xml",
+            "id": "o100150300032",
+            "ref": "2SA 15:30!3",
+            "attribute": "lemma",
+            "source_lemma": "מַעֲלֶה",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:5020": {
+      "lemma": "נְבוּכַדְנֶאצַּר",
+      "evidence": {
+        "kind": "explicit-orthographic-crosswalk",
+        "oshb_code": "5020",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.EZR.2.1.v001.r01.001"
+        ],
+        "reason": "Nebuchadnezzar: orthographic variant נבוכדנצור identifies the same proper-name lexeme as the cited MACULA headword נְבוּכַדְנֶאצַּר, independently of their different Strong codes.",
+        "oshb_reading": {
+          "id": "WLC.EZR.2.1.v001.r01.001",
+          "ref": "EZR.2.1",
+          "surface": "נבוכדנצור",
+          "morph": "Np",
+          "code": "5020",
+          "language": "hbo"
+        },
+        "qere_comparison": {
+          "id": "WLC.EZR.2.1.014",
+          "source_xml_id": "o150020010101",
+          "source_ref": "EZR.2.1",
+          "lemma": "נְבוּכַדְנֶאצַּר",
+          "strong": "H5019"
+        }
+      }
+    },
+    "hbo:5109": {
+      "lemma": "נֵיבַי",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "5109",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.NEH.10.19.v001.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "16-Neh-010-lowfat.xml",
+            "id": "o160100200041",
+            "ref": "NEH 10:20!4",
+            "attribute": "lemma",
+            "source_lemma": "נֵיבַי",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:5127": {
+      "lemma": "נוּס",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "5127",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.JDG.7.21.v002.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-014-lowfat.xml",
+            "id": "o010140100062",
+            "ref": "GEN 14:10!6",
+            "attribute": "lemma",
+            "source_lemma": "נוּס",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-014-lowfat.xml",
+            "id": "o010140100141",
+            "ref": "GEN 14:10!14",
+            "attribute": "lemma",
+            "source_lemma": "נוּס",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:5237": {
+      "lemma": "נׇכְרִי",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "5237",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.PRO.20.16.v002.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-031-lowfat.xml",
+            "id": "o010310150021",
+            "ref": "GEN 31:15!2",
+            "attribute": "lemma",
+            "source_lemma": "נׇכְרִי",
+            "code_match": "exact"
+          },
+          {
+            "file": "02-Exo-002-lowfat.xml",
+            "id": "o020020220121",
+            "ref": "EXO 2:22!12",
+            "attribute": "lemma",
+            "source_lemma": "נׇכְרִי",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:5300": {
+      "lemma": "נְפוּשְׁסִים",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "5300",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.NEH.7.52.v002.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "16-Neh-007-lowfat.xml",
+            "id": "o160070520071",
+            "ref": "NEH 7:52!7",
+            "attribute": "lemma",
+            "source_lemma": "נְפוּשְׁסִים",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:5304": {
+      "lemma": "נְפוּסִים",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "5304",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.EZR.2.50.v004.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "15-Ezr-002-lowfat.xml",
+            "id": "o150020500081",
+            "ref": "EZR 2:50!8",
+            "attribute": "lemma",
+            "source_lemma": "נְפוּסִים",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:5315": {
+      "lemma": "נֶפֶשׁ",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "5315",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2SA.18.13.v004.r01.002",
+          "WLC.JOB.33.28.v003.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-001-lowfat.xml",
+            "id": "o010010200061",
+            "ref": "GEN 1:20!6",
+            "attribute": "lemma",
+            "source_lemma": "נֶפֶשׁ",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-001-lowfat.xml",
+            "id": "o010010210081",
+            "ref": "GEN 1:21!8",
+            "attribute": "lemma",
+            "source_lemma": "נֶפֶשׁ",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:5375": {
+      "lemma": "נָשָׂא",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "5375",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2SA.23.37.v012.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-004-lowfat.xml",
+            "id": "o010040130072",
+            "ref": "GEN 4:13!7",
+            "attribute": "lemma",
+            "source_lemma": "נָשָׂא",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-007-lowfat.xml",
+            "id": "o010070170092",
+            "ref": "GEN 7:17!9",
+            "attribute": "lemma",
+            "source_lemma": "נָשָׂא",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:5433 b": {
+      "lemma": "סָבָא",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "5433 b",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.EZK.23.42.v003.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "20-Pro-023-lowfat.xml",
+            "id": "o200230200032",
+            "ref": "PRO 23:20!3",
+            "attribute": "lemma",
+            "source_lemma": "סָבָא",
+            "code_match": "unsuffixed"
+          },
+          {
+            "file": "20-Pro-023-lowfat.xml",
+            "id": "o200230210021",
+            "ref": "PRO 23:21!2",
+            "attribute": "lemma",
+            "source_lemma": "סָבָא",
+            "code_match": "unsuffixed"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords. OSHB suffix is retained in the mapping key; the unsuffixed MACULA citation corroborates this explicitly selected sense and is not a runtime suffix-stripping rule."
+      }
+    },
+    "hbo:559": {
+      "lemma": "אָמַר",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "559",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.EST.3.4.v001.r01.002",
+          "WLC.JOS.6.7.v002.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-001-lowfat.xml",
+            "id": "o010010030012",
+            "ref": "GEN 1:3!1",
+            "attribute": "lemma",
+            "source_lemma": "אָמַר",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-001-lowfat.xml",
+            "id": "o010010060012",
+            "ref": "GEN 1:6!1",
+            "attribute": "lemma",
+            "source_lemma": "אָמַר",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:5647": {
+      "lemma": "עָבַד",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "5647",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.JER.2.20.v003.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-002-lowfat.xml",
+            "id": "o010020050212",
+            "ref": "GEN 2:5!21",
+            "attribute": "lemma",
+            "source_lemma": "עָבַד",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-002-lowfat.xml",
+            "id": "o010020150092",
+            "ref": "GEN 2:15!9",
+            "attribute": "lemma",
+            "source_lemma": "עָבַד",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:5650": {
+      "lemma": "עֶבֶד",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "5650",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.1KI.1.27.v001.r01.001",
+          "WLC.2SA.14.22.v003.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-009-lowfat.xml",
+            "id": "o010090250041",
+            "ref": "GEN 9:25!4",
+            "attribute": "lemma",
+            "source_lemma": "עֶבֶד",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-009-lowfat.xml",
+            "id": "o010090250051",
+            "ref": "GEN 9:25!5",
+            "attribute": "lemma",
+            "source_lemma": "עֶבֶד",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:5674 a": {
+      "lemma": "עָבַר",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "5674 a",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.JOS.5.1.v001.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "05-Deu-003-lowfat.xml",
+            "id": "o050030260012",
+            "ref": "DEU 3:26!1",
+            "attribute": "lemma",
+            "source_lemma": "עָבַר",
+            "code_match": "exact"
+          },
+          {
+            "file": "19-Psa-078-lowfat.xml",
+            "id": "o190780210042",
+            "ref": "PSA 78:21!4",
+            "attribute": "lemma",
+            "source_lemma": "עָבַר",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:5679": {
+      "lemma": "עֲבָרָה",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "5679",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2SA.15.28.v003.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "10-2Sa-019-lowfat.xml",
+            "id": "o100190190022",
+            "ref": "2SA 19:19!2",
+            "attribute": "lemma",
+            "source_lemma": "עֲבָרָה",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:5771": {
+      "lemma": "עָוֹן",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "5771",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2SA.16.12.v005.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "28-HOS-010-lowfat.xml",
+            "id": "o280100100091",
+            "ref": "HOS 10:10!9",
+            "attribute": "lemma",
+            "source_lemma": "עָוֹן",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:5869 a": {
+      "lemma": "עַיִן",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "5869 a",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2SA.12.9.v001.r01.002",
+          "WLC.ECC.4.8.v001.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-003-lowfat.xml",
+            "id": "o010030050091",
+            "ref": "GEN 3:5!9",
+            "attribute": "lemma",
+            "source_lemma": "עַיִן",
+            "code_match": "unsuffixed"
+          },
+          {
+            "file": "01-Gen-003-lowfat.xml",
+            "id": "o010030060102",
+            "ref": "GEN 3:6!10",
+            "attribute": "lemma",
+            "source_lemma": "עַיִן",
+            "code_match": "unsuffixed"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords. OSHB suffix is retained in the mapping key; the unsuffixed MACULA citation corroborates this explicitly selected sense and is not a runtime suffix-stripping rule."
+      }
+    },
+    "hbo:5892 b": {
+      "lemma": "עִיר",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "5892 b",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2KI.20.4.v001.r01.002",
+          "WLC.JOS.8.16.v002.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-004-lowfat.xml",
+            "id": "o010040170111",
+            "ref": "GEN 4:17!11",
+            "attribute": "lemma",
+            "source_lemma": "עִיר",
+            "code_match": "unsuffixed"
+          },
+          {
+            "file": "01-Gen-004-lowfat.xml",
+            "id": "o010040170142",
+            "ref": "GEN 4:17!14",
+            "attribute": "lemma",
+            "source_lemma": "עִיר",
+            "code_match": "unsuffixed"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords. OSHB suffix is retained in the mapping key; the unsuffixed MACULA citation corroborates this explicitly selected sense and is not a runtime suffix-stripping rule."
+      }
+    },
+    "hbo:5933": {
+      "lemma": "עַלְוָה",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "5933",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.1CH.1.51.v003.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-036-lowfat.xml",
+            "id": "o010360400111",
+            "ref": "GEN 36:40!11",
+            "attribute": "lemma",
+            "source_lemma": "עַלְוָה",
+            "code_match": "exact"
+          },
+          {
+            "file": "13-1Ch-001-lowfat.xml",
+            "id": "o130010510101",
+            "ref": "1CH 1:51!10",
+            "attribute": "lemma",
+            "source_lemma": "עַלְוָה",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:5991": {
+      "lemma": "עַמִּיחוּר",
+      "evidence": {
+        "kind": "explicit-lexical-judgment",
+        "oshb_code": "5991",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2SA.13.37.v003.r01.001"
+        ],
+        "reason": "The accepted ketiv personal name Ammihur עמיחור is retained, rather than the qere Ammihud עמיהוד. This is an explicit lexical metadata judgment; the qere citation supplies comparison context, not attestation of the selected ketiv headword.",
+        "oshb_reading": {
+          "id": "WLC.2SA.13.37.v003.r01.001",
+          "ref": "2SA.13.37",
+          "surface": "עמיחור",
+          "morph": "Np",
+          "code": "5991",
+          "language": "hbo"
+        },
+        "qere_comparison": {
+          "id": "WLC.2SA.13.37.009",
+          "source_xml_id": "o100130370081",
+          "source_ref": "2SA.13.37",
+          "lemma": "עַמִּיהוּד",
+          "strong": "H5989"
+        }
+      }
+    },
+    "hbo:6035": {
+      "lemma": "עָנָו",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "6035",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.ISA.32.7.v001.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "04-Num-012-lowfat.xml",
+            "id": "o040120030041",
+            "ref": "NUM 12:3!4",
+            "attribute": "lemma",
+            "source_lemma": "עָנָו",
+            "code_match": "exact"
+          },
+          {
+            "file": "19-Psa-009-lowfat.xml",
+            "id": "o190090130101",
+            "ref": "PSA 9:13!10",
+            "attribute": "lemma",
+            "source_lemma": "עָנָו",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:6041": {
+      "lemma": "עָנִי",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "6041",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.PRO.16.19.v001.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "02-Exo-022-lowfat.xml",
+            "id": "o020220240072",
+            "ref": "EXO 22:24!7",
+            "attribute": "lemma",
+            "source_lemma": "עָנִי",
+            "code_match": "exact"
+          },
+          {
+            "file": "03-Lev-019-lowfat.xml",
+            "id": "o030190100082",
+            "ref": "LEV 19:10!8",
+            "attribute": "lemma",
+            "source_lemma": "עָנִי",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:6042": {
+      "lemma": "עֻנִּי",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "6042",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.NEH.12.9.v001.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "13-1Ch-015-lowfat.xml",
+            "id": "o130150180092",
+            "ref": "1CH 15:18!9",
+            "attribute": "lemma",
+            "source_lemma": "עֻנִּי",
+            "code_match": "exact"
+          },
+          {
+            "file": "13-1Ch-015-lowfat.xml",
+            "id": "o130150200052",
+            "ref": "1CH 15:20!5",
+            "attribute": "lemma",
+            "source_lemma": "עֻנִּי",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:6085": {
+      "lemma": "עֶפְרוֹן",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "6085",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2CH.13.19.v002.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-023-lowfat.xml",
+            "id": "o010230080152",
+            "ref": "GEN 23:8!15",
+            "attribute": "lemma",
+            "source_lemma": "עֶפְרוֹן",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-023-lowfat.xml",
+            "id": "o010230100012",
+            "ref": "GEN 23:10!1",
+            "attribute": "lemma",
+            "source_lemma": "עֶפְרוֹן",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:6428": {
+      "lemma": "פָּלַשׁ",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "6428",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.MIC.1.10.v003.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "24-Jer-006-lowfat.xml",
+            "id": "o240060260052",
+            "ref": "JER 6:26!5",
+            "attribute": "lemma",
+            "source_lemma": "פָּלַשׁ",
+            "code_match": "exact"
+          },
+          {
+            "file": "24-Jer-025-lowfat.xml",
+            "id": "o240250340042",
+            "ref": "JER 25:34!4",
+            "attribute": "lemma",
+            "source_lemma": "פָּלַשׁ",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:6635 a": {
+      "lemma": "צָבָא",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "6635 a",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.PSA.148.2.v001.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-002-lowfat.xml",
+            "id": "o010020010051",
+            "ref": "GEN 2:1!5",
+            "attribute": "lemma",
+            "source_lemma": "צָבָא",
+            "code_match": "unsuffixed"
+          },
+          {
+            "file": "01-Gen-021-lowfat.xml",
+            "id": "o010210220081",
+            "ref": "GEN 21:22!8",
+            "attribute": "lemma",
+            "source_lemma": "צָבָא",
+            "code_match": "unsuffixed"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords. OSHB suffix is retained in the mapping key; the unsuffixed MACULA citation corroborates this explicitly selected sense and is not a runtime suffix-stripping rule."
+      }
+    },
+    "hbo:6944": {
+      "lemma": "קֹדֶשׁ",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "6944",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.1KI.15.15.v001.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "02-Exo-003-lowfat.xml",
+            "id": "o020030050161",
+            "ref": "EXO 3:5!16",
+            "attribute": "lemma",
+            "source_lemma": "קֹדֶשׁ",
+            "code_match": "exact"
+          },
+          {
+            "file": "02-Exo-012-lowfat.xml",
+            "id": "o020120160041",
+            "ref": "EXO 12:16!4",
+            "attribute": "lemma",
+            "source_lemma": "קֹדֶשׁ",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:7087 b": {
+      "lemma": "קָפָא",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "7087 b",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.ZEC.14.6.v002.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "02-Exo-015-lowfat.xml",
+            "id": "o020150080091",
+            "ref": "EXO 15:8!9",
+            "attribute": "lemma",
+            "source_lemma": "קָפָא",
+            "code_match": "unsuffixed"
+          },
+          {
+            "file": "18-Job-010-lowfat.xml",
+            "id": "o180100100051",
+            "ref": "JOB 10:10!5",
+            "attribute": "lemma",
+            "source_lemma": "קָפָא",
+            "code_match": "unsuffixed"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords. OSHB suffix is retained in the mapping key; the unsuffixed MACULA citation corroborates this explicitly selected sense and is not a runtime suffix-stripping rule."
+      }
+    },
+    "hbo:71": {
+      "lemma": "אֲבָנָה",
+      "evidence": {
+        "kind": "explicit-lexical-judgment",
+        "oshb_code": "71",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2KI.5.12.v002.r01.001"
+        ],
+        "reason": "The accepted river name is Abanah אבנה, not the qere Amanah אמנה. This is an explicit lexical metadata judgment; the qere citation supplies comparison context, not attestation of the selected ketiv headword.",
+        "oshb_reading": {
+          "id": "WLC.2KI.5.12.v002.r01.001",
+          "ref": "2KI.5.12",
+          "surface": "אבנה",
+          "morph": "Np",
+          "code": "71",
+          "language": "hbo"
+        },
+        "qere_comparison": {
+          "id": "WLC.2KI.5.12.004",
+          "source_xml_id": "o120050120041",
+          "source_ref": "2KI.5.12",
+          "lemma": "אֲמָנָה",
+          "strong": "H549"
+        }
+      }
+    },
+    "hbo:7119": {
+      "lemma": "קַר",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "7119",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.PRO.17.27.v002.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "20-Pro-025-lowfat.xml",
+            "id": "o200250250021",
+            "ref": "PRO 25:25!2",
+            "attribute": "lemma",
+            "source_lemma": "קַר",
+            "code_match": "exact"
+          },
+          {
+            "file": "24-Jer-018-lowfat.xml",
+            "id": "o240180140101",
+            "ref": "JER 18:14!10",
+            "attribute": "lemma",
+            "source_lemma": "קַר",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:7121": {
+      "lemma": "קָרָא",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "7121",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2SA.12.24.v004.r01.002",
+          "WLC.JER.3.19.v005.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-001-lowfat.xml",
+            "id": "o010010050012",
+            "ref": "GEN 1:5!1",
+            "attribute": "lemma",
+            "source_lemma": "קָרָא",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-001-lowfat.xml",
+            "id": "o010010050061",
+            "ref": "GEN 1:5!6",
+            "attribute": "lemma",
+            "source_lemma": "קָרָא",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:7200": {
+      "lemma": "רָאָה",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "7200",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.ISA.42.20.v001.r01.001",
+          "WLC.PSA.71.20.v002.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-001-lowfat.xml",
+            "id": "o010010040012",
+            "ref": "GEN 1:4!1",
+            "attribute": "lemma",
+            "source_lemma": "רָאָה",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-001-lowfat.xml",
+            "id": "o010010090102",
+            "ref": "GEN 1:9!10",
+            "attribute": "lemma",
+            "source_lemma": "רָאָה",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:7218 a": {
+      "lemma": "רֹאשׁ",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "7218 a",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.NEH.12.46.v004.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-002-lowfat.xml",
+            "id": "o010020100111",
+            "ref": "GEN 2:10!11",
+            "attribute": "lemma",
+            "source_lemma": "רֹאשׁ",
+            "code_match": "unsuffixed"
+          },
+          {
+            "file": "01-Gen-003-lowfat.xml",
+            "id": "o010030150121",
+            "ref": "GEN 3:15!12",
+            "attribute": "lemma",
+            "source_lemma": "רֹאשׁ",
+            "code_match": "unsuffixed"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords. OSHB suffix is retained in the mapping key; the unsuffixed MACULA citation corroborates this explicitly selected sense and is not a runtime suffix-stripping rule."
+      }
+    },
+    "hbo:7230": {
+      "lemma": "רֹב",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "7230",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2CH.24.27.v002.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-016-lowfat.xml",
+            "id": "o010160100112",
+            "ref": "GEN 16:10!11",
+            "attribute": "lemma",
+            "source_lemma": "רֹב",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-027-lowfat.xml",
+            "id": "o010270280082",
+            "ref": "GEN 27:28!8",
+            "attribute": "lemma",
+            "source_lemma": "רֹב",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:726": {
+      "lemma": "אֲרַמִּי",
+      "evidence": {
+        "kind": "explicit-lexical-judgment",
+        "oshb_code": "726",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2KI.16.6.v001.r01.002"
+        ],
+        "reason": "The accepted plural gentilic ארמים means Arameans; lemmatize to singular אֲרַמִּי. Qere אדמים is Edomites and is not its lemma. This is an explicit lexical metadata judgment; the qere citation supplies comparison context, not attestation of the selected ketiv headword.",
+        "oshb_reading": {
+          "id": "WLC.2KI.16.6.v001.r01.002",
+          "ref": "2KI.16.6",
+          "surface": "ארמים",
+          "morph": "Ngmpa",
+          "code": "726",
+          "language": "hbo"
+        },
+        "qere_comparison": {
+          "id": "WLC.2KI.16.6.022",
+          "source_xml_id": "o120160060152",
+          "source_ref": "2KI.16.6",
+          "lemma": "אֲדֹמִי",
+          "strong": "H130"
+        }
+      }
+    },
+    "hbo:7272": {
+      "lemma": "רֶגֶל",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "7272",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.1KI.5.3.v001.r01.001",
+          "WLC.2SA.22.34.v005.r01.001",
+          "WLC.PSA.105.18.v001.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-008-lowfat.xml",
+            "id": "o010080090061",
+            "ref": "GEN 8:9!6",
+            "attribute": "lemma",
+            "source_lemma": "רֶגֶל",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-018-lowfat.xml",
+            "id": "o010180040061",
+            "ref": "GEN 18:4!6",
+            "attribute": "lemma",
+            "source_lemma": "רֶגֶל",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:7311 a": {
+      "lemma": "רוּם",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "7311 a",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.DAN.11.12.v004.r01.001",
+          "WLC.DAN.8.11.v001.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-007-lowfat.xml",
+            "id": "o010070170122",
+            "ref": "GEN 7:17!12",
+            "attribute": "lemma",
+            "source_lemma": "רוּם",
+            "code_match": "unsuffixed"
+          },
+          {
+            "file": "01-Gen-014-lowfat.xml",
+            "id": "o010140220061",
+            "ref": "GEN 14:22!6",
+            "attribute": "lemma",
+            "source_lemma": "רוּם",
+            "code_match": "unsuffixed"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords. OSHB suffix is retained in the mapping key; the unsuffixed MACULA citation corroborates this explicitly selected sense and is not a runtime suffix-stripping rule."
+      }
+    },
+    "hbo:7379": {
+      "lemma": "רִיב",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "7379",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.JOB.33.19.v001.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-013-lowfat.xml",
+            "id": "o010130070021",
+            "ref": "GEN 13:7!2",
+            "attribute": "lemma",
+            "source_lemma": "רִיב",
+            "code_match": "exact"
+          },
+          {
+            "file": "02-Exo-017-lowfat.xml",
+            "id": "o020170070071",
+            "ref": "EXO 17:7!7",
+            "attribute": "lemma",
+            "source_lemma": "רִיב",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:7521": {
+      "lemma": "רָצָה",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "7521",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.PRO.23.26.v008.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-033-lowfat.xml",
+            "id": "o010330100212",
+            "ref": "GEN 33:10!21",
+            "attribute": "lemma",
+            "source_lemma": "רָצָה",
+            "code_match": "exact"
+          },
+          {
+            "file": "03-Lev-001-lowfat.xml",
+            "id": "o030010040062",
+            "ref": "LEV 1:4!6",
+            "attribute": "lemma",
+            "source_lemma": "רָצָה",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:7561": {
+      "lemma": "רָשַׁע",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "7561",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.DAN.9.5.v001.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "02-Exo-022-lowfat.xml",
+            "id": "o020220080271",
+            "ref": "EXO 22:8!27",
+            "attribute": "lemma",
+            "source_lemma": "רָשַׁע",
+            "code_match": "exact"
+          },
+          {
+            "file": "05-Deu-025-lowfat.xml",
+            "id": "o050250010132",
+            "ref": "DEU 25:1!13",
+            "attribute": "lemma",
+            "source_lemma": "רָשַׁע",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:7635": {
+      "lemma": "שְׁבִיל",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "7635",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.PSA.77.19.v003.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "19-Psa-077-lowfat.xml",
+            "id": "o190770200042",
+            "ref": "PSA 77:20!4",
+            "attribute": "lemma",
+            "source_lemma": "שְׁבִיל",
+            "code_match": "exact"
+          },
+          {
+            "file": "24-Jer-018-lowfat.xml",
+            "id": "o240180150081",
+            "ref": "JER 18:15!8",
+            "attribute": "lemma",
+            "source_lemma": "שְׁבִיל",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:7693": {
+      "lemma": "שָׁגַל",
+      "evidence": {
+        "kind": "explicit-lexical-judgment",
+        "oshb_code": "7693",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.ISA.13.16.v001.r01.001",
+          "WLC.ZEC.14.2.v001.r01.001"
+        ],
+        "reason": "The Niphal imperfect feminine plural תשגלנה lemmatizes to שָׁגַל. Qere שכב is the euphemistic replacement and must not become the ketiv lemma. This is an explicit lexical metadata judgment; the qere citation supplies comparison context, not attestation of the selected ketiv headword.",
+        "oshb_reading": {
+          "id": "WLC.ISA.13.16.v001.r01.001",
+          "ref": "ISA.13.16",
+          "surface": "תשגלנה",
+          "morph": "VNi3fp",
+          "code": "7693",
+          "language": "hbo"
+        },
+        "qere_comparison": {
+          "id": "WLC.ISA.13.16.014",
+          "source_xml_id": "o230130160081",
+          "source_ref": "ISA.13.16",
+          "lemma": "שָׁכַב",
+          "strong": "H7901"
+        }
+      }
+    },
+    "hbo:7725": {
+      "lemma": "שׁוּב",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "7725",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.DAN.11.18.v005.r01.002",
+          "WLC.EZK.18.28.v004.r01.002",
+          "WLC.JER.3.19.v006.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-003-lowfat.xml",
+            "id": "o010030190061",
+            "ref": "GEN 3:19!6",
+            "attribute": "lemma",
+            "source_lemma": "שׁוּב",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-003-lowfat.xml",
+            "id": "o010030190171",
+            "ref": "GEN 3:19!17",
+            "attribute": "lemma",
+            "source_lemma": "שׁוּב",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:7831": {
+      "lemma": "שַׁחֲצוּמָה",
+      "evidence": {
+        "kind": "explicit-lexical-judgment",
+        "oshb_code": "7831",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.JOS.19.22.v001.r01.002"
+        ],
+        "reason": "The ketiv place name Shachazum has waw in שחצומ; retain that name spelling, with the conventional full name ending, rather than qere שחצימה. This is an explicit lexical metadata judgment; the qere citation supplies comparison context, not attestation of the selected ketiv headword.",
+        "oshb_reading": {
+          "id": "WLC.JOS.19.22.v001.r01.002",
+          "ref": "JOS.19.22",
+          "surface": "שחצומ",
+          "morph": "Np",
+          "code": "7831",
+          "language": "hbo"
+        },
+        "qere_comparison": {
+          "id": "WLC.JOS.19.22.008",
+          "source_xml_id": "o060190220052",
+          "source_ref": "JOS.19.22",
+          "lemma": "שַׁחֲצִימָה",
+          "strong": "H7831a"
+        }
+      }
+    },
+    "hbo:7861": {
+      "lemma": "שִׁטְרַי",
+      "evidence": {
+        "kind": "explicit-lexical-judgment",
+        "oshb_code": "7861",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.1CH.27.29.v002.r01.001"
+        ],
+        "reason": "The ketiv proper name Shitrai has consonants שטרי; retain its transposed consonant order rather than substituting qere Shirtai שרטי. This is an explicit lexical metadata judgment; the qere citation supplies comparison context, not attestation of the selected ketiv headword.",
+        "oshb_reading": {
+          "id": "WLC.1CH.27.29.v002.r01.001",
+          "ref": "1CH.27.29",
+          "surface": "שטרי",
+          "morph": "Np",
+          "code": "7861",
+          "language": "hbo"
+        },
+        "qere_comparison": {
+          "id": "WLC.1CH.27.29.010",
+          "source_xml_id": "o130270290061",
+          "source_ref": "1CH.27.29",
+          "lemma": "שִׁרְטַי",
+          "strong": "H7861a"
+        }
+      }
+    },
+    "hbo:7896": {
+      "lemma": "שִׁית",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "7896",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.JER.13.16.v001.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-003-lowfat.xml",
+            "id": "o010030150021",
+            "ref": "GEN 3:15!2",
+            "attribute": "lemma",
+            "source_lemma": "שִׁית",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-004-lowfat.xml",
+            "id": "o010040250131",
+            "ref": "GEN 4:25!13",
+            "attribute": "lemma",
+            "source_lemma": "שִׁית",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:7970": {
+      "lemma": "שָׁלֹשׁ",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "7970",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.1CH.11.11.v001.r01.002",
+          "WLC.1CH.12.18.v004.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-005-lowfat.xml",
+            "id": "o010050030031",
+            "ref": "GEN 5:3!3",
+            "attribute": "lemma",
+            "source_lemma": "שָׁלֹשׁ",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-005-lowfat.xml",
+            "id": "o010050050102",
+            "ref": "GEN 5:5!10",
+            "attribute": "lemma",
+            "source_lemma": "שָׁלֹשׁ",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:8013": {
+      "lemma": "שְׁלֹמוֹת",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "8013",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.1CH.23.9.v001.r01.001",
+          "WLC.1CH.26.25.v001.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "13-1Ch-024-lowfat.xml",
+            "id": "o130240220021",
+            "ref": "1CH 24:22!2",
+            "attribute": "lemma",
+            "source_lemma": "שְׁלֹמוֹת",
+            "code_match": "exact"
+          },
+          {
+            "file": "13-1Ch-024-lowfat.xml",
+            "id": "o130240220041",
+            "ref": "1CH 24:22!4",
+            "attribute": "lemma",
+            "source_lemma": "שְׁלֹמוֹת",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:8073": {
+      "lemma": "שַׁמְלַי",
+      "evidence": {
+        "kind": "explicit-lexical-judgment",
+        "oshb_code": "8073",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.EZR.2.46.v002.r01.001"
+        ],
+        "reason": "The ketiv proper name Shamlai שמלי is retained, rather than qere Salmai שלמי. This is an explicit lexical metadata judgment; the qere citation supplies comparison context, not attestation of the selected ketiv headword.",
+        "oshb_reading": {
+          "id": "WLC.EZR.2.46.v002.r01.001",
+          "ref": "EZR.2.46",
+          "surface": "שמלי",
+          "morph": "Np",
+          "code": "8073",
+          "language": "hbo"
+        },
+        "qere_comparison": {
+          "id": "WLC.EZR.2.46.004",
+          "source_xml_id": "o150020460051",
+          "source_ref": "EZR.2.46",
+          "lemma": "שַׂלְמַי",
+          "strong": "H8014"
+        }
+      }
+    },
+    "hbo:8096": {
+      "lemma": "שִׁמְעִי",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "8096",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2SA.21.21.v010.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "02-Exo-006-lowfat.xml",
+            "id": "o020060170042",
+            "ref": "EXO 6:17!4",
+            "attribute": "lemma",
+            "source_lemma": "שִׁמְעִי",
+            "code_match": "exact"
+          },
+          {
+            "file": "04-Num-003-lowfat.xml",
+            "id": "o040030180072",
+            "ref": "NUM 3:18!7",
+            "attribute": "lemma",
+            "source_lemma": "שִׁמְעִי",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:8193": {
+      "lemma": "שָׂפָה",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "8193",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.PRO.16.27.v002.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-011-lowfat.xml",
+            "id": "o010110010041",
+            "ref": "GEN 11:1!4",
+            "attribute": "lemma",
+            "source_lemma": "שָׂפָה",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-011-lowfat.xml",
+            "id": "o010110060062",
+            "ref": "GEN 11:6!6",
+            "attribute": "lemma",
+            "source_lemma": "שָׂפָה",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:8292": {
+      "lemma": "שְׁרֵקָה",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "8292",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.JER.18.16.v003.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "07-Jdg-005-lowfat.xml",
+            "id": "o070050160061",
+            "ref": "JDG 5:16!6",
+            "attribute": "lemma",
+            "source_lemma": "שְׁרֵקָה",
+            "code_match": "exact"
+          },
+          {
+            "file": "24-Jer-018-lowfat.xml",
+            "id": "o240180160051",
+            "ref": "JER 18:16!5",
+            "attribute": "lemma",
+            "source_lemma": "שְׁרֵקָה",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:834 d": {
+      "lemma": "אֲשֶׁר",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "834 d",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.EZK.9.11.v004.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-001-lowfat.xml",
+            "id": "o010010070081",
+            "ref": "GEN 1:7!8",
+            "attribute": "lemma",
+            "source_lemma": "אֲשֶׁר",
+            "code_match": "unsuffixed"
+          },
+          {
+            "file": "01-Gen-001-lowfat.xml",
+            "id": "o010010070131",
+            "ref": "GEN 1:7!13",
+            "attribute": "lemma",
+            "source_lemma": "אֲשֶׁר",
+            "code_match": "unsuffixed"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords. OSHB suffix is retained in the mapping key; the unsuffixed MACULA citation corroborates this explicitly selected sense and is not a runtime suffix-stripping rule."
+      }
+    },
+    "hbo:8457": {
+      "lemma": "תַּזְנוּת",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "8457",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.EZK.16.25.v006.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "26-Ezk-016-lowfat.xml",
+            "id": "o260160150081",
+            "ref": "EZK 16:15!8",
+            "attribute": "lemma",
+            "source_lemma": "תַּזְנוּת",
+            "code_match": "exact"
+          },
+          {
+            "file": "26-Ezk-016-lowfat.xml",
+            "id": "o260160200142",
+            "ref": "EZK 16:20!14",
+            "attribute": "lemma",
+            "source_lemma": "תַּזְנוּת",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:854": {
+      "lemma": "אֵת",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "854",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.ISA.44.24.v002.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-004-lowfat.xml",
+            "id": "o010040010131",
+            "ref": "GEN 4:1!13",
+            "attribute": "lemma",
+            "source_lemma": "אֵת",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-005-lowfat.xml",
+            "id": "o010050220031",
+            "ref": "GEN 5:22!3",
+            "attribute": "lemma",
+            "source_lemma": "אֵת",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:8559": {
+      "lemma": "תָּמָר",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "8559",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.1KI.9.18.v002.r01.001"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-038-lowfat.xml",
+            "id": "o010380060071",
+            "ref": "GEN 38:6!7",
+            "attribute": "lemma",
+            "source_lemma": "תָּמָר",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-038-lowfat.xml",
+            "id": "o010380110032",
+            "ref": "GEN 38:11!3",
+            "attribute": "lemma",
+            "source_lemma": "תָּמָר",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:935": {
+      "lemma": "בּוֹא",
+      "evidence": {
+        "kind": "pinned-macula-lexical-selection",
+        "oshb_code": "935",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2KI.3.24.v001.r01.002"
+        ],
+        "citations": [
+          {
+            "file": "01-Gen-002-lowfat.xml",
+            "id": "o010020190132",
+            "ref": "GEN 2:19!13",
+            "attribute": "lemma",
+            "source_lemma": "בּוֹא",
+            "code_match": "exact"
+          },
+          {
+            "file": "01-Gen-002-lowfat.xml",
+            "id": "o010020220112",
+            "ref": "GEN 2:22!11",
+            "attribute": "lemma",
+            "source_lemma": "בּוֹא",
+            "code_match": "exact"
+          }
+        ],
+        "reason": "Lexical headword selected for the accepted morpheme and its morphology; Strong identifiers are diagnostic cross-references, not headwords."
+      }
+    },
+    "hbo:b": {
+      "lemma": "בְּ",
+      "evidence": {
+        "kind": "explicit-lexical-judgment",
+        "oshb_code": "b",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.1KI.16.26.v002.r01.002",
+          "WLC.2SA.12.9.v001.r01.001",
+          "WLC.2SA.15.28.v003.r01.001",
+          "WLC.2SA.16.12.v005.r01.001",
+          "WLC.2SA.18.13.v004.r01.001",
+          "WLC.EST.3.4.v001.r01.001",
+          "WLC.EZK.14.4.v001.r01.001",
+          "WLC.EZK.29.7.v002.r01.001",
+          "WLC.GEN.30.11.v001.r01.001",
+          "WLC.ISA.25.10.v001.r01.001",
+          "WLC.JOS.3.16.v002.r01.001",
+          "WLC.JOS.8.16.v002.r01.001"
+        ],
+        "reason": "OSHB morpheme code b explicitly denotes the inseparable preposition in. Map to its lexical grammatical headword; do not copy an inflected surface. Language is preserved in the entry key."
+      }
+    },
+    "hbo:c": {
+      "lemma": "וְ",
+      "evidence": {
+        "kind": "explicit-lexical-judgment",
+        "oshb_code": "c",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.1CH.26.25.v001.r01.001",
+          "WLC.1KI.15.15.v001.r01.001",
+          "WLC.1KI.16.26.v002.r01.001",
+          "WLC.1SA.27.8.v002.r01.001",
+          "WLC.2CH.24.27.v002.r01.001",
+          "WLC.2CH.29.13.v002.r01.001",
+          "WLC.2CH.34.9.v003.r01.001",
+          "WLC.2KI.16.6.v001.r01.001",
+          "WLC.2KI.3.24.v001.r01.001",
+          "WLC.2SA.12.24.v004.r01.001",
+          "WLC.2SA.16.10.v004.r01.001",
+          "WLC.2SA.22.15.v002.r01.001",
+          "WLC.DAN.11.10.v002.r01.001",
+          "WLC.DAN.11.18.v005.r01.001",
+          "WLC.DAN.9.5.v001.r01.001",
+          "WLC.EZK.18.28.v004.r01.001",
+          "WLC.EZK.36.14.v003.r01.001",
+          "WLC.EZK.36.15.v005.r01.001",
+          "WLC.EZR.10.37.v005.r01.001",
+          "WLC.EZR.8.14.v001.r01.001",
+          "WLC.EZR.8.17.v002.r01.001",
+          "WLC.JDG.7.21.v002.r01.001",
+          "WLC.JOB.33.19.v001.r01.001",
+          "WLC.JOB.33.28.v004.r01.001",
+          "WLC.JOS.15.53.v003.r01.001",
+          "WLC.JOS.19.22.v001.r01.001",
+          "WLC.JOS.6.7.v002.r01.001",
+          "WLC.LAM.4.12.v003.r01.001",
+          "WLC.NEH.12.9.v001.r01.001",
+          "WLC.PRO.13.20.v002.r01.001",
+          "WLC.PRO.17.27.v002.r01.001",
+          "WLC.PSA.119.79.v001.r01.001",
+          "WLC.PSA.119.161.v003.r01.001",
+          "WLC.PSA.139.16.v002.r01.001",
+          "WLC.PSA.60.5.v001.r01.001",
+          "WLC.PSA.77.19.v003.r01.001"
+        ],
+        "reason": "OSHB morpheme code c explicitly denotes the conjunction and. Map to its lexical grammatical headword; do not copy an inflected surface. Language is preserved in the entry key."
+      }
+    },
+    "hbo:d": {
+      "lemma": "הַ",
+      "evidence": {
+        "kind": "explicit-lexical-judgment",
+        "oshb_code": "d",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.1CH.11.11.v001.r01.001",
+          "WLC.1CH.12.18.v004.r01.001",
+          "WLC.1SA.26.22.v006.r01.001",
+          "WLC.1SA.27.8.v002.r01.002",
+          "WLC.2KI.20.4.v001.r01.001"
+        ],
+        "reason": "OSHB morpheme code d explicitly denotes the definite article. Map to its lexical grammatical headword; do not copy an inflected surface. Language is preserved in the entry key."
+      }
+    },
+    "hbo:k": {
+      "lemma": "כְּ",
+      "evidence": {
+        "kind": "explicit-lexical-judgment",
+        "oshb_code": "k",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.EZK.9.11.v004.r01.001"
+        ],
+        "reason": "OSHB morpheme code k explicitly denotes the inseparable comparison preposition. Map to its lexical grammatical headword; do not copy an inflected surface. Language is preserved in the entry key."
+      }
+    },
+    "hbo:l": {
+      "lemma": "לְ",
+      "evidence": {
+        "kind": "explicit-lexical-judgment",
+        "oshb_code": "l",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.2KI.14.12.v004.r01.001",
+          "WLC.2SA.18.17.v005.r01.001",
+          "WLC.JER.34.17.v002.r01.001",
+          "WLC.PSA.119.147.v002.r01.001"
+        ],
+        "reason": "OSHB morpheme code l explicitly denotes the inseparable preposition to/for. Map to its lexical grammatical headword; do not copy an inflected surface. Language is preserved in the entry key."
+      }
+    },
+    "hbo:m": {
+      "lemma": "מִן",
+      "evidence": {
+        "kind": "explicit-lexical-judgment",
+        "oshb_code": "m",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.PSA.119.161.v003.r01.002"
+        ],
+        "reason": "OSHB morpheme code m explicitly denotes the preposition from. Map to its lexical grammatical headword; do not copy an inflected surface. Language is preserved in the entry key."
+      }
+    }
+  },
+  "overrides": {
+    "WLC.ISA.25.10.v001.r01.002": {
+      "lemma": "מַיִם",
+      "evidence": {
+        "kind": "explicit-token-override",
+        "oshb_code": "1119",
+        "language": "hbo",
+        "reason": "The accepted split reading has preposition ב followed by construct plural noun מי (Ncmpc): the second morpheme is water, headword מַיִם. OSHB 1119 names the unsplit prepositional form בְּמוֹ and must not be reused as this noun’s lemma. No alignment or source reading is changed.",
+        "citations": [
+          {
+            "file": "01-Gen-001-lowfat.xml",
+            "id": "o010010020142",
+            "ref": "GEN 1:2!14",
+            "attribute": "lemma",
+            "source_lemma": "מַיִם",
+            "code_match": "4325"
+          },
+          {
+            "file": "01-Gen-001-lowfat.xml",
+            "id": "o010010060062",
+            "ref": "GEN 1:6!6",
+            "attribute": "lemma",
+            "source_lemma": "מַיִם",
+            "code_match": "4325"
+          }
+        ],
+        "strong_correction": "Use H4325 for the explicitly identified headword; preserve the incompatible OSHB code only in raw provenance."
+      },
+      "strong": "H4325"
+    },
+    "WLC.PSA.60.5.v001.r01.002": {
+      "lemma": "עָנָה",
+      "evidence": {
+        "kind": "explicit-token-override",
+        "oshb_code": "6032",
+        "language": "hbo",
+        "accepted_occurrences": [
+          "WLC.PSA.60.5.v001.r01.002"
+        ],
+        "reason": "PSA.60.5 (Hebrew 60:7) imperative ענ with pronominal suffix means answer. The OSHB code 6032 does not identify this Hebrew sense; the parallel MACULA qere uses 6030. The lexical root is ענה, conventionally vocalized עָנָה; the qere lemma עֲנָה is an inflected-form vocalization. Only this token is overridden.",
+        "qere_comparison": {
+          "id": "WLC.PSA.60.5.011",
+          "source_xml_id": "o190600070072",
+          "source_ref": "PSA.60.7",
+          "lemma": "עֲנָה",
+          "strong": "H6030"
+        },
+        "strong_correction": "Use H6030 for the explicitly identified headword; preserve the incompatible OSHB code only in raw provenance."
+      },
+      "strong": "H6030"
+    }
+  },
+  "sources": {
+    "oshb": {
+      "url": "https://github.com/openscriptures/morphhb.git",
+      "commit": "3d15126fb1ef74867fc1434be1942e837932691f"
+    },
+    "macula_hebrew": {
+      "url": "https://github.com/Clear-Bible/macula-hebrew.git",
+      "commit": "47db250bd55d0d8577f2a94fba114ef16c35b23c"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "chapter": "1SA.23",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1SA.23.5.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'and his men' renders both the qere וַאֲנָשָׁיו and the ketiv ואנשו identically; the difference is orthographic (defective vs plene suffix) with no English trace, no italicized supply, and no mapped textual note on 23:5. Base qere fallback retained."
+    }
+  ]
+}

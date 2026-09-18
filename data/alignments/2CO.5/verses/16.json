@@ -1,0 +1,248 @@
+{
+  "ref": "2CO.5.16",
+  "alignments": [
+    {
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "target": [],
+      "target_head": null,
+      "status": "unrepresented",
+      "confidence": "high",
+      "note": "The article of the idiom apo tou nyn has no English word answering to it, so it is its own unit under rule 23. 2CO.13.2 leaves the article of eis to palin -> 'again' unrepresented unhedged, and no noncompositional unit anywhere in the corpus contains an article token."
+    },
+    {
+      "source": [
+        "s003",
+        "s005"
+      ],
+      "source_head": "s005",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003",
+      "status": "noncompositional",
+      "confidence": "medium",
+      "note": "Rule 45: preposition and governed adverb rendered by one English word answering to neither separately; headed on the governed word, as JHN.16.24 heads heos arti -> 'Hitherto'. Rule 81 is not the contrast, since no segment of 'henceforth' answers to apo, which is why rule 81's own meta tauta -> 'hereafter' is noncompositional too. The live alternative is rule 34's pleonastic reading, leaving apo unrepresented and giving 'henceforth' to nyn alone; it remains defensible, though nyn alone is 'now' in 54 of 62 corpus units and never 'henceforth'."
+    },
+    {
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t005",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Rule 17/69: headed on the negative word, not the supplied generic noun."
+    },
+    {
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Rule 51: the Greek is anarthrous, so the supplied determiner is a helper on the noun."
+    },
+    {
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Rule 65: the intensifying kai is decided on its own and the ASV writes 'even' for it."
+    },
+    {
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Rule 65: the conditional particle takes the word introducing the concessive clause."
+    },
+    {
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "target": [
+        "t012",
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014",
+      "status": "aligned",
+      "confidence": "medium",
+      "note": "Rule 74: the supplied object 'him' stays with the verb that requires it in English (JHN.10.29, JHN.17.8, REV.5.7, 1PE.2.23). The supplied 'so' resumes kata sarka, whose own tokens are already spelled out, so rule 86's licensing token is the verb the ASV hangs it on: the corpus folds an italicized 'so' in all seven of its NT units, 2CO.11.9 and EPH.2.15 unhedged, and never marks one added, and no NT italic span is split between aligned and added. Medium because reading 'so' as a resumptive proform and marking it added, as PHP.4.11 and JHN.16.13 do, remains defensible."
+    },
+    {
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "target": [
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Rule 51: supplied determiner on an anarthrous noun."
+    },
+    {
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "target": [
+        "t021",
+        "t022",
+        "t023",
+        "t024"
+      ],
+      "target_head": "t022",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Rules 7 and 74: the supplied object 'him' and the supplied 'so' are the verb's own helpers; rule 11 keeps the ASV's italics from making them added."
+    },
+    {
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "target": [
+        "t025",
+        "t026"
+      ],
+      "target_head": "t025",
+      "status": "aligned",
+      "confidence": "medium",
+      "note": "One Greek word carries the whole English negation as one unit; rule 17 heads it on the negation, analysed as at 5:15 rather than off the English surface phrase (rule 24). A head on 'more' remains defensible (REV.18.14), the corpus being 14 to 7 with unhedged units on both sides."
+    }
+  ],
+  "review_notes": []
+}

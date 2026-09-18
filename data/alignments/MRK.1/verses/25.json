@@ -1,0 +1,142 @@
+{
+  "alignments": [
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Dative pronoun; the ASV writes no case preposition.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Rule 23: article before a name with no English realization.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Name, fronted by the ASV under rule 15.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Participle of speech.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "φιμόω rendered by the idiom *Hold thy peace*; rule 17's meaning-bearing complement puts the head on *peace*, no English word answering to the verb's lexeme separately.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Corrected: the imperative keeps only *come*. Rule 106 is scoped in terms to a particle **no Greek preposition stands to answer to**, and here ἐξ stands and is exactly the word *out* answers to, so rule 106 does not put the particle inside the verb's unit and rule 94 decides the prepositional pair instead.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Corrected: the two-word English preposition *out of* renders the single Greek preposition whole, headed on *out*. Rule 94 splits the pair from αὐτοῦ, the ASV writing more than one English word; rule 36 gives the preposition governing the phrase to the Greek preposition even where English idiom makes the verb phrasal, and a bare *of* is a deficient rendering of ἐκ, whose own gloss is *out of*. The competing reading — *out* to the preverb and *of* here — is what the earlier alignment took, and 1:16's `παράγων παρά` → *passing along by* is the case where it is right, παρά having its own full word *by*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Pronoun.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "MRK.1.25",
+  "review_notes": [
+    "The correction is confined to *come out of him*: rule 106's scope clause hands the particle to the expressed preposition, so ἐξ takes *out of* headed on *out* and ἔξελθε keeps a bare *come*.",
+    "Everything else stands: the article before Ἰησοῦς is `unrepresented` under rule 23, and Φιμώθητι takes the whole idiom *Hold thy peace* headed on the meaning-bearing complement."
+  ]
+}

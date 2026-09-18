@@ -1,0 +1,144 @@
+{
+  "alignments": [
+    {
+      "note": "Waw rendered 'And'.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Construct noun takes the supplied 'the' under rule 29.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Nomen rectum takes the chain's 'of' under rule 19; 'terrible acts' heads on the word carrying the lexeme under rule 31.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Suffix rendered by the possessive.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Supplied lexical subject noun where no source nominal stands (rule 17).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Finite verb with its auxiliary; the supplied 'of' reaching its bare object belongs to the verb's unit under rule 44.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Waw rendered 'And'.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Noun keeps its own word.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Suffix rendered by the possessive.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Finite verb with subject pronoun and auxiliary; head on the lexical verb.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "The 3fs object suffix is not separately rendered by the ASV.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    }
+  ],
+  "ref": "PSA.145.6",
+  "review_notes": [
+    "The packet's variant unit WLC.PSA.145.6.v001 is compatible with the base reading and requires no textual decision here (rule 9).",
+    "'men' is a supplied lexical subject and is added under rule 17."
+  ]
+}

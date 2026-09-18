@@ -1,0 +1,147 @@
+{
+  "alignments": [
+    {
+      "note": "Explicit pronoun takes only its own English (rule 20).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb with its auxiliary (rule 17).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Preposition rendered for; a word is written for its own relation, so rule 40 does not reach it.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The existential negative heads on the word carrying the negation, here lack (rule 50).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The dependent of אֵין takes the of the ASV writes between the two nouns (rule 19).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Waw rendered And (rule 14).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Preposition rendered in.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Construct noun with the supplied determiner rule 29 gives it.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Rectum takes the chain's of (rule 19), discontinuous around the possessive.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "3ms suffix rendered his (rule 18).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Finite verb with its subject pronoun and auxiliary; go astray is a verb with the complement carrying שָׁגָה's lexeme, so the head goes there (rules 17, 44).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016",
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    }
+  ],
+  "ref": "PRO.5.23",
+  "review_notes": [
+    "בְּאֵין is written for lack, so the preposition takes for and the existential negative takes lack; neither is fused, each holding an English word of its own."
+  ]
+}

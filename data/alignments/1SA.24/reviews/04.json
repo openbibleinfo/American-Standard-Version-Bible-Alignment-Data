@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "71ba413f39f0cdad533bcbc039a7f0220a807ac489177dc21451dac4afc0e3c2",
+  "contract_version": "ot-hebrew-verse-v217",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "variant WLC.1SA.24.4.v001 selected r00-base; aligned as printed",
+    "Large-source units checked: אֲשֶׁר לְשָׁאוּל → Saul's and בַּלָּט → privily are each one English token carrying every morpheme's sense (rules 30, 49); neither is divisible.",
+    "Scoped deferred investigation PARITY-036 independently resolved; evidence: data/audits/retrospective-deferred-2026-09-14/receipts/1SA.24.4.json. Original full-review coverage is carried forward only for exact unchanged units and metadata. Two fresh sessions independently agreed on the changed source/target ownership, heads and statuses. Unit notes come from the recorded assessment; their independent agreement is recorded separately. No new full-verse review or new historical review is claimed; original identity, dates and contract provenance are preserved."
+  ],
+  "ref": "1SA.24.4",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,30 @@
+{
+  "chapter": "EZK.46",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Distributive bab-bōqer bab-bōqer → *morning by morning* (46.13, 46.14, 46.15): both nouns are rendered, so this is not rule 22's condensation of one of them. The *by* stands before the second noun, which is where the second bə stands, so that preposition takes it and the first bə — with nothing written before the first *morning* — is `unrepresented` under rule 40. Both assimilated article tokens go `unrepresented`, the ASV writing no *the* for either noun. BSB represents the first bə in all three verses; that is the documented convention difference and not an error.",
+    "The capacity idiom yāḏ + suffix is read off what the ASV wrote, and the chapter splits it under rule 2 rather than taking it as one noncompositional unit. In the verbless mattat yāḏô (46.5, 46.11) mattat takes *to give*, yāḏ takes the discontinuous *as … is able*, and the suffix takes the subject pronoun *he* (rules 18, 40). Where a finite verb stands in the clause — kaʾăšer taśśîg yāḏô (46.7) — that verb carries *is able* under rule 44, yāḏ has no English of its own and is `unrepresented`, and the suffix still takes *he*. Each verse names the competing single noncompositional unit in its notes; BSB represents the 46.7 yāḏ.",
+    "šām: where the ASV writes one *where* for an ʾăšer … šām relative (46.20, 46.24), the relative takes it and the resumptive šām is `unrepresented` under rule 22. Where a locative šām is written in a presentative clause — wə-hinnēh-šām māqôm → *and behold, there was a place* (46.19) — that morpheme takes the written *there* and only the copula and the indefinite article join the predicate māqôm, a present morpheme taking its English before a supplied reading does, as in rules 46, 47 and 48. The competing reading takes the *there* as rule 20's construction-supplied dummy and leaves šām `unrepresented`; it is named in that verse's notes.",
+    "dereḵ + gate, nine occurrences across 46.2, 46.8 and 46.9: the ASV writes *by the way of …* throughout, so the construct never lacks an English noun of its own and rule 19's directional-construct clause (dereḵ → *toward*) is not reached anywhere in this chapter. The supplied *by* and *the* are placed on dereḵ itself as an adverbial accusative under rules 33 and 15 rather than read as rule 19's recast construct relation, and the rectum takes only the relational *of*. 46.8's suffixed darkô → *the way thereof* follows the same division."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v84",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 56 candidate lemma groups plus the full verse dump end to end (the table is blind to `added` units, so the six of them were read in place). No construction is analysed two ways with nothing in the source or in the ASV to license the difference. Verdict no-change, patches empty.",
+    "Near-misses resolved, not split: kaʾăšer fused to *as* in 46.12 but split *according* | *as* in 46.7, and ben fused with bāqār into *young* in 46.6 but split from šənātô across *a year* | *old* in 46.13. Both are rule 30's one-English-word condition met in one verse and unmet in the other, which is a difference the ASV wrote and not a split.",
+    "Articles are consistent chapter-wide after 46.17's own correction. One written *the* with the rectum rendered bare goes to the present article morpheme (46.1 yəmê ham-maʿăśeh and yôm haš-šabbāt; 46.4, 46.12, 46.17, 46.24); two written *the*s put one before each word (46.1 yôm ha-ḥōdeš; 46.2, 46.3, 46.6, 46.9, 46.19, 46.21, 46.22, 46.24). 46.1 holds both shapes and treats each correctly, and agreement articles on attributives are `unrepresented` in all three places they occur (46.1, 46.20, 46.21).",
+    "The six `added` units (46.10 *together*, 46.15 *Thus*, 46.17 *as for*, 46.20 *and* and *them*, 46.22 *cubits*) each answer to no morpheme, and no comparable supplied word is folded into a licensing morpheme elsewhere in the chapter: the waws, the kîs, the object markers and the suffixes that could have carried one all either have their own English or are marked where they do not.",
+    "BSB: 31 disagreements, all on function morphemes the ASV leaves unrendered — the frozen ʾăḏōnāy suffix, nine articles, the distributive first bə, the lə of lə-ʾarbaʿtām, the repeated tokens of 46.21's doubled clause. These are the documented convention difference and none is a genuine error. Nothing was changed to improve the rate.",
+    "Two BSB rows deserve naming rather than dismissal. 46.7 yāḏ is `unrepresented` because the finite taśśîg carries *is able* under rule 44 while 46.5 and 46.11, which write no verb, give the same noun the discontinuous *as … is able*; that is source-licensed and both verses name the competing noncompositional reading. 46.9 s043, the resumptive suffix inside the fused *whereby*, is the one accepted edge where corpus precedent reads the other way: the corpus aligns Tr+R+Sp3ms to *wherein* in 23 units with the suffix inside the unit, while this verse marks it `unrepresented` under rule 22. Left as accepted, since rule 22's text licenses it and the verse noted its reasoning; this is a rule-level question for a later pass, not a silent edit.",
+    "Four conventions recorded (the log had none). The validator's 78 repeated notes are otherwise bare restatements of rules 14, 15, 17, 19, 29 and 31 and are deliberately not logged.",
+    "No promotion. The one real candidate — amending rule 20 so a written locative šām takes the presentative *there* before the supplied dummy does — rests on a single occurrence (46.19) with no corpus evidence on how finished chapters treat hinnēh-šām clauses, so it is recorded as a chapter convention with the competing reading named instead of promoted."
+  ]
+}

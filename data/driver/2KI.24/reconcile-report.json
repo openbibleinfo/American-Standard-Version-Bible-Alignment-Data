@@ -1,0 +1,26 @@
+{
+  "chapter": "2KI.24",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2KI.24.16"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Casus pendens with a marked fronted object resumed by waw + object suffix (ואת X ... ויביאם): where the ASV renders the fronted list bare and writes 'even them' at the resumption, the 'even' is the apodosis waw's under rule 14 and the object marker on the list is unrepresented; 'them' is the suffix's. The marker takes an 'even' only where the word introduces the marked phrase itself (rule 16).",
+    "Impersonal 3fs היתה in the 'through/at the mouth of Jehovah it came upon Judah' clauses (vv3, 20): the English subject the ASV supplies — 'this' in v3, the dummy 'it' of the 'did it come to pass' frame in v20 — realizes the verb's own subject and joins the verb's unit under rules 17/21; it is not an added lexical subject."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 41 candidate lemmas. Every multi-treatment bucket is the ASV rendering one word differently (king/the king, of Jehovah/Jehovah, that/which, in/against/upon, out of/from for מעל, sight/presence for פנים, mother/mother's) or a construction the source licenses (dative ל recast as 'his' in v1; ל before an infinitive with no English word in vv4, 7 but 'of' in v12; the second ב of 'in Jerusalem and Judah' in v20). The recurring formulae are consistent across verses: age/regnal formulae (vv8, 18), 'that which was evil in the sight of Jehovah' (vv9, 19), possessive recasting of בית/אם/נשי + המלך with the 'the' on the possessor's article (vv13, 15), fronted 'the' on the article of an anarthrously rendered rectum (החיל vv14/16, הזהב v13), impersonal היתה carrying its own English subject ('came this' v3, 'did it come to pass' v20).",
+    "One correction, v16: the second 'even' ('even them the king of Babylon brought') was given to the object marker at the head of the verse. Rule 16 allows a marker an appositional 'even' only where it stands on the very phrase that word introduces, and here the marker stands on the fronted list while the 'even' introduces the resuming pronoun; the apodosis waw of ויביאם stands exactly where the 'even' stands, and rule 16's own first limit and rule 14 give a bare 'even' to a present connective. Patched: 'even' to the apodosis waw, the marker unrepresented, 'them' still the suffix's. This also removes the one non-convention BSB disagreement.",
+    "BSB disagreements: R x5 (dative/infinitival ל, על before a promoted object, the second ב of a coordinated pair) and To x4 are the documented convention on unrendered prepositions and object markers, not errors; v10 [הַ] is rule 41's unrepresented article beside a demonstrative holding 'that'. v16 waw is addressed by the patch. No accepted edge was changed for the score.",
+    "Nothing to promote: the v16 correction follows from rule 16's existing condition read with rule 14, and no corpus evidence beyond the general waw→'even' count was available."
+  ]
+}

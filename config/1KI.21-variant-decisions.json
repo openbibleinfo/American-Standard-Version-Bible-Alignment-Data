@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "chapter": "1KI.21",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1KI.21.8.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere סְפָרִ֗ים is anarthrous and ketiv הספרים carries the article, both on lemma 5612 a at the second occurrence in the verse. English requires anaphoric \"the letters\" after \"she wrote letters\" whichever way the Hebrew is pointed, so the ASV does not distinguish the readings and no note is mapped here."
+    },
+    {
+      "unit_id": "WLC.1KI.21.21.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere מֵבִ֤יא and ketiv מבי are the same Hiphil participle of lemma 935, differing only in defective spelling of the final vowel. ASV \"I will bring evil upon thee\" renders either, and no note is mapped here."
+    },
+    {
+      "unit_id": "WLC.1KI.21.29.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere אָבִ֤יא and ketiv אבי are the same Hiphil imperfect 1cs of lemma 935, differing only in defective spelling. ASV \"will I bring the evil\" renders either, and no note is mapped here."
+    }
+  ]
+}

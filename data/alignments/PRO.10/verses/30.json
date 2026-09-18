@@ -1,0 +1,115 @@
+{
+  "alignments": [
+    {
+      "note": "Anarthrous substantival adjective takes the supplied *The* that makes it one (rule 46), headed on the lexeme.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "One English word carries the negation, the time and the preposition's adverbial relation alike, so the three morphemes share one unit across the verb they negate (rules 30, 35, 40); no English word is spent on לְ or on עוֹלָם apart from the others. The corpus heads *never* both ways; I head on the negative, which is what distinguishes it from a bare *ever*, and the temporal noun is the competing head.",
+      "source": [
+        "s002",
+        "s003",
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Auxiliaries join the verb; head on the lexical verb (rule 24). Unit discontinuous around *never* under rule 25.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Waw rendered by the connective *But* the ASV wrote for it (rule 14).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Substantival adjective with the supplied *the* that makes it one (rule 46).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Negative rendered *not*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Corrected: the auxiliary joins the finite verb, but the supplied *in* does not. שָׁכַן is intransitive and אָרֶץ is an accusative of place rather than a bare direct object, so rule 44's valency sentence does not reach it.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Corrected: *in* is the function word the ASV supplies for an adverbial accusative of place and belongs to the noun whose case-function licenses it (rule 33, as *to your mountain*); the ASV writes *dwell upon* elsewhere, so another relation would have served and rule 33's own test sends the word to the noun rather than to the predicate. The supplied *the* joins the same noun under rule 15. The competing reading gives *in* to the verb under rule 44.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "PRO.10.30",
+  "review_notes": [
+    "Corrected: *in* before *the land* moved from the verb's unit to אָרֶץ's. Rule 44's supplied-preposition sentence is conditioned on a bare direct object, and אָרֶץ after intransitive שָׁכַן is an accusative of place; rule 33's closing test — whether the English predicate admits another word before the complement — sends *in* to the noun, since the ASV writes *dwell upon* as well as *dwell in*.",
+    "The flagged three-morpheme unit לְ + עוֹלָם + בַּל → *never* is genuinely indivisible: no English word is spent on any one of the three, so rule 30's condition is met and rule 2 has no allocation to test. Head taken on the negative, with the temporal noun named as the competing head (rule 35).",
+    "The marginal *Or, earth* was read and set aside; the printed *land* governs."
+  ]
+}

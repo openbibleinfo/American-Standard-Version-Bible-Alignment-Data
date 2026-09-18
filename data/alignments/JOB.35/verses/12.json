@@ -1,0 +1,112 @@
+{
+  "alignments": [
+    {
+      "note": "Locative adverb שָׁם → There.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb with its English subject pronoun under rule 17, headed on the lexical verb.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Waw rendered by the adversative *but* under rule 14.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The ASV recasts the clausal negation onto the subject nominal, so לֹא takes the *none* written for it (rule 15's negation-as-determiner reading). The margin's *but he answereth not* would put a plain *not* here, but the printed text governs under rule 38.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Light verb plus complement; head on *answer* under rule 44, since *giveth* alone gives anything.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "מִפְּנֵי fused as one compound preposition under rule 30, headed on the construct noun; target head on *Because*, the word carrying the lexeme rather than the connective *of* (rule 24).",
+      "source": [
+        "s006",
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "No article morpheme is present; the supplied *the* joins the noun it determines under rule 15.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Nomen rectum of the construct chain, so the *of* belongs here under rule 19; *men* is the generic supplied to make the adjective substantival, so the head stays on *evil* under rule 31. Heading on *men* was the competing reading, rejected because the ASV does not write *men* alone for רַע.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013",
+        "t014"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "JOB.35.12",
+  "review_notes": [
+    "Margin note *Or, but he answereth not* read and set aside under rule 38; the printed text's *none giveth answer* is what is aligned.",
+    "All 9 source and 14 target ids partitioned exactly once."
+  ]
+}

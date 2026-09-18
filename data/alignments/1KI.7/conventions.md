@@ -1,0 +1,10 @@
+# 1 Kings 7 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **1KI.7.13** — In the title הַמֶּלֶךְ שְׁלֹמֹה the article on מֶּלֶךְ is unrepresented: the ASV writes "king Solomon" with no determiner. Applies wherever the phrase recurs in this chapter.
+- **1KI.7.3** — A composite numeral the ASV spends one English word on is one unit — שְׁלֹשׁ עֶשְׂרֵה → "thirteen", חֲמִשָּׁה עָשָׂר → "fifteen" — headed on the unit numeral, which carries the lexeme. Split them again only where the ASV writes the two parts as separate words.
+- **1KI.7.17** — Where Hebrew determines both noun and attributive (הַכֹּתֶרֶת הָאֶחָת, הָעַמּוּד הַיְמָנִי) and the ASV writes one "the", the English article goes to the article on the head noun and the attributive's article is unrepresented.
+- **1KI.7.21** — A supplied English "the" before a construct or suffixed noun, which cannot carry the article, joins that noun's own unit rather than becoming added — the same reasoning rule 15 gives "a/an".
+- **1KI.7.18** — In this chapter's verbless clauses the supplied copula joins the predicate that licenses it — typically the preposition of a locative predicate ([there] were upon…) — not the subject noun, even where English order puts it before the subject.
+- **1KI.7.24** — The compound prepositions מִבֵּית לְ and מִתַּחַת לְ (including לְמִתַּחַת לְ) are single fixed expressions: where the ASV spends one English word on them — within, under, beneath, underneath — every morpheme of the expression, the closing לְ included, shares one unit headed on the noun/adverb carrying the lexeme (rule 30), rather than leaving the לְ unrepresented beside the rendered part. MACULA's R vs Rd tagging of that לְ does not change this; an assimilated article token stays its own unit. A second, repeated לְ before a further coordinated object is a different case and remains unrepresented under rule 22 (1KI.7.29).

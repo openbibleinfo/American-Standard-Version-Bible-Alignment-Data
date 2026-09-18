@@ -1,0 +1,216 @@
+{
+  "alignments": [
+    {
+      "confidence": "high",
+      "note": "Adversative δέ rendered by the verse-opening But.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "confidence": "medium",
+      "note": "Rule 40: a subordinating conjunction is realized by whatever word introduces its English clause, and the ASV inverts which clause is subordinate, putting as at the head of the faithfulness clause. Rule 86 does not make as added, its test requiring that no conjunction stand anywhere in the verse; ὅτι stands exactly at the junction as joins. A reading that left ὅτι unrepresented and marked as added remains defensible, since the clause ὅτι itself governs is introduced by no English word.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 23: the ASV writes a bare God with no determiner, so the article realizes nothing.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "Subject noun of the verbless clause, taking only its own word; rules 53 and 63 keep the supplied copula on the predicate rather than on a noun subject.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 53: the Greek clause is verbless and an adjectival predicate carries the supplied copula itself, as ἐγγύς → were nigh does, so is faithful is one unit headed on the adjective under rule 17. Rule 63 confirms it against the ASV's word order, the subject here being a noun rather than a pronoun. The two target tokens are contiguous; what rule 15 permits is only their reordering ahead of the Greek's clause-initial πιστός.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 20: the genitive ἡμῶν is free — rule 76's availability test finds no other English word spent on it — so it takes the supplied possessive our and displaces the article's determiner.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "Genitive pronoun realized by the possessive our.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "confidence": "high",
+      "note": "Head noun of the subject phrase, standing bare once ἡμῶν has taken the determiner slot.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 31's closing clause: an article standing before a prepositional phrase is unrepresented where the ASV supplies no relative clause, and here it writes a bare our word toward you. The determiner is not available to it either, ἡμῶν having already taken it from s006.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 36: the English preposition governing the phrase realizes the Greek preposition.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "confidence": "high",
+      "note": "Accusative pronoun object of πρός.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "confidence": "high",
+      "note": "Ordinary negative aligned to not. No negative indefinite follows — Ναί and Οὔ are predicate particles — so rules 41 and 59 are not in question.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "confidence": "high",
+      "note": "Expressed finite copula of the main clause, distinct from the copula rule 53 supplies for πιστός.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "confidence": "high",
+      "note": "Affirmative particle rendered yea.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "confidence": "high",
+      "note": "Expressed conjunction aligned to and in the ordinary way; this is not rule 29's supplied juncture.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "confidence": "high",
+      "note": "Negative particle rendered nay.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "2CO.1.18",
+  "review_notes": [
+    "Reviewed and kept the accepted alignment's units, heads and statuses unchanged; every s### and t### id is partitioned exactly once, t001-t014 all used.",
+    "One note was corrected rather than any alignment: the πιστός unit's note claimed rule 15 discontinuity, but t004 is and t005 faithful are contiguous. What rule 15 licenses here is only the reordering of the predicate behind the subject, the Greek putting πιστός first.",
+    "s005 ὅτι → as is the only medium unit and the note now records why the competing reading loses. Rule 86 marks a supplied clause-introducer added only where no conjunction stands anywhere in the verse; ὅτι stands at the very junction the English as joins, so rule 86's condition fails and rule 40 gives it the word. The reading that leaves ὅτι unrepresented (its own clause, our word toward you is not yea and nay, is introduced by nothing) and marks as added is still defensible, which is what the hedge records.",
+    "Two supplied-or-expressed is tokens are kept distinct: t004 is the copula rules 53 and 63 give to the predicate adjective πιστός against the ASV's word order, and t010 is the expressed ἔστιν of the main clause.",
+    "Three articles are unrepresented for three different reasons, and none of them is a convenience grouping under rule 13: s003 by rule 23 (bare God), s006 by rule 20 (the free genitive ἡμῶν takes our), s009 by rule 31 (prepositional modifier with no supplied relative clause).",
+    "A reference comparison will report s003, s006 and s009 as disagreements if it expects an article to surface; each is licensed by a named rule above, and that report would not be a correction."
+  ]
+}

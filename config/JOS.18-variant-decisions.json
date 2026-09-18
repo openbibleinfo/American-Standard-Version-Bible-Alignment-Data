@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "chapter": "JOS.18",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JOS.18.12.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 18:12 reads 'their border on the north quarter was from the Jordan'; English copula number follows its subject 'border', so 'was' renders a plural qere verb with a singular noun subject exactly as it would the singular ketiv. The only mapped note is a hebrew_gloss on 'side' (Hebrew shoulder) and touches no part of this lemma. Nothing in the wording distinguishes plural whyw from singular whyh; base fallback (qere) carries the projection."
+    },
+    {
+      "unit_id": "WLC.JOS.18.14.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 18:14 reads 'the goings out thereof were at Kiriath-baal'. The plural 'were' agrees with the English plural subject 'goings out', which is required whichever Hebrew verb number stood; a singular ketiv whyh with the plural noun would still be rendered 'were'. No note is mapped to this unit and no italicized supply bears on it. Undistinguished; base fallback (qere) retained."
+    },
+    {
+      "unit_id": "WLC.JOS.18.19.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 18:19 reads 'the goings out of the border were at the north bay'. As at 18:14, the plural 'were' is fixed by the English subject 'goings out' and does not report the Hebrew verb's number, so plural qere whyw and singular ketiv whyh are equally rendered. The mapped note is a hebrew_gloss on 'bay' (Hebrew tongue) and says nothing of the verb. Base fallback (qere) retained."
+    },
+    {
+      "unit_id": "WLC.JOS.18.19.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 18:19 renders this lemma 'the goings out of the border', a construct genitive with the following noun and no possessive pronoun. That is the qere twc'wt (construct). The ketiv twc'wtyw carries a 3ms suffix, which the ASV renders 'the goings out thereof' wherever it stands, as at 18:12 and 18:14 in this same chapter's ASV shown here. The presence of 'of the border' in place of 'thereof' distinguishes the unsuffixed construct reading."
+    },
+    {
+      "unit_id": "WLC.JOS.18.24.v005",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 18:24 reads 'Chephar-ammoni'. The final element transliterates the gentilic h'mny (ketiv), ending in -i. The qere h'mnh ends in he, which would yield 'Chephar-ammonah' (as ASV elsewhere transliterates a final he, e.g. the -ah of place names). The ASV's -ammoni names the ketiv form."
+    }
+  ]
+}

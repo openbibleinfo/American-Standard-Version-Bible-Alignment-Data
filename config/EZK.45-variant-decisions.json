@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "chapter": "EZK.45",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.EZK.45.3.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere חֲמִשָּׁה against ketiv חמש is a difference of gender/orthography in the numeral 'five', not of sense. The ASV renders 'a length of five and twenty thousand', which reproduces the numeral identically either way and supplies nothing that would distinguish the forms. No ASV note is mapped to this unit. Underdetermined; the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.EZK.45.5.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere וְהָיָה (waw-consecutive perfect) against ketiv יהיה (prefixed imperfect) both yield the future 'shall be'; the ASV's 'shall be unto the Levites' is the same English under either form and gives no signal of the conjunction or conjugation. The only note on the verse is versional, reporting the Septuagint's 'cities to dwell in' for 'twenty chambers' at the end of the verse — a different locus, and not a textual note mapped to this lemma. Underdetermined; the qere base fallback carries the projection."
+    }
+  ]
+}

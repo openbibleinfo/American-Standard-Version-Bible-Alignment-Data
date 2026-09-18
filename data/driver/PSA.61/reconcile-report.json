@@ -1,0 +1,25 @@
+{
+  "chapter": "PSA.61",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "דֹר וָדֹר rendered 'as many generations' is read as rule 22's distributive repetition though 'many' is a quantifier rather than a distributive: 'generations' is the noun's own word, so the first דֹר takes 'many generations' (headed on generations), the waw is unrepresented (rule 14) and the second דֹר unrepresented (rule 22). Contrast יוֹם יוֹם → 'daily' in 61.8, fused under rule 30 because the lone adverb spends nothing on either occurrence. The corpus carries both the split and the noncompositional shape for this phrase, so this is a chapter choice and not a rule."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 10 candidate lemmas across PSA.61.0–8; none is a split. Suffix (הוּא) treatments follow the English case written; לְ takes For/for/of/that where the ASV writes a word (61.0, 61.3, 61.8) and is unrepresented only in 61.5 where 'heard my vows' promotes its object to a bare direct object (rule 40); בְּ takes when/to/in by context (rule 52, 11); אֱלֹהִים is 'O God' in the two vocatives and bare 'God' in 61.7.",
+    "'for ever' is consistent: with a preposition present (לָעַד, 61.8) the לְ takes 'for' and the noun 'ever' (rule 2); with none (עוֹלָמִים 61.4, עוֹלָם 61.7) the noun takes the supplied 'for' under rule 33. מִפְּנֵי → from (61.3) and לִפְנֵי → before (61.7) both fuse under rule 30 headed on the construct.",
+    "Repetitions: יוֹם יוֹם → 'daily' (61.8) fuses because a lone adverb spends nothing on either occurrence; דֹר וָדֹר → 'many generations' (61.6) splits because 'generations' is the noun's own word, so the first occurrence takes it with the supplied 'many', the waw and second דֹר unrepresented. Consistent with rule 22's limits; corpus carries both shapes for דור ודור so nothing is promoted.",
+    "The four added units (61.0 'A Psalm', 61.2 'that', 61.5 'me', 61.7 'that') are each correctly placed: no morpheme licenses any of them, and no other verse folds the same kind of word into a neighbour.",
+    "BSB disagreements are all convention differences, not errors: paragogic he ×2 in 61.1 (rule 32), the לְ of 61.5 (rule 40), and the four tokens of 61.6 where the ASV recasts 'days upon the days of the king thou wilt add' as 'prolong the king's life' and renders דר ודר once. 61.6's note already names the competing allocation of 'life' to the first יָמִים.",
+    "Repeated notes ('Suffix → my', 'Finite verb with pronoun and auxiliary', 'כי → For') restate contract rules and need no convention."
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "alignments": [
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Verb with supplied subject pronoun.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Dative pronoun with case preposition (rule 21).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Participle rendered as the bare imperative *Arise*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The supplied juncture *and* is a rule 88 helper on the verb it introduces; *thy way* belongs to the verb's own English idiom, headed on the verb word.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Determiner displaced by the possessive of σου (rule 20).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Bare noun.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Genitive pronoun takes the possessive.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "σῴζω rendered by the resultative frame *hath made … whole*; rule 17 heads on the meaning-bearing complement, discontinuous under rule 15.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Accusative pronoun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "LUK.17.19",
+  "review_notes": [
+    "*thy way* is kept inside πορεύου's idiom rather than split off; the possessive there answers to no separate token."
+  ]
+}

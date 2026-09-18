@@ -1,0 +1,137 @@
+{
+  "alignments": [
+    {
+      "note": "Finite verb with its subject pronoun (rule 17), headed on the lexical verb.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The one written `כִּי` governs both coordinated complement clauses of *I know*, and the ASV rewrites its *that* at the head of the second, so both occurrences are this morpheme's one discontinuous unit, headed on the first (rules 25, 55). Rule 55's paragraph on a subordinator whose scope reaches a later coordinated clause governs here: the waw takes only the *And* written for it, the second *that* joins the written `כִּי`, and nothing is `added`. The accepted alignment marked t010 `added` under rules 51 and 55's pair sentence, which reaches a clause no written subordinator reaches; this clause is inside `כִּי`'s scope.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t010"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Substantival `כֹל` with the generic *things* the ASV supplies to complete it; headed on *all*, which carries the lexeme (rule 31).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Verb with its subject pronoun and the *do* the English modal requires; headed on *canst*, which carries `יָכֹל` (rules 17, 24).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Waw as *And* (rule 14); it holds a connective of its own and is not a home for the second *that*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The clause's negation recast onto the subject nominal as the determiner *no* (rule 15); discontinuous from the verb it negates under rule 25.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Niphal verb with its supplied modal and passive auxiliary, headed on the lexical verb (rule 24).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "`מִן` recast as the English genitive *of* before the pronoun realizing its suffix.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Pronominal suffix as *thine* (rule 18).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Noun; its determiner is the negative's *no* above.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    }
+  ],
+  "ref": "JOB.42.2",
+  "review_notes": [
+    "Correction: the second *that* (t010) is no longer `added`. It is the written `כִּי` rewritten at the head of the second coordinated complement clause, which rule 55 assigns to that morpheme's discontinuous unit while the waw keeps only its *And*.",
+    "A competing reading takes *no* as a supplied determiner on `מְזִמָּה` with `לֹא` fused into *no purpose*; the reading retained follows rule 15, which gives such a determiner to the negative morpheme the recasting turns into it.",
+    "Variant WLC.JOB.42.2.v001 resolved to r00-base; the projection's s001 is aligned as ordinary source text."
+  ]
+}

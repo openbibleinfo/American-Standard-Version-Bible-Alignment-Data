@@ -1,0 +1,6 @@
+# Psalms 73 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Fronted וַאֲנִי opening a colon (v2, v22, v23, v28): the pronoun takes only the English pronoun written for it. Where the ASV writes 'as for me' with no marker on the pronoun (v2) the 'as for' is its own added unit under rule 16; where the ASV writes 'for me' for a following לִי (v28) the suffix takes 'me' and the fronted אֲנִי is unrepresented, since one written pronoun answers to two morphemes (rule 25). The BSB represents the pronoun in v28; that is a convention difference, not an error.
+- Free-paraphrase colons (v6 'is as a chain about their neck', v7 'They have more than heart could wish', v16 'It was too painful for me', v19 'utterly consumed') are kept split under rule 2 rather than fused noncompositional: the whole recasting goes to the morpheme whose lexeme it renders (the denominative verb, the verb of exceeding, the predicate noun, the second finite verb under rule 56's auxiliary reading), with the alternative named in each unit's note. Supplied 'other' in v5 ('as other men', 'like other men') joins the noun under rule 31.

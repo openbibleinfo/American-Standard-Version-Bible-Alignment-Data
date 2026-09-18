@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "2d3acaba0e3934c2b18281c3608a36250749c472223a9e8d8cca45792488c373",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed unchanged: the accepted alignment is correct as it stands. All 14 source and 14 target ids are partitioned exactly once; every unit is aligned, with no unrepresented or added units in this verse, and every head is the sole token of a one-token unit under rule 10.",
+    "The verse is compositionally transparent and fully atomized: no source pair licenses a merge under rules 35, 39, 45 or 94, since the ASV writes a separate English word for every source token and no two tokens collapse into one.",
+    "s009 takes a bare *the* rather than *from the*. Rule 21 hands a case preposition to the article only where the Greek expresses no preposition; here apo is expressed and rule 36 keeps *from* on it, so the article anchors only the determiner and the noun stands bare.",
+    "s004 and s013 are the same lemma rendered two ways (*any*, *one*). Each is aligned to its own English word rather than merged into a shared unit; they are separate clause participants (the one who errs, and the one who converts him), so rule 24's same-analysis habit is satisfied by treating both as plain indefinites and not by giving them one unit.",
+    "Rule 36 is the only place this verse could plausibly have gone wrong: *err from* invites reading *from* as the verb's particle. The rule forbids it in terms, so *from* stays with apo and s007 keeps a bare *err*."
+  ],
+  "ref": "JAS.5.19",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

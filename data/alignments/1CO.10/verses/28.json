@@ -1,0 +1,220 @@
+{
+  "alignments": [
+    {
+      "note": "δέ rendered 'But'.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Ordinary conditional ἐάν rendered 'if' (rule 72's closing clause).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Indefinite with generic completion; head on 'any' (rules 17, 69).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Verb.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Dative pronoun with its case preposition (rule 21).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Demonstrative subject.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The expressed copula is rendered by the periphrastic 'hath been'. Head on 'been', the word that realizes εἰμί: rules 9 and 17 choose the verb word over its auxiliary and forbid choosing a token merely because it is finite or first.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "One adjective rendered 'offered in sacrifice'; head on the participial word that glosses the θυ- element (rule 91), as 10:19's εἰδωλόθυτον heads on 'sacrificed'.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Imperative.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Ordinary negative.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Preposition rendered by the discontinuous wrap 'for … sake'; head on the prepositional word (rule 78).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t018"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Substantival demonstrative rendered by the possessive 'his'.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Article before a participle takes the relativizer, ἐκεῖνον having already taken the pronoun slot (rules 32, 90).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Participle with its supplied object.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t020",
+        "t021"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "No determiner for 'conscience' (rule 23).",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The second 'for … sake' is the repeated English of the single expressed δι᾽, which governs both objects; rule 86 names a token expressed elsewhere in the sentence whose English the ASV repeats as a licensing token, so it rides here as a helper. Marking it added under rule 103 remains defensible.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t023",
+        "t024",
+        "t025"
+      ],
+      "target_head": "t024"
+    }
+  ],
+  "ref": "1CO.10.28",
+  "review_notes": [
+    "Corrected the target head of s008 from 'hath' to 'been': 'been' is the token realizing εἰμί, and rules 9 and 17 forbid choosing a word because it is the finite or first member of an auxiliary complex. Nothing else in the verse changed.",
+    "The repeated 'for … sake' in the second conjunct is folded onto συνείδησιν rather than marked added; the competing reading under rule 103 is named in that unit's note."
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "alignments": [
+    {
+      "note": "Postpositive γάρ realized by the verse-initial For.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Comparative adverb ὥσπερ → as; rule 82 keeps only as or even as on the comparative adverb, the correlative being written out later as so.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Article surfaces as the (rule 19).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Bare noun; its determiner is on the article (rule 26).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Improper preposition; *apart from* stays whole on the adverb, headed on *apart* (rules 42, 71). The corpus never moves such a trailing preposition onto the governed noun: `χωρὶς ἐμοῦ` → *apart from* at JHN.15.5 and `χωρὶς Χριστοῦ` → *separate from* at EPH.2.12 are this exact configuration, anarthrous with no article standing at all, and both keep the preposition on the adverb. What decides it is not the presence of a Greek article but whether the ASV writes a determiner an article could anchor: where it does, rule 21 gives the article *from the* or *of the* and leaves the adverb bare (2CO.12.3, JHN.11.54, JHN.20.30); where it does not, rule 42's `ἐγγὺς τοῦ Σαλείμ` → *near to Salim* keeps the adverb's phrase whole. Rule 21's determinerless clause hands the case preposition to the noun only where no improper preposition is expressed to hold it. Competing reading: a bare *apart* with *from* riding on the governed noun; declined as unattested — no corpus unit puts a trailing preposition on a bare governed noun after an improper preposition. Analysed as at JAS.2.18 and JAS.2.20 under rule 24.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Genitive governed by the improper preposition, which keeps its own *apart from* whole. The Greek is anarthrous, so the supplied *the* is an ordinary rule 51/7 helper on the noun it determines, exactly as REV.14.10's `ἀγγέλων` → *the angels* has it, and no article competes for it. Head on *spirit* under rule 17.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Expressed copula; rules 53 and 63 govern supplied copulas only, and the predicate adjective is its own source token and its own unit under rule 26.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Predicate adjective νεκρόν → dead.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "οὕτως takes the whole correlative expression even so, which the corpus spends on this adverb at JHN.3.14, JHN.5.21, JHN.5.26 and JHN.14.31; rule 82 says in terms that the even in even so is an intensifying helper on so under rules 7 and 11, and rule 17 heads the unit on so, the word realizing the correlative. Competing reading: split even off onto καί as its direct gloss under rule 26; declined because rule 82 confines that bare-even gloss to where no so competes (2CO.11.12, EPH.2.3), and here οὕτως is expressed and is what answers ὥσπερ.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Adjunctive καί, decided on the English alone under rule 65: aligned where the ASV gives it a word, unrepresented where it does not. The ASV writes no also, and even so is already οὕτως's own corpus expression (see the s009 note), so nothing is left for the particle. At the two οὕτως καί units rule 82 cites, JHN.5.21 and JHN.5.26, the ASV does write a separate also and the corpus still gives even so to οὕτως. Competing reading recorded in the s009 note. A reference comparison will report this token as a disagreement.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The ASV writes no determiner for faith, so the article realizes nothing (rule 23). Rules 51 and 60 do not apply: the ASV supplies neither an indefinite nor a demonstrative here.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "πίστις → faith.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Same analysis as s005 (rule 24): the adverb keeps *apart from* whole, headed on *apart*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Governed genitive standing bare; the case preposition is held by the expressed improper preposition s013 (rules 42, 71).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Second expressed copula, as at s008.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Second predicate adjective νεκρά → dead.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    }
+  ],
+  "ref": "JAS.2.26",
+  "review_notes": [
+    "Changed from the accepted alignment at one place only: even so is now one unit on οὕτως headed on so, and καί is unrepresented. The accepted reading gave even to καί and so to οὕτως. Rule 82 states that the even of even so is an intensifying helper on so, citing four corpus units in which οὕτως takes even so, and confines καί's bare-even gloss to where no so competes; here οὕτως is expressed and takes the so. Rule 65 then leaves the particle empty because the ASV wrote no word for it. The competing reading is defensible and is recorded in the s009 and s010 notes.",
+    "Chapter convention to check: JAS.2.17 has the identical οὕτως καὶ ἡ πίστις → Even so faith. Rule 24 requires one analysis for both, so if the chapter's conventions log records a different treatment at 2:17, either that verse or this one should be brought into line rather than left split across the chapter.",
+    "Both χωρίς phrases are analysed alike per rule 24: apart on the improper preposition, from with the governed genitive. The s005 note's declined alternative is unchanged in substance but its reason has been replaced — the accepted note said taking apart from whole would contradict the parallel at s013, which is not so (it would apply equally to both). The actual reason is that rule 42's near to Salim carve-out is scoped to an article standing with no determiner, and no article stands in either phrase here.",
+    "Two tokens are unrepresented, s010 and s011, and a reference comparison will report both. The s011 article is rule 23's ordinary case, the ASV giving faith no determiner. The s010 καί is rule 65's English-side test; the contract records no blanket caveat for an intensifying καί, so a reviewer who prefers the even-on-καί reading should change s009 and s010 together rather than either alone.",
+    "Variant SBLGNT.JAS.2.26.v025 is underdetermined with the fallback still among the permitted readings, and v024 is compatible with the base, so neither is a rule 97 case and no token is added."
+  ]
+}

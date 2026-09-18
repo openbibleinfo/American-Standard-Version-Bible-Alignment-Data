@@ -1,0 +1,154 @@
+{
+  "alignments": [
+    {
+      "note": "Finite verb with its subject pronoun under rule 17; *out* is the particle of the English phrasal verb *send out*, kept with the verb under rule 44.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Pronominal suffix as possessive under rule 18.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Construct noun keeps only its own word.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Conjunction rendered *and* under rule 14.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Finite verb; the subject is carried over from the preceding clause and no separate pronoun is written.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Object suffix under rule 18.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Hiphil rendered by a causative light verb with a second verb as its complement; rule 44 heads it on the complement, and the unit is discontinuous around the object under rule 25.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Pronominal suffix as possessive under rule 18.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Construct noun keeps only its own word.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "No article morpheme stands on the noun, so the supplied *the* joins its unit under rule 15.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Finite verb of the second colon.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "The Hebrew juxtaposes `יַשֵּׁב רוּחוֹ` and `יִזְּלוּ־מָיִם` with no conjunction morpheme, so this coordinating *and* answers to nothing and is `added` under rule 14's closing sentences.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "PSA.147.18",
+  "review_notes": []
+}

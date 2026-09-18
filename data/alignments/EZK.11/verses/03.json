@@ -1,0 +1,192 @@
+{
+  "alignments": [
+    {
+      "note": "Attributive article rendered by a relative (rule 41).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Participle keeps its own English.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Supplied lexical subject noun phrase *The time*; no source nominal is present, so it answers to no morpheme (rules 17, 30). The ASV italics corroborate but do not decide it (rule 7).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Negative particle.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Verbless clause with a prepositional predicate: the supplied copula goes to the preposition (rule 49).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Predicate adjective.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Infinitive construct with the English *to* it licenses.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Object noun.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "The subject pronoun is rendered by the lexical nominal expression naming its referent (rule 18's reasoning applied to an explicit pronoun); *this city* is not added.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Article (rule 15).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Supplied copula joins the predicate noun (rule 20).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Conjunction (rule 14).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Explicit subject pronoun takes only its own English (rule 20).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Article (rule 15).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Supplied copula joins the predicate noun (rule 20).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t020"
+      ],
+      "target_head": "t020"
+    }
+  ],
+  "ref": "EZK.11.3",
+  "review_notes": [
+    "*The time* is marked added: the Hebrew clause לֹא בְקָרוֹב has no nominal for it, and rule 20 supplies only a copula, never a lexical subject.",
+    "The competing reading gives הִיא only a bare pronoun and marks *city* added; I took the rule 18 analysis, on which a pronoun realized by a lexical expression naming its referent keeps the whole expression."
+  ]
+}

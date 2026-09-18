@@ -1,0 +1,30 @@
+{
+  "chapter": "EZK.39",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The suffix of 'adonay is unrepresented throughout the chapter (39.1, 5, 8, 10, 13, 17, 20, 25, 29): the ASV writes 'the Lord Jehovah' with no separate possessive, and the supplied 'the' goes to 'adonay under rule 15 while the suffix is left unrendered under rule 22. This is the chapter's largest BSB disagreement class (9 tokens) and is a convention difference, not an error.",
+    "hayyom hahu' is rendered 'that day' (39.11, 39.22): the demonstrative hu' takes the written 'that' and every article in the phrase is unrepresented - the assimilated [ha] of ba and the attributive ha alike - because the ASV writes no 'the' for the phrase at all (rules 29, 41). BSB represents all three of those articles; that is convention, not error.",
+    "'avar is the ASV's 'pass through' throughout this chapter, including the four occurrences where no preposition stands (39.11 twice, 39.14, 39.15). The chapter therefore reads the 'through' of 'pass through the land' as the verb's own phrasal particle under rule 44 and marks the be of ba'arets unrepresented under rule 40 (39.14, 39.15). The competing reading gives 'through' to the be and leaves the verb 'pass'; it is what BSB's two disagreements here amount to, and it was rejected because it would render one verb two ways inside 39.15, where the same participle is written once with the preposition and once without. The judgment rests on chapter-wide evidence a verse pass cannot see, which is why it is recorded here rather than promoted.",
+    "ba'ar is rendered by the light verb 'make fires'. Where the Hebrew writes 'esh (39.9b, 39.10) the noun takes 'fires' and the verb keeps only 'make'; where it does not (39.9a) the verb takes the whole phrase and heads on 'fires' under rule 44. Read the clause for a written 'esh before placing the noun: 39.9 contains both cases.",
+    "39.9's 'both the shields and the bucklers' renders two waws, not one. The waw standing where 'both' stands takes it and the waw between the two coordinated members takes 'and'. Rule 14's correlative clause hands a pair to a single waw only where one waw is what stands there; where the phrase writes a conjunction morpheme in each position, count them against the ASV's connectives as rule 42 directs.",
+    "39.14: the ASV reads the 'et before ha'ovrim as the preposition 'with' (H854) although MACULA tags it To, so the marker takes 'with' under rule 16's subtraction test, as the corpus already does at EZK.2.6. That clause writes no waw, so the 'and' the ASV puts before the phrase answers to no morpheme and is its own added unit under rule 14's last sentence rather than being folded into the marker."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v87",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 64 candidate lemma groups and read the verse dump end to end. Every multi-treatment bucket resolves to a difference the source or the ASV licenses; no construction is analysed two ways with nothing in the source to license it. patches is empty.",
+    "Adjudicated pairs: (a) le in 39.4, where one preposition carries two English words as one discontinuous unit under rule 25, against 39.17, where two prepositions take one word each - licensed by the morpheme count; (b) 'ovrim in 39.11/39.14/39.15, where a present article takes 'them that' or 'they that' under rule 41, an anarthrous participle takes the supplied pronoun into its own unit under rule 46, and an articleless attributive on an explicit noun keeps its supplied relative under rule 41's last paragraph; (c) ba'ar in 39.9a, where the verb takes the whole light-verb phrase 'make fires' headed on 'fires', against 39.9b and 39.10, where the written 'esh takes 'fires' and the verb keeps only 'make'; (d) we-lo' fused to 'neither' in 39.7, 39.10 and 39.29, against bare lo' in 39.10a and 39.28, where the ASV writes a separate 'so that' or 'and' for the waw.",
+    "All 8 added units were re-tested for a licensing morpheme and none was found: the supplied object pronouns at 39.5, 39.9, 39.11, 39.13 and 39.26, where no object morpheme stands in the clause (rule 44); the supplied 'any' at 39.10, where no noun stands in the clause for rule 15's determiner clause to reach, so the word supplies an object rather than determining a nominal; the supplied 'and' at 39.14, where the clause has no conjunction morpheme (rule 14, last sentence); and the appositional 'even' at 39.17, where no marker stands on the phrase that word introduces (rule 16).",
+    "BSB: none of the 25 disagreements is a genuine error. The 'adonay suffixes (9), object markers (6) and ASV-recast prepositions (5) are the documented convention difference. The three article items (39.11, 39.22 twice) are places where the hu' demonstrative carries the phrase's only determiner, which is rule 29's own 'these cities' case. The two ba items (39.14, 39.15) rest on a real judgment call - whether the 'through' of 'pass through the land' is the verb's phrasal particle or the preposition's rendering - which is recorded as a convention with the competing reading named, rather than reversed.",
+    "No promotion and no amendment. The one lesson that looked general - a verb-plus-particle rendering competing with a present preposition of the same sense - is decided here only by counting the ASV's six other renderings of 'avar across the chapter. A verse pass sees one verse, so a rule phrased that way would be unusable by the reader it binds; it belongs in the chapter log. The correlative both/and reading in 39.9 and the distributed le in 39.4 are already what rules 14, 25 and 42 direct, so promoting either would only restate the contract.",
+    "Six conventions recorded. The rest of the 79 repeated notes are lexical repetitions (divine name, waw to and, possessive suffixes) that restate rules 14, 15, 18 and 19 and were deliberately left out of the log."
+  ]
+}

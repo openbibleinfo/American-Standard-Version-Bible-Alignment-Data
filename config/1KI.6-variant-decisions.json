@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "chapter": "1KI.6",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1KI.6.5.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere יָצִיעַ and ketiv יצוע are the same noun (lemma 3326 b), tagged Ncmsa in both; the ketiv writes the waw where the qere writes yod, so the difference is orthographic and the sense \"story, side-structure\" is unchanged. ASV \"he built stories round about\" renders either spelling, and the only note in the verse, \"That is, the most holy place\", maps to \"the oracle\" rather than to this word. Nothing in the English distinguishes the readings, so the decision is underdetermined and the qere base is retained."
+    },
+    {
+      "unit_id": "WLC.1KI.6.6.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The same pair as 6:5 with the article: qere הַיָּצִיעַ and ketiv היצוע are both Td/Ncmsa on lemma d/3326 b, differing only in the vowel letter. ASV \"The nethermost story was five cubits broad\" supplies the definiteness from either reading, and the verse carries no ASV note at all. The spelling leaves no trace in the English, so the decision is underdetermined and the qere base is retained."
+    },
+    {
+      "unit_id": "WLC.1KI.6.10.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Again qere הַיָּצִיעַ against ketiv היצוע, both Td/Ncmsa on lemma d/3326 b and identical in sense. ASV \"And he built the stories against all the house\" renders either. The verse's one note, \"Or, he fastened the house\", is an alternative rendering of the following verb clause, not a textual note on this noun, and it is not mapped here. The decision is underdetermined and the qere base is retained."
+    },
+    {
+      "unit_id": "WLC.1KI.6.16.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere מִיַּרְכְּתֵי and ketiv מירכותי are the same preposition-plus-noun on lemma m/3411, tagged R/Ncfdc in both; the ketiv is the plene spelling with waw, the qere defective. ASV \"on the hinder part of the house\" renders the construct dual either way, and no note in the verse maps to this word (the 6:15 note extended to verse 16 concerns floors and walls, not this phrase). The difference is orthographic, so the decision is underdetermined and the qere base is retained."
+    },
+    {
+      "unit_id": "WLC.1KI.6.21.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere בְּרַתּוּקוֹת and ketiv ברתיקות are the same noun \"chains\" (lemma b/7572), tagged R/Ncfpc in both, differing only in which vowel letter is written before the plural ending. ASV \"he drew chains of gold across before the oracle\" renders either, and no ASV note falls in the verse. Nothing in the English or the notes distinguishes them, so the decision is underdetermined and the qere base is retained."
+    },
+    {
+      "unit_id": "WLC.1KI.6.38.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Here the readings differ morphologically, not just orthographically: qere מִשְׁפָּטָיו is plural (Ncmpc/Sp3ms) and ketiv משפטו singular (Ncmsc/Sp3ms), the same lemma 4941 with the same 3ms suffix. ASV reads \"and according to all the fashion of it\", but \"fashion\" is a mass noun in this sense, so \"all the fashion of it\" shows no number and would stand for either reading; contrast the preceding plural דבריו, which the countable \"all the parts thereof\" does show. The verse's note, \"Or, with all the appurtenances thereof, and with all the ordinances thereof\", is an alternative rendering of the sense of the two nouns rather than a textual note, and its plural \"ordinances\" simply parallels \"appurtenances\", so it does not attest a reading against the main text's \"fashion\". With the main text non-committal and the note not text-critical, the decision is underdetermined and the qere base is retained."
+    }
+  ]
+}

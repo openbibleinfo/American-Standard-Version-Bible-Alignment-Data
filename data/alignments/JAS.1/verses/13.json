@@ -1,0 +1,224 @@
+{
+  "alignments": [
+    {
+      "note": "Negative indefinite subject; the ASV writes the negation in the indefinite, so the whole *no man* is its own unit. Rule 17's generic-noun clause heads on *no*, the supplied *man* being the empty completion, exactly as rule 69 heads *any man* on *any*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Circumstantial participle expanded into a finite clause. The supplied subordinator *when*, subject *he* and copula *is* are rule 7 helpers on the participle that licenses them; rule 86 names a participle as exactly the token that carries a supplied *when*, and *is* is the passive auxiliary of the participle under rule 9. Head on the lexical verb under rule 17.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Third-person imperative rendered by the *let* periphrasis; the auxiliary is the inflection's own helper under rule 9, discontinuous across the subject under rule 15, and rule 17 forbids heading on *Let* merely because it is finite and first. Rule 73's `κόπους … μηδεὶς παρεχέτω` → *let no man trouble me* keeps the same *let* inside the verb's unit.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Recitative ὅτι introducing direct speech, which the ASV marks by punctuation alone; no English word answers to it (rule 43). Not stretched onto *I* or *am*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The English preposition governing the phrase realizes ἀπό (rule 36), not the passive verb; the margin's *Greek from* confirms the preposition is what *of* answers to.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Anarthrous noun standing on its own English word.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Inflected passive taking its English subject and auxiliary; head on the lexical verb under rules 9 and 17.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "The ASV gives θεός no determiner here, so the article has no English realization to anchor (rules 21 and 23). No possessive, demonstrative or indefinite is supplied for it either, so rules 51 and 60 do not arise.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Postpositive conjunction taking the English clause connective.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Subject noun on its own English word.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "The privative verbal adjective is spelt out as *cannot … tempted*: *cannot* answers to the alpha-privative and to the -τος ability the adjective carries, and *tempted* to the πειραζ- root, discontinuously under rule 15 around the copula's own *be*. *cannot* is one solid word and rule 39 forbids splitting it across tokens, so the negation cannot be read off ἐστιν. Head on the meaning-bearing *tempted* under rules 17 and 91, the corpus spending *tempt-* on this lexeme throughout, and rule 84 heading a privative's frame on its complement rather than on the negating word. The competing reading gives the whole *cannot be tempted* to the adjective and leaves ἐστιν unrepresented; I did not take it, because rule 64 records the identical modal-plus-*be* shape at `μήτι οὗτός ἐστιν ὁ χριστός;` → *Can this be the Christ?*, where the modal goes to the other token and the expressed ἐστιν keeps *be*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Expressed copula taking the English *be* inside the modal periphrasis, on rule 64's precedent that an expressed ἐστιν keeps *be* when a supplied modal stands in front of it. This is not rule 53's supplied copula: the Greek writes the verb, so there is no question of finding a predicate to carry it.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Bare genitive plural with no article and no Greek preposition, so the supplied *with* realizes the case and stays with the noun (rules 21 and 23). The margin's *Greek evil things* confirms the substantival adjective is the nominal word and the head.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Finite verb on its own English word; its subject is expressed by αὐτός and belongs to that token.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Postpositive δέ taking the English clause connective *and*.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Intensive nominative pronoun rendered by the two-word English emphatic. Both words are this one token's: the pronoun is the expressed subject, and *he* is not separable as the verb's rule 9 subject because *himself tempteth* cannot stand without it (rule 27). Head on *himself*, which realizes the intensive force the nominative αὐτός carries, rather than the bare subject *he*; a head on *he* is defensible if one reads the token as the plain subject pronoun with *himself* as emphasis.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t022",
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Negative indefinite object; the ASV writes the negation in it, so *no man* is whole here, headed on *no* with the supplied generic *man* riding along under rule 17. No negator stands in the clause, so rules 41 and 59 do not arise, and rule 87 does not either, there being no πᾶς.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t025",
+        "t026"
+      ],
+      "target_head": "t025"
+    }
+  ],
+  "ref": "JAS.1.13",
+  "review_notes": [
+    "Reviewed and kept unchanged in structure: every s001–s017 and t001–t026 appears in exactly one unit, all heads are members of their arrays, and the two unrepresented units are source-only with null target heads.",
+    "The one materially contested unit, ἀπείραστός ἐστιν → *cannot be tempted*, is now decided on a named precedent rather than on the general argument the accepted note gave: rule 64's `μήτι οὗτός ἐστιν ὁ χριστός;` → *Can this be the Christ?* has the same modal-plus-*be* shape and gives the modal to the other token while the expressed ἐστιν keeps *be*. That confirms the accepted split (*cannot* + *tempted* on the adjective, *be* on the copula) against the whole-phrase reading that would leave ἐστιν unrepresented; both notes now carry the cross-reference.",
+    "*cannot* is a single solid word, so rule 39 bars splitting it, and the privative negation in it is the adjective's — which is why the modal cannot be handed to ἐστιν instead.",
+    "Heads checked apart from edges: lexical verbs over auxiliaries and over the finite-looking *Let* (rules 9, 17, 73), the negative indefinites on *no* rather than the supplied *man* (rule 69's explicit heading of *any man* on *any*), and κακῶν on *evil* with the case preposition riding along.",
+    "s016 αὐτός → *he himself* is the only other place a different analysis is available: *he* could be read as πειράζει's rule 9 subject with only *himself* on the pronoun. Kept whole because the emphatic needs the subject word to attach to, and the alternative head is recorded in the unit note.",
+    "s008: the article before θεός is unrepresented because the ASV supplies no determiner of any kind — not *the*, not *a*, not a demonstrative — so rules 51 and 60 are not in play and rule 23 decides it."
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "alignments": [
+    {
+      "note": "One English negative word carries both the universal quantifier `כֹּל` and the negative `לֹא`, so the two share one discontinuous unit headed on the negative, which is what distinguishes *None* from *all* (rule 35).",
+      "source": [
+        "s001",
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Substantival participle with the supplied relative (rule 46); its bare object suffix is reached through the supplied *unto*, which belongs to the participle's unit (rule 44). Headed on the word carrying the lexeme.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Object suffix rendered by the object pronoun (rule 18).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "`שׁוּב` rendered by the phrasal *return again*; the particle restates the returning the Hebrew verb itself writes, so it stays with the verb rather than being marked `added` (rule 44).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Paragogic nun has no English realization (rule 32).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Waw plus negative fused into one English word carrying both the coordination and the negation, headed on the negative (rule 35).",
+      "source": [
+        "s007",
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Finite verb with its fronted auxiliary and subject pronoun (rule 17); the bare direct object `אָרְחוֹת` is reached through the supplied *unto*, which belongs to the verb's unit (rule 44).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Construct noun with a supplied *the* (rule 29).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Nomen rectum takes the *of* (rule 19).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "PRO.2.19",
+  "review_notes": [
+    "*None* is read as rule 35's fusion of `כֹּל` with `לֹא`; the competing reading gives *None* to the negative alone and marks `כֹּל` `unrepresented`, but one English word here answers to both morphemes.",
+    "*again* is kept with `שׁוּב` because the return is what that verb writes; the competing reading marks it `added` under rule 44's surplus-particle sentence."
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "alignment_sha256": "8e258702b24b0be09f70569337fd62e3a1b26878ec6840a65a142a76d011028b",
+  "contract_version": "nt-greek-verse-v62",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed and kept the accepted alignment's unit membership, statuses and heads unchanged. Every s### and t### id is partitioned exactly once (14 source, 14 target).",
+    "Two articles left unrepresented: the ASV supplies no determiner for either faith or works, so rule 21's anchor is absent and rule 23 decides both. No possessive, demonstrative or indefinite competes for the slot, so rules 20, 51 and 60 are not in play.",
+    "χωρίς keeps apart from whole, headed on apart. Two competing readings were weighed and are now named in the unit note rather than only the article one: (a) from to the article τῶν as case preposition under rules 21 and 42, refused because rule 42's determiner clause needs a determiner the ASV never supplied and rule 21 forbids a bare from on an article; (b) from to ἔργων under rule 21's determinerless clause, refused because that clause governs a bare case with no expressed preposition, whereas here an improper preposition is expressed and rule 42's ἐγγὺς τοῦ Σαλείμ → near to Salim precedent keeps the adverb's phrase whole. This is the only edit made to the accepted alignment, and it is note text only.",
+    "Head on apart, not on the frame's second word: rule 71 heads a supplied frame on its lexical noun (in the sight of → sight), but apart is itself the gloss of χωρίς, so this is that rule's ἐγγύς → nigh unto case. No noun stands inside the frame for the other reading to take.",
+    "θέλεις takes wilt thou and γνῶναι takes know separately: wilt is the lexical gloss of θέλω, not an auxiliary of the infinitive, so rule 9 does not pull the head onto know.",
+    "ἐστιν is expressed, so no copula is supplied and the verbless-clause chain (rules 53, 62, 63, 68, 96) is untouched. Likewise ὦ is expressed, so rule 89's supplied-address-word reasoning does not arise and ἄνθρωπε stands bare.",
+    "ὅτι is aligned rather than unrepresented because the ASV wrote that; rule 43's test is the presence of an English word, not whether the reported clause is recitative."
+  ],
+  "ref": "JAS.2.20",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

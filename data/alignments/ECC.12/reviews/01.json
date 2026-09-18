@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "02a31d05ad6b64302741513641366e29c194086b458bbcae13ced888f7c2a4ff",
+  "contract_version": "ot-hebrew-verse-v143",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Flagged unit `עַד אֲשֶׁר לֹא` → *before* verified as atomic under rule 30: the one English word carries the temporal limit of `עַד`, the subordination of `אֲשֶׁר` and the 'not yet' of `לֹא`, so splitting it would leave two morphemes `unrepresented` whose sense the ASV wrote inside the word, against rule 22.",
+    "Head on `עַד` retained. Rule 23's negation clause (*a negation heads the unit it is fused into*) was weighed and set aside: that clause governs a fusion whose other morphemes are bare function words, as in `וְ` + `לֹא` → *Nor*, whereas here `עַד` carries the temporal relation *before* itself writes and is also the governing morpheme standing first.",
+    "`בִּימֵי בְחוּרֹתֶיךָ` and `יְמֵי הָרָעָה` are placed oppositely under rule 29 and both are right: the first chain writes no article morpheme, so the construct takes a supplied *the*, while the second writes one on the rectum, which takes the phrase's single fronted *the*.",
+    "*I have no pleasure in them* divides under rule 43: `אַיִן` takes *no* and heads on it under rule 50, the possessive `לְ` takes *have*, and its suffix takes the subject pronoun *I*.",
+    "The waw's *also* is placed postpositively and is discontinuous under rule 25; rule 51 makes this settled rather than a hedge."
+  ],
+  "ref": "ECC.12.1",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

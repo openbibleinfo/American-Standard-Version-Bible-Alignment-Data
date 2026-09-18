@@ -1,0 +1,28 @@
+{
+  "chapter": "1SA.3",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The presentative frame opened at 1SA.3.2 spans the verse boundary. וַיְהִי takes And it came to pass with no complementizer of its own; the circumstantial clauses of 3.2 and 3.3 stand inside the frame; and the waw opening 3.4 carries the frame's that under rule 45. Read 3.4's opening that against 3.2 rather than as a subordinator supplied for its own clause. The second frame, at 3.9, writes its apodosis waw that within the verse.",
+    "הִנְנִי → Here am I (3.4, 3.5, 3.6, 3.8, 3.16) is read as a verbless clause with a written predicate: הִנֵּה is that predicate and takes Here together with the construction-supplied am (rule 20), while the suffix is the clause's subject and takes I (rules 18, 40). Do not give the copula to the suffix under rule 20's wholly-elided-predicate clause, and do not mark the am added.",
+    "The Hiphil יָסַף before an infinitive is rendered adverbially throughout — yet (3.6), again (3.8, 3.21), more (3.17) — while the infinitive keeps the lexical verb (rule 56); שׁוּב before שְׁכָב is read the same way at 3.5 and 3.6. Where עוֹד also stands and the ASV writes two adverbs, as at 3.6 (called yet again), each morpheme takes one word, neither is fused or left unrepresented, and this chapter allocated them in the source order of the morphemes; the competing allocation is named in that unit's note under rule 8.",
+    "A waw standing before a limit expression takes the ASV's even whether the relational word is written or supplied. 3.20's וְעַד־בְּאֵר שָׁבַע → even to Beer-sheba gives even to the waw and to to the עַד (rules 14, 16, 26), and 3.12's הָחֵל וְכַלֵּה → from the beginning even unto the end gives even to the waw while the supplied unto joins the infinitive absolute it stands before under rule 33.",
+    "Where a partitive מִן stands before a כֹּל chain and the ASV writes a single of, that of is the preposition's and the construct relation takes none: 3.17's מִכָּל־הַדָּבָר → of all the things and 3.19's מִכָּל־דְּבָרָיו → none of his words both put the of on מִן, leaving the rectum only its own word. Rule 19's chain of is not written a second time, and at 3.19 the כֹּל has no separate word at all, being fused with לֹא into none under rule 35."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v201",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked every multi-treatment bucket in the candidate table. Each is the ASV rendering one morpheme differently in different contexts, and the source licenses the difference: the waw's open connective list (And/and/that/Therefore/So/Then/Now/when/neither/nor/even/for), אֶל and לְ alternating between a written preposition and rule 40's bare-object recasting, and אֵת taking unto only where the English verb reaches its object through it (3.1 ministered unto, against bare called/know at 3.4, 3.7, 3.16).",
+    "Read the dump end to end for the added-blind cases the table cannot show. The chapter marks English added only where no morpheme licenses it — 3.2 so that, 3.3 to sleep, 3.17 Jehovah and it — and folds every other supplied function word onto a licensing morpheme (at 3.11, from/unto 3.12, other 3.10, to be 3.20, did 3.7/3.19, let him 3.18). The subordinator count is consistent across the chapter: added at 3.2 where the clause לֹא יוּכַל carries no conjunction, and on the conjunction at 3.2's when, 3.9's and 3.17's אִם, 3.14's oath אִם and 3.8/3.13/3.20's כִּי where one stands.",
+    "Two constructions cross verse boundaries and agree. The presentative frame opened at 3.2 writes no complementizer of its own; its that is the apodosis waw of 3.4 (rule 45), with the circumstantial clauses of 3.2–3.3 standing inside the frame. The frame at 3.9 writes its own apodosis waw that. Both are now in the conventions log so a reader of 3.4 alone can find the other half.",
+    "BSB: none of the 17 disagreements is a genuine error. The Td x4 (3.1, 3.2, 3.12, 3.18) are agreement and assimilated articles whose single written determiner the demonstrative takes under rules 41/47, or which the ASV leaves unwritten (every whit). The R x10 are rule 40 recastings — datives at 3.5/3.6/3.8/3.13/3.18, אֶל before a bare object at 3.4/3.15, the second בְ of וּבְמִנְחָה at 3.14, the לְ of לִרְאוֹת at 3.2 and of לְהֵרָאֹה at 3.21. The three named tokens are the same conventions: 3.8 בַּ and לַ are the unwritten preposition of the third time and the recast dative of called the child, and 3.10 פַעַם is the unrendered first occurrence of כְּפַעַם בְּפַעַם, which rule 22 names in its own text.",
+    "No promotion. The one candidate — allocating two English adverbs between an auxiliary יָסַף and a written עוֹד at 3.6 (called yet again) — occurs once, the packet carries no corpus query for that pair, and the verse note already records the competing allocation under rule 8. Rule 56's counting sentence covers a verb written for each; widening it on a single unverified occurrence would make a guess binding on every later chapter."
+  ]
+}

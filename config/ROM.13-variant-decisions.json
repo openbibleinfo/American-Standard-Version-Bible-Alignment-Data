@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "chapter": "ROM.13",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.ROM.13.1.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'the powers that be are ordained of God' renders the participle alone as a substantive; an explicit ἐξουσίαι would produce the identical English, and no ASV note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.13.1.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is the article with θεοῦ; ASV 'ordained of God' cannot show the presence or absence of a Greek article, and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.13.3.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'are not a terror to the good work' — a singular dative object matching τῷ ἀγαθῷ ἔργῳ; RP's genitive plural τῶν ἀγαθῶν ἔργων would give 'a terror of good works'."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.13.3.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'but to the evil' continues the dative construction of 'to the good work' in the same clause, matching τῷ κακῷ rather than RP's genitive plural τῶν κακῶν."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.13.7.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV begins the verse 'Render to all their dues' with no inferential connective; RP's ἀπόδοτε οὖν would be rendered 'Render therefore', as ASV does elsewhere for οὖν."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.13.8.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is Greek word order only; ASV 'save to love one another' is the same English for either sequence, and the mapped note is a greek_gloss on 'neighbor', not on this unit."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.13.9.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is the position of τούτῳ relative to τῷ λόγῳ; ASV 'summed up in this word' renders either order identically, and the mapped note is a cross-reference."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.13.9.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's 'namely,' introducing the quotation is a supplied English connective that neither requires nor excludes ἐν τῷ before Ἀγαπήσεις; no textual_variant note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.13.11.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'it is time for you to awake out of sleep' is second person, matching ὑμᾶς; both ἡμᾶς readings (Treg, RP) would give 'for us to awake', and ASV's later 'nearer to us' shows it distinguishes the two pronouns in this verse."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.13.12.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'let us therefore cast off the works of darkness' fits ἀποβαλώμεθα and ἀποθώμεθα alike, both meaning to throw off or put away; no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.13.12.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is δέ following the verb versus καί preceding it; ASV 'and let us put on the armor of light' renders either connective the same way."
+    }
+  ]
+}

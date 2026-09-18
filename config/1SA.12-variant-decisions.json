@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "chapter": "1SA.12",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1SA.12.10.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'And they cried unto Jehovah, and said' makes 'said' a second predicate of the plural subject 'they', matching the qere plural וַיֹּאמְרוּ; the ketiv singular ויאמר ('and he said') would require a singular subject the ASV does not supply."
+    }
+  ]
+}

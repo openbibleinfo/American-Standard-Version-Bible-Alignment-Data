@@ -1,0 +1,139 @@
+{
+  "alignments": [
+    {
+      "note": "Adversative conjunction rendered *but*, fronted in the ASV.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Substantival adjective meaning *each one*; no Greek noun is expressed, so the supplied generic *man* completes the adjective's own English expression and rules 17 and 66 head the unit on *each*, the word that glosses the lexeme. Rule 58 is not in question, since it is scoped to an expressed anarthrous noun.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Passive indicative with its auxiliary; rule 9 heads on the lexical verb *tempted* rather than on *is*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Circumstantial participle expanded into a finite clause. The supplied subordinator *when*, subject *he* and copula *is* are rule 7 helpers on the participle, which licenses them: rule 86's test asks whether a source token carries the subordination, and a participle does, the corpus placing a supplied *when* on a participle in sixty-six of sixty-seven units. Head on the lexical *drawn*; *away* is the verb's own particle answering to the `ἐξ-` prefix, not a separable word.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Expressed preposition of agency realized by *by*, which governs the prepositional phrase (rule 36); it is not the participle's phrasal particle.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Rule 47: `ἴδιος` stands attributively between the article and an expressed head noun (`ἐπιθυμίας`) and carries the supplied possessive *his own*, so the article is displaced under rule 20 and realizes nothing. Rule 76's availability test does not reach it, `ἰδίας` being unspent on any other English role.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rule 47's `τοῖς ἰδίοις ἀνδράσιν` → *their own husbands* shape: the possessive adjective takes the whole *his own*, headed on *own*, the word glossing the lexeme, with *his* riding as a rule 7 helper.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Head noun stands bare, its determiner slot already occupied by the possessive on `ἰδίας`, and the case preposition already taken by the expressed `ὑπό`.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Expressed conjunction coordinating the two participles, aligned in the ordinary way; rule 88's supplied juncture is untouched, since a Greek conjunction is present.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Second participle; the ASV does not repeat the supplied subject or copula across the coordination, so the bare *enticed* is all of it.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "JAS.1.14",
+  "review_notes": [
+    "Returned unchanged: I found no unit I would decide differently. All 10 source and all 16 target ids are partitioned exactly once, every aligned unit has nonempty arrays with both heads inside them, and the single unrepresented unit has a valid source head with an empty target and a null target head.",
+    "s001: the competing reading is a head on *man* as the phrase's formal English noun. Rule 17 forbids choosing a word merely because it is the syntactic head, and `ἕκαστος` by itself means *each one*, so *man* is the generic completion and *each* is the head. Rule 58 does not apply, since it governs a supplied determiner over an *expressed* anarthrous noun and no Greek noun stands here.",
+    "s005/s006: the competing reading gives *his* to the article and *own* to the adjective, which is rule 47's substantival arm (`ἐκ τῶν ἰδίων` → *of his own*). That arm is ruled out because a head noun, `ἐπιθυμίας`, is expressed — the same expressed-head-noun test rules 31 and 47 use — so the attributive arm applies and the whole *his own* is the adjective's.",
+    "s008: the competing reading marks the supplied *when* `added` under rule 5. Rule 86 forecloses it: its test is whether a source token licenses the subordination, and a participle does, which is why the corpus places a supplied *when* on a participle in sixty-six of its sixty-seven units and on no bare finite indicative.",
+    "s008 keeps *away* rather than giving it to `ὑπό` or splitting it off: it is the verb's own particle answering to the `ἐξ-` prefix, on rule 34's reasoning that a particle belonging to the adverb or verb is not the preposition's. The expressed `ὑπό` separately takes *by* under rule 36.",
+    "The ASV reorders *drawn away* in front of *by his own lust* against the Greek order, but every unit here is contiguous in the target, so rule 15's discontinuity allowance is not needed.",
+    "The verse note's alternative rendering (*tempted by his own lust, being drawn away by it, and enticed*) is not the ASV text aligned here and changes no unit."
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "chapter": "ROM.14",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Negative compound adverbs take the whole English negation as one `aligned` unit and head on the temporal word, not on the negative: μηκέτι → *not … any more* heads on *more* at 14:13 and οὐκέτι → *no longer* heads on *longer* at 14:15. The negative word spells only the compound's prefix, exactly as rule 84's *without* spells a privative's prefix and rule 66 heads a compound on its core rather than its prefixed element; rule 33's ἔτι → *more* is what the temporal element is worth on its own. Both units' notes concede a head on *no*.",
+    "A supplied English adverb filling an ellipsis that no standing token's own English is incomplete for is its own `added` unit under rule 5, not a rule 7 helper on the neighbouring verb: *alike* at 14:5 (κρίνει πᾶσαν ἡμέραν) and *again* at 14:9 (ἔζησεν). Rule 103's enumeration of what falls to it — nouns, predicates, verbs, quantifiers, antecedents — does not name an adverb, and this chapter reads one the same way, the ASV's italics corroborating under rule 11 rather than licensing. Both notes concede the fold."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v96",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 23 verses end to end and worked the 44-lemma candidate table. Every bucket with more than one treatment is licensed either by the Greek or by what the ASV actually wrote; I found no construction analysed two ways with nothing in the source to license the difference.",
+    "ὁ, the largest group: articles taking *the* (14:4, 14:6, 14:17, 14:20, 14:8) all stand before an expressed English determiner; the unrepresented ones are either before θεοῦ/θεῷ/Χριστῷ/ἀνθρώποις with no determiner written (rule 23), displaced by σου/ὑμῶν (rule 20, at 14:10, 14:15, 14:16, 14:21), displaced by ἴδιος (rule 47, at 14:4 and 14:5, analysed identically), or the nominalizing article of an articular infinitive (rule 61, at 14:13 and 14:21). The substantival ones split from their participle under rule 32 in every instance; 14:4 ὁ κρίνων → *that judgest* is the single-English-word case rule 90 governs, not a departure.",
+    "The T→T pair the table flags is 14:19's two τὰ. The difference is in the Greek: τὰ τῆς εἰρήνης has no second attributive article, so the relativizer falls to the outer substantival article (*things which*), while τὰ τῆς οἰκοδομῆς τῆς εἰς ἀλλήλους has one standing before a prepositional modifier, which takes the relativizer fused with εἰς as *whereby* (rule 31). The outer article is then left *things* alone. Not a split.",
+    "κύριος: the three anarthrous datives at 14:6 take *unto the Lord* whole (rules 21, 51); the two articular τῷ κυρίῳ at 14:8 give *unto the* to the article and leave the noun bare (rule 21). The table shows this as two treatments; the article is what differs.",
+    "ἐάν/τέ at 14:8: across the four ἐάν τε members the chapter gives *whether* to τε and the disjunctive *or* to ἐάν, emptying whichever particle the ASV wrote no word for. That is rule 70's English-side test applied member by member, and the mirror reading is named in the verse's notes. Internally uniform.",
+    "Read the dump for the asymmetry the table is blind to — a word marked `added` in one verse and folded in another. The seven `added` units are principled and mutually consistent: *yet* (14:1, δέ already spent on *But*), *alike* (14:5), *again* (14:9), *As* (14:11, no token carries the subordination, rule 86), *to God* (14:12, rule 97 with the excluded fallback cited), *to do anything* (14:21, rule 62's supplied-predicate arm), *he eateth* (14:23, φάγῃ already spent, rule 103). Everything folded elsewhere is a rule 7 item — supplied determiners, subject and object pronouns, generic *man*/*one*, the possessive *his* at 14:13, the demonstrative *that* at 14:20 — so nothing is added in one verse and folded in another.",
+    "The nearest thing to a split is inside 14:23, where two verbless prepositional-predicate clauses are treated differently: *he eateth* is `added` and *is* rides with ἐκ. The source licenses it — the first repeats φάγῃ, which stands in the same verse and has spent its English (rules 62, 103), while the second supplies a bare copula with nothing to repeat (rules 53, 96). Both units carry the competing reading in their notes.",
+    "BSB comparison: 10 disagreements, none a genuine error. Six are articles the ASV leaves with nothing to realize — 14:4 and 14:5 τῷ displaced by ἴδιος, 14:15 and 14:16 displaced by σου/ὑμῶν, 14:10 τοῦ before θεοῦ with no determiner. 14:2 μὲν and 14:5 δὲ are unrepresented because the ASV writes no *indeed* and no connective there (rules 70, 23). The four ἐάν/τε reports at 14:8 are the documented convention difference described above: BSB reads *If* off ἐάν, the ASV writes only *whether* and *or*, and rule 70 records *whether* as τε's word. No accepted edge was changed to move the rate.",
+    "Two conventions recorded: the head of the negative compound adverbs at 14:13 and 14:15, and the `added` treatment of a supplied adverb filling an ellipsis at 14:5 and 14:9. Both reached a later verse without being logged.",
+    "No promotion. The two chapter-wide judgments above are already derivable from rules 66, 84 and 103, and I was shown no corpus for μηκέτι, οὐκέτι or a supplied adverb to confirm a widening; a rule resting on two hedged units and no precedent would cost more than it settles."
+  ]
+}

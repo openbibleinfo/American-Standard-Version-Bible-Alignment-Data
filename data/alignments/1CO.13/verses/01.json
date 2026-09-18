@@ -1,0 +1,240 @@
+{
+  "alignments": [
+    {
+      "note": "Conditional particle to the English conjunction introducing its clause (rule 40).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Dative article carrying its case preposition: *with the* is one unit headed on *the* (rule 21).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Noun stands alone, its determiner having gone to the article (rule 21).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Inflected verb takes its supplied subject; head on the lexical verb, not the pronoun (rules 9, 17).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The ASV gives *men* no determiner, so the article has no *the* to anchor and the case preposition stays with the noun (rules 21, 23).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Source noun rendered *of + noun*; head on the noun (rules 17, 21).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Coordinating conjunction.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Determinerless English phrase *of angels*: the article realizes nothing (rules 21, 23).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Head on the noun for an *of + noun* rendering (rule 17).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Adversative conjunction.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Finite verb.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Ordinary negative particle aligned to *not*; no negative indefinite stands to absorb it, so rules 41 and 59 do not apply.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Object noun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Perfect indicative with its supplied subject and auxiliary; head on the lexical verb *become* (rules 9, 17).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Attributive participle.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Predicate noun.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Disjunctive particle.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Anarthrous adjective and noun both bare: the supplied determiner belongs to the noun, discontinuously across the adjective (rules 15, 58).",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t022",
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Attributive participle, bare of the determiner (rule 58).",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    }
+  ],
+  "ref": "1CO.13.1",
+  "review_notes": [
+    "Both articles before genitive nouns are `unrepresented`, the ASV writing *of men* and *of angels* with no determiner (rule 23); the dative article by contrast anchors *with the* (rule 21).",
+    "*a* in *a clanging cymbal* is given to the noun rather than to the participle it stands next to, per rule 58."
+  ]
+}

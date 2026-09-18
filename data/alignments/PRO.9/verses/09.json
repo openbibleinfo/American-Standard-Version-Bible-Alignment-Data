@@ -1,0 +1,172 @@
+{
+  "alignments": [
+    {
+      "note": "Imperative.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Supplied object noun that does not carry נתן's lexeme; added under rule 44. The ASV italic corroborates without deciding, rule 7.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Substantival adjective with a supplied generic *man*, rule 31.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Waw, rule 14.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Subject pronoun and auxiliaries with the verb; discontinuous around *yet* under rule 25.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Adverb עוד takes *yet*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Imperative.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Bare English object leaves the preposition nothing, rule 40.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rule 31.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015",
+        "t016"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Waw, rule 14.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Subject pronoun and auxiliary with the verb, rule 17. לֶקַח is this Hiphil's own bare direct object, with no marker and no preposition on it, so the supplied *in* by which the English reaches it belongs to the verb's unit under rule 44's supplied-preposition clause and not to the noun under rule 33, whose third limit defers there. Head stays on the lexical verb, which rule 44 leaves unaffected. The competing reading gives *in* to the noun on the ground that another preposition would have served; that test does not separate the two cases, since an English recasting of a transitive Hebrew verb always leaves a relation to choose. Aligned as PRO.9.15 aligns the *on* of *go right on their ways*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019",
+        "t020",
+        "t021"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Bare direct object of יָסַף, keeping only its own word; the supplied *in* has gone to the verb under rule 44.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    }
+  ],
+  "ref": "PRO.9.9",
+  "review_notes": [
+    "Patched for the chapter-wide split with PRO.9.15: a preposition the ASV supplies to reach a Hebrew verb's bare direct object is the verb's under rule 44, whichever preposition it chose.",
+    "Both לְ datives before the adjectives remain unrepresented for the same reason as in PRO.9.8.",
+    "The italic *instruction* remains added: נתן's lexeme is already written by *Give*, so the supplied object noun answers to no morpheme."
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "alignments": [
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Verb with its subject pronoun and auxiliary (rule 17).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Object suffix (rule 18).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Construct noun rendered *door posts* with a supplied *the*, no article morpheme present (rule 29). Head moved to *door*: *posts* alone is any post, and the ASV never writes a bare *posts* for מְזוּזָה, so it is the supplied generic and *door* carries the lexeme — rule 31's own תִּמֹרָה → *palm trees* is the precedent. Heading on *posts* as the English compound's noun was the competing reading.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t009"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Nomen rectum takes the relational *of* (rule 19); discontinuous around the possessive (rule 25).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Suffix as possessive.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Suffix as possessive.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "DEU.6.9",
+  "review_notes": [
+    "Head of the מְזוּזֹת unit moved from *posts* to *door* under rule 31: the subtraction test leaves *posts* naming any post, and the tie-break — whether the ASV ever writes that class noun alone for the word — is not met, מְזוּזָה being rendered *door-posts* or *side-posts* throughout. Rule 31's listed תִּמֹרָה → *palm trees* is the direct precedent.",
+    "Edges are unchanged: the supplied *the* stays on the construct under rule 29 and the *of* on the rectum under rule 19."
+  ]
+}

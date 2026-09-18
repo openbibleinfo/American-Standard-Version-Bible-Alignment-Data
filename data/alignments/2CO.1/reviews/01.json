@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "9060a93050b081d3d146955c99fc93a4a9ba7633e2a06d0b017e2fefc491088f",
+  "contract_version": "nt-greek-verse-v58",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Returned unchanged in substance: every s### and t### is partitioned exactly once, all aligned units have nonempty sides with member heads, and the three unrepresented units are source-only with null target heads.",
+    "The two supplied determiners in the verse are decided by whether a Greek article competes. s006 θελήματος is anarthrous, so the the is a rule 51 helper on the noun; s012 and s028 have expressed articles, so those articles take their the under rules 19 and 21. s014 is the third case: the ASV gives God no determiner at all, so rule 23 empties the article and rule 21 keeps the bare of on the noun.",
+    "s010 takes our under rule 20's second arm. The Greek expresses no genitive pronoun or other possessor for the supplied possessive to belong to, so the article is what it realizes, and rule 11 keeps the ASV's markup from forcing added.",
+    "Both second attributive articles (s016, s024) stand behind an expressed head — church and the articular substantive τοῖς ἁγίοις — so rule 31 and not rule 32 or rule 90 applies: each article is unrepresented and the relativizer plus copula go to its participle. Rule 90's own text disclaims any unit in which a head is expressed.",
+    "s021/s022/s023 split σὺν τοῖς ἁγίοις πᾶσιν into three recoverable pairs under rule 26, with all reordered in front of the determiner under rule 15. There is no negator in the clause, so rule 87's joining of πᾶς with a negation is not in question.",
+    "The one open judgment is s029. In the whole of Achaia the partitive of answers to no Greek token — the dative is already spent on ἐν → in — so it is a rule 7 helper, and the only question is whether ὅλῃ or Ἀχαΐᾳ licenses it. Recorded medium on the name; a future chapter reading it the other way should say so rather than treat this as settled."
+  ],
+  "ref": "2CO.1.1",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

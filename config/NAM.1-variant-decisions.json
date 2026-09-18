@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "chapter": "NAM.1",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.NAM.1.3.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'and great in power' is compatible with both the qere וּגְדָל and the ketiv וגדול; no mapped textual note distinguishes them, so the base qere remains the fallback."
+    },
+    {
+      "unit_id": "WLC.NAM.1.15.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'shall no more pass through thee' is compatible with both the qere לַֽעֲבָר and the ketiv לעבור. The mapped note is classed alternative_rendering and concerns 'the wicked one,' so it does not decide this reading; the base qere remains the fallback."
+    }
+  ]
+}

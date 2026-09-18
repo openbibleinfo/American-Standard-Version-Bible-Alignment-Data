@@ -1,0 +1,30 @@
+{
+  "chapter": "2SA.8",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2SA.8.4"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Tributary formula וַתְּהִי X לְדָוִד לַעֲבָדִים → *X became servants to David* (8.2, 8.6; 8.14 writes it without the לַ): הָיָה takes *became* (rule 21), the resultative לַ before עֲבָדִים is `unrepresented`, the dative לְ takes *to*, and the nation name takes the supplied *the* of its gentilic recasting (*the Moabites*, *the Syrians*, *the Edomites*). BSB attaches the לַ to its phrase; convention difference, not an error.",
+    "The asyndetic participial phrase נֹשְׂאֵי מִנְחָה that follows that formula → *and brought tribute* (8.2, 8.6): the participle takes *brought*, the noun *tribute*, and the supplied *and* is its own `added` unit under rule 14, since no waw stands before the participle.",
+    "וַיֹּשַׁע יְהוָה אֶת־דָּוִד בְּכֹל אֲשֶׁר הָלָךְ → *And Jehovah gave victory to David whithersoever he went* (8.6, 8.14): the light verb heads on *victory* (rule 44); the object marker takes the *to* the English phrase needs to reach its object (rule 16); בְּכֹל אֲשֶׁר fuses as *whithersoever* headed on כֹּל as the content-bearing morpheme (rules 30, 23), with the בְּ named as the competing head. Margin 'saved David' read and set aside.",
+    "הַמֶּלֶךְ דָּוִד → *king David* (8.8, 8.10, 8.11): the ASV writes no *the* for the title, so the article is its own `unrepresented` unit (rule 29). BSB represents it; convention difference."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 38 candidate groups end to end. Every waw, article, לְ, מִן, בְּ, אֵת and name treatment that differs across verses is licensed by a different ASV rendering (Then/also/but/And when/that; the Syrians vs Syria; David vs David's; אֵת → *to* only in the two *gave victory to David* clauses; resultative לַ unrepresented in both *became servants* clauses; the article of 'king David' unrepresented in all three verses). No construction is analysed two ways without the source licensing it.",
+    "One correction, 2SA.8.4: וַיּוֹתֵר מִמֶּנּוּ מֵאָה רָכֶב → *reserved of them for a hundred chariots*. מֵאָה רָכֶב is the bare direct object of the hiphil יוֹתֵר (no marker, no preposition), so rule 33's direct-object paragraph sends the supplied *for* to the verb's unit under rule 44 (*reserved … for*, headed on *reserved*, discontinuous around *of them*), not to the numeral. The verse pass placed it under rule 33's first sentence without running that question. Patched; competing reading named in the note.",
+    "2SA.8.18 s005 (waw → *was over*) verified against rule 53's closing paragraph: the ASV follows the עַל of 2SA.20.23/1CH.18.17, the packet records no variant unit in the slot, so the printed English stays on the token the projection carries, headed on *over* under rule 49, with the divergence noted. Left as corrected by the verse pass.",
+    "Left with their notes: 8.2 מְלֹא הַחֶבֶל → *one full line*, the *one* on the rectum's article under rule 41 with the rule-29 competitor named; 8.10 שְׁאָל … לְשָׁלוֹם → *salute* fused across the intervening dative לוֹ, since the one English word carries every morpheme's sense (rule 35's distance reasoning) and leaving שָׁלוֹם unrepresented beside it is what rule 30 forbids; 8.10 הָיוּ → *brought* rather than *brought* added, because a verb stands in the clause and rule 20's added clause requires one that has none; 8.15 periphrastic וַיְהִי unrepresented beside the participle's *executed*.",
+    "BSB disagreements: all thirteen are convention differences — resultative לַ under rule 21 (8.2, 8.6), dative לַ before a bare object under rule 40 (8.5), the unrendered apodosis waw (8.5), articles on 'king David' (8.8, 8.10, 8.11), אִישׁ and יָד dropped by the ASV's recastings (8.10), the marker beside a suffix rendered *these* (8.11), the infinitive subject suffix silenced in the gerund (8.13), and the periphrastic auxiliary (8.15). None is an error.",
+    "No promotions or amendments: nothing here reaches beyond what rules 14, 21, 33, 44 and 53 already state, and the one chapter-specific fusion (8.10 *salute*) has no corpus count to carry it."
+  ]
+}

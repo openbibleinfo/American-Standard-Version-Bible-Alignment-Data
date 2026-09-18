@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "d4850d14e5589d6e01f2073854fb08d0cd32c7b3f40852804c56ab7b5e518b59",
+  "contract_version": "nt-greek-verse-v97",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: all 12 source and all 15 target IDs are covered exactly once across the 11 units, heads all in-array.",
+    "τὸν πονηρόν follows rule 102: the article takes the discontinuous *the … man* and the adjective keeps a bare *wicked*.",
+    "ὑμῶν αὐτῶν is joined into one unit because a single English word spells both tokens (rule 39); the head is the only target token.",
+    "ἐξάρατε keeps *away* while ἐξ takes *from among*: rule 106 strands the extra particle on the verb because *from among* is a complete prepositional expression that does not itself carry the preverb's sense — the contrast with 5:10's *go* / *out of*, where *out* is part of ἐκ's own gloss.",
+    "ὁ before θεός is unrepresented under rule 23, the ASV writing no determiner for it."
+  ],
+  "ref": "1CO.5.13",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

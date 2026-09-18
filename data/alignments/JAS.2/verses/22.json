@@ -1,0 +1,188 @@
+{
+  "alignments": [
+    {
+      "note": "Inflected verb takes its supplied English subject pronoun as a rule 7/9 helper, headed on the lexical verb rather than on 'Thou'.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Reported speech with the complementizer written out, so rule 43's unrepresented case does not apply.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The ASV writes a bare 'faith' with no determiner, so the article anchors nothing (rule 23). No possessive or demonstrative competes here — the verse's single 'his' belongs to αὐτοῦ in the following phrase — so rules 20, 51 and 60 are not in question.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Bare noun.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "'wrought' alone. The accompanying 'with' is treated as realizing the dative of the following noun phrase rather than the verb's compounded συν- prefix; the competing reading takes 'wrought with' as one phrasal rendering of συνεργέω, but rule 36 declines to give a preposition to the verb merely because English idiom makes it phrasal, and rule 20's `τοῦ θελήματος αὐτοῦ` → *of his will* keeps the case preposition on the noun where a possessive has displaced the article.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The determiner slot is occupied by 'his' from the genitive αὐτοῦ, so the article is displaced under rule 20. αὐτοῦ is not spent on any other English word, so rule 76's availability test is satisfied and rule 20 proper applies.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Discontinuous 'with … works' under rule 15: rule 20 keeps the case preposition with the noun where a possessive has displaced the article.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Genitive pronoun rendered by the possessive 'his' (rule 20).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Coordinating conjunction.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Expressed preposition realized by 'by'.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "The ASV gives the noun no determiner ('by works'), so the article has no 'the' to anchor and rule 21 forbids leaving a bare 'by' on it; the preposition stays with the expressed ἐκ (rule 23).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Bare noun after the expressed preposition.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Bare 'faith' again, parallel to s003; same analysis under rule 24.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Bare noun.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Discontinuous 'was … made perfect' under rule 15, the auxiliary riding with the verb under rule 9. Rule 17 heads a resultative rendering on the meaning-bearing complement, as 'make straight' heads on 'straight' and rule 91's `γνωρίζω` → *make known* heads on 'known', so the head is 'perfect' and not 'was' or 'made'.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "JAS.2.22",
+  "review_notes": [
+    "Reviewed against the token table: all 15 source and all 15 target ids are partitioned exactly once, every aligned unit has nonempty arrays with both heads inside them, and every unrepresented unit has an empty target and a null target head. The accepted alignment is correct and is returned with its units unchanged.",
+    "Corrected a miscount in the accepted review notes: four articles are left unrepresented, not three. s006 by rule 20 displacement (αὐτοῦ → 'his'); s003, s011 and s013 by rule 23, the ASV writing no determiner for either 'faith' or the second 'works'. s011 additionally has an expressed ἐκ carrying 'by', so rule 21 has nothing left for it.",
+    "The one genuinely contested unit is 'with' (t006), given to ἔργοις as the dative's case preposition rather than to the compound συνήργει. Checked and kept: rule 20's worked example puts the case preposition on the noun where a possessive has displaced the article, and rule 36 refuses a preposition to a verb merely because the English reads as phrasal. The competing 'wrought with' reading is named in the s005 note for a later reader.",
+    "Head choices re-reviewed independently of edges per rule 28: 'seest' over 'Thou' (rule 9) and 'perfect' over 'was'/'made' (rules 17 and 91) are the two that could go wrong, and both are settled by unbroken contract precedent rather than by English syntax.",
+    "The packet's interlinear gloss column supplies '[his]' for s003, s011 and s013, but the ASV writes no possessive at those points; the gloss is not evidence of an English word to align to."
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chapter": "2CH.17",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "עַל־יַד before a suffix, rendered next to, is one fused unit under rule 30 (preposition + construct noun), headed on יָד and on next; the suffix takes its own him. Applied identically in 17.15, 17.16 and 17.18.",
+    "An appositional even is placed by whether a morpheme stands on the appositive: in 17.7 the לְ repeated on the first appositive (לְבֶן־חַיִל after לְשָׂרָיו) takes the even as the morpheme marking the apposition (rules 11, 16), while the later repeated לְ on plain list members are unrepresented; in 17.8 the even before Shemaiah, where no morpheme stands, is added. Not a split.",
+    "In the periphrastic וַיְהִי X הֹלֵךְ וְגָדֵל → X waxed great, the linking verb waxed goes to הָיָה (rule 20's copula is whatever verb stands where a copula would), the progressive הֹלֵךְ and its waw are unrepresented; the reverse allocation is defensible and is named in the unit note."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked every multi-treatment lemma in the candidate table against its source context. None is a split: each difference is licensed by the Hebrew (construct vs absolute, presence or absence of an article morpheme, dative לְ rendered bare vs written) or by the ASV writing a different word.",
+    "Article placement is consistent across the chapter: where an article morpheme stands in the phrase it takes the written the (17.2 הַבְּצֻרוֹת, 17.3 הָרִאשֹׁנִים under rule 47; 17.10 הָאֲרָצוֹת and 17.19 הַמִּבְצָר under rule 29), and only an articleless construct takes a supplied the (17.6, 17.7, 17.9, 17.13, 17.14, 17.16).",
+    "עַל־יַד → next to is fused identically in 17.15, 17.16 and 17.18, headed on יָד / next. The dative/possessive לְ after הָיָה is unrepresented with the suffix taking the subject pronoun in both 17.5 and 17.13 (rule 43).",
+    "The appositional even is placed two ways for two different sources, not one: 17.7 gives it to the לְ repeated on the appositive (a present morpheme marking the apposition, note names the competing added reading), while 17.8 marks it added because no morpheme stands before Shemaiah. Left as accepted; recorded as a convention so it is not mistaken for a split.",
+    "17.9 having is added under rule 43's spent-preposition sentence (עִם and its suffix already hold with them); 17.12 waxed is on הָיָה with the progressive הֹלֵךְ unrepresented, the reverse being named in the unit note. Both are judgments, not errors.",
+    "BSB disagreements: the nine R tokens are dative לְ rendered as bare indirect object or object (rule 40 convention); 17.9 waw and 17.12 waw and הֹלֵךְ are the two judgments above. No genuine error found. No promotions or amendments: nothing here generalises beyond what the contract already states."
+  ]
+}

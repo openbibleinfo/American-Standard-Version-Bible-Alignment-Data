@@ -1,0 +1,47 @@
+{
+  "alignments": [
+    {
+      "note": "The article governs φιλαδελφία, whose English realization *love* carries no determiner; the *the* at t004 belongs inside the compound noun's rendering as the determiner of *brethren*, not to this article. Rule 23, with rule 21's determinerless clause: an article with no English *the* to anchor realizes nothing. Giving it t004 was the competing reading and is rejected because that *the* determines *brethren*, a word supplied to render the second element of the compound, not the noun the article governs.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "One Greek compound noun rendered by the English phrase *love of the brethren*; the case preposition *of* and the determiner ride with the noun's own expression under rules 7 and 21. Rule 91's lemma test decides the head and it is directly attested: all three corpus units of `φιλαδελφία` head the word carrying the φιλ- sense — 1PE.1.22 → *love of the brethren* on *love*, and 2PE.1.7 twice → *brotherly kindness* on *kindness*, whose note says in terms that *kindness* is that element and *brotherly* the ἀδελφ- modifier and that English word order does not decide it. So the head stays on *love*, which is also the English phrase's lexical nucleus, rather than on its formal complement *brethren*. 1PE.1.22 is the one hedged precedent and concedes *brethren*, so that reading remains defensible; the two unhedged 2PE.1.7 units are what carry the choice.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Third-person imperative rendered by the periphrastic *Let … continue*, discontinuous under rule 15. The auxiliary *Let* is the inflection-licensed helper under rules 7 and 9, and rule 17 heads the unit on the lexical verb *continue* rather than on the finite auxiliary.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t006"
+      ],
+      "target_head": "t006"
+    }
+  ],
+  "ref": "HEB.13.1",
+  "review_notes": [
+    "All three source ids and all six target ids partitioned exactly once.",
+    "s001 unrepresented under rule 23; a reference comparison may report it as a disagreement if t004 is credited to the article, but the *the* determines the supplied *brethren*."
+  ]
+}

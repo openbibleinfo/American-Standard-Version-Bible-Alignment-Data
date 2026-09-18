@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "chapter": "GEN.14",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.GEN.14.2.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV renders the place name as 'Zeboiim'; this identifies the name but does not distinguish the qere spelling from the ketiv spelling, so both readings remain compatible and the documented base fallback is retained."
+    },
+    {
+      "unit_id": "WLC.GEN.14.8.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV renders the place name as 'Zeboiim'; this identifies the name but does not distinguish the qere spelling from the ketiv spelling, so both readings remain compatible and the documented base fallback is retained."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "chapter": "RUT.2",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.RUT.2.1.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV renders 'a kinsman of her husband's', which both readings support: qere מוֹדַ֣ע and ketiv מידע are the same lexeme for an acquaintance/kinsman, differing only in orthography, and neither spelling surfaces in English. The chapter's only note here, 'Or, valor', is classed alternative_rendering and attaches to 'a mighty man of wealth', so it bears on English wording and not on this reading. No ASV wording, italicized supply, or mapped textual note distinguishes them, so the unit stays underdetermined and the qere base fallback carries the projection."
+    }
+  ]
+}

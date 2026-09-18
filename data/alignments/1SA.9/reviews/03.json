@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "c73e6736421492660a8fd2ae0ff3c31d0c9135e4f8744760582933db40852129",
+  "contract_version": "ot-hebrew-verse-v214",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 31 source morphemes and 30 target tokens are partitioned exactly once; the two object markers are `unrepresented` under rule 16 and `אֵת` H854 correctly takes *with* as an ordinary preposition.",
+    "`אֲתֹנוֹת לְקִישׁ` writes a separate English word for the preposition (*of*), so rule 49's fused-genitive case does not arise (rule 11).",
+    "`אַחַד מֵהַנְּעָרִים` splits with *one* on the numeral and *of* on the partitive `מִן`, since a numeral standing in the phrase takes the quantifier word before rule 15's supplied-determiner sentences reach it."
+  ],
+  "ref": "1SA.9.3",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

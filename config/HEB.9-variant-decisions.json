@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "chapter": "HEB.9",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.HEB.9.1.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'Now even the first covenant had ordinances' renders an adverbial kai ('even') qualifying 'the first'; men oun alone accounts for 'Now' but leaves 'even' without a Greek word, so the reading with kai is the one rendered."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.9.3.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The readings differ only in the Greek articles; ASV 'the Holy of holies' is the same English either way, and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.9.9.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is the gender of the relative pronoun (feminine agreeing with the parable, masculine with the time); ASV 'according to which' is ambiguous in English and picks out neither antecedent."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.9.10.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV parenthesizes '(with meats and drinks and divers washings)' and makes 'carnal ordinances' the predicate of 'being only', which requires the nominative dikaiomata; the dative dikaiomasin would join the parenthesized list, so r02 is excluded. The remaining readings differ only by kai, which the English does not settle."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.9.11.v005",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'the good things to come' renders mellonton; the mapped textual_variant note 'Some ancient authorities read the good things that are come' relegates genomenon to the margin."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.9.13.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'the blood of goats and bulls' follows the order tragon kai tauron; the RP reading reverses the two nouns."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.9.14.v007",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'cleanse your conscience' renders hymon, and the mapped textual_variant note 'Many ancient authorities read our' places hemon in the margin."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.9.17.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'it doth never avail' renders mepote ('never'); the marginal question 'Or, for doth it ever . . . liveth?' is the same word taken interrogatively. The split me tote would give 'not then', which the ASV does not render."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.9.19.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is the presence of the Greek article with 'law'; ASV 'according to the law' reads the same whether or not the article stood, and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.9.19.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r01",
+        "r02"
+      ],
+      "evidence": "ASV 'the blood of the calves and the goats' names the goats, so the shorter reading without kai tragon is excluded; the two longer readings differ only in the article before 'goats', which the English does not distinguish."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.9.24.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The readings differ in Greek word order and in the article with Christ; ASV 'For Christ entered not into a holy place made with hands' carries neither distinction into English."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.9.26.v012",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "nyni and nyn are the same adverb with and without the emphatic iota; ASV 'but now' renders either, and the two mapped notes are alternative_rendering notes about other words."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.9.26.v013",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is the article with hamartias; ASV 'to put away sin' is the same English with or without it, and the mapped notes are alternative_rendering notes about other words."
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "alignments": [
+    {
+      "note": "Imperative Ἄγε → Come. The Ἄγε νῦν idiom is spelt over two English words that each answer to a source token, so rule 2 splits it and rule 39's test keeps it from being noncompositional.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Adverb νῦν → now.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Substantival article before a participle: rule 32 gives it the pronoun ye and nothing else, the relativizer staying with the participle. Rule 89's closing clause reaches the same result if the ye is read as a supplied address word, a participle following rather than a noun; rule 90 does not apply, the ASV writing two English words for the pair.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Participle rendered as a finite relative clause; the relativizer that is a rule 7 helper on the participle, headed on the lexical verb say per rules 9 and 17.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Σήμερον → the single adverb the ASV spells apart as To day; one unit under rule 94's spelt-apart-lexeme clause, headed on the meaning-bearing day rather than the initial To (rule 17). No Greek preposition stands here for the To to answer to, so it is not a rule 45 or rule 35 case.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Disjunctive ἤ → or.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "αὔριον → to morrow, the ASV's spelt-apart spelling of one adverb, headed on morrow parallel to To day above (rule 24).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Future indicative supplies subject and auxiliary as rule 9 helpers; head on the lexical verb go.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "εἰς → into.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Attributive demonstrative τήνδε takes the English determiner this.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Article emptied by the attributive demonstrative under rule 38: this already occupies the determiner slot, so the article realizes nothing. Do not split this across the two, and do not supply the article a the the ASV never wrote.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "πόλιν → city, bare, its determiner having gone to the demonstrative.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Expressed καί → and.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "ποιήσομεν in its idiomatic sense of spending time → spend. The ASV spells both elements of ποιέω + ἐνιαυτόν out, so rule 73's contrast holds and rule 2 splits the pair rather than joining verb and time-noun. The future auxiliary is not repeated in the English, the will of t012 carrying the coordinated verbs.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "ἐκεῖ → there; reordered past the object phrase, which rule 15 permits.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Anarthrous ἐνιαυτόν with the ASV's supplied indefinite: no article competes, so a is an ordinary helper on the word it determines under rule 51's anarthrous clause and rule 7, headed on year.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Expressed καί → and.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "ἐμπορευσόμεθα → trade.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Expressed καί → and.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "κερδήσομεν → get gain, a support-verb rendering in which get is the empty verb and gain glosses the κερδ- lexeme; rule 91's operational test heads it on gain, the corpus spending gain on that family (κέρδη → gain at PHP.3.7, κερδήσω → gain at PHP.3.8), exactly as bear witness heads on witness. A head on get would rest only on English syntax, which rule 17 forbids.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t025",
+        "t026"
+      ],
+      "target_head": "t026"
+    }
+  ],
+  "ref": "JAS.4.13",
+  "review_notes": [
+    "Reviewed and left unchanged; only notes were tightened. All 20 source and 26 target IDs are partitioned exactly once, every aligned unit has nonempty arrays with both heads inside them, and the single unrepresented unit (s011) has an empty target and a null target head.",
+    "s011 is the only empty unit and is licensed by rule 38: εἰς τήνδε τὴν πόλιν puts a demonstrative in the English determiner slot, so the article realizes nothing. A reference comparison reporting it as a disagreement is not a correction.",
+    "s003/s004 checked against rules 32, 89 and 90. The ASV writes two English words for the article-plus-participle pair, so rule 90's single-word case does not apply and the ordinary split stands: ye to the article, that say to the participle. Whether the ye is read as rule 32's pronoun or rule 89's supplied address word changes nothing, since rule 89's closing clause defers to rule 32 where a participle follows.",
+    "s005 and s007 are analysed alike as single adverbs the ASV spells apart (rule 24), each one unit headed on the meaning-bearing second token. The competing reading — treating To and to as separate helpers, or leaving them to nothing — was rejected: no Greek preposition stands there, so rules 35 and 45 are not in question, and rule 94 names an English adverbial that is one lexeme spelt apart as staying whole.",
+    "s014 was checked against rule 73 and does not fall under it. ποιέω + ἐνιαυτόν is a light-verb pair, but the ASV spells both elements out as spend and a year, which is rule 73's stated contrast, so rule 2 splits them.",
+    "The clause's four future verbs share the single English will of t012, which stays inside s008's unit; no auxiliary was duplicated into s014, s018 or s020, and none of those units is short an obligatory helper as a result.",
+    "s020's head on gain rests on rule 91's query rather than on English syntax; a head on get would be the recurring failure that rule names."
+  ]
+}

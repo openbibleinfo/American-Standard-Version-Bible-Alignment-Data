@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "chapter": "2TH.1",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.2TH.1.2.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 1:2 reads \"from God the Father\" with no possessive; the ASV renders ἡμῶν elsewhere in the salutation formula when present (cf. \"our Lord Jesus Christ\"), so the bare \"the Father\" distinguishes πατρὸς without ἡμῶν."
+    },
+    {
+      "unit_id": "SBLGNT.2TH.1.4.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "A pure word-order variant: αὐτοὺς ἡμᾶς and ἡμᾶς αὐτοὺς both yield ASV \"we ourselves\". The only note on 1:4 is an alternative_rendering on \"patience\", which cannot decide a reading."
+    },
+    {
+      "unit_id": "SBLGNT.2TH.1.4.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἐγκαυχᾶσθαι and its simplex καυχᾶσθαι are both rendered \"glory\" in English; the ASV supplies no intensive wording that would mark the compound, and the verse's only note is an alternative_rendering on \"patience\"."
+    },
+    {
+      "unit_id": "SBLGNT.2TH.1.8.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The ASV text shown for 1:8 begins at \"rendering vengeance\" and contains no rendering of the φλογὶ πυρός / πυρὶ φλογός phrase at all, so nothing in this verse distinguishes the order; the sole note is a greek_gloss on \"gospel\"."
+    }
+  ]
+}

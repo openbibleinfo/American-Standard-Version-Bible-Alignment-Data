@@ -1,0 +1,17 @@
+{
+  "alignment_sha256": "c9fcb3c6e43f9b1c240ae01dfc886d3360f6a7adfa4cfe94b21c6a7caa69e8a3",
+  "contract_version": "nt-greek-verse-v63",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed against the accepted alignment and left the unit structure and all heads unchanged; the only edit is to the s007 note, which cited rule 42 for the riding-along for. Rule 42 governs an improper preposition and none is expressed here, so the citation now rests on rule 21 alone.",
+    "Every s### and t### id is partitioned exactly once; no unit is empty on both sides, and every unit is aligned with both heads members of their arrays.",
+    "s007 τοῖς: taken under rule 32 (pronoun only, participle keeps that make) rather than rule 22 (whole them that on the article), because a participle follows. The competing reading would put t010-t012 on the article; rule 32 forbids it in terms.",
+    "s001 is anarthrous, so the supplied the is a rule 7 helper on the noun under rule 51's anarthrous clause, not evidence of an article to align and not an article to leave unrepresented.",
+    "s003 takes of + righteousness whole because no article stands to anchor a the; rule 21 forbids leaving a bare of on an article, and rule 23's determinerless case keeps the preposition on the noun.",
+    "Variant SBLGNT.JAS.3.18.v013 is underdetermined with r00-base among the compatible readings and carries no FALLBACK EXCLUDED BY EVIDENCE mark, so rule 97 does not apply and rule 12 bars revisiting the reading inside this file.",
+    "The two εἰρήνη tokens (s005 dative, s009 accusative) stay separate units under rule 2; the shared lexeme is no reason to join them."
+  ],
+  "ref": "JAS.3.18",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

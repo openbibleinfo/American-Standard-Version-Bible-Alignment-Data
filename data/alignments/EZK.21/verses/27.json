@@ -1,0 +1,230 @@
+{
+  "alignments": [
+    {
+      "note": "The ASV renders the tripled noun by a tripled verb; each occurrence is its own unit (rule 22).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The verb's own lexeme (make/set) is not rendered; only its subject and modal are, so the head falls on the auxiliary that carries the imperfect. The competing reading heads on I.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Negation rendered no more, headed on no.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "No suffix stands on the infinitive, so the supplied subject pronoun belongs to the infinitive itself (rule 18's closing clause).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "אֲשֶׁר־לוֹ is rendered by the single word whose, which carries the relative, the possessive preposition and the suffix; the three share one unit (rule 30), headed on the relative.",
+      "source": [
+        "s012",
+        "s013",
+        "s014"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "The ASV writes no the for this phrase (rule 29).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The clause is verbless; its construction-supplied it is joins the sole overt nominal anchor (rule 20).",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018",
+        "t019"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022",
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "The object suffix takes the English object pronoun (rule 18).",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "The italic him is a supplied indirect object; only one suffix stands on נְתַתִּיו and it is already rendered by it (rules 22, 30).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t025"
+      ],
+      "target_head": "t025"
+    }
+  ],
+  "ref": "EZK.21.27",
+  "review_notes": [
+    "The Hebrew gloss note An overthrow, overthrow, overthrow, will I make it explains the noun triplet; the ASV's verbal recasting is what is aligned."
+  ]
+}

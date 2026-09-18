@@ -1,0 +1,32 @@
+{
+  "chapter": "EXO.35",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "EXO.35.24"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Construct kol takes only its own quantifier word (every, all, any); a noun or pronoun the ASV supplies as the phrase's antecedent joins the substantive kol governs, under rule 46 - kol-hakham-lev gives 'wise ... man' to the adjective (35.10), kol-'ish gives 'one' to the noun (35.21), kol-merim gives 'one that did offer' to the participle (35.24). Absolute kol has no substantive under it and so takes the supplied noun phrase itself: 'every one' (35.21), 'as many as' (35.22), 'every man' (35.24). A following 'asher clause does not make it construct. The fixed quantifier phrase 'all manner of' is kol's own rendering under rule 31, since the noun it governs keeps its own English word (35.31, 35.33, 35.35).",
+    "tola'at shani is rendered by the single word 'scarlet' and fuses under rule 30, headed on shani, which carries the lexeme (35.6, 35.23, 35.25, 35.35); an article standing inside the chain is read separately under rule 29 and takes a written 'the' (35.25) or goes unrepresented where none is written (35.35). The compounds 'orot tehashim to 'sealskins' (35.7, 35.23) and lehem happanim to 'showbread' (35.13) fuse on the same terms, headed on the construct noun whose sense the English compound spells out, with the intervening article again read separately.",
+    "'asher together with the possessive suffix on the following subject noun is rendered by the single word 'whose' and is one fused unit under rules 30 and 35, headed on the relative, the unit standing across the intervening words (35.21, 35.26, 35.29). Where the ASV instead writes a preposition and 'whom' - 'with whom' for 'asher ... 'itto - the preposition takes its own word under rule 11 and the resumptive suffix is unrepresented under rule 22 (35.23, 35.24).",
+    "Multi-morpheme fusions under rule 30 are recorded here with status aligned rather than noncompositional, throughout the chapter (whosoever at 35.2, throughout at 35.3, scarlet, sealskins, showbread, whose, 'asher-lo to 'its' at 35.16, beyad to 'by' at 35.29). The corpus does both - it records waw plus lo' as neither in 106 noncompositional units and 103 aligned ones - so this is a chapter-level choice and not a reading of the rule.",
+    "A correlative 'both ... and' belongs to the morpheme that does the joining, which need not be a waw. At 35.22 no waw stands in the clause and the preposition 'al joins the two nouns, so it takes the pair and heads on the closing 'and' (rule 11); at 35.34 a waw is present and takes it under rule 14, the explicit pronoun hu' keeping only its own 'he'."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v74",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "One genuine cross-verse split: construct kol governing an anarthrous substantive. 35.10 (kol-hakham-lev to 'every wise hearted man'), 35.21 (kol-'ish to 'every one'), 35.22 and 35.29 all give construct kol only its own quantifier word and let the following morpheme carry the English noun; 35.24's opening kol-merim to 'Every one that did offer' gave the supplied antecedent 'one' to kol instead. Nothing in the source licenses that difference: 'one that' is the antecedent-plus-relative that rule 46 gives to a bare participle, exactly as 35.35 gives 'them that' to 'osei and 'those that' to hoshevei. Patched 35.24 alone: kol takes 'Every', the participle takes 'one that did offer', headed on 'offer'.",
+    "The absolute kol units (35.21 s011, 35.22 s008, 35.24 s012) are a different construction and stand as they are: with no substantive under it, kol is itself the anarthrous substantive needing an English noun phrase, which is how the corpus reads its fifteen 'every one' units. The multi-word 'all manner of' (35.31, 35.33, 35.35) is likewise kol's own rendering under rule 31, since the noun it governs keeps its own English word.",
+    "Candidates checked and rejected as ASV-licensed rather than split: 'even' on the waw at 35.22 but added at 35.35 (35.22 has a waw; 35.35 has neither waw nor a marker on the phrase the word introduces); the italic 'and' added at both 35.21 and 35.22 on the same reading; 'asher plus suffix fused to 'whose' at 35.21, 35.26, 35.29 against 'with whom' at 35.23 and 35.24, where a written preposition takes its word and the resumptive suffix goes unrepresented under rule 22; supplied object pronouns added at 35.23 and 35.24 against the suffix-bearing 'let him bring it' at 35.5; tola'at shani, 'orot tehashim, lehem happanim and beyad fusing under rule 30 while millifnei splits, each decided by the one-English-rendering test.",
+    "Article placement was verified chain by chain through 35.8-35.28 by counting the ASV's 'the's and reading which word each stands before. Every chain agrees with rule 29: a single written 'the' goes to the rectum's article (35.8, 35.13, 35.15 first chain, 35.16, 35.19, 35.21, 35.27, 35.28), two written 'the's put a supplied one on the construct and the written one on the article (35.12, 35.14, 35.15 screen chain, 35.17, 35.18), and where the ASV writes none the article is unrepresented (35.2, 35.16, 35.22, 35.32, 35.35).",
+    "BSB: none of the 17 disagreements is an error. The Td, To and Sp3ms recurrences are the documented convention difference - articles for which the ASV writes no 'the', object markers under rule 16, resumptive suffixes under rule 22. The le of le'mor at 35.4 is rule 27, and the li of millifnei at 35.20 is rule 30's unmet one-rendering condition, with min taking 'from' and paneh 'the presence'. No accepted edge was moved for the aggregate.",
+    "Conventions: five recorded. The 61 repeating verse notes the validator flags are mostly restatements of rules 15, 16, 19, 28 and 29, which bind every verse already; only the judgments a later reader could not re-derive from the contract are logged.",
+    "No promotion. The obvious candidate was a rider to rule 46 on a quantifier competing with the substantive for a supplied noun, but the corpus contradicts it: it aligns a construct kol to 'all ye' in four units and to 'everything' in five, so the generalisation is not safe outside this chapter and is recorded as a chapter convention instead."
+  ]
+}

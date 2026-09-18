@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "chapter": "1TI.5",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.1TI.5.5.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The article before θεός is not rendered in English: ASV 'hath her hope set on God' reads identically for θεὸν and τὸν θεὸν, and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.5.8.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'and specially his own household' shows nothing that would distinguish μάλιστα from μάλιστα τῶν; the genitive article leaves no English trace."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.5.8.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Active προνοεῖ and middle προνοεῖται carry the same sense with the same subject; ASV 'if any provideth not for his own' renders either, and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.5.16.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV limits the condition to a woman — 'If any woman that believeth hath widows' — with no 'believing man or' answering RP's added πιστὸς ἤ, so the shorter τις stands."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.5.16.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'let her relieve them' keeps the believing woman as the one who relieves, which both the active ἐπαρκείτω and the middle ἐπαρκείσθω permit; the English does not expose the voice."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.5.20.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV opens 'Them that sin reprove' with no connective, but an unrendered δέ is unremarkable in ASV; the absence of 'but'/'and' does not settle whether δέ stood in the text."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.5.21.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'and Christ Jesus' — the two-name order without κυρίου, where RP's κυρίου Ἰησοῦ Χριστοῦ would give 'the Lord Jesus Christ'. The mapped note is alternative_rendering (on 'prejudice') and bears on wording only."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.5.23.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'thy stomach's sake and thine often infirmities' has a σου in the base text attached to ἀσθενείας, and English idiom requires a possessive with 'stomach' regardless; 'thy' therefore does not require the added σου."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.5.25.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The mapped note gives the Greek as 'the works that are good are evident' — the articular attributive ἔργα τὰ καλά — rather than the plain attributive καλὰ ἔργα of RP."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.5.25.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The copula in ASV 'there are good works that are evident' (and in the note's gloss 'are evident') is required by English whether or not ἐστίν stood in the Greek."
+    }
+  ]
+}

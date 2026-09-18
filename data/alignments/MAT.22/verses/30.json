@@ -1,0 +1,192 @@
+{
+  "alignments": [
+    {
+      "note": "Preposition.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Article as *the* (rule 19).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Correlative negative conjunction.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Finite verb with its supplied subject, discontinuous under rule 15; head on the lexical verb (rule 9).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Correlative negative conjunction.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "γαμίζω rendered *are given in marriage*. Rule 91's operational test puts the head on the word the corpus spends on the lexeme: the γαμ- family is spent on *marry* and *marriage* — γαμοῦσιν → *marry* in this same verse, γάμος → *marriage*/*wedding* at 22:2, 22:3, 22:4, 22:8, 22:9 and 22:10 — and never on *give*, which the corpus spends on δίδωμι (22:17). *given* is the phrase's formal English verb head, which rule 17 forbids choosing for that reason alone, so the head is *marriage*, as *make known* heads on *known* and *bear witness* on *witness*. Heading on *given* under rule 9's plain-passive reading remains defensible and is the reading this unit previously carried.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Comparative adverb; no correlative καί stands, so rules 82 and 100 are not in question.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Anarthrous noun.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "The ASV gives *heaven* no determiner, so the article has nothing to anchor (rules 21, 23).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Expressed copula, discontinuous under rule 15.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "MAT.22.30",
+  "review_notes": [
+    "Corrected the target head of s008 from *given* to *marriage* under rule 91: the corpus spends the γαμ- root family on *marry* and *marriage*, never on *give*, and *given* could only have been chosen as the English phrase's formal verb head, which rule 17 refuses.",
+    "Variant v019 covers no source token; nothing to align for it.",
+    "Edges are unchanged throughout; the ASV's *in* inside *given in marriage* answers to no Greek preposition and stays inside the verb's unit."
+  ]
+}

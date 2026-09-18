@@ -1,0 +1,132 @@
+{
+  "alignments": [
+    {
+      "note": "Relative pronoun → which.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Expressed copula → are.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Anarthrous predicate noun with its supplied indefinite determiner as a rule 51 helper.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Rule 22: a substantival article takes the supplied nominal with its own determiner, headed on the nominal word, and the case preposition of rides along under rule 21.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Participle rendered by the infinitive to come; the infinitival marker is a rule 7 helper on its verb, no conjunction governing the clause.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Postpositive δέ → but.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Article → the.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Subject noun σῶμα → body, standing bare.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Rule 20: the ASV writes Christ's with the possessive on the name itself, so this article realizes nothing.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rule 63: the subject is a lexical noun, so the supplied copula is the predicate's helper and rides with the possessive predicate, headed on the word realizing the name.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "COL.2.17",
+  "review_notes": [
+    "The copula is placed on the predicate under rule 63 rather than on σῶμα, the subject being a noun and not a pronoun; rule 53 has already refused to read a supplied copula off English word order.",
+    "Variant SBLGNT.COL.2.17.v015 is underdetermined on r00-base and covers s009, an article the ASV does not realize in any reading; rule 97 is not in play."
+  ]
+}

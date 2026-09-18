@@ -1,0 +1,203 @@
+{
+  "alignments": [
+    {
+      "note": "Postpositive δέ realized by the opening And.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Name.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Name.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Finite verb.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Rule 97: textual unit SBLGNT.ACT.12.25.v021 is marked FALLBACK EXCLUDED BY EVIDENCE, its compatible readings being r01 and r02 while the projection carries r00-base εἰς. The ASV reads from Jerusalem, noting that many ancient authorities read to Jerusalem, so no English word in this verse answers to the projection's εἰς and this token stands as a surplus unrepresented unit. Rule 12 is untouched: this is a statement about what the English realizes, not a new textual decision.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rule 97: from answers to the preposition of readings r01/r02 of SBLGNT.ACT.12.25.v021, which the evidence leaves as the compatible readings, whereas the projection carries r00-base εἰς. No token of the projection licenses this word, so it is added rather than folded onto ὑπέστρεψαν or Ἰερουσαλήμ.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Name.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Rule 86: the participle licenses the supplied when; subject and auxiliary ride along under rules 7 and 9. Head on fulfilled.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Rule 20's second arm: no possessor token stands in the phrase, so the supplied their is the article's own.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Bare noun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Rule 106: the preverb συν- is realized by with them and rides inside the compound verb's unit, no Greek preposition standing to answer to it; head on the verb word taking. Textual unit SBLGNT.ACT.12.25.v022 selects the base.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015",
+        "t016"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Name.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Rule 32: the substantival article before a participle supplies the relativizing pronoun whose, and nothing else.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Rule 91: surname is the word that glosses ἐπικαλέω here, and the copula rides along under rule 9.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Name.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    }
+  ],
+  "ref": "ACT.12.25",
+  "review_notes": [
+    "The excluded-fallback unit v021 is handled under rule 97 from both sides: the projection's εἰς is unrepresented and the ASV's from is added, each note naming the unit id and the readings that remained.",
+    "with them at t015–t016 rides inside συμπαραλαβόντες's unit under rule 106, no preposition being expressed."
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chapter": "JDG.15",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "A supplied indefinite article in a numeral phrase goes to the word it stands before, and a numeral the ASV leaves with no English of its own is `unrepresented`. `אֶלֶף אִישׁ` → *a thousand men* (15.15, 15.16) gives *a thousand* to the numeral, which is the word the *a* determines, and *men* to `אִישׁ`; `לַפִּיד אֶחָד` → *a firebrand* (15.4) gives *a firebrand* to the noun under rule 15 and leaves the postposed `אֶחָד` nothing, no distributive *each* or *every* being written for it there. Rule 15's direction to read the noun of the expression rather than its leftmost word governs a supplied *the* before a numeral and its counted noun and does not reach these, where the ASV's one determiner stands before the numeral's own word in the first shape and before the noun's own word in the second. BSB represents the 15.4 numeral; the competing reading is named in that unit's note.",
+    "At 15.19 the second element of `עֵין הַקּוֹרֵא` arrives as a single source token whose lemma field reads `הַ` while its surface is `הַקּוֹרֵא֙` and its morphology `Np`. It is aligned to the transliterated *hakkore* as an ordinary proper-name unit: the surface and morphology govern over the lemma field, as rule 39 directs for a gloss that contradicts them. Rule 29's spelled-into-the-name sentence is not what decides this — no separate article token stands here to be counted — so a later reader auditing lemma `הַ` occurrences should not read this one as an article left holding a name."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v184",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 43 candidate lemmas bucket by bucket, plus the five `added` units and every BSB disagreement. No cross-verse split found: every difference is licensed by the source or by what the ASV wrote.",
+    "Connectives: the waw's word tracks the ASV clause by clause (And / Then / But / therefore / and when / unrepresented), and each clause's conjunctions were counted against its connectives. `הֲ` takes the fronted copula at 15.2, where the ASV writes *is*, and is unrepresented at 15.11, where the question is marked by inversion alone (rule 17). `כִּי` is *that* under *thought* at 15.2 and adversative *but* after *No* at 15.13. `עַד` is unrepresented at 15.5, where the waw beside it already carries the range's connective (rule 26), and takes *unto* at 15.14 and 15.19, where no waw stands.",
+    "Articles are the largest group and are uniform under rules 29, 41 and 47: a written *the* goes to the article standing before its own word (15.6 *the Timnite*, 15.18 *the uncircumcised*), a supplied one to the construct (15.8, 15.11, 15.12, 15.14, 15.16, 15.18, 15.19, 15.20), and the article is unrepresented wherever another morpheme licenses the phrase's single determiner — the demonstrative pronoun at 15.17, 15.18 and 15.19, the suffix at 15.2 — while at 15.3 and 15.4, where no such morpheme stands in the phrase, the article itself takes the written *This* and *every*. 15.3 set against 15.18, and 15.4 set against 15.17, is rule 41's limit applied both ways in one chapter rather than a split.",
+    "The five `added` units each survive a count: *them* at 15.5 (no object morpheme on `וַיְשַׁלַּח`, as against 15.2's *take her*, which realizes `תְּהִי`'s own person and number under rule 44); *also* at 15.5 (that waw already holds the *and*, rule 51); *and* at 15.8 in *hip and thigh* (no conjunction morpheme in the phrase, and rule 14 forbids folding a coordinator into the `עַל` standing beside it); *When* at 15.14 (asyndetic clause, as against the written waws that take *and when* at 15.5 and 15.19 under rule 55); *that* at 15.11 (a finite clause juxtaposed to a written antecedent with no `אֲשֶׁר` in it, as against the written relatives at 15.14 and 15.19).",
+    "The presentative `הָיָה` frame is read identically at 15.1 and 15.17: the verb takes *it came to pass* and the apodosis waw takes the *that*, which the ASV writes at that clause's head (rule 45). Preposition-plus-suffix fusions are likewise uniform: `בָּהּ` → *therewith* (15.15) and `מִמֶּנּוּ` → *thereout* (15.19), each one unit headed on the preposition (rules 22, 30).",
+    "BSB disagreements: none is a genuine error. The Td × 8 and R × 4 groups, the two paragogic nuns, the object marker at 15.8 and the suffix at 15.2 are the documented convention difference, BSB attaching a morpheme to its host where this project marks it unrepresented. The individually named ones are all decided judgments carrying their own verse notes — `אֶחָד` at 15.4 (rule 15, competing reading named in the unit), `בַּ` at 15.5 (the object promoted to a bare direct object, rule 40), `לַ` at 15.17 (passive recasting, rule 40), `הֲ` at 15.11 (inversion alone, rule 17), and the three unrendered waws at 15.5, 15.14 and 15.19, each counted against the connectives the ASV wrote in that clause.",
+    "Two conventions recorded. No promotion: everything this chapter decided is already governed by a rule in the contract, and the one judgment worth keeping — how an indefinite article is allocated between a numeral and its counted noun — turns on where the ASV wrote the determiner and is too thin to widen rule 15 on a single chapter's evidence."
+  ]
+}

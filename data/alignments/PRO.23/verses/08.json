@@ -1,0 +1,150 @@
+{
+  "alignments": [
+    {
+      "note": "Noun with a supplied definite article (rule 15).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The ASV writes no possessive for the suffix, rendering the noun definite instead (rules 18, 22).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Relative supplied over an asyndetic finite clause juxtaposed to a written antecedent; no morpheme licenses it (rule 55).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Finite verb with subject pronoun and auxiliary; head on the lexical verb (rules 17, 24).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Finite verb with auxiliary and subject pronoun; *up* is the phrasal particle completing the lexeme (rule 44).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Object suffix left unrendered, the object having been fronted (rule 22).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Waw → *And*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Finite verb.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Possessive suffix (rule 18).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "The phrase's single determiner is the suffix's *thy*; the agreement article takes nothing (rules 41, 47).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Attributive adjective.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "PRO.23.8",
+  "review_notes": [
+    "Competing reading for t003: give *which* to the suffix under rule 18; rejected because the suffix's referent is the addressee, not the morsel the relative modifies."
+  ]
+}

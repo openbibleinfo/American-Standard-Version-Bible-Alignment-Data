@@ -1,0 +1,162 @@
+{
+  "alignments": [
+    {
+      "note": "Causal particle.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb with subject pronoun (rule 17).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Negative, postposed in English (rule 25).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Conditional particle and negative fused into one English word carrying both senses (rules 30, 35); headed on the negative, which is what distinguishes except from a bare if.",
+      "source": [
+        "s004",
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Hiphil rendered as light verb plus complement, headed on evil, which carries the lexeme (rule 44).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Waw rendered And.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Passive verb with copula and particle, headed on the lexical verb (rule 24).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013",
+        "t014"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Subject noun.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Suffix rendered by the possessive (rule 18).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Conditional particle and negative fused into unless, as in the parallel colon (rules 30, 35).",
+      "source": [
+        "s011",
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Hiphil with its subject pronoun and infinitive complement, discontinuous around the supplied object (rule 25), headed on the lexical verb.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017",
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Supplied object noun that does not carry the verb's lexeme, so it answers to no morpheme (rule 44).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    }
+  ],
+  "ref": "PRO.4.16",
+  "review_notes": [
+    "The variant unit WLC.PRO.4.16.v001 selected the base reading, which covers s013 and is compatible with the ASV; no fallback exclusion arises under rule 53.",
+    "except and unless each fuse a conditional particle with its negative, headed on the negative (rules 30, 35).",
+    "some is a supplied object naming a participant the Hebrew does not write, and is added (rule 44)."
+  ]
+}

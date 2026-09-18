@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "chapter": "2KI.14",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2KI.14.2.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV spells the name Jehoaddin, transliterating the ketiv יהועדין with its final -in; the qere יְהוֹעַדָּן would give Jehoaddan."
+    },
+    {
+      "unit_id": "WLC.2KI.14.6.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'nor the children be put to death for the fathers' is passive, rendering the hophal qere יוּמָת; the ketiv qal ימות would read 'nor the children die'."
+    },
+    {
+      "unit_id": "WLC.2KI.14.7.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'the Valley of Salt' is a construct name whose English article cannot show whether the Hebrew carried the article (ketiv המלח) or not (qere מלח); the note on Sela is alternative_rendering and does not touch this unit."
+    },
+    {
+      "unit_id": "WLC.2KI.14.12.v004",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'they fled every man to his tent' is singular, matching the ketiv לאהלו; the qere plural לְאֹהָלָיו would be rendered 'his tents'."
+    },
+    {
+      "unit_id": "WLC.2KI.14.13.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Jehoash ... took Amaziah ... and came to Jerusalem, and brake down' keeps a single subject through the verb chain, rendering the singular qere וַיָּבֹא; the ketiv plural ויבאו would require 'and they came'."
+    }
+  ]
+}

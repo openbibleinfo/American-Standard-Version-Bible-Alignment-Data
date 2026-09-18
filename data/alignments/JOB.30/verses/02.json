@@ -1,0 +1,158 @@
+{
+  "alignments": [
+    {
+      "note": "גַּם rendered by the connective *Yea* (rule 14).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Construct noun with a supplied *the*, no article morpheme present (rule 29).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Nomen rectum takes the *of* of the chain (rule 19); discontinuous around the possessive (rule 25).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Suffix → possessive *their* (rule 18).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Preposition and interrogative fused into the single word *whereto* (rule 30), headed on the interrogative, which carries the lexeme.",
+      "source": [
+        "s005",
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "*should it profit* is a wholly supplied lexical verb with its dummy subject; the Hebrew clause has no verb at all (rule 20).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Dative לְ left with no English word by the recasting *profit me* (rule 40).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Suffix → object pronoun *me* (rule 18).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Preposition עַל → *in* in the ASV's relative recasting.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "The ASV recasts this suffix's clause as a relative clause and supplies the lexical noun *Men* naming its referent for the relative to modify; both words realize the suffix in one unit, discontinuous around the preposition's own *in* (rules 18 and 25), and neither is `added`. Head on the noun carrying the referent, as JOB.30.13 heads *men that* on *men*; heading on the relative *whom* was the competing reading and is named here under rule 8.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t014"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "*ripe age* for כֶּלַח; *age* alone is any age, so the head falls on the distinguishing word (rule 31). Reading the head on *age* was available and is named here under rule 8.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Finite verb with its auxiliary (rule 24).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    }
+  ],
+  "ref": "JOB.30.2",
+  "review_notes": [
+    "Reconciliation with JOB.30.13: *Men* is no longer `added`. The same construction stands in both verses — a 3mp suffix whose clause the ASV recasts as a relative clause with a supplied antecedent noun — and rule 18 gives the whole expression to the suffix. Rule 17's supplied-subject sentence governs a noun supplied as the subject of a finite verb; *Men* is the antecedent of *whom*, and the clause's subject is *ripe age*.",
+    "*should it profit* is treated as a supplied lexical verb rather than a construction-supplied copula, since *profit* predicates an event the Hebrew never writes (rule 20).",
+    "The margin's *Or, vigor* was read and set aside; the printed *ripe age* is what is aligned (rule 38)."
+  ]
+}

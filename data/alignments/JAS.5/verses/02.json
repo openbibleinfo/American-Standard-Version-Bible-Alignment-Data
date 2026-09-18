@@ -1,0 +1,129 @@
+{
+  "alignments": [
+    {
+      "note": "Rule 20: the genitive pronoun hymōn is present and free to carry the English possessive Your, so the article realizes nothing.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive pronoun rendered by the fronted possessive Your, displacing the article under rule 20.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Noun stands bare, its determiner slot taken by the possessive.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Perfect indicative rendered by the periphrastic are corrupted; rules 9 and 17 put the head on the lexical verb rather than the copular auxiliary.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Expressed conjunction aligned to and.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Rule 20 again: hymōn is present to take the possessive your, so this article realizes nothing.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive pronoun rendered by the possessive your.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Noun stands bare under the displaced determiner.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "gegonen 'have become' is rendered by the bare copular are; the predicate adjective keeps its own English under rule 2, so the verb takes only are. Rules 53 and 96 are not in play, the clause being verbless in neither Greek nor English: the copula is expressed by gegonen rather than supplied, so reading are as a rule 7 helper on the adjective and leaving gegonen unrepresented is not taken.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The compound adjective setobrota is spelt over two English tokens, moth (sēs) and eaten (-brōtos). Rule 66: neither word is a generic completion, both glossing an element of the lexeme, so the phrase's own modifier-plus-head shape decides it as it does for living creature, and the head goes on eaten. Rule 104's queries do not settle it — setobrotos is a hapax and the sēs and bibrōskō families are unattested in the corpus — so heading on moth as the distinctive element remains defensible.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    }
+  ],
+  "ref": "JAS.5.2",
+  "review_notes": [
+    "Reviewed unchanged: the accepted alignment partitions all 10 source and all 10 target ids exactly once, every head is a member of its array, and no unit needed correction.",
+    "Both articles are rightly emptied under rule 20 by the two genitive pronouns, neither of which is spent on another syntactic role, so rule 76's availability test does not reach them.",
+    "The verse's two verbs are split correctly: sesēpen takes are corrupted headed on corrupted, and gegonen takes the bare are that supports the predicate adjective. Expanded that unit's note to name rules 53 and 96 explicitly, since the English 'are moth eaten' reads like a supplied copula and a later reader will want the reason it is not — the Greek expresses the verb.",
+    "setobrota's head is the one genuinely open choice. Kept eaten and recorded in the unit that rule 104's lemma and neighbouring-class queries return nothing (hapax lexeme, no sēs or bibrōskō precedent), so the reading rests on rule 66's modifier-plus-head shape rather than on corpus usage."
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "alignments": [
+    {
+      "note": "Waw to And.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "took their journey renders the verb with its subject pronoun, headed on the complement (rule 44); discontinuous around first (rule 25).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t004",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Corrected. The preposition, the assimilated article and the adjective share one unit: the ASV writes the single word first for the whole adverbial, so rule 30's one-English-word condition is met, and that rule directs one unit headed on the morpheme carrying the lexeme rather than one rendered morpheme beside others marked `unrepresented`. The corpus aligns the identical בָּ[הַ]רִאשֹׁנָה at ISA.60.9 as one Rd+Td+Aafsa unit to first. The competing reading, which the accepted alignment took, splits the three and leaves the preposition and article `unrepresented` on the ground that v.14 writes in the first place for the same Hebrew; but rule 30 states its condition per occurrence and expressly reads it in both directions, so v.14's four English words defeat the condition there without touching it here.",
+      "source": [
+        "s003",
+        "s004",
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "עַל rendered according to, headed on the lexeme-bearing word (rule 24).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Construct noun with a supplied the.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Rectum with of.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "בְּיַד fused as the single English by (rule 30), headed on the morpheme carrying the lexeme.",
+      "source": [
+        "s009",
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Proper name.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "NUM.10.13",
+  "review_notes": [
+    "Corrected: בָּ (s003), the assimilated article (s004) and רִאשֹׁנָה (s005) are now one aligned unit on the single written first, headed on the adjective. The two `unrepresented` units the accepted alignment carried are gone; no target token moves.",
+    "v.14 keeps its split reading, because there the ASV writes in, the and first place — a word for each morpheme — and rule 30's condition is unmet.",
+    "בְּיַד → by is untouched and remains the contract's own rule 30 example."
+  ]
+}

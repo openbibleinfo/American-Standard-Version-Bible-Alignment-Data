@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "chapter": "1CH.8",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1CH.8.25.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 1CH.8.25 renders the name as 'Penuel', which transliterates the qere פְנוּאֵל (with the -u- vowel); the ketiv פניאל would yield 'Peniel'. The ASV wording distinguishes the qere."
+    }
+  ]
+}

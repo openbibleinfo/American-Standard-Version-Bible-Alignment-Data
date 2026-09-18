@@ -1,0 +1,146 @@
+{
+  "alignments": [
+    {
+      "note": "Support-verb rendering *bear witness*; rule 91 heads μαρτυρέω on *witness* throughout the corpus. Discontinuous under rule 15, the intervening *them* belonging to αὐτοῖς.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "γάρ → *For*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Dative pronoun rendered as the bare object *them*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Reported speech with the complementizer written, so ὅτι is aligned to *that* (rule 43).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Anarthrous noun; the supplied indefinite is a rule 7 helper on the word it determines (rule 51).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Genitive noun with no determiner in English, so the case preposition *for* stays with the noun (rules 21, 23).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Inflected verb with its English subject; rule 9 heads on the lexical verb.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "ἀλλά → *but*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Ordinary negative; no negative indefinite follows, so rules 41 and 59 do not arise.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Multiword English preposition *according to* rendering κατά; headed on the prepositional word.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "ἐπίγνωσιν → *knowledge*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "ROM.10.2",
+  "review_notes": [
+    "*bear … witness* heads on *witness* per rule 91's unbroken corpus line for μαρτυρέω."
+  ]
+}

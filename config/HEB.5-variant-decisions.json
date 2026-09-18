@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "chapter": "HEB.5",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.HEB.5.3.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'and by reason thereof' renders the prepositional phrase without distinguishing the anaphoric pronoun; both δι᾽ αὐτὴν and διὰ ταύτην yield 'thereof'. No mapped textual note. Underdetermined; base fallback carries the projection."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.5.3.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "ASV 'so also for himself' is coreferential with the subject, which all three forms permit: αὑτοῦ and ἑαυτοῦ are reflexive, and αὐτοῦ referring back to the same high priest is idiomatically Englished 'himself'. The distinction is one of breathing and contraction, invisible in translation. No mapped textual note."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.5.3.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'to offer for sins' — περί and ὑπέρ with the genitive are both rendered 'for' in sacrificial contexts and the English does not separate them. No mapped textual note."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.5.4.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'even as was Aaron' renders the comparative particle; καθώσπερ and καθάπερ are equivalent in sense and both give 'even as'. No mapped textual note."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.5.9.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is word order only: πᾶσιν before or after τοῖς ὑπακούουσιν αὐτῷ. ASV 'unto all them that obey him' follows English order regardless, and the only note on the verse is a greek_gloss on an unrelated word. Underdetermined."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.5.12.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text reads 'ye have need again that some one teach you the rudiments of the first principles' — an indefinite subject τινά with τὰ στοιχεῖα as object. The interrogative τίνα would give the margin's 'which are the rudiments', and the ASV prints that only as a note classed alternative_rendering, which by policy does not decide a reading. The main text's 'some one' distinguishes the indefinite τινά."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.5.12.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'have need of milk, and not of solid food'. The 'and' is the ordinary English connective supplied for an asyndetic contrast as readily as it renders καί, so it does not distinguish οὐ from καὶ οὐ. Neither note on the verse is a textual_variant."
+    }
+  ]
+}

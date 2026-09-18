@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "9cad8214a587d28a47c36c6adb005f8d5d6fe5794119cb2bcc36a79c3947d04d",
+  "contract_version": "ot-hebrew-verse-v57",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Twenty source and twenty-eight target tokens partitioned exactly once.",
+    "The two occurrences of מִפְּנֵי are treated differently by design: the first is split because the ASV spends at on the preposition and the presence on פָּנֶה, so rule 30's subtraction test is unmet, and the second fuses to the single word before.",
+    "The italic and (t024) is added: no waw stands between the two prepositional phrases.",
+    "כַּרְמֶל → fruitful field heads on fruitful under rule 31, field alone being any field."
+  ],
+  "ref": "JER.4.26",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

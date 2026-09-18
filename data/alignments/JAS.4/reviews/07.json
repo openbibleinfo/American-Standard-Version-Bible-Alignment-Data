@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "70f673568b1860b54e09e7a50fb0b83be55d937becd1fd0f704f9343fbce4b69",
+  "contract_version": "nt-greek-verse-v64",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed the accepted alignment unit by unit and returned it unchanged; only the notes were tightened to name the tests actually relied on.",
+    "Every s### and t### id is partitioned exactly once; no ids invented. All twelve source tokens and all fifteen target tokens are accounted for, and each aligned unit's heads are members of their own arrays.",
+    "s003 is the only unrepresented unit and the verse's only real judgment call. The competing reading gives it a bare *unto* with *God* standing alone, but rule 21 forbids a bare case preposition on an article the ASV gave no determiner and names this very collocation — `τῷ θεῷ` → *to God*, one unit on the noun — so rule 23 supplies the status. The verse's other article, s007, keeps its *the* under rule 19, which is the contrast rule 21 draws.",
+    "s011/s012 kept separate rather than merged: the ASV spreads the phrase over *from* and *you*, so rule 94's single-English-word precondition for a compound prepositional unit is not met and rules 35 and 45 are not in question.",
+    "Units are listed in target order, which puts s006 (*but*) before s005 (*resist*); the Greek order is the reverse and rule 15 permits it."
+  ],
+  "ref": "JAS.4.7",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "chapter": "JOB.7",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JOB.7.1.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The ASV wording 'upon earth' does not distinguish the qere עֲלֵי from the ketiv על. The note is classed alternative_rendering and therefore does not decide the textual reading; both candidates remain compatible, with the qere retained as the base fallback."
+    },
+    {
+      "unit_id": "WLC.JOB.7.5.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The ASV wording 'clods of dust' does not distinguish the qere וְג֣וּשׁ from the ketiv וגיש. The note is classed alternative_rendering and therefore does not decide the textual reading; both candidates remain compatible, with the qere retained as the base fallback."
+    }
+  ]
+}

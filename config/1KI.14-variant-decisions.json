@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "1KI.14",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1KI.14.2.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere אַתְּ and ketiv אתי are the same independent pronoun (lemma 859 b), tagged HPp2fs in both; the ketiv simply writes a final yod on the archaic form of the 2fs pronoun. ASV \"Arise, I pray thee, and disguise thyself, that thou be not known to be the wife of Jeroboam\" renders either identically, and no note is mapped here. The qere base stands."
+    },
+    {
+      "unit_id": "WLC.1KI.14.25.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "Qere שִׁישַׁ֥ק and ketiv שושק are the same proper name (lemma 7895), tagged Np in both, differing in the vowel letter: yod in the qere, waw in the ketiv. As at 1KI.16.34, the difference survives transliteration — the ASV reads \"Shishak king of Egypt\", carrying the qere's i, where the ketiv consonants would give Shoshak (the form behind the LXX's Σουσακιμ). The name distinguishes the qere."
+    }
+  ]
+}

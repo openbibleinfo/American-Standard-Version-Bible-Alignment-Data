@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "chapter": "REV.12",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.REV.12.2.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'and she crieth out' preserves both καί and the present tense of κράζει, excluding omission of καί and imperfect ἔκραζεν."
+    },
+    {
+      "unit_id": "SBLGNT.REV.12.3.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV order 'a great red dragon' follows μέγας πυρρός; both alternatives reverse the adjectives."
+    },
+    {
+      "unit_id": "SBLGNT.REV.12.5.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Both ἄρσεν and ἄρρενα denote the male child and are compatible with ASV 'a man child'; retain the base fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.12.6.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'prepared of God' does not reliably distinguish agency expressed with ἀπό from ὑπό; retain the base fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.12.6.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r02"
+      ],
+      "evidence": "ASV modal 'may nourish' supports subjunctive τρέφωσιν or ἐκτρέφωσιν and excludes indicative τρέφουσιν, but English 'nourish' does not distinguish the two subjunctives; retain the base fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.12.7.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'going forth to war' may render the articular infinitive or supply the same expansion without τοῦ; retain the base fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.12.8.v007",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV plural 'they prevailed not' directly reflects ἴσχυσαν rather than singular ἴσχυσεν."
+    },
+    {
+      "unit_id": "SBLGNT.REV.12.8.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV plural possessive 'their place' directly reflects αὐτῶν rather than singular αὐτῷ."
+    },
+    {
+      "unit_id": "SBLGNT.REV.12.9.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV has no English article before the proper name 'Satan,' as expected whether Greek ὁ is present or absent; retain the base fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.12.10.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Both κατήγωρ and κατήγορος mean 'accuser' and ASV does not distinguish the forms; retain the base fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.12.10.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'who accuseth them' is compatible with accusative αὐτούς and genitive αὐτῶν under this verb; retain the base fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.12.12.v012",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV vocative 'O heavens' does not establish whether Greek οἱ is present; retain the base fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.12.12.v013",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Woe for the earth and for the sea' reflects the accusative pair τὴν γῆν καὶ τὴν θάλασσαν rather than the dative alternative."
+    },
+    {
+      "unit_id": "SBLGNT.REV.12.14.v014",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'the two wings' may supply an English article whether Greek αἱ is present or omitted; retain the base fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.12.14.v015",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'where she is nourished' directly reflects ὅπου τρέφεται rather than purpose clause ὅπως τρέφηται."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "ref": "1JN.5.21",
+  "alignments": [
+    {"source": ["s001"], "source_head": "s001", "target": ["t001", "t002", "t003"], "target_head": "t003", "status": "aligned", "confidence": "high", "note": "Anarthrous vocative, so no article competes for the determiner slot; the supplied possessive *My* and the adjectival *little* are rule 7 helpers on the noun, and rule 11 keeps the ASV markup from making *My* added."},
+    {"source": ["s002"], "source_head": "s002", "target": ["t004"], "target_head": "t004", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s003"], "source_head": "s003", "target": ["t005"], "target_head": "t005", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s004"], "source_head": "s004", "target": ["t006"], "target_head": "t006", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s005"], "source_head": "s005", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "The ASV gives the noun no determiner, so the article has no *the* to anchor and is unrepresented under rule 23; the case preposition is expressed by apo and stays with it."},
+    {"source": ["s006"], "source_head": "s006", "target": ["t007"], "target_head": "t007", "status": "aligned", "confidence": "high", "note": ""}
+  ],
+  "review_notes": []
+}

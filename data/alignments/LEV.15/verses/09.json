@@ -1,0 +1,131 @@
+{
+  "alignments": [
+    {
+      "note": "Conjunction rendered And.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "כֹּל and אֲשֶׁר are rendered by the discontinuous what … soever wrapped around the noun (rules 30, 35 for whatsoever, with rule 25 for the discontinuity); headed on the quantifier.",
+      "source": [
+        "s002",
+        "s005"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t004"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The ASV writes no the for the phrase (rule 29).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun rendered saddle.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Verb rendered rideth.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Preposition rendered upon.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "The resumptive suffix is unwritten in English; the ASV's upon carries only the preposition (rule 22).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Substantival article takes he that (rule 41).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Participle rendered hath the issue, headed on the complement (rule 44).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Verb rendered shall be unclean.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "LEV.15.9",
+  "review_notes": [
+    "what … soever is one discontinuous unit on כֹּל plus אֲשֶׁר; the resumptive suffix on עָלָיו is unrepresented since the ASV writes a bare upon."
+  ]
+}

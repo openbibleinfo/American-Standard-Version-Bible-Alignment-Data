@@ -1,0 +1,28 @@
+{
+  "chapter": "2CH.28",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "קָטַר is rendered *burn(t) incense* and heads on *incense* at 28.3, 28.4 and 28.25. The same rule 44 subtraction gives שָׁבָה two heads in this chapter, and they are one analysis: on *captive* where the ASV writes that complement (28.8 *carried away captive*, 28.11 *taken captive*) and on the verb where it writes only the phrasal particle (28.5, 28.17 *carried away*). Read which the ASV wrote before treating the two heads as a split.",
+    "Where an existential הָיָה stands beside a locative שָׁם and the ASV writes a single *there* after the copula — 28.9 וְנָבִיא לַיהוָה הָיָה שָׁם → *But a prophet of Jehovah was there* — the adverb takes that word and הָיָה keeps only *was*. The dummy *there* that rules 20, 21 and 50 hand to an existential unit is a *there* no morpheme in the clause answers to; count the ASV's *there*s against the morphemes that could carry them, as rule 29 counts its *the*s."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v115",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 62 candidate lemma groups and then read the dump end to end, because the table is keyed by source lemma and so is blind to the chapter's 8 `added` units, which is where a real split would hide. Nothing is analysed two ways with nothing in the source to license the difference; patches is empty.",
+    "Head variation on light verbs is the ASV's wording, not two analyses: שָׁבָה heads on *captive* at 28.8 and 28.11, where the ASV writes that complement, and on the verb at 28.5 and 28.17, where it writes only the particle *away* — rule 44's own complement/particle test. קָטַר heads on *incense* at 28.3, 28.4 and 28.25 without exception, and נָכָה, קוּם, יָסַף and בּוֹא are likewise uniform.",
+    "Rule 29's counting is uniform across the chapter's construct chains: the article's *the* fronts only where the rectum is rendered anarthrously (28.15 עִיר הַתְּמָרִים, 28.24 בֵּית הָאֱלֹהִים, whose outer construct takes the supplied second *the*), nothing fronts where the rectum is arthrous (28.3, 28.7, 28.18, 28.21), and the possessive recasting at 28.7 בֶּן הַמֶּלֶךְ gives the article the possessor's *the*.",
+    "The supplied-English families the table cannot see are consistent. A connective in a clause with no conjunction morpheme is `added` (28.10 *but*, 28.23 *therefore*), while every rendered waw takes its word, including the two postpositive *also*s at 28.18 and the bare apodosis waw left unrepresented at 28.22. A supplied object pronoun is `added` where no suffix stands (28.5 *them*, 28.21 *it*) and joins the suffix where one does (28.15, 28.24). A relative supplied over a written finite clause is `added` (28.9 *which*), while a recast nominal keeps its relative and copula (28.7 מִשְׁנֵה, 28.15 מַעֲרֻמֵּיהֶם) — the same English shape, but the source licenses the difference.",
+    "Prepositions silenced by a promoted object are unrepresented in all eleven places (28.5 twice, 28.9, 28.15, 28.16, 28.17, 28.18, 28.20, 28.21, 28.23, 28.24), and לְ plus suffix rendered by a single possessive fuses identically at 28.13 (*our*) and 28.22 (*his*).",
+    "BSB: no genuine error. Of the 32 disagreements, 13 R-class tokens are rule 40 promoted objects, 5 To-class are rule 16 bare markers, 6 Td-class are rule 29/41 determiner counting, and the singletons (28.10 אַתֶּם, 28.15 ם, 28.22 וַ, 28.23 הֵם and וֹ, 28.25 עִיר and וָ) are rule 22 once-rendered repetitions, including the distributive עִיר וָעִיר. Nothing was changed to move the rate.",
+    "Judgment calls left standing, each already carrying a review note: 28.6 הַכֹּל → *all of them*, with the substantival article holding *of them* because rule 19 forbids כֹּל → *all of*; 28.21's two object markers holding *out of*, which rule 44's own limit routes to rule 16; 28.13's *there is* on the prepositional predicate עַל־יִשְׂרָאֵל; 28.19 מָעוֹל מַעַל.",
+    "No promotion. The one thing the chapter taught that the contract does not state — 28.9, where a locative שָׁם takes the written *there* and the existential הָיָה keeps only the copula — rests on a single occurrence with no corpus evidence for שָׁם in this packet, so it is logged as a convention rather than made binding on every later chapter."
+  ]
+}

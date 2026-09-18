@@ -1,0 +1,180 @@
+{
+  "alignments": [
+    {
+      "note": "Noun rendered *wranglings*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Anarthrous genitive; the case preposition *of* stays with the noun under rule 21's determinerless clause.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Perfect passive participle rendered *corrupted*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Article before νοῦν with no English determiner written; rule 23. Rule 13 forbids grouping it with its noun merely for convenience.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Accusative of respect; the supplied *in* realizes the case and stays with the noun, the article having no determiner to anchor it (rules 21, 23).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Participle rendered *bereft*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Rule 21: *of the* is one unit headed on *the*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Participle rendered *supposing*; the complementizer *that* goes to the infinitival complement under rule 85.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Infinitive expanded into a finite clause; rule 85 gives the supplied complementizer *that* to the non-finite complement rather than to the governing verb, headed on the verb word *is*. Discontinuous under rule 15.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Article before εὐσέβειαν with no English determiner written; rule 23.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Subject of the infinitive clause.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "One Greek noun rendered *a way of gain*; rule 66 heads on *gain*, the word this corpus spends on πορισμός (cf. 6:6, where the bare noun is *gain*), *way* being the supplied generic completion and *a* its rule 7 determiner.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017",
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "1TI.6.5",
+  "review_notes": [
+    "Both articles are `unrepresented` because the ASV writes no determiner for either noun (rule 23); the supplied *in* and the phrase's own determiners stay where rules 21 and 51 put them.",
+    "The complementizer *that* is placed on εἶναι under rule 85 rather than on νομιζόντων."
+  ]
+}

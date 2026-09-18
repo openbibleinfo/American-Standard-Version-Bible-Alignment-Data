@@ -1,0 +1,149 @@
+{
+  "alignments": [
+    {
+      "note": "Construct takes supplied The (rule 29).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Rectum takes of (rule 19).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Nominal predicate takes the copula and its supplied a (rules 20, 15), discontinuous around broken.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Niphal participle → broken.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Noun with supplied A (rule 15). The ASV rewrites that same indefinite article over the elliptical second coordinated member (a broken [heart] and a contrite heart); the repeated supplied determiner belongs to the noun that licenses it, in one discontinuous unit (rule 25's repeated-supplied-word sentence). Giving the second a to נִדְכֶּה, or marking it added, was the alternative.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t012",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Participle → broken.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Waw → and.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Participle → contrite; the a before it is לֵב's repeated determiner (rule 25), not the attributive's.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Vocative takes O (rule 36).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Negative → not.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Verb with subject and auxiliary, discontinuous around not.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018",
+        "t020"
+      ],
+      "target_head": "t020"
+    }
+  ],
+  "ref": "PSA.51.17",
+  "review_notes": [
+    "Moved the second a (t012) from נִדְכֶּה to לֵב: a participle licenses no indefinite article, and the ASV's repetition of a supplied determiner over an elliptical coordinated member belongs to the morpheme that licensed the first occurrence (rules 15, 25)."
+  ]
+}

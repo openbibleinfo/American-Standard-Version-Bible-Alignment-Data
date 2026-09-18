@@ -1,0 +1,151 @@
+{
+  "alignments": [
+    {
+      "note": "Passive participle with its copular helper, headed on the lexical participle. SBLGNT.1CO.4.13.v006 is underdetermined between r00-base and r01; the projection carries r00-base and no textual decision is made here (rule 12).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Finite verb with its supplied subject pronoun.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Aorist passive with supplied subject and auxiliary, headed on the lexical participle; the ASV places it before the comparative, and rule 15 permits the reordering.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Comparative adverb rendered *as*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Anarthrous noun with a supplied determiner, a rule 51 helper on the noun since no article competes.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Article carrying its case preposition; *of the* is one unit headed on *the* (rules 17 and 21).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Noun standing bare after the article took the determiner.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Anarthrous noun with a supplied determiner (rule 51). The ASV's marginal *refuse* does not change the tokens written in the text.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Anarthrous substantival quantifier expanded with a supplied generic noun and its case preposition; rule 17 keeps the head on the quantifier, as `τὰ πάντα` → *all things* heads on *All*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017",
+        "t018"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Temporal conjunction rendered *until*, with the supplied intensifying *even* riding along as a rule 7 helper. Marking *even* `added` remains defensible, but no other token licenses it and no appositive follows, so rule 105 does not reach it.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Adverb rendered *now*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    }
+  ],
+  "ref": "1CO.4.13",
+  "review_notes": [
+    "All 11 source and 21 target ids are partitioned exactly once.",
+    "The supplied *even* is folded onto `ἕως`; the alternative `added` reading is named in that unit's note."
+  ]
+}

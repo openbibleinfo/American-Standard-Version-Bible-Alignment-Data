@@ -1,0 +1,25 @@
+{
+  "chapter": "NEH.8",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "A supplied predicate word the ASV writes beside the prepositional predicate of a verbless clause — 'were attentive unto' (8.3, italic 'attentive') and 'stood in' (8.7, italic 'stood') — is read as the construction's copular expansion and joins the preposition's unit under rules 20 and 49, not as an added lexical predicate: a bare 'were' in its place says what the Hebrew says. The competing reading (the supplied word its own added unit) is named in each note and was not taken.",
+    "כַּכָּתוּב → 'as it is written': the assimilated article on the substantival passive participle takes the supplied 'it' under rule 41 (corpus [הַ] → 'it' at 2CH.30.5, 2CH.30.18 agrees), the participle keeps 'is written' with the construction copula (rule 20), and כַּ takes 'as'. The 'it' is neither added under rule 20 nor part of the participle's frame."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v218",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 50 candidate groups and the dump end to end, including the six added units. Every within-bucket difference is licensed by the ASV's wording: הַ takes 'the', 'this'/'This' (8.9, 8.10 vs 'the day' 8.11), 'that'/'those that'/'of them that'/'it' exactly as the ASV writes, and is unrepresented where an agreement article, a demonstrative (הַיּוֹם הַהוּא 8.17), or a fused chain (מַחֲצִית הַיּוֹם → midday 8.3) leaves it nothing; לְ/בְּ/אֵת/עַל are unrepresented only where the ASV promotes their object to a bare object (8.6, 8.7, 8.8, 8.11, 8.12, 8.16) and take whatever word is written elsewhere.",
+    "The recurring construct chains are consistent: שַׁעַר הַמַּיִם → 'the water gate' (8.1, 8.3, 8.16) gives the fronted 'the' to the rectum's article; סֵפֶר/דִּבְרֵי הַתּוֹרָה (8.3, 8.9, 8.13) is the arthrous case with a supplied 'the' on the construct; and the three הָאֱלֹהִים chains (8.8 'the law of God', 8.16 'the house of God', 8.18 'the book of the law of God') all front the article's 'the' to the noun its word depends on, which is why 8.8 gives תּוֹרַת bare 'law' and 8.18 gives it 'of law' — one rule 29 analysis at two chain depths, corrected in review in all three verses.",
+    "The two supplied predicate words beside a prepositional predicate — 'were attentive unto' (8.3) and italic 'stood in' (8.7) — were both read as the construction's copular expansion under rules 20/49 rather than as added lexical predicates, with the competing reading named in each note. Consistent within the chapter; recorded as a convention rather than changed.",
+    "BSB disagreements are all documented convention differences and none is an error: unrepresented R (rules 26, 27, 40), Td (rules 29, 41, 47), the object marker in 8.6 (rule 16), the promoted-object לַ/בַּ in 8.7, 8.8, 8.12 (rule 40), and the resuming pronouns הוּא 8.9 and הִיא 8.10 of tripartite clauses whose copula goes to the predicate (rules 20, 22).",
+    "No promotions or amendments: the one open question (whether a supplied predicate adjective such as 'attentive' beside a prepositional predicate is the copula's or added) rests on a single verse and would need corpus evidence before it could bind later chapters; the contract's existing rules 20 and 49 already state the test that was applied."
+  ]
+}

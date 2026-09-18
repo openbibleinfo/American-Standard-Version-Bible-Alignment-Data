@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "chapter": "1JN.5",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.1JN.5.1.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the conjunction: 'loveth him also that is begotten of him'. The adverbial 'also' presupposes the kai the omitting reading drops."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.5.2.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'and do his commandments' renders poiomen; the variant teromen would give ASV's usual 'keep his commandments'."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.5.5.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'And who is he that overcometh' renders a connective de, which the RP reading (bare estin) lacks; but English word order cannot distinguish de estin from estin de."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.5.6.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'not with the water only, but with the water and with the blood' carries three prepositional phrases, each flagged by a mapped 'Greek in.' note, so the preposition stands before the last member rather than being omitted."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.5.9.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'the witness of God is this, that he hath borne witness concerning his Son' renders the conjunction hoti; the relative hen would produce 'which he hath borne witness'."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.5.10.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "ASV 'hath the witness in him' is a bare pronoun rendering; the three candidates differ only as accented/contracted reflexive against simple pronoun, a distinction this English does not register."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.5.11.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The candidates differ only in the order of subject and indirect object; ASV 'that God gave unto us eternal life' follows English word order and distinguishes neither."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.5.13.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV places 'even unto you that believe on the name of the Son of God' after the purpose clause, not immediately after 'unto you'; the added phrase at this point is absent from the English."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.5.13.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The candidates differ only in the position of the adjective relative to the verb; ASV 'that ye have eternal life' cannot register that order."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.5.13.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'even unto you that believe on the name of the Son of God' renders a dative participle in apposition, not the variant's second purpose clause 'and that ye may believe'."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.5.15.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ean and an are interchangeable in this indefinite relative clause; ASV 'whatsoever we ask' renders either identically."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.5.15.v012",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'which we have asked of him' renders either preposition; both yield 'of/from him' after the verb of asking."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.5.18.v013",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'keepeth himself', the reflexive heauton; the mapped textual_variant note 'Some ancient authorities read him.' places the simple pronoun auton in the margin, not the text."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.5.20.v014",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The candidates differ only as subjunctive against indicative after hina; ASV 'that we know him that is true' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.5.21.v015",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV ends the epistle at 'guard yourselves from idols.' with no 'Amen', excluding the variant's addition."
+    }
+  ]
+}

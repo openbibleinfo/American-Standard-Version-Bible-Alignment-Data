@@ -1,0 +1,27 @@
+{
+  "chapter": "2CH.1",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The a of a thousand / a hundred belongs to the numeral, not to the counted noun. In 1.6 (a thousand burnt offerings), 1.14 (a thousand and four hundred chariots) and 1.17 (a hundred and fifty) the indefinite article is the English cardinal's own word and joins אֶלֶף / מֵאָה; rule 15's direction to put a supplied determiner on the noun the numeral counts governs a determiner of the noun (the fifteenth day) and does not reach an article that is part of the numeral's own English, as 1.14 shows where a ... chariots could not be read at all.",
+    "הוֹצִיא מִן → brought out of gives out to the hiphil of יָצָא as part of its lexeme (the causing to go out) and of alone to מִן (1.17 twice, and 1.16 where the construct noun מוֹצָא is recast as were brought out). Do not read the corpus's מִן → out of precedent onto this pair: that precedent is the bare-מִן case with no verb of going out beside it."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked every multi-treatment bucket in the candidate table against the ASV text. All differences are licensed by the English: waw takes whatever connective the ASV wrote (And/So/Moreover/or/nor/but/that) or nothing where none is written (1.14 s021, 1.16 s010); articles take a written the or go unrepresented where the ASV writes none (1.12 wisdom/knowledge, 1.15 silver/gold/stones/cedars) or where a demonstrative or suffix holds the determiner (1.7, 1.10); dative לְ is unrepresented before a bare indirect object (1.7, 1.10, 1.12 second) and takes unto where written (1.12 first).",
+    "Construct chains are handled one way throughout: anarthrous rectum with an article morpheme takes the fronted the (1.2 captains of thousands, 1.3 tent of meeting of God, 1.4 ark of God); arthrous rectum leaves the construct a supplied the (1.2 heads of the fathers houses, 1.9 dust of the earth, 1.17 kings of the Hittites); attributive renderings give the single the to the rectum's article (1.5/1.6 brazen altar, 1.14 chariot cities).",
+    "Possessive have is placed consistently: on הָיָה where written (1.12 have had, 1.14 had, 1.12 shall there have) and on the לְ where no verb stands (1.16 which Solomon had).",
+    "הוֹצִיא מִמִּצְרַיִם → brought out of Egypt gives out to the hiphil and of to מִן in both 1.16 and 1.17; the corpus's 1011 מִן → out of units are the bare-מִן case, not this one, so no split.",
+    "Three unmarked textual divergences (1.5 שָׂם read as שָׁם, 1.13 לַבָּמָה rendered from, 1.16 מִקְוֵא rendered droves) are all handled under rule 53's no-variant paragraph with the margin read and set aside; each verse's review_notes name the divergence.",
+    "BSB disagreements are all convention: articles the ASV leaves unwritten, datives before bare indirect objects, object markers, the resumptive suffix of 1.11 (two English words for relative and preposition, rule 22), and the recast waws of 1.14 and 1.16. None is a genuine error. The 1.14 waw is a judgment call (relative on the object suffix under rule 18 versus on the waw under rule 17) and its note names the competing reading.",
+    "No patches, no promotions. Two conventions recorded for judgments a later reader would otherwise rediscover."
+  ]
+}

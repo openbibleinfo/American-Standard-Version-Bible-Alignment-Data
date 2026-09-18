@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "dcb686aa34870ad0ba263833aea308d4d6fac8cba69e92184099e416a237d903",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Checked partition: all 16 source and all 20 target ids appear exactly once; every head is a member of its array.",
+    "s005 ὠφέλιμος keeps the supplied is* with the predicate adjective under rule 53 (verbless clause, adjectival predicate), discontinuously under rule 15 across t007 also — correct, and the subject noun γραφή rightly stays bare.",
+    "s014/s015 follow rule 31's postposed-article case: the noun παιδείαν keeps its own (undetermined) English word, the trailing article takes only the supplied relativizer which, and the copula rides with the preposition ἐν headed on in, as τὰ στρατεύματα τὰ ἐν τῷ οὐρανῷ has it.",
+    "s003 θεόπνευστος → inspired of God heads on inspired. The lexeme is a hapax, so rule 91 gives nothing directly and rule 104's neighbouring-class query decides: the stem word carries the head in a prefix compound, as εὐπειθής → easy to be entreated heads on entreated, and of God realizes only the θεο- element. Heading on God would be the prefix-side reading and is not what the corpus does.",
+    "s004 καί → also is aligned on rule 65's English-side test; the ASV's attributive construal of θεόπνευστος is what makes the particle intensifying rather than coordinating, and the margin's alternative construal (Every scripture is inspired of God, and profitable) is recorded but not adopted by the projection.",
+    "The prepositional series s006–s013 is split token by token under rule 2 with no merging; SBLGNT.2TI.3.16.v006 is underdetermined with the base among the compatible readings, so rule 97 does not apply and no new textual decision is made."
+  ],
+  "ref": "2TI.3.16",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

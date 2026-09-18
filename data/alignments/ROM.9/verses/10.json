@@ -1,0 +1,177 @@
+{
+  "alignments": [
+    {
+      "note": "",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The supplied *so* completes the elliptical *not only so* and rides with μόνον as a rule 7 helper.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Rule 65's English-side test: the ASV writes *also* for the particle.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Light-verb pair κοίτην ἔχουσα collapsed into the single English verb *conceived* (rule 73); *having* is the participial helper. Source head on the noun, which is what *conceived* realizes.",
+      "source": [
+        "s009",
+        "s010"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Supplied appositional *even*. Rule 105 folds such a word only onto an expressed preposition or marks it added where no such carrier stands; here the second *by* is itself a repetition of ἐξ, so no expressed preposition carries the appositive and the word is added under rule 5.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Determiner slot occupied by the possessive realizing ἡμῶν (rule 20).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The repeated English preposition introducing the appositive member is a rule 7 helper on that member (rule 103's repeated-function-word clause); the article being displaced, rule 21's determinerless clause puts it on the noun.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "ROM.9.10",
+  "review_notes": [
+    "*having conceived* is treated as a rule 73 collapse of κοίτην ἔχουσα; splitting *conceived* from *having* across the two tokens is not defensible since no English word answers to ἔχω separately.",
+    "Folding *even* onto πατρός with the repeated *by* remains an alternative, but rule 105 gives no fold outside a preposition carrier."
+  ]
+}

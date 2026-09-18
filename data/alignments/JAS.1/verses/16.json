@@ -1,0 +1,72 @@
+{
+  "alignments": [
+    {
+      "note": "Ordinary prohibitive μή with the present imperative, aligned to *not*. Rule 44 does not apply: the particle marks a prohibition, not a question. Rules 41 and 59 do not apply either, since no negative indefinite follows for the negation to be written into, so the negator keeps its own English word.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Present passive imperative rendered by the periphrastic *Be ... deceived*; the copular auxiliary is the verb's own inflection-licensed helper under rule 9, and rule 17 heads on the lexical participle *deceived* rather than on the auxiliary. Discontinuous across *not* under rule 15. Not merged with μή: the ASV writes a separate word for each token, so rule 2 splits them and rule 39's single-word test is not met.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Anarthrous vocative taking *brethren* alone. Rule 89 is not engaged in either arm: no article stands to take an address word, and the ASV supplies no *ye* or *O* for the noun to carry as a rule 7 helper.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Genitive pronoun rendered by the possessive *my*. Rule 20's displacement question does not arise: the Greek phrase is anarthrous, so there is no article for the possessive to empty.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Attributive adjective on its own English word, split from its noun under rules 2 and 26. Rule 58 is not engaged: no determiner is supplied for the phrase — the only prenominal word is the possessive *my*, which belongs to μου — so adjective and noun each stand alone.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    }
+  ],
+  "ref": "JAS.1.16",
+  "review_notes": [
+    "Reviewed and returned unchanged in substance. All five source and six target ids are partitioned exactly once; every source token has a distinct English realization, so there are no unrepresented, added or noncompositional units.",
+    "Heads audited separately from edges under rule 28. The only live head question is πλανᾶσθε, where rule 17 requires the lexical *deceived* over the auxiliary *Be*; the other four units are one-token-to-one-token and take their sole tokens under rule 10.",
+    "Word order differs (Greek ἀδελφοί μου ἀγαπητοί against ASV *my beloved brethren*). Rule 15 permits the reordering and rule 26 forbids bundling a transparent noun phrase, so the three tokens stay three units rather than one reordered block.",
+    "Notes rewritten only for precision: the s005 note previously wrote the lemma as \"μou\" with a Latin o, and the s003 note now rules out both arms of rule 89 rather than one."
+  ]
+}

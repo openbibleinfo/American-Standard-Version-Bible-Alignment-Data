@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "chapter": "1KI.12",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1KI.12.3.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere וַיָּבֹא is Vqw3ms, ketiv ויבאו Vqw3mp, same lemma 935 with the conjunction. The subject is compound — \"Jeroboam and all the assembly of Israel\" — and Hebrew freely takes a singular verb before it, so both readings are ordinary. The ASV's \"came\" is identical in both numbers and no note is mapped here, so the wording cannot separate them. Underdetermined; the base qere stands."
+    },
+    {
+      "unit_id": "WLC.1KI.12.7.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "Qere וַיְדַבְּרוּ is Vpw3mp, ketiv וידבר Vpw3ms, same lemma 1696. The ASV reads \"And they spake unto him,\" a plural verb with a plural pronoun subject picking up the old men of the preceding verse, which realizes the qere rather than the singular ketiv."
+    },
+    {
+      "unit_id": "WLC.1KI.12.12.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere וַיָּבוֹא and ketiv ויבו are both Vqw3ms of lemma 935 with the conjunction; the readings differ only in the spelling of the final syllable. Nothing in the English can distinguish two identical parses, and no note is mapped. Underdetermined; the base qere stands."
+    },
+    {
+      "unit_id": "WLC.1KI.12.21.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere וַיָּבֹא is Vqw3ms, ketiv ויבאו Vqw3mp, lemma 935. The ASV reads \"And when Rehoboam was come to Jerusalem,\" but its verb agrees with the subject noun it supplies, so a plural Hebrew verb with the same singular subject would be rendered the same way; the following singular verbs are the ASV's own concord, not evidence about this word. No note is mapped. Underdetermined; the base qere stands."
+    },
+    {
+      "unit_id": "WLC.1KI.12.33.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "Qere מִלִּבּוֹ is the preposition מִן on לֵב with a 3ms suffix, \"of his own heart\"; ketiv מלבד is מִן plus לְ on בַּד, \"apart.\" The ASV's main text reads \"the month which he had devised of his own heart,\" and the mapped note 1KI.12.33.n02 \"Another reading is, apart.\" names the ketiv as the alternative. Main text and note together select the qere."
+    }
+  ]
+}

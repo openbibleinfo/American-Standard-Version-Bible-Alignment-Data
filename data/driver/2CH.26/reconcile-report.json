@@ -1,0 +1,29 @@
+{
+  "chapter": "2CH.26",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2CH.26.14"
+  ],
+  "rejected": {},
+  "conventions": [
+    "An appositional or explicative לְ standing on the phrase an English *even* introduces takes that word, together with whatever relational word the ASV writes beside it, as one rendering of the one morpheme, headed on the relational word where one is written and on *even* where it stands alone: לְגִבּוֹרֵי חָיִל → *even* (26.12) and לְכָל הַצָּבָא → *even for*, headed on *for* (26.14). Rule 16's ruling that an appositional *even* is `added` reaches a phrase on which no morpheme stands at all; a written preposition on that phrase is not that case, and a lamed already holding its own *for* is still the only morpheme the *even* answers to.",
+    "Compound prepositional expressions built on עַד and מִן with a following לְ or כִּי are read as one fused unit wherever the ASV writes a single rendering for the group, never split so that one member holds the whole English word and the rest go `unrepresented`: עַד לְ → *even to* (26.8) and → *so that* (26.16), עַד לְמַעְלָה → *exceeding* (26.8), עַד לְמֵרָחוֹק → *far abroad* (26.15), מֵעַל לְ → *beside* (26.19), עַד כִּי → *till* (26.15). Head on the morpheme carrying the lexeme where one stands in the group (מַעַל, רָחוֹק), and otherwise on the governing first morpheme under rule 23.",
+    "In the regnal age formula בֶּן N שָׁנָה, בֵּן takes the construction-supplied copula and heads on *old* — בֶּן שֵׁשׁ עֶשְׂרֵה שָׁנָה → *was ... old* (26.1) and *old was* (26.3) — while the numeral morphemes fuse into the single English numeral and שָׁנָה keeps its own *years*. The unit is discontinuous around the numeral and the counted noun under rule 25, and the ASV's word order does not move the head."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v164",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "One real split: the appositional lamed that the ASV renders with *even*. 2CH.26.12 aligns לְגִבּוֹרֵי חָיִל → *even* directly to the לְ, and 2CH.26.8 keeps *even to* whole on עַד לְ; but 2CH.26.14 gives לְכָל הַצָּבָא only the *for* and marks the *even* standing beside it `added`. Nothing in the source licenses that difference — the same explicative לְ stands on the phrase the *even* introduces in all three, and the only difference is that the ASV wrote two English words there rather than one, with no second morpheme to carry either.",
+    "Patched 2CH.26.14 only: s006 now takes *even for* as its one rendering, headed on *for* by rules 16 and 24, and the `added` unit is gone. Rule 16's `added` ruling for an appositional *even* reaches a phrase on which no morpheme stands — its own worked example has the clause's one marker sitting elsewhere — and that is not this case. 2CH.26.12 and 2CH.26.8 were left exactly as accepted.",
+    "Checked and found licensed rather than split: the two בְּ + יוֹם phrases in 26.5 (*in the days of* split, *as long as* fused — rule 30's subtraction finds a word spent on יוֹם in one and not the other); הָיָה across 26.5, 26.10, 26.11 and 26.21; the copula in 26.12 (numeral predicate, no preposition in the clause) against 26.13 (prepositional predicate, rule 49); *spread abroad* in 26.8 against *spread* plus *far abroad* in 26.15, where only 26.15 writes עַד לְמֵרָחוֹק for the adverbial to answer to; the two בַּיִת treatments in 26.21; and every article decision, which tracks the ASV's *the*s and rule 29's fronting, possessive and attributive counts consistently across all 23 verses.",
+    "Read the ten `added` units end to end, since the candidate table is blind to them. The nine that remain are each a supplied word no morpheme in its clause licenses: *the country of* (26.6), *of the wall* (26.9), *and he had* (26.10), *made* (26.11), *houses* (26.12), *wherewith* (26.15), the two impersonal *it*s (26.18), *he had* (26.19). 26.10 and 26.19 agree with each other and with rule 43's own worked example — in 26.19 the בְּ, the suffix and the noun each already hold their English, so nothing is left for *had* to complete.",
+    "BSB: no genuine error. The two waws (26.1, 26.19) are rule 17's relative recasting and a connective the ASV simply does not write; the five Td and six R disagreements are the documented convention difference (BSB attaches an article to its noun and a preposition to its phrase), each one here resolved by rules 29, 40, 43 or 52; the 26.6 אֵת is rule 16's majority ruling. No accepted edge was moved toward the aggregate.",
+    "Three conventions recorded. No promotion: the lamed finding rests on two occurrences in this chapter and the corpus rows supplied here show no `לְ` → *even* treatment either way, so widening rule 16 on that basis would risk a rule the corpus contradicts. The chapter convention binds the reader who needs it without that risk."
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "alignments": [
+    {
+      "note": "The supplied determiner *Such* stands where an article would stand before the noun's own word and joins the nominal expression it determines; it is never the head (rule 15). Marking it `added` under rule 30 was the competing reading (rule 8).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Predicate adjective of the verbless clause with the construction-supplied copula, which rule 20 gives to the predicate; the unit is discontinuous around the comparative's degree word under rule 25. Rule 20 covers the copula and nothing more, so the degree word *too* is not placed here.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Comparative `מִן` rendered by a degree adverb together with the relational word, *too ... for*: the comparison's own relation is what the morpheme says and the degree adverb is what English spends on a comparison it writes without one elsewhere, so the unit heads on the relational word (rule 24), discontinuous under rule 25. Leaving *too* with the adjective was the materially different competing reading; it was set aside because rule 20's construction-supplied English covers the copula and nothing more, and no other morpheme answers to *too* (rule 8).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Suffix on the comparative preposition, rendered by the object pronoun (rule 18).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Finite verb with its dummy subject and copula; head on the lexical predicate word *high* (rules 17, 24).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Where `יָכֹל` stands in the clause it is what the modal renders, and the negative and the verb share the one indivisible *cannot*, headed on it, with the verb's subject pronoun inside the same unit (rule 35). Source head on the verb, which carries the lexical content (rule 23); heading on the negative, as rule 35 heads a *Nor*, was available (rule 8).",
+      "source": [
+        "s006",
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Supplied lexical verb: by subtraction no morpheme is left short when *attain* is dropped — `לֹא` and `יָכֹל` hold *cannot*, the `לְ` holds *unto* and the suffix holds *it* — so nothing licenses it (rule 20's supplied-lexical-verb clause).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Preposition rendered *unto* (rule 11).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Suffix rendered by the object pronoun (rule 18).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "PSA.139.6",
+  "review_notes": [
+    "Corrected: the degree word *too* was moved from the predicate adjective to the comparative `מִן`, whose unit now reads *too ... for* headed on *for* (rule 24). Rule 20, cited for it in the accepted alignment, states in its own terms that it covers the copula and nothing more, and no other morpheme in the clause answers to a degree adverb.",
+    "The variant unit on s001 is underdetermined with the base reading compatible; no fallback was excluded, so rule 53 does not arise.",
+    "The two-morpheme unit `לֹא אוּכַל` → *I cannot* was re-examined and retained: rule 35 makes the word indivisible where `יָכֹל` stands in the clause, and the subject pronoun stays inside that unit."
+  ]
+}

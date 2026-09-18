@@ -1,0 +1,203 @@
+{
+  "alignments": [
+    {
+      "note": "Adverbial accusative; the supplied *with* is licensed by the noun's case-function (rule 33).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Finite verb with subject pronoun and auxiliary; head on the lexical verb (rules 17, 24).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Italic *herself* fills an object slot no morpheme supplies; the verb is Hiphil, so rule 44's reflexive-voice exception does not reach it. Competing reading: take it as part of the verb's rendering; rejected because no reflexive morphology licenses it.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Waw rendered by the connective *yet* (rule 14).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Negative *not*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Verb *goeth ... forth*; phrasal particle stays with the verb and the head is on it (rule 44).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t013"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "מִן → *out of*, headed on *out* (rule 24).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Suffix → *her*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Adjective *great*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Noun *rust*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Suffix → *her*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Preposition בְּ → *by*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Noun *fire*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Noun *rust*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Suffix → *her*.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "The second clause writes no verb and no negative in Hebrew; the ASV supplies a whole lexical predicate in italics, which rule 20's boundary makes `added` rather than gapping under rule 34.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t019",
+        "t020",
+        "t021"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "EZK.24.12",
+  "review_notes": [
+    "Two `added` units, both italicized by the ASV: the reflexive object of *wearied herself* and the wholly supplied predicate *goeth not forth* in the final clause."
+  ]
+}

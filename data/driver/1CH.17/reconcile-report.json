@@ -1,0 +1,25 @@
+{
+  "chapter": "1CH.17",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "ASV italics in this chapter were each decided on the Hebrew (rule 7), and the line fell as follows: *dwelleth* (v1) joins תַּחַת as rule 20's continuance copula on a prepositional predicate, since a bare *is under curtains* says what the Hebrew says; *as* (v10) joins the compound לְמִן → *as from* under rule 23, headed on the לְ; *these* (v19) is the article's under rule 41; *one* (v5) joins מִשְׁכָּן under rule 15; and *say* (v18), *to another* (v5) and *in his heart* (v25) are `added`. Each unit's note names the competing reading.",
+    "A generic English noun the ASV supplies to complete a Hebrew substantive joins that substantive's unit and is never the head: כֹל → *all places* (v6), גְּדוֹלִים → *great ones* (v8), גְּדֻלּוֹת → *great things* (v19), נֹרָאוֹת → *terrible things* closing the coordinated pair in v21, טוֹבָה → *good thing* (v26). The chapter extends the same reading to the stative verb תִּקְטַן → *was a small thing* (v17), keeping *a thing* with the verb headed on *small*, with *a thing* added as the named competitor."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 27 verses end to end against the 54-lemma candidate table. Every multi-treatment bucket is the ASV rendering one word differently (עַל → of/concerning/unto, עַד → unto/for, כְּ → like unto/is like/according to, אֶת → of/to where the ASV spends a word on the object relation and unrepresented where it writes the object bare) or a source difference the contract already licenses (בְּכֹל אֲשֶׁר → *whithersoever* fused in v8 against *In all places wherein* split in v6; הַ unrepresented beside a written demonstrative in vv5/15/19/26 against הַ → *these* in v19 where no demonstrative morpheme stands).",
+    "The constructions that recur were checked for consistency: the וַיְהִי frame gives the apodosis *that* to the apodosis waw in vv1, 3 and 11 and the frame's own *that* to the לְ of a recast infinitive (v11 t012); וְעַתָּה divides by rule 14 in v7 (Now therefore) and vv23/26/27 (And now); resultative הָיָה לְ leaves the לְ unrepresented in vv13 and 22; dative לְ with a bare English pronoun is unrepresented throughout (vv4, 6, 8, 10, 12, 13, 21, 22, 25); לִפְנֵי fuses in vv13, 16, 24, 25, 27 while מִפְּנֵי → *from before* splits in vv8 and 21; יָסַף takes the *more* in both v9 and v18 with the other verb or the supplied *say* placed separately.",
+    "Supplied English was compared across the dump, since the table cannot see `added` units: the object *it* of v13, *say* and *which is done* of v18, *even* of v24, *in his heart* of v25 and *to another* of v5 are added by rules 44, 20/2, 16 and 33; *dwelleth* (v1) was read as rule 20's continuance copula on תַּחַת and *as* (v10) as part of the compound לְמִן, each with the added reading named in its note; the resuming *it* of v27 goes to בֵּית under rule 25 while the *it* of *it may continue* goes to the infinitive under rule 52, as rule 18 directs. No genuine split found.",
+    "BSB disagreements (Td × 19, R × 21, v3 בַּ, v6 הֲ, v26 הוּא) are all documented convention: BSB attaches articles and silenced prepositions to their host phrase, marks the interrogative הֲ represented where the ASV inverts, and represents the tripartite resuming pronoun that rule 20 leaves unrepresented. None is an error and no edge was changed.",
+    "Two conventions recorded: how the chapter drew the line on ASV italics, and the generic-noun completions (places/ones/thing/things), including the stative-verb extension in v17. Nothing generalises beyond what the contract already holds; no promotion or amendment."
+  ]
+}

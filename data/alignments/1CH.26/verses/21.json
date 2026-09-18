@@ -1,0 +1,199 @@
+{
+  "alignments": [
+    {
+      "note": "Construct noun with supplied *The* (rule 29).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Rectum takes the chain's *of* (rule 19).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Construct noun with supplied *the*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Arthrous rendering of the rectum (rule 29).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Rectum takes the chain's *of*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Belonging verb joins the preposition's unit, headed on the English preposition (rule 49).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Proper name.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Construct noun with supplied *the*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Arthrous rendering of the rectum.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Rectum takes the chain's *of*, and the supplied head noun *houses* joins this unit: the Hebrew writes only אָבוֹת for בֵּית אָבוֹת, so the ASV supplies the noun the written noun stands on as a possessive (rule 31), and the head stays on *fathers*. Corrected from `added` at reconciliation; the competing reading marks *houses* `added` under rule 18's closing sentence, which reaches a supplied possessive and not a supplied head noun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t017",
+        "t018"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Belonging verb joins the preposition's unit (rule 49).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Proper name.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Article takes the written *the*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Gentilic.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Proper name.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    }
+  ],
+  "ref": "1CH.26.21",
+  "review_notes": [
+    "*houses* is the head noun the ASV supplies for the written אָבוֹת to stand on as a possessive, so it joins that noun's unit under rule 31 rather than standing `added`; the ASV's italic corroborates the supply and decides nothing (rule 7).",
+    "*belonging to* is read as rule 49's relational verb joining the preposition, headed on *to*.",
+    "The marginal cross-references to Libni and Jehiel were read and set aside under rule 38."
+  ]
+}

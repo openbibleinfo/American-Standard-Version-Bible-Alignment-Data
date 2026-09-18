@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "1152ce8c4b73a437937a76764fd10001212279c87f731aba434e913cb8c9d2b2",
+  "contract_version": "nt-greek-verse-v61",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "Corrected one head. s026 ὁ → the ... man now heads on man (t032) rather than the (t030). The edges were right — rule 49 gives the supplied generic noun to the article where its complement is an adjective — but rule 22 fixes the head inside such a unit on the nominal word and never on the determiner, naming τὸ → the part in terms, and rule 60 confirms it for τῆς μελλούσης → that hour which. Rule 17's on the → the applies only where a case preposition realizes the article's case, which is not this construction.",
+    "Everything else is unchanged. Every s001–s032 and t001–t037 id is used exactly once; each single-token unit takes its own source head.",
+    "Two contested heads are noted in place: καύσωνι → scorching wind (rule 66/91 head on scorching, against a head on wind), and ὁ πλούσιος → the rich man, where rule 49 puts the supplied generic noun on the article against the competing reading that gives man to πλούσιος on rule 66's anarthrous covetous man.",
+    "The three αὐτοῦ tokens are handled by rule 20's availability test: thereof (s015) and of it (s022) are the pronoun's own English and leave their articles the ordinary the, while the possessive his (s031) empties s029."
+  ],
+  "ref": "JAS.1.11",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

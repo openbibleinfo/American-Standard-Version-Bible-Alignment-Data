@@ -1,0 +1,28 @@
+{
+  "chapter": "1SA.19",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "גַּם + explicit pronoun after a finite verb (19.20, 19.21, 19.22, 19.24): the verb takes only its lexical English, גַּם takes 'also', and the pronoun הוּא/הֵמָּה takes the ASV's 'he'/'they' as its own word (rule 20), not the verb under rule 17. Where a pronominal suffix in the same clause already holds the single English pronoun — 19.23 עָלָיו גַּם הוּא → 'upon him also' — the suffix keeps 'him' and the emphatic הוּא is unrepresented (rule 22).",
+    "וַתְּהִי עַל … רוּחַ אֱלֹהִים → 'the Spirit of God came upon …' (19.20, 19.23): הָיָה takes 'came' as its own rendering and עַל takes 'upon'; the verb is not read as a copula joining the preposition under rule 49, since the ASV wrote a lexical verb for it and the preposition keeps its own word."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 24 verses end to end against the 45-lemma candidate table; every multi-treatment bucket is licensed by the ASV's own wording or by a morpheme present in one verse and absent in the other. No cross-verse split found.",
+    "Waw: every non-'and' rendering (But, for, then, So, Now, Then, even, with, as, therefore) is the word the ASV wrote for that waw (rule 14); the 'And when'/'and if'/'so that' pairs all head on the coordinator with 'when'/'if'/'that' named as the competing head (rule 55); the apodosis waws of 19.3, 19.14, 19.16, 19.20 and 19.21 are uniformly unrepresented, and the waw between auxiliary יָסַף and its lexical verb in 19.21 is unrepresented under rule 56, matching 19.8's לְ.",
+    "Explicit pronoun with גַּם (19.20 ×1, 19.21 ×2, 19.22, 19.24 ×2): the verb keeps only its lexical word and הוּא/הֵמָּה takes 'he'/'they'; 19.23's הוּא is the one unrepresented occurrence because the suffix on עָלָיו already holds the single 'him' (rule 22). Licensed difference, not a split.",
+    "Articles: assimilated [הַ] → 'the' wherever the ASV writes one; unrepresented on toponyms (Ramah, Secu) and beside a written demonstrative (19.7, 19.10, 19.24 s018), while 19.24 s024 takes 'that' because no demonstrative morpheme stands in 'all that night' (rule 41). 19.13 'a pillow of goats hair' leaves the rectum's article nothing while 19.16 'the pillow of goats hair' fronts the 'the' to it under rule 29 — both correct for what the ASV wrote.",
+    "פָּנֶה: fused 'before' where the ASV writes one word (19.8 מִפָּנָיו, 19.24 לִפְנֵי), split where it writes two ('in his presence' 19.7, 'out of Saul's presence' 19.10), per rule 30's one-rendering condition.",
+    "BSB disagreements are all convention: dative/complementizer לְ and לֵאמֹר unrepresented (rule 40/27), apodosis waws unrendered (rule 14), articles on toponyms and beside demonstratives (rules 29/41), temporal בְּ of 'that night' (rule 40), object markers in 19.15 (rule 16), and the emphatic הוּא of 19.23 (rule 22). None is an error in the ASV alignment.",
+    "Added units (19.5 'it', 19.9 'his', 19.13 'it' ×2, 19.22 'they') are each placed by the rule their note cites and have no counterpart folded elsewhere in the chapter; 19.22 'they' records the competing rule-25 resumption reading in its note.",
+    "No promotion or amendment: the chapter exercises rules 14, 20, 22, 29, 30, 41, 44, 49, 55 and 56 as written and taught nothing the contract lacks."
+  ]
+}

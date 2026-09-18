@@ -1,0 +1,119 @@
+{
+  "alignments": [
+    {
+      "note": "Purpose particle fused with the negative and rendered by the single word 'lest'; rule 39 makes the pair one unit headed on the first particle.",
+      "source": [
+        "s001",
+        "s002"
+      ],
+      "source_head": "s001",
+      "status": "noncompositional",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Indefinite expanded with a generic noun; rule 17 heads on the indefinite rather than the supplied 'man'.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Modal auxiliary rides with the subjunctive under rule 9; head on the lexical verb.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Complementizer written out, so aligned in the ordinary way under rule 43.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Preposition to preposition.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "The first-person possessive adjective names the possessor itself and carries 'my', so rule 54 empties the article.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Possessive adjective carries the English possessive.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Noun stands bare.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Inflected passive takes its subject and auxiliary; head on the lexical verb.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    }
+  ],
+  "ref": "1CO.1.15",
+  "review_notes": [
+    "s007/s008 follow rule 54 rather than rule 20's genitive-pronoun arm: emos is a lexical possessor, so the article realizes nothing."
+  ]
+}

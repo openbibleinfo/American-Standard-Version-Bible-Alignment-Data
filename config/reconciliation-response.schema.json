@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["ref", "verdict", "report", "patches", "conventions", "promotions", "amendments", "requests"],
+  "properties": {
+    "ref": {"type": "string"},
+    "verdict": {"type": "string", "enum": ["no-change", "changes", "needs-evidence"]},
+    "report": {"type": "array", "items": {"type": "string"}},
+    "patches": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["ref", "reason", "alignments", "review_notes"],
+        "properties": {
+          "ref": {"type": "string"},
+          "reason": {"type": "string"},
+          "alignments": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "source", "source_head", "target", "target_head",
+                "status", "note"
+              ],
+              "properties": {
+                "source": {"type": "array", "items": {"type": "string"}},
+                "source_head": {"type": ["string", "null"]},
+                "target": {"type": "array", "items": {"type": "string"}},
+                "target_head": {"type": ["string", "null"]},
+                "status": {
+                  "type": "string",
+                  "enum": ["aligned", "unrepresented", "added", "noncompositional"]
+                },
+                "note": {"type": "string"}
+              }
+            }
+          },
+          "review_notes": {"type": "array", "items": {"type": "string"}}
+        }
+      }
+    },
+    "conventions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["ref", "text"],
+        "properties": {
+          "ref": {"type": "string"},
+          "text": {"type": "string"}
+        }
+      }
+    },
+    "promotions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["summary", "basis", "rule"],
+        "properties": {
+          "summary": {"type": "string"},
+          "basis": {"type": "string"},
+          "rule": {"type": "string"}
+        }
+      }
+    },
+    "amendments": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["number", "rule", "why"],
+        "properties": {
+          "number": {"type": "integer"},
+          "rule": {"type": "string"},
+          "why": {"type": "string"}
+        }
+      }
+    },
+    "requests": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["kind", "value", "why"],
+        "properties": {
+          "kind": {"type": "string", "enum": ["verse", "corpus"]},
+          "value": {"type": "string"},
+          "why": {"type": "string"}
+        }
+      }
+    }
+  }
+}

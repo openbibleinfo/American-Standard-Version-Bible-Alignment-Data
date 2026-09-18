@@ -1,0 +1,136 @@
+{
+  "alignments": [
+    {
+      "note": "Substantival article takes the supplied pronoun *They* (rule 41).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Participle rendered by the finite *pluck*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "*salt wort* for מַלּוּחַ; *wort* alone is any herb, so the head falls on *salt* (rule 31). Heading on *wort* was available and is named under rule 8.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Preposition עַל → *by*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Noun with a supplied *the*, no article morpheme present (rule 15).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Waw → *And* (rule 14).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Construct noun with a supplied *the* (rule 29).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Nomen rectum takes the chain's *of* (rule 19) together with the *the* standing before its own word (rule 29).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "MACULA segments לַחְמָם into two tokens sharing the lemma לֶחֶם; one English word *food* renders both (rule 30), with the verbless clause's copula joining the predicate (rule 20). Source head is the first token as the deterministic anchor (rule 23).",
+      "source": [
+        "s009",
+        "s010"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Suffix → possessive *their* (rule 18).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "JOB.30.4",
+  "review_notes": [
+    "The tags on s009/s010 (R and Vqc) contradict their shared lemma לֶחֶם; the lemma is read as controlling and the two are fused under rule 30 rather than one being taken as a preposition (rule 39).",
+    "The margin's *Or, to warm them* was read and set aside (rule 38)."
+  ]
+}

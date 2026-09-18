@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "chapter": "EPH.2",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.EPH.2.1.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'dead through your trespasses and sins' has an unitalicized 'your', which renders ὑμῶν; the RP omission would leave no possessive to render."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.2.3.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἤμεθα and ἦμεν are alternative imperfect forms of the same verb and person; ASV 'were' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.2.7.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The readings differ only in the gender and declension of πλοῦτος and its article and participle; ASV 'the exceeding riches' is identical either way."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.2.8.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'through faith' is anarthrous, but English regularly drops the article before an abstract noun, so it does not show whether RP's τῆς stood in the source."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.2.11.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The readings differ only in the order of ποτὲ and ὑμεῖς. ASV 'that once ye, the Gentiles' does not track Greek adverb position: at 2:2 it renders the pre-verbal ποτε as 'ye once walked'."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.2.12.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'ye were at that time' supplies 'at' for the dative of time whether or not RP's ἐν is present."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.2.13.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The readings differ only in the order of ἐγενήθητε and ἐγγὺς; English 'are made nigh' requires the verb before the adverb either way."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.2.15.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r02"
+      ],
+      "evidence": "ASV 'that he might create in himself' is reflexive, which excludes the plain αὐτῷ of r01, but αὑτῷ and ἑαυτῷ are the contracted and uncontracted reflexive and render alike."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.2.17.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'preached peace to you that were far off, and peace to them that were nigh' repeats 'peace' without italics, rendering the second εἰρήνην that RP omits."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.2.19.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'but ye are fellow-citizens with the saints' repeats 'ye are' without italics, rendering the second ἐστὲ that RP omits."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.2.20.v011",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Christ Jesus himself being the chief corner stone' keeps the Χριστοῦ Ἰησοῦ order; the RP order would read 'Jesus Christ'."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.2.21.v012",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'each several building' with the note 'Greek every building' renders an anarthrous πᾶσα οἰκοδομή; the added article of r01 would give 'the whole building'."
+    }
+  ]
+}

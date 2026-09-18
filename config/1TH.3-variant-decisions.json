@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "chapter": "1TH.3",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.1TH.3.2.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text reads \"God's minister\" (diakonon); the mapped textual_variant note relegates the other reading to the margin: \"Some ancient authorities read fellow-worker with God\" (synergon)."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.3.2.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV has only \"God's minister in the gospel of Christ\" with no conjoined \"and our fellow-worker\"; the fellow-worker wording appears solely in the margin, so the added kai synergon hemon is not in the rendered text."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.3.2.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "\"to comfort you concerning your faith\" renders either reading: \"concerning\" answers hyper as readily as peri, and the object \"you\" carries over from \"to establish you\" whether or not hymas is expressed. No ASV note is mapped to this unit."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.3.7.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV orders the pair \"in all our distress and affliction\" — anagke then thlipsis — matching the base sequence rather than the transposed one."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.3.11.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads \"our Lord Jesus\" with no \"Christ\"; the only note here is classed alternative_rendering and concerns \"God himself and our Father\", so the added Christos is absent from the rendered text."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.3.13.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads \"our Lord Jesus with all his saints\" with no \"Christ\"; the mapped textual_variant note concerns the added Amen, not this word, so nothing supports the longer name."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.3.13.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV ends the verse at \"with all his saints\" and puts the addition in the margin: \"Many ancient authorities add Amen\", so the text follows the reading without amen."
+    }
+  ]
+}

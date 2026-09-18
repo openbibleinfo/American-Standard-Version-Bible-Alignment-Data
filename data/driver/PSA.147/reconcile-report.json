@@ -1,0 +1,29 @@
+{
+  "chapter": "PSA.147",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The chapter's hymnic participle series is allocated three ways, and what the source writes decides which. Where the participle carries an article, that article takes whatever word the ASV writes in its place under rule 41 — *He* at 147.3, 147.14, 147.15 and 147.16, *Who* at 147.8 (three times) — and the participle keeps only the verb. Where the participle is anarthrous and no subject noun stands in the clause, the supplied *He* realizes the participle's own subject and joins its unit, headed on the lexical verb, as at 147.4, 147.6b, 147.9, 147.17 and 147.19; it is not `added` and it is not a unit of its own. Where an explicit subject noun stands, that noun takes the English subject and the ASV supplies no pronoun, as at 147.2, 147.6a and 147.11. Read the article and the explicit subject before supplying anything, since the ASV's *He* is identical in all three shapes."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v199",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "All 18 candidate lemma groups checked; no construction in this chapter was analysed two ways. Every bucket that printed divergent rows is licensed by the source or by what the ASV wrote.",
+    "Article הַ Td->Ncmsa: 147.10 הַסּוּס takes a written *the* standing before the rectum's own word, rule 29's arthrous count; 147.10 הָאִישׁ is unrepresented because the ASV renders the rectum indefinitely (*a man*), which rule 29 says is not an anarthrous rendering; 147.16's two assimilated articles have no *the* in the phrase at all (*like wool*, *like ashes*).",
+    "Preposition לְ R->Ncmsc: 147.4 is unrepresented because the ASV promotes its object to the bare *them all* under rule 40, while 147.11 and 147.20 write *in* and *with*. לְ Rd->Td, לְ R->Ncmpc, עַד, אֵת, אֶרֶץ, כֹּל, רָצָה, זָמַר, שָׁלַח, קָרָא, נָתַן, בֵּן and הָלַל differ only in the English the ASV wrote for one and the same treatment.",
+    "לֹא Tn->R is not a cross-verse split: both units stand in 147.10, where the ASV writes *not* on the finite verb of the first colon and recasts the second colon's negation onto the object nominal as *no*, which rule 15 gives to the negative.",
+    "The `added` blind spot was read end to end, since the table is keyed by source lemma. Seven added units fall into two families and both are consistent. A coordinating *and* is added exactly where no conjunction morpheme stands in the clause (147.1 t018, 147.9 t008, 147.18 t015), while every written waw takes its connective (147.3, 147.5, 147.18 s004, 147.19, 147.20). A supplied possessive is added exactly where no suffix stands on the noun (147.4 *their* on שֵׁמוֹת, 147.20 *his* on מִשְׁפָּטִים), while every written suffix takes its own pronoun.",
+    "147.1's two *it is* phrases are analysed differently and the source licenses it: the first colon writes זַמְּרָה אֱלֹהֵינוּ as the subject of טוֹב and the ASV extraposes it, so rule 25's extraposition sentence makes that *it* added; the third colon writes no subject at all, so rule 20's own leading example governs and *it is* stays with נָעִים. Both readings are recorded in that verse's notes.",
+    "Supplied prepositions before bare nominals are allocated by rule 33's own test throughout, not by position: 147.8 *upon the mountains*, 147.14 *in thy borders* and 147.15 *upon earth* go to the noun because another relation would have served, while 147.14's *filleth thee with* goes to the verb under rule 44 because *fill with* is the only way English writes that complement.",
+    "The participial series (147.2, 3, 4, 6, 8, 9, 11, 14, 15, 16, 17, 19) is allocated consistently three ways by what the source writes; recorded as a convention rather than left to be rediscovered.",
+    "BSB: none of the five disagreements is an error. The four R rows (147.3 twice, 147.4, 147.5) are rule 40 recastings in which the ASV writes the preposition's object as a bare English object or subject and spends no word on the relation; BSB attaches the preposition to its phrase by documented convention. The 147.10 הָ row is rule 29's indefinite rectum (*a man*). No accepted edge was changed.",
+    "Phrasal particles (*build up*, *gather together*, *bindeth up*, *bringeth down*, *sendeth out* twice, *casteth forth*) all stay with their verbs under rule 44, and the two hiphil causatives (147.8 *maketh to grow*, 147.18 *causeth to blow*) both head on the complement verb. No divergence."
+  ]
+}

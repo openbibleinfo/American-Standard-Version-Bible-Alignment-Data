@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "chapter": "MAT.1",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.MAT.1.5.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02",
+        "r03"
+      ],
+      "evidence": "ASV renders the Old Testament form 'Boaz' at both occurrences and carries no note on the name here, so the English cannot distinguish the Greek spellings Boes/Boos/Booz; base fallback retained."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.1.5.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "ASV renders 'Obed' at both occurrences with no note on the name, so the English does not distinguish Iobed from Obed; base fallback retained."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.1.6.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV calls David 'the king' once, in the first clause, and the second clause reads simply 'And David begat Solomon'; the added ho basileus of the longer reading is not rendered."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.1.7.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The mapped notes at 1:7 and 1:8 read 'Greek Asaph', so the ASV's underlying text had Asaph and the Asa reading (r02) is excluded; r00-base and r01 are the same Asaph wording and the English cannot choose between them."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.1.10.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Both mapped notes at 1:10 read 'Greek Amos' against the text's 'Amon', so the underlying text had Amos and r02 (Amon) is excluded; r00-base and r01 are the same Amos wording and the English cannot choose between them."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.1.18.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text reads 'the birth of Jesus Christ' and its textual_variant note relegates the shorter reading to the margin ('Some ancient authorities read of the Christ'), so Iesou stood in the text rendered."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.1.18.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'birth' renders genesis and gennesis alike; the only note bearing on the word is classed alternative_rendering ('Or, generation: as in verse 1') and so speaks to English wording, not to a reading. Base fallback retained."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.1.18.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV joins the clauses with a colon and no connective; an untranslated gar is not a distinction the English makes either way, and no note is mapped here. Base fallback retained."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.1.19.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'to make her a public example' renders deigmatisai and the compound paradeigmatisai identically, and no note is mapped here; base fallback retained."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.1.20.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV reads 'Mary' for either the declined Marian or the indeclinable Mariam; the only note ('Greek begotten') bears on 'conceived', not the name. Base fallback retained."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.1.22.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'by the Lord' renders hypo kyriou with or without the article, which English cannot show, and no note is mapped here; base fallback retained."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.1.24.v012",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'And Joseph arose from his sleep' renders egertheis and the compound diegertheis alike, and no note is mapped here; base fallback retained."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.1.25.v013",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'brought forth a son', without the possessive or 'firstborn' that the longer reading ton huion autes ton prototokon requires; the English renders the short reading."
+    }
+  ]
+}

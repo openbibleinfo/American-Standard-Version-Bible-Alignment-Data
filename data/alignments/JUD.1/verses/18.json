@@ -1,0 +1,205 @@
+{
+  "alignments": [
+    {
+      "confidence": "high",
+      "note": "Reported speech has an expressed English complementizer, so the conjunction aligns to it.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "confidence": "high",
+      "note": "The inflected verb takes the expressed English subject; the lexical verb is the target head.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "confidence": "high",
+      "note": "The dative pronoun takes its English case preposition.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "confidence": "high",
+      "note": "",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "confidence": "high",
+      "note": "",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "confidence": "high",
+      "note": "The Greek noun is anarthrous, so the supplied determiner is a rule 7 helper on the noun it determines; the unit is discontinuous around “last” under rule 15.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "confidence": "high",
+      "note": "The future form of εἰμί takes the supplied existential subject and auxiliary; the lexical verb is the target head.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "confidence": "high",
+      "note": "",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "confidence": "high",
+      "note": "",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "confidence": "high",
+      "note": "",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "confidence": "high",
+      "note": "The article is displaced by the possessive expression licensed by ἑαυτῶν.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "The reflexive possessor takes the whole English possessive expression; the pronominal possessor is the display anchor.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "confidence": "high",
+      "note": "",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "confidence": "high",
+      "note": "The genitive construction is rendered attributively without an English determiner, so the article has no realization.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "The genitive noun is rendered by the attributive adjective “ungodly.”",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    }
+  ],
+  "ref": "JUD.1.18",
+  "review_notes": [
+    "The accepted alignment is retained. All 15 source tokens and all 19 target tokens are partitioned exactly once. The only material ambiguity is the attachment of t007 “the”; it remains with s006 χρόνος as the supplied determiner of the anarthrous noun."
+  ]
+}

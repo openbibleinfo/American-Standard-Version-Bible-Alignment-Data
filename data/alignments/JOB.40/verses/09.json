@@ -1,0 +1,178 @@
+{
+  "alignments": [
+    {
+      "note": "Waw rendered *Or* (rule 14); the list of connectives is read off the ASV.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The אִם opening this disjunctive question has no English of its own: the ASV marks the question by inversion alone, fronting the possessive verb rather than writing a separate auxiliary (rule 17). Rules 20 and 50 give the particle a fronted finite word only where it is the construction's own copula or an existential frame; the possessive *hast* is rule 43's and belongs to the morpheme that makes the clause possessive.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The possessive לְ heading this verbless clause is what makes it possessive and carries the English *have* (rule 43); dropping *hast* leaves only the possession relation unstated, which is that rule's subtraction test.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Suffix of the possessive לְ takes the English subject pronoun (rule 43).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Indefinite article belongs to the noun that licenses it (rule 15).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Comparative preposition.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Assimilated article token with no *the* written for it (rules 12, 29).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Waw to *And*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Verb with its modal and subject pronoun; no interrogative morpheme stands in this second clause, so the fronted *canst* is the verb's own (rule 17). Head on the lexical verb.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Indefinite article belongs to the noun (rule 15).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Comparative כְּמוֹ.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Suffix pronoun.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "JOB.40.9",
+  "review_notes": [
+    "*hast* is the possessive לְ's under rule 43 and אִם is `unrepresented` under rule 17's inversion-only sentence. The competing reading, which the first pass took, gives *hast* to the particle under rules 20 and 50; it is rejected because those rules reach a construction-supplied copula and an existential frame, while a possessive *have* is a recasting rule 43 assigns to the morpheme that makes the clause possessive — and giving it to the particle left the לְ holding nothing while its own relation carried the clause.",
+    "The second clause writes no interrogative morpheme, so its fronted *canst* stays with תַרְעֵם under rule 17's last-sentence limit; the two halves of the verse differ because a particle stands in the first and not in the second.",
+    "The assimilated article [הַ] is `unrepresented`: the ASV renders `אֵל` anarthrously as the name *God* (rules 12, 29)."
+  ]
+}

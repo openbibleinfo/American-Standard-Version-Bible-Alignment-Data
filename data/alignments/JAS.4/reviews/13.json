@@ -1,0 +1,17 @@
+{
+  "alignment_sha256": "eeae0c8c5aed900e0689abe6afbbd2f4834be524716ddd9fc6ccb7d796242c6d",
+  "contract_version": "nt-greek-verse-v64",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed and left unchanged; only notes were tightened. All 20 source and 26 target IDs are partitioned exactly once, every aligned unit has nonempty arrays with both heads inside them, and the single unrepresented unit (s011) has an empty target and a null target head.",
+    "s011 is the only empty unit and is licensed by rule 38: εἰς τήνδε τὴν πόλιν puts a demonstrative in the English determiner slot, so the article realizes nothing. A reference comparison reporting it as a disagreement is not a correction.",
+    "s003/s004 checked against rules 32, 89 and 90. The ASV writes two English words for the article-plus-participle pair, so rule 90's single-word case does not apply and the ordinary split stands: ye to the article, that say to the participle. Whether the ye is read as rule 32's pronoun or rule 89's supplied address word changes nothing, since rule 89's closing clause defers to rule 32 where a participle follows.",
+    "s005 and s007 are analysed alike as single adverbs the ASV spells apart (rule 24), each one unit headed on the meaning-bearing second token. The competing reading — treating To and to as separate helpers, or leaving them to nothing — was rejected: no Greek preposition stands there, so rules 35 and 45 are not in question, and rule 94 names an English adverbial that is one lexeme spelt apart as staying whole.",
+    "s014 was checked against rule 73 and does not fall under it. ποιέω + ἐνιαυτόν is a light-verb pair, but the ASV spells both elements out as spend and a year, which is rule 73's stated contrast, so rule 2 splits them.",
+    "The clause's four future verbs share the single English will of t012, which stays inside s008's unit; no auxiliary was duplicated into s014, s018 or s020, and none of those units is short an obligatory helper as a result.",
+    "s020's head on gain rests on rule 91's query rather than on English syntax; a head on get would be the recurring failure that rule names."
+  ],
+  "ref": "JAS.4.13",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

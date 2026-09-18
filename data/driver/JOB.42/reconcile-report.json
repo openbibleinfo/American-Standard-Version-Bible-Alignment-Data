@@ -1,0 +1,30 @@
+{
+  "chapter": "JOB.42",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "JOB.42.7",
+    "JOB.42.8"
+  ],
+  "rejected": {},
+  "conventions": [
+    "`וְעַתָּה` at a clause head is divided by sense and not by position: `עַתָּה` takes the *now* that writes its own lexeme, and the waw takes whatever other connective the ASV has written beside it, whichever order the two words stand in. JOB.42.5 *But now* and JOB.42.8 *Now therefore* are one construction, and in the second the two units cross under rule 25. Rule 51 is the ground: distance from the waw, and the side of the clause a word falls on, are not evidence about which morpheme a connective belongs to.",
+    "The idiom `נָשָׂא פָּנִים` → *accept* is fused where its morphemes are contiguous and split where they are not, which is rule 30's contiguity condition and not an inconsistency. JOB.42.8 `אִם־פָּנָיו אֶשָּׂא` → *him will I accept* is one `noncompositional` unit; JOB.42.9 `וַיִּשָּׂא יְהוָה אֶת־פְּנֵי אִיּוֹב` → *and Jehovah accepted Job* has the subject and the object marker standing between the two morphemes, so rule 2 splits it and `פְּנֵי` is `unrepresented`, as `גָּדַל ... מִן` → *exceeded* leaves its preposition. BSB attaches the noun to its phrase in both places; that is the documented convention difference behind the JOB.42.9 disagreement, not an error.",
+    "JOB.42.3 writes two `וְלֹא` + finite-verb clauses that the ASV recasts differently, and they are aligned differently on that ground alone. *that which I understood not* writes an antecedent and a relative together, which is rule 46's headless shape, so both English words join the verb's own unit and that waw is `unrepresented`; *which I knew not* writes a bare relative after an antecedent the ASV has already written, so rule 17 gives the *which* to the waw. Read what the ASV supplied before reading the pair as a split."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v144",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 31 candidate lemma groups and read the dump end to end for the `added` units the table is blind to. Twenty-nine groups are context differences the source licenses: `הָיָה` as the presentative frame in v7 against the possessive *had* of v12-13 (rule 43); the dative and possessive `לְ`s left unrepresented against the `לְ` that carries *had* in the verbless relative clause of v10; `אֶל`, `בְּ`, `עַל`, `מִן`, `כְּ` rendered variously by the ASV; `אֶחָד` as a determiner in v11 against the substantival rectum of v14; the two gapped-comparative *hath*s of v7 and v8, which are treated identically.",
+    "Real split, patched: `וְעַתָּה`. JOB.42.5 renders it *But now* and gives *now* to the adverb and the connective to the waw; JOB.42.8 renders it *Now therefore* and gave *Now* to the waw and *therefore* to the adverb. Nothing in the source licenses the difference, only the order in which the ASV wrote the two English words. Rule 51 settles that position is not what assigns a connective to a waw, rule 25 permits the crossing, and rule 11 assigns a function word to the morpheme whose sense it carries, so JOB.42.8 now gives *Now* to `עַתָּה` and *therefore* to the waw. The competing position-based reading is named in the verse's notes under rule 8.",
+    "Contract error, patched: JOB.42.7's frame complementizer. The verse pass moved *that* from `הָיָה` onto the apodosis waw on the strength of rule 45's bolded waw sentence, but that rule's own qualification governs: the ASV writes the *that* immediately after *And it was so* and ahead of the temporal clause carrying its own *after*, not at the apodosis head, so the frame keeps *it was so ... that* and the apodosis waw is `unrepresented` under rule 14. The verse has the same shape as the rule's cited JOS.6 example. This restores the edge the verse pass had overridden.",
+    "BSB: no disagreement is a genuine error. The two v7 articles are rules 41 and 47 (the phrase writes one determiner and the demonstrative takes it); the v3 waw, the five `לְ`s and the v11 `אֹת` are the documented convention difference over function morphemes; the v8 `אִם` has no English written for it beside `כִּי`'s *for*; the v9 `פְּנֵי` is rule 30's contiguity condition applied to the `נָשָׂא פָּנִים` idiom, which the chapter fuses in v8 where the morphemes are contiguous. Nothing here was changed to move the aggregate.",
+    "Two constructions the chapter treats two ways on purpose, now recorded as conventions so a later pass does not read them as splits: the `נָשָׂא פָּנִים` idiom (fused in v8, split in v9 on contiguity), and JOB.42.3's two `וְלֹא` clauses (rule 46's headless *that which* against rule 17's bare *which* for a waw).",
+    "No promotion. The `וְעַתָּה` division follows from rules 11, 24, 25 and 51 as they already stand, so a new rule would restate them, and the precedent tables supplied carry no `עַתָּה` rows, so the precondition that the corpus agree is not met. A later chapter that has that evidence in hand can promote the division to rule 14; recording it as a chapter convention costs nothing in the meantime."
+  ]
+}

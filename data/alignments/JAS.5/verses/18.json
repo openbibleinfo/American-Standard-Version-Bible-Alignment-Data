@@ -1,0 +1,193 @@
+{
+  "alignments": [
+    {
+      "note": "Coordinating conjunction to the verse-opening And.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Adverb, displaced after the verb in the ASV; rule 15 permits the reordering.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Inflected verb takes its supplied subject pronoun under rules 7 and 9; head on the lexical verb prayed, not on he.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Conjunction to and.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Article to the under rule 19.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Noun to heaven; rule 26 keeps the article and noun as separate recoverable pairs.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Anarthrous object noun to rain, reordered after the verb in the ASV; the crossing with s008 is licensed by rule 15.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Finite verb to gave.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Conjunction to and.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Article to the under rule 19.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Noun to earth.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Finite verb rendered by the phrasal brought forth; forth is the verb's own particle, answering to no source token separately, so it stays inside the unit. Head on brought under rule 104's cometh forth: the verb word carries the lexeme's tense and sense and forth is its particle, not a meaning-bearing complement of a support verb as in make straight or bear witness. Heading on forth remains defensible if a reader takes bring here as the empty member of the pair.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Rule 20: the genitive pronoun autēs is free to take the supplied possessive her — rule 76's availability test is satisfied, autēs being spent on nothing else — so the article's determiner slot is displaced and it realizes nothing.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun to fruit, standing bare after the possessive displaces the determiner.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Genitive pronoun realized by the possessive her under rule 20; rule 11 keeps the ASV's markup from making it added.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "JAS.5.18",
+  "review_notes": [
+    "Reviewed against the contract and returned unchanged in structure; only two notes were strengthened (s012's competing head, s013's rule 76 check).",
+    "Every s### and t### id is partitioned exactly once: s001-s015 and t001-t016, no invented ids, no unit with an empty target except the unrepresented s013.",
+    "Variant SBLGNT.JAS.5.18.v017 is underdetermined over s007-s008 with the base reading among those the English permits, and the packet carries no FALLBACK EXCLUDED BY EVIDENCE mark, so rule 97 does not apply and no textual decision is made here (rule 12).",
+    "s013 tonally checked against rules 20 and 76: the article precedes and autēs follows, but position is not the test — what matters is that a source word is present and unspent to take her. It is, so the article is unrepresented and not aligned to a the the ASV never wrote.",
+    "s012 head on brought is the reading taken. Rule 91's operational test cannot be run on blastanō, which the corpus does not otherwise attest, so rule 104's neighbouring-class route was used and the nearest frame is a verb-plus-forth phrasal, where rule 104 heads the verb word (exerchetai -> cometh forth on cometh). A later reader with query access should check JAS.1.15 apokuei -> bringeth forth, already finalized in this book, and align the two if it heads differently; that is the one unit that would settle this by precedent rather than by analogy.",
+    "Both articles s005 and s010 are split from their nouns under rule 26 rather than bundled into noun-phrase units; s007 and s008 cross under rule 15 because the ASV writes gave rain against Greek hueton edōken."
+  ]
+}

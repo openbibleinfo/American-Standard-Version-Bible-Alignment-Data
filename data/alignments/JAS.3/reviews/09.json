@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "0d5ffb817e4df7b55033b2a516dbf65ab05b2e4ec33c959ef93e62b74c0e5e46",
+  "contract_version": "nt-greek-verse-v63",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed unchanged: every unit of the accepted alignment survives review. The partition is complete — all 18 source and all 20 target ids appear exactly once.",
+    "Both `ἐν αὐτῇ` phrases go to rule 81 (`aligned`, headed on the pronoun) rather than rule 45 `noncompositional`, since *-with* answers to the preposition and *there-* to the pronoun. Rule 81's cited units include `ἐν αὐτῷ` → *therein* and `δι᾽ αὐτῆς` → *thereby*, both governing personal pronouns, so the rule is not confined to demonstratives.",
+    "s004 takes *the* despite the packet gloss *our*: no English possessive is written, so rules 20 and 76 do not arise.",
+    "s012 and s014 are both `unrepresented` for different reasons — no determiner written for *men* (rule 23), and an article after an expressed head noun with a participle following (rule 31).",
+    "A reference comparison may report s014 as represented if it reads *who* off the article; rule 31's expressed-head-noun test is what decides against that, and rule 90 says in terms that it blesses no unit in which a head noun is expressed.",
+    "s016's supplied *the* stays on `ὁμοίωσιν` and does not ride with `καθ᾽`: the Greek is anarthrous, so rule 51's anarthrous clause makes the determiner a rule 7 helper on the word it determines, and rule 21 has no article here to carry a case preposition."
+  ],
+  "ref": "JAS.3.9",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

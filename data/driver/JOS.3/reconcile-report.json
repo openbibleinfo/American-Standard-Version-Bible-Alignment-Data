@@ -1,0 +1,28 @@
+{
+  "chapter": "JOS.3",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "מִלְמַעְלָה (3.13 s029-s032, 3.16 s007-s010) divides three ways: מִן takes from, the adverb מַעַל and its directive he share the single above under rules 30 and 32, and the intervening לְ is its own unrepresented unit, since the ASV writes only two words for the compound and each is already owned (rule 40).",
+    "The chapter's frame and apodosis connectives are counted across verse boundaries, and 3.16 cannot be read for them from inside itself. 3.2 gives the הָיָה frame's that to the apodosis waw (rule 45); 3.13 gives it to הָיָה, because כְּ already holds the temporal clause's when and the apodosis writes no waw of its own; 3.14 writes no that at all, so there is none to place, and the waw before the priests is unrepresented because the ASV opens that clause bare; and the that opening 3.16 is the apodosis connective of the temporal clause begun at 3.15's וּכְבוֹא, taken by the waw written for it.",
+    "תָּמַם standing beside a following verb is rendered adverbially by the ASV throughout this chapter — wholly at 3.16 s034, clean at 3.17 s027 — and takes that adverb as its own unit, while the verb beside it keeps the finite predicate. Giving the adverb to that neighbouring verb would leave תָּמַם unrendered.",
+    "נֵד אֶחָד → in one heap (3.13 s035-s036, 3.16 s012-s013): the supplied in goes to the numeral אֶחָד, the word it stands before, under rule 33's placement sentence, and נֵד keeps the bare heap. Both verses were brought to this reading; attaching in to נֵד as the English phrase's head noun is the named alternative and is what 3.16 originally had."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v139",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 43 candidate lemma groups, then read the dump end to end for the `added` units the candidate table is blind to. No cross-verse split found, so patches is empty.",
+    "Every multi-treatment bucket is licensed by the source or by what the ASV wrote. הַ on a participle: that/which where an explicit noun precedes (3.13 s027, 3.16 s005, rule 41's attributive case), those that where none does (3.16 s025, substantival case). נָשָׂא participles: that bare with a written antecedent (3.8, 3.13, 3.14, 3.15 s014, 3.17, rule 41), they that bare without one (3.15 s004, rule 46). Preposition plus construct noun fuses where one English word is written (בְּקִרְבְּכֶם among 3.5/3.10, לִפְנֵי before 3.6/3.11/3.14, מִצַּד beside 3.16, מִקְצֵה after 3.2) and splits where the ASV writes a word for each (בְּקֶרֶב הַמַּחֲנֶה through the midst 3.2, בְּתוֹךְ in the midst 3.17, מִפְּנֵיכֶם from before 3.10, עַד/בְּ + קְצֵה to/in the brink 3.8/3.15). Rule 30's one-rendering test accounts for all of them.",
+    "Determiner counting runs both ways inside the chapter and is consistent, not two analyses of one shape: הַיּוֹם הַזֶּה (3.7) gives the single written This to זֶה and leaves both article morphemes unrepresented under rule 41's limit, while בַּדֶּרֶךְ (3.4) has no demonstrative morpheme in the phrase and its assimilated article takes the written this under rule 41's main clause.",
+    "The four added units are genuine surpluses with no morpheme to carry them: so (3.7 t030) and and (3.16 t010) for clauses the Hebrew juxtaposes asyndetically, and two appositional evens (3.13 t046, 3.16 t039) standing before phrases no object marker marks. Nowhere else in the chapter is a supplied connective, determiner or copula folded into a neighbouring rendering. נֵד אֶחָד is read identically at 3.13 and 3.16, the supplied in going to the numeral under rule 33; 3.16's pass records bringing it into line, and that was the one place a real split could have survived.",
+    "BSB: none of the 18 disagreements is a genuine error. They are the documented convention families — the לְ of לֵאמֹר (rule 27), the repeated בֵּין of 3.4 and the repeated אִישׁ אֶחָד of 3.12 (rule 22), paragogic nuns (rule 32), an article on a toponym and articles on a phrase whose single determiner another morpheme took (rules 29, 41), a בְּ whose object the ASV promotes and a waw the ASV leaves unrendered (rules 40, 14), and the resumptive suffix of בָהּ at 3.4, where by which spends its two words on the relative and the preposition and leaves the suffix nothing to take (rule 22).",
+    "Nothing to promote. מִלְמַעְלָה, the frame-that counting and the בְּזֹאת head are all decided by rules 40, 45 and 23 as they stand. The one open head choice is הִשְׁכִּים → rose up early at 3.1 s002, headed on rose with early named as the competing reading; a single occurrence is too thin to widen rule 44's light-verb clause on, and no corpus row for שָׁכַם was supplied."
+  ]
+}

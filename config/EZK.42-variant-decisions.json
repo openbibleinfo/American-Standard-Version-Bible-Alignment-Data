@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "chapter": "EZK.42",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.EZK.42.9.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads \"And from under these chambers\": a single prepositional phrase governing the definite plural noun, with nothing answering to the ketiv's 3fs suffix on the preposition (ומתחתה, \"and from under it\") and no anarthrous \"chambers\". The qere וּמִתַּחַת הַלְּשָׁכוֹת is what the English renders."
+    },
+    {
+      "unit_id": "WLC.EZK.42.9.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV \"was the entry on the east side\" is a noun phrase, which renders the ketiv noun מבוא directly but equally renders the qere hiphil participle הַמֵּבִיא, since a substantival participle of this kind is normally Englished as \"the entry/entrance\" rather than an agent clause. Nothing in the wording, no italicized supply, and no mapped textual note distinguishes them; the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.EZK.42.14.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The qere waw-consecutive perfect וְלָבְשׁוּ and the ketiv imperfect ילבשו both yield ASV's \"and they shall put on other garments\"; the connective \"and\" is required by the English sequence in either case and so does not testify to the waw. No mapped textual note bears on the unit (the only note here is a hebrew_gloss on \"side\" in v. 16)."
+    },
+    {
+      "unit_id": "WLC.EZK.42.16.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV measures \"five hundred reeds\", i.e. חֲמֵשׁ־מֵאוֹת קָנִים with the qere מֵאוֹת \"hundreds\". The ketiv אמות would give \"five cubits\" and leave the numeral without the hundreds the ASV states; the English number itself distinguishes the readings."
+    }
+  ]
+}

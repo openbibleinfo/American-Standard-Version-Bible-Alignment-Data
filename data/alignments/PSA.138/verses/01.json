@@ -1,0 +1,172 @@
+{
+  "alignments": [
+    {
+      "note": "ASV supplies the superscription head 'A Psalm' (italicized, rule 7 corroborates only); no source morpheme answers to it. One added unit under rule 2 since the words stand together and do one office, headed on 'Psalm'.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Lamed of authorship rendered 'of'.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Proper name.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Finite verb takes subject pronoun, auxiliary and lexical verb phrase (rule 17); 'give thanks' is a light verb with complement, so the head is 'thanks' (rule 44). Discontinuous around the object pronoun under rule 25.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Object suffix realized by 'thee' (rule 18).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Preposition rendered 'with'.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Quantifying construct rendered attributively as 'whole' (rule 28); the possessive belongs to the suffix and the noun keeps its own word.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Noun 'heart'.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Suffix realized by the possessive 'my' (rule 18), fronted before the attributive under rule 25.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Preposition 'Before'.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "No article morpheme is segmented here, so the supplied 'the' determines the nominal expression and joins the noun's unit under rule 15; head on the noun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Finite verb with its auxiliary, subject pronoun and lexical verb phrase (rule 17); the supplied 'unto' is what the English verb's valency needs to reach its own object suffix, so it joins the verb's unit under rule 44. Head on 'sing', which carries the verb's lexeme; 'praises' as head under rule 44's light-verb clause was the competing reading, set aside because 'sing' is not a light verb and alone writes the singing.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018",
+        "t019",
+        "t020",
+        "t021"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Object suffix realized by 'thee' (rule 18); the preposition reaching it belongs to the verb (rule 44).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    }
+  ],
+  "ref": "PSA.138.1",
+  "review_notes": [
+    "'A Psalm' is the only added material; the ASV italics corroborate it but did not decide it (rule 7).",
+    "s011 head placed on 'sing' rather than 'praises'; the light-verb reading is named in that unit's note."
+  ]
+}

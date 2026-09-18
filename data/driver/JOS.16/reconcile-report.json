@@ -1,0 +1,27 @@
+{
+  "chapter": "JOS.16",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Boundary-itinerary toponyms: a place name or place noun standing in the itinerary with no preposition and no object marker on it takes the English *to*, *at* or *unto* the ASV writes before it into its own unit as a directional or locative accusative (rule 33), and that word is never `added`. This chapter reads it so seven times: `בֵּית־אֵל` → *to Beth el* (16.1), `עֲטָרוֹת` → *to Ataroth* (16.2, 16.7), `הַמִּכְמְתָת` → *at Michmethath* and `תַּאֲנַת שִׁלֹה` → *unto Taanath shiloh* (16.6), `הַיַּרְדֵּן` → *at the Jordan* (16.7), `נַחַל קָנָה` → *to the brook of Kanah* (16.8). Where a preposition or a construct relation is present it takes the word first, as `יַרְדֵּן יְרִיחוֹ` → *the Jordan at Jericho* does in 16.1 under rule 19.",
+    "`בְּתוֹךְ` (16.9) and `בְּקֶרֶב` (16.10) are each rendered *in the midst of* and are split, the `בְּ` taking *in* and the construct noun taking *the midst* with its supplied *the*. Rule 30 lists `בְּקֶרֶב` → *among* among its fused examples, but what that list names is the one-word rendering and not the lemma: here the ASV spends a word on each morpheme, so the one-rendering condition is unmet and rule 2 splits the pair. Do not read the example list as fusing these prepositions wherever they occur."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v161",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all ten verses end to end against the 24-lemma candidate table. Every difference the table flags is licensed by the source morphemes present or by the English the ASV actually writes; no construction is analysed two ways. Patches empty.",
+    "Directive `he` (7 occurrences, 4 treatments) is the largest candidate and is source-licensed throughout, exactly as rule 32 states all three of its cases: fused with its host where the ASV writes one word (*westward* 16.3, 16.6, 16.8; *eastward* 16.5, 16.6), its own aligned unit where the ASV writes a separate word (*on* 16.1, *at* 16.3 and 16.8, *to* 16.2 and 16.7), and unrepresented where another morpheme has taken the English that would carry the direction (the `מִן` of *from Janoah* in 16.7, the construct's *of Janoah* in 16.6).",
+    "*at the sea* in 16.3 and 16.8 is the one pair worth naming, and it is not a split: 16.8 writes an article morpheme (s014) that takes the written *the* while the noun keeps *sea*, and 16.3 writes none, so the *the* is supplied and joins the noun under rule 15. The `he` takes *at* in both, and JOS.16.8's review note already records the distinction.",
+    "Checked the supplied English word by word across the chapter for the hidden `added`-versus-folded split the lemma table cannot show. The three `added` units are each the counted surplus rules 16, 18 and 30 describe: *even* is `added` in 16.1, where no conjunction stands and the appositive carries no marker, but is the waw's in 16.3, where `וְעַד` stands before an expanded limit preposition and rule 16 gives the waw the bare *even* and `עַד` the *unto*; *their* is `added` in 16.4, where no suffix stands, and is the suffix's in 16.5, 16.8 and 16.9, where one does; the italic *thus* of 16.5 answers to nothing. Supplied *the*s, copulas and itinerary prepositions are folded into their licensing morphemes without exception.",
+    "Phrasal particles (*out*, *down*, *along*, *about*, *up*) are folded into their verbs in every verse, including `הלך` → *went along* in 16.8. That one is the closest call in the chapter, since *went* alone writes the lexeme, but it sits inside rule 44's own precedent (`כָּנַס` → *gather together*, `מָצָא` → *find out*) rather than in its `added` case (`בוֹא` hiphil → *bring him back*), so it stands as accepted.",
+    "BSB: all eight disagreements are documented convention differences and none is an error. Four are Td tokens where the ASV writes no *the* at all (16.6 `הַיָּמָּה` and `הַמִּכְמְתָת`; 16.10 the two articles of `הַיִּוֹם הַזֶּה`, whose one determiner the demonstrative takes); one is H853 in 16.6 with the object written bare (rule 16); two are Sd tokens whose direction another morpheme took (rule 32); and the last is the resultative `לְ` of 16.10, which rule 21 names as the usual source of precisely this disagreement. Nothing changed to improve the rate.",
+    "Two conventions recorded. Nothing promotable: the chapter's judgments are rules 32, 33, 30 and 16 applied as written, and the waw rendered *together with* in 16.9 is already covered by rule 30's one-rendering reading and by the corpus's *so that*, *and when* and *and that* waws."
+  ]
+}

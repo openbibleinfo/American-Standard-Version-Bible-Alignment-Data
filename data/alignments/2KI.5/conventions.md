@@ -1,0 +1,9 @@
+# 2 Kings 5 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **2KI.5.1** — לִפְנֵי is fused under rule 30 to whichever single English rendering the ASV writes for it in this chapter — 'with' (v.1), 'on' (v.2), 'were with' with the construction copula (v.3), 'before' (vv.15, 16, 23) — and in v.27 to the noun 'presence' standing after a separately written 'from' on the מִן; the margin's 'Hebrew before' is read and set aside each time (rule 38).
+- **2KI.5.11** — 'went away' for a bare וַיֵּלַךְ (vv.11, 12): 'went' writes the whole of הָלַךְ and no מִן or other morpheme in the clause states the departure, so 'away' is its own `added` unit under rule 44's surplus-particle test. The competing reading keeps 'away' with the verb; the chapter takes the `added` reading in both verses.
+- **2KI.5.21** — The one-word question הֲשָׁלוֹם → 'Is all well' and its answer שָׁלוֹם → 'All is well' (vv.21, 22): the supplied subject 'all' is `added` under rule 20's closing sentence, the fronted 'Is' goes to הֲ under rule 20, and the 'is' of the answer joins the predicate noun.
+- **2KI.5.18** — Bare locative בֵּית רִמּוֹן (v.18, three times): after בּוֹא the supplied 'into' is the verb's under rule 44, since the place is what בּוֹא governs; after חוה the supplied 'in' belongs to the noun under rule 33, with the supplied 'the' on the construct under rule 29.
+- **2KI.5.14** — The italic 'himself' of 'dipped himself' (v.14) is kept with טָבַל as the ASV's rendering of the verb's intransitive use here, not marked `added` like the supplied object pronouns of vv.16, 23 and 24; the competing `added` reading is named in the unit note.

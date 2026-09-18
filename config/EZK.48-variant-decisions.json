@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "chapter": "EZK.48",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.EZK.48.14.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the clause passively: 'nor shall the first-fruits of the land be alienated'. A passive with the first-fruits as its subject requires a transitive verb governing them as object, which is the hiphil qere yaavir ('cause to pass over', i.e. transfer ownership); the ketiv qal yaavor is intransitive ('pass over/away') and would put the first-fruits in the subject of an active 'shall not pass', which the ASV does not give. The transfer-of-ownership sense of 'alienated' likewise answers the causative."
+    },
+    {
+      "unit_id": "WLC.EZK.48.15.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is only the gender of the pronominal suffix on b-tokh ('in the midst of it', masc. qere vs fem. ketiv). ASV renders 'and the city shall be in the midst thereof', and English 'thereof' carries no gender, so the wording cannot distinguish the suffix. No ASV note is mapped here. Base qere fallback retained."
+    },
+    {
+      "unit_id": "WLC.EZK.48.16.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The ketiv writes an additional chamesh ('five') that the qere does not read. ASV gives each of the four sides as the plain figure 'four thousand and five hundred', with no extra numeral or repeated 'five' at any of the four measurements; a translated extra chamesh would have altered the number the ASV prints. The English therefore reflects the reading that omits it."
+    },
+    {
+      "unit_id": "WLC.EZK.48.18.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is only the gender of the pronominal suffix on t-vuah ('its increase', masc. qere vs fem. ketiv). ASV renders 'and the increase thereof shall be for food'; 'thereof' is genderless in English and so does not distinguish the suffix, and no ASV note is mapped here. Base qere fallback retained."
+    },
+    {
+      "unit_id": "WLC.EZK.48.21.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is only the gender of the pronominal suffix on b-tokh ('in the midst of it', masc. qere vs fem. ketiv). ASV renders 'the sanctuary of the house shall be in the midst thereof'; English 'thereof' is genderless and cannot distinguish the suffix, and no ASV note is mapped here. Base qere fallback retained."
+    }
+  ]
+}

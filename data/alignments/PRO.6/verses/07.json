@@ -1,0 +1,102 @@
+{
+  "alignments": [
+    {
+      "note": "Written relative takes the English relative pronoun.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Existential negation heads on the negation word (rule 50).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The clause is verbless and the possessive preposition is what makes it possessive, so it carries the *having* (rule 43).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Two morphemes point at the antecedent and the ASV writes one word for it; the resumptive suffix is the unrendered occurrence (rules 22, 43), no subject pronoun being written beside the relative.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The margin (*Or, judge*) was read and set aside (rule 38).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Waw rendered by the connective *or* (rule 14).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    }
+  ],
+  "ref": "PRO.6.7",
+  "review_notes": [
+    "This is rule 43's `אֲשֶׁר בּוֹ מוּם` → *that hath a blemish* division: the relative supplies the subject, the preposition the verb of having, and the suffix is left unrendered."
+  ]
+}

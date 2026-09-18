@@ -1,0 +1,32 @@
+{
+  "chapter": "DEU.10",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "kĕ's compound renderings are each read as one rendering of the single preposition under rule 30 and headed on the first word: *like unto* (10.1, 10.3), *according to* (10.4), *as at* (10.10, 10.15). The second English word is neither split off onto the following article or noun nor marked added, because dropping it leaves no morpheme short of a rendering of its own. A bare *as* (10.22) is the same preposition where the ASV happened to write one word.",
+    "kaʾăšer is one noncompositional unit headed on the governing preposition whether the ASV writes *as* (10.5) or the two-word *according as* (10.9); the two-word rendering is not split onto kĕ and ʾăšer.",
+    "Determiner counts in demonstrative phrases: where a demonstrative pronoun (hîʾ, zeh, ʾēlleh) stands in the phrase, it takes the one determiner the ASV writes and every article in the phrase — the noun's own and the agreement article alike — is unrepresented (10.1, 10.8, 10.10, 10.15, 10.21). Where no demonstrative morpheme stands, the article itself takes the written *this*: haYYôm → *this day* (10.13). The chapter writes both shapes, so read the phrase rather than the English.",
+    "Possessive and belonging clauses take three shapes here, decided by which morpheme is present. hāyāh present takes *hath* itself and its lĕ goes unrepresented (10.9). A verbless belonging clause gives *unto ... belongeth* whole to the lĕ heading the predicate, headed on *unto* and discontinuous around the subject (10.14). And where the clause's only preposition is a locative bĕ that has already taken its own *in*, the supplied *having* answers to no morpheme and is added, the waw the ASV leaves unrendered going unrepresented beside it (10.3).",
+    "*nor* rests on the waw alone at 10.9, where the clause's single lōʾ is spent on the determiner *no* of *no portion*, and on the fused waw+lōʾ at 10.17, where a second negative is written. Both are correct; the difference is what the Hebrew writes, and neither should be levelled to the other."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v129",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 48 candidate lemma groups and then read the dump end to end, since the candidate table is blind to `added` units. No construction is analysed two ways without something in the source or in the ASV licensing the difference.",
+    "הוּא Pp3ms (10.9 unrepresented vs 10.21 *He*): licensed. 10.9 writes an explicit subject noun that takes the English subject, so the resumptive pronoun is the unrendered occurrence (rule 22); both verses give the supplied copula to the written predicate (rule 20).",
+    "לְ + divine name (10.9 unrepresented vs 10.14 *unto belongeth*): licensed. 10.9 has הָיָה present, which takes *hath* and silences its preposition (rule 43); 10.14 is verbless, so the belonging verb joins the לְ heading the predicate (rule 49).",
+    "*nor* is treated two ways and both are right: the waw alone at 10.9, where the clause's single לֹא is already spent on the determiner *no*, and the fused waw+לֹא at 10.17, where a second negative is written. Rule 35's 'align what is actually there' — do not level these to each other.",
+    "כְּ compounds are consistent: *like unto* (10.1, 10.3), *according to* (10.4), *as at* (10.10, 10.15) and bare *as* (10.22) are one rendering each, fused under rule 30 and headed on the first word.",
+    "Article counts are consistent chapter-wide: each written *the* is matched to the word it stands before (10.4, 10.8, 10.14, 10.17, 10.22), agreement articles go unrepresented (10.2, 10.4, 10.10, 10.17), a demonstrative pronoun in the phrase takes the one determiner written (10.1, 10.8, 10.10, 10.15, 10.21), and the article takes *this* itself only where no demonstrative morpheme stands (10.13).",
+    "Added-blind check: the two `added` units are *having* (10.3) and *thy* (10.11), and neither has a counterpart folded into a licensing morpheme elsewhere. Supplied determiners go to their nouns, supplied copulas to their predicates, a supplied possessive goes to a present suffix (10.16, 10.21), and the only other supplied verb — *belongeth* (10.14) — has a predicate לְ to carry it, while 10.3's בְּ has already spent its word on *in* (rule 43's count sentence).",
+    "BSB 466/498 (93.6%). The Td × 19 and R × 6 classes are the documented convention difference. The singletons — 10.3 וּ, 10.7 ה, 10.9 הוּא, 10.10 בַּ, 10.13 אֶת, 10.15 אוֹתָ, 10.16 כֶם — are correct ASV-specific calls under rules 40, 32, 22 and 16. None is a genuine error, and nothing was changed to move the rate.",
+    "No promotions or amendments. The chapter's hard calls are already decided by rules 30, 32, 41, 43 and 47. The one novel call — *even* given to an appositional בְּ at 10.15 — rests on a single occurrence with no corpus row behind it and its unit note names the competing reading; a rule built on that would be paid for by every later chapter."
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "alignments": [
+    {
+      "note": "Δυνάμεις → 'miracles' (the ASV notes the Greek 'powers').",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "τε with no answering καί keeps the connective 'And' (rule 70).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The litotes οὐ … τυχούσας is rendered by the single positive word 'special', which answers to neither the negative nor the participle separately (rule 45's test). Splitting the pair — τυχούσας alone on 'special' with οὐ unrepresented — would lose the negation that licenses the word.",
+      "source": [
+        "s003",
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "noncompositional",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "A noncompositional unit never absorbs an intervening article; it stands as its own unrepresented unit (rule 93).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Article before a name-like noun with no English determiner (rule 23).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "θεός → 'God'.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "ἐποίει → 'wrought'.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "διά → 'by'.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Article → 'the'.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "χειρῶν → 'hands'.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Παύλου → 'of Paul', headed on the name.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    }
+  ],
+  "ref": "ACT.19.11",
+  "review_notes": [
+    "οὐ τὰς τυχούσας → 'special' is taken as one noncompositional unit over the negative and the participle, with the intervening article left unrepresented under rule 93."
+  ]
+}

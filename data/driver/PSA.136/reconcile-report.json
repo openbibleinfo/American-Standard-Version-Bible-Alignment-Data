@@ -1,0 +1,29 @@
+{
+  "chapter": "PSA.136",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The refrain `כִּי לְעוֹלָם חַסְדּוֹ` is divided identically in all 26 verses: `כִּי` → *For*; the italic *endureth* is the construction-supplied linking verb of a prepositional predicate and joins the `לְ` under rules 20 and 49, the unit *endureth for* headed on *for*; `עוֹלָם` → *ever*; `חֶסֶד` → *lovingkindness*; the suffix → *his*. `חַסְדּוֹ` is the clause's subject and `לְעוֹלָם` its predicate, so the copula never joins the noun and the supplied verb is never `added`.",
+    "Each `לְ` of the participial and appositional series takes only what the ASV writes for it: *To* before the participles of vv. 4-17, *unto* before the divine names of vv. 1-3, 22, 26, and nothing at all before `סִיחוֹן` (v. 19) and `עוֹג` (v. 20), where the ASV continues the apposition of vv. 17-18 bare and the preposition is `unrepresented` under rule 40. The BSB disagreements at vv. 19, 20 and 23 follow from this and are convention differences, not errors."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v208",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 26 verses end to end against the 13-lemma candidate table, the chapter's single `added` unit, and the five BSB disagreements. No cross-verse split found: verdict no-change, patches empty.",
+    "`לְ` before a proper name is not a split. vv. 19-20 continue the apposition of vv. 17-18 bare, so the ASV spends no word on the relation and rule 40 silences the preposition, while vv. 1 and 22 have a written *unto*. The same holds for `בְּ` (*by*/*through*/*in*/*with*) and for `הַ` on a singular noun, where the assimilated articles of *by day* and *by night* have no written *the* to take and the one in *the wilderness* does.",
+    "`הוּא` 3ms before a conjunction is three constructions, not three analyses of one. v.4 is rule 30's `לְבַדּוֹ` → *alone*, where that rule itself puts the suffix outside the fusion and rule 40 leaves it unrepresented; the corpus rows for `לְ בַדְּ` (R+Ncmsc) → *alone* exclude the suffix identically. v.14 is rule 19's suffix-as-rectum *of it*, headed on the pronoun, which the corpus carries in 89 units. v.22 is an ordinary possessive.",
+    "`תָּוֶךְ` (v.11 *among*, v.14 *the midst*) is not a split: in both verses the ASV writes a separate word for each of the three morphemes, so rule 30's one-rendering condition is unmet in both and neither fuses.",
+    "Article placement is uniform across the four construct chains that carry an article. The present morpheme takes the written *the* every time — fronted in vv. 2, 3, 26 where the rectum is rendered anarthrously, standing before its own word in v. 19 where the rectum is arthrous — and is `unrepresented` in v. 20, where the ASV writes no *the* anywhere in the phrase.",
+    "The candidate table is blind to `added` units, so I checked the chapter's only one directly. v.22 *Even* stands before a phrase no object marker marks and no waw opens, so rule 16's limit makes it `added`. No other verse folds a comparable appositional word into a neighbouring morpheme, so nothing hides behind the clean table.",
+    "Supplied English is handled the same way throughout: *Oh* joins the imperative in vv. 1, 2, 3, 26 (rule 17); the supplied *the* goes to the construct noun in vv. 13, 14, 15 (rule 29); the indefinite *a*/*an* to its noun in vv. 12, 21, 22 (rule 15); *him that*/*him who*/*Who* to the anarthrous participle in vv. 4, 5, 6, 7, 10, 13, 16, 17, 25 (rule 46, with v.25 taking only the relative under that rule's second rider); and the italic *endureth* to the refrain's `לְ` in all 26 verses.",
+    "BSB: none of the five disagreements is an error. v.4's suffix is rule 30's fusion boundary, vv. 19, 20 and 23's prepositions are rule 40's recastings, and v.20's article is rule 29's closing sentence. All five are the documented function-morpheme convention difference, and no accepted edge was changed to improve the rate.",
+    "No promotions or amendments. Every contestable call here — the resuming *he* of v.1 under rule 25's nominal-resumption paragraph, the italic *endureth* under rules 20 and 49, `יַם־סוּף` → *the Red Sea* under rule 29's rectum-attributive paragraph, *made ... to pass* under rule 52's second limit, and the `added` *Even* under rule 16 — landed on a rule the contract already states, several written for exactly this shape."
+  ]
+}

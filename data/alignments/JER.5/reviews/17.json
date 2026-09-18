@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "fb2345fc55749b0ce0d3e53be9c0a2f14b5250e111d3fc8f9a5103debb425b51",
+  "contract_version": "ot-hebrew-verse-v57",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 37 source and 50 target tokens are partitioned exactly once, with one `added` unit.",
+    "The italic *which* is correctly `added`: the Hebrew writes its antecedent (לַחְמֶךָ) and no relative morpheme, so rule 46's headless-relative licence does not reach it and rule 55 governs. The ASV italic corroborates rather than decides (rule 7).",
+    "*wherein* fuses אֲשֶׁר with בָּ across the intervening subject and participle: the one English word still carries both the relative and the preposition, which is rule 35's far side of rule 30's contiguity condition. The resumptive הֵנָּה is left `unrepresented` under rule 22, with the competing reading named in the unit.",
+    "The ASV footnote 'Or, impoverish' concerns s026 and does not change the alignment."
+  ],
+  "ref": "JER.5.17",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

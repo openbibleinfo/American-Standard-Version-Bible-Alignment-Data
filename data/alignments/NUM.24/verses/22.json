@@ -1,0 +1,130 @@
+{
+  "alignments": [
+    {
+      "note": "Rule 35: `כִּי אִם` is fused into one English word; rule 23 puts the source head on the governing first particle, neither morpheme carrying content the other lacks.",
+      "source": [
+        "s001",
+        "s002"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Rule 21: in the resultative `הָיָה לְ` recast as a passive, the copula belongs to `הָיָה`.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Rule 21: the recasting leaves no English word for the `לְ`, exactly as in `הָיָה לִשְׂרֵפַת אֵשׁ` → 'is burned with fire'.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Infinitive construct rendered by the passive participle 'wasted'.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Explicit subject name; the margin's 'the Kenites' does not change the alignment.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Preposition rendered 'Until'.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The ASV renders `עַד־מָה` by a bare 'Until' and writes nothing for the interrogative; the margin's 'How long?' is the reading in which it would be rendered, and rule 38 leaves that secondary.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Explicit subject name.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Rule 44's subtraction: 'carry ... away captive' is a light verb plus complement, and dropping 'captive' loses the lexeme, so the head is 'captive'. The unit is discontinuous around the object pronoun under rule 25.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Rule 18: object suffix.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    }
+  ],
+  "ref": "NUM.24.22",
+  "review_notes": [
+    "`עַד־מָה` is rendered by a bare 'Until', so the interrogative is unrepresented; the margin offers 'How long?' but is not evidence under rule 38.",
+    "`כִּי אִם` fuses into the single 'Nevertheless' under rule 35."
+  ]
+}

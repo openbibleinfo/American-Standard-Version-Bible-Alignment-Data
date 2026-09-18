@@ -1,0 +1,190 @@
+{
+  "alignments": [
+    {
+      "note": "Participle with a supplied subordinator (rule 86) and a supplied object *it* (rule 7), discontinuous under rule 15.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "δέ → But.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Article → the.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "ὄχλοι → multitudes; the participle's subject is expressed, so the noun takes the English subject word under rule 74.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Verb with its subject and copula; rule 17 heads on the meaning-bearing predicate *afraid*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "καί → and.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "ἐδόξασαν → glorified.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Article before *God* with no English determiner (rule 23).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "θεόν → God.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Second attributive article standing after the expressed head noun θεόν. Rule 31's test is whether the article governs an expressed head noun, and it names this very shape: `τῷ θεῷ τῷ κτίσαντι` → *God who created* leaves the second article realizing nothing and gives *who* to the participle. Rule 90 is not available here, saying in terms that it blesses no unit in which a head noun is expressed, and rule 23 names a second attributive article as its own unrepresented unit.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Attributive participle rendered as a finite relative clause; the relativizer and the auxiliary are rule 7/9 helpers on the participle under rule 31, headed on the lexical verb.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "ἐξουσίαν → authority.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Attributive demonstrative τοιαύτην → such.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "The ASV gives *men* no determiner, so the article anchors nothing (rules 21, 23).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Dative noun with the case preposition staying on it, no determiner having been written (rule 21).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "MAT.9.8",
+  "review_notes": [
+    "Corrected: s010 is the second article of τὸν θεὸν τὸν δόντα, standing after an expressed head noun, so rule 31 empties it and gives *who* to the participle. The accepted reading applied rule 90, which is scoped to a substantival article and expressly blesses no unit in which a head noun is expressed.",
+    "A reference comparison will report the unrepresented s010 as a disagreement; rule 32's closing clause says such a report is not a correction."
+  ]
+}

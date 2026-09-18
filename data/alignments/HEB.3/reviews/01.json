@@ -1,0 +1,11 @@
+{
+  "alignment_sha256": "7d049fe1ad0e7881474acd423d2a376afd9165ef05a2a1112776b7db7afe2166",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Reconciliation by claude-code — corrected",
+    "The supplied appositional *even* was marked `added` on rule 105's default, but rule 105 settles only two carrier classes and `Ἰησοῦν` is neither: it is a bare anarthrous name in apposition, with no preposition and no substantival article carrying it. The corpus has exactly this shape at JHN.5.45, `Μωϋσῆς` → *even Moses*, `aligned` and headed on the name, unhedged. Rule 105's `added` branch rests on rule 32's *and nothing else*, which restricts an article and cannot bind a name, so rule 7's ordinary fold applies and *even* belongs to the word it introduces. Every other unit of the verse is unchanged."
+  ],
+  "ref": "HEB.3.1",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

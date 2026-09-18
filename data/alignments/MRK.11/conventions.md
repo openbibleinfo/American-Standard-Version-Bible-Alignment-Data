@@ -1,0 +1,6 @@
+# Mark 11 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- συκῆ → fig tree is headed on tree at 11:13, 11:20 and 11:21. Rule 66's two arms pull opposite ways here and the same verse decides it: 11:13 spends figs on σύκων separately, so fig glosses the base noun and tree is what συκῆ's own tree-forming derivation contributes, which puts the phrase with ζῷον → living creature and κτίσμα → created thing rather than with ἀγάπαις → love feasts. Head on fig is the reading rejected.
+- ὀψέ is written two ways and both are one analysis, the ASV's phrasing deciding. At 11:11 the ASV compresses ὀψέ and ὥρας into the single word eventide, so rule 39's test keeps the pair one aligned unit headed on ὀψέ, and the intervening τῆς stands unrepresented for want of a determiner. At 11:19 no ὥρας stands and ὀψέ takes evening alone, the ASV's every answering to ὅταν and ἐγένετο left unrepresented because the compression writes no word for the verb of becoming. Neither verse is precedent for emptying ὀψέ.

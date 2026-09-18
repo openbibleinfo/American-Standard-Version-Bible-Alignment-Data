@@ -1,0 +1,189 @@
+{
+  "alignments": [
+    {
+      "note": "The aorist participle βουληθείς is rendered by the whole frame *Of his own will*; no other source token competes for *his own*, so the supplied possessive and determiner are rule 7 helpers on the participle. Rule 17 heads the unit on the meaning-bearing *will* rather than on the initial *Of*, and rule 91 confirms it: *will* is the word the corpus spends on βούλομαι, while *Of* answers to no case, no Greek preposition standing here for rules 67 or 78 to bear on.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Finite ἀπεκύησεν takes its supplied subject *he* and the discontinuous phrasal verb *brought … forth* (rule 15), the object *us* intervening. Rule 9 heads on the lexical verb *brought*; *forth* is the English verb's own particle, not a separate source correspondence, and *bring* is not a semantically empty support verb of rule 91's kind.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t008"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Accusative object ἡμᾶς → *us*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "λόγῳ is anarthrous, so no article competes for the determiner: under rule 51 the supplied *the* is an ordinary rule 7 helper on the noun, and the dative's case preposition *by* rides with it (rule 21).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Anarthrous genitive ἀληθείας → *of truth*; rule 17 heads a source noun rendered *of + noun* on the noun.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Rule 61: the preposition governing the articular infinitive takes the whole English clause-introducer, here the bare complementizer *that*, and heads on it since the ASV writes no separate prepositional word (compare rule 24's *to the end that*).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Nominalizing article of the articular infinitive; English spells the construction with no word answering to the article itself (rules 61, 23).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The expressed accusative subject of the infinitive is realized by *we*; rule 74 concerns a supplied subject, and here the Greek expresses one, so it takes its own English word.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "εἶναι → *should be*, the modal being the infinitive's own auxiliary under rule 9, headed on the lexical *be*. Rule 61's `εἰς τὸ … εἶναι` → *to the end that … should be* puts the modal here and not in the preposition's clause-introducer.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "The indefinite τινα is rendered by the frame *a kind of*, which softens the predicate; the supplied determiner and the linking *of* ride with it under rule 7, *a* determining *kind* rather than *firstfruits*. Rule 17 heads it on the nominal *kind*. Two competing readings are defensible: leaving τινα unrepresented with the whole frame folded into ἀπαρχήν, and reading rule 58 — τινα as an attributive adjective, giving the discontinuous *a … firstfruits* to the noun and only *kind of* to τινα. I keep the frame whole on τινα, since *a kind of* is exactly what answers to τις, rule 23 is only for a token English realizes nowhere, and rule 58's rationale (a determiner determines the noun phrase, an adjective being only a modifier inside it) does not transfer where the supplied determiner stands on the frame's own English head.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019",
+        "t020"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "ἀπαρχήν → *firstfruits*, standing bare after the frame that realizes τινα.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Rule 20 displacement: the genitive pronoun αὐτοῦ is free — the ASV has spent it nowhere else, so rule 76's availability test is satisfied — and takes the English possessive *his*, leaving the article realizing nothing. Rule 57's interposed-genitive case is not the contrast, since it says in terms that rule 20 is untouched where a possessive already occupies the determiner slot, and the ASV writes no *the* here.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive pronoun αὐτοῦ → the possessive *his* (rule 20).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "κτισμάτων → the discontinuous *of … creatures* (rule 15), the case preposition staying with the noun since rule 20 emptied the article; headed on the noun under rule 17.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t022",
+        "t024"
+      ],
+      "target_head": "t024"
+    }
+  ],
+  "ref": "JAS.1.18",
+  "review_notes": [
+    "Returned unchanged in substance: every unit of the accepted alignment stands. The only edits are to notes — s011 now names the rule 58 reading as the second competing analysis, s012 cites rule 76's availability test and rules out rule 57 by name, and s008 says why the modal sits with the infinitive.",
+    "Every s### and t### is partitioned exactly once; the two unrepresented units are the infinitival article s007 and the displaced article s012.",
+    "s003 and s009 are the two ἡμᾶς tokens: the first is the object of the finite verb (*us*), the second the expressed subject of the infinitive (*we*). Because s009 is expressed rather than supplied, rule 74 does not arise.",
+    "*forth* is kept with *brought* as the English phrasal verb's own particle rather than split onto any Greek token.",
+    "The one materially contested unit is s011 τινα → *a kind of*; both competing readings are named in that unit's note.",
+    "Units are listed in target order for s008/s009 (the infinitive's subject precedes its verb in English); source-id order is not required by the contract."
+  ]
+}

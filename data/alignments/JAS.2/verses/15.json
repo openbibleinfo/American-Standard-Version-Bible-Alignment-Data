@@ -1,0 +1,146 @@
+{
+  "alignments": [
+    {
+      "note": "Ordinary conditional ἐάν realized by the clause-introducing *If* (rules 40, 72); this is not the generalizing ἐάν of rule 72's second arm, no relative or indefinite standing with it.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Anarthrous Greek, so the supplied indefinite *a* is an ordinary rule 7/51 helper on the noun it determines.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Disjunctive particle to *or*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The ASV supplies no second determiner, so the noun stands alone.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Predicate adjective to *naked*; the copula is expressed in Greek, so rule 53's supplied-copula question does not arise and the adjective takes only its own word.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Expressed verb to *be*; it is the lexical realization of ὑπάρχωσιν, not a supplied helper, so rule 2 splits it from the predicate adjective.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Expressed conjunction to *and*, coordinating the two predicates; rules 88 and 98 do not arise, no juncture being supplied.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The participle is rendered by the English idiom *in lack*; no Greek preposition stands for *in*, so it is a rule 7 helper on the participle rather than a rule 36 preposition. Head on the meaning-bearing *lack* under rule 17, the word the corpus spends on λείπω. Competing reading: giving *of* (t011) to the participle as part of *in lack of*, λείπομαι governing the genitive directly; rejected because rule 21 makes *of* the case preposition of τροφῆς, which is where it goes once the article is unrepresented.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "The ASV gives the noun phrase no determiner, so the article has no *the* to anchor; rule 23, and rule 21 forbids leaving a bare *of* on it. Rule 57 confirms the article governs τροφῆς across the interposed adjective, which changes nothing where no determiner is written.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Attributive adjective to *daily*. Rule 58 does not arise: the ASV supplies no determiner for the phrase.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "With the article unrepresented under rule 23, the case preposition *of* stays with the noun as one discontinuous unit headed on *food* (rules 15, 21), exactly as rule 21's `τῆς εἰρήνης` → *of peace* has it.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t013"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "JAS.2.15",
+  "review_notes": [
+    "Reviewed and returned unchanged; the notes are expanded to name the rules and the competing readings, but no unit's ids, status or heads were altered.",
+    "Partition verified: s001-s011 and t001-t013 each appear exactly once.",
+    "s006 ὑπάρχωσιν is an expressed Greek verb, so *be* is aligned lexical material and not a supplied copula; rules 53, 63, 68 and 96 are not in play, and the predicate adjective γυμνοί keeps only *naked* under rule 2.",
+    "s008/s011 division of *in ... of*: *in* is a supplied helper on the participle (no Greek preposition is expressed anywhere in the clause, so rule 36 has nothing to realize), while *of* answers to the genitive of τροφῆς under rule 21. The alternative, reading *in lack of* as one frame on the participle, is defensible and is named in s008's note; it was rejected because rule 67's frames expand a Greek case or preposition and here the frame would expand a verb, and because rule 21 already assigns the genitive's *of* to the noun once the article carries no determiner.",
+    "s009 τῆς: rule 21's *of the* pattern requires an English determiner; none is written, so the article is unrepresented and *of* rides with τροφῆς. A reference comparison may report s009 as a disagreement; that is not a correction.",
+    "Both variant units (v013 on s001, v014 on s008) are underdetermined with the base among the compatible readings and carry no FALLBACK EXCLUDED mark, so rule 97 does not apply and no target token is `added`."
+  ]
+}

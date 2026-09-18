@@ -1,0 +1,144 @@
+{
+  "alignments": [
+    {
+      "note": "לֹא → *not*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "הָיָה is present, so the existential itself carries the *have* of the possessive recasting (rule 43), with its auxiliary.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The possessive recasting leaves the לְ with no English word (rules 40, 43).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The suffix takes the English subject pronoun (rule 43).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "בְּ → *in*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "כִּיס → *bag*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Suffix → *thy*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "אֶבֶן וָאֶבֶן is a distributive repetition idiom rendered *diverse weights*; no morpheme owns *diverse* in particular, so the phrase is indivisible and takes the deterministic first-token source head with the lexical English anchor as target head (rules 6, 30). Splitting it — *weights* on the first noun, *diverse* on the waw, the second noun unrepresented — was the competing reading, rejected because assigning *diverse* to the conjunction is arbitrary.",
+      "source": [
+        "s008",
+        "s009",
+        "s010"
+      ],
+      "source_head": "s008",
+      "status": "noncompositional",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Substantival adjective with the indefinite article it licenses (rules 15, 46).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Waw → *and*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Substantival adjective with its indefinite article.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "DEU.25.13",
+  "review_notes": [
+    "The doubled-noun idiom is aligned `noncompositional` across both nouns and their waw; see the unit note for the competing split."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "6010c0b31a0287bb848fe372a18ac35be8cf1ac39ce03c268289c3dd23ba7a20",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Checked the partition: all 27 source ids and all 37 target ids appear exactly once, statuses and heads are well formed, and the single `unrepresented` unit (s025) is source-only with a valid source head.",
+    "Key decisions all check out: s003 τόν takes *the* for ἀρχηγόν across the interposed τῆς πίστεως (rule 57); s004 τῆς takes *of our* headed on *our* under rule 20's second arm, no genitive pronoun standing to displace it (rule 76 confirms nothing else is available); s012 τῆς precedes its expressed head noun χαρᾶς with a participial — not prepositional — modifier, so under rule 31 the article takes *the*, the participle carries *that was*, and χαρᾶς stands bare; s017 and s021 are anarthrous, so the supplied determiners are rule 51/58 helpers on the noun and on the substantival adjective respectively, with the head on *right* under rule 17's generic-noun clause; s025/s026 follow rule 21's determinerless clause.",
+    "The one genuinely contestable edge is s013's *before*: keeping it inside προκειμένης as part of the gloss *set before* rather than reading it as the case preposition of the dative αὐτῷ (which rule 21's `τοῖς ἀνθρώποις` → *unto men* pattern would license) is defensible and is stated, but the unit note itself does not name the competing reading as rule 16 asks — the review note does. If HEB.12.1's `τὸν προκείμενον ἡμῖν ἀγῶνα` → *the race that is set before us* was aligned the other way, rule 24 would want the two matched; that verse was outside this briefing and was not checked."
+  ],
+  "ref": "HEB.12.2",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

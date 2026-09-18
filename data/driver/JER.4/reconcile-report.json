@@ -1,0 +1,29 @@
+{
+  "chapter": "JER.4",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "JER.4.11"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Article in a demonstrative phrase. Where בַּיּוֹם הַהוּא, לָעָם הַזֶּה, בָּעֵת הַהִיא write two article morphemes beside a demonstrative pronoun and the ASV writes one determiner — that day, this people, at that time — the determiner goes to the demonstrative pronoun and both articles are unrepresented. Rule 41's rider, that a determiner is the article's only where no other morpheme licenses it, is read here to cover a demonstrative pronoun exactly as it covers a possessive suffix. Six article morphemes across JER.4.9, JER.4.10 and JER.4.11 go this way, and none of them is aligned to that or this.",
+    "מִפְּנֵי is decided by rule 30's subtraction at each occurrence rather than once for the chapter. It fuses where the ASV writes a single rendering — because of in JER.4.4, before in the second half of JER.4.26 — and splits where the ASV spends at on the preposition and the presence on פָּנֶה, in the first half of JER.4.26. The candidate table shows this lemma with two treatments in one verse; that is the ASV's own doing and is not a split to repair.",
+    "A single Hebrew substantive rendered by an attributive plus an English noun heads on the attributive where the English noun is generic — נִיר → fallow ground, כַּרְמֶל → fruitful field, שְׁפִי → bare heights — and on the noun only where the noun itself carries the lexeme, as כָּלָה → a full end. All four were reconciled to rule 31's subtraction test in this chapter; the English phrase's syntax was not allowed to decide any of them."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v57",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "One genuine cross-verse split, in rule 31's head for a single Hebrew substantive rendered by an English attributive plus a noun. JER.4.3 נִיר → fallow ground heads on fallow and JER.4.26 כַּרְמֶל → fruitful field heads on fruitful, but JER.4.11 שְׁפָיִים → the bare heights headed on heights as a rule 24 tie-break. Nothing in the source licenses the difference: by rule 31's own subtraction, heights alone is any heights exactly as place alone is any place in בָּמָה → high place. Patched JER.4.11 s017's target head from t020 to t019; the unit's edges are unchanged and no other unit in the verse is touched.",
+    "JER.4.27 כָּלָה → a full end is not part of that split and keeps its head on end. There the subtraction runs the other way — drop full and an end still carries the lexeme of finishing, drop end and nothing nominal is left — so the outcome differs because the lexeme differs, which rule 31 licenses.",
+    "Checked and found source-licensed rather than split: מִפְּנֵי (fused because of in 4.4, split at + the presence in 4.26a, fused before in 4.26b, decided by rule 30's subtraction each time); the waw connectives and/then/so that/whereas/but/yet and the nor and neither fusions; כִּי as For, for, because, though; אֵת aligned to against in 4.12 and 4.17 where the English predicate reaches its object only through it, and unrepresented in 4.22 and 4.23 where the ASV writes the object bare; לְ aligned or unrepresented by whether the ASV's recasting leaves it a word (rule 40); the article morphemes by whether a the is written; עַד־מָתַי fused to How long identically in 4.14 and 4.21; the שָׁדַד heads (waste, waste, ruined, desolate) all on the lexeme-bearing complement; and the light-verb versus phrasal-particle heads, uniform across all sixteen occurrences.",
+    "The thirteen added units are one policy applied consistently, not a table-blind split: supplied subordinators and coordinators where the clause writes no conjunction (4.1 if, 4.7 that, 4.16 that, 4.20 and, 4.21 and, 4.26 and, 4.30 when, 4.31 that ×2 and saying) and supplied object pronouns where no object morpheme stands (4.4 it, 4.28 it ×2). Read against them, every place the chapter did fold such a word into a morpheme has that morpheme present — the waw of וְאֵין taking so that in 4.4, הָיָה taking the frame's that in 4.9 — so rules 42, 45, 51 and 55 are applied the same way throughout.",
+    "BSB disagreements are convention differences, not errors. The R × 8 and Td × 9 blocks are prepositions the ASV's recasting leaves bare (rule 40) and articles for which the ASV writes no the (rules 29 and 41); BSB attaches both to their phrases. The two named tokens are right as they stand: JER.4.10 the suffix of אֲדֹנָי, where the ASV writes Lord with no possessive, and JER.4.10 לָ before לָעָם הַזֶּה, where the ASV writes the bare object this people. Nothing was changed to move the rate.",
+    "Textual units are untouched. JER.4.5 v001 selected the base, JER.4.19 v002 selected r01, and JER.4.19 v003 and JER.4.30 v004 are underdetermined on the base; no unit is marked FALLBACK EXCLUDED BY EVIDENCE, so rule 53 does not engage and no new textual decision is made here."
+  ]
+}

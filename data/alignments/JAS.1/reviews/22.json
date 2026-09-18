@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "2e7a45a5600c30c9f5588dcdbcf7a24e44da0e5dc5082d815618023792444e25",
+  "contract_version": "nt-greek-verse-v61",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed against the accepted alignment and returned unchanged; the only edits are to notes, adding the rules considered and refused (26 at s004, 87 at s006, 88 and 31 at s009, 83 at s010). No unit's source array, target array or head moved.",
+    "All 10 source and 15 target ids are partitioned exactly once; every unit is aligned, with no unrepresented and no added units in this verse.",
+    "Variant SBLGNT.JAS.1.22.v006 is underdetermined over s007/s008 and the projection carries r00-base, which the English (hearers only) permits. It carries no FALLBACK EXCLUDED BY EVIDENCE mark, so rule 97 does not apply and rule 12 forbids reopening the textual question here.",
+    "λόγου carries no Greek article, so the supplied the is a rule 7 helper on the noun under rule 51's closing clause rather than an aligned article; rule 21 is not in play, there being no article to anchor the of.",
+    "s010 is the only unit where a materially different reading was weighed under rule 16, and both competing readings are named in its note."
+  ],
+  "ref": "JAS.1.22",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

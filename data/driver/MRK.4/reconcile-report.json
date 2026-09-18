@@ -1,0 +1,31 @@
+{
+  "chapter": "MRK.4",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "MRK.4.34"
+  ],
+  "rejected": {},
+  "conventions": [
+    "κατά with an adverbial complement is decided by rule 93's test — what the corpus spends on the governed word — and the chapter divides on it rather than treating the two idioms alike. `κατὰ μόνας` → *alone* at 4:10 is split, `μόνος` taking *alone* in sixteen corpus units, so the preposition is pleonastic and `unrepresented` under rule 34; LUK.9.18's `κατὰ μόνας` → *apart* joins instead because *apart* is a sense the adverb alone never carries. `κατ᾽ ἰδίαν` → *privately* at 4:34 is one `noncompositional` unit under rule 45: the corpus spends an *own* word on `ἴδιος` in 54 of its 69 units and never *privately* for the bare adjective, and carries the phrase undivided in all nine of its units. Do not read the two verses as a chapter split.",
+    "The distributive `ἕν` before each member of the thirtyfold/sixtyfold/hundredfold series is its own `unrepresented` unit at 4:8 and 4:20 alike: the ASV writes only the numeral, and the supplied *a* of *a hundredfold* is the numeral's own helper under rules 7 and 29 rather than the particle's English. The tokens are variously tagged PREP and A-NSN and their variant units are underdetermined between the ἕν and ἐν readings; the analysis does not turn on either, and no textual decision is made inside the alignment (rule 12). A reference comparison reports every such token as a disagreement, and that report is not a correction."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v69",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked the candidate table end to end, every `added` and `unrepresented` unit in the dump (the table is blind to `added`), and all eleven BSB disagreements. One genuine error, at MRK.4.34.",
+    "MRK.4.34 patched: `κατ᾽ ἰδίαν` (s007, s008) is joined into one `noncompositional` unit on *privately*, headed on the governed word. The verse pass split it under rules 34 and 93 on the premise that *privately* is the ordinary gloss of `ἴδιος`. The corpus shows it is not — an *own* word in 54 of that lemma's 69 units, *private* once attributively at 2PE.1.20, and *privately* only ever inside this construction — so rule 93's test puts the preposition inside the English word and rule 45 joins the pair. The corpus carries the phrase undivided in all nine of its units, five of them in Mark (MRK.6.31, MRK.6.32, MRK.7.33, MRK.9.2, MRK.9.28); nothing anywhere splits it.",
+    "MRK.4.10's `κατὰ μόνας` → *alone* stands and is not the same case. `μόνος` takes *alone* in sixteen corpus units, so the adverb's own gloss spells the whole English word and `κατά` is pleonastic under rule 34. LUK.9.18 joining the identical Greek as *apart* confirms rather than contradicts this: *apart* is a sense `μόνος` alone never carries in the corpus, which is why rule 93 sends that one the other way. The two verses differ because the English differs, and that difference is licensed.",
+    "BSB list: one genuine error (κατ at 4:34, fixed); the other ten are documented convention differences and none is a correction. 4:5 τό is the articular infinitive's nominalizing article (rule 61); 4:15 τόν and the 4:8/4:20 τήν are second attributive articles (rules 23, 31); 4:19 τοῦ has no determiner to anchor, so *of* rides with the noun (rule 21's determinerless clause); 4:21 Μήτι is rule 64's own named case; 4:34 τοῖς is emptied by `ἴδιος` under rule 47, which states that pattern verbatim; 4:41 φόβον is a cognate accusative, for which LUK.2.9 is exact precedent — the same verb, the same construction, the noun `unrepresented`; the four ἕν tokens are covered by the convention below. No accepted edge was changed to improve the rate.",
+    "Article buckets read individually rather than by signature. The T→A and T→PREP groups hold four different constructions, each decided by the source and consistently: an article taking a supplied nominal for a substantival adjective (4:5, 4:11, 4:16, 4:19, rule 102), a second attributive article (4:8, 4:20, rule 23), a substantival article before a prepositional phrase or participle (4:10, 4:15, 4:16, 4:18, 4:20, rules 22 and 32), and an attributive article governing its noun across an interposed phrase (4:19, rule 57). No split.",
+    "The three distributive ἕν tokens are treated alike at 4:8 and 4:20, and 4:20's note already cites rule 24 for it; recorded as a convention rather than patched.",
+    "MRK.4.41: `φόβον` `unrepresented` is right on LUK.2.9's precedent. The head of *exceedingly* on `μέγαν` has no corpus precedent either way — my LEMMA=μέγας TARGET='exceeding' query returned zero units — so it stands on the unit's own note under rule 16 and no later reader should read the silence as agreement.",
+    "No promotion and no amendment. Rule 93's existing test predicts every corpus instance of both idioms — κατ᾽ ἰδίαν, κατὰ μόνας in both its renderings, ἀπὸ τοῦ νῦν, εἰς τὸ πάλιν, ἀπὸ μακρόθεν — so the contract had no gap here; the chapter failed a fact about a lexeme's gloss, not a rule. Widening rule 93 to make a phrase-level query dispositive was drafted and rejected: it would have forced `κατὰ μόνας` → *alone* to join on LUK.9.18's strength, against rule 34.",
+    "Of the validator's fifteen repeated notes, thirteen restate rules 9, 17, 21, 23, 31, 32, 38, 40, 51, 61 and 65 and are not logged. The two that are not restatements are recorded below."
+  ]
+}

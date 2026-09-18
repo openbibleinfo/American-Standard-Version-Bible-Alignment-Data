@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "e83bb2955c728106d675836640e81f07cc994575aebdebcfe9772ea457ae7103",
+  "contract_version": "nt-greek-verse-v61",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed and returned unchanged: I found no unit I judge wrong. All 19 s-ids and all 22 t-ids are partitioned exactly once (t010 and t021 sit out of linear order under rule 15).",
+    "The two unrepresented units are both articles and are decided by different rules, so neither is a convenience grouping: s014 by rule 31 (an expressed head noun logon stands, so the supplied which is the participle's helper), s017 by rule 20 (the free genitive hymon takes your). Rule 90's one-word substantival reading cannot reach s014, since it blesses no unit in which a head noun is expressed; rule 76 cannot reach s017, since hymon is unspent.",
+    "Heads audited independently of edges: s002 on putting rather than away (phrasal-verb particle, rule 17), s007 on wickedness rather than of (rule 17's of + noun clause), s015 on able rather than is (lexical predicate over copula), s016 on save rather than to.",
+    "Competing readings considered and rejected: joining s008+s009 as a compound prepositional unit is barred by rule 94, the ASV having written two English words; giving s011's the to the adjective or noun is barred by rules 19 and 57; treating putting away as two units is barred by rule 27.",
+    "The two ASV margin notes (Or, malice for kakias; Or, inborn for emphyton) are alternative glosses of tokens already aligned in the text and create no additional correspondence. No FALLBACK EXCLUDED BY EVIDENCE mark is present in this verse, so rule 97 does not arise and nothing here is added."
+  ],
+  "ref": "JAS.1.21",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

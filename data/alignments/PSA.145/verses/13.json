@@ -1,0 +1,153 @@
+{
+  "alignments": [
+    {
+      "note": "Subject noun keeps its own word.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Suffix rendered by the possessive.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Nominal predicate of a verbless clause takes the construction-supplied copula (rule 20) and the indefinite article that its nominal expression licenses (rule 15); discontinuous around 'everlasting' under rule 25.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "One English word carries both the quantification and the lexeme of עוֹלָמִים, so the pair fuses under rule 30, headed on the morpheme carrying the lexeme.",
+      "source": [
+        "s004",
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Waw rendered 'And'.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Noun keeps its own word.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Suffix rendered by the possessive.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The temporal prepositional phrase predicates continuance of the subject 'thy dominion'; 'endureth' supplies its copular link under rule 20, not a separate lexical event. It joins בְּ with 'throughout' under rule 49, headed on the preposition.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "כֹּל rendered 'all'.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "First occurrence of the distributive repetition takes the English noun (rule 22).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "The ASV writes no connective for the waw of the distributive repetition (rules 14 and 22).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Repeated occurrence rendered once by the ASV (rule 22).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    }
+  ],
+  "ref": "PSA.145.13",
+  "review_notes": [
+    "כָּל־עֹלָמִים is fused to 'everlasting' under rule 30; the competing reading marks כֹּל unrepresented beside עוֹלָמִים.",
+    "The ASV italic on 'endureth' does not make it added: temporal continuance is the copula of the written prepositional predicate (rules 7, 20 and 49)."
+  ]
+}

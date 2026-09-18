@@ -1,0 +1,27 @@
+{
+  "chapter": "PSA.42",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "כָּל־הַיּוֹם → continually (v.3, v.10): the single adverb carries quantifier, article and noun, so all three morphemes are one aligned unit under rule 30 (as כָּל־הַיָּמִים → for ever), headed on the governing construct כֹּל under rule 23; יוֹם is the competing head and is named in the notes.",
+    "Refrain (v.5, v.11): the appositive יְשׁוּעוֹת פָּנָיו is recast two ways by the ASV and the chapter follows each. v.5 'For the help of his countenance' places the italic For on the bare nominal under rule 33; v.11 'Who is the help of my countenance' leaves Who is as one added unit under rules 2 and 55 (no relative and no verbless clause stands in the Hebrew; the phrase is in apposition to the suffix him). This is a licensed difference, not a split. v.5's italic second why is מַה's distributed realization under rule 25, while v.11 writes a second מַה of its own."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 18 candidate lemmas end to end, plus the five added units and the two 3-morpheme units. No construction is analysed two ways without the ASV licensing the difference.",
+    "The refrain (v.5 / v.11) is the only candidate that looked like a split: v.5 places the italic For on יְשׁוּעוֹת under rule 33 (supplied preposition before a bare appositional nominal) while v.11 marks Who is one added unit under rules 2 and 55. The ASV recasts the appositive two different ways (preposition vs relative clause), and rule 33 covers the first but not the second; the v.11 note names the rule-20 competing reading. Likewise v.5's distributed Why…why (rule 25) against v.11's two written מַה is source-licensed.",
+    "כָּל־הַיּוֹם → continually is fused identically in v.3 and v.10 (quantifier, article, noun in one unit, headed on the governing construct כֹּל per rule 23, as כָּל־הַיָּמִים → for ever). לָמָה is fused identically in both v.9 occurrences, headed on מָה. עַל־כֵּן → Therefore heads on עַל per rule 23.",
+    "The added units (v.4 and before an asyndetic clause; v.8 Yet and Even; v.10 As; v.11 Who is) each answer to no morpheme; v.10 As is correctly left added because the בְּ already holds its with and rule 33 reaches only a bare nominal.",
+    "BSB disagreement at PSA.42.3 לִּי: the dative לְ recast as the possessive my on food is unrepresented under rule 40's own example (לְרַע לוֹ → to his hurt); a documented convention difference, not an error.",
+    "Superscription head Chief Musician → Chief follows rule 31 (the ASV never writes Musician alone for נָצַח); the note names the competing head.",
+    "Nothing here generalises beyond the contract; no promotions or amendments."
+  ]
+}

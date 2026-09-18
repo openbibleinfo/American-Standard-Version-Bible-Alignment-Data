@@ -1,0 +1,185 @@
+{
+  "alignments": [
+    {
+      "note": "Waw to *And*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Rule 29: no article morpheme in the chain, so the construct takes the supplied *the*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Rule 19: rectum takes *of* with the name.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Verb to *came*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Preposition to *into*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Article to *the*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Noun to *house*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Rule 33: דֶּרֶךְ is an adverbial accusative and the supplied *by* belongs to it, with a supplied *the*; the construct keeps an English noun of its own, so rule 19's first sentence leaves the *of* to the rectum.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Rule 19/29: rectum takes *of* and, no article morpheme being present, a supplied *the*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Rule 30: the single English word *whose* carries both the relative and the possessive suffix; the two morphemes share one unit headed on the relative, which is what stands at the clause's edge.",
+      "source": [
+        "s010",
+        "s012"
+      ],
+      "source_head": "s010",
+      "status": "noncompositional",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Noun to *prospect*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Rule 19's rider with rule 20: the construct דֶּרֶךְ is rendered wholly by the preposition, and the verbless clause's copula joins it; head on *toward*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Rule 29: article takes the *the* before its own word.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Noun to *east*.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    }
+  ],
+  "ref": "EZK.43.4",
+  "review_notes": [
+    "*whose* is fused across אֲשֶׁר and the suffix on פָּנָיו under rule 30; the competing reading would give *whose* to the relative alone and mark the suffix unrepresented, but the one English word carries both morphemes' sense.",
+    "The first דֶּרֶךְ keeps a noun of its own (*way*), so rule 19's first sentence governs it; the second is rendered wholly by *toward* and takes the copula under rule 19's rider."
+  ]
+}

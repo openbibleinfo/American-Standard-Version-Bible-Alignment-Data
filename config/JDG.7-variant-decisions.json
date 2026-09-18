@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "JDG.7",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JDG.7.13.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'a cake of barley bread tumbled into the camp' renders the noun by sense without any wording that separates the qere צְלִיל from the ketiv צלול; both are taken as the same obscure word for the round barley loaf, and no ASV note is mapped here. Underdetermined; the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.JDG.7.21.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'and put them to flight' is causative — the hiphil ויניסו of the ketiv, 'they made them flee' — not the qal וַיָּנוּסוּ 'and they fled'. The mapped textual_variant note 'Another reading is, fled' names the qal qere as the other reading, confirming the ASV text renders the ketiv."
+    }
+  ]
+}

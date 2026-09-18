@@ -1,0 +1,155 @@
+{
+  "alignments": [
+    {
+      "note": "בְּכָל־עֵת rendered by the single word *always*, which carries the preposition, the quantifier and the noun together; rule 30's one-English-word condition is met and the unit heads on the noun carrying the lexeme.",
+      "source": [
+        "s001",
+        "s002",
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "noncompositional",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Jussive rendered *Let ... be*; head on the lexical verb, unit discontinuous around the subject (rule 25).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Noun → *garments*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "2ms suffix → *thy* (rule 18).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Adjective → *white*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Waw → *and*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "שֶׁמֶן → *oil*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "The ASV promotes the head to subject of *lack*, leaving the עַל nothing to say (rule 40).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun → *head*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "2ms suffix → *thy*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Prohibitive אַל → *not*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Jussive rendered *let ... lack*; head on the lexical verb, discontinuous around the negative and the subject (rule 25).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t012"
+      ],
+      "target_head": "t012"
+    }
+  ],
+  "ref": "ECC.9.8",
+  "review_notes": [
+    "`בְּכָל־עֵת` → *always* is taken as a single indivisible rendering of three contiguous morphemes (rules 30, 6); no morpheme owns a part of the one English word.",
+    "The `עַל` of `עַל־רֹאשְׁךָ` is `unrepresented`: the ASV's recasting makes the head the subject of *lack* and writes no word for the relation (rule 40)."
+  ]
+}

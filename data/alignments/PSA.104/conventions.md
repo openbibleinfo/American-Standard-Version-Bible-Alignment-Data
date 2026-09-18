@@ -1,0 +1,7 @@
+# Psalms 104 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **PSA.104.2** — Predicate participles of the hymnic chain describing God are read by whether an article stands on them: anarthrous ones (v2 עֹטֶה, נוֹטֶה; v4 עֹשֶׂה; v13 מַשְׁקֶה; v14 מַצְמִיחַ) keep the ASV's supplied Who or He in the participle's own unit, headed on the lexical verb, on the reasoning of rules 41/46; arthrous ones (v3, v10, v32) give the Who/He to the article under rule 41; the finite יָסַד of v5 leaves its Who added under rule 55. The competing reading marks the anarthrous Who/He added and is named in each verse note.
+- **PSA.104.11** — The archaic connective vowel-suffix וֹ on construct חַיְתוֹ (v11 חַיְתוֹ שָׂדָי, v20 חַיְתוֹ־יָעַר), which MACULA segments as Sp3ms, is not a possessive and the ASV writes nothing for it; it is its own unrepresented unit beside the construct noun, which keeps beast/beasts and the rectum its of-phrase.
+- **PSA.104.12** — A possessive the ASV supplies on an object noun where no suffix stands is added (v12 'have their habitation', v15 'his face', v17 'make their nests'), the light-verb complement keeping only its own noun; where an assimilated article stands on the noun the article takes the possessive under rule 41 (v21 לַטָּרֶף → 'after their prey').

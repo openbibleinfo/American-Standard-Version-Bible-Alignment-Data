@@ -1,0 +1,38 @@
+{
+  "chapter": "ISA.49",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "ISA.49.1",
+    "ISA.49.5",
+    "ISA.49.7",
+    "ISA.49.14",
+    "ISA.49.18",
+    "ISA.49.19",
+    "ISA.49.20",
+    "ISA.49.22",
+    "ISA.49.26"
+  ],
+  "rejected": {},
+  "conventions": [
+    "A supplied English preposition by which the verb reaches a bare Hebrew object joins the verb's unit: made mention of at 49.1, clothe ... with them all and gird ... with them at 49.18, hath mercy on at 49.10, have compassion upon and on at 49.13 and 49.15, wait for at 49.23, contendeth with at 49.25. A supplied preposition licensed instead by an adverbial accusative's own case-function stays with its noun: with ... faces and to the earth at 49.23, with ... blood at 49.26, into singing at 49.13. Rule 44's closing limit separates them; this log records which nominals the chapter read each way, since the English looks identical.",
+    "The comparative preposition before the second member of an instrumental comparison takes the whole as with, headed on as, and the compared noun keeps only its own English: ka-adi to as with an ornament at 49.18 and ke-asis to as with sweet wine at 49.26. Subtracting with leaves both morphemes their own rendering, so it is not a word the noun owns.",
+    "A possessive lamed with a suffix that the ASV renders by a bare English possessive leaves the preposition unrepresented and gives the possessive to the suffix: lo to his at 49.5 and li to my at 49.6. The competing reading, fusing the pair under rule 49's genitive sentence as it fuses la-YHWH to Jehovah's, was not taken, because the suffix holds a possessive pronoun of its own and the fusion sentence governs a preposition holding none.",
+    "In the disjunctive question at 49.24 the single English or goes to im, which is what marks the second question, and the waw is unrepresented. This is not read as rule 35 fusion, though the waw plus lo pairs at 49.10 are: im alone carries the disjunction the ASV wrote, whereas lo alone does not carry the coordination of nor, so there one word answers to two morphemes and here it does not."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v137",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Split 1 (three verses): the supplied English preposition by which a verb reaches a bare Hebrew object. The chapter puts it on the verb at 49.10 (hath mercy on + suffix them), 49.13, 49.15, 49.23 (wait for + suffix me) and 49.25, but on the object nominal at 49.1 (made mention / of my name) and twice at 49.18 (with them all, with them). Rule 44's supplied-preposition clause settles it: the word is licensed by the English verb's valency, so it joins the verb. Patched 49.1 and 49.18. The adverbial-accusative with's at 49.23 and 49.26 and the into at 49.13 are untouched, because rule 44's closing limit sends those to the noun.",
+    "Split 2 (two verses): the supplied antecedent of an anarthrous participial substantive. Correct at 49.9 (them that are bound), 49.10, 49.17, 49.25 and 49.26. At 49.7 the him of him whom man despiseth and of him whom the nation abhorreth was given to the dependent noun (nephesh, goy) rather than to the participle it is the antecedent of; at 49.19 the they of they that swallowed thee up was given to the neighbouring finite verb as a subject pronoun, which rule 17 forbids where an explicit subject noun stands. Patched 49.7 and 49.19 to rule 46.",
+    "Split 3 (two verses): the comparative kaf before the second member of an instrumental comparison. 49.26 gives as with whole to the preposition (ke + asis); 49.18 gave as to the preposition and with to the noun (ka + adi). Reconciled to 49.26's reading, headed on as: subtracting with leaves each morpheme its own rendering, so it is not a word the noun owns, and the ASV writes the pair as one connective before the compared noun.",
+    "Four single-verse contract failures the verse pass missed and only an end-to-end read of the dump surfaces. (a) 49.14 and 49.22 both fuse adonai + 1cs suffix as one noncompositional the Lord; rule 57 rules the split wherever the base noun holds an English word of its own, and names the eleven Isaiah fusions as the reading rule 2 disprefers. Split in both, suffix unrepresented. (b) 49.7 left the waw of vayivcharekka unrepresented and gave who to the verb; rule 17's relative-recasting sentence gives the relative to the waw where no explicit subject pronoun stands, and BSB independently marks that waw represented. (c) 49.5 marked the that of and that Israel be gathered added; rule 55's pair sentence gives and that to the waw as one rendering, headed on and, and the corpus aligns a waw to and that in 34 units. The earlier that is the participle's supplied relative, not a written subordinator, so the distributed-subordinator sentence does not reach it. (d) 49.20 heads give place on give; rule 44 heads a light verb plus complement on the complement, and every other light-verb unit in the chapter (mention, joyful, haste, compassion, mercy, shame) already does.",
+    "BSB disagreements: none is a genuine error except 49.7, which the patch above fixes and where BSB is right for the wrong reason (it reads the waw as and, not as who). The five R-class items are the documented convention difference over a preposition the ASV's recasting leaves unrendered (rules 40, 52). 49.3's resumptive suffix after whom is rule 22's unrendered occurrence, exactly as rule 43 spells it out for asher bo mum. The two paragogic nuns are rule 32; the 49.20 he is tagged Sh, not Sd, so rule 32's first sentence governs and it is unrepresented. 49.24's waw is discussed in the conventions log.",
+    "Checked and left alone: the two waw+lo fusions at 49.10 against the split waw/im at 49.24 (im alone carries the disjunction, lo alone does not carry the coordination); the twelve added units other than 49.5's that, all of which answer to no morpheme; le + suffix rendered by a bare possessive at 49.5 and 49.6 against le + suffix rendered by a written preposition at 49.18, 49.20 and 49.23; the resultative le left unrepresented at 49.2 and 49.11 against for at 49.6 and 49.8 and to be at 49.5, which the ASV licenses; and the reflexive kept with the Niphal at 49.9 and 49.18 against the added reflexives on the Qal and Piel in 49.18, which is rule 44 read correctly."
+  ]
+}

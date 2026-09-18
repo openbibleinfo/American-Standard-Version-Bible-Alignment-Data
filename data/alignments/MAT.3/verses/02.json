@@ -1,0 +1,115 @@
+{
+  "alignments": [
+    {
+      "note": "The projection carries καί (SBLGNT.MAT.3.2.v001, underdetermined, r00-base against r01) and the ASV writes no connective at this seam, so the token stands unrepresented under rule 23. Rule 12: no new textual decision is made here.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rule 37: the ASV translates λέγων at the end of MAT.3.1, where saying is marked added with the matching note. Not stretched onto Repent.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Imperative with its supplied subject pronoun as a rule 9 helper; head on the lexical verb Repent.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "γάρ takes for.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Rule 19: article surfaces as the.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Noun takes kingdom.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Rule 21's determinerless clause: the ASV writes of heaven with no the, so the article carries nothing.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive noun with its case preposition of; head on the noun under rule 17.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "ἤγγικεν rendered by the support frame is at hand; head on the meaning-bearing hand under rule 17, as rule 71 heads ἐγγύς → is at hand on hand.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    }
+  ],
+  "ref": "MAT.3.2",
+  "review_notes": [
+    "λέγων is unrepresented under rule 37 because its English stands in MAT.3.1; a reference comparison will report it as a disagreement and that report is not a correction.",
+    "Heading ἤγγικεν on is rather than hand remains defensible, but rule 17's support-frame clause and rule 71's ἐγγύς precedent both choose hand."
+  ]
+}

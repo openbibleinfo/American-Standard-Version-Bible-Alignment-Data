@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "222ad2a8c4b55f4d57f3e559c8fc48cfd2d82e2a9a2282366acc97c35bf8a3c4",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: all 17 source and all 24 target ids used exactly once.",
+    "Both instances of `ὅτι` are complementizers the ASV writes out as *that*, so rule 43's `unrepresented` case does not apply — the test there is the presence of an English word, and one is present.",
+    "`μιμνῄσκῃ` → *thou art mindful* heads on *mindful* under rule 17, the copula and subject riding along under rules 7 and 9.",
+    "`υἱός` is anarthrous, so the supplied *the* is a rule 51 helper on the noun rather than evidence of an article."
+  ],
+  "ref": "HEB.2.6",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

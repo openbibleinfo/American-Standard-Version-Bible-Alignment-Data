@@ -1,0 +1,328 @@
+{
+  "alignments": [
+    {
+      "note": "Rule 20: the free genitive ὑμῶν (s003) takes the supplied possessive *Your*, so this article is displaced and realizes nothing.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Bare noun; its determiner slot is filled by the possessive on s003.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Genitive pronoun rendered by the repeated possessive *Your … your*, one discontinuous realization of the single ὑμῶν under rule 15, the pronoun scoping over both coordinated nouns in the Greek. The corpus is unanimous for this reading wherever one genitive pronoun stands over coordinated nouns and the ASV repeats the possessive: REV.1.14 *his head and his hair* is this verse's shape token for token, as REV.10.2, REV.19.16, REV.4.11, REV.20.4, JHN.11.48 and TIT.1.15 are, and every one leaves the articles `unrepresented`. Rule 24 is what forbids reading the pronoun's position as a licence: the corpus analyses it the same way inside the first conjunct, fronted outside both, and after the second. Corrected from the reading that gave *your* to s005 under rule 20's second arm, which the corpus does not attest.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t004"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Coordinating καί → *and*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Rule 20: the repeated possessive *your* is the single ὑμῶν's own, scoping over both coordinated nouns, so this article is displaced and realizes nothing. Rule 20's second arm does not reach it — the test is whether some other word is present to take the possessive, and s003 is that word, its English merely split across the coordination, which rule 76 says is still that word's. REV.1.14 `ἡ … κεφαλὴ αὐτοῦ καὶ αἱ τρίχες` → *his head and his hair* is the same construction with the pronoun likewise inside the first conjunct and leaves this article empty, as EPH.2.1 does where the ASV writes the possessive once. Seven corpus units read it this way and none the other, so nothing is conceded here.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun stands bare, the article having taken the determiner.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Rule 9: the copular auxiliary *are* rides with the perfect passive, headed on the lexical *rusted*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Coordinating καί → *and*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Rule 20: the genitive αὐτῶν (s011) takes *their*, displacing this article.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun bare, determiner slot filled by the possessive on s011.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Genitive pronoun rendered by *their*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "εἰς → *for*; the marginal *unto* is the same preposition and changes nothing.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Rule 51's anarthrous clause: no article stands, so the supplied *a* is an ordinary rule 7 helper on the noun.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Rules 21 and 36: the dative pronoun takes *you* with the case preposition *against* riding along, headed on the pronoun, as τοῖς ἀνθρώποις → *unto men* is one unit on its noun.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Future copula expressed in the Greek, so nothing is supplied; the auxiliary *shall* rides with it under rule 9, headed on *be*. Discontinuous from *for a testimony against you* under rule 15.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Coordinating καί → *and*.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Rule 9: auxiliary *shall* with the lexical verb, headed on *eat*.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Rule 20: the free genitive ὑμῶν (s020) takes *your*, so this article realizes nothing. Rule 76 does not apply here, since s020 is spent on nothing else.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun bare, determiner slot filled by the possessive on s020.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Genitive pronoun rendered by *your* under rule 20.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Comparative adverb → *as*.",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Anarthrous noun with no supplied determiner.",
+      "source": [
+        "s022"
+      ],
+      "source_head": "s022",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "One Greek verb rendered by the English frame *have laid up your treasure*; the subject, the auxiliary and the supplied possessive on the object are rule 7 and 9 helpers inside the unit, and rule 11 keeps the ASV's italics from making any of them `added`. Head corrected from *treasure* to *laid* on rule 91's operational test: the corpus spends *lay up* on this very lemma at 2CO.12.14, where θησαυρίζειν → *to lay up* stands with no object at all, so the verb word is not a genuinely empty support verb of the `μαρτυρέω` → *bear witness* kind but the gloss of the lexeme itself; and *treasure* is what the corpus spends on the noun θησαυρός (2CO.4.7), which is not expressed here, making *your treasure* the supplied cognate object. Rule 104's φλογίζω → *setteth on fire* is not the model, being the fallback for a lemma the corpus does not attest. A head on *treasure* remains defensible on the argument that θησαυρ- is spelt in that word alone.",
+      "source": [
+        "s023"
+      ],
+      "source_head": "s023",
+      "status": "aligned",
+      "target": [
+        "t025",
+        "t026",
+        "t027",
+        "t028",
+        "t029",
+        "t030"
+      ],
+      "target_head": "t027"
+    },
+    {
+      "note": "ἐν → *in*.",
+      "source": [
+        "s024"
+      ],
+      "source_head": "s024",
+      "status": "aligned",
+      "target": [
+        "t031"
+      ],
+      "target_head": "t031"
+    },
+    {
+      "note": "Rule 58: adjective and noun are both anarthrous, so the attributive adjective takes only *last*.",
+      "source": [
+        "s025"
+      ],
+      "source_head": "s025",
+      "status": "aligned",
+      "target": [
+        "t033"
+      ],
+      "target_head": "t033"
+    },
+    {
+      "note": "Rule 58: the supplied determiner belongs to the noun, discontinuously under rule 15 — *the … days*, exactly as Ἐπ᾽ ἐσχάτου χρόνου → *In the last time* gives *the … time* to the noun.",
+      "source": [
+        "s026"
+      ],
+      "source_head": "s026",
+      "status": "aligned",
+      "target": [
+        "t032",
+        "t034"
+      ],
+      "target_head": "t034"
+    }
+  ],
+  "ref": "JAS.5.3",
+  "review_notes": [
+    "All 26 source and all 34 target ids are partitioned exactly once; no ids invented.",
+    "One change from the accepted alignment: s023's target head moves from t030 *treasure* to t027 *laid*. Rule 91 decides a one-word-to-phrase head by querying what the corpus spends on the lexeme, and θησαυρίζω is attested — 2CO.12.14 renders θησαυρίζειν by a bare *lay up* with no object, which is the mark of a lexeme-glossing verb rather than an empty support verb, while *treasure* is the corpus's word for the unexpressed noun θησαυρός (2CO.4.7). A later reader should confirm those two corpus rows; if 2CO.12.14 turns out not to be aligned, the lemma returns nothing and rule 104's neighbouring-class route would put the head back on *treasure*.",
+    "s005 is the other materially contested unit and is unchanged. The verse writes both arms of rule 20 side by side: three articles (s001, s009, s018) are `unrepresented` because a free genitive pronoun takes the possessive, while s005 takes the supplied *your* because no pronoun stands in its own phrase and the verse's only ὑμῶν is spent on *Your gold*. Its note now names the competing reading — *Your … your* as one discontinuous realization of s003 under rules 15 and 76 — which the accepted note did not state.",
+    "ἐν ἐσχάταις ἡμέραις is anarthrous throughout, so rule 58 gives the supplied *the* to the noun and not to the adjective it stands next to; this is the rule's own worked shape.",
+    "The marginal *Or, unto* affects only the gloss of εἰς (s012) and no unit boundary or head."
+  ]
+}

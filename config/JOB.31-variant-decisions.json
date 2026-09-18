@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "chapter": "JOB.31",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JOB.31.11.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere הִיא against ketiv הוא is a difference of pronoun gender only; the ASV renders the clause with the genderless 'that were a heinous crime', supplying the verb in italics and no pronoun that could mark gender. No ASV note is mapped to this unit. Nothing in the English distinguishes the readings, so the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.JOB.31.11.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere וְהוּא against ketiv והיא again differs only in the gender of the pronoun. The ASV's 'Yea, it were an iniquity to be punished by the judges' uses the neuter 'it', which answers to either Hebrew form, and carries no mapped textual note. Underdetermined; the qere base fallback stands."
+    },
+    {
+      "unit_id": "WLC.JOB.31.20.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere חֲלָצָיו (plural 'his loins') against ketiv חלצו (singular 'his loin'), both with the same third masculine singular suffix. The ASV's 'If his loins have not blessed me' uses the ordinary English plural for the body part, which translators render alike from either number, and no ASV note is mapped here. The English does not distinguish the readings; the qere base fallback carries the projection."
+    }
+  ]
+}

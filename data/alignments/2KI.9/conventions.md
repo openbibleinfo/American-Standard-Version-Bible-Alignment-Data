@@ -1,0 +1,9 @@
+# 2 Kings 9 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **2KI.9.15** — יְהוֹרָם is rendered Joram throughout the chapter (15, 17, 21, 22, 23, 24); the name aligns as its own unit and the margin's 'Hebrew Jehoram' is read and set aside (rule 38).
+- **2KI.9.17** — The greeting הֲשָׁלוֹם → 'Is it peace' (17, 18, 22, 31): הֲ takes the fronted copula Is (rule 20), שָׁלוֹם keeps the bare peace, and the impersonal it is its own added unit. Where the question is asyndetic and no הֲ stands (19, שָׁלוֹם alone), Is joins שָׁלוֹם as the construction's copula and it is still added. In 11 the same הֲשָׁלוֹם is 'Is all well', Is on הֲ and 'all well' on שָׁלוֹם.
+- **2KI.9.18** — מַה־לְּךָ וּלְשָׁלוֹם → 'What hast thou to do with peace' (18, 19): hast → the possessive לְ (rule 43), thou → its suffix, 'to do' one added unit, the waw unrepresented, with → the second לְ.
+- **2KI.9.18** — אֶל־אַחֲרַי → behind (18, 19): the two prepositions fuse into one unit headed on אַחַר, and the suffix takes me.
+- **2KI.9.18** — For the scoped retrospective disposition in verse 18, רֹכֵב סּוּס → '(one) on horseback' retains the noncompositional rider/horse unit headed on סוּס / horseback, with supplied one inside; the intervening article is a separate `unrepresented` unit and is excluded from that fusion. This qualifies only the article-inclusive wording of the original convention for verse 18. The original convention also described verse 19 and its separate שֵׁנִי → 'a second'; that historical judgment is preserved in the audit baseline, and verse 19 is not reopened by this scoped correction.

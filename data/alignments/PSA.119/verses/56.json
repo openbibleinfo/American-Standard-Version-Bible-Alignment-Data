@@ -1,0 +1,89 @@
+{
+  "ref": "PSA.119.56",
+  "alignments": [
+    {
+      "source": ["s001"],
+      "source_head": "s001",
+      "target": ["t001"],
+      "target_head": "t001",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s002"],
+      "source_head": "s002",
+      "target": ["t003", "t004"],
+      "target_head": "t004",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s003"],
+      "source_head": "s003",
+      "target": [],
+      "target_head": null,
+      "status": "unrepresented",
+      "confidence": "high",
+      "note": "The ASV recasts the possessive haya-le clause as 'This I have had', leaving the preposition with no English word (rule 40)."
+    },
+    {
+      "source": ["s004"],
+      "source_head": "s004",
+      "target": ["t002"],
+      "target_head": "t002",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The suffix is realized by the recast clause's subject pronoun 'I' (rule 40)."
+    },
+    {
+      "source": ["s005"],
+      "source_head": "s005",
+      "target": ["t005"],
+      "target_head": "t005",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s006"],
+      "source_head": "s006",
+      "target": ["t010"],
+      "target_head": "t010",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s007"],
+      "source_head": "s007",
+      "target": ["t009"],
+      "target_head": "t009",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s008"],
+      "source_head": "s008",
+      "target": ["t006", "t007", "t008"],
+      "target_head": "t008",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [],
+      "source_head": null,
+      "target": ["t011", "t012"],
+      "target_head": "t011",
+      "status": "added",
+      "confidence": "high",
+      "note": "Editorial acrostic heading for the following stanza; no Hebrew token in this verse licenses it."
+    }
+  ],
+  "review_notes": [
+    "The acrostic stanza heading that the ASV prints between sections (here the letter and its name, appended to this verse's target) has no source token and is one 'added' unit headed on the Hebrew letter."
+  ]
+}

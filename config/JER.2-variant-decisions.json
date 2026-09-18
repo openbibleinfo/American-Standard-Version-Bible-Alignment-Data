@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "chapter": "JER.2",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JER.2.15.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The readings differ only in the verb's number (qere plural nitstetu, ketiv singular nitsteta). ASV 'his cities are burned up' takes its English number from the plural subject 'cities' either way, since a Hebrew singular verb with a collective plural subject is rendered the same. No ASV note is mapped to this unit; the hebrew_gloss note ('Hebrew given out their voice') belongs to 'yelled' earlier in the verse. Nothing in the English distinguishes a reading, so the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.JER.2.16.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The readings are two spellings of the place name, qere Tachpanches (with nun-heth) and ketiv Tachpanes (without the heth). ASV transliterates 'Tahpanhes', reproducing the heth of the qere; the ketiv would yield 'Tahpanes'. The English spelling of the proper name distinguishes the qere. The verse's only note is classed alternative_rendering ('Or, fed on') and concerns 'have broken the crown', not this name."
+    },
+    {
+      "unit_id": "WLC.JER.2.20.v003",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "Qere e'evor is 'I will not transgress'; ketiv e'evod is 'I will not serve'. ASV reads 'and thou saidst, I will not serve', which renders the ketiv, and the ASV note classed textual_variant, 'Another reading is, transgress', explicitly records the qere as the rejected alternative. Both the wording and the mapped textual note select the ketiv."
+    },
+    {
+      "unit_id": "WLC.JER.2.24.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "Qere naphshah is 'her desire' (3fs suffix); ketiv naphsho is 'his desire' (3ms). ASV renders 'that snuffeth up the wind in her desire', with the feminine suffix of the qere, consistent with the feminine pronouns throughout the verse ('turn her away', 'seek her', 'find her'). The English possessive distinguishes the reading; no note is attached to the verse."
+    },
+    {
+      "unit_id": "WLC.JER.2.25.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere ugronekh and ketiv wgwrnk are defective and plene spellings of the same noun with the same 2fs suffix; the ketiv's extra vav is orthographic and carries no difference of sense or form. ASV 'and thy throat from thirst' renders that word and would read identically on either spelling. No ASV note is attached to the verse, so nothing distinguishes the readings and the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.JER.2.27.v006",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "Qere yelidtanu is 'thou hast brought us forth' (1cp suffix); ketiv yelidtani is 'brought me forth' (1cs). ASV reads 'and to a stone, Thou hast brought me forth', the singular of the ketiv, and its note classed textual_variant, 'Another reading is, us.', explicitly records the qere as the alternative not taken. The other note, 'Or, begotten me', is classed alternative_rendering and bears only on the English verb."
+    },
+    {
+      "unit_id": "WLC.JER.2.33.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "Qere limmadt is 2fs, 'thou hast taught'; ketiv limmadti is 1cs, 'I have taught'. ASV renders 'therefore even the wicked women hast thou taught thy ways', with the second-person feminine subject of the qere addressed throughout the verse ('How trimmest thou thy way'). The English subject distinguishes the reading; no note is attached to the verse."
+    }
+  ]
+}

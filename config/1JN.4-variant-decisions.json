@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "chapter": "1JN.4",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.1JN.4.2.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV \"Hereby know ye the Spirit of God\" is a second-person active address to the readers, rendering the active γινώσκετε; the passive γινώσκεται would give \"hereby is the Spirit of God known,\" with no \"ye.\""
+    },
+    {
+      "unit_id": "SBLGNT.1JN.4.3.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "English has no way to show the presence or absence of the Greek article on the proper name Ἰησοῦν; \"confesseth not Jesus\" renders either reading identically. The verse note concerns the alternative \"annulleth Jesus\" for the confession verb, not the article, so nothing maps to this unit."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.4.3.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 4:3 reads simply \"confesseth not Jesus\" and stops; the longer reading's Χριστὸν ἐν σαρκὶ ἐληλυθότα (\"Jesus Christ is come in the flesh,\" which the ASV does render in 4:2) is wholly absent here, so the short text is what the ASV translated."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.4.10.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV \"not that we loved God\" is a simple past that a translator could draw from either the perfect ἠγαπήκαμεν or the aorist ἠγαπήσαμεν, especially in parallel with the following aorist ἠγάπησεν (\"he loved us\"); no note or italic supply distinguishes the tense."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.4.12.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "The three candidates differ only in the order of ἐν ἡμῖν, τετελειωμένη, and ἐστιν; ASV \"his love is perfected in us\" follows normal English clause order and reflects no one Greek arrangement over another."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.4.15.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἐάν and ἄν are interchangeable in the indefinite relative construction ὃς ἐὰν/ἂν ὁμολογήσῃ; both yield ASV's \"Whosoever shall confess,\" and no note bears on the particle."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.4.15.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads \"that Jesus is the Son of God\" with no \"Christ\"; the added Χριστός of the longer reading is unrepresented in the English."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.4.16.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV writes the final clause out in full — \"and God abideth in him\" — with \"abideth\" unitalicized, rendering the verb μένει; the reading that omits it would leave the elliptical \"and God in him,\" and an English supply for it would be italicized. The verse note is classed alternative_rendering (\"Or, in our case\") and concerns ἐν ἡμῖν earlier in the verse, so it does not bear on this unit."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.4.19.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV \"We love, because he first loved us\" leaves ἀγαπῶμεν without an object; the added αὐτόν would give \"we love him,\" and no object pronoun, italicized or otherwise, appears."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.4.20.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's text is the negative statement \"cannot love God whom he hath not seen,\" which renders οὐ δύναται; the verse's textual_variant note assigns the interrogative πῶς reading (\"how can he love God whom he hath not seen?\") to the margin as \"many ancient authorities,\" confirming the base reading stands in the text."
+    }
+  ]
+}

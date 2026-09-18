@@ -1,0 +1,117 @@
+{
+  "alignments": [
+    {
+      "note": "Independent subject pronoun takes only its own English, rule 20.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Participial predicate with the construction's copula and the infinitive marker English requires, headed on the lexical verb; discontinuous around the temporal phrase under rule 25.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Article rendered by the demonstrative *this* standing where the phrase's *the* would stand, rule 41.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Object marker, rule 16.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Construct noun with a supplied *the*, rule 29.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Rectum with *of*, rule 19.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Second object marker, rule 16.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Proper name; the ASV reverses the order of the two accusatives.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    }
+  ],
+  "ref": "DEU.2.18",
+  "review_notes": [
+    "The ASV inverts `אֶת־גְּבוּל מוֹאָב אֶת־עָר` to *Ar the border of Moab*; the units are aligned by sense rather than order, which rule 25 allows."
+  ]
+}

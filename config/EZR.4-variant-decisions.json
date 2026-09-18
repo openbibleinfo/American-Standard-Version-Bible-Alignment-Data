@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "chapter": "EZR.4",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.EZR.4.2.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'we sacrifice unto him' renders the qere וְלוֹ 'unto him'; the textual_variant note 'Another reading is, yet we do not sacrifice' is the ketiv ולא 'not', explicitly set aside as the other reading."
+    },
+    {
+      "unit_id": "WLC.EZR.4.4.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere ומבהלים and ketiv ומבלהים differ only by metathesis and both mean 'terrify/trouble'; ASV 'troubled them' fits either, and the note 'Or, terrified' is alternative_rendering about English wording. Base qere carries the projection."
+    },
+    {
+      "unit_id": "WLC.EZR.4.7.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'the rest of his companions' is plural, matching the qere כְּנָוֺתָיו 'his companions'; the ketiv כנותו is singular 'his companion', which the English excludes."
+    },
+    {
+      "unit_id": "WLC.EZR.4.7.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere ארתחששת and ketiv ארתחששתא are spellings of the same royal name; ASV 'Artaxerxes' fits either, and the hebrew_gloss note 'Artahshashta' is a transliteration of the name, not a textual_variant mapped to this spelling. Base qere carries the projection."
+    },
+    {
+      "unit_id": "WLC.EZR.4.9.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere ארכויא and ketiv ארכוי are orthographic variants of the same gentilic; ASV 'the Archevites' fits either and no note is mapped. Base qere carries the projection."
+    },
+    {
+      "unit_id": "WLC.EZR.4.9.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'the Dehaites' renders a people name, i.e. the qere gentilic דֶּהָיֵא; the ketiv דהוא 'that is' would read 'the Shushanchites, that is, the Elamites', which the English does not have."
+    },
+    {
+      "unit_id": "WLC.EZR.4.12.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere ובישתא and ketiv ובאישתא are spellings of the same adjective 'bad'; ASV 'the bad city' fits either and no note is mapped. Base qere carries the projection."
+    },
+    {
+      "unit_id": "WLC.EZR.4.12.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere ושוריא and ketiv ושורי are both plural 'walls' differing in state/orthography; ASV 'the walls' fits either and no note is mapped. Base qere carries the projection."
+    },
+    {
+      "unit_id": "WLC.EZR.4.12.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere שכלילו and ketiv אשכללו are alternative forms of the same verb 'to finish/complete'; ASV 'have finished' fits either and no note is mapped. Base qere carries the projection."
+    },
+    {
+      "unit_id": "WLC.EZR.4.23.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere ארתחששת and ketiv ארתחששתא are spellings of the same royal name; ASV 'king Artaxerxes' fits either and no note is mapped to this verse. Base qere carries the projection."
+    }
+  ]
+}

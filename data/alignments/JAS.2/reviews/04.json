@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "46b02b6303cb5ed48a7ef9b6acb5dc5ea45ef8b8ef7374acd426dccee677e50a",
+  "contract_version": "nt-greek-verse-v62",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed against the contract and returned unchanged; the accepted alignment is correct at every unit, edge and head. Notes were tightened only to name the rules the competing readings turn on.",
+    "All 9 source and 13 target ids partitioned exactly once, every unit `aligned` with nonempty arrays and both heads members of their arrays (rule 3).",
+    "The one materially contested edge is *with* (t011). Rule 21 settles it: where the ASV supplies no determiner the case preposition stays with the noun, so `διαλογισμῶν` takes *with … thoughts* discontinuously under rule 15. The packet gloss's *judges [with]* is the competing reading and is recorded in that unit's note under rule 16.",
+    "Head of `διεκρίθητε` on *distinctions* rather than the light verb *make*, under rule 17's support-verb clause and rule 91's operational test. The marginal readings *are ye not divided* and *in your own mind* are not the ASV text and do not bear on the alignment.",
+    "Variant SBLGNT.JAS.2.4.v005 is underdetermined and carries no `FALLBACK EXCLUDED BY EVIDENCE` mark; its fallback is compatible with the English, so rule 97 does not apply and no textual decision was made here (rule 12).",
+    "No `unrepresented` or `added` units: every source token has English answering to it and every English token is licensed by a source token, so rules 37, 86 and 98 do not arise."
+  ],
+  "ref": "JAS.2.4",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

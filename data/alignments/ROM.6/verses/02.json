@@ -1,0 +1,123 @@
+{
+  "alignments": [
+    {
+      "note": "The optative formula μὴ γένοιτο → God forbid is one indivisible unit headed on the verb and on forbid (rule 39).",
+      "source": [
+        "s001",
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "noncompositional",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Relative οἵτινες expanded with the supplied antecedent We; head on the relativizer, the supplied word being a bare antecedent rather than a generic noun (rule 77).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Aorist indicative.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "No determiner on sin (rules 21, 23).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Dative with its case preposition to (rule 21).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Interrogative adverb.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "ἔτι rendered by the two-word any longer, headed on longer.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Future indicative with subject and auxiliary, discontinuous across any longer (rules 9, 15).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Preposition fused with its pronoun into therein: there- answers to the pronoun and -in to ἐν, so the unit is aligned rather than noncompositional (rules 35, 81).",
+      "source": [
+        "s010",
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "ROM.6.2",
+  "review_notes": [
+    "μὴ γένοιτο is taken whole under rule 39 rather than giving forbid to the verb and emptying μή.",
+    "οἵτινες heads on who under rule 77's bare-antecedent arm; heading on We would be the competing reading."
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "alignments": [
+    {
+      "note": "Adverb to 'how'.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The negative indefinite is rendered discontinuously as 'not ... anything' (rule 15); head on the indefinite word, as rule 69 heads such a unit on 'any'.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Finite verb with its subject pronoun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The substantival article's pronoun has already been written by οὐδέν as 'anything', so nothing is left for it and the participle keeps the relativizer and copula (rule 32).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Participle rendered as a finite relative clause with its supplied copula.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Nominalizing article of the articular infinitive (rule 61).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Pleonastic negative in the complement of a verb of shrinking; English does not double the negation, so no word answers to it (rule 79's reasoning).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The English 'from ...-ing' is the marker of this infinitival complement and is its own helper (rule 61).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Dative pronoun with the English preposition realizing its case (rule 21).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Conjunction to conjunction.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Infinitive rendered by the English gerund.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Pronoun to pronoun.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Adjective rendered adverbially.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Conjunction to conjunction.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Distributive κατά rendered by the discontinuous frame 'from ... to' (rule 15); the noun keeps its two occurrences.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t020"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "The noun's two English occurrences form one unit; joining all four words into a single unit would fail rule 94's count test.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t021"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "ACT.20.20",
+  "review_notes": [
+    "οὐδέν takes the whole discontinuous 'not ... anything' and the pleonastic μή is left unrepresented; the alternative of giving 'not' to μή is defensible but would leave the indefinite carrying no negation while a plain negator stands empty.",
+    "κατ᾽ οἴκους is split into 'from ... to' and 'house ... house' rather than made one unit, following rule 94."
+  ]
+}

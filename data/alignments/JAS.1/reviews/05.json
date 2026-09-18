@@ -1,0 +1,17 @@
+{
+  "alignment_sha256": "fde0364b558ee3ccdf0f2c452c95425b25b24127173d75826dd69e6779e53bb4",
+  "contract_version": "nt-greek-verse-v61",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Verdict: the accepted alignment is correct as it stands. Every unit's spans, heads and statuses are unchanged; the only edits are to notes, expanding s009's reasoning and recording the rule 15 discontinuity at s015.",
+    "Partition verified: s001-s019 each appear in exactly one unit, and t001-t026 each appear in exactly one unit. No invented ids.",
+    "s009 is the one judgment call. `παρὰ τοῦ διδόντος θεοῦ` is article + attributive participle + expressed head noun, so rule 31's test empties the article and puts *who* on `διδόντος`. Two alternatives were weighed and are named in the unit note: a substantival reading under rules 32 and 90, which rule 90 explicitly refuses where a head noun is expressed; and rule 31's *precedes* clause, which would give a preceding article *the ... which* whole, but which is scoped to a prepositional-phrase modifier and in any case has no *the* to carry here, the ASV writing a bare *of God*.",
+    "Rule 92 is not in play. It governs an expressed appositional predicate noun that the ASV recasts as a finite relative clause with a supplied copula; here the relative clause has a verb of its own in `διδόντος`, so the participle carries the relativizer and nothing is supplied for the noun to take.",
+    "Rule 57 changes nothing: the article is in attributive position across the interposed participle, but the ASV supplies it no determiner, so rules 21 and 23 leave it `unrepresented` rather than giving it a *the*.",
+    "The two `καί` tokens map in order: s014 to t018 between the participles, s017 to t021 before the apodosis.",
+    "A reference comparison will report the `unrepresented` s009 as a disagreement; per rules 23 and 31 that report is not a correction."
+  ],
+  "ref": "JAS.1.5",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

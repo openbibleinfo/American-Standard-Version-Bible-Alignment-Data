@@ -1,0 +1,161 @@
+{
+  "ref": "PSA.12.5",
+  "alignments": [
+    {
+      "source": ["s001"],
+      "source_head": "s001",
+      "target": ["t001", "t002"],
+      "target_head": "t001",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The Hebrew causal preposition is rendered by the compound English connector 'Because of'."
+    },
+    {
+      "source": ["s002"],
+      "source_head": "s002",
+      "target": ["t003", "t004"],
+      "target_head": "t004",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s003"],
+      "source_head": "s003",
+      "target": ["t005", "t006", "t007"],
+      "target_head": "t007",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The substantival adjective is the nomen rectum and carries the English 'of'."
+    },
+    {
+      "source": ["s004"],
+      "source_head": "s004",
+      "target": ["t008", "t009"],
+      "target_head": "t008",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The repeated Hebrew causal preposition is rendered by 'because of'."
+    },
+    {
+      "source": ["s005"],
+      "source_head": "s005",
+      "target": ["t010", "t011"],
+      "target_head": "t011",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s006"],
+      "source_head": "s006",
+      "target": ["t012", "t013", "t014"],
+      "target_head": "t014",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The substantival adjective is the nomen rectum and carries the English 'of'."
+    },
+    {
+      "source": ["s007"],
+      "source_head": "s007",
+      "target": ["t015"],
+      "target_head": "t015",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s008"],
+      "source_head": "s008",
+      "target": ["t016", "t017", "t018"],
+      "target_head": "t018",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The inflected verb supplies the English subject and auxiliary; the lexical verb is the target head."
+    },
+    {
+      "source": ["s009"],
+      "source_head": "s009",
+      "target": ["t019"],
+      "target_head": "t019",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s010"],
+      "source_head": "s010",
+      "target": ["t020"],
+      "target_head": "t020",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s011"],
+      "source_head": "s011",
+      "target": ["t021", "t022", "t023"],
+      "target_head": "t023",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The inflected verb supplies the English subject and auxiliary; the lexical verb is the target head."
+    },
+    {
+      "source": [],
+      "source_head": null,
+      "target": ["t024"],
+      "target_head": "t024",
+      "status": "added",
+      "confidence": "high",
+      "note": "ASV supplies an object pronoun that is not represented by a Hebrew morpheme."
+    },
+    {
+      "source": ["s012"],
+      "source_head": "s012",
+      "target": ["t025"],
+      "target_head": "t025",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s013"],
+      "source_head": "s013",
+      "target": ["t026", "t027"],
+      "target_head": "t027",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The supplied English article belongs with the noun it determines."
+    },
+    {
+      "source": ["s014"],
+      "source_head": "s014",
+      "target": ["t028", "t029"],
+      "target_head": "t029",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The inflected verb supplies its English subject pronoun."
+    },
+    {
+      "source": ["s015"],
+      "source_head": "s015",
+      "target": ["t030"],
+      "target_head": "t030",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The preposition is stranded at the end of the English relative clause."
+    },
+    {
+      "source": ["s016"],
+      "source_head": "s016",
+      "target": [],
+      "target_head": null,
+      "status": "unrepresented",
+      "confidence": "high",
+      "note": "The pronominal object of the preposition is realized only as the English relative gap after 'for'."
+    }
+  ],
+  "review_notes": [
+    "The final Hebrew prepositional suffix is represented by the relative gap in 'the safety he panteth for', so it has no target token of its own."
+  ]
+}

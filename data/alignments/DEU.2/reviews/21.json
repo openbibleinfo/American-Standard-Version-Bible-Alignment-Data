@@ -1,0 +1,11 @@
+{
+  "alignment_sha256": "86466b84012913ae3dc90c7bb28a9eb7aa7981806e96dad3543aa64be7f33215",
+  "contract_version": "ot-hebrew-verse-v125",
+  "notes": [
+    "Reconciliation by claude-code — corrected",
+    "The chapter analyses a preposition fused with `פָּנֶה` two ways. Where the ASV writes one English rendering for the pair it fuses them — *aforetime* in 2.10, 2.12 and 2.20, *before* in 2.31, 2.33 and 2.36, *upon* and *because of* in 2.25 — and where it writes a word for each it splits them, as *from before* in 2.12 and 2.22. DEU.2.21 has the one-word shape, the ASV writing only *before*, but was analysed as a split with the `מִן` `unrepresented`. Rule 30's one-English-word condition is met there: no morpheme owns a part of *before*, so nothing is left over to mark, and rule 30 states in terms that a fused expression is headed on the morpheme carrying the lexeme 'rather than leaving another morpheme whose sense the rendering carries `unrepresented`'. Rule 22's closing paragraph says the same of a morpheme the ASV has written inside a fused word. The corpus agrees: it aligns `מִפְּנֵי` to *before* as one two-morpheme unit in fifteen places and to *because of* in seventy-five, and `לִפְנֵי` to *before* in five hundred and ninety-seven. The verse's own reasoning — that *before* does not carry the ablative sense — is the reading rule 30's subtraction test rejects, since there is no second English word for either morpheme to own. Only this unit changes; every other unit is returned as the verse pass wrote it."
+  ],
+  "ref": "DEU.2.21",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

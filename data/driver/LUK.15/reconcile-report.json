@@ -1,0 +1,32 @@
+{
+  "chapter": "LUK.15",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "misthios rendered 'hired servants' heads on 'hired': the misth- root is what 'hired' glosses and 'servants' is the generic completion, under rules 66 and 91. Taken at 15:17 (of my father's hired servants) and 15:19 (one of thy hired servants).",
+    "engizo rendered by a support verb plus an adverbial heads on the adverbial, engizo being denominal on engys: 'drawing near' heads on 'near' at 15:1 and 'and drew nigh' heads on 'nigh' at 15:25, with the juncture 'and' a rule 88 helper on the verb it introduces.",
+    "euphraino rendered by the frame 'make merry' or 'be merry' heads on 'merry' throughout, the frame verb carrying no part of the lexeme (rules 17 and 91): 15:23 'and make merry', 15:24 'to be merry', 15:29 'I might make merry', 15:32 'to make merry'. chairo beside it at 15:32 heads the same way, 'be glad' on 'glad'.",
+    "ouketi rendered by the two-word 'no more' heads on 'no', the negation being the lexeme's core and 'more' its temporal completion. Taken at 15:19 and 15:21, which write the identical clause. Heading on 'more' remains arguable and is the reading a later reader should expect to weigh.",
+    "drachme is rendered 'piece' throughout, and where the ASV writes 'pieces of silver' at 15:8 the whole phrase is the noun's own unit headed on 'pieces', 'of silver' being the ASV's expansion of the coin name and answering to no other token. The bare 'piece' at 15:8 and 15:9 is the same lexeme with the expansion unwritten.",
+    "The closing refrain is written twice with different Greek and identical English, and both verses are analysed as one construction: at 15:24 anezesen supplies 'again' from the preverb and the expressed en takes 'he was' before the participle, while at 15:32 the simplex ezesen and the absent copula are what the ASV italicizes 'again' and 'was' for. Both italicized words are folded as rule 7 helpers on the tokens whose English they complete rather than marked added, no token of either verse being spent and rule 97 not applying, both variant units there being underdetermined with the base reading compatible."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v120",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 46 candidate lemma groups and then the full dump end to end, since the lemma table is blind to the chapter's single `added` unit. No cross-verse split found; patches empty.",
+    "Article-plus-possessive is uniform across the chapter: every article with an expressed possessor is unrepresented under rule 20 (15:5, 15:13, 15:15, 15:16, 15:17, 15:18, 15:19, 15:20 x3, 15:22 x2, 15:24, 15:25, 15:27 x2, 15:28, 15:29, 15:30 x2, 15:32), and every article with no possessor in its phrase takes the supplied possessive under rule 20's second arm (15:6 x2, 15:9, 15:12 x3, 15:22). No verse crosses that line.",
+    "Rule 21's two arms are divided consistently: determinerless English keeps the case preposition on the noun (15:10 tou theou, 15:15 tes choras, 15:19 ton misthion, 15:29 toi patri), determiner-bearing English keeps it on the article (15:15 ton politon, 15:25 tei oikiai, 15:26 ton paidon).",
+    "Participle-to-coordinate-clause junctures sit on the verb they introduce in every instance (15:13, 15:15, 15:18, 15:20 x2, 15:23, 15:25, 15:26, 15:28, 15:29). The chapter's one `added` unit, the italicized 'and' at 15:23, is the asyndetic seam between pherete and thysate, two imperatives both rendered as imperatives, so rule 98 and not rule 88. That is the one place a split could have hidden from the lemma table, and it does not.",
+    "Genitive absolutes (15:14, 15:20) both give the English subject word to the expressed autou and keep the subordinator and copula on the participle, per rule 74; supplied-subject participles (15:5, 15:6, 15:9, 15:17) all fold the pronoun onto the participle. Preverb particles ride inside the compound verb throughout (15:6, 15:9, 15:13, 15:22 x2, 15:24, 15:26, 15:28 x2), and compound-governed datives take the case preposition on the governed word (15:2, 15:6, 15:9), which is rule 106's two arms correctly separated.",
+    "The 15:24 / 15:32 refrain differs in the source and not in the analysis: 15:24 carries the compound anezesen and an expressed en, 15:32 the simplex ezesen and no copula, which is exactly why the ASV italicizes 'again' and 'was' at 15:32 and why the verse pass folds them. Same English, two source shapes, one analysis.",
+    "BSB disagreements: all seven are documented convention differences, none an error. 15:6, 15:17, 15:19, 15:20 and 15:29 are rule 20 or rule 23 articles the ASV gives no English word; 15:25 is a second attributive article (rule 23); 15:8 hou in heos hou is rule 94's closing clause and that verse's note already concedes the joined reading. Nothing was changed to move the aggregate.",
+    "Two single-verse judgments I inspected and left standing: 15:20 apechontos headed on 'was' (nothing lexical remains in the unit once makran takes 'afar off', so rule 3 forces the head), and 15:32's folded 'again' (defensible under rule 7; marking it added under rule 5 remains arguable, and either reading is consistent with 15:24, whose 'again' answers to the preverb ana-)."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "chapter": "MRK.2",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "παραλυτικός is rendered by the ASV's phrase *sick of the palsy*, expanded at 2.3 to *a man sick of the palsy*. The whole phrase is one aligned unit on the adjective, headed on *palsy*, which glosses the lexeme, with *man* the generic completion under rule 66 and *sick of the* its supplied frame. Read this way at 2.3, 2.4, 2.5, 2.9 and 2.10; heading on *sick* remains defensible and is recorded in the 2.3 note.",
+    "The chapter carries the ἐγένετο + infinitive frame twice and places the supplied complementizer *that* differently, because the Greek differs rather than the ASV. At 2.15 a preposition governs an articular infinitive (ἐν τῷ κατακεῖσθαι), so ἐν takes the clause-introducer under rule 61 and the article is unrepresented. At 2.23 the infinitive is bare and ἐν τοῖς σάββασιν is an ordinary temporal phrase, so the complementizer belongs to παραπορεύεσθαι under rule 85 and ἐν takes *on*. Rule 24 is not in question: it forbids following the surface where one construction is rendered two ways, and here two constructions are rendered alike.",
+    "σάββατον rendered *sabbath day* is one aligned unit headed on *sabbath*, *day* being the supplied generic completion under rule 66. Read this way at 2.23 and 2.24; where the ASV writes a bare *sabbath* (2.27 twice, 2.28) nothing is supplied and the question does not arise."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v68",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Worked all 56 candidate lemma groups and read the 28-verse dump end to end for the added/folded asymmetries the table cannot see. No construction is analysed two ways without something in the source licensing the difference, so no patches.",
+    "Four near-splits worth naming, all resolved as source-licensed. (1) ἐγένετο + infinitive at 2.15 and 2.23: the supplied *that* goes to ἐν at 2.15 (rule 61, a preposition governs an articular infinitive) and to παραπορεύεσθαι at 2.23 (rule 85, the infinitive is bare and ἐν τοῖς σάββασιν is an ordinary temporal phrase). Different Greek, not two readings of one construction; recorded as a convention. (2) τοῖς σάββασιν at 2.23 takes *the* with ἐν taking *on*, against 2.24 where the article takes *on the*: 2.24 has no expressed preposition, so *on* realizes the bare dative and rides with the article under rules 21 and 36. (3) ὅτι aligned to *that* at 2.1, 2.8, 2.16 and unrepresented at 2.12, 2.17: rule 43's test is the English, and the ASV writes the complementizer only in the first three. (4) Verb-plus-particle heads: *take up* (2.9, 2.11, 2.12), *sat down* (2.15) and *went forth* (2.12, 2.13) head on the verb word because it glosses the lexeme, while *let down* (2.4) heads on *down* because χαλάω means to lower and *let* glosses nothing — rule 91's test, and that unit already names the competing reading.",
+    "Article treatment is internally uniform: rule 20 displacement at 2.5, 2.6, 2.8, 2.9, 2.11, 2.15, 2.16, 2.18, 2.23; rule 23 with the case preposition left on the noun at 2.8, 2.10, 2.15, 2.16, 2.26, 2.28; the determiner with a riding preposition on the article at 2.5, 2.6, 2.9, 2.10, 2.16, 2.18, 2.19, 2.21, 2.24, 2.26, 2.28. No rule 76 availability case arises — every possessive-bearing pronoun in the chapter is free to carry its own possessive. 2.27 gives the first διά phrase's article nothing and the second one *the*, which is the ASV's own asymmetry and is already noted in that verse.",
+    "Substantival articles are consistent across the two configurations rule 32 distinguishes: before a participle the article keeps only the pronoun (2.17 twice, 2.26), before a prepositional phrase it keeps the discontinuous *they … that* (2.25), and where the ASV supplies nothing at all it is unrepresented (2.2, rule 31's closing clause). The two `added` units — *even* at 2.7 and *they put* at 2.22 — are the chapter's only supplied-word verdicts and rest on rules 105 and 103 respectively; no other verse folds a word of either shape, so the table's blindness to `added` hides nothing here.",
+    "BSB: all five disagreements are documented convention differences, not errors. 2.8 τῷ, 2.11 τὸν and 2.16 τοῖς are rule 20 displacement by a possessive; 2.20 τῇ is rule 38 displacement by an attributive demonstrative; 2.26 τῆς contributes no part of the fused *showbread* and is unrepresented under rules 23 and 93. Nothing was changed to move the aggregate.",
+    "One thing to tighten that is not an alignment error and so not patched: MRK.2.16's note on Ὅτι → *How is it that* cites rule 44, which is scoped to interrogative particles. The edge itself matches corpus precedent exactly (ὅτι → *how is it that*, head *How*, at MRK.9.11 and MRK.9.28) and is better rested on rule 40 with those two units named. Re-emitting 26 units to fix a citation risks more than it gains; a later editor should correct the note in place.",
+    "No promotion. The one construction the contract does not name outright — ἄρτους τῆς προθέσεως rendered by the single word *showbread* at 2.26, aligned as one unit with the intervening article unrepresented — is already fully decided by rules 2, 39 and 23: a single English word leaves no pieces to split, rule 39's test makes it aligned, and rule 23 empties an article the ASV realizes nowhere. A rule saying that would restate three, which is the first of the three failures the brief names."
+  ]
+}

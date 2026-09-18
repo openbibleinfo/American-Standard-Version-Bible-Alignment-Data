@@ -1,0 +1,25 @@
+{
+  "chapter": "JOB.18",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Impersonal 3mp verbs with a 3ms object suffix that the ASV recasts as an English passive (18.14 תַצְעִדֵהוּ → 'he shall be brought', 18.18 יֶהְדְּפֻהוּ … יְנִדֻּהוּ → 'He shall be driven … and chased'): the verb takes the passive frame and lexical verb, the object suffix takes the promoted subject pronoun, and where two suffixed verbs share one written English subject the second suffix is its own unrepresented unit (rules 17, 18, 22). BSB attaches that second suffix to its verb; the disagreement is convention."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 21 verses end to end against the 16 candidate groups. No cross-verse split found: every multi-treatment bucket is the ASV rendering one morpheme differently in a different construction (suffix as his/him/he/his own/for him by what the ASV wrote; בְּ as in/among/into/by; לְ as 'of' in 18.15 where the ASV writes a genitive but 'shall have' in 18.17/18.19 where it writes the possessive verb under rule 43; מִן as 'out of' headed on 'out' in 18.4/18.14/18.18 and as the privative frame 'that which' in 18.15 under rule 48; לֹא as 'no' in 18.17 and the correlative 'neither' in 18.19 under rule 14).",
+    "18.19's three negatives are consistent with each other: the first לֹא takes 'neither', וְלֹא → 'nor' and וְאֵין → 'Nor' are rule 35 fusions headed on the negative; the notes name the rule 14 alternative.",
+    "18.16 heads מִתַּחַת → beneath on מִן (rule 23, compound of two R morphemes, as מֵעַל/מֵאֵת) and מִמַּעַל → above on the adverb מַעַל (tagged D, a content morpheme). The difference follows MACULA's tagging and rule 23's own two sentences; both notes name the competing head. Not a split.",
+    "Added units checked against the source: 18.3 'And', 18.9 'And' and 18.13 'Yea' each open a colon with no conjunction morpheme; 18.9 'him' completes a verb with no object suffix. No verse folds an equivalent supplied word into a neighbour, so the table's blind spot holds nothing.",
+    "BSB disagreements: 18.2 paragogic nun (rule 32) and 18.18 second object suffix left unrepresented where the ASV writes one 'He' for two suffixed verbs (rule 22). Both are documented convention differences, not errors.",
+    "No contract promotion: the chapter taught nothing the contract does not already state."
+  ]
+}

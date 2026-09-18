@@ -1,0 +1,94 @@
+{
+  "alignments": [
+    {
+      "note": "Interrogative `μή`; the ASV marks the question by inversion alone (*Have we…?*), so rule 44 leaves it empty.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The clause's negation is written once, in the determiner *no*; `ἐξουσίαν` is not itself a negative, so rules 41 and 59 do not empty the negator and it keeps the word.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Finite verb with its supplied subject; head on the verb word.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Object noun, bare because the negative determiner occupies its slot.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Infinitive with its marker as a rule 7 helper; no conjunction governs the clause.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Coordinating conjunction.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Second infinitive; the repeated *to* is an ordinary helper on it under rule 40's closing clause.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    }
+  ],
+  "ref": "1CO.9.4",
+  "review_notes": [
+    "`μή` (s001) is `unrepresented` as an interrogative particle under rule 44; a reference comparison will report it as a disagreement and that is not a correction.",
+    "Giving *no* to `οὐκ` rather than joining it with `ἐξουσίαν` follows rule 59's test: the second word is not itself a negative."
+  ]
+}

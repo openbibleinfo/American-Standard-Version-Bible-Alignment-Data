@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "JOB.21",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JOB.21.13.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'They spend their days in prosperity' fits both the qere יְכַלּוּ (כלה, complete/spend) and the ketiv יבלו (בלה, wear out/use up); ASV renders the same idiom with בלה at Job 36:11 as 'spend their days in prosperity', so 'spend' does not distinguish the readings. No textual note on the verse. Base qere fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.JOB.21.20.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Let his own eyes see his destruction' renders a plural noun, matching the qere עֵינָיו 'his eyes'; the ketiv עינו reads as singular 'his eye', which the English wording excludes. No textual note on the verse."
+    }
+  ]
+}

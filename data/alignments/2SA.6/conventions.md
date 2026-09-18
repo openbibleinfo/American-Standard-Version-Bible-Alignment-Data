@@ -1,0 +1,8 @@
+# 2 Samuel 6 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **2SA.6.19** — A postposed אֶחָד/אַחַת that the ASV renders by nothing but the indefinite article ('a cake of bread', 'a portion', 'a cake of raisins') takes that 'a' itself, since a present numeral is what the word renders (rule 11); the noun keeps only its own word. The competing reading (article to the noun under rule 15, numeral unrepresented) was rejected because it leaves a lexical numeral unrendered while its English stands on the page.
+- **2SA.6.17** — Hiphil בוא → 'brought in' keeps 'in' with the verb as the lexeme-completing particle of the bring-in sense (rule 44); the surplus-particle reading marking 'in' added was considered and named in the note. Likewise 'gathered together' (6.1), 'broken forth' (6.8, with the cognate פֶּרֶץ unrepresented), 'carried aside' (6.10) and 'looked out' (6.16) keep their particles.
+- **2SA.6.6** — גֹּרֶן → 'the threshing floor' heads on 'floor' as the class noun the ASV also writes alone for the word, 'threshing' read as the specifier (rule 31 tie); 'threshing' was the available competing head. Distributive אִישׁ → 'every one' (6.19 ×2) heads on 'one' on the same reasoning.
+- **2SA.6.2** — In the ark-naming relative clause, the resumptive עָלָיו is construed with נִקְרָא per the ASV margin ('whereupon is called the Name') and dissolved into 'which'; עַל and its suffix are unrepresented (rule 22), and 'above' goes to the bare accusative הַכְּרֻבִים after יֹשֵׁב under rule 33, not to עַל.

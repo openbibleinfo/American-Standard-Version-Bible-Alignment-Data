@@ -1,0 +1,149 @@
+{
+  "alignments": [
+    {
+      "note": "Rise up: particle completes the lexeme (rule 44).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Paragogic he (rule 32).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Bare noun עזרתה as adverbial accusative of purpose takes the supplied for (rule 33), discontinuous around our (rule 25); headed on help. Competing reading gives for to the he on the noun as a directive he, but MACULA tags that he Sh (paragogic), not Sd, so rule 32 leaves it nothing.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Tagged Sh, so read as paragogic he and unrepresented (rule 32); the gloss '(to).a' suggests a directive reading, but the tag governs (rule 39). The prior alignment gave it the for on a Sd reading the morphology does not carry.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Dative ל recast as the possessive our on the noun (rule 40).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Suffix takes the possessive our (rules 18, 40).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Waw rendered And (rule 14).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Object suffix takes us (rule 18).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "למען rendered for ... sake; headed on sake (rule 24), discontinuous around the noun (rule 25).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Suffix takes thy (rule 18).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    }
+  ],
+  "ref": "PSA.44.26",
+  "review_notes": [
+    "Corrected: the he of עזרתה is tagged Sh (paragogic), not Sd, so it is unrepresented under rule 32 and the supplied for goes to the bare noun under rule 33 rather than to the he."
+  ]
+}

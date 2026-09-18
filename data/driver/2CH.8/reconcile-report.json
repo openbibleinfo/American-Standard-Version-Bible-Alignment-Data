@@ -1,0 +1,28 @@
+{
+  "chapter": "2CH.8",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Construct chains whose arthrous rectum the ASV renders with no determiner of its own give the phrase's single *the* to the rectum's article (rule 29 fronting) throughout the chapter, and this includes אִישׁ הָאֱלֹהִים → *the man of God* (8.14), where *God* is read as an anarthrous rendering of הָאֱלֹהִים and the construct keeps bare *man*; the same reading covers *the store cities* (8.4, 8.6), *the chief officers* (8.10), *the feast of unleavened bread / weeks / tabernacles* (8.13) and *the sea shore* (8.17).",
+    "The distributive repetitions דְבַר־יוֹם בְּיוֹם(וֹ) → *the duty of every day required* (8.13, 8.14) and לְשַׁעַר וָשָׁעַר → *at every gate* (8.14) are read under rule 22 with the first occurrence taking the noun and *every*, the second preposition, waw, noun and suffix unrepresented, and the supplied *required* its own added unit rather than folded into דְבַר; the *of* is the construct relation of דְבַר and goes to the first יוֹם as its rectum.",
+    "מֶלֶךְ שְׁלֹמֹה with the article → *king Solomon* leaves the article unrepresented (8.10, 8.18); הֵמָּה takes *they* where the ASV writes it (8.9), is unrepresented as a resumptive pronoun the relative already carries (8.7), and takes the lexical expression *the places* where the ASV writes that for it (8.11, margin 'Hebrew they are' read and set aside)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v218",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 18 verses end to end against the 46-lemma candidate table and the added/unrepresented units the table cannot see. No construction is analysed two ways without the ASV licensing the difference.",
+    "Rule 29 fronting is applied uniformly wherever an arthrous rectum is rendered anarthrously: store cities (8.4, 8.6), chief officers (8.10), feast of unleavened bread / weeks / tabernacles (8.13), the man of God (8.14), the sea shore (8.17); and the arthrous count is applied uniformly where the ASV writes a determiner before the rectum's own word: courses of the priests (8.14), commandment of the king (8.15), cities for his chariots / horsemen (8.6, article → *his* under rule 41).",
+    "The two distributive repetitions (יוֹם בְּיוֹם in 8.13 and 8.14, לְשַׁעַר וָשָׁעַר in 8.14) are read identically under rule 22: first occurrence takes noun and *every*, repeated preposition/waw/noun/suffix unrepresented, and the supplied *required* is added in both verses.",
+    "הֵמָּה is treated three ways (8.7 unrepresented, 8.9 *they*, 8.11 *the places*) and each is licensed by what the ASV wrote; 'king Solomon' leaves the article unrepresented in both 8.10 and 8.18; the added units (*As for* 8.7, *of bondservants* 8.8, *even* 8.10 and 8.13, *required* 8.13/8.14, *So* 8.16, *them* 8.18) are each correctly placed and none is folded elsewhere in another verse.",
+    "BSB disagreements are all convention: object markers, prepositions silenced by ASV recasting (had/levy/servants/my/gerund/dative), resumptive pronoun and suffix, unwritten connectives, distributive repetitions, and articles the ASV does not write. No genuine error found.",
+    "Two single-verse choices were reviewed and left standing with their notes: 8.8 *of them* on the object suffix (rule 44 would put the *of* on the verb; the recasting demotes the suffix to a partitive adjunct rather than reaching it as object) and 8.13 חֳדָשִׁים → *new moons* headed on *new* under rule 31's ASV-usage tie-break. Neither touches another verse.",
+    "Nothing here generalises beyond the contract as written; no promotions or amendments."
+  ]
+}

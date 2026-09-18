@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "d0cf7ad87474ca3b345184418dbb9660d9d4a2f51918ba7b2f8c61046020ca84",
+  "contract_version": "nt-greek-verse-v62",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed against the token table: all 15 source and all 15 target ids are partitioned exactly once, every aligned unit has nonempty arrays with both heads inside them, and every unrepresented unit has an empty target and a null target head. The accepted alignment is correct and is returned with its units unchanged.",
+    "Corrected a miscount in the accepted review notes: four articles are left unrepresented, not three. s006 by rule 20 displacement (αὐτοῦ → 'his'); s003, s011 and s013 by rule 23, the ASV writing no determiner for either 'faith' or the second 'works'. s011 additionally has an expressed ἐκ carrying 'by', so rule 21 has nothing left for it.",
+    "The one genuinely contested unit is 'with' (t006), given to ἔργοις as the dative's case preposition rather than to the compound συνήργει. Checked and kept: rule 20's worked example puts the case preposition on the noun where a possessive has displaced the article, and rule 36 refuses a preposition to a verb merely because the English reads as phrasal. The competing 'wrought with' reading is named in the s005 note for a later reader.",
+    "Head choices re-reviewed independently of edges per rule 28: 'seest' over 'Thou' (rule 9) and 'perfect' over 'was'/'made' (rules 17 and 91) are the two that could go wrong, and both are settled by unbroken contract precedent rather than by English syntax.",
+    "The packet's interlinear gloss column supplies '[his]' for s003, s011 and s013, but the ASV writes no possessive at those points; the gloss is not evidence of an English word to align to."
+  ],
+  "ref": "JAS.2.22",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

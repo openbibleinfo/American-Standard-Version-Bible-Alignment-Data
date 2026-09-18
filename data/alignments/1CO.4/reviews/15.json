@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "d12434d327df8bf3fb7ffa5e9bcad32a2460c10e55aa8cca69c5ef19654c1192",
+  "contract_version": "nt-greek-verse-v97",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 21 source and 25 target ids are partitioned exactly once.",
+    "The italicized *have ye* is folded onto `πατέρας` under rule 68: the clause `ἀλλ᾽ οὐ πολλοὺς πατέρας` expresses neither verb nor subject, so the supplied words go to the token left to carry them, the quantifier and the negator not being carriers under rule 96 (`εἷς θεός` → *there is one God* is the shape). Marking *have ye* `added` under rule 103's resumed-verb arm remains defensible, `ἔχητε` being spent on *ye have* in the first clause; the distinction taken here is that rule 103's cited resumptions stand in clauses that already carry their own expressed predicate, as 2JN.1.12 does, whereas this clause carries none.",
+    "`ἐάν` is realized by the concessive *though*, the word introducing its English clause (rule 40), and `Ἰησοῦ` is split from `Χριστῷ` rather than sharing a head (rule 17)."
+  ],
+  "ref": "1CO.4.15",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

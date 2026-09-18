@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "1f9a26a8250cd03281e817cec3b06e1af95191f6408f49dc91dba7ea03870214",
+  "contract_version": "ot-hebrew-verse-v95",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 26 source and 34 target IDs partitioned exactly once, plus one added target unit.",
+    "burn it (t017) is correctly added: וְהִקְטִיר הַמִּזְבֵּחָה writes neither an object marker nor a suffix, so the pronoun answers to no morpheme (rule 44), exactly as in LEV.1.13.",
+    "מָלַק → wring off is a verb plus phrasal particle, so the head stays on wring (rule 44).",
+    "דָמוֹ → the blood thereof takes the supplied definite article on the nominal under rule 15, with the suffix taking thereof under rule 18.",
+    "קִיר הַמִּזְבֵּחַ follows rule 29's arthrous case: the present article takes the the before its own word and the construct takes the supplied one."
+  ],
+  "ref": "LEV.1.15",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

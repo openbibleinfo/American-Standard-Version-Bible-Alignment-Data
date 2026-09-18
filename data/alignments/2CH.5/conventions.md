@@ -1,0 +1,8 @@
+# 2 Chronicles 5 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- A waw the ASV renders by a discontinuous result correlative — 'the staves were so long that the ends … were seen' (5.9) — takes both 'so' and 'that' as one discontinuous unit headed on the closing 'that' (rule 14's correlative pair; the degree word is not the verb's). A contiguous 'so that' at a clause edge (5.14) is rule 55's compound and heads on 'so'. The two heads are two constructions, not a split.
+- Appositional 'even': a preposition standing on the very phrase the 'even' introduces takes it — the fourth appositional אֶל of אֶל־תַּחַת כַּנְפֵי (5.7, as the parallel 1KI.8.6 aligns it) and the enumerative לְ of לְאָסָף (5.12); the later enumerative לְs the ASV writes nothing for are unrepresented. Where no morpheme stands on the phrase (עָנָן בֵּית יְהוָה → 'a cloud, even the house of Jehovah', 5.13) the 'even' is added under rule 16.
+- Hiphil בּוֹא → 'brought in' (5.1, 5.7): the particle restates the entering that the lexeme of בוא carries, so it stays in the verb's unit under rule 44 rather than being marked added as 'bring … back' is.
+- The two וַיְהִי frames: 5.11's יְהִי takes 'it came to pass' alone (the ASV's 'that' stands in verse 13), and 5.13's יְהִי is one written verb realized twice — the frame 'it came to pass … that' and the recast clause's copula 'were' — while the apodosis waw takes 'then' and the supplied 'when' is added. Both frames head on 'pass', with 'came' the named competing head.

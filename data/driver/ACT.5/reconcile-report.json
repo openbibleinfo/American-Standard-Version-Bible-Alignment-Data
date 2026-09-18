@@ -1,0 +1,31 @@
+{
+  "chapter": "ACT.5",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Partitive apo with a following article (5:2, 5:3 'part of the price'): the expressed preposition keeps the whole supplied frame 'part of' undivided under rules 36 and 67, headed on the lexical 'part', and the article behind it takes a bare 'the' under rule 19. Do not give the article an 'of the' here; rule 95's REV.14.10 shape is the same point. Rule 67 leaves the head open for a proper preposition, so heading the frame on 'of' as the 2 Corinthians run does remains defensible; this chapter follows the EPH/PHP reading. A bare genitive with no preposition governing it is untouched and keeps rule 21's ordinary 'of the' on the article, as 5:3's following tou choriou does.",
+    "An article governing an expressed head noun across an interposed attributive participle (5:17 he ousa hairesis, 5:22 hoi paragenomenoi hyperetai): the article is that noun's own determiner and takes the English 'the' under rules 19 and 57, the participle carries the supplied relativizer and any copula under rule 31, and the head noun stands bare. Rule 31's article-precedes clause, which gives the article the relativizer along with 'the', is scoped to a modifier with no verb and does not reach this; rule 92 does not reach it either, the participle rather than the predicate noun being what is left to carry the supplied words; and rule 32 does not, the article governing an expressed head noun. Rule 57 forbids deciding the question from the interposed word.",
+    "The correlative particle te is decided by the English alone, as rules 65 and 70 decide kai and men: aligned to whatever word the ASV writes for it and unrepresented where it writes none. 5:14 te ... kai gives 'both' to te and 'and' to kai; 5:24 writes only one 'and', which kai takes, leaving te its own unrepresented unit; 5:19, 5:35 and 5:42 give te its own 'and' or 'And'. Do not join the pair where only one English word stands.",
+    "A supplied English marker of a predicate accusative rides with the predicate noun as a rule 7 helper, not as its own added unit: 5:31 gives 'to be' to archegon, the first of the two predicate nouns, and 5:42 gives 'as' to christon, discontinuously under rule 15. The construction the noun stands in is what licenses the word. Marking such a marker added under rule 86 is the competing reading and is named in both units.",
+    "ekpsycho rendered by the support-verb idiom 'gave up the ghost' is one unit headed on 'ghost' (5:5, 5:10), the meaning-bearing complement under rules 17 and 91. Heading on 'gave' remains defensible and is named in both units; what matters is that the two instances read alike.",
+    "Versification: the ASV translates 5:39's closing epeisthesan de auto at the head of 5:40 ('And to him they agreed'). Under rule 37 the three tokens at 5:39 are their own unrepresented units and the five English words at 5:40 are one added unit, each side noting the other verse. A reference comparison will report all of these as disagreements; that report is not a correction, and neither side should be stretched to reach the other."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v70",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 42 verses end to end against the 77-lemma candidate table, the validation report and the contract. No cross-verse split found: verdict no-change, patches empty.",
+    "Article buckets all resolve to licensed contrasts. Rule 90 (one English word for article+participle: 5.5, 5.7, 5.11) against rules 32/21 (two words: 5.9, 5.32). Rule 102 (article + substantival adjective, 5.6 'the men' / 'young') against rule 66 (article + noun, 5.10 'the' / 'young men') for the same English phrase. Rule 102's anarthrous clause (5.16 'sick folk' headed on the adjective) against 5.15's arthrous 'the sick'.",
+    "The partitive frame at 5.2 and 5.3 is one analysis after both verse passes corrected it: 'part of' whole on the expressed preposition, a bare 'the' on the article behind it. The participle sandwich at 5.17 (corrected) and 5.22 is likewise one analysis: 'the' on the article, the supplied relativizer and copula on the participle.",
+    "Checked the axis the lemma table cannot see, namely supplied English with no source token. The chapter folds a supplied word onto a licensing token wherever one exists (5.4 repeated 'not', 5.7 'when' on kai, 5.9 'said' on pros, 5.31 'to be', 5.32 'so' and 'is', 5.37 'some of the', 5.42 'as') and marks added only where none does (5.26 'but', 5.40 the rule 37 opening). Consistent both ways.",
+    "BSB: all twelve disagreements are ASV-unrepresented against BSB-represented and all are the documented convention difference. Articles emptied by a free genitive (5.2, 5.28, 5.30, 5.31), by an attributive demonstrative (5.20, 5.32, 5.36), or given no English determiner at all (5.18, 5.19, 5.37, 5.40), under rules 20, 38 and 23; plus se at 5.3, an expressed subject of the infinitive for which the ASV writes no word. None is a genuine error and none was changed.",
+    "Reviewed and deliberately left, each with its competing reading already named in its own unit note: 5.34 'of all the people' (rule 21 would put a discontinuous 'of ... the' on the article, but the verse pass kept 'of all' on the quantifier with its reasoning and the chapter holds no second instance to be inconsistent with); the added 'but' at 5.26; the head on 'young' at 5.10; the We/must split at 5.29.",
+    "No promotion. The one gap I probed, a reader applying rule 31's article-precedes clause to an article + attributive participle + expressed head noun, is already closed by that rule's own opening sentence and by rule 57, so an amendment would restate rather than correct. It is recorded as a chapter convention instead."
+  ]
+}

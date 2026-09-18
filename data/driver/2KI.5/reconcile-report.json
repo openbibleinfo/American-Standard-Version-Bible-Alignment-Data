@@ -1,0 +1,28 @@
+{
+  "chapter": "2KI.5",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "לִפְנֵי is fused under rule 30 to whichever single English rendering the ASV writes for it in this chapter — 'with' (v.1), 'on' (v.2), 'were with' with the construction copula (v.3), 'before' (vv.15, 16, 23) — and in v.27 to the noun 'presence' standing after a separately written 'from' on the מִן; the margin's 'Hebrew before' is read and set aside each time (rule 38).",
+    "'went away' for a bare וַיֵּלַךְ (vv.11, 12): 'went' writes the whole of הָלַךְ and no מִן or other morpheme in the clause states the departure, so 'away' is its own `added` unit under rule 44's surplus-particle test. The competing reading keeps 'away' with the verb; the chapter takes the `added` reading in both verses.",
+    "The one-word question הֲשָׁלוֹם → 'Is all well' and its answer שָׁלוֹם → 'All is well' (vv.21, 22): the supplied subject 'all' is `added` under rule 20's closing sentence, the fronted 'Is' goes to הֲ under rule 20, and the 'is' of the answer joins the predicate noun.",
+    "Bare locative בֵּית רִמּוֹן (v.18, three times): after בּוֹא the supplied 'into' is the verb's under rule 44, since the place is what בּוֹא governs; after חוה the supplied 'in' belongs to the noun under rule 33, with the supplied 'the' on the construct under rule 29.",
+    "The italic 'himself' of 'dipped himself' (v.14) is kept with טָבַל as the ASV's rendering of the verb's intransitive use here, not marked `added` like the supplied object pronouns of vv.16, 23 and 24; the competing `added` reading is named in the unit note."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked every multi-treatment bucket in the candidate table and every `added` unit in the dump. No construction is analysed two ways without the source licensing the difference.",
+    "Recurring constructions are consistent: לִפְנֵי fuses to the single English rendering written for it in every occurrence (with / on / were with / before / presence); מֵאֵת and מֵעַל fuse headed on the first morpheme (vv.15, 19, 20, 21, 26); apodosis waws take 'that' where the ASV writes it (vv.7, 8) and go unrepresented where it writes nothing (vv.21, 24); interrogative הֲ takes the fronted copula or auxiliary in all six clauses; supplied object pronouns are `added` in vv.16, 23, 24; 'went away' marks 'away' added in both v.11 and v.12.",
+    "The one-word question/answer הֲשָׁלוֹם / שָׁלוֹם is read the same way in vv.21 and 22: supplied 'all' added, copula to the particle or to the predicate.",
+    "BSB disagreements are all documented convention differences (object markers, silent לְ/אֶל under rules 27 and 40, unrendered articles beside demonstratives and agreement articles, the resumptive suffix of 'before whom' in v.16 under rule 22, the unrendered positive-oath כִּי אִם in v.20, apodosis waws, the paragogic he in v.22). None is a genuine error.",
+    "Conventions recorded for the chapter-wide judgments that were repeated in notes but never logged. No promotion: nothing here generalises beyond what the contract already states."
+  ]
+}

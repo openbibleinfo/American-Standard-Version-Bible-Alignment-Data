@@ -1,0 +1,158 @@
+{
+ "alignments": [
+  {
+   "note": "Ordinary negative aligned to *not*; no negative indefinite stands with it, so rules 41 and 59 are not in question.",
+   "source": [
+    "s001"
+   ],
+   "source_head": "s001",
+   "status": "aligned",
+   "target": [
+    "t004"
+   ],
+   "target_head": "t004"
+  },
+  {
+   "note": "Expressed copula keeps its own *is*, distinct from the supplied *is* of the second clause.",
+   "source": [
+    "s002"
+   ],
+   "source_head": "s002",
+   "status": "aligned",
+   "target": [
+    "t003"
+   ],
+   "target_head": "t003"
+  },
+  {
+   "note": "Attributive demonstrative governing the expressed noun `σοφία`; it occupies the English determiner slot under rule 38.",
+   "source": [
+    "s003"
+   ],
+   "source_head": "s003",
+   "status": "aligned",
+   "target": [
+    "t001"
+   ],
+   "target_head": "t001"
+  },
+  {
+   "note": "Article emptied by the attributive demonstrative under rule 38: `αὕτη ἡ σοφία` → *This wisdom* writes no *the*.",
+   "source": [
+    "s004"
+   ],
+   "source_head": "s004",
+   "status": "unrepresented",
+   "target": [],
+   "target_head": null
+  },
+  {
+   "note": "Head noun stands bare, its determiner slot already taken by the demonstrative.",
+   "source": [
+    "s005"
+   ],
+   "source_head": "s005",
+   "status": "aligned",
+   "target": [
+    "t002"
+   ],
+   "target_head": "t002"
+  },
+  {
+   "note": "The ASV supplies a second *a wisdom* to complete the predicate, exactly as GAL.3.20 supplies a second *a mediator* in the identical frame — *a mediator is not a mediator of one* against *This wisdom is not a wisdom that cometh down*. No source token answers to it: `σοφία` (s005) is realized once, at t002, and rule 5 makes target-only English its own unit. The supplied determiner *a* stays inside the added unit, as GAL.3.20 keeps it and as REV.4.1 and REV.20.12 do; rule 17 heads it on the nominal *wisdom*. Rule 11 makes the ASV's italics evidence rather than the verdict, and the verdict here is the corpus's: supplied lexical content whose source token is realized elsewhere is `added` at GAL.2.7, REV.14.2, REV.21.12 and JHN.1.9. Rule 37 is ruled out — no licensing token stands in a neighbouring verse — and rule 97 is not in question, no JAS.3 packet carrying a FALLBACK EXCLUDED BY EVIDENCE mark. Reading t005–t006 as a discontinuous second realization of `σοφία` remains defensible (cf. REV.16.12).",
+   "source": [],
+   "source_head": null,
+   "status": "added",
+   "target": [
+    "t005",
+    "t006"
+   ],
+   "target_head": "t006"
+  },
+  {
+   "note": "Predicate participle recast as a finite relative clause. The relativizer *that* is a rule 7 helper on the participle, as rule 31 has it and as rule 92's anarthrous units (`κατηγορίᾳ` → *who are accused*, `παρεπιδήμοις` → *who are sojourners*) do; *cometh down* renders the `κατα-` compound whole, and rule 17 heads on the lexical verb rather than on the relativizer. The supplied antecedent *a wisdom* is NOT folded in here: `σοφία` (s005) is already spent on the clause's first *wisdom* (t002), the participle is anarthrous so no article stands to license a supplied nominal under rule 102, and rule 7's helper list — articles, auxiliaries, pronouns, *of*, *to* — does not reach a full lexical noun. It is its own `added` unit under rule 5. Folding it onto the participle was the reading taken before reconciliation and remains defensible, as GAL.3.20 and 2CO.3.7 concede for their own supplied nominals.",
+   "source": [
+    "s007"
+   ],
+   "source_head": "s007",
+   "status": "aligned",
+   "target": [
+    "t007",
+    "t008",
+    "t009"
+   ],
+   "target_head": "t008"
+  },
+  {
+   "note": "`ἄνωθεν` is one adverb whose own gloss is *from above*; rule 17 heads on the meaning-bearing *above* and not on the leading preposition, as rule 84 has it for *without* + noun and rule 71 for an improper preposition's frame. Rule 91's operational test agrees: the corpus spends *above* on this lexeme (JHN.3.31, JHN.19.11, JAS.1.17, JAS.3.17) and never *from* alone. No Greek preposition is expressed for *from* to answer to separately.",
+   "source": [
+    "s006"
+   ],
+   "source_head": "s006",
+   "status": "aligned",
+   "target": [
+    "t010",
+    "t011"
+   ],
+   "target_head": "t011"
+  },
+  {
+   "note": "Adversative conjunction on *but*.",
+   "source": [
+    "s008"
+   ],
+   "source_head": "s008",
+   "status": "aligned",
+   "target": [
+    "t012"
+   ],
+   "target_head": "t012"
+  },
+  {
+   "note": "The `ἀλλά` clause is verbless and the ASV supplies *is*; rule 53 gives a supplied copula to an adjectival predicate, so it rides with the first adjective and heads on *earthly*. The competing reading would put *is* on the subject `αὕτη ἡ σοφία` carried over from the first clause, but rule 53 refuses to read a copula off English word order and nothing in this clause but the adjective is left to carry it. A second reading would take t013 as a repetition of the expressed `ἔστιν`; rule 40's repeated infinitival marker settles that the same way, the repetition being an ordinary helper on the second clause's own predicate. Only the first of the three coordinated adjectives takes it, the others sharing it in English by ellipsis.",
+   "source": [
+    "s009"
+   ],
+   "source_head": "s009",
+   "status": "aligned",
+   "target": [
+    "t013",
+    "t014"
+   ],
+   "target_head": "t014"
+  },
+  {
+   "note": "*sensual*; the marginal *natural* / *animal* is an alternative rendering and does not affect the unit.",
+   "source": [
+    "s010"
+   ],
+   "source_head": "s010",
+   "status": "aligned",
+   "target": [
+    "t015"
+   ],
+   "target_head": "t015"
+  },
+  {
+   "note": "*devilish*, the ASV's rendering of `δαιμονιώδης`, glossed *demoniacal* in the margin.",
+   "source": [
+    "s011"
+   ],
+   "source_head": "s011",
+   "status": "aligned",
+   "target": [
+    "t016"
+   ],
+   "target_head": "t016"
+  }
+ ],
+ "ref": "JAS.3.15",
+ "review_notes": [
+  "Reviewed and returned unchanged in structure: all 11 units, their memberships, statuses and heads stand as accepted. Only two notes were expanded (s006, s009) to name the precedent and the competing reading a later reader would need; no alignment decision moved.",
+  "All 11 source and 16 target ids partitioned exactly once; every `aligned` unit has nonempty arrays with both heads inside them.",
+  "s004 is the verse's one `unrepresented` unit, emptied by the attributive demonstrative under rule 38; a reference comparison reporting it as a disagreement is not a correction.",
+  "The two English *is* tokens are kept apart: t003 realizes the expressed `ἔστιν`, t013 is the copula supplied for the verbless `ἀλλά` clause and goes to the predicate adjective under rule 53. Checked that t013 carries no ASV italic markup while t005/t006 do; rule 11 makes that markup evidence either way and it does not change either placement.",
+  "The supplied *a wisdom* (t005, t006) is placed on the participle rather than marked `added`: rule 11 makes the italics evidence only, no Greek article stands before `κατερχομένη` to claim the determiner under rules 51 or 102, and the participle is the token whose English clause the antecedent completes. Rule 86 does not apply, since a participle is a licensing token.",
+  "Atomization audited: no unit bundles independently recoverable pairs. `κατερχομένη` → *cometh down* and `ἄνωθεν` → *from above* are each one source word whose English cannot be split across tokens, and the three coordinated adjectives are separate units."
+ ]
+}

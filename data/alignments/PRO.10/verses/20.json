@@ -1,0 +1,105 @@
+{
+  "alignments": [
+    {
+      "note": "Construct noun with a supplied *the*: no article morpheme stands anywhere in the chain, and the rectum carries a determiner of its own, so the construct takes the supplied one (rule 29).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Anarthrous substantival adjective as nomen rectum: the chain's *of* belongs to the rectum (rule 19) and the supplied *the* that makes the adjective substantival joins its unit (rule 46), headed on the lexeme.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Corrected from an `added` reading of *as*. The nominal predicate of the verbless clause takes the construction-supplied copula (rule 20) together with the comparative *as* the ASV supplies before a bare nominal it construes as a comparison, which rule 33 gives to the nominal itself and never marks `added` — the same reading as `פַּלְגֵי מַיִם` → *as the watercourses*. The unit is discontinuous around *choice* under rule 25, and the ASV italic corroborates the supply without deciding its owner (rule 7). The competing reading marks *as* `added` under rule 30 because this colon writes no preposition morpheme; it is set aside because rule 33 licenses exactly this word on the bare nominal whose function it states.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Niphal participle rendered attributively as *choice*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Construct noun with a supplied *the* on the same terms as the first colon (rule 29).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Substantival adjective as rectum: *of* by rule 19 and the supplied *the* by rule 46, headed on the lexeme.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "The ASV writes no English preposition for the comparative כְּ, rendering the whole predicate as *little worth*, so rule 30's one-rendering condition is met and the two morphemes share one unit, the construction-supplied copula joining it as it does `לִפְנֵי` → *was before* (rule 49's closing paragraph); headed on the morpheme carrying the lexeme (rule 23) and on *little* in the target (rule 31). The competing reading gives *is* to the preposition under rule 49, but that leaves the preposition holding nothing but a copula.",
+      "source": [
+        "s007",
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016",
+        "t017"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "PRO.10.20",
+  "review_notes": [
+    "Corrected: the first colon's italic *as* is not `added`. No preposition morpheme stands in that colon, but rule 33 gives a supplied comparative *as* to the bare nominal the ASV construes as a comparison, citing `פַּלְגֵי מַיִם` → *as the watercourses*; so it joins כֶּסֶף's unit with the copula, headed on *silver*.",
+    "The verse's one written כְּ is rendered in the second colon, where it fuses with מְעָט into *little worth* under rule 30.",
+    "Both colon-initial *the*s are supplied determiners on construct nouns, since no article morpheme stands anywhere in the verse."
+  ]
+}

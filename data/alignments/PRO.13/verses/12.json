@@ -1,0 +1,125 @@
+{
+  "alignments": [
+    {
+      "note": "Noun.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Passive participle rendered attributively.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Hiphil participle rendered as a light verb with its complement; headed on *sick*, which carries the lexeme under rule 44, and discontinuous around the object under rule 25.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Noun with the supplied *the* that determines it under rule 15.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Waw rendered by the adversative connective the ASV wrote (rule 14).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "The ASV writes *the desire* for this noun in the recast temporal clause and resumes the same referent as *it* in the main clause, so both realizations are its one discontinuous unit under rule 25's sentence that the morpheme denoting a resumed subject need not be a pronoun, headed on the first English occurrence; the supplied *the* joins it under rule 15. Reading *it* as an impersonal dummy added under rule 20 was the competing reading, but that sentence governs a cleft or extraposing *it* answering to no morpheme, and here a written nominal answers to it.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t012"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "The articleless attributive participle is recast as a finite temporal clause, and the supplied *when* realizes that attributive relation and stays with the participle under rule 41; the unit is discontinuous under rule 25. Reading *But when* as one rendering of the waw under rule 55's pair sentence, or the *when* as added under rule 55, were the competing readings; what the ASV subordinated is the subject nominal of the waw's clause rather than that clause itself.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Construct noun as the verbless clause's predicate, taking the construction-supplied copula under rule 20 and the *a* that determines it under rule 15.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Rectum takes the chain's *of* under rule 19.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "PRO.13.12",
+  "review_notes": [
+    "Corrected: the accepted alignment folded *it* into עֵץ's unit as part of a construction-supplied frame. Rule 20 states that the dummy it governs is the presentative *there* and no other, and this *it* is referential — it denotes תַּאֲוָה, which the verse writes and the ASV has already rendered *the desire* — so rule 25's resumption sentence gives it to that noun's discontinuous unit. The predicate keeps only *is a tree*.",
+    "The placement of the supplied *when* on בָאָה under rule 41 is retained, with the rule 55 alternatives named in that unit's note."
+  ]
+}

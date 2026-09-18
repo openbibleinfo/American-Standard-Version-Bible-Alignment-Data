@@ -1,0 +1,19 @@
+{
+  "ref": "JHN.13.4",
+  "alignments": [
+    {"source": ["s001"], "source_head": "s001", "target": ["t001"], "target_head": "t001", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s002"], "source_head": "s002", "target": ["t002"], "target_head": "t002", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s003"], "source_head": "s003", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "ASV gives 'supper' no determiner, so the article has no English realization; the case preposition stays with 'from'."},
+    {"source": ["s004"], "source_head": "s004", "target": ["t003"], "target_head": "t003", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s005"], "source_head": "s005", "target": ["t004"], "target_head": "t004", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s006"], "source_head": "s006", "target": ["t005", "t006"], "target_head": "t005", "status": "aligned", "confidence": "high", "note": "'aside' is the English verb's own particle."},
+    {"source": ["s007"], "source_head": "s007", "target": ["t007"], "target_head": "t007", "status": "aligned", "confidence": "high", "note": "No other source word is present to take the possessive, so the article is what 'his' realizes."},
+    {"source": ["s008"], "source_head": "s008", "target": ["t008"], "target_head": "t008", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s009"], "source_head": "s009", "target": ["t009"], "target_head": "t009", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s010"], "source_head": "s010", "target": ["t010", "t011"], "target_head": "t011", "status": "aligned", "confidence": "high", "note": "ASV turns the participle into a finite clause; the subject pronoun is its helper."},
+    {"source": ["s011"], "source_head": "s011", "target": ["t012", "t013"], "target_head": "t013", "status": "aligned", "confidence": "high", "note": "Anarthrous noun, so the supplied indefinite is an ordinary helper."},
+    {"source": ["s012"], "source_head": "s012", "target": ["t014", "t015"], "target_head": "t015", "status": "aligned", "confidence": "medium", "note": "The second 'and' is the juncture the ASV's coordinated rendering of the participle requires; it introduces 'girded', so it rides with that verb rather than with the participle."},
+    {"source": ["s013"], "source_head": "s013", "target": ["t016"], "target_head": "t016", "status": "aligned", "confidence": "high", "note": ""}
+  ],
+  "review_notes": []
+}

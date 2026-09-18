@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "chapter": "PRO.21",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PRO.21.19.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'a contentious and fretful woman' renders the noun as strife/contentions, which both the qere midyanim and the ketiv midonim yield; the only note is classed alternative_rendering ('Or, a contentious woman and vexation') and concerns English wording, not the reading. Nothing in the verse distinguishes the two spellings, so the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.PRO.21.29.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text 'he establisheth his ways' renders yakin (ketiv), while the mapped textual_variant note 'Another reading is, he considereth his way' records yabin (qere) as the rejected alternative. The ASV's own wording therefore selects the ketiv."
+    },
+    {
+      "unit_id": "WLC.PRO.21.29.v003",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text has the plural 'his ways' = derakaw (ketiv); the mapped textual_variant note gives the singular 'his way' = darko (qere) as the other reading. The plural in the text selects the ketiv, matching the same verse's yakin."
+    }
+  ]
+}

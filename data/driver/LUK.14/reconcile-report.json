@@ -1,0 +1,29 @@
+{
+  "chapter": "LUK.14",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "μήποτε: a bare μήποτε takes the ASV's whole supplied frame *lest haply* as one aligned unit headed on *lest* (14:8, 14:12). Where ἵνα stands in front of it, rule 40 gives ἵνα the word that introduces the English clause and μήποτε keeps *haply* alone (14:29). The competing reading — ἵνα unrepresented and *lest haply* whole on the particle — is recorded in that verse's note and was refused because rule 40 empties a subordinating conjunction only under rule 37.",
+    "συν- compounds: where the Greek expresses the dative complement, the English preposition realizes the case government and rides with that dative under rule 106's dative arm — συνανακειμένων σοι → *sit at meat* and *with thee* (14:10), Συνεπορεύοντο … αὐτῷ → *there went* and *with him* (14:25). Where the Greek expresses no dative, no token stands to carry it and the whole *with him* rides inside the participle's own unit: τῶν συνανακειμένων → *that sat at meat with him* (14:15).",
+    "Supplied verbal arguments are folded onto the verb that licenses them rather than marked added, rule 11 making the ASV's italics evidence only: *wherewith* onto ἔχω in both places it stands (14:14, 14:28), following rule 74's object contrast, which the contract itself records only as medium; *them* onto ἀνάγκασον (14:23); *men* onto βάλλουσιν (14:35), whose person and number license the supplied subject."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v120",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 59 candidate lemma groups against the verse dumps end to end. Every difference is licensed either by the source (a token present in one verse and absent in another) or by the ASV's own wording, so patches is empty.",
+    "μήποτε (14:8, 14:12, 14:29) was the closest thing to a real split and is not one. Bare μήποτε takes the whole supplied frame *lest haply* headed on *lest*; at 14:29 ἵνα stands in front of it and rule 40 gives the clause-introducer *Lest* to the conjunction, leaving μήποτε a bare *haply*. Rule 40 permits an unrepresented conjunction only under rule 37, so the split is the reading the contract requires, and 14:29's note already records the competing whole-frame reading.",
+    "Substantival article before a participle occurs eight times and divides on the count of English words, as rules 32 and 90 have it: the article takes a separate antecedent where the ASV writes one (14:7, 14:9, 14:10a, 14:12, 14:15, 14:17, 14:31, 14:35) and takes the lone relativizer where it does not (14:10b, 14:29, 14:33). 14:11's *every one that* is rule 80's three-word split, and 14:24's τῶν κεκλημένων is rule 31's second attributive article after an expressed head noun. Four distinct configurations, four licensed treatments.",
+    "Preverb particles are handled identically in all thirteen compound verbs (rule 106), and the supplied coordinating juncture identically in all nine participle-to-finite conversions (rule 88) — including 14:18's ἐξελθὼν … ἰδεῖν, which is rule 88's non-finite arm and not rule 98's asyndetic seam, because a participle stands in the coordination.",
+    "Article status across 65 ὁ tokens: every unrepresented article is licensed by rule 20 (possessive displacement), rule 23 (the ASV writes no determiner), rule 38 (demonstrative) or rule 61 (articular infinitive). The three σάββατον phrases (14:1 bare dative, 14:3 articular dative, 14:5 ἐν + noun + genitive) and the coordinated adjectives of 14:13 against 14:21 differ because the Greek differs, not the analysis.",
+    "Compound-noun heads are consistent under rule 66: πρωτοκλισία heads on *seat(s)* at 14:7 and 14:8 and οἰκοδεσπότης on *master* at 14:21, both on the core rather than the incorporated element, while γάμους → *a marriage feast* heads on *marriage* under the generic-completion arm.",
+    "BSB: all seven disagreements are ASV-side unrepresented articles — two rule 20 (14:21), one rule 38 (14:24), four rule 23 (14:5, 14:17 ×2, 14:26). Each is the documented convention difference, BSB aligning an article to a determiner it supplies where the ASV wrote none. None is a genuine error, and nothing was changed to move the 98.7% figure.",
+    "Left standing as accepted: 14:5 υἱός against the ASV's *an ass* is a divergence between the projection's base text and the ASV's Vorlage that no textual unit covers, aligned in slot under rule 12 with the ASV's own margin note recorded; 14:32 πόρρω → *a great way off* headed on *off*; and 14:18 ἔχω ἀνάγκην split under rule 2 rather than collapsed under rule 73. All three carry their competing readings in the verse notes, which is what rule 16 asks."
+  ]
+}

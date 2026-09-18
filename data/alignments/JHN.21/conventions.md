@@ -1,0 +1,5 @@
+# John 21 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- A supplied English complementizer 'that' introducing an accusative-and-infinitive complement belongs to the infinitive, not to the matrix verb: 'If I will that he tarry' (21:22, 21:23) gives 'that ... tarry' to menein, and 'I suppose that even the world itself would not contain' (21:25) gives the discontinuous 'that ... would contain' to choresein and only 'I suppose' to oimai. This follows the contract's own reasoning that the word introducing an English clause belongs to that clause's verb (rules 7, 31, 32, 40), and 21:6's 'to draw' on helkusai does the same where no conjunction governs. Not promoted to the contract: the corpus records both analyses (EPH.3.13, EPH.3.16, EPH.4.23, TIT.1.16, REV.13.14, JHN.18.14 on the infinitive; JHN.5.39, 3JN.1.2 on the matrix verb), so the units stay medium.

@@ -1,0 +1,215 @@
+{
+  "alignments": [
+    {
+      "note": "The participle's object is accusative, which English realizes with no preposition, so the *of* of *ignorant of* is the predicate's own government and stays inside this unit (rules 21, 106).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "γάρ → *For*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Outer article governing δικαιοσύνην across the interposed genitive (rule 57); the ASV writes *God's righteousness*, so the determiner slot is occupied by the possessor and rule 20 empties it.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Inner article of the possessor; the ASV writes a bare *God's* with no determiner, so nothing anchors it (rules 23, 57).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive name rendered with the English prenominal possessive.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "δικαιοσύνην → *righteousness*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "καί → *and*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "ἴδιος is substantival here, governing no expressed head noun, so the article supplies the pronoun *their* and the adjective keeps *own* (rules 47, 54).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "ἴδιος → *own* (rule 47).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "ζητοῦντες → *seeking*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Bare infinitive with no governing conjunction, so the infinitival *to* is its own verb's helper (rules 7, 61).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "The article takes the English determiner and the dative's case preposition rides with it (rule 21).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "δικαιοσύνῃ → *righteousness*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Article before θεοῦ with no English determiner; rule 21's determinerless clause leaves *of* with the noun and empties the article.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Source noun rendered *of + noun*; rule 17 heads on the noun.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Ordinary negative → *not*.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Passive rendered reflexively; subject, auxiliary and the reflexive *themselves* are rule 7 and 9 helpers, headed on the lexical verb. Discontinuous under rule 15, the intervening *not* belonging to οὐχ.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014",
+        "t016",
+        "t017"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "ROM.10.3",
+  "review_notes": [
+    "Both articles of the first phrase are emptied: the outer by the prenominal possessor (rule 20 via rule 57), the inner because the ASV writes no determiner on *God's*.",
+    "τήν before ἰδίαν takes the pronoun because ἴδιος governs no expressed head noun (rule 47)."
+  ]
+}

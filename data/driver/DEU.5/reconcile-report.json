@@ -1,0 +1,28 @@
+{
+  "chapter": "DEU.5",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Iterative יָסַף and עוֹד standing in one clause: where the ASV writes a single *any more* for both, DEU.5.25 gives it to עוֹד, headed on *more*, and leaves the participle יֹסְפִים `unrepresented`. The two morphemes are separated by the subject pronoun, the infinitive and its whole object phrase, so rule 30 cannot fuse them and one of the two must go unrendered; the tie was decided for the adverb whose own lexeme the English words carry, and the verse note records the reverse reading. This is the chapter's only unrepresented lexical verb, and it is not a split with DEU.5.22, where no עוֹד stands and יָסַף therefore holds *added ... more* itself.",
+    "עֲרָפֶל → *thick darkness* heads on *darkness*, not on *thick*. Rule 31's subtraction test ties here, and the tie is broken by the chapter's own usage: DEU.5.23 writes a bare *darkness* for חֹשֶׁךְ, so *darkness* is a class noun the ASV writes alone for a word of that class and *thick* is its specifier. A later reader auditing head choices should not move it to the modifier on the strength of בָּמָה → *high place* and the like, where the ASV never writes the generic alone."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v127",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 63 candidate lemma groups, then read the dump end to end for the 11 `added` units, since the candidate table is keyed by source lemma and is blind to them. No cross-verse split found; patches is empty.",
+    "Supplied antecedents (5.8 vs 5.11) are not a split. DEU.5.11's relative clause is headless in Hebrew, so the supplied *him* joins the written אֲשֶׁר under rule 46's first rider; DEU.5.8 writes תְּמוּנָה as the antecedent, which rule 46's closing sentence treats as a written antecedent whatever English rendered it, so the further supplied *of anything* answers to no morpheme and is `added` under rule 33's noun-must-be-present clause. Rule 33's other side is applied consistently at 5.22 (*of the cloud*, *of the thick darkness*) and 5.26 (*of all flesh*), where the noun is present.",
+    "Connectives are counted rather than preferred. DEU.5.8's *nor* is `added` because no conjunction morpheme stands between פֶסֶל and כָּל־תְּמוּנָה, while every *nor* in 5.14 and every fused *Neither* in 5.18-5.21 rests on a waw the ASV rendered. Both appositional *even*s (5.3, 5.23) and the *as for* of 5.31 stand on phrases carrying a preposition or nothing at all, never an object marker, so rule 16's own limits leave all three `added`.",
+    "לְ plus suffix differs by what the Hebrew writes, not by drift: 5.7 gives *Thou* to the suffix because יִהְיֶה is 3ms and cannot carry it (rule 43), while 5.30 keeps *ye* with the 2mp imperative and leaves the ethical dative לָכֶם wholly unrepresented (rules 17, 40). The dative לְ is unrepresented after *giveth* (5.16, 5.31) and takes *with* wherever the ASV writes one (5.16, 5.29, 5.33).",
+    "Determiner and article counts are uniform. Where a demonstrative pronoun stands and one determiner is written, every article is unrepresented (5.3, 5.5, 5.22, 5.24, 5.25, 5.28); where no pronoun stands, the article takes the written *this* (5.1, 5.3). Construct chains write two *the*s at 5.4, 5.22, 5.23, 5.24 and 5.26 and place them by rule 29's arthrous case, and write one at 5.12 and 5.15, fronted to the rectum's article.",
+    "The four aligned אֵת units (5.3, 5.24) are MACULA-tagged R, the preposition H854, and all 26 To occurrences are unrepresented; the lemma-level difference is morphology, not analysis. Every supplied object pronoun with no object morpheme behind it is `added` (5.27 twice, 5.31), and every one with a suffix present goes to that suffix (5.5, 5.12, 5.31).",
+    "BSB: no genuine error. All 32 disagreements are documented convention classes - object markers (rule 16), articles with no written *the* (rule 29), recast prepositions (rule 40), paragogic nun (rule 32), and the resumptive suffix of 5.29 (rule 22). The one worth naming is 5.29's waw, which BSB represents and this chapter folds into מִי יִתֵּן as the optative formula rule 17 names; the competing reading gives *Oh* to the idiom and *that* to the waw. It is defensible but not better, so I did not change an accepted edge for it.",
+    "No promotion. Everything this chapter decided was decided by a rule already in the contract. The one arguable gap - an untranslated ethical dative whose suffix agrees with its own verb's person and number - occurs once here (5.30) and the packet carries no corpus precedent for that construction, so a rule would be written on a single instance."
+  ]
+}

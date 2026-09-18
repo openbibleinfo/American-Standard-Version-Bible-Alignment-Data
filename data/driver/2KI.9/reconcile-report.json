@@ -1,0 +1,31 @@
+{
+  "chapter": "2KI.9",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2KI.9.34"
+  ],
+  "rejected": {},
+  "conventions": [
+    "יְהוֹרָם is rendered Joram throughout the chapter (15, 17, 21, 22, 23, 24); the name aligns as its own unit and the margin's 'Hebrew Jehoram' is read and set aside (rule 38).",
+    "The greeting הֲשָׁלוֹם → 'Is it peace' (17, 18, 22, 31): הֲ takes the fronted copula Is (rule 20), שָׁלוֹם keeps the bare peace, and the impersonal it is its own added unit. Where the question is asyndetic and no הֲ stands (19, שָׁלוֹם alone), Is joins שָׁלוֹם as the construction's copula and it is still added. In 11 the same הֲשָׁלוֹם is 'Is all well', Is on הֲ and 'all well' on שָׁלוֹם.",
+    "מַה־לְּךָ וּלְשָׁלוֹם → 'What hast thou to do with peace' (18, 19): hast → the possessive לְ (rule 43), thou → its suffix, 'to do' one added unit, the waw unrepresented, with → the second לְ.",
+    "אֶל־אַחֲרַי → behind (18, 19): the two prepositions fuse into one unit headed on אַחַר, and the suffix takes me.",
+    "רֹכֵב (הַ)סּוּס 'rider of the horse' → '(one) on horseback' is one noncompositional unit headed on סוּס / horseback (18, 19); the supplied one stays inside it, while in 19 the ordinal שֵׁנִי takes 'a second' as its own unit."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 71 candidate groups against the verse dumps. No construction is analysed two ways across verses: every waw, article, לְ, מִן, אֶל and אֵת difference is licensed by a different ASV rendering or a different source shape (e.g. עַד־הֵם → to in 18 vs the compound עַד־אֲלֵיהֶם → even unto in 20; שָׁמָּה → thither/there; רֹכֵב הַסּוּס → one on horseback vs רֹכֵב סוּס שֵׁנִי → a second on horseback).",
+    "The added units, which the table cannot see, are also consistent: the impersonal it of 'Is it peace' is added in 17, 18, 19, 22 and 31 and of 'It is false' in 12; supplied object pronouns are added in 3, 13, 15, 27, 30; supplied lexical subjects (one, Jehu) in 11 and 25; appositional even in 4 and 6; 'to do' in 18 and 19.",
+    "One in-verse contract violation corrected: 2KI.9.34 פִּקְדוּ־נָא אֶת־הָאֲרוּרָה → 'See now to this cursed woman'. The verse pass gave the valency 'to' to the verb under rule 44 and left the object marker unrepresented, but rule 44's own limit and rule 16's first family give that word to a present marker: אֶת takes 'to' and heads on it, פָּקַד keeps 'See'. Patched; edges elsewhere unchanged.",
+    "BSB disagreements are all documented convention differences: unrepresented R (dative/complement לְ, rule 40), Td (agreement articles and vocative articles, rules 36, 41, 47), C (apodosis and idiom waws, rule 14), To (rule 16), the two Rd of 13 and 24 (object promoted to direct object, rule 40), and the trailing absolute שָׁנָה of 29 (rule 22). The one judgment call is 27, where the ASV's single 'him' for גַּם־אֹתוֹ הַכֻּהוּ was given to the verb's suffix and the fronted suffix left unrepresented; BSB does the reverse. Either is defensible under rule 22; not an error.",
+    "Large-source-unit candidates (8 מַשְׁתִּין בְּקִיר → every man child, 18 רֹכֵב הַסּוּס → one on horseback, 30 תָּשֶׂם בַּפּוּךְ → painted) were checked and stand as indivisible with their alternatives named in the notes.",
+    "No promotion or amendment: the chapter's recurring judgments are either contract restatements or chapter-specific renderings, recorded below as conventions."
+  ]
+}

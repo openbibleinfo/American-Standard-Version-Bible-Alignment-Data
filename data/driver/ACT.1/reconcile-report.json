@@ -1,0 +1,28 @@
+{
+  "chapter": "ACT.1",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Periphrastic εἰμί + participle is decided by the count of English verb words the ASV wrote. Where it writes an auxiliary alongside the participle the pair splits, the auxiliary and any supplied subject going to εἰμί and the participle keeping its own word: ACT.1.10 ἦσαν ἀτενίζοντες → *they were* and *looking stedfastly*, ACT.1.13 ἦσαν καταμένοντες → *they were* and *abiding*, ACT.1.17 ἦν κατηριθμημένος → *he was* and *numbered*. Where it collapses the periphrasis into a single finite verb, the two tokens are one `aligned` unit headed on that verb: ACT.1.14 ἦσαν προσκαρτεροῦντες → *continued stedfastly*, no English word standing for the auxiliary and the past tense of *continued* carrying what ἦσαν contributes. That is rule 39's test and rule 94's count, one analysis and not two. Leaving εἰμί `unrepresented` in the collapsed case remains defensible and is named in the ACT.1.14 unit's note; the corpus was not queried for settled practice on collapsed periphrasis, so a later chapter meeting this shape should check it rather than treat ACT.1.14 as precedent.",
+    "δεῖ at ACT.1.21 s001 is `unrepresented` and the *must* that renders it is `added` at ACT.1.22 t019: the ASV places the English of the verse-21 verb in verse 22 (rule 37). Both ends carry the matching note and neither reaches across, so do not stretch *must* back into verse 21 and do not spread a verse-21 verb phrase over the orphaned token. The BSB comparison reports δεῖ as a disagreement, and that report is not a correction."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v102",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 26 verses end to end and worked the 53 candidate groups. Every multi-treatment bucket traces to a difference the ASV's own wording or the source configuration licenses, so no patch is warranted.",
+    "Article (64 units, 10 treatments): status is decided each time by what stands in the English determiner slot. It takes *the*, or a case preposition plus *the*, at 1.2, 1.4, 1.8, 1.15 and 1.21; it takes a supplied possessive where no possessor is expressed (1.17 τόν → *his*, 1.18 τῆς → *of his*); it is empty where a possessor, a demonstrative or an apposition has taken the slot, or where the ASV writes no determiner (rule 20 at 1.9, 1.14, 1.18, 1.19, 1.20, 1.22; rule 38 at 1.6, 1.11, 1.15, 1.17, 1.24, 1.25; rule 32's apposition clause at 1.11 s015 and 1.16 s018; rule 23 at 1.10, 1.11 ×3 and 1.23). 1.18 writes both arms of rule 20 in one verse and is the control.",
+    "Particles all sit on the English-side test of rules 65 and 70 and agree with one another: μέν aligned at 1.5 where the ASV writes *indeed* and empty at 1.1, 1.6 and 1.18; τε → *both* at 1.1, 1.8 and 1.13 where an answering καί keeps its own *and*, and → *and* at 1.15 where no καί answers; καί empty only at 1.10, where the ASV writes no connective at the seam. ἀνήρ (1.11 *Ye men* against the single word *Brethren* at 1.16) and ἴδιος (1.7 and 1.25 *his own* against 1.19, where the expressed αὐτῶν has taken the possessive and no *own* is written) differ on the same footing.",
+    "One construction is analysed two ways: periphrastic εἰμί + participle. 1.10, 1.13 and 1.17 split, the auxiliary and its supplied subject going to εἰμί; 1.14 joins ἦσαν προσκαρτεροῦντες into one unit for *continued stedfastly*. What differs is the ASV — an auxiliary word in the first three and none in 1.14 — which is the count-of-English-words test rules 39, 73 and 94 already apply, so this is rule 24's habit and not a split. The 1.14 unit names the competing readings, so I left the edge alone and recorded the judgment in the conventions log instead of promoting it: the corpus tables supplied do not cover collapsed periphrasis, and a rule asserting the join without that evidence could contradict the finished chapters.",
+    "The genuine cross-verse item is δεῖ at 1.21, whose English *must* the ASV places at 1.22. Both ends handle it under rule 37 with matching notes — the token unrepresented at 1.21, the word `added` at 1.22 — and neither reaches across. Recorded in the log so it is not 'fixed' later.",
+    "Also checked and found licensed: ἧς + ἡμέρα at 1.2 (*in which*) against 1.22 (*that*), the ASV writing different words for the same attracted relative; ἀναλαμβάνω at 1.2, 1.11 and 1.22, identical; preverb particles at 1.2, 1.6, 1.9, 1.11, 1.13, 1.15, 1.16, 1.18, 1.21 all inside the verb's unit under rule 106, against 1.26, where the expressed μετά takes the *with*; the three `added` units (1.4 *said he*, 1.15 *gathered*, 1.22 *must*) against the folds at 1.4 *with them*, 1.13 *the son of* ×2 and 1.24 *the hearts*, which divide on rule 103's licensing test and not on the ASV's italics.",
+    "BSB disagreements: all 15 are documented convention differences, and none is a genuine error. Eight are articles English does not realize (rules 20, 21, 23, 38 and 93's article inside a noncompositional phrase); the rest are εἰ at 1.6 and ἐν at 1.21, for which the ASV writes no word at all; καί at 1.10, likewise unwritten; Ἄνδρες at 1.16, where the ASV compresses the two-word address into *Brethren*; ἰδίᾳ at 1.19, where the expressed αὐτῶν has taken the possessive; and δεῖ at 1.21 under rule 37. No accepted edge was changed.",
+    "Open item left as the verse pass framed it, not a defect: the *by the space of* frame at 1.3 heads on *by*, following the corpus's proper-preposition διά reading under rules 67 and 95, with the head on *space* named in that unit's note."
+  ]
+}

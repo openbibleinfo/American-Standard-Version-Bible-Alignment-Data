@@ -1,0 +1,177 @@
+{
+  "alignments": [
+    {
+      "note": "Postpositive conjunction fronted in English (rule 15).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Temporal adverb.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Finite verb.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Subject noun, anarthrous and bare.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Subject noun.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Subject noun.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The demonstrative `ταῦτα` occupies the English determiner slot, so the article governing the phrase realizes nothing (rule 38).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Attributive demonstrative supplying the phrase's determiner (rule 38).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Numeral, kept separate from the demonstrative under rule 13.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Connective particle rendered *and*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Anarthrous comparative adjective: the supplied *the* is a rule 7 helper on the word it determines, no article standing in the Greek to take it (rules 51, 58), and the predicate adjective carries the supplied copula against the ASV's word order (rules 53, 63), discontinuously under rule 15. Head on *greatest*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t014"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Substantival demonstrative rendered *of + word*; head on the demonstrative (rules 17, 21).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "The ASV writes a bare *love* for the subject, so this article has no determiner to anchor; the written *the* determines *greatest*, which is the anarthrous `μείζων`'s phrase (rules 23, 58). Giving the article that *the* across the inversion remains defensible.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Subject noun standing bare, the copula having gone to the predicate (rule 63).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "1CO.13.13",
+  "review_notes": [
+    "The supplied *is* goes to the predicate adjective `μείζων`, not to the subject noun `ἀγάπη`: rule 63 refuses to read a copula off English word order where the subject is a lexical noun.",
+    "`τὰ τρία ταῦτα` is split three ways — article `unrepresented` under rule 38, *these* to the demonstrative, *three* to the numeral — per rule 13's requirement to align article, numeral and noun separately.",
+    "The ASV's gloss note (*Greek greater*) bears on the rendering of `μείζων` only and changes no unit."
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "alignments": [
+    {
+      "note": "Interrogative pronoun.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Demonstrative in מִי זֶה rendered 'is he that', with the supplied copula and relative (rules 20, 41's reasoning applied to the demonstrative).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Verb.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Presentative הָיָה rendered 'it cometh to pass'; the dummy subject belongs to the verb (rule 21).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The ASV supplies 'when' for an asyndetic clause; no morpheme licenses it, and the waw at t006 is already rendered (rules 30, 51's reasoning).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "אֲדֹנָי with the supplied 'the'.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "The suffix of אֲדֹנָי is not rendered.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Negative, written last in English.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Verb; no object morpheme is present.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Supplied object pronoun with no answering morpheme (rule 44).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "LAM.3.37",
+  "review_notes": [
+    "Two added units here: the supplied 'when' and the supplied object 'it', neither of which any morpheme licenses."
+  ]
+}

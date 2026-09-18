@@ -1,0 +1,25 @@
+{
+  "chapter": "PSA.142",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The two Sh tokens of this chapter — the paragogic he of הַקְשִׁיבָה (142.6) and of הוֹצִיאָה (142.7) — are each their own `unrepresented` unit under rule 32, and MACULA's glosses on them (*attention*, *out*) are the host word's gloss distributed across its segments in reverse order, the display defect rule 39 describes. The second is the trap: *out* stands in 142.7's target, but it is the English phrasal particle of הוֹצִיא → *Bring ... out* and belongs to the verb under rule 44, the ablative מִן taking the *of* beside it. Read the morphology tag and not the gloss; the he takes nothing in either verse."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v204",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "All 9 candidate lemmas checked; none is a split. The closest are the 1cs-suffixed prepositions: לְ is *for* at 142.3 (טָמְנוּ פַח לִי → *hidden a snare for me*, its own relation written) and unrepresented at 142.4 (אֵין־לִי מַכִּיר → *no man that knoweth me*, its object promoted to the English verb's object, rule 40); מִן is unrepresented at 142.4 (*hath failed me*) and *than* at 142.6 (comparative, rule 24, 119 bare corpus units). Each difference is licensed by what the ASV writes, not by a change of analysis.",
+    "עַל → *within* (142.3) and *with* (142.7) is one preposition in two clauses, against a corpus carrying hundreds of renderings of it. The two אַיִן of 142.4 differ only in that the ASV writes the presentative frame for the first and not the second; rule 50 aligns what is written, and both shapes are heavily attested (69 units *there is no*, 60 bare *no*). זָעַק differs by tense, יהוה by vocative position, and וְ by the connective written beside each waw — *and* and *For* in 142.4, none in 142.3, where the apodosis opens bare and rule 14's closing count leaves the waw unrepresented.",
+    "Read the dump end to end for the split the lemma table cannot see: supplied English marked `added` in one verse and folded into its licensing morpheme in another. The chapter has exactly one `added` unit, the italic *my* of יָמִין → *my right hand* (142.4), and it is the one place where no morpheme in the phrase licenses the supplied word. Every other supplied word is folded into the morpheme that licenses it — *with*/*With* on each קוֹל (142.1, rule 33), *the* on אֹרַח (142.3) and on צַדִּיקִים (142.7), *a* on תְּפִלָּה (142.0) and פַּח (142.3), *man that*/*man* on the two anarthrous participles (142.4, rule 46), *O* on the vocative יהוה (142.5), and the presentative frame on the first אַיִן. Consistent.",
+    "The three prepositions an English recasting silences — לִי and מִמֶּנִּי at 142.4, בִּי at 142.7 — are treated identically: preposition `unrepresented`, suffix taking the written *me*, rule 40 with rule 18. The two Sh tokens (142.6, 142.7) are treated identically as paragogic he under rule 32, notwithstanding that MACULA's reversed segment gloss offers *out* for the second and the ASV's target actually contains that word.",
+    "BSB: all six disagreements are documented convention differences and none is an error. Three (לִי, מִמֶּנִּי at 142.4; בִּי at 142.7) are rule 40/21 recastings, where BSB attaches the preposition to its phrase; two are the paragogic he of 142.6 and 142.7, which rule 32 names as the bulk of the BSB disagreements in the Psalms; one is the bare apodosis waw of 142.3, for which the ASV writes no connective. Nothing here would justify moving an accepted edge.",
+    "One convention recorded, on the Sh gloss artifact. No promotion: rule 39 already rules that a gloss contradicting surface, lemma and morphology is a display defect, and rule 32 already disposes of the paragogic he, so a contract edit here would only restate them."
+  ]
+}

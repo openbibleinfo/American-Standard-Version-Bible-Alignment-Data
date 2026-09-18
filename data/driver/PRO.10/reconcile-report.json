@@ -1,0 +1,29 @@
+{
+  "chapter": "PRO.10",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Verbless couplet copula. In this chapter's `X le-Y` proverbs the copula was placed by rule 49's closing count -- the clause's nominals weighed against the subjects the ASV writes. Where the only nominal is itself the ASV's subject, the prepositional phrase predicates and the lamed takes the copula or frame: 10.6 *are upon*, 10.13 *is for*, 10.16 *tendeth to*, 10.23 *is to*. Where the ASV writes a separate subject besides the nominal standing by the preposition, that nominal predicates and takes the copula while the preposition keeps only its own word: 10.29 *is a stronghold to the upright* and *is a destruction to the workers of iniquity*, both with derekh YHWH as the written subject. The one-in-five difference at 10.29 is that count and not a departure.",
+    "Supplied English in a gapped or verbless second colon was sorted three ways, each by subtraction: a bare copula joins the predicate noun (10.28 italic *shall be*, 10.29 *is*); a result frame written over a present lamed joins that preposition, since dropping it removes the preposition's own relation and the parallel colon leaves the same lamed carrying it alone with no verb at all (10.16 italic *tendeth*); a whole lexical verb the Hebrew never wrote is `added` (10.32 italic *speaketh*, which introduces a speaking the clause does not predicate). The ASV italicizes all three alike, so the italic corroborates and settles none of them.",
+    "A preposition the ASV supplies before a bare noun was placed by the Hebrew noun's own function, not by the shape of the English verb phrase. An instrumental or locative accusative takes the word itself under rule 33: 10.4 *with a slack hand*, 10.10 *with the eye* after qorets, 10.30 *in the land* after intransitive shakhan, and the bare predicate nominals of 10.17 *is in the way* and 10.18 *is of lying lips*. A preposition written to reach the verb's own object joins the verb under rule 44: 10.24 *shall come upon* with the object suffix on the verb. 10.30's *in* was moved from the verb onto erets on that basis during the verse pass, and the two families are distinguished by whether a bare direct object stands there."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v185",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "All 30 candidate lemma groups read end to end; no cross-verse split found. Every multi-treatment bucket is the ASV rendering one word differently (waw as But/And, lamed as to/for/of/tendeth to, tsaddiq as subject vs rectum) or a difference the source licenses.",
+    "The article bucket (Td->Ncmsa) is the only one mixing statuses: unrepresented at 10.5 (in summer, in harvest) and 10.26 (As vinegar, as smoke) where the ASV writes no *the*, aligned at 10.26's two determined lamed articles and at 10.29 (to the upright) where it does. 10.9 be-tom -> *uprightly* against 10.29 la-tom -> *to the upright* is that same difference once more, not a split.",
+    "chaser is the one bucket with a real within-context difference: 10.13 *of him that is void* vs 10.21 *lack*. The ASV renders the same construct adjective substantivally in one and nominally in the other, and 10.13's outer *of* is gev's rectum relation, for which 10.21's prepositional object has no counterpart. Both verses give the inner *of* to lev. Licensed.",
+    "Audited the four `added` units, which the lemma table is blind to: 10.5 *But* (no conjunction in the colon, rule 14), 10.23 *It* (anticipatory expletive over an extraposed infinitival subject, rule 25) and *so* (the waw already holds *And*, rule 51), 10.32 *speaketh* (supplied lexical verb, rules 20 and 34). Set against the three italic supplies folded in instead -- 10.16 *tendeth* (rule 49 resultative frame), 10.20 *as* (rule 33 comparative on a bare nominal), 10.28 *shall be* (rule 20 copula) -- each boundary holds under subtraction. The italics mark all six alike and decide none.",
+    "Verbless-couplet copula placement is consistent across 10.6, 10.13, 10.16 and 10.23 (on the lamed) and 10.29 (on the nominal); the difference is exactly rule 49's count of the clause's nominals against the subjects the ASV writes. Recorded as a convention so 10.29 is not later read as a departure.",
+    "Supplied prepositions before bare nouns were sorted by the Hebrew noun's function rather than the English verb phrase: rule 33 in 10.4, 10.10, 10.17, 10.18 and 10.30, rule 44 in 10.24 where the object is a suffix on the verb. Coherent chapter-wide, including the verse pass's correction of *in* onto erets at 10.30.",
+    "BSB's four disagreements (10.12 al, 10.18 hu, 10.25 waw, 10.32 paragogic nun) are all documented convention differences under rules 40, 20/22, 14 and 32. None is a genuine error, and no accepted edge was changed for the aggregate.",
+    "No promotions or amendments. The three judgments this chapter turned on -- the comparative *as* on a bare nominal, the resultative frame on a written lamed, the supplied lexical verb in a gapped colon -- are already stated in rules 33, 49 and 20 by name and example; writing them again would restate a rule and bury the conventions that matter."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "chapter": "JER.38",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JER.38.2.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'shall live' is compatible with both the qere conjunction plus perfect form and the ketiv imperfect form; no mapped textual note distinguishes them."
+    },
+    {
+      "unit_id": "WLC.JER.38.11.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads indefinite 'rags and worn-out garments,' distinguishing qere סְחָבוֹת from ketiv הַסְּחָבוֹת ('the rags')."
+    },
+    {
+      "unit_id": "WLC.JER.38.16.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'As Jehovah liveth, that made us this soul' supplies no English counterpart that distinguishes omission from the ketiv object marker את; no mapped textual note decides the unit."
+    }
+  ]
+}

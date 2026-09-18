@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "chapter": "ECC.10",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.ECC.10.3.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The readings differ only in the definite article: qere anarthrous k-she-sakhal, ketiv k-she-ha-sakhal. ASV 'when the fool walketh by the way' uses the English generic definite article, which it supplies for anarthrous Hebrew nouns as readily as for articular ones, so the wording distinguishes neither. The two mapped notes do not bear on the choice: 'Hebrew heart' is a gloss on the following clause and 'Or, of' is classed alternative_rendering, about English wording only. Base fallback (qere) carries the projection."
+    },
+    {
+      "unit_id": "WLC.ECC.10.10.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere hakhsher and ketiv hkshyr differ only by a yod, which is readable as plene spelling of the same hiphil infinitive rather than as a different word. ASV 'but wisdom is profitable to direct' renders the phrase non-finitely and would sit equally on either spelling; no italicized supply and no mapped textual note stands in this verse. Nothing in the English fixes the consonantal orthography, so the base fallback (qere) carries the projection."
+    },
+    {
+      "unit_id": "WLC.ECC.10.20.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variants differ only in the article: qere kenafayim (anarthrous dual) against ketiv ha-kenafayim. ASV renders the construct phrase idiomatically as 'that which hath wings', which supplies no article at all for the noun and so reflects neither reading in preference. No mapped textual note attaches to this verse. Base fallback (qere) carries the projection."
+    }
+  ]
+}

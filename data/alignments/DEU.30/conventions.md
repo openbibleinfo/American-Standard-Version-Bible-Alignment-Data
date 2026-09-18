@@ -1,0 +1,5 @@
+# Deuteronomy 30 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- אֲשֶׁר … שָׁמָּה is aligned throughout this chapter as one three-morpheme unit rendered 'whither', headed on the relative under rule 22, however much of the clause stands between the two: DEU.30.1, DEU.30.3, DEU.30.16, DEU.30.18. Where such a clause also writes a verb of motion that the ASV renders with a phrasal particle — בָא שָׁמָּה → 'goest in' (30.16), לָבֹא שָׁמָּה → 'to go in' (30.18) — the 'in' is the English verb's own particle and stays with the verb under rule 44. It is not a second word written for the directive he, whose sense the fused 'whither' already carries. Rule 32 lists 'in' among the words a directive he may take, so both rules reach that English word; this chapter reads it as the verb's in every occurrence, and the competing reading is named in the review notes of DEU.30.18.

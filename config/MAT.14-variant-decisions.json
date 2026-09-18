@@ -1,0 +1,313 @@
+{
+  "schema_version": 1,
+  "chapter": "MAT.14",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.MAT.14.3.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'bound him' requires an object pronoun in English whether or not the Greek expresses αὐτόν after δήσας; the wording does not distinguish presence from omission."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.3.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "'put him in prison' renders all three: the Greek article on φυλακῇ is not carried by English 'in prison', and ἀπέθετο/ἔθετο and the word order are indistinguishable in the ASV."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.4.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'John said unto him' renders the dative αὐτῷ, excluding r02 which lacks it; the order of αὐτῷ and ὁ Ἰωάννης is not distinguished in English."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.6.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'when Herod's birthday came' renders the aorist γενομένοις ('having come'); RP's Γενεσίων ἀγομένων would be 'when the birthday feast was being kept/celebrated', which the ASV does not say."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.7.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἐάν and ἄν are orthographic variants of the same particle in this construction; 'whatsoever she should ask' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.9.v006",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV has the finite main verb and an adversative: 'And the king was grieved; but for the sake of his oaths' — ἐλυπήθη ὁ βασιλεύς, διὰ δὲ. The base participle λυπηθείς would give a subordinate 'And the king, being grieved, ... commanded'."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.10.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The article before the proper name Ἰωάννην is not rendered in English; 'beheaded John' is identical either way."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.12.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'took up the corpse' renders πτῶμα; RP σῶμα would be 'the body', which is how the ASV renders σῶμα elsewhere."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.12.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'buried him' renders masculine αὐτόν; the neuter αὐτό, agreeing with πτῶμα/σῶμα, would be 'buried it'."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.13.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV opens 'Now when Jesus heard it', rendering the postpositive δέ; RP's Καὶ ἀκούσας would give 'And when Jesus heard it', the rendering the ASV uses for καί elsewhere in this chapter."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.14.v011",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'And he came forth' has the pronoun only; the RP addition ὁ Ἰησοῦς would give the named subject 'Jesus came forth'."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.15.v012",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'the disciples came to him', not 'his disciples'; the RP addition αὐτοῦ is unrendered and not supplied in italics."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.18.v013",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'Bring them hither to me' contains both αὐτούς and ὧδε; the Greek order of the two is not recoverable from the English."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.19.v014",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'on the grass' uses an English mass noun that renders the Greek singular τοῦ χόρτου and the plural τοὺς χόρτους alike."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.22.v015",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'straightway he constrained the disciples' names no subject; the RP addition ὁ Ἰησοῦς would give 'Jesus constrained'."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.22.v016",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The article τό before πέραν is not rendered separately; 'unto the other side' is the same English with or without it."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.24.v017",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "The ASV text reads 'the boat was now in the midst of the sea' = μέσον τῆς θαλάσσης ἦν, and the mapped textual_variant note assigns the base reading to the margin: 'Some ancient authorities read was many furlongs distant from the land.'"
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.25.v018",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'he came unto them' renders either the simplex ἦλθεν or the compound ἀπῆλθεν πρὸς αὐτούς, which is idiomatically 'came to them'; the ASV carries no separate word for the ἀπο- prefix but does not exclude it."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.25.v019",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'he came unto them, walking upon the sea' leaves the subject pronominal; the RP addition ὁ Ἰησοῦς would name Jesus here, as the ASV does at v.27 where the Greek has the name."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.25.v020",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'upon the sea' renders ἐπί with the accusative or the genitive alike; the case is not distinguished in English."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.26.v021",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'And when the disciples saw him' fits both the δέ clause with fronted οἱ μαθηταί and the καί clause with the subject following; the ASV renders both connectives 'And' and does not show Greek order."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.26.v022",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'walking on the sea' renders ἐπί with either case; genitive and accusative are indistinguishable in the English."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.27.v023",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "εὐθύς and εὐθέως are equivalent forms of the same adverb; the ASV 'straightway' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.27.v024",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'Jesus spake unto them' contains both ὁ Ἰησοῦς and αὐτοῖς; English word order is fixed by the verb and does not reflect the Greek order."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.28.v025",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'Peter answered him and said' includes αὐτῷ, ὁ Πέτρος and εἶπεν in all readings; only their Greek order differs, which the English does not show."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.28.v026",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'bid me come unto thee' renders ἐλθεῖν πρὸς σέ in either order; the variant is order alone."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.29.v027",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The article added before Πέτρος is not rendered in English; 'Peter went down from the boat' is unchanged either way."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.29.v028",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'walked upon the waters to come to Jesus', the infinitive of purpose ἐλθεῖν; the mapped textual_variant note puts the base καὶ ἦλθεν in the margin: 'Some ancient authorities read and came.'"
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.30.v029",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text reads 'when he saw the wind' with no adjective, and the mapped textual_variant note treats ἰσχυρόν as an addition of other witnesses: 'Many ancient authorities add strong.'"
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.32.v030",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'when they were gone up into the boat' renders ἀναβάντων ('having gone up'); RP ἐμβάντων would be 'when they were entered into the boat'."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.33.v031",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'they that were in the boat worshipped him' has a single finite verb; the RP/Treg participle ἐλθόντες would add 'came and worshipped', which the ASV does not have."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.14.34.v032",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'they came to the land, unto Gennesaret' renders two prepositional phrases, ἐπὶ τὴν γῆν and εἰς Γεννησαρέτ; RP's single εἰς τὴν γῆν Γεννησαρέτ would be 'to the land of Gennesaret'."
+    }
+  ]
+}

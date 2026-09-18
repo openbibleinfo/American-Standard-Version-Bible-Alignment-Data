@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "0555b3ded289d9067437f2e48a1f0bb33ea51b0e6ffd0853c69299128ef80fd2",
+  "contract_version": "ot-hebrew-verse-v67",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: all 45 source ids and all 54 target ids occur exactly once. The alignment itself is correct and stands.",
+    "The accepted review note miscounts: it says \"two articles go unrendered\" and then names only one. The correct tally is a single unrendered article, s033 (הַ of הַסֹּפֵר, since the ASV writes *a writer's inkhorn* with no *the*), and a single unrendered waw, s015 (no connective before *every man*). s009 and s044 each take a written *the*.",
+    "s007/s009 follow rule 29's multi-level chain: the article on הָעֶלְיוֹן takes the *the* standing before *upper*, and the second English *the* in *the way of the upper gate* is the supplied one on the outer construct דֶּרֶךְ. s043/s044 follow the fronting clause of the same rule: the one written *the* of *the brazen altar* belongs to the present article on נְחֹשֶׁת, not to the construct מִזְבַּח.",
+    "s014's directive he is tagged Sd and takes the ASV's *toward* as its own unit under rule 32, not the paragogic-he treatment of that rule's first sentence; the supplied *the* before *north* goes to the nominal expression under rule 15.",
+    "s031's waw takes *with*, which rule 14 lists explicitly, so it is not added; s039 keeps the phrasal particle *in* with *went* under rule 44."
+  ],
+  "ref": "EZK.9.2",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

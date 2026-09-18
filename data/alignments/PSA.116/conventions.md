@@ -1,0 +1,6 @@
+# Psalms 116 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **PSA.116.16** — Entreaty particle אָנָּא before a vocative divine name: where the ASV writes the full formula 'I beseech thee' the particle takes it (rule 30) and a supplied 'O' before the name is the vocative's (rule 36), as in PSA.116.4; where the ASV writes only 'O Jehovah', the single 'O' is what it spends on the particle and goes to אָנָּא under rule 11, the name taking only 'Jehovah'. Count the ASV's words against the two morphemes as rule 36 counts a supplied 'ye'. Competing reading (O to the name, particle unrepresented) is named in the unit note.
+- **PSA.116.14** — נֶגְדָה־נָּא לְכָל־עַמּוֹ → 'Yea, in the presence of all his people' (also PSA.116.18): נֶגְדָה with its directive he (Sd) fuses into the one compound 'in the presence' headed on 'presence' (rules 30, 32); the particle נָא takes the 'Yea' the ASV writes for it rather than leaving it added; the לְ takes 'of' as the relation the ASV writes for it.

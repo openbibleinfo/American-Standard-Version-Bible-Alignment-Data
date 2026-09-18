@@ -1,0 +1,5 @@
+# Numbers 6 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- The age idiom BEN / BATH + SHANAH + pronominal suffix is divided, not fused. BEN or BATH takes the ASV's *old*, SHANAH takes *a year* with the indefinite article joining that nominal under rule 15, and the suffix is `unrepresented` because the ASV writes no possessive anywhere in *a year old*. Rule 28 governs the construct — follow the ASV rather than imposing rule 19's *of* — and rule 2 splits the pair because a separate English word answers to each morpheme. The chapter's three occurrences are NUM.6.12 (`בֶּן־שְׁנָתוֹ`) and NUM.6.14 (`בֶּן־שְׁנָתוֹ` and `בַּת־שְׁנָתָהּ`), all read the same way; treating the three morphemes as one indivisible *a year old* is the competing reading and is named in each verse's notes. BSB attaches each suffix to its host and disagrees on all three, which is the documented segmentation convention and not evidence against this division.

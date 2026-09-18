@@ -1,0 +1,17 @@
+{
+  "alignment_sha256": "4b2516a0b8fe7b7165bb8a736e466d58cecfdfbda87632909f6cc8f6e163bdaa",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition checks out: all 20 source ids and all 28 target ids appear exactly once, every aligned unit has nonempty arrays with heads inside them, and the single unrepresented unit (s016) has an empty target and null target head.",
+    "The two articles are decided oppositely and correctly. `ὁ` before `αὐτός` has no competitor for the determiner slot and takes the written *the* under rule 19, with `αὐτός` split off onto *same* under rule 26; `τά` before `ἔτη` is emptied under rule 20 because `σου` is free — its only English is *thy* — so rule 76's availability test does not move the possessive onto the article.",
+    "Heads follow rule 17 throughout: the lexical *roll*, *changed* and *fail* rather than the auxiliaries *shalt*, *shall be* or *shall*, and the nouns *mantle* and *garment* rather than their supplied indefinites.",
+    "s004's inclusion of t009 *up* is right: it is the phrasal verb's own particle, not a preposition governing a phrase, so rule 36 does not pull it away, and rule 15 licenses the discontinuity across the object pronoun. The same holds for s020's *shall … fail* split by *not*.",
+    "s008 `καί` answers the preceding comparative `ὡς`, so rule 82 was worth checking; it does not change the unit, because the ASV writes no correlative *so* here and rule 65's English-side test gives the particle the *and* the ASV did write.",
+    "`σύ … εἶ` expresses its own copula, so rules 53, 56, 62, 63, 68 and 96 are all out of question; likewise no negative indefinite and no `πᾶς` stands with `οὐκ`, so rules 41, 59, 69 and 87 do not arise.",
+    "The variant line records SBLGNT.HEB.1.12.v006 selected to base and covering s006–s007 with no FALLBACK EXCLUDED mark, so rule 97 is not in play and nothing here is `added`."
+  ],
+  "ref": "HEB.1.12",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,27 @@
+{
+  "chapter": "PSA.44",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "כָל־הַיּוֹם → all the day long (v8, v15, v22): כל takes all, the article takes the, and the supplied long joins יוֹם as the completion of its phrase under rule 31, headed on day; it is not added and not given to כל. Corpus agrees (11 'day long' units on יום)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 27 verses end to end, including the added units the candidate table cannot see. No construction is analysed two ways without the ASV licensing the difference.",
+    "Waw+לא → Neither is fused and headed on the negative in v3, v6, v17; v18 gives Neither to the waw alone because the negative is gapped there (rule 35). Consistent.",
+    "כל היום → all the day long is one treatment in v8, v15, v22: all→כל, the→ה, day long→יום with the supplied long joining the noun (rule 31); corpus has 11 'day long' units on יום.",
+    "זנח → cast ... off with the supplied object us added in both v9 and v23 (rule 44); למה → why/Wherefore fused on מה in v23 and v24; for ... sake headed on sake for both על (v22) and למען (v26); the dative ל before a bare English object is unrepresented in v1, v3, v26 and takes for only where the ASV writes it (v10).",
+    "The 24 lemma candidates are all ASV renderings varying by context (suffix case, connective choice, preposition sense), not splits.",
+    "BSB disagreements are all convention: dative/promoted-object prepositions under rule 40, the resuming הוא of v4's tripartite clause under rule 20, the paragogic he tokens tagged Sh under rule 32, and the lexicalized suffix of אדני under rule 57. None is an error.",
+    "v14 בל־אמים aligns the ASV's among to the token MACULA tags as the negative under rule 53's unmarked-slot paragraph, with the divergence noted; v26's עזרתה he is Sh, not Sd, so it stays unrepresented and the for goes to the bare noun under rule 33. Both are verse-local and already carry notes.",
+    "No promotion or amendment: nothing here generalises beyond what the contract already states."
+  ]
+}

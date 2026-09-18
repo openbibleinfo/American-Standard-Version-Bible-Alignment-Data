@@ -1,0 +1,23 @@
+{
+  "artifact_hashes": {
+    "review_receipts_sha256": "eee82339f3b8b7e351a239a069dd12f4474d8c4e78f8874de2136e3d24798fa9",
+    "source_lock_entries_sha256": "7cedc38af232d421808ad90e5d1d520a4eaa6f4f19fc3ed3f311908647a308aa",
+    "variant_decisions_sha256": "a1f5e8ce9b68041abd12a99ca8401b90e1c551e5ee4b714f00a17bca1e1d775b",
+    "verse_divisions_sha256": "absent",
+    "verse_responses_sha256": "6307ce5540dc766a48336eeb0930b799d71c3f590f8d3369ffd264a68762e00a"
+  },
+  "chapter": "LEV.13",
+  "contract": {
+    "sha256": "60bcda923178df2b1b36e728d24c51ce17c35bd77af6176376d3d831a086fdd6",
+    "version": "ot-hebrew-verse-v31"
+  },
+  "created_at": "2026-08-30T00:27:40.055536+00:00",
+  "models": {
+    "alignment": "claude-code (packed=all)",
+    "reconciliation": "claude-code (bounded)",
+    "review_context": "claude-code (packed=all)"
+  },
+  "omissions": [],
+  "repository_revision": "fe9ca0b1308e723e72309a23889e736652e1b59f",
+  "testament": "OT"
+}

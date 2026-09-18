@@ -1,0 +1,187 @@
+{
+  "alignments": [
+    {
+      "note": "Waw → And.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Hiphil with its subject pronoun (rule 17).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Article → the.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Noun → porters.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Preposition עַל → at.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Outer construct noun with a supplied *the*; no article morpheme stands in this chain (rule 29).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Middle noun takes its *of* (rule 19) and the second supplied English *the* rule 29 allows a multi-level chain.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Innermost rectum takes the *of* (rule 19).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "The ASV recasts this waw's clause as a subordinate one and writes *that* for it; the connective the ASV has written for a waw is never `added` (rules 14, 55).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Negative takes the word carrying the negation, *none*, which fuses the negation with the indefinite subject English supplies (rule 35).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Imperfect with its modal and the phrasal particle *in* (rule 44), headed on the lexical verb; discontinuous under rule 25.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022",
+        "t023"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Articleless adjective recast as a relative clause takes the supplied relative together with the copula rule 20 supplies (rule 41), headed on the word carrying its lexeme.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Preposition לְ → in.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "כָל־דָּבָר rendered by the single word *anything*, which carries both the quantification and the noun; rule 30's condition is met and the head goes to the governing morpheme, the quantifier standing first (rule 23).",
+      "source": [
+        "s014",
+        "s015"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    }
+  ],
+  "ref": "2CH.23.19",
+  "review_notes": [
+    "*that* is the connective the ASV writes for the waw of a clause it has recast as subordinate (rules 14, 55); *none* is the negative's, being the word that carries the negation (rule 35).",
+    "כָל־דָּבָר fuses to *anything* under rule 30; the competing division would give *any* to כֹּל and *thing* to דָּבָר, but the ASV writes one word and neither morpheme owns a part of it."
+  ]
+}

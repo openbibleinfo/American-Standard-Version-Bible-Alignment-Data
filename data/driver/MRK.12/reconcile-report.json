@@ -1,0 +1,30 @@
+{
+  "chapter": "MRK.12",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "MRK.12.26"
+  ],
+  "rejected": {},
+  "conventions": [
+    "The adverbial *in* of *cast in* is a rule 7 helper on the verb it completes and never a realization of an expressed preposition: 12:41, 12:42, 12:43 and 12:44 all keep it inside ballo's own unit, and 12:41 and 12:43 write both words, giving *into* to the expressed eis and *in* to the verb. No Greek preverb stands there, so rule 106 is not in question either.",
+    "A Hebraistic eis with the accusative that the ASV absorbs into an English predicate is its own `unrepresented` unit under rule 36's absorbed-into-a-predicate clause: egenethe eis kephalen gonias at 12:10 gives *was made* to the verb and *the head* to the anarthrous noun under rules 51 and 58, and blepeis eis prosopon at 12:14 gives *regardest* to the verb and *the person* to the noun. A reference comparison reports both prepositions as represented, and that report is not a correction.",
+    "A supplied complex frame carried by an expressed proper preposition is headed on the prepositional word in this chapter: epi at 12:26 takes *in the place concerning* headed on *in*, with rule 67's competing lexical-noun reading named in the unit. Where such a frame carries no lexical noun at all, rule 67's divided head does not reach it: peri at 12:26 takes *as touching* headed on *touching*, the word that realizes the preposition, and *as* is a supplied particle rather than the prepositional word.",
+    "The closing domen e me domen of 12:14 stands in that verse of the projection and is translated at the head of 12:15 (*Shall we give, or shall we not give?*). Rule 37 keeps each side in its own verse: the four tokens are `unrepresented` in 12:14 and the English is one `added` unit in 12:15. Do not re-align either verse across the boundary to close the gap, and do not read the reference comparison's four disagreements at 12:14 as corrections."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v70",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read the chapter end to end against the candidate table and the dump, checking both table-visible splits and the added-vs-fold splits the table cannot show. The chapter carries exactly one `added` unit (12:15, licensed by rule 37); every other supplied English word is folded onto a licensing token, so no added-vs-fold split hides behind the clean table.",
+    "One correction, and it touches notes only. MRK.12.26 carries two supplied frames on expressed proper prepositions and its record contradicts itself: the peri unit's note says the lexical word was taken against a prepositional-word alternative *as*, while the verse review note says both units are headed on the prepositional word. *as touching* contains no lexical noun, so rule 67's divided head has nothing to divide there: *touching* is itself the word realizing peri, and *as* is a supplied particle. *in the place concerning* does carry a supplied noun and is rule 67's genuinely divided case, headed on the prepositional word *in* with the lexical reading named. Every edge and every head is unchanged; only two unit notes and the review notes are rewritten, so no accepted edge moves.",
+    "Not splits, each verified individually: ton plesion at 12:31 (article empty, sou present) against 12:33 (article takes *his*, nothing else present) is rule 20's two arms; the ordinals at 12:20-21 (Greek article takes *the*) against 12:28, 12:29 and 12:31 (anarthrous, the ordinal takes it) is rules 51 and 58; hoti empty at 12:6, 12:7, 12:19, 12:29, 12:43 and aligned at 12:12, 12:14, 12:26, 12:28, 12:32, 12:34, 12:35 is rule 43's English-side test each time; the three English *him* tokens at 12:3 against 12:8 give each verb the object English requires and put the Greek pronouns on the verbs that govern them; ex holes tes X sou at 12:30 (articles empty) against 12:33 (articles take *the*) differs because the Greek does.",
+    "Two units considered and left standing. 12:24 folds the cleft's *that ye* onto the finite planasthe, which rule 86 would make `added` if the supplied word were a bare subordinator; the frame is licensed by dia touto, and the unit already names the competing reading for *Is it*. 12:28 folds the second supplied *and* onto eidos, a participle the ASV keeps participial, citing rule 88 slightly beyond its stated scope: rule 88 speaks of a participle converted into a coordinate *finite* clause, and rule 98's `added` does not reach the seam either, the two constituents not being rendered alike. The gap is real; rule 88's 34-to-1 corpus favours the fold, so I left it and flag it here rather than legislating from one verse.",
+    "BSB: none of the fourteen disagreements is an error. Four are the rule 37 versification at 12:14 (domen e me domen, translated at the head of 12:15); two are Hebraistic eis absorbed into an English predicate at 12:10 and 12:14 under rule 36; seven are articles emptied by a possessor already present under rule 20; one is recitative hoti at 12:29, where the ASV's *The* is the anarthrous ordinal's own supplied determiner under rule 58. No edge was changed to move the figure.",
+    "No promotions and no amendments. The gap rule 67 leaves for a frame carrying no lexical noun is real and cost this chapter a self-contradictory note, but the corpus extract holds no row for *as touching* on a preposition carrier, so I recorded the chapter's reading as a convention instead of widening rule 67 from a single unit. A later chapter meeting that frame on an expressed preposition should query TARGET='^as touching' before assuming this reading."
+  ]
+}

@@ -1,0 +1,7 @@
+# Joshua 20 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- בְּיַד fuses with its preposition where the ASV writes one word for the pair (JOS.20.2, *by Moses*) and splits where it writes a word for each (JOS.20.9, *by the hand of the avenger of blood*). The two treatments are rule 30's one-rendering condition read off the ASV, not a chapter split; do not regularise them in either direction.
+- בִּ + בְּלִי + דַעַת → *unawares* (JOS.20.3, JOS.20.5) is one three-morpheme unit headed on the negative בְּלִי, heading on דַעַת being the competing reading named in each unit's note; בִּ + שְׁגָגָה → *unwittingly* (JOS.20.3, JOS.20.9) is one two-morpheme unit headed on the noun. The *and* the ASV writes between the two adverbs in JOS.20.3 answers to no conjunction morpheme in the clause and is `added`, the ASV italic corroborating but not deciding it.
+- In JOS.20.5 the single English *he* of *because he smote his neighbor unawares, and hated him not beforetime* is given to the finite הִכָּה as its subject pronoun under rule 17, and the postposed explicit הוּא of the coordinated participial clause, for which the ASV writes no second subject, is `unrepresented` under rule 22. Giving the *he* to the written pronoun instead was the competing reading; BSB represents that morpheme, and this is the documented difference rather than an error.

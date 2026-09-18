@@ -1,0 +1,5 @@
+# Genesis 6 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **GEN.6.19** — An English object pronoun the ASV supplies for a Hebrew verb that carries no object morpheme belongs to that verb's unit and is not 'added': lehachayot -> 'keep them alive' (vv. 19, 20), asaphta -> 'gather it' (v. 21). The chapter first split on this, v19 and v21 marking the pronoun 'added' while v20 folded the identical phrase. Folding is what the contract's doctrine says (rules 20, 30, 33, 36, 40, 41 all send supplied English to the unit whose construction licenses it, and rule 17 already gives the verb its supplied subject pronoun) and what Genesis already does at GEN.1.6, GEN.2.19, GEN.4.15, and at GEN.6.6 'it grieved him' and 6.7 'it repenteth me'. Corpus-wide the OT is split 51 folded to 16 'added', so the alternative is defensible; this chapter does not use it.

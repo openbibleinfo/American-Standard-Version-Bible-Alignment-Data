@@ -1,0 +1,28 @@
+{
+  "chapter": "EZR.9",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The formula כְּ + הַיּוֹם הַזֶּה → 'as it is this day' (9.7, 9.15): כְּ takes 'as', 'it is' is one added unit headed on 'is' (rule 20's impersonal it), both articles are unrepresented and זֶה takes 'this'. Competing reading folds 'as it is' into the כְּ as one rendering; not taken, because the ASV writes the copula frame beside the preposition rather than inside it.",
+    "פְּלֵיטָה heads on the word carrying the escape lexeme wherever the ASV writes one — 'a remnant to escape' (9.8) and 'any to escape' (9.14) on escape, 'a remnant that is escaped' (9.15) on escaped — and on remnant only in 9.13, where 'a remnant' is all that is written. The whole supplied phrase joins the noun's unit under rule 31; 'remnant' is the named competing head in 9.8 and 9.15 since 9.13 shows the ASV writing it alone for this word.",
+    "לְ before a directional adverb rendered by a single English word fuses with it under rules 30 and 32 and heads on the adverb: לְמַעְלָה (with its directive he) → 'over' (9.6), לְמַטָּה → 'less' (9.13). The three-morpheme unit in 9.6 is one rendering and was reviewed for atomicity.",
+    "בְּאַשְׁמָה → 'have been guilty' (9.7) fuses the preposition into the predicate noun's unit with the copula, because the ASV writes no preposition and the adjective carries the relation (rules 40/49 closing paragraphs); גְדֹלָה takes 'exceeding' alone. The same noun with a written 'in' — בְּאַשְׁמָתֵינוּ → 'in our guiltiness' (9.15) — splits as usual. Different English, not a split.",
+    "Existential הָיְתָה with a supplied passive participle — 'grace hath been showed from Jehovah' — is taken whole as the verb's rendering under rule 21, headed on showed; the competing reading marks 'showed' added as a supplied lexical verb. Taken whole because a written הָיָה stands to carry the predicate, unlike rule 20's 'were given' where no verb is written at all."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v218",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 15 verses end to end against the 48-lemma candidate table. Every multi-treatment bucket is the ASV rendering one morpheme differently in a different construction (waw → Now/Then/yet/even/but/or/nor/so that/therefore; בְּ → in/with/at/for/through/to/into; לְ before infinitives → to/that/so that or unrepresented where the ASV writes nothing; פְּלֵיטָה → a remnant / a remnant to escape / any to escape / a remnant that is escaped). No construction is analysed two ways with nothing in the source to license the difference.",
+    "Constructions checked for identical treatment across verses: הַ + noun + הַ + זֶה (9.2, 9.3, 9.7 ×2, 9.15) — both articles unrepresented, demonstrative takes this/these; the comparative frame כְּ + הַיּוֹם הַזֶּה → 'as it is this day' (9.7, 9.15) — כְּ → as, 'it is' one added unit; וְעַתָּה (9.8, 9.10 'And now'; 9.12 'now therefore') — adverb takes now, waw takes the connective left over, per rule 14; dative לְ before a bare 'us' unrepresented (9.8 ×2, 9.9 ×2, 9.13); לְ after עַד unrepresented (9.4, 9.6); לְ + directional adverb fused into the single English word (לְמַעְלָה → over 9.6, לְמַטָּה → less 9.13); supplied object pronouns with no object morpheme added (9.12 it, 9.13 us, 9.14 us); multi-level construct chains with an arthrous rectum (9.4, 9.7, 9.11) — article takes the the before its own word, constructs take supplied the.",
+    "Added units that a later reader might question, all defensible and internally consistent: 9.1 'doing' and appositional 'even' (no marker on the phrase, rule 16); 9.7 the asyndetic 'and' between our kings and our priests; 9.11 'unto' before which (rule 17's 'about which' precedent); 9.13 'deserve'; 9.14 'do' inside 'the peoples that do these abominations', where 'that' joins עַמֵּי under rule 46's closing paragraph — the note names the competing readings.",
+    "BSB disagreements (34): all convention. R ×13 are לֵאמֹר, dative לְ before us, לְ after עַד, purpose/temporal לְ the ASV writes no word for, and the partitive מִן of 9.3 whose 'off' is the verb's particle (rule 44); Td ×13 are agreement articles beside demonstratives and attributives (rules 41, 47) and articles the ASV leaves bare in 9.2 and 9.7; Sh ×5 are cohortative he (rule 32); 9.5 י is the infinitive's subject suffix, whose 'my' belongs to the garment's own suffix; 9.6 לַ is the לְ after עַד; 9.11 הִיא is the resuming pronoun of a tripartite clause rendered by nothing but the copula (rule 20). None is an error.",
+    "Two heads carry a named competing reading rather than a settled one and were left as the verse passes chose them: פְּלֵיטָה heads on escape/escaped wherever the ASV writes that word (9.8, 9.14, 9.15) and on remnant only in 9.13 where nothing else is written; 9.8 הָיְתָה → 'hath been showed' is taken whole as the existential verb's rendering rather than marking showed added. Recorded as conventions below; nothing here generalises beyond the chapter, so no promotion or amendment."
+  ]
+}

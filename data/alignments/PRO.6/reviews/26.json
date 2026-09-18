@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "1a2c2c49ec0709ad126e1b397818ecd0df752680b93d42870e375928e8014cd0",
+  "contract_version": "ot-hebrew-verse-v190",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "The supplied *a man is brought* is kept as a single added run rather than divided word by word (rules 2, 20).",
+    "`אִשָּׁה זוֹנָה` fuses as an aligned unit headed on the morpheme whose lexeme *harlot* writes, while `אֵשֶׁת אִישׁ` → *the adulteress* writes no morpheme's lexeme and takes rule 6's deterministic first-token anchor.",
+    "Scoped TS15/LS13 correction independently confirmed; evidence: data/audits/retrospective-new-chapters-2026-09-12/receipts/PRO.6.26.json. Original full-review coverage is carried forward only for unchanged content. The scoped assessment and independent confirmation cover the changed candidate units and their notes; no new full-verse review is claimed. Original reviewer, date fields and contract provenance are preserved; original receipt: data/audits/retrospective-new-chapters-2026-09-12/before/PRO.6.26/review.json. The scoped correction also covers the explicitly enumerated originally added targets t009, t010, absorbed by those source units. The explicitly enumerated remainder of those original added units, t007, t008, remains added with its exact approved shape. The exact approved explanatory review_notes amendment is archived in the scoped receipt and was included in the independently confirmed alignment hash."
+  ],
+  "ref": "PRO.6.26",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

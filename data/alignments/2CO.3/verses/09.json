@@ -1,0 +1,205 @@
+{
+ "alignments": [
+  {
+   "confidence": "high",
+   "note": "The conditional particle corresponds to “if.”",
+   "source": [
+    "s001"
+   ],
+   "source_head": "s001",
+   "status": "aligned",
+   "target": [
+    "t002"
+   ],
+   "target_head": "t002"
+  },
+  {
+   "confidence": "high",
+   "note": "The postpositive conjunction corresponds to reordered “For.”",
+   "source": [
+    "s002"
+   ],
+   "source_head": "s002",
+   "status": "aligned",
+   "target": [
+    "t001"
+   ],
+   "target_head": "t001"
+  },
+  {
+   "confidence": "high",
+   "note": "The Greek article corresponds to “the.”",
+   "source": [
+    "s003"
+   ],
+   "source_head": "s003",
+   "status": "aligned",
+   "target": [
+    "t003"
+   ],
+   "target_head": "t003"
+  },
+  {
+   "confidence": "high",
+   "note": "The noun corresponds to “ministration.”",
+   "source": [
+    "s004"
+   ],
+   "source_head": "s004",
+   "status": "aligned",
+   "target": [
+    "t004"
+   ],
+   "target_head": "t004"
+  },
+  {
+   "confidence": "high",
+   "note": "The genitive article has no English determiner; “of” remains with its noun.",
+   "source": [
+    "s005"
+   ],
+   "source_head": "s005",
+   "status": "unrepresented",
+   "target": [],
+   "target_head": null
+  },
+  {
+   "confidence": "high",
+   "note": "The genitive noun corresponds to “of condemnation.”",
+   "source": [
+    "s006"
+   ],
+   "source_head": "s006",
+   "status": "aligned",
+   "target": [
+    "t005",
+    "t006"
+   ],
+   "target_head": "t006"
+  },
+  {
+   "confidence": "medium",
+   "note": "In the verbless Greek clause the ASV makes the dative τῇ διακονίᾳ its subject and writes the possession as a supplied “hath”, which rides with δόξα and is headed on “glory”; the governed term stands bare with only its article's “the”. This is rule 75's mechanism applied outside its named relational lexemes, and rule 63 refuses to read the supplied verb off the inverted English word order. Medium because placing the supplied “hath” on the dative instead remains defensible.",
+   "source": [
+    "s007"
+   ],
+   "source_head": "s007",
+   "status": "aligned",
+   "target": [
+    "t007",
+    "t008"
+   ],
+   "target_head": "t008"
+  },
+  {
+   "confidence": "high",
+   "note": "The degree adjective corresponds adverbially to “much.”",
+   "source": [
+    "s008"
+   ],
+   "source_head": "s008",
+   "status": "aligned",
+   "target": [
+    "t009"
+   ],
+   "target_head": "t009"
+  },
+  {
+   "confidence": "high",
+   "note": "The comparative adverb corresponds to “rather.”",
+   "source": [
+    "s009"
+   ],
+   "source_head": "s009",
+   "status": "aligned",
+   "target": [
+    "t010"
+   ],
+   "target_head": "t010"
+  },
+  {
+   "confidence": "high",
+   "note": "The inflected verb corresponds to “doth … exceed,” headed on the lexical verb “exceed.”",
+   "source": [
+    "s010"
+   ],
+   "source_head": "s010",
+   "status": "aligned",
+   "target": [
+    "t011",
+    "t016"
+   ],
+   "target_head": "t016"
+  },
+  {
+   "confidence": "high",
+   "note": "The Greek article corresponds to “the.”",
+   "source": [
+    "s011"
+   ],
+   "source_head": "s011",
+   "status": "aligned",
+   "target": [
+    "t012"
+   ],
+   "target_head": "t012"
+  },
+  {
+   "confidence": "high",
+   "note": "The noun corresponds to “ministration.”",
+   "source": [
+    "s012"
+   ],
+   "source_head": "s012",
+   "status": "aligned",
+   "target": [
+    "t013"
+   ],
+   "target_head": "t013"
+  },
+  {
+   "confidence": "high",
+   "note": "The genitive article has no English determiner; “of” remains with its noun.",
+   "source": [
+    "s013"
+   ],
+   "source_head": "s013",
+   "status": "unrepresented",
+   "target": [],
+   "target_head": null
+  },
+  {
+   "confidence": "high",
+   "note": "The genitive noun corresponds to “of righteousness.”",
+   "source": [
+    "s014"
+   ],
+   "source_head": "s014",
+   "status": "aligned",
+   "target": [
+    "t014",
+    "t015"
+   ],
+   "target_head": "t015"
+  },
+  {
+   "confidence": "high",
+   "note": "The dative noun corresponds to “in glory,” including the supplied case preposition.",
+   "source": [
+    "s015"
+   ],
+   "source_head": "s015",
+   "status": "aligned",
+   "target": [
+    "t017",
+    "t018"
+   ],
+   "target_head": "t018"
+  }
+ ],
+ "ref": "2CO.3.9",
+ "review_notes": [
+  "All 15 source IDs and all 18 target IDs are partitioned exactly once.",
+  "The prepared base reading is followed; no new decision is made from the noted textual variant."
+ ]
+}

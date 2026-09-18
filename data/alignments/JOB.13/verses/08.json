@@ -1,0 +1,128 @@
+{
+  "alignments": [
+    {
+      "note": "Interrogative הֲ takes the fronted question auxiliary *Will* under rule 17; the verb keeps its subject pronoun and lexical rendering.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "נָשָׂא פָּנִים 'lift the face' rendered *show partiality*: an idiom rendered by words of its own, writing neither morpheme's lexeme, so fused under rules 6/30 as הֵשִׁיב פָּנִים → deny. *ye* is the finite verb's subject pronoun (rule 17); *to* is the preposition the English verb needs to reach the suffix's *him* and joins the verb's rendering under rule 44. Target head on *partiality* by rule 44's light-verb subtraction. Source head on the first token s002 under rule 6's deterministic fallback for an idiom whose rendering writes no morpheme's lexeme (the same reading JOB.13.10 takes); the competing reading is rule 23's governing verb s004.",
+      "source": [
+        "s002",
+        "s004"
+      ],
+      "source_head": "s002",
+      "status": "noncompositional",
+      "target": [
+        "t002",
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "3ms suffix on פָּנֶה realized as the object pronoun *him* in the ASV's recasting (rule 18).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Paragogic nun; no English realization (rule 32).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "אִם opening the second member of a disjunctive question takes the fronted auxiliary *Will* under rule 17; the ASV writes no *Or* for it, so no connective competes for the particle.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Preposition לְ rendered *for* (rule 11).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Assimilated article on אֵל; the ASV writes bare *God* with no *the*, so unrepresented under rule 12.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "אֵל → *God*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Finite verb takes its subject pronoun and lexical verb *ye contend* (rule 17); the fronted *Will* is the אִם particle's.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Paragogic nun; no English realization (rule 32).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    }
+  ],
+  "ref": "JOB.13.8",
+  "review_notes": [
+    "Two parallel yes/no questions: הֲ takes the first *Will* and אִם the second under rule 17.",
+    "נָשָׂא פָּנִים → *show partiality* fused as noncompositional; source head moved to the first token s002 under rule 6's fallback for an idiom rendered by a word of its own, with the governing verb s004 named as the alternative."
+  ]
+}

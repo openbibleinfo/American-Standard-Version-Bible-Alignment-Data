@@ -1,0 +1,176 @@
+{
+  "schema_version": 1,
+  "chapter": "1JN.3",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.1JN.3.1.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 3:1 renders the clause explicitly: 'and such we are' translates καὶ ἐσμέν, which the omission reading has nothing to answer to."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.3.1.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 3:1 'the world knoweth us not' is first person plural (ἡμᾶς); ὑμᾶς would have given 'knoweth you not'."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.3.2.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 3:2 begins the sentence 'We know that...' with no connective, but the ASV routinely leaves a weak postpositive δέ untranslated, so the English neither requires nor excludes it."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.3.5.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 3:5 'to take away sins' has no possessive; the added ἡμῶν would have produced 'our sins'."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.3.13.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 3:13 opens 'Marvel not, brethren' with no conjunction; the ASV renders a sentence-initial coordinating καί, so καὶ μή would have given 'And marvel not'."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.3.13.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 3:13 reads 'brethren', not 'my brethren'; the added μου is unrepresented and is not an italicized supply."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.3.14.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 3:14 'He that loveth not abideth in death' leaves the participle without an object; τὸν ἀδελφόν would have given 'He that loveth not his brother'."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.3.15.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 3:15 'abiding in him' renders either the simple or the reflexive pronoun identically; the English does not distinguish αὐτῷ from ἑαυτῷ."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.3.16.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 3:16 'to lay down our lives' renders aorist θεῖναι and present τιθέναι alike; English infinitive carries no aspect here."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.3.18.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 3:18 reads 'My little children' with 'My' italicized (asv-target-tokens t001 added=true), so the possessive is a translator's supply and μου does not stand in the text the ASV rendered. Same convention as v006 at 3:13, and the same italicized 'My' the ASV writes at 3:7, where no variant supplies a pronoun."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.3.19.v011",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 3:19 opens 'Hereby shall we know' with no conjunction; the ASV renders sentence-initial καί, so καὶ ἐν τούτῳ would have given 'And hereby'."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.3.19.v012",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 3:19 'shall we know' is future, matching γνωσόμεθα; the present γινώσκομεν would have given 'we know'."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.3.19.v013",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 3:19 'shall assure our heart' is singular, matching τὴν καρδίαν; the plural τὰς καρδίας would have given 'our hearts'."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.3.21.v014",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r03"
+      ],
+      "evidence": "ASV 3:21 'condemn us not' requires the genitive object ἡμῶν after the verb, which excludes r01 and r02. The preceding 'our heart' does not settle the possessive ἡμῶν, since ASV 3:20 renders 'our heart' where no possessive stands in the Greek."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.3.22.v015",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 3:22 'whatsoever we ask' renders the indefinite relative alike whether the particle is ἐάν or ἄν."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.3.22.v016",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 3:22 'we receive of him' renders ἀπό and παρά identically here; the English preposition does not distinguish them."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.3.23.v017",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 3:23 'that we should believe' renders aorist and present subjunctive alike; the English marks no aspect."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.3.23.v018",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 3:23 'even as he gave us commandment' renders the dative ἡμῖν, which the omission reading lacks."
+    }
+  ]
+}

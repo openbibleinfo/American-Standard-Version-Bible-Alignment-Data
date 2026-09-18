@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "chapter": "JER.15",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JER.15.4.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's 'tossed to and fro' does not distinguish the qere and ketiv forms, and no mapped textual note selects either reading; retain the documented qere base fallback."
+    },
+    {
+      "unit_id": "WLC.JER.15.9.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's 'her sun is gone down' does not distinguish the qere and ketiv forms, and no mapped textual note selects either reading; retain the documented qere base fallback."
+    },
+    {
+      "unit_id": "WLC.JER.15.11.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's main text reads 'I will strengthen thee for good,' while the mapped textual-variant note assigns 'release' to another reading; the main wording therefore selects the qere base reading."
+    },
+    {
+      "unit_id": "WLC.JER.15.16.v004",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV twice renders the lemma as plural ('Thy words'), distinguishing and selecting the plural ketiv reading דבריך over the singular qere base."
+    }
+  ]
+}

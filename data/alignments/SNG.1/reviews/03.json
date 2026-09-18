@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "5ca4e2505754143f2b88c9f4cfb94176428e167e50419bb2c12e472b5957a494",
+  "contract_version": "ot-hebrew-verse-v142",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "Fourteen source and nineteen target IDs each partitioned once in the corrected array.",
+    "The single change is t003 *have*: moved from s003 שְׁמָנֶי to s001 לְ. The accepted note's premise — that s003 is the nomen rectum carrying a construct relation the ASV recast — is contradicted by the token table, which tags s002 רֵיחַ absolute (`Ncmsa`) and s003 construct (`Ncmpc`).",
+    "Rule 43's enumeration of what can carry a *have* does not include a noun, and its `added` branch is reached only where no preposition or suffix is left unspent; here the לְ is unspent, so the word is placed on it rather than marked `added`. Both alternatives are named in that unit's note under rule 8.",
+    "The rest of the verse is unchanged, including the `added` italic *as* and the עַל־כֵּן fusion."
+  ],
+  "ref": "SNG.1.3",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

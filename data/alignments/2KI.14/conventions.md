@@ -1,0 +1,7 @@
+# 2 Kings 14 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- The closing formula 'Now the rest of the acts of X … are they not written in the book of the chronicles of the kings of Israel/Judah' (14.15, 14.18, 14.28) divides: waw → Now; יֶתֶר → the rest; דִּבְרֵי → of the acts (middle construct with of and supplied the); הֲ → are (fronted copula, rule 20); הֵם → they; כְּתוּבִים → written; עַל → in; סֵפֶר → the book; דִּבְרֵי + הַיָּמִים → of chronicles fused on the construct with the article taking its own the; לְ → of; מַלְכֵי → the kings. Additional clauses inside the frame ('and how he fought/warred') give how to each אֲשֶׁר and the pronoun to the verb.
+- Appositional even: 'even thou' (14.10) is added because the pronoun stands bare with no marker, waw or preposition; 'even with the kings of Israel' (14.29) keeps even with the second עִם as that preposition's expanded rendering under rule 16, headed on with. Read whether a preposition stands under the even before choosing.
+- תַּחְתָּיו in the succession formula is 'in … stead' on the preposition, discontinuous around the suffix's his (14.16, 14.29); the fuller 'in the room of' (14.21) is the same preposition headed on room under rule 24.

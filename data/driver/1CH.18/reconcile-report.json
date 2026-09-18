@@ -1,0 +1,28 @@
+{
+  "chapter": "1CH.18",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "An indefinite article inside the English numeral itself — 'a thousand chariots', 'a hundred chariots' — is the numeral's own rendering (English writes 'a thousand' for 'one thousand') and joins the numeral's unit, not the counted noun's; rule 15's supplied-determiner sentences govern an article that determines the noun, and a plural counted noun takes no 'a'. Consistent with rule 42's own 'a hundred and twelve'.",
+    "The refrain 'Jehovah gave victory to David' is written twice with different Hebrew: v.6 with לְדָוִיד, where the לְ takes 'to', and v.13 with אֶת־דָּוִיד, where the object marker takes the 'to' the light-verb phrase 'gave victory' needs to reach its object (rule 16, first family). Do not mark the v.13 marker unrepresented on the strength of v.6."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 33 candidate groups against the 17 verses. Every internal difference is licensed by the ASV's own wording or by a morpheme present in one verse and absent in the other; no construction is analysed two ways with nothing in the source to account for it.",
+    "Apodosis waws: 18.1 gives the apodosis waw the 'that' written at the apodosis head (rule 45); 18.5 and 18.10 leave the apodosis waw unrepresented after 'And when' (rule 55 pair on the protasis waw). Consistent.",
+    "'gave victory to David': 18.6 has a written לְ that takes 'to'; 18.13 has only the object marker, which takes the 'to' the light-verb phrase needs to reach its object (rule 16). Likewise 'smote of the Syrians' (18.5, בְּ → of) beside 'smote of the Edomites' (18.12, marker → of). Consistent by rule 11's priority of a present morpheme.",
+    "Fronted rectum article: 18.7 'the shields of gold', 18.8 'the brazen sea' and 'the vessels of brass' all give the phrase's 'the' to the rectum's article (rule 29). 18.12 'the Valley of Salt' cannot, because MACULA leaves the article unsegmented inside the name; the note records that.",
+    "Supplied 'and' before 'brought tribute' is added in both 18.2 and 18.6 (asyndetic construct participle). Consistent.",
+    "'a thousand chariots' / 'a hundred chariots' (18.4): the 'a' stays with the numeral as its own English ('a thousand' = one thousand), not as a determiner of the plural counted noun; recorded as a convention since rule 15's determiner sentences could be read the other way.",
+    "BSB disagreements (9) are all convention: dative לְ before a bare object (18.5), unrendered apodosis waws (18.5, 18.10), object markers (18.8, 18.11), articles before 'king David' (18.10, 18.11) and on the predicate adjective 'chief' (18.17), and אִישׁ in 18.10 where the ASV's possessive recasting leaves the noun no word while הָיָה takes 'had' (rule 43). None is an error.",
+    "Single-verse readings that carry a named competing analysis and were left standing: 'salute' fused across the dative in 18.10 (rules 30/35), periphrastic הָיָה → 'he' in 18.14, 'whithersoever' headed on כֹל in 18.6/18.13. No promotion or amendment: the chapter teaches nothing the contract does not already say."
+  ]
+}

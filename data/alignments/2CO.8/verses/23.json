@@ -1,0 +1,22 @@
+{
+  "ref": "2CO.8.23",
+  "alignments": [
+    {"source": ["s001"], "source_head": "s001", "target": ["t001"], "target_head": "t001", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s002"], "source_head": "s002", "target": ["t002", "t003", "t004"], "target_head": "t004", "status": "aligned", "confidence": "medium", "note": "Verbless Greek clause; the ASV supplies the whole frame 'any inquire' around the preposition, which carries it under rule 62, headed on 'about'. Giving 'any' its own unit is defensible."},
+    {"source": ["s003"], "source_head": "s003", "target": ["t005"], "target_head": "t005", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s004"], "source_head": "s004", "target": ["t006", "t007", "t009"], "target_head": "t009", "status": "aligned", "confidence": "high", "note": "Verbless clause with a noun-phrase predicate; no source token expresses the subject, so the supplied 'he is' rides with the predicate noun."},
+    {"source": ["s005"], "source_head": "s005", "target": ["t008"], "target_head": "t008", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s006"], "source_head": "s006", "target": ["t010"], "target_head": "t010", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s009"], "source_head": "s009", "target": ["t011", "t012", "t013"], "target_head": "t013", "status": "aligned", "confidence": "high", "note": "The repeated 'my' is an English helper on the second predicate noun; 'worker' glosses the lexeme, so it heads under rule 66."},
+    {"source": ["s007"], "source_head": "s007", "target": ["t014", "t016"], "target_head": "t014", "status": "aligned", "confidence": "high", "note": "'to ... ward' is the discontinuous English realization of the preposition."},
+    {"source": ["s008"], "source_head": "s008", "target": ["t015"], "target_head": "t015", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s010"], "source_head": "s010", "target": ["t017"], "target_head": "t017", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s011"], "source_head": "s011", "target": ["t019"], "target_head": "t019", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s012"], "source_head": "s012", "target": ["t018"], "target_head": "t018", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s013"], "source_head": "s013", "target": ["t020", "t021", "t022", "t023"], "target_head": "t023", "status": "aligned", "confidence": "high", "note": "Anarthrous Greek, so the supplied 'the' is a helper on the noun; the supplied subject and copula have no other token to belong to."},
+    {"source": ["s014"], "source_head": "s014", "target": ["t024", "t025", "t026"], "target_head": "t026", "status": "aligned", "confidence": "high", "note": "No Greek article, so 'of the' stays with the noun under rules 7 and 51."},
+    {"source": ["s015"], "source_head": "s015", "target": ["t027", "t028", "t029", "t030"], "target_head": "t030", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s016"], "source_head": "s016", "target": ["t031", "t032"], "target_head": "t032", "status": "aligned", "confidence": "high", "note": ""}
+  ],
+  "review_notes": []
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "chapter": "ROM.6",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.ROM.6.1.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Shall we continue in sin' is deliberative, matching the subjunctive ἐπιμένωμεν. RP's Ἐπιμένομεν is present indicative and would read 'Do we continue in sin', which the ASV's 'Shall we' excludes."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.6.11.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "The variants differ only in the position of εἶναι or its absence. English word order cannot show Greek order, and 'reckon ye also yourselves to be dead' is the natural rendering of the double accusative with or without the infinitive; the ASV does not italicize 'to be' either way. Nothing in the verse distinguishes a reading."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.6.11.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV ends the verse 'in Christ Jesus', with no rendering of RP's added τῷ κυρίῳ ἡμῶν ('our Lord'). The absent words distinguish the shorter base reading."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.6.12.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'that ye should obey the lusts thereof', taking the lusts as the direct object of the infinitive. RP's added αὐτῇ ἐν would yield 'that ye should obey it in the lusts thereof', with a pronoun object and a prepositional phrase the ASV has nothing for."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.6.13.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ὡσεὶ and ὡς are both rendered 'as', and the ASV's 'as alive from the dead' fits either. The verse's only note is classed alternative_rendering ('Or, weapons') and concerns the English word for ὅπλα, not this unit."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.6.15.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'shall we sin' renders the aorist subjunctive ἁμαρτήσωμεν and the future indicative Ἁμαρτήσομεν alike; English 'shall we' serves both the deliberative question and the plain future. No note is mapped here, so nothing distinguishes the readings."
+    }
+  ]
+}

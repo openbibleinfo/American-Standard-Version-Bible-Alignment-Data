@@ -1,0 +1,25 @@
+{
+  "chapter": "PSA.126",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "הִגְדִּיל לַעֲשׂוֹת → 'hath done great things' (vv.2–3): the hiphil גָּדַל is the auxiliary verb whose whole contribution the ASV writes as the object phrase 'great things', one unit headed on 'great' with 'things' as a supplied generic (rule 56's auxiliary-verb clause, rule 31); the לְ before the infinitive is unrepresented (rules 52/40); the infinitive עֲשׂוֹת takes the English predicate 'hath done' with its auxiliary. עִם is 'for' in both verses."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all six verses end to end against the candidate table and the dump. No construction is analysed two ways: every candidate bucket is a difference the ASV's own rendering licenses (בְּ in/with/among/when; רִנָּה singing/joy; כְּ as/like unto; בּוֹא infinitive absolute 'doubtless' vs finite 'shall come'; יהוה bare vs vocative 'O Jehovah').",
+    "The one construction that recurs across verses — הִגְדִּיל לַעֲשׂוֹת → 'hath done great things' (v.2, v.3) — is analysed identically in both: the hiphil takes 'great things' headed on 'great', לְ is unrepresented, the infinitive takes 'hath done'. Recorded as a convention since a reader of the log alone would not have it.",
+    "Return particles are handled consistently on rule 44's own examples: 'back'/'again' stay with שׁוּב (v.1 'brought back', v.4 'Turn again') because שׁוּב is the returning, while 'again' on בּוֹא (v.6 'come again') is added because 'come' already writes the lexeme. The added units (v.3 'Whereof', v.6 'that', 'again', 'with him') are each licensed by no morpheme and are correctly placed.",
+    "v.6 'forth' → infinitive absolute הָלוֹךְ and 'seed for sowing' with 'for' on the construct מֶשֶׁךְ are judgment calls the verse pass named alternatives for; both are defensible and single-verse, so left as accepted. v.4 ה tagged Sh is a paragogic he under rule 32, not a directive one; the gloss 'back' is a display aid.",
+    "BSB disagreements (v.2/v.3 לַ before the infinitive, v.4 paragogic he, v.6 article on an anarthrously rendered rectum) are all documented convention differences under rules 52/40, 32 and 29; none is an error. The repeated 'assimilated article' note is a restatement of rule 12 and needs no convention.",
+    "No promotion: nothing here generalises beyond what rules 44, 52, 55 and 56 already state, and no corpus precedent was shown for the one idiom recorded."
+  ]
+}

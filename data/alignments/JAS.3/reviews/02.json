@@ -1,0 +1,17 @@
+{
+  "alignment_sha256": "cb5eafd4400888cf8f9c1c8fc642c96d04e80f2ebcc41f0a4d81ffa7d80a73d0",
+  "contract_version": "nt-greek-verse-v63",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed unchanged: the accepted alignment survives the audit on every unit. Partition verified — all nineteen s-IDs and all twenty-six t-IDs occur exactly once, every head is a member of its own array, and no unit is source-only or target-only.",
+    "s011 οὗτος carries *the same is*. Rule 68 names a substantival demonstrative subject as taking the supplied copula, and rule 63's exception for a noun-phrase predicate points the same way, the predicate *a perfect man* having spelled out an adjective and a noun that already answer to s012 and s013. The two paths agree, so the copula is not the predicate's here. Note extended to say why the supplied *the* rides with the demonstrative: the Greek is anarthrous, so rule 51's anarthrous clause makes it a rule 7 helper and no article competes.",
+    "s001's *in many things* keeps the supplied case preposition and the generic noun on the one adverbial accusative, headed on *many* per rule 17's *all things* → *All*. Splitting *in* off would leave nothing for it to answer to, no Greek preposition being expressed, and heading on *things* is what rule 17 forbids.",
+    "s012/s013 and s017/s018 are the same phrase shape decided two ways, correctly: *a perfect man* is wholly anarthrous so rule 58 gives the supplied *a* to the noun and leaves *perfect* bare, while *the whole body* has an expressed τό so rule 58's closing clause gives *the* to the article and leaves *whole* bare. Both adjectives end up bare for different reasons, which is the intended reading and not an inconsistency.",
+    "s006 τις → a bare *any*: rule 39's `εἴ τις` → *whoso* precedent does not carry, since it wants a single English word and the ASV wrote two. Note amended to record that ruling-out.",
+    "s009 οὐ is an ordinary negative on *not*; rules 41 and 59 need no argument beyond the absence of any negative indefinite in the clause, so a reference comparison should show no disagreement here.",
+    "s016 καί → *also* remains the only unit where a materially different reading is defensible (unrepresented, with *also* read as a free English adverb). Rule 65's English-side test decides it and the unit's note names the competing reading, as rule 16 requires."
+  ],
+  "ref": "JAS.3.2",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

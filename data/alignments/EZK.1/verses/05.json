@@ -1,0 +1,207 @@
+{
+  "alignments": [
+    {
+      "note": "Waw → *And* (rule 14).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "מִן → *out of* (rule 24).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Construct noun with supplied *the* (rule 29).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Suffix → *thereof* (rule 18).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "*came* is a wholly supplied lexical verb for a clause with no verb in it; removing it leaves the preposition's own *out of* relation intact, so rule 20's boundary makes it added rather than rule 49's copular frame on מִן, which is the competing reading.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Construct noun with supplied *the* (rule 29).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Nomen rectum takes the relational *of* (rule 19).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Substantival adjective with the generic noun supplied to expand it; head on *living* (rule 24).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Waw → *And* (rule 14).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Demonstrative subject takes only its own English (rule 20).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Predicate noun carries the construction-supplied copula (rule 20); discontinuous under rule 25.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Suffix → *their* (rule 18).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Construct noun with supplied *the* (rule 29).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Nomen rectum with *of* and its indefinite article (rules 15, 19).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t023",
+        "t024",
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "note": "The verbless clause's possessive לְ carries the English *had* (rule 43).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Independent pronoun takes the subject pronoun of the possessive recasting (rule 43).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "EZK.1.5",
+  "review_notes": [
+    "*came* is marked added; the alternative is to read it as rule 49's supplied frame on מִתּוֹכָהּ."
+  ]
+}

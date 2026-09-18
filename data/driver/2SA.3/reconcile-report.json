@@ -1,0 +1,28 @@
+{
+  "chapter": "2SA.3",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2SA.3.35"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Oath formula koh ya'aseh ... wekhoh yosif -> 'God do so ... and more also' (3.9, 3.35): the second koh takes also, yasaf takes more, and a dative lo the ASV writes nothing for is unrepresented with its suffix. The alternative (second koh unrepresented, also added) is named in each unit note.",
+    "Fused ki im is headed on ki, the first of a pair of particles (rule 23), whatever the ASV wrote for it: 3.13 except and 3.35 if both head on ki, with im named as the competing head. A bare ki in the same oath formula takes if by itself (3.9).",
+    "MACULA splits Ish-bosheth (3.8, 3.14, 3.15) and Asahel (3.27) into two Np tokens. Where the ASV writes the name in two tokens (Ish bosheth) each source token is its own unit and a chain's of goes with the first; where it writes one word (Asahel) the two tokens fuse under rule 30. The single-token Asahel of 3.30 is ordinary."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 39 verses end to end against the candidate table and the dump. The table's 68 lemma groups are almost entirely ASV context differences the source licenses: waw connectives read off the ASV (rule 14), apodosis waws left unrendered after a recast temporal clause (3.23, 3.26, 3.27, 3.28), datives silenced by a bare English object (rule 40), lemor's le (rule 27), lifne fused to before/first/till (rule 30), me'im fused to from/before headed on min (rule 23), copula on a predicate preposition only where the ASV writes one (3.20 vs 3.23/3.31).",
+    "One real split, patched: the fused pair ki im is headed on ki (first) in 3.13 (except) but on im in 3.35 (if). Rule 23 heads a pair of particles on the morpheme standing first and forbids reading the source head off the English word; 3.9 in the same chapter gives the oath's if to a bare ki, which undercuts the claim that im alone carries the conditional. 3.35 now heads on s028, matching 3.13.",
+    "Checked and left standing as defensible with the alternative named in the unit note: 3.1 stronger and stronger / weaker and weaker as one adjective realized twice (rule 25); 3.9 and 3.35 oath formula with the second koh taking also and yasaf taking more; 3.24 lammah zeh -> why is it that, the cleft frame given to the written emphatic zeh rather than marked added; 3.34 a man supplied for the bare infinitive left added under rule 17; 3.36 second be'ene unrepresented because kol ha'am stands between it and tov, so rule 40's contiguous fusion does not reach it.",
+    "Added units are consistent across the chapter: supplied subjects (3.7 Ish-bosheth, 3.34 a man), supplied objects (3.14 me, 3.18 it, 3.26 it, 3.28 it, 3.36 of it), supplied possessive and appositional even with no suffix or marker (3.15), also with no waw (3.12), yet beside a waw already holding and (3.8), a subordinator not contiguous with the waw's connective (3.28 when, contrast the contiguous And when of 3.26/3.27), and an apodosis so with no conjunction (3.34).",
+    "BSB disagreements are all documented convention differences (articles the ASV does not write, silenced prepositions, object markers, paragogic he, apodosis waws, periphrastic haya in 3.6, the ayin suffix in 3.22, the non-contiguous be'ene in 3.36). None is a genuine error and no accepted edge was changed for the score."
+  ]
+}

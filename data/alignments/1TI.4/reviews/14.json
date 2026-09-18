@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "36490a298b20875fa8c9cde9172f19449d21d66ceff8bf200dfce8bac41b3105",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 17 source and 24 target IDs partition exactly once.",
+    "`τοῦ ἐν σοὶ χαρίσματος` follows rule 31's preceding-article clause: the article stands in front of the noun it governs, so it takes the discontinuous *the … that* headed on *the* and leaves `χαρίσματος` bare. The modifier is a prepositional phrase with no verb to carry the supplied copula, so `ἐν` takes *is in*.",
+    "`μή` here is an ordinary negative aligned to *not*; rule 44 does not reach it, no question being marked.",
+    "`ἐπιθέσεως` is anarthrous, so the supplied *the* is a rule 51 helper on the noun, and *on* is the noun's own English particle rather than a separate token's.",
+    "Both genitive articles take *of the* under rule 21, headed on *the*."
+  ],
+  "ref": "1TI.4.14",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,208 @@
+{
+  "alignments": [
+    {
+      "note": "Waw takes the written *And* (rule 14).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb; explicit subject noun stands separately (rule 17).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Proper name; English fronts the subject, reordered under rule 25.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Discourse adverb takes *Now* (rule 14).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Imperfect recast with a jussive frame: *let ... come to pass* belongs whole to the verb, discontinuous around the subject phrase (rules 17, 25), headed on the lexical verb *come* (rule 24). The margin's *Now when thy words come to pass* was read and set aside; the printed text governs (rule 38).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Construct noun takes its own word.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Suffix realized by the possessive *thy* (rule 18).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Interrogative takes *what*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Finite verb with its auxiliary, headed on the lexical predicate (rule 24).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Construct noun with a supplied *the*: the ASV writes a *the* before each noun, so the rectum's article takes the one before its own word and the construct takes the supplied one (rule 29).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Article on the rectum takes the written *the* standing before its own word; nothing is fronted (rule 29).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Nomen rectum carries the chain's *of* (rule 19).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Waw takes the written *and* (rule 14).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "*how* answers to no morpheme in the clause; the ASV italicizes it, which corroborates without deciding (rules 7, 30).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "The nominal `מַעֲשֵׂהוּ` is recast as a finite clause; the supplied subject and auxiliary belong to that noun's own recasting and are not `added` (rule 46), headed on the verb carrying the lexeme (rule 31).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022",
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "The suffix is the rectum of the recast construct, and the ASV states that relation with *unto*, which belongs to the rectum's unit (rule 19), headed on the pronoun (rule 24). The competing reading gives *unto* to the recast verb's valency under rule 44; the construct relation is the nearer licenser here.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t024",
+        "t025"
+      ],
+      "target_head": "t025"
+    }
+  ],
+  "ref": "JDG.13.12",
+  "review_notes": [
+    "ASV marginal alternative (*Now when thy words come to pass, what etc.*) read and set aside under rule 38; the printed text is what is aligned.",
+    "The phrase `מִשְׁפַּט הַנַּעַר` writes a *the* before each English noun, so rule 29's arthrous count governs rather than its fronting case."
+  ]
+}

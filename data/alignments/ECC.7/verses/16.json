@@ -1,0 +1,112 @@
+{
+  "alignments": [
+    {
+      "note": "Prohibited copular verb.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Prohibitive particle takes 'not'.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Predicate adjective.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Infinitive absolute takes the distinct adverbial word written for it (rule 56).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Waw plus prohibitive rendered by the single word 'neither', which carries both the coordination and the negation; headed on the negative (rules 23, 35).",
+      "source": [
+        "s005",
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "noncompositional",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The excess adverb is written inside the single English word 'overwise', which cannot be divided between the verb and yôṯēr; the two share one unit headed on the verb and on that word (rule 30). Competing reading: give 'overwise' to the verb alone and mark yôṯēr unrepresented, which rule 30 forbids for a morpheme whose sense the ASV has written inside a fused word.",
+      "source": [
+        "s007",
+        "s008"
+      ],
+      "source_head": "s007",
+      "status": "noncompositional",
+      "target": [
+        "t006",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "לָמָּה rendered by the single word 'why'; headed on the interrogative that carries the lexeme (rule 30).",
+      "source": [
+        "s009",
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "noncompositional",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Finite verb with modal and subject pronoun; the reflexive renders the verb's own stem sense and stays with it (rules 17, 44).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t012"
+    }
+  ],
+  "ref": "ECC.7.16",
+  "review_notes": [
+    "The verse writes the excess twice, once as a separate word ('overmuch' for harbēh) and once inside 'overwise'; the second is treated as a rule 30 fusion, with the alternative named in that unit's note."
+  ]
+}

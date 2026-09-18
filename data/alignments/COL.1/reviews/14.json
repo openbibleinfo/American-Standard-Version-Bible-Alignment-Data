@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "2f4b7664da0296355b08a78cc1c5011058e12b0d8678a20c719dec3d837bb085",
+  "contract_version": "nt-greek-verse-v94",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "Corrected s008/s009: the accepted alignment gave our to the article but left of with the noun, which is rule 20's first arm applied to a phrase where no possessor token stands. Rule 20's second arm aligns the article to the supplied possessive 'with any case preposition riding along as in rule 21', so of our is one unit headed on our and hamartion stands bare.",
+    "This also brings the verse into line with COL.1.21's te dianoia -> in your, where the same bare-case article takes both the supplied possessive and the case preposition.",
+    "s004 is untouched: ten apolytrosin is accusative, so there is no case preposition to ride with its our.",
+    "Every s### and t### id is partitioned exactly once."
+  ],
+  "ref": "COL.1.14",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

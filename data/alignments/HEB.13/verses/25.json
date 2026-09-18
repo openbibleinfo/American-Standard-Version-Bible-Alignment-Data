@@ -1,0 +1,81 @@
+{
+  "alignments": [
+    {
+      "note": "The ASV writes a bare 'Grace' with no determiner, so the article has nothing to anchor (rule 23).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The noun stands alone; the supplied copula goes to the prepositional predicate under rule 53, not to the subject noun.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Verbless Greek clause with a prepositional predicate: the preposition carries the supplied copula 'be' as a rule 7 helper (rule 53), headed on 'with'.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Split from the pronoun under rule 2; the ASV reorders to 'you all', which rule 15 permits.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Genitive pronoun governed by 'with'; realized as 'you' before 'all' in the ASV's order.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Transliterated interjection aligned to 'Amen'; variant SBLGNT.HEB.13.25.v011 r01 covers this token.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    }
+  ],
+  "ref": "HEB.13.25",
+  "review_notes": [
+    "All six source and six target ids are partitioned exactly once.",
+    "The only unrepresented unit is the article, which the ASV leaves without any determiner (rule 23).",
+    "The supplied copula 'be' is placed on the preposition rather than the subject noun, following rule 53's prepositional-predicate case; giving it to 'Grace' would be reading it off English word order, which rule 53 refuses."
+  ]
+}

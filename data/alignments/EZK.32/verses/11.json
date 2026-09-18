@@ -1,0 +1,147 @@
+{
+  "alignments": [
+    {
+      "note": "כִּי rendered For.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Adverb.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Verb.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Divine title with its supplied the (rule 15); no article morpheme is present.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Suffix of אֲדֹנָי unrendered.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Divine name.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Construct noun with supplied the (rule 29).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Nomen rectum with of; it is itself a construct with no article morpheme, so its the is supplied (rules 19, 29).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Nomen rectum with of (rule 19).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Verb with its auxiliary and the preposition English needs to reach the object. Rule 16 says a preposition that exists only to attach the object to the verb is the marker's rendering and not the object's; no marker morpheme stands in this clause, so the governing verb is what licenses upon, exactly as rule 44 keeps a phrasal particle with its verb. Head on the lexical verb (rules 16, 17, 44). Competing reading, previously accepted, put upon in the suffix's unit headed on thee.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015",
+        "t016"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Object suffix rendered thee (rule 18); the upon that attaches it to the verb belongs to the verb's unit rather than to the pronoun.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "EZK.32.11",
+  "review_notes": [
+    "Corrected: t016 *upon* moved from the suffix's unit into the verb's unit for תְּבוֹאֶךָּ, so s010 now takes *shall come upon* headed on *come* and s011 keeps *thee* alone. Everything else in the verse is unchanged.",
+    "Rule 16 states outright that a preposition existing only to attach the object to the verb is the marker's rendering and not the object noun's; with no H853 marker in the clause, the verb that governs the relation is the only remaining licensor.",
+    "Partition still verified: 11 source and 17 target IDs each used exactly once."
+  ]
+}

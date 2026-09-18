@@ -1,0 +1,34 @@
+{
+  "chapter": "JOS.23",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "מפני and מלפני are read apart in this chapter. Where the ASV writes *from before you* (vv.5, 9) each morpheme holds an English word and rule 2 splits the phrase three ways; where it writes *from out of your sight* (vv.5, 13) the two prepositions מִ + לִּ share one unit as the compound *from out of*, headed on מִ and on *from*, while פני keeps *sight* and the suffix its possessive. The same verse (v.5) writes both shapes, so the division follows the morphemes present and not the lemma.",
+    "The cleft הוא ה+participle לכם (vv.3, 10, *he it is that hath fought* / *that fighteth*) is divided: *he* to the explicit pronoun under rule 20, the dummy *it* its own added unit, the copula together with the participle's own English under rules 20 and 41, and *that* to the participle's article under rule 41. Rule 20's ruling that a cleft's dummy, copula and relative are all added governs a clause whose predication a written finite verb carries; here an articular participle carries it, so a present morpheme takes each word first.",
+    "The ויהי frame of v.1 writes no complementizer in its own verse: the *that* opening v.2 is carried by that clause's apodosis waw under rule 45. In v.15 the same frame keeps its own *that*, because the ASV writes it immediately after *it shall come to pass* and ahead of the כאשר clause, and the apodosis is opened by כן with no waw to compete for it. A later reader checking v.1 alone will find its frame apparently short a word.",
+    "The dative לכם after נתן is unrepresented in vv.13 and 15, where the ASV writes *hath given you* with a bare indirect object (rule 40), and aligned to *unto* in v.16, where the ASV writes *hath given unto you*. Follow the English word written; do not level the three.",
+    "In v.4 the ASV's *even unto the great sea* stands where the Hebrew writes ו + הים and no עד or other limit preposition at all. The waw takes the bare *even* under rule 14, and the supplied *unto* belongs to the accusative of extent הים under rule 33. Rule 16's whole-expression reading of *even unto* presupposes a preposition for the two words to render, so count the phrase's prepositions before applying it.",
+    "In v.15 the supplied *of* of *of which Jehovah your God spake* belongs to דבר, the preposition by which the English verb reaches its bare object אשר (rule 44), discontinuous under rule 25; the relative takes only *which*. The same relative clause at v.14 is written bare, so the *of* answers to the ASV's recasting and not to the relative. The competing reading, *of which* taken whole on אשר, is named in that unit's note.",
+    "In v.1 מסביב is read as ordinary rule 40: the fixed compound *round about* belongs whole to סביב, which is that noun's own rendering in the corpus, and the מן is unrepresented, no English word being spent on its relation. Rule 40's בֶּאֱמֶת → *faithfully* fusion asks for a single English word standing for the preposition and its noun together, and a two-word compound that is the noun's own rendering is not that."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v167",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read the 39-lemma candidate table and then the full dump end to end, since the table is keyed by source lemma and is blind to the chapter's seven added units. No genuine cross-verse split found; patches empty.",
+    "מפניכם (vv.5, 9) is split three ways while מלפניכם (vv.5, 13) fuses the two prepositions as *from out of*, leaving *sight* to פני. Two source shapes and two ASV renderings: rule 30's one-rendering condition is met in the second and not the first, and both מלפני units head identically on מִ / *from*. This is the largest-looking candidate in the table and it is not a split.",
+    "The cleft הוא + articular participle + לכם is divided identically in vv.3 and 10: *he* to הוא, the dummy *it* added, the copula with the participle, *that* with its article under rule 41. Rule 20's wholly added cleft frame governs a clause whose predication a written finite verb carries, which this is not.",
+    "The היה frame's complementizer crosses a verse boundary: v.1 writes *it came to pass* and v.2's apodosis waw carries the *that*, while v.15 keeps its own *that*, written ahead of the כאשר clause with the apodosis opened by כן and no waw. Both are rule 45's test read correctly, and the v.1/v.2 half is invisible from inside either verse.",
+    "Supplied English answering to no morpheme is handled alike throughout: the coordinating *and* between זקן and בא is added in both v.1 and v.2; *even* is added in v.12 where no marker stands and given to the waw in v.4 where one does; *as for* is added in v.9 on a bare fronted pronoun; *by them* is added in v.7, where the verb carries no object morpheme.",
+    "Determiner counting in the הגוים האלה phrases (vv.3, 4, 7, 8, 9, 12, 13, 15) is unanimous: the demonstrative takes the one written determiner, both articles go unrepresented, and in v.12 the construct יתר takes a supplied *the* under rule 41's closing paragraph. The final dative לכם after נתן is unrepresented in vv.13 and 15 and aligned to *unto* in v.16, because the ASV writes the word only there; that is licensed by the English, not a split.",
+    "BSB: all 37 disagreements are the documented convention gap — 27 articles for which the ASV writes no *the* (rules 29, 41, 47), 8 prepositions silenced by recasting or absorbed into a fused or compound rendering (rules 21, 30, 40, 52), and the two object markers of vv.5 and 15 (rule 16). None is a genuine error, and nothing was changed to move the rate.",
+    "Promotions: none. The one tempting case is מסביב in v.1, where *round about* went whole to סביב and the מן was left unrepresented; that turns on rule 40's existing distinction between a neighbouring morpheme's compound rendering and a single English word standing for the pair, and the precedent packet carries no סביב counts, so it is recorded as a convention rather than promoted on a single token.",
+    "Two units in the dump are already marked as verse-pass corrections (v.11's crossed suffix/noun targets, v.15's supplied *of* moved to the verb). Both are internally consistent with the rest of the chapter and need no patch."
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "alignments": [
+    {
+      "note": "Waw to *And*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Fronted nominal (casus pendens) to *appearance*. The supplied *as for* is no longer part of this unit: no morpheme stands on the fronted phrase to license it, so it is its own `added` unit (rules 16, 30).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The supplied *as for* answers to no morpheme. מַרְאֵיהֶם is a bare noun with a suffix, carrying no object marker and no preposition, so rule 16's limit applies as it does to an appositional *even* before a phrase no marker marks, and rule 30 leaves the expression `added`. It is not folded into the fronted noun to avoid that, for the reason rule 42 gives about a surplus *and*: the words are written beside that rendering rather than inside it. Headed on *as*, the token carrying the lexeme (rule 24). Contrast 10:13, where a real fronting לְ carries *As for*.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Suffix to the possessive *their* (rule 18).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Noun to *likeness*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Numeral to *one*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Verbless possessive clause: the possessive preposition is what makes it possessive and carries the *had* (rule 43).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Numeral to *four*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Suffix takes the subject pronoun *they* (rules 43, 18).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Comparative particle to *as*; the ASV spends a second word on אֲשֶׁר, so rule 2 splits the pair rather than fusing it (rule 30).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "The relative takes the *if* of the ASV's *as if*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Verb with its auxiliary, headed on the lexical predicate (rule 24).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "The ASV writes *a wheel*, so the article has no *the* to take (rule 29).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The indefinite *a* belongs to the noun that licenses it (rule 15).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "בְּתוֹךְ rendered by the single English word *within*: the two morphemes share one unit headed on the lexeme-bearing תָּוֶךְ (rule 30). The ASV's margin gives the Hebrew as *in the midst of*.",
+      "source": [
+        "s014",
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "The ASV writes *a wheel* with no *the* (rule 29).",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The indefinite *a* belongs to the noun (rule 15).",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "EZK.10.10",
+  "review_notes": [
+    "Reconciliation patch. The supplied *as for* is now its own `added` unit instead of joining מַרְאֵיהֶם. Rule 16 marks a supplied word of that family `added` where the phrase it introduces carries no marker, and this chapter already applied that reasoning in 10:12 to the bare noun אוֹפַנֵּיהֶם; מַרְאֵיהֶם is the same shape, a noun and a suffix with no marker and no preposition on it.",
+    "Rule 33 was the earlier basis and does not reach: it gives a supplied function word to a noun whose own case-function licenses it, and a topicalized nominal's fronting is not such a case-function. Rule 16's Jebusites example gives *as for* to the marker because nothing else answers to the two words, which tells against the fronted noun being a candidate.",
+    "The fronted noun keeps only *appearance* and its suffix keeps *their* (rule 18). Every other unit stands as the verse pass returned it. Partition re-verified: 17 source ids across 17 units, all 19 target ids used exactly once.",
+    "Contrast 10:13, where the fronting לְ of לָאוֹפַנִּים is a present morpheme and carries *As for*."
+  ]
+}

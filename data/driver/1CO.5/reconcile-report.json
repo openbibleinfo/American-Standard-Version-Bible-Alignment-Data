@@ -1,0 +1,28 @@
+{
+  "chapter": "1CO.5",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The English *with* standing before the complement of συναναμίγνυμι is given to the Greek dative, not to the supplied *keep company* frame: πόρνοις at 5:9 and τοιούτῳ at 5:11 take it under rule 21, as the articular datives τοῖς at 5:10 take it on the article. Rule 21's support-verb-frame clause, which would keep the preposition inside the verb's unit because the supplied noun *company* licenses it, is refused chapter-wide so that the four parallel datives read alike (rule 24); the 5:9 unit's note names that competing reading.",
+    "A supplied English completion on the indefinite τις is decided by what licenses it and not by the lemma. The generic noun of *any man* at 5:11 folds onto τις under rules 17 and 69, no other token being able to carry it; the partitive *of you* at 5:1 is `added` under rule 103, its content belonging to ἐν ὑμῖν, which the same verse has already spent on *among you*. Folding *of you* onto τινα as a rule 7 helper remains defensible and stands in that unit's note."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v97",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 26 candidate lemma groups and the full dump end to end. No construction is analysed two ways without a source or ASV licence, so there are no patches.",
+    "ὁ is the only group with real internal variation. The T→ADV bucket puts 5:3 τὸν (…κατεργασάμενον) beside 5:12/5:13 τοὺς ἔξω/ἔσω, but the first governs a participle (rule 32, pronoun only, *him*) and the others a bare adverb (rule 31's verbless-modifier carve-out, *them that* on the article and the copula on the adverb). The T→N split between *the* and unrepresented tracks rules 19, 20, 23 and 38 exactly: every empty article either has its determiner slot occupied (5:2 τοῦτο, 5:4 and 5:7 ἡμῶν, 5:6 ὑμῶν, 5:10 τούτου) or is given no English determiner at all (5:3 twice, 5:5 τῷ Σατανᾷ, 5:13 ὁ θεός). 5:9 τῇ → *my* against 5:6 τὸ → unrepresented is rule 20's two arms, and the source licenses it: 5:6 has a genitive pronoun to take the possessive, 5:9 has none.",
+    "Substantival adjectives: 5:8 ἀζύμοις → *the unleavened bread* heads on the adjective, 5:13 τὸν πονηρόν gives *the … man* to the article and a bare *wicked* to the adjective. Opposite heads, but that is the article test rules 17, 58 and 102 require — the first phrase is anarthrous, the second articular.",
+    "ἐκ/ἐξ: 5:2 splits *from* / *among* because μέσου is expressed; 5:13 keeps *from among* whole on ἐξ because nothing else stands for it. 5:10 (*go* / *out of*) and 5:13 (*Put away* / *from among*) are rule 106's two arms, decided by the count of English words the ASV wrote — 5:10 writes one particle for preverb and preposition together, 5:13 writes *away* in addition to a complete *from among*.",
+    "Added-unit audit, which the lemma table cannot see: the chapter's two `added` units are 5:1 *of you* and 5:10 *meaning*, and every other supplied word is folded onto a token whose English it completes. The one near-split is the indefinite τις — *any man* folded at 5:11, *of you* added at 5:1 — and the two supplied words are of different kinds (a generic noun that only τις can license, against a partitive whose content ἐν ὑμῖν has already spent in the same verse). Recorded as a convention rather than patched; the 5:1 unit already names the competing fold.",
+    "The chapter is uniform on the English *with* before a dative complement: 5:9 πόρνοις, 5:10 τοῖς (twice, on the article) and εἰδωλολάτραις, 5:11 τοιούτῳ. Rule 21's support-verb-frame reading, which would have pulled *with* into the *keep company* unit at 5:9, is refused throughout. Recorded as a convention.",
+    "BSB: all four disagreements are articles the contract requires the ASV alignment to leave empty — 5:2 τὸ displaced by τοῦτο (rule 38), 5:4 τοῦ twice displaced by *our* (rule 20), 5:11 τῷ before a substantival demonstrative with no antecedent pronoun written (rule 49). None is an error. The 5:11 row is useful corroboration rather than a correction: BSB reads the *with* as realizing the dative case, which is exactly why this chapter puts it on τοιούτῳ under rule 49 instead of inside the verb frame.",
+    "No promotion. The one place the contract was stretched is 5:1 τοῦ πατρός → *his*, where rule 57's inner-article clause reaches a genitive under an anarthrous head noun; the clause decides the inner article 'separately and on its own phrase' and does not depend on an outer article, and one unit with no corpus support is not a basis for amending it."
+  ]
+}

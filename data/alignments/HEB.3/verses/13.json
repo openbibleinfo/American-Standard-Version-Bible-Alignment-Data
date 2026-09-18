@@ -1,0 +1,243 @@
+{
+  "alignments": [
+    {
+      "note": "Adversative conjunction.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Imperative.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Reflexive used reciprocally and rendered by the two-word idiom; rule 83 heads it on *another* and refuses *one*, which is only the supplied completion standing first.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Distributive `κατά` rendered *by*. Rule 94 forbids joining it to its complement, the ASV having spread the phrase over separate words.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The distributive adjective is realized by the ASV's repetition of *day* in *day by day*; that second *day* is what answers to `ἑκάστην`. Marking it `unrepresented` and giving both *day* tokens to the noun would be defensible, but rule 103 bars folding a repeated lexical noun onto a token already spent.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Temporal `ἄχρις` rendered *so long as*, headed on the meaning-bearing *long*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The relative of `ἄχρις οὗ` has no English word of its own, the whole clause-introducer having gone to `ἄχρις`. Rule 94's precondition bars joining the two into one unit, the ASV writing three separate words.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rule 23: the article nominalizing the quoted `Σήμερον` has no English realization.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Adverb; the ASV writes *To day* as two tokens for the one word, headed on the nominal element.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Passive with its supplied subject and auxiliary under rules 7 and 9.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Rule 39: `ἵνα μή` → *lest* is one indivisible unit headed on the first particle and on the English word.",
+      "source": [
+        "s012",
+        "s013"
+      ],
+      "source_head": "s012",
+      "status": "noncompositional",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Indefinite pronoun rendered *any one*; rule 17's generic-noun clause keeps the head on *any*.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Partitive preposition.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Pronoun.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Passive subjunctive with its auxiliary.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Anarthrous noun with its case preposition and its supplied determiner; rule 51's anarthrous clause makes *the* a rule 7 helper here, the following `τῆς` governing `ἁμαρτίας` rather than this noun.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t023",
+        "t024",
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "note": "Rule 23: the ASV gives *sin* no determiner, so the article has no *the* to anchor and the case preposition stays with the noun under rule 21.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive noun with its case preposition.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t026",
+        "t027"
+      ],
+      "target_head": "t027"
+    }
+  ],
+  "ref": "HEB.3.13",
+  "review_notes": [
+    "*day by day* is the verse's contested unit: `ἡμέραν` takes the first *day*, `κατά` the *by*, and `ἑκάστην` the repeated *day*; the note names the alternative.",
+    "`ἄχρις οὗ` split rather than joined, rule 94's single-English-word precondition not being met."
+  ]
+}

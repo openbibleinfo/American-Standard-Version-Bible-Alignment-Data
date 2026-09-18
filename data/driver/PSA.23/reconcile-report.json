@@ -1,0 +1,23 @@
+{
+  "chapter": "PSA.23",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Six candidate lemmas read end to end; none is a split. The suffix הוּא buckets are all possessive/object pronouns licensed by context (rule 18); בְּ takes in/through/with as the ASV writes them; יהוה is bare as the clause subject in v1 and 'of Jehovah' as a rectum in v6 (rule 19); כִּי is 'though' (concessive) in v4a and 'for' (causal) in v4b; לְ is the superscription 'of' in v1 and 'for' in v6.",
+    "לֹא 'not' (v1) versus 'no' (v4) is rule 15's recasting of the negation onto the object nominal in v4 ('I will fear no evil'), with רַע keeping the bare 'evil'; v1 has no such recasting. Not a split.",
+    "Added-unit check across the dump: the chapter marks nothing 'added', and no supplied word was folded into a licensing morpheme in one verse and left free in another. Supplied 'the' goes to construct nouns (v3, v4, v6) and supplied 'a' to the noun (v1, v5) uniformly.",
+    "Verse-specific judgments verified and left standing: v3 לְמַעַן → 'for … sake' headed on 'sake' (rule 24 fixed-phrase head); v4 צַלְמָוֶת holding the whole 'of the shadow of death' under rule 31 with the head choice noted; v5 רְוָיָה → 'runneth over' aligned rather than added, since the verb phrase writes the noun's own overflow lexeme and marking it added would leave the predicate noun unrepresented; v6 לְאֹרֶךְ יָמִים split as לְ → 'for' plus fused 'ever', matching the corpus's לְ → 'endureth for' / 'for' beside עוֹלָם → 'ever'; v6 שַׁבְתִּי aligned to 'I shall dwell' as printed with the yashav/shuv divergence recorded under rule 53's unmarked-slot paragraph.",
+    "BSB: 81/81 comparable tokens agree; nothing to adjudicate.",
+    "No convention recorded: the repeated notes the validator flags each restate a contract rule (15, 17, 18, 19, 29), and the two non-obvious judgments (v5 'runneth over', v6 'I shall dwell') are verse-specific and already carried in their unit notes. No promotion or amendment: the chapter taught nothing the contract does not already say."
+  ]
+}

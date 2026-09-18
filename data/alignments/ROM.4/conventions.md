@@ -1,0 +1,5 @@
+# Romans 4 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Where an attributive Greek article governs a verbless prepositional modifier and the ASV expands it into a finite relative clause, divide the supplied words by rule 62's predication test rather than by rule 31's wording alone. A supplied copula whose predicate the prepositional phrase is rides with the preposition; a supplied lexical verb whose adjunct the phrase merely is stays with the article, which is the token realizing the attribution. ROM.4.11 gives *which he had* to τῆς and *while he was in* to ἐν; ROM.4.12 gives *of that ... which he had* to τῆς and a bare *in* to ἐν. The four instances in this chapter that write only a copula (ROM.4.12 ἐκ -> *are of*, ROM.4.14 ἐκ -> *are of*, ROM.4.16 ἐκ -> *is of* twice) all send it to the preposition.

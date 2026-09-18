@@ -1,0 +1,208 @@
+{
+  "alignments": [
+    {
+      "note": "Verb with subject pronoun and auxiliary; discontinuous around the negative (rule 25).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Negative takes *not*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Ethical dative `לְ` rendered as a bare indirect object *plant thee* (rule 40).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Suffix takes *thee*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Noun with the indefinite article it licenses (rule 15).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "`כֹּל` takes the *any* it is itself what the ASV renders by (rule 15), the *of* the ASV supplies before this appositional phrase, which goes to the word opening it (rule 33), and the generic *kind* supplied to expand the quantifier, which joins its unit and never heads it (rule 31). The relational *of* standing between the two nouns is the construct chain's own and belongs to the rectum (rule 19), exactly as `אַחַד שְׁעָרֶיךָ` → *any of thy gates* is divided at DEU.16.5; keeping *of any kind of* whole was the accepted reading and is what this correction reverses.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Nomen rectum of `כָּל־עֵץ` takes the relational *of* together with its own word, headed on the noun (rule 19).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Preposition *beside*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Construct noun with a supplied *the*; no article morpheme stands in the chain (rule 29).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Rectum with its relational *of* (rule 19).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Construct noun.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Suffix takes *thy*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Relative takes *which*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Verb with subject pronoun and auxiliary.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022",
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Ethical dative rendered as a bare indirect object (rule 40).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Suffix takes *thee*.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    }
+  ],
+  "ref": "DEU.16.21",
+  "review_notes": [
+    "Corrected at chapter reconciliation: the accepted alignment kept *of any kind of* whole on `כֹּל` and left `עֵץ` the bare *tree*. `כָּל־עֵץ` is an ordinary construct chain, so rule 19 puts the relational *of* on the nomen rectum and leaves the construct noun only what is written for it; the rule's `כֻּלָּם` paragraph is directly on point and forbids reading that *of* as part of an English quantifier. DEU.16.5 divides `אַחַד שְׁעָרֶיךָ` → *any of thy gates* the same way.",
+    "The leading *of* at t008 is not the chain's relation and stays with `כֹּל`: `כָּל־עֵץ` stands in apposition to `אֲשֵׁרָה` with no preposition and no object marker on it, so rule 33 gives the supplied *of* to the word opening the phrase. The supplied generic *kind* joins the quantifier's unit under rule 31 and the head stays on *any*, the word carrying the lexeme.",
+    "DEU.16.4's `מִן־הַבָּשָׂר` → *any of the flesh* is not this construction and is unchanged: there the whole *any of* is the partitive preposition's under rule 24, because no construct relation stands in the phrase."
+  ]
+}

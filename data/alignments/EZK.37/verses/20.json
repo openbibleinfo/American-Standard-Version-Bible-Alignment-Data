@@ -1,0 +1,157 @@
+{
+  "alignments": [
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Verb with its auxiliary; the subject is the explicit noun phrase. Reordered after the relative clause.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Article (rule 15).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Relative, preposition and resumptive suffix fused into the single word 'whereon' (rule 30), which carries the relation and the resumption together across the intervening verb (rule 35); headed on the relative. The suffix is not a repetition to mark unrepresented under rule 22, because the ASV has written its sense inside the fused word. The competing reading, taken by the verse pass, leaves the suffix unrepresented; the corpus aligns asher + be + suffix to 'wherein' as one three-morpheme unit in twenty-one places, and this chapter folds the resumptive adverb into 'whither' at EZK.37.21 and the suffix into 'therein' at EZK.37.25.",
+      "source": [
+        "s005",
+        "s007",
+        "s008"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Verb with subject pronoun.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Construct noun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Possessive suffix.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Preposition rendered 'before'.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Construct noun.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Possessive suffix.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "EZK.37.20",
+  "review_notes": [
+    "s008, the resumptive suffix, joins the fused 'whereon' unit; its separate unrepresented unit is removed. The unit stays 'aligned' rather than 'noncompositional', matching this chapter's treatment of its other fusions.",
+    "Everything else in the verse is unchanged."
+  ]
+}

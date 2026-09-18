@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "chapter": "PRO.19",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PRO.19.7.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV ends the verse 'but they are gone', a negation of the pursued words' existence, which renders the ketiv לא הֵמָּה ('they are not'); the qere לוֹ הֵמָּה would yield 'they are his'. The mapped note 'Or, He pursueth after words, which are nought' is classed alternative_rendering and does not decide, but the main-text wording alone excludes r00-base."
+    },
+    {
+      "unit_id": "WLC.PRO.19.16.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'shall die' is an intransitive active, the qere יָמוּת; the ketiv יוּמָת is passive, 'shall be put to death', which the ASV nowhere reflects here. The verse's only note is a hebrew_gloss on 'careless of his ways' (בּוֹזֶה, 'despiseth') and bears on a different word."
+    },
+    {
+      "unit_id": "WLC.PRO.19.19.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'A man of great wrath' renders the qere גְּדָל־חֵמָה, 'great of wrath'; the ketiv גרל gives no sense the ASV's 'great' could come from. No note is attached to the verse."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "chapter": "NEH.9",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Waw + finite verb the ASV recasts as a relative clause is read by what the English relative realizes. Where the relative is the recast clause's subject and no pronoun morpheme answers to it, the relative is the waw's connective (9.5 וּמְרוֹמַם → 'which is exalted', 9.27 וַיָּצֵרוּ → 'who distressed', וְיוֹשִׁיעוּם → 'who saved', rule 17). Where the relative is instead the object and an object suffix on the verb denotes the antecedent (9.22 וַתַּחְלְקֵם → 'which thou didst allot'), the suffix takes the relative under rule 18 and the waw, for which the ASV writes no connective, is unrepresented. These are one analysis, not a split; the 9.22 note names the competing reading.",
+    "שׁוּב is aligned three ways in this chapter, each licensed by the Hebrew form. Hiphil as the clause's lexical verb keeps the ASV's 'again' in its own unit (9.26 לַהֲשִׁיבָם → 'to turn them again', 9.29 → 'thou mightest bring them again', rule 44), since 'turn'/'bring' alone do not write the returning. Qal יָשׁוּבוּ used as an auxiliary before לַעֲשׂוֹת (9.28 → 'they did evil again') takes 'again' alone under rule 56, the infinitive taking the subject pronoun and 'did' and its לְ going unrepresented. Qal שָׁבוּ as a full verb takes 'turned' (9.35)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v218",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 80 candidate lemma groups end to end against the verse dumps. Every multi-treatment bucket is the ASV rendering one word differently (dative לְ unrendered in 'gavest them' but 'unto them' in 9.14; אֵת → in only where 9.12 construes the marked noun as an adjunct; לַיְלָה bare in 9.19 because a בְּ stands there and 'by night' in 9.12 because none does; הַ unrepresented only beside a demonstrative, a suffix, or a bare noun). No construction is analysed two ways without a source difference.",
+    "The one pattern that looks like a split is not: waw + finite verb recast as a relative takes the relative on the waw where the relative is the clause's subject (9.5 'which is exalted', 9.27 'who distressed', 'who saved'), but in 9.22 the relative is the object of 'allot' and the object suffix on וַתַּחְלְקֵם denotes the antecedent, so rule 18 gives 'which' to the suffix and the waw is unrepresented. Recorded as a convention.",
+    "BSB disagreements are all documented convention differences: agreement and demonstrative-adjacent articles (rule 41/47), dative and resumptive prepositions the ASV leaves bare (rule 40), the resuming הוּא of the tripartite אַתָּה־הוּא יְהוָה in 9.6–7 (rule 20), apodosis and relative-recast waws (rules 14, 18), the resumptive suffix of בָם in 9.29 (rule 22) and the bare-object marker before עַמְמֵי in 9.24 (rule 16). None is an error; no accepted edge was moved.",
+    "The two large-source units (9.12 and 9.19 אֲשֶׁר בָּהּ → wherein) are rule-22 fusions and indivisible.",
+    "Hedged within-verse judgments that stand with their notes and have no cross-verse consequence: 9.15 נָשָׂאתָ יָדְךָ → 'sworn' fused across the object marker; 9.29 נָתַן + סוֹרֶרֶת → 'withdrew' fused across the object noun; 9.37 מַרְבָּה → 'yieldeth much' headed on much; 9.38 waw → 'And yet' as one rendering. Each names its competing reading under rule 8.",
+    "Nothing here generalises beyond what rules 17, 18, 44 and 56 already state; no promotion or amendment."
+  ]
+}

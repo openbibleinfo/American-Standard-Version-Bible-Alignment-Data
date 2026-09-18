@@ -1,0 +1,28 @@
+{
+  "chapter": "EZR.7",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Aramaic אֱלָהּ שְׁמַיָּא → 'the God of heaven' (7.12, 7.21, 7.23 twice): the single written 'the' is the construct אלה's supplied determiner under rule 29, and the determined-state ending on שמיא is its own `unrepresented` unit; 'of heaven' goes to שמיא. Not read as rule 29's fronting of the rectum's article. This follows the ten DAN.2 units of אלה → 'the God' and is how every occurrence in this chapter is aligned.",
+    "בַּעֲבַר נַהֲרָה → 'are beyond the River' (7.21, 7.25): the ב and the construct עבר share one unit with the construction-supplied copula, headed on עבר (rules 30, 49); נהרה takes 'River' and its determined-state ending takes 'the'. The preposition is never left unrepresented beside 'beyond'.",
+    "An Aramaic participial predicate with no written subject pronoun takes only its copula and lexical verb; the subject pronoun the ASV supplies is its own `added` unit (7.14 שְׁלִיחַ → 'art sent' with 'thou' added; 7.24 מְהוֹדְעִין → 'certify' with 'we' added). A participle carries no person for rule 17's permission to reach, and no nominal earlier in the verse denotes the referent for rule 25 to resume.",
+    "The decree formula מִנִּי שִׂים טְעֵם → 'I make a decree' (7.13, 7.21): מן is `unrepresented` under rule 40, the 1cs suffix takes the subject 'I', שים takes 'make' (or 'do make' where the ASV writes the auxiliary), and טעם takes 'a decree'. In 7.21 the second 'I' goes to the written אנה and the 'even' between them is `added` under rule 16.",
+    "Relational דִּי standing between two nominals is aligned to the 'of' the ASV writes for it (7.12, 7.17, 7.21, 7.26), its own unit headed on 'of'; a construct noun standing before such a די keeps only its own word and any supplied 'the'."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v218",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 28 verses end to end against the 51-lemma candidate table and the added units the table cannot see. No construction is analysed two ways: every difference in the table is the ASV rendering one word differently (waw as Now/Also/or/with; ל as to/unto/for/of/before or silent; מן as from/out of/by/some of/upon; על as to/concerning/unto/upon), each licensed by the printed text.",
+    "Recurring Aramaic constructions are uniform across the chapter: 'the God of heaven' (7.12, 7.21, 7.23 x2) puts the supplied 'the' on the construct אלה and leaves the determined-state ending on שמיא unrepresented, matching the ten DAN.2 units of אלה → 'the God'; 'the priest the scribe of the law' (7.12, 7.21) divides identically; בעבר נהרה → 'are beyond' (7.21, 7.25) fuses ב+עבר with the copula and heads on עבר; 'which is in Jerusalem' (7.16, 7.17, 7.27) and 'whose habitation is in Jerusalem' (7.15) follow rules 49 and 22; מני שים טעם → 'I make a decree' (7.13, 7.21) leaves מן unrepresented and gives the suffix the 'I'; the supplied subject of an Aramaic participial predicate is `added` in both places it occurs (7.14 'thou', 7.24 'we'); agreement articles on prenominal attributives are unrepresented throughout (7.1, 7.5, 7.8, 7.9, 7.28); כל־די / מה־די → whatsoever/whosoever fuse in every instance (7.18, 7.21, 7.23, 7.26).",
+    "The two 4-morpheme noncompositional units (7.14 כל־קבל די → 'Forasmuch as', 7.17 כל־קבל דנה → 'therefore') are genuinely indivisible compound conjunctions, anchored on the first token as the seven corpus 'forasmuch as' units are.",
+    "BSB disagreements: 19 Td, 8 R and 1 Sh. All are documented convention differences (determined-state endings the ASV writes no article for, dative/object-marking prepositions the ASV leaves bare, a cohortative he). None is an error; no edge changed.",
+    "Conventions recorded for the chapter-wide judgments the validator found repeated in notes; nothing here generalises beyond what the contract already says, so no promotion or amendment."
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "alignment_sha256": "a505886036f866072c5cd440ca20f8a706110b50e62bc171d5bbce512f48e433",
+  "contract_version": "nt-greek-verse-v62",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed and kept unchanged in substance: every unit's source and target membership, status and head stands as accepted. Notes were expanded where the reasoning was compressed; no ids moved between units.",
+    "Partition verified by hand: s001-s018 each appear exactly once, and t001-t027 each appear exactly once across the 18 units. No unrepresented or added unit is needed, since every source token has English and every English word answers to a source token.",
+    "s008 χρυσοδακτύλιος is the one head judgment worth flagging, and the note now says why the competing reading was refused: ring glosses the compound's noun stem, gold its modifying element, and rule 91's corpus query is unavailable because the lexeme is a hapax. A head on gold remains defensible.",
+    "s012's in is the compound verb's own particle, not a preposition: nothing follows it for an English preposition to govern (the next words are also a poor man), so rule 36 does not reach it. This is deliberately unlike s004, where an expressed εἰς takes into.",
+    "Both ἐν phrases are anarthrous with no supplied determiner, so rule 58 is not triggered anywhere in the verse and the adjectives stand on their own English words while the nouns stand bare.",
+    "συναγωγὴν ὑμῶν is anarthrous, so your is the genitive pronoun's own under rule 7 and rule 20's displacement analysis has no article to empty. The alternative_rendering note (Or, assembly) is a lexical gloss question and does not bear on the alignment.",
+    "Variant SBLGNT.JAS.2.2.v001 is underdetermined, covers s004, keeps the projected base among the compatible readings, and carries no FALLBACK EXCLUDED mark, so rule 97 does not apply and rule 12 forbids revisiting it here."
+  ],
+  "ref": "JAS.2.2",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "chapter": "PRO.3",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PRO.3.15.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'more precious than rubies' renders the same word under either spelling: the ketiv מפניים and the qere מפנינים differ only in the written consonants of p'ninim, not in sense or number, and English has nothing that could show the difference. No ASV note is mapped here. Underdetermined; the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.PRO.3.27.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'when it is in the power of thy hand to do it' — singular 'hand', matching the qere יָדְךָ. The ketiv ידיך is the plural 'thy hands', which the ASV's singular excludes."
+    },
+    {
+      "unit_id": "WLC.PRO.3.28.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'Say not unto thy neighbor' — singular, matching the qere לְרֵעֲךָ. The ketiv לרעיך is plural 'thy neighbors', and the ASV's singular address ('Say not unto thy neighbor... I will give') distinguishes against it."
+    },
+    {
+      "unit_id": "WLC.PRO.3.30.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'Strive not with a man without cause' renders the verb of the root ריב, which both the qere תָּרִיב and the ketiv תרוב carry; the variant is orthographic and leaves the sense and the person unchanged, so the English cannot distinguish them. No ASV note is mapped here."
+    },
+    {
+      "unit_id": "WLC.PRO.3.34.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'he giveth grace unto the lowly', a rendering of עֲנָוִים (humble, meek) as in the qere. The ketiv ולעניים is עֲנִיִּים, the poor or afflicted, which the ASV renders with words of poverty and affliction rather than 'lowly'; the contrast drawn here is with 'the scoffers', a disposition and not a condition. The two mapped notes ('Or, Though', 'Or, Yet') are classed alternative_rendering, concern the opening particle, and do not bear on this unit."
+    }
+  ]
+}

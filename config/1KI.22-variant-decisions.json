@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "chapter": "1KI.22",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1KI.22.13.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "Qere דְבָרְךָ֗ is singular (Ncmsc); ketiv דבריך is plural (Ncmpc). ASV reads “let thy word, I pray thee, be like the word of one of them” — singular “thy word” — in the same verse where it renders the plural of this noun as “the words of the prophets”. The singular distinguishes the qere."
+    },
+    {
+      "unit_id": "WLC.1KI.22.48.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "Qere עָשָׂה֩ is the verb “he made” (Vqp3ms, Strong 6213); ketiv עשר is the numeral “ten” (Acmsa, Strong 6240). ASV “Jehoshaphat made ships of Tarshish to go to Ophir for gold” supplies a finite verb and no number at all; the ketiv would leave the clause verbless and count the ships. “made” distinguishes the qere."
+    },
+    {
+      "unit_id": "WLC.1KI.22.48.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere נִשְׁבְּר֥וּ is VNp3cp and ketiv נשברה is VNp3fs, the same Niphal perfect of שָׁבַר with the same feminine plural subject אֳנִיּוֹת, which takes either agreement in Hebrew. ASV “for the ships were broken at Ezion-geber” draws its English number from the noun rather than the verb, so it renders either reading, and no note is mapped to the word."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "alignments": [
+    {
+      "note": "Interrogative pronoun to *What*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb with its English subject pronoun; rule 9 puts the head on the lexical verb *wilt*, which is what glosses θέλω here.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Subjunctive with supplied subject and modal auxiliary, headed on the lexical verb *do* under rule 9. The supplied complementizer *that* is folded in under rules 40 and 85 as the word introducing this verb's English clause: the deliberative subjunctive is the subordinated verbal itself, so a source token carries the subordination. Marking *that* `added` under rule 86 remains defensible, since no Greek conjunction stands here; rule 86 is scoped to a finite indicative, which this is not.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Dative pronoun with its case preposition riding along under rule 21, headed on the pronoun.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Postpositive δέ to the verse-initial *And*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Substantival article supplying the pronoun *he*; rule 22, no participle following.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Aorist of λέγω to *said*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Anarthrous vocative to *Lord*; no article competes.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "ἵνα realized by the complementizer *that* introducing its English clause under rule 40.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "One Greek verb rendered by the support-verb phrase *receive … sight*; rules 17 and 91 head it on the meaning-bearing complement *sight*, which glosses the -βλεπ- root, while *receive* is the empty support verb. Supplied subject, modal and possessive ride along as rule 7 and 9 helpers, the possessive not `added` under rule 11. A head on *receive* is the competing reading and is refused for the same reason *bear witness* heads on *witness*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016",
+        "t017",
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "LUK.18.41",
+  "review_notes": [
+    "Every s001–s010 and t001–t019 id is partitioned exactly once.",
+    "The only genuinely contested unit is the supplied *that* at t004: folded onto ποιήσω rather than marked `added`, on the ground that the deliberative subjunctive is itself the subordinated verbal.",
+    "ἀναβλέψω's ἀνα- preverb has no separate English particle here, so rule 106 does not split anything off; the whole phrase stays one unit."
+  ]
+}

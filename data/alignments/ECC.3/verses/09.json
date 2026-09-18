@@ -1,0 +1,107 @@
+{
+  "alignments": [
+    {
+      "note": "",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Construct noun keeps only its own word (rule 19).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Substantival article takes the supplied 'he that' and heads on the pronoun (rule 41).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The participle is the nomen rectum, so the English possessive recasting 'hath' of the construct relation belongs here (rules 19 and 43); the unit is discontinuous around 'he that' (rule 25). The competing reading marks 'hath' added under rule 43's last clause, but the construct chain is what makes the clause possessive.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Headless relative: the written relative takes 'wherein' and the supplied antecedent 'that' goes with it (rule 46's first rider). The alternative gives 'that' to the preposition, but 'that' is a nominal and the preposition already holds 'in'.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Predicate adjective rendered by a finite verb; no separate copula is written.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    }
+  ],
+  "ref": "ECC.3.9",
+  "review_notes": [
+    "The whole verse is a verbless interrogative; 'hath' is read as the recast construct relation rather than as an added supplied verb."
+  ]
+}

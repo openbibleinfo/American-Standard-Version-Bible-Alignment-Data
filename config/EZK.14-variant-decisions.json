@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "chapter": "EZK.14",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.EZK.14.4.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV renders the clause 'I Jehovah will answer him therein according to the multitude of his idols': 'therein' is a prepositional phrase answering to the ketiv בה (in it), and the multitude of idols is the measure of the answer, not something the man comes in. The qere בָ֖א would give a finite verb 'he is come', which the ASV main text has no word for; the ASV itself flags that as the other possibility ('Another reading is, he is come in the multitude etc.'), i.e. as not the text it translated."
+    },
+    {
+      "unit_id": "WLC.EZK.14.14.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The candidates differ only in the plene or defective spelling of the proper name (דָּנִיֵּאל / דנאל). ASV reads 'Daniel' for either, and the verse carries no note mapped to this unit, so the English cannot distinguish them; the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.EZK.14.20.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Same orthographic variation in the proper name (דָּנִיֵּאל / דנאל). ASV's 'Daniel' renders either spelling identically and no note is mapped to this unit, so nothing in the English selects one; the qere base fallback is retained."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "31cfab7eaf697f042252116c2d5c1f9a2df6f7acd38cead7dbf949cec9a80acb",
+  "contract_version": "ot-hebrew-verse-v132",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Correcting the accepted verse note's count: there are four `added` units here, not three — *of it* after *hast heard*, the protasis *if*, the coordinating *and* before *the thing certain*, and the complementizer *that*. The alignment itself records all four correctly; only the prose count was off.",
+    "Each of the four is checked against the morphemes actually present: `שָׁמַע` writes no object, so both *of* and *it* fall outside rule 44's supplied-preposition case; the *if* is rule 55's named Leviticus shape, standing after `הִנֵּה`'s own *behold*; no waw stands between `אֱמֶת` and `נָכוֹן הַדָּבָר`; and no complementizer morpheme opens the `נֶעֶשְׂתָה` clause.",
+    "*it be true* on `אֱמֶת` is rule 20's own example shape (*that it was good*), so the supplied subject and copula are not `added`.",
+    "The determiner *such* is the demonstrative's under rule 41, leaving the noun's article and the agreement article both `unrepresented`."
+  ],
+  "ref": "DEU.17.4",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

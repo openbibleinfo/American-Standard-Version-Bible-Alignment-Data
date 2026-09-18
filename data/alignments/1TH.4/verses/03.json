@@ -1,0 +1,184 @@
+{
+  "alignments": [
+    {
+      "note": "Postpositive conjunction fronted in English.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Substantival demonstrative subject.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Expressed copula.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Greek anarthrous; the supplied *the* is a rule 7/51 helper on the noun.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Article before the name-like θεοῦ with no English determiner; the case preposition stays with the noun (rules 21, 23).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive noun rendered *of God*, headed on the noun (rule 17).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Supplied appositional *even* introducing an articular appositive; under rule 105 no expressed preposition carries it and the governing article is already emptied by the possessive, so it answers to no source token.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Article displaced by the genitive pronoun ὑμῶν, which takes the English possessive (rule 20).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive pronoun realized as the possessive *your*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Head noun standing bare behind the possessive.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Expressed accusative subject of the infinitive, realized as *ye*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Infinitive expanded into a finite clause; the supplied complementizer belongs to it (rule 85), discontinuous around the subject.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Preposition realized by its own word.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Article with no English determiner for the noun (rules 21, 23).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun standing bare.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "1TH.4.3",
+  "review_notes": [
+    "The italicized *even* is marked added under rule 105's article-carrier arm; folding it onto ἁγιασμός remains defensible but no preposition stands to carry it and rule 20 has already emptied the article.",
+    "s005 and s013 left unrepresented under rule 21's determinerless clause; the case prepositions ride with their nouns."
+  ]
+}

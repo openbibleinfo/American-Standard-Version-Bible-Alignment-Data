@@ -1,0 +1,17 @@
+{
+  "alignment_sha256": "fe86d801755e9f69b5400c351a8877c1d2d77e7dc453442547718d6fde47bfc5",
+  "contract_version": "nt-greek-verse-v62",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed and left unchanged; only the notes on s008 and s011 were expanded to name the competing readings the contract asks a later reader to be able to act on.",
+    "All 11 source and 14 target ids partitioned exactly once; every unit is `aligned` with nonempty arrays and heads drawn from their own arrays, as rule 3 requires.",
+    "No article, demonstrative, possessive or particle cluster stands in the verse, so the bulk of the contract's article and particle machinery (rules 19-23, 38, 49, 51, 57, 60) has nothing to decide here. Both prepositions govern anarthrous nouns, so rule 21's article-carries-the-case case does not arise and rule 36 puts each *by* on its own preposition.",
+    "Heads reviewed separately from edges per rule 28: *see* over the supplied *Ye* (rule 17), *justified* over the auxiliary *is* (rules 9 and 17), *man* over the supplied *a* (rules 17 and 51). None of these is a light-verb or generic-completion phrase, so rules 66, 84 and 91 do not bear on them.",
+    "s006's supplied *a* is the article-free case rule 51 names explicitly: the Greek is anarthrous, no article competes, and the determiner is a rule 7 helper on the noun. Rule 92's supplied-determiner-to-the-article clause is scoped to articular Greek and does not reach this.",
+    "The variant line records SBLGNT.JAS.2.24.v023 resolved to r00-base with no `FALLBACK EXCLUDED BY EVIDENCE` mark, so rule 97 does not apply and no target token is `added` on textual grounds. Rule 12 forbids revisiting the selection here in any case.",
+    "No token's English is placed in a neighbouring verse, so rule 37 does not arise, and every supplied English word in the verse (*Ye*, *a*, *is*) is licensed by an expressed source token, so rule 86 produces no `added` unit."
+  ],
+  "ref": "JAS.2.24",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

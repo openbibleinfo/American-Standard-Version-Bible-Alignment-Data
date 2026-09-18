@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "chapter": "EZR.2",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.EZR.2.1.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "The ASV note mapped to this word, 'Hebrew Nebuchadnezzor.', glosses the underlying Hebrew as Nebuchadnezzor, the -or ending of the ketiv נבוכדנצור; the qere נְבוּכַדְנֶצַּר would be glossed Nebuchadnezzar. The main text spells the king by the ASV's standard English form, so the note is what reports the form actually read here, and it names the ketiv."
+    },
+    {
+      "unit_id": "WLC.EZR.2.46.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "The ASV renders 'Shamlai', transliterating the ketiv שמלי (shin-mem-lamed-yod). The qere שַׁלְמַי would give Salmai, which the ASV names only as the different form found elsewhere: 'In Neh. 7:48, Salmai.' The English spelling and the note together put the qere outside this verse's text."
+    },
+    {
+      "unit_id": "WLC.EZR.2.50.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The ASV renders 'Meunim', with the u of the waw in the qere מְעוּנִים. The ketiv מעינים has yod for that waw and would be transliterated Meinim. The textual_variant note on this verse concerns Nephisim/Nephusim, not this word, so the English spelling alone decides it, and it spells the qere."
+    },
+    {
+      "unit_id": "WLC.EZR.2.50.v004",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "The ASV renders 'Nephisim', the i of the yod in the ketiv נפיסים, and its textual_variant note 'Another reading is, Nephusim' names the qere נְפוּסִים as the reading it did not put in the text. Text and mapped note agree that the ketiv is what is rendered here."
+    }
+  ]
+}

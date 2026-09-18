@@ -1,0 +1,147 @@
+{
+  "alignments": [
+    {
+      "note": "Interrogative particle takes the fronted question auxiliary 'Shall' (rule 17).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "אֱנוֹשׁ rendered 'mortal man'; head on 'man', the class noun that carries the lexeme, since the parallel colon writes a bare 'a man' for גֶּבֶר and so shows 'mortal' to be the ASV's disambiguating specifier rather than the lexeme-bearer — rule 31's תַּנִּין case, and the reading the chapter takes for its four lion-words. The competing reading heads on 'mortal', reading 'man' as the supplied generic of rule 31's 'high place' family.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Comparative מִן rendered by the discontinuous 'more ... than' (rule 25); head on 'than'.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Noun to 'God'.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Verb rendered 'be just'; head on the lexeme-bearing 'just'. Discontinuous around 'more'.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "אִם opening the second, disjunctive question takes its fronted auxiliary 'Shall' (rule 17).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Second comparative מִן to 'more ... than'.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Participle to 'Maker'.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Suffix to 'his'.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Verb rendered 'be pure'; head on 'pure'.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Noun with its indefinite article; head on 'man'.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    }
+  ],
+  "ref": "JOB.4.17",
+  "review_notes": [
+    "The ASV's marginal renderings ('be just before God') would leave the comparative words unwritten; the text as printed writes 'more ... than' for each מִן.",
+    "Reconciliation change: s002's target head moved from 'mortal' to 'man'. The chapter heads the same construction on the class noun at JOB.4.10, 4.11 and 4.21, and this verse's own גֶּבֶר to 'a man' heads on 'man', so heading אֱנוֹשׁ on 'mortal' analysed one construction two ways with nothing in the source to license the difference. Edges are unchanged."
+  ]
+}

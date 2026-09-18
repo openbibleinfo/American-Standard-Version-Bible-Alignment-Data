@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "1SA.10",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1SA.10.7.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Both readings are the same 3fp imperfect of בוא differing only in orthography (qere תָבֹאנָה, ketiv תבאינה); ASV 'when these signs are come unto thee' renders a plural subject either way. The two mapped notes are hebrew_gloss renderings ('Hebrew it shall come to pass...', 'Hebrew do for thee as thy hand shall find') and bear on English wording, not on this spelling. Nothing in the verse distinguishes them; base fallback (qere) carries the projection."
+    },
+    {
+      "unit_id": "WLC.1SA.10.21.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'by their families' — plural. The qere לְמִשְׁפְּחֹתָיו is plural 'his families'; the ketiv למשפחתו has the singular suffix ־ו on a singular noun, 'his family', which the ASV plural does not render. The English wording therefore distinguishes the qere."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "b8dde5b73be20a3ba97f091e335e8489ca4fa2644b8303cfea986c18a269c607",
+  "contract_version": "ot-hebrew-verse-v142",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Thirty source and thirty-six target IDs each partitioned once.",
+    "Flagged large-source unit s026+s027+s028 (שֶׁלִּי → *own*) retained. Accounting each morpheme: the single English word carries the relative's relation, the belonging preposition and the possession alike — שֶׁלִּי is a fixed possessive expression the ASV renders by one word, so rule 30's one-English-word condition is met and rule 23 heads it on the relative, as it heads `אֲשֶׁר בּוֹ` → *wherein*. Splitting it (שֶׁ+לְ → *own* with the suffix `unrepresented`) is not clearly preferable under rule 2, since *own* is not a relative-belonging word apart from the possessive it intensifies, and rule 22 forbids marking `unrepresented` a morpheme whose sense the ASV has written inside a fused word. The suffix on כַּרְמִי keeps *mine* separately.",
+    "t026 *of* after *keeper* is given to the object marker under rule 16, the ASV having spent a word on the object relation itself when it recast the participle as an agent noun; the competing reading (marker `unrepresented`, *of* to the noun) is named in that unit's note.",
+    "t029 *But* is `added`: no conjunction morpheme stands in that clause, so rule 14's closing sentence applies and the italic corroborates without deciding (rule 7)."
+  ],
+  "ref": "SNG.1.6",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

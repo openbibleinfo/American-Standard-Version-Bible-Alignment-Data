@@ -1,0 +1,205 @@
+{
+  "alignments": [
+    {
+      "note": "Conjunction waw → *And* (rule 14).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb carries its subject pronoun and auxiliary (rule 17), headed on the lexical predicate (rule 24). MACULA tags תַּגְדִּילוּ Vhw2mp — a Hiphil waw-consecutive, not a Hithpael — but the *yourselves* still belongs to this unit under rule 44: הִגְדִּיל used absolutely with עַל is the elative *magnify oneself*, so the reflexive is part of the English rendering of the verb's own sense rather than a supplied object argument. Rule 44's supplied-object clause does not reach it, since the Hebrew writes no object for it to supply.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Preposition עַל → *against* (rule 11).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "1cs suffix → object pronoun *me* (rule 18).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Preposition בְּ → *with* (rule 11).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Noun פֶּה → *mouth*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "2mp suffix → possessive *your* (rule 18); the unit precedes its host noun in English word order (rule 25).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Conjunction waw → *and* (rule 14).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Finite verb with its auxiliary (rule 17); the subject *ye* is written once for the coordinated pair and stands in the first verb's unit, so this unit takes only what is written (rule 22). Head on the lexical predicate.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Preposition עַל → *against* (rule 11).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "1cs suffix → object pronoun *me* (rule 18).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Noun דָּבָר → *words*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "2mp suffix → possessive *your* (rule 18).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Explicit independent pronoun אֲנִי takes only its own English pronoun (rule 20).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Finite verb with its auxiliary, headed on the lexical predicate (rules 17, 24); the subject pronoun belongs to the written אֲנִי.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Supplied object pronoun *it*: the Hebrew שָׁמַע here writes no object marker, suffix or object noun, so no morpheme licenses the word and it is added under rules 44 and 30. The competing reading would fold it into the verb's unit as part of the English rendering, but rule 44 refuses that where no object morpheme is present.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    }
+  ],
+  "ref": "EZK.35.13",
+  "review_notes": [
+    "Correction is to the s002 note only; the unit edges, heads and statuses are unchanged. The accepted note described תַּגְדִּילוּ as Hithpael, but MACULA tags it Vhw2mp (Hiphil waw-consecutive). The reflexive *yourselves* still stays with the verb, on the ground that הִגְדִּיל with עַל is elative *magnify oneself* and the English reflexive renders the verb's own sense rather than supplying an object the Hebrew does not write.",
+    "Two coordinated verbs share one written English subject *ye*; it stays with the first verb's unit and the second takes only *have multiplied* (rule 22).",
+    "Both possessive suffixes precede their host nouns in English, so those units are ordered by source ID rather than target position (rule 25)."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "chapter": "GEN.30",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.GEN.30.11.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV renders 'Fortunate!', corresponding to the mapped Hebrew gloss 'With fortune!'; the note identifies 'Fortune is come' as the other reading, so ASV distinguishes and selects ketiv r01 rather than base qere r00-base."
+    }
+  ]
+}

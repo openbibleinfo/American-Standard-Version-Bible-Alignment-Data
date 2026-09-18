@@ -1,0 +1,26 @@
+{
+  "chapter": "PRO.31",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The chain דִּין כָּל־בְּנֵי X is written twice in this chapter (31.5, 31.8) and is divided the same way in both, the division following the ASV's word count rather than the Hebrew: כֹּל takes the recast construct relation together with its own quantifier — *of all* at 31.8, *due to any* at 31.5 — under rule 19; the final noun takes the supplied relative with its copula and predicate — *as are left desolate*, *that is afflicted* — under rules 46 and 20; and בְּנֵי takes an English word only where one is left over, which is *such* at 31.8 and nothing at 31.5, where it is `unrepresented` under rule 22. BSB represents that 31.5 בְּנֵי; the disagreement is this convention and not an error.",
+    "Where one substantive is rendered by a multi-word English phrase, this chapter heads it by rule 31's subtraction and never on the generic English noun: שֵׁכָר → *strong drink* heads on *strong* (31.4, 31.6), סָדִין → *linen garments* on *linen* (31.24), מַרְבַדִּים → *carpets of tapestry* on *carpets* (31.22), שֵׁשׁ → *fine linen* on *linen* (31.22). The ASV writes none of *drink*, *garments*, *tapestry* alone for a word of that class here, so rule 31's tie-break does not reach them; each unit names the competing head under rule 8, and a later verse added to this chapter should follow the same reading."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v163",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 31 verses end to end against the 36-lemma candidate table and against the nine `added` units, which the table cannot see. No construction is analysed two ways with nothing in the source or in the ASV to license the difference, so patches is empty.",
+    "The one candidate that looked like a real split is the chain דִּין כָּל־בְּנֵי X, written twice, at 31.5 and 31.8. Both verses divide it on the same principle: כֹּל takes the recast construct relation together with its own quantifier (*of all*, *due to any*) under rule 19, and the final noun takes the supplied relative with its copula and predicate (*as are left desolate*, *that is afflicted*) under rules 46 and 20. They differ only where the ASV differs. 31.8 writes a third noun-phrase word, *such*, which goes to the present בְּנֵי because a present morpheme takes its English before a supplied reading does (rule 46's first rider); 31.5 writes *any that* and leaves בְּנֵי nothing, so it is `unrepresented` under rule 22. That is the English word count, not a split.",
+    "Other candidates checked and dismissed as ASV-licensed: מִפְּרִי יָדֶיהָ rendered *With the fruit* at 31.16 and *of the fruit* at 31.31, one preposition taking whichever word was written for it; לְ with a suffix aligned to *for herself* at 31.22 but `unrepresented` at 31.31, which is rule 40's bare indirect object תְּנָה לִּי → *give me* exactly; שָׁלַח rendered *layeth* at 31.19 and *reacheth forth* at 31.20, the particle staying with the verb only where the ASV writes one; the assimilated [הַ] tokens, each read off whether a *the* is written (aligned at 31.19, 31.20 twice, 31.23, 31.24, 31.31; `unrepresented` at 31.3, 31.4 twice, 31.18); and *Nor* resting on the bare waw at both 31.3 and 31.4, the negative being gapped in each.",
+    "The nine `added` units were audited as a set, since the lemma table is blind to them, and each falls into a family the chapter handles one way throughout: the impersonal *it* of a verbless clause (31.4 twice, 31.15), which rule 20 excludes from the construction-supplied frame while the copula goes to the predicate — to the לְ heading the prepositional predicate at 31.4 under rule 49, to the predicate noun לַיְלָה at 31.15 under rule 20; a supplied lexical verb (31.4 *to say*, 31.28 *saying*) under rule 20's supplied-lexical-verb clause; a supplied object pronoun with no object morpheme (31.24 *them*) under rule 44; a supplied possessive with no suffix in the phrase (31.15 *their*) under rule 18's closing sentence; a supplied *also* beside a waw already holding the *and* written for it (31.28) under rule 51, which is the other side of the waw that does take *also* at 31.15; and a supplied *But* in a clause with no conjunction morpheme in it (31.30) under rule 14's closing sentences.",
+    "None of the five BSB disagreements is an error. 31.5 בְּנֵי and 31.29 עַל and 31.31 לָ are all recastings that leave a morpheme no English word — the second is the גָּדַל … מִן → *exceeded* case named in rules 30 and 35, where the comparative recasting *excellest them all* states nothing for the preposition — and the two 31.30 הַ tokens stand on nouns the ASV renders bare (*Grace is deceitful*, *beauty is vain*), which rule 29's last sentence marks `unrepresented`. Each is a documented convention difference: BSB attaches such a morpheme to its host phrase.",
+    "Head choices under rule 31 were checked across the chapter and agree: שֵׁכָר → *strong drink* heads on *strong* at both 31.4 and 31.6, סָדִין → *linen garments* on *linen*, מַרְבַדִּים → *carpets of tapestry* on *carpets*, שֵׁשׁ → *fine linen* on *linen*. Each of those units names its competing head under rule 8."
+  ]
+}

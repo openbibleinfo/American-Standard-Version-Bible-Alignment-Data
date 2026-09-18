@@ -1,0 +1,26 @@
+{
+  "chapter": "NEH.1",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The vayehi frame straddles the verse boundary: 1.1 keeps 'it came to pass' on haya with no 'that', and the apodosis 'that' opening 1.2 belongs to the waw of vayyavo there (rules 45, 14). Neither verse reaches into the other.",
+    "The ASV's supplied 'certain' before a bare plural noun ('certain men' 1.2, 'certain days' 1.4) is an indefinite determiner standing where 'some' would and joins the noun's unit under rule 15, headed on the noun; it is not added."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 30 candidate lemmas and the two added units end to end. Every multi-treatment bucket is the ASV rendering one morpheme differently in different contexts (waw → Now/that/as/Yea/while/but if/nor/also, na → now vs the entreaty formula, le/al/be rendered or silenced by the recasting), or a difference the source licenses (article present vs absent for the relative on a participle: 1.5 shomer → 'that keepeth' on the participle, 1.11 ha-chafetsim → 'who' on the article; rectum arthrous in 1.9 'of the heavens' vs anarthrous in 1.4/1.5 'of heaven', so the fronted the goes to the article only in the latter).",
+    "The vayehi frame of 1.1 has its apodosis in 1.2: 'it came to pass' stays on haya in 1.1 and the apodosis 'that' sits on the opening waw of 1.2 under rule 45/14. Both verses record it; no split.",
+    "Supplied 'certain' before a bare plural (1.2 'certain men', 1.4 'certain days') is folded into the noun under rule 15 in both places; 'If' (1.8, asyndetic protasis) and 'yet' (1.9, asyndetic apodosis) are the chapter's only added units and each is correctly unlicensed, while 1.9's 'but if' is a rule 55 pair on a present waw.",
+    "One-off judgments with competing readings named in their notes and left standing: 1.4 periphrastic haya + participle ('I' on the finite haya, 'fasted' on the participle, rule 17); 1.6 second 'I' resumed onto anokhi across the coordinated participle (rule 25); 1.2 article on the appositive noun taking 'that'; 1.8 'abroad' kept with the verb (rule 44); 1.11 lifne → 'in the sight of' fused under rule 30.",
+    "BSB disagreements: unrepresented prepositions (rule 40), agreement/demonstrative articles (rules 41, 47), cohortative/paragogic he in 1.4 and 1.11 (rule 32, both tagged Sh), object markers (rule 16), and the lexicalized suffix of Adonai in 1.11 (rule 57) are all documented convention differences. No genuine error found.",
+    "No promotion: nothing in this chapter generalises beyond what the contract already states, and the periphrastic-haya reading rests on one occurrence with no corpus precedent shown."
+  ]
+}

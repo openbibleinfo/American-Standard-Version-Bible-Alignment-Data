@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "dd8aac834c425bf231a0103afee4c8ec8bd09206ee90ea27ce691383d7e43f02",
+  "contract_version": "ot-hebrew-verse-v184",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "Corrected: the accepted alignment gave the *on* of *set the brands on fire* to the `בְּ` of `בַּלַּפִּידִים` (s004). That preposition governs the torches, which the ASV promotes to the bare direct object *the brands*, so rule 40's *blew the trumpet* case applies and the preposition is unrepresented; the *on* is the preposition the English predicate needs to reach `אֵשׁ`, and rule 33's closing paragraph assigns such a word to the predicate, since *set ... on fire* admits no other relation. The verb's unit is now t003, t004, t005, t008, headed on *set*, and `אֵשׁ` keeps the bare *fire*.",
+    "Token partition verified after correction: all 22 source ids and all 34 target ids are covered exactly once across 23 units.",
+    "The waw of the apodosis (s007) is unrepresented because the ASV spends its subordinating *when* on the first waw's own clause and opens the main clause bare.",
+    "Both `קָמָה` units are headed on *standing* under rule 31; *grain* is the defensible alternative and is named in each note.",
+    "*them* (t012) and *also* (t032) are the two supplied runs: no object morpheme stands with `יְשַׁלַּח`, and the waw of the last colon already holds its own *and*."
+  ],
+  "ref": "JDG.15.5",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

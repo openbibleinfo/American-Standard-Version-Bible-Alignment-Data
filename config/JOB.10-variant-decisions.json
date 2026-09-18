@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "chapter": "JOB.10",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JOB.10.20.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The ASV body reads the direct imperative 'cease then,' distinguishing the qere וַחֲדָל from the ketiv third-person reading identified by the mapped textual-variant note as 'let him cease.'"
+    },
+    {
+      "unit_id": "WLC.JOB.10.20.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The ASV body continues with the direct imperative 'And let me alone,' distinguishing the qere וְשִׁית; the mapped textual-variant note presents the alternative construction beginning 'let him cease,' whereas the ASV text directly addresses the one being told to leave Job alone."
+    }
+  ]
+}

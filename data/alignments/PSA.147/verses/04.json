@@ -1,0 +1,138 @@
+{
+  "alignments": [
+    {
+      "note": "Anarthrous participle rendered as a finite English clause; the subject pronoun realizes the participle's own subject and joins its unit, as rule 17 keeps a subject pronoun with its verb. Head on the lexical verb.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Construct noun with the supplied *the* under rule 29, no article morpheme standing on it.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The `לְ` marking the counted set is what the ASV's *of* renders here.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Assimilated article token takes the written *the* under rule 12.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Counted noun.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Finite verb with its subject pronoun under rule 17.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The ASV recasts *to all of them* as the bare object *them all*, leaving the `לְ` no English word; `unrepresented` under rule 40.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Quantifier keeps only its own word; the *of* the corpus would write between quantifier and suffix is absent here, the ASV having written a bare *them all*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Suffix realized by the object pronoun under rule 18.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Bare nominal with the supplied *by* stating what it contributes to the clause, under rule 33; the unit is discontinuous around the supplied possessive under rule 25.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "No suffix or other possessive morpheme stands on `שֵׁמוֹת`, so the supplied possessive is `added` under rule 18's closing sentence; the ASV italic corroborates it, by rule 7.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "PSA.147.4",
+  "review_notes": []
+}

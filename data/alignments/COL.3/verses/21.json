@@ -1,0 +1,127 @@
+{
+  "alignments": [
+    {
+      "note": "Article before a bare vocative with no supplied address word (rules 23, 89).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Vocative noun.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Prohibitive negative.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Imperative.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Determiner slot occupied by the possessive 'your', which s007 licenses (rule 20).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Genitive pronoun as possessive (rule 20).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Purpose conjunction realized by the word introducing the English clause (rule 40); the ASV writes 'that' rather than a bare infinitive here.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Ordinary negative; no negative indefinite follows, so rule 59 does not arise.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Subjunctive with supplied subject and copular auxiliary, headed on the lexical word (rules 9, 17), discontinuous round the negative (rule 15).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t010"
+      ],
+      "target_head": "t010"
+    }
+  ],
+  "ref": "COL.3.21",
+  "review_notes": [
+    "ἵνα μή is not one noncompositional unit here: the ASV writes 'that' and 'not' separately, so rule 39's fused-English test is not met.",
+    "The article at s005 is emptied by the genitive pronoun, not by absence of a determiner (rule 20)."
+  ]
+}

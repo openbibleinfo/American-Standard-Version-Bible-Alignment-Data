@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "c58bf172925b9b94aa4ee16860206ee34ab43c59ef5ff01ef75012311b27d2fb",
+  "contract_version": "ot-hebrew-verse-v55",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: all 42 source and 47 target ids appear exactly once across 41 units.",
+    "מֵאִתּוֹ is correctly fused (s011+s012 → 'from'): rule 30's one-English-word condition is met, and the alternative of leaving אֵת unrepresented is named in the unit's note as rule 8 requires.",
+    "Both interrogative הֲ morphemes are unrepresented because the ASV signals the questions by inversion; the auxiliary 'will' is licensed by the imperfect verb under rule 17. The articles on הָאָרֶץ and הַהִיא both go unrepresented because the demonstrative pronoun הִיא licenses the single written determiner 'that' (rule 41's 'only where no other morpheme licenses that determiner')."
+  ],
+  "ref": "JER.3.1",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

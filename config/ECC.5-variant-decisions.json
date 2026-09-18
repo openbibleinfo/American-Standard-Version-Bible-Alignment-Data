@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "chapter": "ECC.5",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.ECC.5.1.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads the singular 'Keep thy foot', matching the qere singular רַגְלְךָ. The ketiv רגליך is plural ('thy feet'), which the English would have shown; the number is visible in the ASV wording, so the reading is distinguished."
+    },
+    {
+      "unit_id": "WLC.ECC.5.9.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere הוא and ketiv היא differ only in the gender of the pronoun, which English does not mark here; 'the king himself is served by the field' renders either. The only note is classed alternative_rendering and concerns English wording, so it cannot decide a reading. Base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.ECC.5.11.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere רְאוּת and ketiv ראית are orthographic variants of the same noun of seeing; 'the beholding of them with his eyes' renders either identically. No ASV note is mapped to this unit, so nothing in the English distinguishes them."
+    },
+    {
+      "unit_id": "WLC.ECC.5.18.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere חַיָּיו and ketiv חיו are plene and defective spellings of the same phrase 'his life'; ASV 'all the days of his life' renders either. The two notes are classed alternative_rendering and hebrew_gloss, neither of which decides a reading."
+    }
+  ]
+}

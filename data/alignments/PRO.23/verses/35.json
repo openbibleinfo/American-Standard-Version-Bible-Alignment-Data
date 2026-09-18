@@ -1,0 +1,229 @@
+{
+  "alignments": [
+    {
+      "note": "Finite verb with subject pronoun and auxiliary (rules 17, 24).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Object suffix (rule 18).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Wholly supplied clause, italicized in the ASV; no morpheme in the verse answers to it (rules 17, 20).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Coordinator written for a clause the Hebrew juxtaposes with no conjunction in it (rule 14's closing sentence).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Negative בַּל → *not*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Finite verb with subject pronoun and copula; head on the word carrying the lexeme (rule 44), discontinuous around the negative (rule 25).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Finite verb with subject pronoun and auxiliary (rules 17, 24).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Object suffix (rule 18).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Coordinator written for an asyndetic clause; no conjunction morpheme stands in it (rule 14).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Negative בַּל → *not*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Finite verb with its subject pronoun (rule 17).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Supplied object pronoun; no object morpheme stands in the clause (rule 44).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Interrogative מָתַי → *When*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Finite verb with subject pronoun and auxiliary (rules 17, 24).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t023",
+        "t024",
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "note": "The auxiliary verb יסף is rendered by the adverbial *again* (rule 44's subtraction: the repetition is its lexeme).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t031"
+      ],
+      "target_head": "t031"
+    },
+    {
+      "note": "Finite verb with subject pronoun and auxiliary (rules 17, 24).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t026",
+        "t027",
+        "t028"
+      ],
+      "target_head": "t028"
+    },
+    {
+      "note": "Object suffix (rule 18).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t029"
+      ],
+      "target_head": "t029"
+    },
+    {
+      "note": "עוֹד → *yet*. Competing reading: swap *yet* and *again* between s011 and s014; the repetition verb is taken to carry *again*.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t030"
+      ],
+      "target_head": "t030"
+    }
+  ],
+  "ref": "PRO.23.35",
+  "review_notes": [
+    "The two supplied *and*s are marked added because the Hebrew juxtaposes these clauses with no waw (rule 14)."
+  ]
+}

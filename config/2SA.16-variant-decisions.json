@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "chapter": "2SA.16",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2SA.16.2.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'and the bread and summer fruit for the young men to eat' makes the bread the subject with no preposition on it, rendering qere וְהַלֶּחֶם; the ketiv ולהלחם 'and for the bread' would put a 'for' on the bread that the ASV does not have."
+    },
+    {
+      "unit_id": "WLC.2SA.16.8.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere תַּחְתָּיו and ketiv תחתו are spellings of the same 'in his stead'; ASV 'in whose stead thou hast reigned' renders either identically and no note is mapped here. Base fallback carries."
+    },
+    {
+      "unit_id": "WLC.2SA.16.10.v003",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text 'Because he curseth' renders ketiv כי 'because'; the qere כֹּה 'so' would give 'So let him curse', which the ASV relegates to its margin ('Another reading is, So let him curse'). The note is alternative_rendering and does not decide; the main-text wording does."
+    },
+    {
+      "unit_id": "WLC.2SA.16.10.v004",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'and because Jehovah hath said unto him' renders the conjunction of ketiv וכי; the qere כִּי has no waw and would read 'because Jehovah hath said' without 'and' (as in the marginal 'So let him curse, because'). The main-text 'and' selects the ketiv."
+    },
+    {
+      "unit_id": "WLC.2SA.16.12.v005",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'Jehovah will look on the wrong done unto me' renders a noun of wrong/iniquity, i.e. ketiv בעוני (עָוֹן taken as wrong suffered); the qere בְּעֵינִי 'on my eye' has no counterpart in the English. Of the two candidates only the ketiv is compatible with the wording."
+    },
+    {
+      "unit_id": "WLC.2SA.16.18.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'his will I be' renders qere לוֹ 'to him/his'; the ketiv לא 'not' would negate the clause ('I will not be'), which the ASV does not do."
+    },
+    {
+      "unit_id": "WLC.2SA.16.23.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'as if a man inquired at the oracle of God' renders אִישׁ with 'a man' in roman type, present only in the qere; the ketiv omits the word and would yield 'as if one inquired'. The hebrew_gloss note ('Hebrew word') concerns 'oracle', not this unit."
+    }
+  ]
+}

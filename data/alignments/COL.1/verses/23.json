@@ -1,0 +1,401 @@
+{
+  "alignments": [
+    {
+      "note": "Conditional particle takes the word introducing its English clause (rule 40).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The intensifying particle is decided on its own by the English (rule 65 for an intensifying kai): the ASV writes 'so be that' beside the conditional's own 'if', so the particle takes that remainder, headed on 'so'. Reading 'if so be that' as one noncompositional cluster remains defensible, but rule 39 scopes such clusters to a particle fused with the negative me, which this is not.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Inflected verb takes its supplied subject; head on the lexical verb (rules 9, 17).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Article carries the case preposition and is headed on 'the' (rules 17, 21).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Noun stands alone, the determiner and preposition being the article's (rule 21).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Perfect participle rendered by a bare adjectival past participle.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Coordinating conjunction.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Adjective.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Coordinating conjunction.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Ordinary negative me aligned to 'not'; no negative indefinite follows, so rules 41 and 59 are not in question.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "The particle 'away' realizes the preverb meta- and rides inside the compound verb's own unit, headed on the verb word (rule 106); no expressed preposition stands to answer to it.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Preposition governing the following phrase (rule 36).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Article to 'the' (rule 19).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Article carries the genitive's 'of' and is headed on 'the' (rules 17, 21).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t020",
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Noun stands alone.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Relative pronoun to 'which'.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Verb with its supplied subject pronoun, headed on the lexical verb (rules 9, 17).",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t024",
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "note": "Second attributive article governing an expressed head noun ('gospel'); the ASV recasts the participle as a finite relative clause, so the relativizer and copula are the participle's helpers and the article realizes nothing (rules 23, 31).",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Participle rendered as a finite relative clause; 'which' and 'was' are its helpers, head on the lexical verb (rules 7, 9, 31).",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t026",
+        "t027",
+        "t028"
+      ],
+      "target_head": "t028"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t029"
+      ],
+      "target_head": "t029"
+    },
+    {
+      "note": "Quantifier; the ASV writes 'all', which the projection's base reading of SBLGNT.COL.1.23.v019 supports.",
+      "source": [
+        "s022"
+      ],
+      "source_head": "s022",
+      "status": "aligned",
+      "target": [
+        "t030"
+      ],
+      "target_head": "t030"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s023"
+      ],
+      "source_head": "s023",
+      "status": "aligned",
+      "target": [
+        "t031"
+      ],
+      "target_head": "t031"
+    },
+    {
+      "note": "Attributive article before a verbless prepositional modifier; the ASV supplies no relative clause and no determiner, so the article realizes nothing (rules 23, 31).",
+      "source": [
+        "s024"
+      ],
+      "source_head": "s024",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s025"
+      ],
+      "source_head": "s025",
+      "status": "aligned",
+      "target": [
+        "t032"
+      ],
+      "target_head": "t032"
+    },
+    {
+      "note": "The ASV writes a bare 'heaven' with no determiner (rule 23).",
+      "source": [
+        "s026"
+      ],
+      "source_head": "s026",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s027"
+      ],
+      "source_head": "s027",
+      "status": "aligned",
+      "target": [
+        "t033"
+      ],
+      "target_head": "t033"
+    },
+    {
+      "note": "Genitive relative rendered by the single word 'whereof'.",
+      "source": [
+        "s028"
+      ],
+      "source_head": "s028",
+      "status": "aligned",
+      "target": [
+        "t034"
+      ],
+      "target_head": "t034"
+    },
+    {
+      "note": "Discontinuous under rule 15; the auxiliary rides with the verb and the head is the lexical word (rules 9, 17).",
+      "source": [
+        "s029"
+      ],
+      "source_head": "s029",
+      "status": "aligned",
+      "target": [
+        "t037",
+        "t038"
+      ],
+      "target_head": "t038"
+    },
+    {
+      "note": "Expressed subject pronoun, split from the name (rules 26, 28).",
+      "source": [
+        "s030"
+      ],
+      "source_head": "s030",
+      "status": "aligned",
+      "target": [
+        "t035"
+      ],
+      "target_head": "t035"
+    },
+    {
+      "note": "Name kept separately recoverable from the pronoun (rule 17).",
+      "source": [
+        "s031"
+      ],
+      "source_head": "s031",
+      "status": "aligned",
+      "target": [
+        "t036"
+      ],
+      "target_head": "t036"
+    },
+    {
+      "note": "Anarthrous predicate noun; the supplied indefinite is an ordinary helper on it (rules 7, 51).",
+      "source": [
+        "s032"
+      ],
+      "source_head": "s032",
+      "status": "aligned",
+      "target": [
+        "t039",
+        "t040"
+      ],
+      "target_head": "t040"
+    }
+  ],
+  "ref": "COL.1.23",
+  "review_notes": [
+    "Every s### and t### id is partitioned exactly once.",
+    "s002: 'so be that' assigned to the intensifying particle beside the conditional's 'if'; the competing noncompositional reading of 'if so be that' is named in the unit's note.",
+    "s019 and s024 are both unrepresented articles decided by rule 31: the first governs an expressed noun with a participial modifier that carries the supplied relativizer, the second stands before a verbless prepositional modifier for which the ASV supplies no relative clause at all.",
+    "s011 'moved away': the particle realizes the preverb and stays inside the verb's unit under rule 106, no expressed preposition competing for it.",
+    "SBLGNT.COL.1.23.v019 (underdetermined, base kept, covering s022) leaves 'all' fully licensed, so rule 97 is not engaged."
+  ]
+}

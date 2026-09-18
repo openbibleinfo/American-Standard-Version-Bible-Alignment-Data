@@ -1,0 +1,30 @@
+{
+  "chapter": "2KI.20",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "A cognate accusative noun whose lexeme the ASV writes once in the finite verb is the unrendered occurrence and is its own `unrepresented` unit under rule 22, while an attributive standing on it takes whatever adverb the ASV writes for it: `וַיֵּבְךְּ ... בְּכִי גָדוֹל` → *wept sore* at 20.3 gives *wept* to the verb, *sore* to `גָדוֹל`, and nothing to `בְּכִי`. Rule 30 does not fuse the pair, because *sore* carries the magnitude and not the weeping. BSB attaches the noun to its own phrase and disagrees.",
+    "A negative and a following `דָּבָר` that the ASV renders by the single word *nothing* share one unit under rules 30 and 35, headed on the negative, with the clause's verb keeping its own English: 20.13 and 20.15 give *there was* / *there is* to `הָיָה` beside the fused *nothing*, and 20.17 gives *shall be left* to `יִוָּתֵר`. Rule 35 names `כֹּל` and `מְאוּמָה`; a bare `דָּבָר` standing under the negation is read on the same terms, since the one English word carries both the negation and the thing-ness. Where the ASV instead writes a word for each, rule 2 splits them as usual.",
+    "Where `אָנָּה` and `נָא` both stand in one entreaty (20.3) and the ASV writes two entreaty renderings, each particle takes one: `אָנָּה` takes the full formula *I beseech thee*, headed on *beseech*, and `נָא` takes the enclitic *now* standing on the imperative. Rule 30's sentence assigning *I beseech thee* to `נָא` governs a clause where `נָא` stands alone; where a second entreaty particle is written, rule 11's priority gives the stronger interjection the stronger formula. The competing pairing is named in the verse's own note."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v177",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "All 46 candidate lemma groups were read end to end. Every multi-treatment bucket is licensed by the source or by what the ASV writes, so no patch is returned.",
+    "Copula placement on אוֹת differs between 20.8 and 20.9 because the Hebrew predicate differs: מָה is the clause's predicate in 20.8 (rule 20's 'What man is this'), while in 20.9 the demonstrative זֶה is subject and הָאוֹת the predicate. One rule, two verses, not a split.",
+    "הֲ takes 'Is' at 20.19 as rule 20's fronted copula in a verbless clause and 'are' at 20.20 as rule 17's question auxiliary over a participle: one analysis, two English words.",
+    "בַּיּוֹם הַשְּׁלִישִׁי is 'on the third day' at 20.5 and a bare 'the third day' at 20.8, so the בְּ is unrepresented only in the second under rule 40. The article count is identical in both: the first article takes the single written 'the' and the agreement article on the ordinal is unrepresented under rule 47.",
+    "The five article-plus-demonstrative phrases (20.1, 20.6, 20.12, 20.14, 20.17) are unanimous: both article morphemes unrepresented, the demonstrative taking the written determiner under rules 41 and 47.",
+    "Added-unit audit, which the candidate table cannot see. 20.7 'it' is added where no object morpheme stands, while 20.13 and 20.15 give 'them' to written suffixes. 20.9 'forward' is added while 'back' stays with שׁוּב at 20.5 and 20.9, which is rule 44's own worked pair. 20.19's 'it' is added because that clause has no verb at all, while 20.10's 'It is a light thing' keeps its dummy with the finite נָקֵל under rule 44's impersonal recasting. Consistent.",
+    "Distributed function words are consistent: the one כִּי of 20.8 takes both 'that's under rule 55 while its waw keeps only 'and', and only the first of two coordinated verbs takes the written subject pronoun at 20.3, 20.7 and 20.20.",
+    "BSB: 19 of the 23 disagreements are the documented Td/R convention difference. The four named tokens — 20.3 בְּכִי, 20.6 אֵת, 20.8 בַּ, 20.11 מַּעֲלוֹת — are each a morpheme for which the ASV writes no English, under rules 22, 16 and 40 respectively. None is a genuine error and none should be changed.",
+    "No promotion. 20.3's cognate accusative is the only construction the contract does not name outright, but rule 30's condition that a fused word carry every morpheme's sense already forbids the competing בְּכִי גָדוֹל → 'sore' fusion, which leaves 'unrepresented' as the only status available. A new rule would restate rule 30, so the judgment is recorded in the chapter log instead."
+  ]
+}

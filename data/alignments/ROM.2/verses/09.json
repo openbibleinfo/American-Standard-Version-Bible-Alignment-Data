@@ -1,0 +1,204 @@
+{
+  "alignments": [
+    {
+      "note": "Subject noun.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Coordinating conjunction.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Coordinate noun rendered *anguish*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Attributive quantifier.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Head noun.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Rule 17: for a source noun rendered *of + noun* the noun is the head; the case preposition rides with it under rule 21's determinerless clause.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Corrected from an alignment to *that*. Rule 31: where the ASV renders an attributive participle as a finite clause the relativizer is the participle's helper and the article realizes nothing, the test being whether the article governs an expressed head noun — here ἀνθρώπου. Rule 31's *follows its noun* clause reaches only a verbless modifier, a prepositional phrase or a bare adverb, which is what carries no relativizer; a participle does. The ASV writes no determiner for *man* for this article to carry, so rule 23 leaves it empty.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rule 31: the participle rendered as a finite clause keeps the supplied relativizer along with its own verb, headed on the verb word.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Rule 23: the ASV writes a bare *evil* with no determiner for the article to carry.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Substantival adjective.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Rule 58: the substantival adjective takes the supplied determiner itself, the case preposition riding along under rule 21's determinerless clause.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Rule 70: the ASV spells the τε … καί pair with two English words, so each particle keeps its own. Reading *and also* as the καί's alone and leaving τε unrepresented remains defensible.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Adverb.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Rule 70: the second English word is the καί's.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Rule 58 with rule 21's determinerless clause.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    }
+  ],
+  "ref": "ROM.2.9",
+  "review_notes": [
+    "Corrected s008/s009: the accepted alignment gave *that* to the post-nominal article τοῦ, but its modifier is a participle, so under rule 31 the relativizer is the participle's helper and the article is unrepresented. Rule 31's *follows its noun* clause is scoped to verbless modifiers.",
+    "A reference comparison will report the unrepresented τοῦ as a disagreement; under rule 31 that report is not a correction.",
+    "s013/s015 follow rule 70's two-conjunction arm; the corpus's twelve one-conjunction units would instead empty τε, and that reading remains defensible here."
+  ]
+}

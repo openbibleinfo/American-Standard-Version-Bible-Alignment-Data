@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "chapter": "PSA.77",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PSA.77.0.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'Jeduthun' transliterates a proper name; the qere and ketiv are two spellings of the same name and the English cannot distinguish them. Base qere fallback retained."
+    },
+    {
+      "unit_id": "WLC.PSA.77.11.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'I will make mention of the deeds of Jehovah' renders the hiphil ketiv אזכיר (cause to remember, make mention). The qal qere אזכור would be 'I will remember', which the ASV reserves for the verse's second verb ('For I will remember thy wonders'), so the contrast in English wording is deliberate and follows the ketiv."
+    },
+    {
+      "unit_id": "WLC.PSA.77.19.v003",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'thy paths' is plural, matching the ketiv ושביליך; the qere וּשְׁבִילְךָ is singular ('thy path'). The English number distinguishes the readings."
+    }
+  ]
+}

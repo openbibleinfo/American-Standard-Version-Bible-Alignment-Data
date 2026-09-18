@@ -1,0 +1,26 @@
+{
+  "ref": "1PE.3.16",
+  "alignments": [
+    {"source": ["s001"], "source_head": "s001", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "Rule 37: the ASV renders this clause at the end of 1PE.3.15 (\"yet with meekness and fear\"), so the token has no English in this verse."},
+    {"source": ["s002"], "source_head": "s002", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "Rule 37: rendered in 1PE.3.15 (\"with meekness and fear\")."},
+    {"source": ["s003"], "source_head": "s003", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "Rule 37: rendered in 1PE.3.15 as \"meekness\"."},
+    {"source": ["s004"], "source_head": "s004", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "Rule 37: rendered in 1PE.3.15 as the \"and\" of \"meekness and fear\"."},
+    {"source": ["s005"], "source_head": "s005", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "Rule 37: rendered in 1PE.3.15 as \"fear\"."},
+    {"source": ["s007"], "source_head": "s007", "target": ["t001"], "target_head": "t001", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s006"], "source_head": "s006", "target": ["t002", "t004"], "target_head": "t004", "status": "aligned", "confidence": "high", "note": "Rule 58: adjective and noun both anarthrous, so the supplied determiner \"a\" belongs to the noun, discontinuously under rule 15."},
+    {"source": ["s008"], "source_head": "s008", "target": ["t003"], "target_head": "t003", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s009"], "source_head": "s009", "target": ["t005"], "target_head": "t005", "status": "aligned", "confidence": "high", "note": "Rule 40: the conjunction is realized by the word introducing its English clause."},
+    {"source": ["s010", "s011"], "source_head": "s011", "target": ["t006"], "target_head": "t006", "status": "aligned", "confidence": "high", "note": "Rule 35: the ASV fuses preposition and relative into the portmanteau \"wherein\", which spells both elements, so the pair is one aligned unit headed on the pronominal."},
+    {"source": ["s012"], "source_head": "s012", "target": ["t007", "t008", "t009", "t010"], "target_head": "t009", "status": "aligned", "confidence": "high", "note": "Rules 7 and 9: subject and auxiliary ride with the inflected verb, and \"against\" is part of the English rendering of katalaleo, no Greek preposition being present (rule 36). Head on the lexical verb."},
+    {"source": ["s013"], "source_head": "s013", "target": ["t011", "t012", "t013", "t014", "t015", "t016"], "target_head": "t016", "status": "aligned", "confidence": "high", "note": "Rule 17: in the support-verb rendering \"be put to shame\" the meaning-bearing complement is the head."},
+    {"source": ["s014"], "source_head": "s014", "target": ["t017"], "target_head": "t017", "status": "aligned", "confidence": "high", "note": "Rules 31 and 32: the article governs no expressed head noun, so it is substantival and takes the pronoun/relativizer itself, the participle keeping its own verb."},
+    {"source": ["s015"], "source_head": "s015", "target": ["t018"], "target_head": "t018", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s016"], "source_head": "s016", "target": ["t019"], "target_head": "t019", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s017"], "source_head": "s017", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "Rule 20: the genitive pronoun hymon takes the English possessive \"your\", displacing the article, which realizes nothing."},
+    {"source": ["s018"], "source_head": "s018", "target": ["t020"], "target_head": "t020", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s021"], "source_head": "s021", "target": ["t021", "t022", "t023"], "target_head": "t023", "status": "aligned", "confidence": "medium", "note": "One Greek noun rendered by the fixed English phrase *manner of life*; rule 66 heads it on *life*, the word glossing the lexeme, with *manner of* the supplied frame, as 1PE.1.18 and EPH.4.22 have it. GAL.1.13 heads on *manner* and remains defensible."},
+    {"source": ["s019"], "source_head": "s019", "target": ["t024"], "target_head": "t024", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s020"], "source_head": "s020", "target": ["t025"], "target_head": "t025", "status": "aligned", "confidence": "high", "note": ""}
+  ],
+  "review_notes": []
+}

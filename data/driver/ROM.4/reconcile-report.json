@@ -1,0 +1,28 @@
+{
+  "chapter": "ROM.4",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "ROM.4.12"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Where an attributive Greek article governs a verbless prepositional modifier and the ASV expands it into a finite relative clause, divide the supplied words by rule 62's predication test rather than by rule 31's wording alone. A supplied copula whose predicate the prepositional phrase is rides with the preposition; a supplied lexical verb whose adjunct the phrase merely is stays with the article, which is the token realizing the attribution. ROM.4.11 gives *which he had* to τῆς and *while he was in* to ἐν; ROM.4.12 gives *of that ... which he had* to τῆς and a bare *in* to ἐν. The four instances in this chapter that write only a copula (ROM.4.12 ἐκ -> *are of*, ROM.4.14 ἐκ -> *are of*, ROM.4.16 ἐκ -> *is of* twice) all send it to the preposition."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v111",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 38 candidate lemma groups plus the full dump. One genuine cross-verse split: the ASV's supplied lexical verb *he had* in the two renderings of an attributive article governing a verbless ἐν-phrase over πίστις. ROM.4.11 put it on the article (τῆς -> *which he had*, ἐν -> *while he was in*); ROM.4.12 put it on the preposition (τῆς -> *of that which*, ἐν -> *he had in*). Nothing in the source licenses the difference: both are ὁ + ἐν ἀκροβυστίᾳ attributive to πίστις, and rule 24 wants one analysis.",
+    "Resolved toward ROM.4.11 and patched ROM.4.12. Rule 31 hands the preposition the *copula*, and rule 62 reaches a supplied lexical verb only where the standing prepositional phrase is the predicate of it. In 4.11 *he was* is such a copula and rides with ἐν, while *had* is not: its antecedent is *faith* and the phrase is its adjunct, so it stays with the article that makes the phrase attributive. In 4.12 no copula is written at all, so *he had* belongs to the article's relative clause and ἐν keeps a bare *in*.",
+    "The chapter's other four instances of the same shape (ROM.4.12 s004/s006 *to them who* / *are of*, ROM.4.14 s003/s004, ROM.4.16 s018/s019 and s025/s026) all write a copula and all four send it to the preposition. They needed no change and confirm the reading taken.",
+    "BSB: all seven disagreements are ASV-unrepresented articles under documented conventions - rule 23 (ROM.4.6 τόν, ROM.4.19 τῇ, ROM.4.20 τῇ), rule 20 (ROM.4.12 τοῦ, ROM.4.19 τό), rule 61 (ROM.4.13 τό) and rule 31 (ROM.4.17 τοῦ, whose verse pass predicted this report in terms after correcting the unit). None is a genuine error, and no accepted edge was touched to improve the rate.",
+    "Checked what the lemma table cannot see, since it is keyed by source lemma. The chapter's one `added` unit, ROM.4.7 *saying*, is right under rule 103: λέγει stands in ROM.4.6 and is already spent on *pronounceth*. The folded italicized supplies elsewhere (ROM.4.16 *it is* and *it may be* on ἐκ and κατά under rule 62, ROM.4.17 *even* on anarthrous θεοῦ under rule 105) all have present, unspent carriers, so the difference in status is a difference in carrier and not two analyses.",
+    "Other groups checked and found licensed by the source or by the ASV's own wording: εἰς τὸ + infinitive as bare *that* (4.11) and as *to the end that* (4.16, 4.18), one analysis under rules 61 and 24; the articular infinitive of 4.13, where no preposition governs and rule 85 sends the complementizer to εἶναι; μακάριος taking *are they* at 4.7 with no expressed subject (rule 68) and only *is* at 4.8 where ἀνήρ stands (rule 53); ἔστιν taking the expletive at 4.15 against the elliptical second clause where παράβασις takes it (rule 68); ἡ -> *his* at 4.9 against the unrepresented ἡ at 4.5, decided by whether a genitive pronoun stands (rule 20's two arms); and every article before a name or a determinerless noun (4.3, 4.6, 4.9, 4.13, 4.20).",
+    "No promotion. The judgment that settles the split is rule 62's own predication test, already in the contract in those words, so a new rule or an amendment would restate it. Recorded as a chapter convention instead, since a later reader meeting the construction would otherwise have to re-derive which of rules 31 and 62 reaches a non-copular supplied verb."
+  ]
+}

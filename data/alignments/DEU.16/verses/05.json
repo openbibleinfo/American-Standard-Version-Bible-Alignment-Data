@@ -1,0 +1,222 @@
+{
+  "alignments": [
+    {
+      "note": "`יָכֹל` with its subject pronoun; the ASV writes the negation and the modal as two words (*mayest not*), which rule 35 says defeats the indivisible *cannot* reading, so the modal belongs to this verb.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Negative takes only its own *not* (rule 35).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The modal takes a bare complement (*mayest not sacrifice*), so no *to* is written for this `לְ` (rule 52's closing sentence).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Infinitive construct *sacrifice*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "H853 object marker; the ASV writes the object bare (rule 16).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Article takes the written *the*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Noun *passover*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Preposition rendered *within*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Construct numeral `אַחַד` rendered *any* in the negated clause. It keeps only its own word: rule 19's third sentence gives the relational expression of a construct chain to the nomen rectum, and that rule expressly forbids reading such an *of* as part of an English quantifier (`כֹּל` takes *all*, never *all of*). Giving `אֶחָד` the whole *any of* was the accepted reading and is what this correction reverses.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Nomen rectum of `אַחַד שְׁעָרֶיךָ` takes the relational *of* together with its own word, headed on the noun (rule 19); the unit is discontinuous around the possessive under rule 25, exactly as `יָדֶיךָ` → *of ... hands* is elsewhere.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Suffix takes *thy* (rule 18).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Relative takes *which*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Divine name.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Construct noun.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Suffix takes *thy*.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Participle rendered by the finite *giveth*.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Dative `לְ` rendered as a bare English indirect object (rule 40).",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Suffix takes *thee* (rules 18, 40).",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "DEU.16.5",
+  "review_notes": [
+    "Corrected: the accepted alignment kept *any of* whole on the construct numeral `אַחַד`. `אַחַד שְׁעָרֶיךָ` is an ordinary construct chain, so rule 19 puts the relational *of* on the nomen rectum and leaves the construct only its own word; the rule's `כֻּלָּם` → *all of them* paragraph is directly on point and forbids reading the *of* as part of an English quantifier.",
+    "`לֹא תוּכַל` is split rather than fused: the ASV writes *mayest not*, two words, which rule 35 says defeats the indivisible `cannot` reading.",
+    "Both `לְ`s of the verse (before the infinitive and the dative before the suffix) are `unrepresented`, each because the ASV's recasting writes no word for the relation."
+  ]
+}

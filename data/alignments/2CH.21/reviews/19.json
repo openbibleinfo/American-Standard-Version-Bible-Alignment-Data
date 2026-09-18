@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "0ed048749a2ccf5a61c72d401686e75faa877beff486c1e4825f66886fbb5bfe",
+  "contract_version": "ot-hebrew-verse-v210",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Flagged unit reviewed and retained: *in process of time* over the four morphemes of `לְיָמִים מִיָּמִים` is one noncompositional unit. No word-by-word allocation is independently defensible — *process* answers to no morpheme and *time* answers equally to either `יָמִים` — so more than one morpheme's lexeme would be written among several English words and rule 6's first-token fallback stands, with *time* the lexical target anchor and *process* the competing anchor.",
+    "The ASV compresses `כְּעֵת צֵאת הַקֵּץ`, so the construct noun and the infinitive are left unrendered while the `כְ` takes the written *at*. I considered fusing `כְעֵת` → *at* under rule 30's preposition-plus-construct-noun sentence, which forbids marking a construct noun unrepresented beside a preposition holding the whole rendering; it was set aside because that sentence rests on a bound noun the ASV never writes alone, whereas `עֵת` is a full noun the ASV ordinarily writes *time*, and because the same compression drops `צֵאת` too, which *at* cannot be said to carry.",
+    "The presentative `הָיָה` keeps the whole frame including the complementizer *that* (rule 45), the apodosis opening with no waw; the clause's negation is recast onto the object nominal, so `לֹא` takes the *no* it has become (rule 15)."
+  ],
+  "ref": "2CH.21.19",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

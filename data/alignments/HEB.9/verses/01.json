@@ -1,0 +1,167 @@
+{
+  "alignments": [
+    {
+      "note": "οὖν rendered by the verse-opening 'Now'.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Correlative μέν: the ASV writes no 'indeed' here, so rule 70 leaves it empty.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Intensifying καί → 'even' (rule 65's English-side test).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Article governing a substantival adjective takes both the determiner and the supplied nominal 'covenant' (rules 49, 102); head on the nominal.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "πρώτη → 'first'.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Εἶχε → 'had'.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "δικαιώματα → 'ordinances'.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Anarthrous genitive: the case preposition stays with the noun (rule 21). 'divine service' has its noun glossing the lexeme, so rule 66 heads on 'service'.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "τε → 'and'.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "No other source word is available to take the supplied possessive, so the article realizes 'its' (rules 20, 76).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "ἅγιον → 'sanctuary'.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "The ASV repeats the predicate nominal it has already spent ἅγιον on at t013, so the italicized 'a sanctuary' answers to no unspent token (rules 5, 103). Reading it as a discontinuous second realization of ἅγιον under rule 15 remains defensible.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "κοσμικόν rendered by the phrase 'of this world'; head on the noun that carries the lexeme.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    }
+  ],
+  "ref": "HEB.9.1",
+  "review_notes": [
+    "s002 μέν left unrepresented under rule 70; a reference comparison will flag it and that is not a correction.",
+    "The italicized 'a sanctuary' is treated as a repeated predicate nominal under rule 103 rather than folded onto ἅγιον."
+  ]
+}

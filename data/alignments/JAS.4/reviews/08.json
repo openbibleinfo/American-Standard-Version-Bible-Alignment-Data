@@ -1,0 +1,18 @@
+{
+  "alignment_sha256": "6bdc18c90491055fc6daefc1102288ed232b760530a4812af569bcfbbb69e526",
+  "contract_version": "nt-greek-verse-v64",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed the accepted alignment against the contract and returned it unchanged; the only edit is to s001's note, which now names the corpus evidence that *draw* is spent on a different lexeme.",
+    "All 13 source ids and all 22 target ids are partitioned exactly once, and every head is a member of its own array.",
+    "s002 is the only unrepresented unit. Rule 21 names τῷ θεῷ → *to God* by hand as one unit on the noun with the article empty under rule 23, so this is settled text rather than a judgment call.",
+    "Both ἐγγίζω units head on *nigh* rather than on *draw*. Rule 91's test is a query on what the corpus spends on the lexeme, not a decomposition: the ἐγγ- family takes the proximity word in every unit rule 71 records (ἐγγύς → *nigh*, *nigh unto*, *near*, *at hand* on *hand*), while *draw* is what the corpus spends on ἀντλέω at JHN.2.8 (rule 40) and on ἕλκω. Rule 24 then requires s001 and s005 to be analysed alike, and they are.",
+    "The competing reading — *draw* as the lexical verb of motion and *nigh* as its particle, on the analogy of rule 104's ἐξέρχεται → *cometh forth* — is defensible but declined: ἐγγίζω is denominative from ἐγγύς, so the proximity word is the root's own gloss and *draw* is the light verb rule 17 forbids heading on.",
+    "Rule 89's article case does not arise: both vocatives (s009, s013) are anarthrous, so the supplied *ye* is a rule 7 helper on the noun and adjective rather than an article's address word. Likewise rule 20 does not arise for *your* at s008 and s012, no Greek article standing to be displaced.",
+    "Variant SBLGNT.JAS.4.8.v005 is underdetermined and its fallback is not marked FALLBACK EXCLUDED BY EVIDENCE, so rule 97 does not apply and s005 is aligned normally. Rule 12 forbids revisiting the reading here.",
+    "Nothing in this verse needs a chapter conventions entry beyond the ἐγγ- head, which rule 24 already fixes within the verse; a later ἐγγίζω elsewhere in JAS should follow the same query."
+  ],
+  "ref": "JAS.4.8",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

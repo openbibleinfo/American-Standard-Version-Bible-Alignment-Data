@@ -1,0 +1,28 @@
+{
+  "chapter": "PRO.14",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Bare nominal predicates in the antithetical couplet: where an anarthrous participle, adjective or noun is the predicate of a verbless colon, this chapter puts the construction-supplied copula (rule 20), the preposition rule 33 supplies before the bare nominal, and the antecedent-and-relative rule 46 supplies for a substantive all into that one unit, headed on the word carrying the lexeme — 14.22 *shall be to them that devise*, 14.29 *is of great*, 14.35 *against him that causeth shame*, and the *He that is soon/slow/hasty* units of 14.17 and 14.29. The competing reading, splitting the supplied copula off as its own `added` unit, was considered at 14.22 and rejected throughout the chapter.",
+    "Supplied English verbs were placed by the subtraction tests of rules 34 and 43 rather than by the ASV's italics, which corroborate and decide nothing (rule 7). *findeth it* (14.6), *tendeth* (14.23), *causeth* (14.25) and *hath* (14.20) are each their own `added` unit, because no morpheme in their clauses is left short when the words are dropped. Against them, *shall be satisfied* (14.14) joins the verb the Hebrew writes once and the ASV realizes in both cola, as one discontinuous unit (rules 25, 34), and *hath a refuge* (14.32) joins the participle the ASV renders by nothing else (rule 43)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v182",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 35 verses end to end against the 47-lemma candidate table. No construction is analysed two ways without something in the source or the printed ASV licensing the difference, so no patches.",
+    "The table's one same-verse flag, HRSH at 14.22, is not a split: colon 1 is a finite clause whose antecedent is the verb's own subject pronoun, so the participle takes only the supplied relative (rule 46); colon 2 is verbless with the participle chain as the bare nominal predicate, so its unit also carries the construction-supplied copula (rule 20), the supplied *to* (rule 33) and the supplied antecedent (rule 46). Same rules, different clause type.",
+    "DRK 14.2 *in ways* vs 14.14 *ways* is rule 11 function-word priority, not a split: 14.14 writes MN, which takes the *with*, while 14.2 writes no preposition and the word goes to the nominal (rules 19, 33). HYH 14.23 *there is* (rule 21), 14.26 *shall have* (possessive LE present, rule 43) and 14.35 *will be* (ordinary written verb) are three clause types, not three analyses. The remaining buckets differ only in ASV wording or clause role.",
+    "Checked the nine `added` units by reading the dump, since the lemma table is blind to them. They agree with each other: a connective where no waw stands (14.24 *But*, rule 14's closing sentences), supplied lexical verbs (14.6 *findeth it*, 14.23 *tendeth*, 14.25 *causeth*, 14.20 *hath*), and supplied function words no morpheme licenses (14.3 *his*, 14.7 *in him*, 14.24 *only*, 14.33 *that which is*). The one italic verb not marked added, 14.14 *shall be satisfied*, is the second realization of the verb the Hebrew writes once across the couplet (rule 34's pro-verb paragraph) — the correct opposite outcome, not an inconsistency.",
+    "Construct-chain determiners are uniform: the single supplied determiner goes to the construct noun whether the construct is the English attributive (14.1 *Every wise*) or the English head (14.5, 14.25, 14.30), and to the possessor where the ASV writes an English possessive (14.28, 14.35 *The king's*). Copula placement is likewise uniform: on the preposition where a prepositional phrase is the predicate (14.4, 14.35) and on the nominal where a nominal predicate stands behind a fronted phrase (14.3, 14.26, 14.28), which is rule 49's closing paragraph.",
+    "BSB disagreements (5): none is a genuine error. Three are LE left unrepresented — a bare English object at 14.15 and 14.21, and 14.26 where HYH takes the *have* and the preposition keeps nothing (rules 40, 43). The other two are ASV elisions: NPSH in 14.10, where *its own bitterness* writes no *soul* and *own* belongs to the suffix (rule 18), and the suffix of AHRYTH in 14.13, where *the end of mirth* writes no pronoun (rule 22). No accepted edge was changed.",
+    "Promotions: none. The bare-nominal-predicate bundle is already decided by rules 20, 33 and 46; the italic-verb split by rule 34's pro-verb paragraph and rule 43's subtraction test. The one uncovered form is the positive existential YSH at 14.12 (*There is a way*, headed on *is*), and one occurrence with no corpus precedent in the packet is too thin to bind later chapters — rules 21 and 50 already determine it by analogy.",
+    "Two conventions recorded, both judgments a later Proverbs chapter would otherwise re-derive: the bare-nominal-predicate bundling, whose competing reading the 14.22 verse pass itself named, and which supplied English verbs were folded in versus left `added`."
+  ]
+}

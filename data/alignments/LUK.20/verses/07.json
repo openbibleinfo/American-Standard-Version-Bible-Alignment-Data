@@ -1,0 +1,73 @@
+{
+  "alignments": [
+    {
+      "note": "καί → And.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb with supplied subject, headed on the lexical verb.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Ordinary negative μή → not; the complement noun is not a negative indefinite, so rule 59 does not empty it.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Rules 74 and 85: the supplied subject 'they' and the supplied complementizer 'that' both belong to the infinitive the ASV expands into a finite clause.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Rules 53 and 68: the verbless indirect question has an adverbial predicate and no expressed subject, so the adverb carries the supplied 'it was'.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t008"
+    }
+  ],
+  "ref": "LUK.20.7",
+  "review_notes": [
+    "The italicized 'it was' is folded onto πόθεν rather than marked added: rule 68 gives a supplied subject and copula to the predicate where the clause expresses no subject."
+  ]
+}

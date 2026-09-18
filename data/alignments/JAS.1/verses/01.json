@@ -1,0 +1,198 @@
+{
+  "alignments": [
+    {
+      "note": "Nominative name to the ASV's opening James; the marginal Jacob is not the text.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Anarthrous noun, so the supplied indefinite is an ordinary rule 7/51 helper on the noun it determines; no article competes for the slot. English moves the predicate noun ahead of its genitives, which rule 15 permits.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "No article governs theou, so the case preposition of stays with the noun under rule 21's determinerless clause, headed on the noun per rule 17's of + noun clause.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Coordinating conjunction to and.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The projection carries no article before kyriou, so rule 51's anarthrous clause makes the supplied the an ordinary rule 7 helper on the noun, and the case of stays with it under rule 21's determinerless clause; head on Lord per rule 17. The competing reading would split the off as an aligned determiner, but no source token licenses it — rule 51 is explicit that a supplied determiner is only the article's own where an article stands.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Name split from Christou under rule 26 rather than sharing one head.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Second name kept as its own recoverable unit.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Dative article carrying its case preposition: to and the form one unit under rule 21, headed on the per rule 17's on the clause.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Rule 13: article + numeral + noun maps pairwise, so the numeral stands alone.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Head noun bare, its determiner already on s008.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Second attributive article whose modifier is a prepositional phrase, so under rule 31 it keeps the supplied relativizer rather than being unrepresented as a plain second attributive article would be under rule 23. Standing after its noun, it leaves the determiner on the noun phrase already introduced by s008 and takes only which.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Rule 31: the copula rides with the preposition, a prepositional phrase having no verb to carry it. Head on of, the word realizing the preposition, per rule 17.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Article to the under rule 19. The case is already realized by of on the expressed en under rule 36, so nothing more rides here and rule 21 adds no second of.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Noun bare, its determiner on s013.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Epistolary infinitive rendered by the noun greeting; the margin's wisheth joy is a gloss, not the ASV text.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    }
+  ],
+  "ref": "JAS.1.1",
+  "review_notes": [
+    "Reviewed against the contract and returned unchanged: all 15 source and 21 target ids are partitioned exactly once, every unit is aligned with both heads inside their arrays, and no unrepresented or added unit is needed — every English token is licensed by a source word.",
+    "s004 (kyriou) rechecked: the token table lists no article between s003 and s004, so the ASV's the cannot be an aligned article. Rule 51's anarthrous clause makes it a rule 7 helper on the noun and rule 21's determinerless clause keeps of there too; head on Lord under rule 17's of + noun clause. Compare s008, where an article is expressed and therefore takes to the headed on the.",
+    "s011/s012 decided under rule 31's prepositional-phrase carve-out, following the tais en toi ouranoi shape: the article keeps the supplied relativizer because no verb stands in the phrase to carry it, and are of goes to en. Because s011 follows its noun, the determiner stays with the noun phrase (already supplied by s008) and s011 takes only which — not the ... which, which rule 31 reserves for an article preceding its noun.",
+    "s013 takes a bare the: en is expressed and rule 36 gives of to it, so rule 21 does not owe the article a second case preposition. This is the shape rule 95 flags at REV.14.10, an article after a frame not being owed an of the.",
+    "s007 is contiguous in the target but reordered relative to the Greek, where doulos follows its genitives; rule 15 covers this and no intervening word is absorbed."
+  ]
+}

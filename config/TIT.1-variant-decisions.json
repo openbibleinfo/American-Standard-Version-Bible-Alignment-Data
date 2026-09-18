@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "chapter": "TIT.1",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.TIT.1.4.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'Grace and peace from God the Father' with nothing between grace and peace; the RP reading ἔλεος would give the three-member 'Grace, mercy, and peace' of the other Pastoral salutations, which the ASV does not have here. The wording distinguishes the base καί."
+    },
+    {
+      "unit_id": "SBLGNT.TIT.1.4.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'Christ Jesus our Saviour' — no 'Lord', and the order Christ-Jesus. The RP reading κυρίου Ἰησοῦ χριστοῦ would render 'the Lord Jesus Christ'. Both the absent title and the name order distinguish the base."
+    },
+    {
+      "unit_id": "SBLGNT.TIT.1.5.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "ASV 'left I thee in Crete' renders any of the three: ἀπέλειπόν is only an orthographic variant of ἀπέλιπόν, and κατέλιπόν is a compound of the same verb with no distinguishable difference in English. No ASV note is mapped here. Base fallback ἀπέλιπόν carries the projection."
+    },
+    {
+      "unit_id": "SBLGNT.TIT.1.10.v004",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'there are many unruly men, vain talkers and deceivers', taking πολλοί attributively with ἀνυπότακτοι. The RP καί would coordinate them — 'many and unruly, vain talkers' (so KJV 'many unruly and vain talkers') — and the ASV has no conjunction at that point. The wording distinguishes the omission."
+    },
+    {
+      "unit_id": "SBLGNT.TIT.1.10.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'they of the circumcision' is the ordinary rendering of οἱ ἐκ περιτομῆς with or without the article; anarthrous περιτομή is regularly definite in English here. The English article does not report the Greek one, and no ASV note is mapped. Base fallback τῆς carries the projection."
+    },
+    {
+      "unit_id": "SBLGNT.TIT.1.15.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "μέν is a correlative particle with no separate English word; ASV 'To the pure all things are pure: but to them that are defiled...' has its 'but' from the following δέ clause, which stands in either reading. Nothing in the ASV wording distinguishes the added μέν. Base fallback carries the projection."
+    }
+  ]
+}

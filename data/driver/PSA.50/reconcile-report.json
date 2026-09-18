@@ -1,0 +1,24 @@
+{
+  "chapter": "PSA.50",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "A prepositional predicate with a 1cs suffix that the ASV renders by the English genitive 'mine' with a copula — לִי → 'is mine' (vv10, 12), עִמָּדִי → 'are mine' (v11) — is one unit of preposition + suffix + copula, headed on 'mine', under rule 49's closing paragraph; no word is spent on the preposition's own relation, so עִמָּד is read exactly as לְ. The competing reading (copula on the preposition alone, 'mine' on the suffix) is named in the v11 note."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 23 verses end to end against the 26 candidate groups and the added units the table cannot see. Every candidate difference is licensed by the source or by a different ASV rendering: אֶרֶץ takes a supplied 'the' in v1 and a bare 'earth' beside its written article in v4; בְּרִית holds 'a covenant' in v5 because the suffix there is realized as 'with me' and 'covenant' in v16 because the suffix holds 'my'; the v9 לֹא holds 'no ... Nor' under rule 25's distributed negative (asyndetic second colon) while v12's holds a plain 'not'; the two בְּ of v20 and the one of v23 are 'against' where the ASV wrote a preposition and unrepresented where it promoted the object to a direct object; the v16 waw takes 'And that' while the v18 apodosis waw is unrendered.",
+    "The three genitive-predicate clauses are treated alike: לִי → 'is mine' (vv10, 12) and עִמָּדִי → 'are mine' (v11) each fuse preposition, suffix and copula, headed on 'mine' under rule 49's closing paragraph; recorded as a convention because v11 extends that paragraph's לְ to עִמָּד. תּוֹדָה → 'the sacrifice of thanksgiving' is read identically in vv14 and 23. The two fused compounds מֵעָל (v4, R+Ncmsa, head on the noun) and לְנֶגֶד (v8, R+R, head on the first preposition) differ in source head only because MACULA tags them differently, which is what rule 23 directs.",
+    "Supplied English is marked consistently: connectives no waw answers to are added in v10 ('And'), v20 ('and') and v21 ('But'); the v21 complementizer 'that', the v7 appositional 'even', the supplied objects of v21 and v22, and the v23 'his' and 'aright' are all added, and nowhere is a comparable word folded into a neighbour. One judgment call left standing: v10 gives the 'a' of 'a thousand hills' to the numeral as its own English form (as rule 42 reads 'a hundred and twelve') rather than to the construct הַר under rule 29's attributive-rectum sentence; a later reader may prefer the other, and it is a single occurrence.",
+    "BSB disagreements (7 tokens) are all documented convention differences and none is an error: the v7 paragogic he (rule 32), the v10 archaic connecting suffix on חַיְתוֹ (its 'living' gloss is a display artefact, rule 39), the v12 dative לְ and the v20/v23 בְּ silenced by the ASV's recasting (rule 40), the v18 apodosis waw (rule 14) and the v18 suffix whose referent the ASV leaves as the gapped subject of 'hast been partaker'.",
+    "The two notes the validator flags as repeating ('Supplied the joins the noun', 'Supplied the on the construct') restate rules 15 and 29 and need no convention. Nothing here generalises beyond the chapter with corpus support, so no promotions or amendments."
+  ]
+}

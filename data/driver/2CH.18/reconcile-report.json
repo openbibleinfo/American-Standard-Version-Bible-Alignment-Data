@@ -1,0 +1,26 @@
+{
+  "chapter": "2CH.18",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2CH.18.7"
+  ],
+  "rejected": {},
+  "conventions": [
+    "מֵאֹתוֹ after דָּרַשׁ, where MACULA tags the אֵת as the object marker (To) and not the preposition (R): מִן takes whatever preposition the ASV writes for the relation (of in 18.6, by in 18.7), the marker is its own unrepresented unit under rule 16, and the suffix takes its pronoun or relative (him, whom). Do not fuse the marker into מִן as a compound preposition; rule 23's מֵאֵת compound is the R-tagged form, as in 18.23 מֵאִתִּי → from."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked every candidate group against the ASV rendering: the waw, article, object-marker, preposition and pronoun buckets all track what the ASV wrote (Now/Then/So/but/for/that/therefore/howbeit/wherefore for waws; the/that/∅ for articles by rules 29 and 41; unto/to for אֶל), and the added units (supplied it/him objects in 18.5, 18.11, 18.21; supplied possessives in 18.9, 18.33, 18.34; italic supplies in 18.2, 18.18, 18.31; cleft-free supplied verb declare in 18.12; supplied that in 18.17) are marked the same way wherever the construction recurs.",
+    "One real split: מֵאֹתוֹ (מִן + To-tagged אֵת + suffix) in 18.6 → inquire of him gives of to מִן, leaves the marker unrepresented and him to the suffix, while the identical string in 18.7 → by whom we may inquire fused מִן and the marker into one unit by. MACULA tags both markers To (H853), so rule 16 governs both: the marker takes English only where no other morpheme licenses the word, and מִן licenses it in each verse. 18.7 is patched to the 18.6 division; the R-tagged מֵאִתִּי of 18.23 is rule 23's compound and is unaffected.",
+    "Construct-chain articles are consistent with rule 29 across the chapter: arthrous recta (the hand of the king, the captains of the chariots, the governor of the city, the words of the prophets) give each the to its own word; the anarthrous rectum of 18.18 (the host of heaven) fronts the article's the; the possessive-rendered rectum of 18.30 (his chariots) leaves the article unrepresented and the construct with the supplied the, as rule 41 directs.",
+    "BSB disagreements are all documented convention differences: silenced prepositions and articles, the object marker beneath מִן in 18.6, suffixes swallowed by the fused adverbials always (18.7) and at a venture (18.33), the unrendered oath כִּי in 18.13, the apodosis waw of 18.14, the waw inside the recast בֵּין … וּבֵין of 18.33, the resumptive suffix of 18.16, and the periphrastic הָיָה of 18.34. None is an error.",
+    "No promotion: the To-tagged אֵת after מִן is a tagging pattern rule 16 already disposes of by its own terms, and no corpus precedent for that tag combination was supplied to carry a rule."
+  ]
+}

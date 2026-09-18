@@ -1,0 +1,177 @@
+{
+  "alignments": [
+    {
+      "note": "Conjunction waw -> And (rule 14).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Explicit subject noun is its own unit (rule 17).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Reflexive dative recast as 'Beware thou'; no English word left for the preposition (rule 40).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Suffix takes the pronoun (rule 40).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "pen carries both complementizer and negation; unit discontinuous (rules 30, 35).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t011"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "'bring ... again' renders the hiphil of shuv; unit discontinuous (rule 25).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t015"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Object written bare (rule 16).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "sham plus the directive he fused into the single word 'thither', which carries both the place and the direction (rule 30); head on the lexeme-bearing morpheme (rule 24). The competing reading marks the directive he unrepresented, but that leaves an English word carrying a morpheme's sense outside its unit, and GEN.24.29 fuses the same morpheme in hachutsah -> 'out'.",
+      "source": [
+        "s014",
+        "s015"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "GEN.24.6",
+  "review_notes": [
+    "s014 and s015 now share one unit for 'thither', headed on sham; the directive he was previously unrepresented.",
+    "Reconciled with GEN.24.29, where the directive he joins the one-word fusion, and with GEN.24.16, 24.32, 24.45, 24.52, 24.67, where it takes the written direction word."
+  ]
+}

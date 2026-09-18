@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "2a89f76d8f4473d9dd1de726659a7e8551f83f2338005d76476d4eecc8ecc8f7",
+  "contract_version": "ot-hebrew-verse-v167",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: 23 source ids and 32 target ids each used once across 22 units.",
+    "Flagged three-morpheme unit retained: עֲבוֹדָה + waw + עֲבוֹדָה → 'every manner of service'. Accounting each morpheme, only 'service' writes a lexeme and both nouns write that same one, while 'every' answers to the distributive repetition as a whole; splitting would either orphan 'every' or mark as unrepresented morphemes whose sense the ASV has written inside that word, which rule 22's closing paragraph forbids. Source head is the first token as rule 6's deterministic anchor, since no single morpheme is uniquely defensible; target head is the lexical anchor 'service'. The rule 22 alternative is named in the unit note.",
+    "The opening 'they' is `added` because rule 20 limits the construction's supply to the copula and a presentative dummy, and no morpheme in this verse denotes that subject; the alternative attaching it to the participle is recorded.",
+    "סַבָּלִים → 'bearers of burdens' heads on 'bearers'; 'burdens' is the near-tie alternative under rule 31's subtraction."
+  ],
+  "ref": "2CH.34.13",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

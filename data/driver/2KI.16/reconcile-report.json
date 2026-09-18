@@ -1,0 +1,29 @@
+{
+  "chapter": "2KI.16",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Compound prepositions and preposition-plus-suffix pairs are divided by the number of English words the ASV spends on them, not by lemma. One word for the pair fuses under rule 30 — מֵאֵת → from (16.14), לִפְנֵי → was before (16.14), מִפְּנֵי → because of (16.18), עָלָיו → thereon (16.12) — and a word for each morpheme splits under rule 2 — מִן + פְּנֵי → from before (16.3), מֵעֲלֵיהֶם and מֵעַל → from off (16.17), לִקְרַאת → to meet (16.10), עָלָיו → upon it (16.15). The same lemma appearing on both sides of that line is the ASV's doing and is not a split to reconcile.",
+    "The ASV writes his for the article on הַמִּזְבֵּחַ where the Hebrew has no possessive morpheme at all (16.14, twice): nothing else licenses the word, so the article takes it and heads on it under rule 41. Where a possessive morpheme does stand in the clause the article is left with nothing and that morpheme takes the determiner — 16.13's אֲשֶׁר לוֹ is recast as his peace offerings, the suffix taking his while the relative, the לְ and the article are each unrepresented. Read the clause, not the noun phrase's edges, before placing a written his.",
+    "The directive he is read by what the single English word carries. Where the ASV writes a word of its own for the motion it is its own unit (16.9, קִירָה → to Kir); where one English word carries the host's sense and the direction together it fuses under rules 30 and 32 (16.18, חִיצוֹנָה → without); and where the ASV renders the phrase with the host noun's own ordinary word and states no direction at all, the he is unrepresented (16.14, צָפוֹנָה → the north side, where north is the noun's own word and nothing carries the directional force).",
+    "The ASV writes the title king Ahaz anarthrously throughout, so the article on הַמֶּלֶךְ before the name is unrepresented at 16.10 (twice), 16.11 (twice), 16.15, 16.16 and 16.17. An article before מֶלֶךְ standing without the name takes the written the as usual (16.12, three times). Do not supply a the for the title."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v171",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 20 verses end to end against the candidate table and the dump. No construction is analysed two ways with nothing in the source or the ASV to license the difference; the patches array is empty.",
+    "Compound prepositions were the largest apparent candidate and are licensed throughout by the ASV's own word count under rule 30. One English word for the pair fuses: מֵאֵת → from (16.14, headed on מִן per rule 23), לִפְנֵי → was before (16.14), מִפְּנֵי → because of (16.18), עָלָיו → thereon (16.12). A word for each morpheme splits: מִן+פְּנֵי → from before (16.3), מֵעֲלֵיהֶם and מֵעַל → from off (16.17, twice), לִקְרַאת → to meet (16.10, named in rule 30), עָלָיו → upon it (16.15). Same lemma, different ASV rendering, so not a split.",
+    "Articles: the chapter counts the ASV's the's against the morphemes standing before each word, uniformly. A present article on the rectum takes the written the wherever the rendering is arthrous, attributive or possessive (16.3, 16.8, 16.10, 16.15 four times, 16.17, 16.18, 16.19); the construct takes a supplied the only where the ASV writes a second one; agreement articles beside a single written the are unrepresented (16.14, 16.15, 16.17). No verse departs from this.",
+    "Waws: every occurrence is read off the ASV under rule 14's open list (And, and, But, So, Thus, Now, but, with). The two unrepresented waws (16.12 s007, 16.14 s011) are both apodosis or resumptive waws for which the ASV opens the clause bare, and the And when of 16.12 s001 is one rendering of a single waw under rule 55. The two treatments agree with each other.",
+    "The table is blind to added units, so those were read from the dump: three, all supplied object pronouns in clauses with no object morpheme (16.5 him, 16.8 it, 16.11 it). All three are treated alike under rule 44, and every clause that does write an object morpheme gives the pronoun to that morpheme (16.9, 16.14, 16.17). No verse folds a supplied object into its verb.",
+    "BSB disagreements: none is a genuine error. The object markers (5), articles (17), prepositions (6), the trailing absolute שָׁנָה of 16.1, the two apodosis waws and the directive he of 16.14 are all the documented convention differences (rules 16, 22, 26, 27, 29, 32, 40, 47). The one substantive candidate is the resumptive suffix of אֹתָם in 16.3, marked unrepresented beside the relative's single whom; rule 22 and rule 43's אֲשֶׁר בּוֹ precedent settle it that way, and the verse note already names the competing fused reading.",
+    "Four chapter-wide judgments are recorded in the conventions log; no promotions or amendments. The directive-he distinction (16.14 unrepresented against 16.18 fused) is a real gap in rule 32's guidance, but it is narrow, the alignment stands either way, and no corpus counts for Sd tokens were before me, so it is logged for this chapter rather than written into the contract."
+  ]
+}

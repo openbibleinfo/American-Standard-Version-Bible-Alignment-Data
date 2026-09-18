@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "92d4109ae352d22f0e9e478f26a17b3cc2a717b308ae241f200664ae42c85088",
+  "contract_version": "nt-greek-verse-v107",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "ἕως οὗ is one aligned unit on the single word 'until', on the model of rule 50's ἕως ἄν → till; splitting it would leave one token with no English word, and rule 39's test keeps the unit aligned.",
+    "Μηδενί takes 'to no man' with the case preposition riding along (rule 21) and heads on 'no', the supplied 'man' being the generic completion (rules 17, 69).",
+    "νεκρῶν is substantival and takes the supplied determiner itself (rule 58); the genitive τοῦ ἀνθρώπου has no English determiner, so its article is unrepresented and 'of' stays with the noun (rules 21, 23)."
+  ],
+  "ref": "MAT.17.9",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

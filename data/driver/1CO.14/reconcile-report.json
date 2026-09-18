@@ -1,0 +1,28 @@
+{
+  "chapter": "1CO.14",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "An ASV repetition whose source tokens are all spent is `added` under rule 103 — *is* *for* *a* *sign* at 14:22, where εἰσιν, εἰς and σημεῖον are spent on the first clause, and *a* *God* at 14:33, where θεός is spent on the subject. A word repeated inside a fixed English idiom rendering a single source token is not: `καθ᾽ ἕνα` → *one by one* at 14:31 keeps both occurrences of *one* on ἕνα as one discontinuous unit under rule 15. The test is rule 103's own — whether the licensing token's English expression is still incomplete — and never the bare recurrence of the word.",
+    "A conditional particle and `μή` are joined into one `noncompositional` unit only where the ASV writes a single English word for them. `ἐὰν μή` → *unless* is one unit at 14:6 and 14:9, and `ἐκτὸς εἰ μή` → *except* at 14:5 takes the governing adverb into the same unit, no separate English word standing for it. Where the ASV writes two words the pair splits and each particle takes its own: `ἐὰν … μή` → *if* … *no* at 14:28.",
+    "Where the ASV writes a complex prepositional frame once over a coordinated series of expressed prepositions, the frame rides undivided with the first under rule 67 and each later preposition takes only the bare word the ASV wrote for it. 14:6 gives *by way of* to the first `ἐν`, headed on *by* with the corpus units that head *by reason of* on the prepositional word, and a bare *of* to each of the three following `ἐν`. Heading the frame on its supplied noun remains defensible under rule 67's divided case for a proper preposition."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v88",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 40 verses end to end against the 62-lemma candidate table and separately for `added`/supplied-word handling, which the table cannot see. No construction is analysed two ways without something in the source licensing the difference, so no patch is returned.",
+    "The candidate groups that looked like splits are all source- or ASV-licensed. ὁ: aligned to *the* where the ASV writes a determiner (14:5, 14:21, 14:33, 14:34), to a pronoun before a participle under rule 32 (14:2, 14:3, 14:4, 14:5, 14:11, 14:13, 14:16, 14:22), to a single *what* under rule 90 (14:7, 14:9), and `unrepresented` only where another source word occupies the determiner slot (μου 14:14/14:19, αὐτοῦ 14:25, σῇ 14:16, ἴδιος 14:35, οὗτος 14:21), where the ASV writes no determiner at all (14:20 ×3, 14:22 ×2, 14:7 second τό), before a name (14:18, 14:25 ×2, 14:28, 14:33, 14:36), inside a noncompositional phrase under rule 93 (14:23), or as the nominalizer of an articular infinitive (14:39 ×2).",
+    "συνέρχομαι is the one pair that looks like a split and is not: 14:23 gives *together* to the noncompositional ἐπὶ τὸ αὐτό standing in the clause and 14:26 keeps it inside the verb where no such phrase stands — rule 106 names exactly that division. εἰσέρχομαι keeps *in* inside the verb in both 14:23 and 14:24. The imperative *let* rides with its verb in all ten imperatives (14:13, 14:26, 14:27, 14:28 ×2, 14:29 ×2, 14:30, 14:34, 14:38, 14:40).",
+    "θέλω heads differ by rendering, not by analysis: *would* at 14:5 and 14:35, *rather* at 14:19, each the meaning-bearing word of the frame the ASV wrote, with *had* and *have* the auxiliaries rule 17 forbids. κατά takes its own *by* at 14:27 and 14:31 and *in* at 14:40; the supplied *by* at 14:29 folds onto δύο because no preposition is expressed there.",
+    "BSB: all nine disagreements are convention differences and none is an error. 14:19 τῷ, 14:25 τῆς and 14:35 τούς are emptied by a competing possessor under rules 20 and 47; 14:20 τῇ/ταῖς and 14:7 τό have no English determiner to anchor under rule 23; 14:23 τό is inside a noncompositional unit under rule 93; 14:8 καί is emptied by rule 65's English-side test on καὶ γάρ → *For*; 14:10 εἰ is emptied because *it may be* answers wholly to the optative τύχοι and rule 94's word count forbids a compound unit. Nothing was changed to improve the 98.4% figure.",
+    "Three conventions recorded. The other twelve repeated notes in the validation report restate rules 21, 23, 32, 51, 65, 69 and 17 and are left out: the contract already binds every verse, and logging them would bury the three that carry a judgment.",
+    "No promotions or amendments. The chapter's two non-obvious readings — the three-token `ἐκτὸς εἰ μή` cluster at 14:5 and the cleft frame *What was it that* on the disjunctive ἤ at 14:36 — each rest on a single unit here with no corpus precedent supplied for the lexeme, and a rule built on one instance is worse than none. Rule 103 already states the test that separates 14:31 from 14:22 and 14:33, so that judgment is a convention and not a widening."
+  ]
+}

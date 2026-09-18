@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "chapter": "JER.18",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JER.18.3.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'behold, he was making' is compatible with both the separate qere pronoun and the ketiv suffix construction, and no mapped textual note distinguishes them; retain the qere base fallback."
+    },
+    {
+      "unit_id": "WLC.JER.18.10.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'do that which is evil' does not distinguish the qere and ketiv forms, and no mapped textual note decides the unit; retain the qere base fallback."
+    },
+    {
+      "unit_id": "WLC.JER.18.16.v003",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV explicitly has the singular 'a perpetual hissing', distinguishing the ketiv singular form from the qere plural."
+    },
+    {
+      "unit_id": "WLC.JER.18.22.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV explicitly renders 'a pit', distinguishing the qere שׁוּחָה from the ketiv שיחה."
+    },
+    {
+      "unit_id": "WLC.JER.18.23.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's jussive wording 'let them be overthrown' distinguishes the qere וְיִהְיוּ from the ketiv והיו; the Hebrew gloss 'made to stumble' confirms the predicate's sense without favoring the ketiv."
+    }
+  ]
+}

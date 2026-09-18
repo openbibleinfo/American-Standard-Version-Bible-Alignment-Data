@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "chapter": "1TH.4",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.1TH.4.1.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV opens 'Finally then, brethren' — the inferential 'then' renders οὖν, which the omitting reading would leave with nothing behind it (ASV has 'Finally' alone where λοιπόν stands unaccompanied)."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.4.1.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders two coordinate 'that' clauses around the intervening comparison: 'we beseech and exhort you in the Lord Jesus, that, as ye received ... —that ye abound more and more.' The first 'that', standing before 'as ye received', reflects the first ἵνα, with the second resumed after the dash; the omitting reading yields only one 'that', placed after the comparison."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.4.1.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the clause explicitly: 'even as ye do walk,' set off between 'to please God' and 'that ye abound more and more'. The omitting reading leaves this wording unaccounted for."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.4.6.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is the presence of the article with κύριος. ASV reads 'because the Lord is an avenger'; English supplies 'the' with a definite title either way, so the wording does not distinguish κύριος from ὁ κύριος. Both ASV notes here are classed alternative_rendering ('Or, overreach', 'Or, told you plainly') and bear on English wording elsewhere in the verse, not on this unit."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.4.8.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is an adverbial καί inside the participial phrase 'who giveth his Holy Spirit unto you'. ASV prints no 'also' there, but it regularly leaves such an adjunctive καί untranslated, so the absence does not exclude the reading; the English permits both, and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.4.8.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the participle as a present, 'who giveth his Holy Spirit unto you'. The aorist δόντα would have been rendered 'who gave', as ASV does for aorist participles of δίδωμι."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.4.11.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'to work with your hands', where 'your' answers to ὑμῶν alone. The same verse shows ASV's handling of ἴδιος — τὰ ἴδια is rendered 'your own business' — so the added ἰδίαις would have produced 'your own hands'."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.4.13.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders a present participle, 'concerning them that fall asleep'. The perfect κεκοιμημένων would have given the completed-state rendering ASV uses for the perfect and aorist of this verb, 'them that are fallen asleep' (as in the following verses)."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "chapter": "MRK.16",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.MRK.16.1.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Article on the proper name only; ASV 'Mary the mother of James' renders the name identically whether or not the Greek article stands, and no note is mapped here (the 'Or, Jacob' note is an alternative_rendering of Ἰακώβου)."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.16.1.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Article plus genitive article versus their omission; ASV 'Mary the mother of James' identifies her by the same genitive relation either way, and the supplied 'the mother of' is an English idiom for the bare genitive, not a witness to ἡ τοῦ."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.16.2.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "All three readings are the ordinary Greek idiom for the first day of the week; ASV 'on the first day of the week' renders any of them without distinguishing article or case."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.16.3.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἐκ and ἀπὸ are both rendered 'from' before τῆς θύρας; ASV 'from the door of the tomb' does not distinguish the prepositions."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.16.4.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἀποκυλίω and ἀνακυλίω both denote rolling the stone off the entrance and are both idiomatically Englished 'rolled back'; ASV's 'roll us away' in v. 3 for a different clause is stylistic variation and no mapped note stands here."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.16.8.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the clause causally, 'for trembling and astonishment had come upon them', which is γάρ; the RP δέ would be the continuative 'and'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.16.8.v007",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV prints vv. 9-20 as text of the Gospel (they are rendered in full below) and relegates both the omission and the other ending to the margin: 'The two oldest Greek manuscripts, and some other authorities, omit from verse 9 to the end. Some other authorities have a different ending to the Gospel.' So the long ending stands in the text and the intermediate ending does not."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.16.9.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "παρ᾽ ἧς and ἀφ᾽ ἧς are alike rendered 'from whom'; ASV 'from whom he had cast out seven demons' does not distinguish them, and the mapped note concerns the presence of vv. 9-20, not this preposition."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.16.14.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'And afterward he was manifested' supplies a connective; the RP omission leaves ὕστερον asyndetic, which ASV would render 'Afterward' without 'And'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.16.14.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV ends the verse 'after he was risen', with nothing answering to ἐκ νεκρῶν ('from the dead'), which it renders explicitly wherever it stands."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.16.17.v011",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'these signs shall accompany them that believe' renders the compound παρακολουθήσει; it reserves 'follow' for ἀκολουθέω and its cognates, as at v. 20 'the signs that followed'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.16.17.v012",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'they shall speak with new tongues' in the text and marks the omission as the variant: 'Some ancient authorities omit new' (textual_variant), so καιναῖς stands."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.16.18.v013",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'they shall take up serpents' has nothing answering to καὶ ἐν ταῖς χερσίν ('and in their hands'), which the longer reading would require."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.16.19.v014",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'So then the Lord Jesus' renders Ἰησοῦς explicitly; the RP omission gives only 'the Lord'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.16.20.v015",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV closes the Gospel 'by the signs that followed. Amen.', rendering the added Ἀμήν in the text."
+    }
+  ]
+}

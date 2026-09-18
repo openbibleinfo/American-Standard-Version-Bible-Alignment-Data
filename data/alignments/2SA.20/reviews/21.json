@@ -1,0 +1,12 @@
+{
+  "alignment_sha256": "5cbee0cfa2e43d52a3cee3b8a61cd15a740b0d724adf5b766014e573678c64b2",
+  "contract_version": "ot-hebrew-verse-v217",
+  "notes": [
+    "Reconciliation by claude-code — corrected",
+    "לְבַדּוֹ → only: the suffix belongs inside the fused unit. The single English word carries the restriction and the reflexive referent together (rule 30), and the corpus fuses לְ + בַד + suffix into one 'only' in 25 units; leaving the suffix unrepresented beside a rendered fusion is what rule 22's closing paragraph forbids. No other edge changed.",
+    "Scoped LS17+LS06 correction independently confirmed; evidence: data/audits/retrospective-new-chapters-2026-09-12/receipts/2SA.20.21.json. Original full-review coverage is carried forward only for unchanged content. The scoped assessment and independent confirmation cover the changed candidate units and their notes; no new full-verse review is claimed. Original reviewer, date fields and contract provenance are preserved; original receipt: data/audits/retrospective-new-chapters-2026-09-12/before/2SA.20.21/review.json."
+  ],
+  "ref": "2SA.20.21",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

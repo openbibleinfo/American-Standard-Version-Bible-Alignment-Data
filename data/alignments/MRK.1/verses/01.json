@@ -1,0 +1,84 @@
+{
+  "alignments": [
+    {
+      "note": "Anarthrous Greek noun with supplied definite determiner: rule 51's anarthrous clause makes *The* an ordinary rule 7 helper on the noun.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Rule 21: the case preposition *of* rides with the article and the unit heads on *the*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Bare noun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Rule 17: a source noun rendered *of + noun* heads on the noun; rule 26 keeps the two names split.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Split from Ἰησοῦ under rule 26 rather than sharing a head.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Rule 97: SBLGNT.MRK.1.1.v001 is marked FALLBACK EXCLUDED BY EVIDENCE — the compatible readings r01 and r02 carry υἱοῦ θεοῦ while the projection carries the bare r00-base, so the English *the Son of God* answers to source words the projection does not have. Rule 37 is ruled out: the licensing tokens stand in no verse of the projection, not in a neighbouring one.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t009",
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t010"
+    }
+  ],
+  "ref": "MRK.1.1",
+  "review_notes": [
+    "The ASV's own textual note (\"Some ancient authorities omit the Son of God\") corroborates the rule 97 reading of t009–t012."
+  ]
+}

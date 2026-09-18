@@ -1,0 +1,21 @@
+{
+  "ref": "PHP.1.6",
+  "alignments": [
+    {"source": ["s001"], "source_head": "s001", "target": ["t001", "t002"], "target_head": "t002", "status": "aligned", "confidence": "high", "note": "Participle rendered as a finite-flavoured predicate; *being* is its helper under rules 7 and 9, and the lexical *confident* heads the unit under rule 17."},
+    {"source": ["s003"], "source_head": "s003", "target": ["t003", "t004"], "target_head": "t004", "status": "aligned", "confidence": "medium", "note": "*of* is the complement helper introducing the accusative object phrase and attaches to its first element, as *of the fulness* keeps *of* with the determiner under rule 21. Attaching *of* to the noun *thing* instead remains defensible."},
+    {"source": ["s002"], "source_head": "s002", "target": ["t005", "t006"], "target_head": "t005", "status": "aligned", "confidence": "medium", "note": "The intensive pronoun is expanded with the generic noun *thing*; rule 17 heads such a unit on the intensive word itself."},
+    {"source": ["s004"], "source_head": "s004", "target": ["t007"], "target_head": "t007", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s005"], "source_head": "s005", "target": ["t008"], "target_head": "t008", "status": "aligned", "confidence": "high", "note": "Substantival article before a participle: rule 32 gives it the pronoun *he* only, and leaves the relativizer to the participle."},
+    {"source": ["s006"], "source_head": "s006", "target": ["t009", "t010"], "target_head": "t010", "status": "aligned", "confidence": "high", "note": "The supplied relativizer *who* is the participle's helper under rules 7 and 32; the head is the lexical verb."},
+    {"source": ["s009"], "source_head": "s009", "target": ["t011", "t013"], "target_head": "t013", "status": "aligned", "confidence": "high", "note": "The indefinite article is the noun's English helper under rule 7; *good* stays separate, so no unrelated word is absorbed (rule 15)."},
+    {"source": ["s010"], "source_head": "s010", "target": ["t012"], "target_head": "t012", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s007"], "source_head": "s007", "target": ["t014"], "target_head": "t014", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s008"], "source_head": "s008", "target": ["t015"], "target_head": "t015", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s011"], "source_head": "s011", "target": ["t016", "t017", "t018"], "target_head": "t017", "status": "aligned", "confidence": "medium", "note": "Future indicative takes its auxiliary and its supplied object pronoun as helpers under rule 7; head is the lexical verb, not the auxiliary (rule 17). Treating *it* as `added` remains defensible, but rule 7 forbids marking a licensed pronoun `added` mechanically."},
+    {"source": ["s012"], "source_head": "s012", "target": ["t019"], "target_head": "t019", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s013"], "source_head": "s013", "target": ["t020", "t021"], "target_head": "t021", "status": "aligned", "confidence": "high", "note": "Anarthrous Greek noun; the supplied English *the* is its helper rather than the realization of any article."},
+    {"source": ["s014"], "source_head": "s014", "target": ["t022", "t023"], "target_head": "t023", "status": "aligned", "confidence": "high", "note": "Genitive noun rendered *of + noun*: rule 17 heads on the noun, and the names are split rather than sharing one head."},
+    {"source": ["s015"], "source_head": "s015", "target": ["t024"], "target_head": "t024", "status": "aligned", "confidence": "high", "note": ""}
+  ],
+  "review_notes": []
+}

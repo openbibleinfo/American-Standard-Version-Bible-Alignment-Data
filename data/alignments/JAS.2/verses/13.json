@@ -1,0 +1,149 @@
+{
+  "alignments": [
+    {
+      "note": "Postpositive γάρ rendered by the verse-initial For.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Article governing κρίσις; the ASV writes a bare judgment with no determiner, so under rules 21 and 23 the article anchors nothing.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Subject noun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Privative ἀνέλεος rendered by without + noun, headed on mercy under rule 84, where the corpus is thirteen units to none and the head is not in doubt; the supplied copula is a rule 53 helper on the adjectival predicate, which is what it is predicated of, not on the subject noun.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Substantival article before a participle: under rule 32 it takes the pronoun him and nothing else, the dative's case preposition to riding along as in rule 21. The ASV writes two English words for the pair, so rule 90's single-relativizer case does not arise and the ordinary split applies.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Ordinary negative μή realized by the determiner no. Rules 41 and 59 do not apply: ἔλεος is a plain noun with its own English word, not a negative indefinite and not the τις/τι of rule 59's contrast, so nothing empties the negator and nothing joins the pair.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Attributive participle recast as a finite relative clause; the relativizer that and the auxiliary hath are helpers under rules 7 and 9, headed on the lexical verb showed per rule 17.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Object of the participle. Variant SBLGNT.JAS.2.13.v011 is underdetermined and the r00-base projection carrying this token is compatible with the ASV, and the packet marks no excluded fallback, so rule 97 is not in play.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Finite verb.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Subject of κατακαυχᾶται; the ASV's second mercy, standing before the verb.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Genitive complement of κατακαυχᾶται. No Greek preposition is expressed, so the supplied against realizes the case and stays with the noun under rules 21 and 36, headed on judgment.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "JAS.2.13",
+  "review_notes": [
+    "Reviewed against the contract and returned unchanged; every s### and t### is partitioned exactly once and each aligned unit has nonempty arrays with both heads inside them.",
+    "s004: the head on t005 mercy is settled rather than a judgment call — rule 84 records thirteen unhedged corpus units for a privative rendered by without + noun and none headed on without, so no hedge is recorded here. The copula placement is the only live question, and rule 53 puts it on the adjectival predicate rather than on the subject noun κρίσις, an adjectival predicate being a source token whose own English the copula predicates. Rule 63's noun-phrase exception is not in point: it is the predicate that is a noun phrase there, and here the predicate is an adjective.",
+    "s005/s007: the split follows rule 32 — the article supplies the pronoun and nothing else, the participle carries the relative clause. Rule 31 is not the contrast, since the article governs no expressed head noun; rule 90 is not in point either, because the ASV writes two English words (him, that) rather than a single relativizer.",
+    "s005: t006 to is treated as the dative's case preposition riding with the substantival article rather than as a separate unit; rule 21 forbids a bare of/to unit on the article, and rule 32 caps the article's share at the pronoun.",
+    "s006/s008: kept split. The competing reading would join μή with ἔλεος into one unit on the model of rule 59's plain-indefinite arm, but that arm wants a single English negative word spelling both elements (nothing, no man); here the ASV writes two words and mercy answers to ἔλεος on its own, so rule 2 keeps them apart. Rules 41 and 59's emptying of the negator is likewise unavailable, ἔλεος carrying no negation to bear the English alone.",
+    "s011: against is supplied for the genitive κατακαυχάομαι governs, with no Greek preposition expressed for it to answer to, so it rides with the noun and does not create a unit of its own."
+  ]
+}

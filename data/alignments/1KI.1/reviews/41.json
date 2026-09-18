@@ -1,0 +1,9 @@
+{
+  "alignment_sha256": "c5ae5188b128f51939057b57518e4bee4157123d00a128876792dfd2cedd6cf5",
+  "contract_version": "ot-hebrew-verse-v3",
+  "notes": [
+    "Checked partition, morpheme-by-morpheme edges, and heads against the token table. All 29 source and 42 target IDs partition exactly once; et unrepresented, both supplied copulas (were with, is this noise) and the supplied the/this on the construct qol are correctly attached. Moved the head of s013 (killu) from made to end: had made an end is a periphrasis whose light verb carries no Hebrew lexeme, so rule 24 puts the head on the content word."
+  ],
+  "ref": "1KI.1.41",
+  "status": "reviewed"
+}

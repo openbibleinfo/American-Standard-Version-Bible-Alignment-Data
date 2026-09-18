@@ -1,0 +1,174 @@
+{
+  "alignments": [
+    {
+      "note": "Inflected verb takes its English subject pronoun as a rule 7/9 helper, headed on the lexical verb *Know*. The supplied complementizer *that* is not here: rule 85 places it on the non-finite complement (the participle), not on the governing finite verb.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Rule 20 proper: the genitive pronoun ἡμῶν is free and takes the English possessive *our*, so the article governing ἀδελφόν realizes nothing.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Bare noun; its determiner slot is occupied by the possessive on s004.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Genitive pronoun rendered by the possessive *our* under rule 20.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Name split from ἀδελφόν as an independently recoverable correspondence under rule 26.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Accusative-participle complement expanded into a finite clause: the supplied complementizer *that* belongs to the participle under rule 85, and the auxiliaries *hath been* ride along under rules 7 and 9. Head on *liberty* under rules 17 and 91: *set at liberty* is a set+complement frame whose complement carries the lexeme (cf. `set` frames headed on the complement at GAL.5.1, 1PE.1.13), and *set* is the empty support word. Heading on *set* remains defensible if the frame is read as an ordinary passive verb phrase.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t007",
+        "t008",
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Preposition realized by the English preposition governing the relative under rule 36.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Relative pronoun on its own English word under rule 2.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Ordinary conditional ἐάν, aligned to *if* — rule 72's generalizing arm is not in question, no relative-plus-particle compression standing here.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Comparative adverb rendered by the single adverb *shortly*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Subjunctive with its English subject pronoun as a rule 9 helper, headed on the lexical verb *come*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Future indicative with supplied subject and future auxiliary as rule 9 helpers, headed on the lexical verb *see*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Accusative object pronoun on its own English word.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    }
+  ],
+  "ref": "HEB.13.23",
+  "review_notes": [
+    "Every s### and t### id is partitioned exactly once: 13 source, 21 target.",
+    "s002 is the only unrepresented unit; rule 20 proper applies because ἡμῶν is free and carries *our* itself.",
+    "*that* (t003) is placed on the participle s006 per rule 85 rather than on the finite γινώσκετε; JHN.5.39's contrary placement is the hedged dissent rule 85 names.",
+    "Head of s006 taken on *liberty* per rules 17 and 91's set+complement precedent; the competing head on *set* is named in the unit's note."
+  ]
+}

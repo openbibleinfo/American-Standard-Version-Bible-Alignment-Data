@@ -1,0 +1,120 @@
+{
+  "alignments": [
+    {
+      "note": "Imperative rendered *hope*; the ASV writes no subject pronoun for it, the single supplied word standing before the vocative noun.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Vocative taking the supplied *O* into its own unit under rule 36, which is never `added`.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Preposition rendered *in*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Divine name.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Preposition rendered *From*, opening the temporal range.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The adverb `עַתָּה` is rendered by the whole phrase *this time forth*; the supplied determiner and the particle belong to that one morpheme's rendering under rule 31, headed on *time*, the word carrying the lexeme. The competing head is *forth*, but dropping *time* leaves the phrase saying nothing.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t009"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Waw rendered *and* under rule 14.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "`עַד` takes the *for* the ASV writes for its own relation; the waw beside it already holds the connective written for it, so no correlative pair is in question under rule 26.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Noun rendered *evermore*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    }
+  ],
+  "ref": "PSA.131.3",
+  "review_notes": [
+    "The `מִן … עַד` range writes its second endpoint with a waw, so the waw takes the *and* and `עַד` takes the *for* written for its own relation (rule 26).",
+    "No source token is unrepresented in this verse and no target token is `added`."
+  ]
+}

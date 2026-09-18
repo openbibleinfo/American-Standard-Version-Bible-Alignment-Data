@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "chapter": "2CO.2",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.2CO.2.1.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text reads 'But I determined this for myself', rendering the connective as adversative de; the mapped textual_variant note 'Some ancient authorities read For.' puts gar in the margin, so the text follows r01."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.2.2.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "English 'who then is he that maketh me glad' needs a copula under either reading; the presence or absence of estin leaves no trace in the ASV and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.2.3.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads simply 'And I wrote this very thing' with no dative pronoun; the added hymin would surface as 'I wrote unto you', which the ASV does not have here or in italics."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.2.3.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'lest, when I came, I should have sorrow' renders either the aorist subjunctive scho or the indicative echo after me; the ASV's modal English does not distinguish mood and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.2.7.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text has 'ye should rather forgive him', rendering mallon, and the mapped textual_variant note 'Some ancient authorities omit rather.' assigns the omission to the margin."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.2.10.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV order 'for what I also have forgiven, if I have forgiven anything' follows ho kecharismai before ei ti, excluding the RP transposition ei ti kecharismai ho (r02); r00 and r01 differ only in punctuation spacing, which the English cannot distinguish. The mapped note is an alternative_rendering and decides nothing."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.2.16.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'a savor from death unto death', where 'from' renders ek against the bare genitive of the omission."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.2.16.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'a savor from life unto life', where 'from' renders ek against the bare genitive of the omission."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.2.17.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'as the many', rendering hoi polloi; loipoi would give 'the rest', which the ASV does not have. The mapped note concerns the rendering of kapeleuontes and decides nothing here."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.2.17.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'in the sight of God' renders katenanti and katenopion alike, and the ASV cannot show the RP article before theou; the mapped note is an alternative_rendering about kapeleuontes."
+    }
+  ]
+}

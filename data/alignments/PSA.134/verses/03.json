@@ -1,0 +1,130 @@
+{
+  "alignments": [
+    {
+      "note": "Jussive verb rendered *bless*; the ASV fronts the subject name before it, so the unit stands after t001 under rule 25.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Object suffix realized by *thee* (rule 18).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Explicit subject noun taking only its own English word (rule 20).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Ablative `מִן` rendered by the multi-word preposition *out of*, headed on the token carrying the lexeme under rule 24.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Place name.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Anarthrous participle used substantivally; no article morpheme is present, so the supplied *he that* joins the participle's own unit under rule 46 and the head goes to the word carrying the lexeme (rule 31). The competing reading would head on *he*, but rule 46 expressly ranks the substantive's own lexeme above a pronoun the ASV supplied.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Appositional *Even* standing before a phrase no object marker and no connective morpheme reaches. The clause writes no waw and no `אֵת` here, so under rule 16's limit and rule 14's closing sentences no morpheme licenses the word and it is its own `added` unit; it is not folded into the participle's unit standing beside it (rule 42's reasoning about a surplus *and*).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Object of the participle.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Conjunction rendered *and* (rule 14).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Second coordinated object.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "PSA.134.3",
+  "review_notes": [
+    "`עֹשֵׂה` is an anarthrous substantival participle, so its supplied *he that* joins its own unit under rule 46 and is not `added`; the head is *made*, not the supplied pronoun.",
+    "*Even* is marked `added`: the verse writes no object marker for it to stand on and no connective morpheme in that colon, so neither rule 16's appositional *even* nor rule 14's connective reaches it."
+  ]
+}

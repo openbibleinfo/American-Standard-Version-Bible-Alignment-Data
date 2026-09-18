@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "chapter": "ROM.12",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.ROM.12.1.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only: 'acceptable to God' renders either euareston to theo or to theo euareston identically, and English word order here is fixed by its own grammar. No ASV note is mapped to this unit; the two greek_gloss notes ('well-pleasing', 'belonging to the reason') gloss vocabulary and the alternative_rendering note ('Or, worship') concerns English wording, so neither can decide a reading. Base fallback retained."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.12.2.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The candidates differ only as -sthe/-sthai, an itacistic pair distinguishing a second-plural imperative from an infinitive used imperativally. ASV 'be not fashioned' is a direct prohibition, which is the natural rendering of either form, so the English does not distinguish them. Both mapped notes are alternative_rendering ('Or, age'; the alternate construal of the will of God) and cannot decide a reading. Base fallback retained."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.12.2.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Same itacistic pair as the preceding unit: metamorphousthe (imperative) against metamorphousthai (infinitive). ASV 'be ye transformed' is a command in English, which renders an imperatival infinitive as readily as an imperative; the explicit 'ye' is English idiom for the imperative subject and not a witness to the Greek ending. No textual_variant note is mapped here. Base fallback retained."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.12.2.v004",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'the renewing of your mind' with 'your' in roman type. The ASV italicizes words supplied without warrant in the Greek, so an unitalicized possessive answers to a pronoun in the text: nous humon. The bare noos would have yielded 'the mind' or an italicized supply."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.12.4.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only: polla mele and mele polla both come into English as 'many members', since the attributive adjective must precede its noun in English regardless of the Greek order. No note is attached to ROM.12.4. Base fallback retained."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.12.5.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is the gender of the article in the distributive phrase to (or ho) de kath' heis. ASV renders the phrase adverbially as 'and severally members one of another', wording that reflects the idiom as a whole and leaves the article's form untraceable in the English. No note is attached to ROM.12.5. Base fallback retained."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.12.14.v007",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'Bless them that persecute you' with 'you' in roman type. The bare participle diokontas is objectless and would give 'them that persecute'; the unitalicized object answers to humas in the Greek, since the ASV italicizes objects it supplies."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.12.15.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is a connective kai joining the two clauses. ASV punctuates them with a semicolon, 'Rejoice with them that rejoice; weep with them that weep' — a rendering that neither requires the conjunction nor excludes it, since a coordinating kai between parallel clauses is routinely carried by punctuation in the ASV. No note is attached to ROM.12.15. Base fallback retained."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.12.20.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV begins the verse 'But if thine enemy hunger'. The adversative 'But' renders alla and the clause opens with the conditional, matching alla ean; the RP reading Ean oun would have produced an inferential 'If therefore' or 'Therefore if', which the ASV does not have. The only note here is the (other) cross-reference to Prov. 25:21f."
+    }
+  ]
+}

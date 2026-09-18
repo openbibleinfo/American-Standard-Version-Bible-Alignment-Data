@@ -1,0 +1,142 @@
+{
+  "alignments": [
+    {
+      "note": "The ASV compresses the address Ἄνδρες ἀδελφοί into the single word *Brethren*, which answers wholly to ἀδελφοί; no part of it answers to ἄνδρες, so rule 39's test leaves the vocative ἄνδρες empty under rule 23. Joining the two tokens on *Brethren* remains defensible.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "ἀδελφοί → *Brethren*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Connective καί → *and*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "πατέρες → *fathers*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Imperative with its supplied English subject *ye* as a rule 7 helper; rule 9 heads on the lexical verb *hear*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The genitive object μου is realized as the subject *I* of the relative clause the ASV builds around the noun phrase.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Rule 31: an article preceding its expressed head noun with a verbless (prepositional) modifier between takes the English determiner together with the supplied relativizer, discontinuously under rule 15, headed on *the*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t008"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Rule 62: the supplied lexical verb *make* rides with the preposition whose phrase is the predicate; rule 62 heads such a unit on the word realizing the preposition, *unto*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "ὑμᾶς → *you*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "νυνί → *now*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "ἀπολογίας → *defence*, bare, its determiner having gone to the article standing in front of it.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    }
+  ],
+  "ref": "ACT.22.1",
+  "review_notes": [
+    "Ἄνδρες left unrepresented under rule 39's test; the competing join on *Brethren* is named in its note.",
+    "The supplied relative frame is divided under rules 31 and 62: *the … which* to the article, *make unto* to πρός."
+  ]
+}

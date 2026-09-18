@@ -1,0 +1,26 @@
+{
+  "chapter": "1CH.5",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "יָחַשׂ (hithpael, 'enrol by genealogy') rendered with a supplied English noun that writes its lexeme — 'the genealogy be reckoned' (5.1), 'the genealogy was reckoned' (5.7), 'were reckoned by genealogies' (5.17) — is one unit on the verb under rule 44's lexeme-carrying-noun clause, headed on genealogy/genealogies, not a supplied subject noun marked added under rule 17. The competing reading (noun added, head on reckoned) is named in each note; a later chapter that meets this verb should read the corpus for it before departing.",
+    "The specifying לְ of וַיַּגְלֵם לָראוּבֵנִי וְלַגָּדִי וְלַחֲצִי (5.26) takes the ASV's appositional 'even' under rule 11, since it stands on the very phrase the word introduces; the repeated לְ on each later member, for which the ASV writes only the waw's 'and', is unrepresented under rule 40.",
+    "Two-token proper names (Baal | meon, Baal | hermon, Tilgath | pilneser) are split token to English word; where the name is a rectum the chain's 'of' joins the first token (5.26 'of Tilgath'), and where the ASV writes no 'of' both tokens are bare (5.6)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 26 verses end to end against the 42-lemma candidate table. Every multi-treatment bucket is licensed by the ASV's own wording (waw → and/but/even/with/who; suffix → their/them/these; כִּי → for/because; עַד → unto/until) or by a different construction in the source (5.8 וְעַד splits even|unto on waw|עַד while 5.9's waw-less עַד holds even unto whole, rule 16; 5.8 הוּא → who vs 5.10 waw → who, the two sides of rule 17).",
+    "The one construction that recurs across three verses — יָחַשׂ rendered 'the genealogy be/was reckoned' (5.1, 5.7) and 'were reckoned by genealogies' (5.17) — is treated the same way each time: the supplied noun carries the verb's lexeme and joins the verb's unit under rule 44, headed on genealogy/genealogies, with the 'the genealogy added, head reckoned' alternative named in every note. Recorded as a convention.",
+    "Chain-with-possessive family (fathers' houses, 5.13/15/24) is uniform: לְ → of, בֵית → houses (or of houses where it is the rectum of רָאשֵׁי), אָב → fathers. Half-tribe formula (5.18/23/26) uniform: שֵׁבֶט bare tribe under rule 28, name takes of. Two-token names split token-to-word in 5.6/8/23/26, the rectum's of joining the first token in 5.26.",
+    "BSB disagreements: all seven are documented convention differences — recast לְ left bare (5.2, 5.9 after עַד holds even unto, 5.26 repeated appositional לְ), articles on toponyms and on הַיּוֹם הַזֶּה, the thousand/hundred waw of 5.18 under rule 42, and a bare-object אֵת. None is an error.",
+    "No added units in the chapter; checked that none was avoided by folding: 5.20's 'put their trust' keeps the possessive inside the light-verb idiom with the rule-18 alternative noted, and 5.10's italic 'land' sits on פְּנֵי with the alternative noted. Both are single-verse judgments, not splits. No promotion: the chapter teaches nothing the corpus shown confirms as general."
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "chapter": "1CH.25",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The chapter's teen numerals — `שְׁנֵים עָשָׂר` → *twelve* and its fellows at 25.5 and 25.18-19 — are each one `aligned` unit of the two numeral morphemes under rule 30, headed on the governing first morpheme under rule 23, and never `noncompositional`. The corpus writes both treatments for this very string (24 `aligned` against 15 `noncompositional`), so the choice is recorded rather than left to be rediscovered; all 24 of the chapter's teen numerals follow it.",
+    "In the lot roster the numeral stands substantivally with no noun to determine, so a supplied *the* joins the numeral's own unit under rules 15 and 31 (vv. 18, 20-27), and where the numeral is compound it joins the unit of the numeral the *the* stands before — *the one and twentieth* gives *the one* to `אֶחָד` and *twentieth* to `עֶשְׂרִים`, the waw taking the *and* under rule 42 (vv. 28-31). Verse 19 is the exception the source licenses: there an article morpheme stands on the numeral and takes the written *the* under rule 47, a present morpheme taking its English before a supplied reading does.",
+    "The compound name `רֹמַמְתִּי עֶזֶר` is aligned by what each verse's ASV text writes, not by the source pair. At 25.4 the ASV transliterates the two tokens as *Romamti* and *ezer*, so each morpheme has a rendering of its own, rule 30's one-rendering condition is unmet and rule 2 splits them; at 25.31 it writes the single word *Romamtiezer*, which writes both lexemes, so the two share one unit headed on the first token under rule 23. Rule 6's fallback anchor arises in neither verse."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v202",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 31 verses end to end against the candidate table. Every group it flags is the ASV rendering one word differently in different contexts, and the source licenses each difference: `הוּא` Sp3ms is *his* everywhere except 25.9, where the ASV writes one *his* for two suffixes and rule 22 marks the second unrendered; the waw of 25.6 is unrepresented because the ASV writes one *and* for three coordinated names; `עַל` is *after*, *under* or *in* as the ASV wrote it, and picks up the copula only in 25.6, where it heads the predicate of a verbless clause (rule 49) rather than an adjunct as in 25.2.",
+    "The two constructions the chapter repeats most are internally uniform. The 24 teen numerals are one `aligned` two-morpheme unit headed on the first morpheme throughout; the roster's supplied *the* joins the substantival numeral's unit in vv. 18 and 20-31 and goes to a written article only at v19, the one verse carrying an article morpheme on the numeral (rule 47). Rule 29's determiner count is applied one way throughout: arthrous rectum at 25.1, 25.2 and 25.6 (a *the* before each English noun), fronted article at 25.5 (`דִבְרֵי הָאֱלֹהִים`), fronted one level in the multi-level chain of 25.6 (`בֵּית הָאֱלֹהִים`), and the possessive reading at 25.5 (`חֹזֵה הַמֶּלֶךְ` → *the king's seer*).",
+    "`רֹמַמְתִּי עֶזֶר` is split at 25.4 and fused at 25.31. That is not a split in the sense that matters: the ASV writes two English words at 25.4 and one at 25.31, so rule 30's one-rendering condition is unmet in the first verse and met in the second. Both verses already carry review notes saying so; recorded as a convention.",
+    "All four BSB disagreements are documented convention differences, not errors. 25.5 `הָ` and 25.9 `הָ` are articles the ASV leaves unrendered (an anarthrous *God* as subject; an agreement article on the ordinal beside the noun's own, rule 47); 25.6 `וִ` is the surplus waw of a three-name list with one written *and* (rule 14); 25.9 `ו` is the second of two suffixes for which the ASV writes one *his* (rule 22). BSB attaches each to its host word by its own convention. Nothing to change.",
+    "One head left standing and worth a later reader's eye: at 25.1 the `לְ` of `לִבְנֵי אָסָף` holds *certain of* and is headed on *of*. Rule 19 heads the parallel partitive `מִן־הַבָּשָׂר` → *any of the flesh* on *any*, and rule 24 says never to head on a phrase's connective; against that, *of* is `לְ`'s own ordinary rendering (822 corpus units), which is what the verse pass weighed when it named the competing reading in its note. It is a tie decided under rule 8 inside one verse, not a cross-verse inconsistency, so it is left as accepted rather than reopened here."
+  ]
+}

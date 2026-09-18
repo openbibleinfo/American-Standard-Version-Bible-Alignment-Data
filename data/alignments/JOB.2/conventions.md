@@ -1,0 +1,7 @@
+# Job 2 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- The ASV renders הַשָּׂטָן throughout as the bare name *Satan* and writes no *the* for the phrase, so the article morpheme is `unrepresented` in all six occurrences (2.1, 2.2, 2.3, 2.4, 2.6, 2.7) and the noun takes *Satan* alone. Six of the chapter's thirteen Td disagreements with BSB are this one decision and are convention differences rather than review candidates.
+- מֵאֵת is one unit in both occurrences, fused under rule 30 whatever English the ASV spends on it: *from* at 2.7, headed on מִן, and the compound *at the hand of* at 2.10, headed on *hand* under rule 24. The 2.10 compound carries the phrase's only *the*, so the article of הָאֱלֹהִים is `unrepresented` rather than fronted onto it; the corpus reads מֵאֵת as one unit for *from*, *of* and *on the behalf of*. בְּתוֹךְ → *among* fuses on the same terms at 2.1 and 2.8.
+- A pronominal suffix on הִנֵּה (2.6 הִנּוֹ → *he*) or on עוֹד (2.3 עוֹדֶנּוּ → *he*, 2.9 עֹדְךָ → *thou*) is the subject of the verbless or participial clause and takes the English subject pronoun written for it, while the host particle keeps only its own word — the reading rule 50 gives a suffix on אַיִן, applied here to a particle that is not the existential.

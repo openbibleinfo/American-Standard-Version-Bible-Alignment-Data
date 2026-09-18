@@ -1,0 +1,27 @@
+{
+  "chapter": "SNG.1",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "An ASV-supplied comparative *as* standing before a bare nominal predicate is its own `added` unit. SNG.1.3 (*Thy name is as oil poured forth*), 1.13, 1.14 and 1.15 each write it in italic with no כְּ in the clause, and the predicate nominal takes only the supplied determiner rule 15 gives it and the copula rule 20 gives it, never the comparison. Where a כְּ is written it takes the word itself, as in 1.5 twice and 1.7.",
+    "The italic *of hair* completing תֹּרִים → *plaits* in SNG.1.10 is `added` rather than folded into that noun's unit under rule 31, because SNG.1.11 renders the same lemma by *plaits* alone with a written rectum (*plaits of gold*): the ASV's whole rendering of תּוֹר is *plaits*, and the supplied prepositional phrase completes no lexeme. A supplied generic that does complete the lexeme stays in its noun's unit, as *strings of jewels* for חֲרוּזִים (1.10) and *henna flowers* for כֹּפֶר (1.14) do.",
+    "Where the ASV recasts a verbless clause with a predicating English verb and the clause's one relational morpheme is a preposition on which the ASV has spent nothing, this chapter gives the verb to that preposition rather than marking it `added`: *have* to the לְ of לְרֵיחַ in SNG.1.3 (rule 43, the suffix already holding *Thine*) and *sat* to the בְּ of בִּמְסִבּוֹ in SNG.1.12 (rule 49). The 1.12 unit is the contestable one, since that preposition keeps its own *at*, so rule 49's subtraction test does not itself carry the verb and rule 20's supplied-lexical-verb clause is the competing reading named in the unit's note."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v142",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 21 candidate lemma groups; every multi-treatment bucket is accounted for by what the ASV writes rather than by a difference of analysis. הַ takes a written *the* on subject nouns (1.4, 1.12) and on an arthrous rectum (1.8), and is `unrepresented` where the ASV writes none for the phrase (1.11, 1.13, 1.14), with 1.1 the anarthrous-rectum fronting case of rule 29. מִן takes *than* alone in 1.2, because the adjective's *better* already carries the comparative, and *more than* in 1.4, where no adjective stands and nothing else answers to *more*. לְ takes *unto* where written (1.13, 1.14) and nothing where the ASV writes a bare indirect object (1.7, 1.11) or leaves an ethical dative unrendered (1.8). שֶׁ is causal in 1.6 and in 1.7's *For*, relative in 1.7's *O thou whom*. אָהֵב takes *do love* in 1.3 beside the explicit subject noun עֲלָמוֹת and *do they love* in 1.4 where none stands. רַעְיָה takes *O love* where the ASV writes the *O* (1.9) and a bare *love* where it does not (1.15).",
+    "Read the dump end to end for `added` units, which the candidate table cannot see. There are ten: the supplied comparative *as* four times (1.3, 1.13, 1.14, 1.15), *But* (1.6) and *And* (1.17) where no waw stands in the clause, the supplied relative *That* (1.13), the supplied objects *thy flock* and *it* (1.7), and *of hair* (1.10). Nowhere else does the chapter fold a supplied comparative, connective, relative or object into a neighbouring unit, while supplied determiners, copulas, auxiliaries and subject pronouns are folded in consistently throughout. No hidden split of the shape the briefing warns about.",
+    "The one apparent asymmetry — italic *of hair* `added` in 1.10 against *of jewels* (1.10) and *flowers* (1.14) kept inside their nouns' units under rule 31 — is licensed cross-verse rather than by the ASV italic: 1.11 renders the same lemma תּוֹר by *plaits* alone with a written rectum (*plaits of gold*), so *plaits* is the whole of what the ASV spends on that word and the supplied *of hair* completes nothing. Recorded as a convention.",
+    "Source heads on fused pairs differ between 1.3 (עַל־כֵּן → *Therefore*, headed on the first morpheme) and 1.7 (לָמָּה → *why*, headed on מָה), and this is rule 23's two branches rather than a split: עַל־כֵּן is the pair of particles that rule heads on the governing first morpheme, as כַּאֲשֶׁר is, while לָמָּה is a function morpheme with a content morpheme, as לִפְנֵי is.",
+    "BSB: all eleven listed disagreements are documented convention differences and none is a genuine error — the paragogic he of 1.7 (rule 32), four prepositions and the 1.8 dative suffix left unrendered by the ASV's recasting (rule 40), four articles for which the ASV writes no *the* (rule 29), and the suffix of סֻסָתִי in 1.9, where the ASV writes *a steed* and BSB 'my mare'. That last is a difference between the two translations, not between two alignments of one translation. No accepted edge was changed to move the aggregate.",
+    "Contestable edges left as the verse passes decided, each with its alternative already named in its own note: *have* on the לְ of 1.3, *sat* on the בְּ of 1.12, *of* on the object marker of 1.6, the three-morpheme שֶׁלִּי → *own* of 1.6, and *thy way* on the dative suffix of 1.8. The 1.12 unit is the weakest of them — the preposition keeps its own *at*, so rule 49's subtraction test does not by itself carry the verb — and it is recorded in the log rather than overturned here."
+  ]
+}

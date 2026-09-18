@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "JOS.8",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JOS.8.11.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'now there was a valley between him and Ai' renders a single reading that both candidates carry: qere בֵּינָיו and ketiv בינו are plene and defective spellings of the same word, 'between him'. The English cannot distinguish orthography, and no ASV note is mapped here, so both readings stand and the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.JOS.8.16.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'all the people that were in the city', which renders the ketiv בעיר ('in the city'), not the qere בָּעַי ('in Ai'). The mapped textual_variant note 'Another reading is, Ai' confirms the direction: the ASV translators put Ai (the qere) in the margin as the other reading and 'the city' (the ketiv) in the text."
+    }
+  ]
+}

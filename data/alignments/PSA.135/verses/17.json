@@ -1,0 +1,158 @@
+{
+  "alignments": [
+    {
+      "note": "Suffix of the possessive preposition takes the English subject pronoun of the recast possessive clause (rules 40 and 43).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Verbless possessive clause with no `הָיָה` and no existential particle: the preposition is what makes it possessive and carries the *have* (rule 43).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Possessed noun keeps its own word.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Conjunction rendered *but*, which rule 14's open list covers.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Finite verb with its subject pronoun, headed on the lexical verb (rules 17 and 24).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Negative rendered *not*, postposed in English so the unit is discontinuous from the verb under rule 25.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Corrected. The accepted alignment marked `אַף` `unrepresented` and gave the whole *Neither is there* to `אֵין`. But *Neither* carries the additive connection of `אַף` and the negation of `אֵין` together, with no English word spent on either morpheme in particular, so rule 30's one-rendering condition is met and the two share one unit, exactly as rule 35 fuses a waw with a negative into *Nor*; the *is there* is the existential frame rule 50 hands to the whole unit, which rule 30 says does not defeat the condition. Rule 22's closing paragraph forbids marking `unrepresented` a morpheme whose sense the ASV has written inside a fused rendering, and rule 11 gives a function word first to the morpheme whose sense it carries. Headed on the negative under rules 23 and 35, and on *Neither* under rule 50, which heads the existential on the negation word and never on *there*. The competing readings are (a) the accepted one, and (b) giving a bare *Neither* to `אַף` and leaving `אֵין` only *is there*, which rule 50 excludes because all 28 corpus occurrences head the existential on its negation word.",
+      "source": [
+        "s007",
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The positive existential standing under the negative takes the quantifying *any* the ASV writes for it; a present morpheme takes its English before a supplied-determiner reading does (rules 11 and 50). This is also what keeps it outside the fusion above: *any* is English the ASV spends on this morpheme in particular, which rule 30 says defeats the one-rendering condition. The competing reading leaves *any* to `רוּחַ` under rule 15 and marks this particle `unrepresented`.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Noun rendered *breath*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Preposition rendered *in*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Suffix rendered by the possessive (rule 18).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Construct noun keeps its own word.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "PSA.135.17",
+  "review_notes": [
+    "Corrected: `אַף` and `אֵין` now share one unit for *Neither is there*, headed on the negative. The accepted alignment left a present additive particle `unrepresented` beside the very English word that carries its sense, which rules 22 and 30 forbid; rule 2's preference for the smallest unit does not license that split, because the split is not clearly preferable to the fusion.",
+    "The doubled existential `אֵין־יֶשׁ` remains the hard point of the verse: *Neither is there* goes to the negative fusion and *any* to the positive particle, with the alternatives named in both units' notes under rule 8.",
+    "All thirteen source ids and all fifteen target ids are partitioned exactly once in the corrected array."
+  ]
+}

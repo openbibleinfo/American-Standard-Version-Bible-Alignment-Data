@@ -1,0 +1,7 @@
+# 2 Samuel 9 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **2SA.9.2** — The naming formula וּשְׁמוֹ X → 'whose name was X' (9.2, 9.12): the possessive suffix on שֵׁם takes the relative 'whose' (rule 18), the waw of the recast clause is unrepresented because the ASV writes no separate connective (rule 17's explicit-pronoun reasoning applied to a suffix), and the construction's copula joins the predicate name (rule 20). The competing reading — 'whose' to the waw under rule 17 — is named in both notes and was not taken.
+- **2SA.9.1 — superseded by the established-rule follow-up below** — Historical judgment: בַּעֲבוּר + possessor → 'for X's sake' (9.1, 9.7): the preposition and its construct noun fuse under rule 30 as one rendering 'for … sake', headed on the construct noun and on 'sake', discontinuous around the possessor, which keeps its own English as an English possessive ('Jonathan's', 'Jonathan thy father's').
+- **2SA.9.1** — Established-rule follow-up, independently confirmed in 9.1 and 9.7: when be+abur is rendered for ... sake, be separately owns for and abur separately owns sake under rules 2, 11 and 30; the possessor retains its own possessive English. This supersedes the earlier chapter convention requiring fusion. Each contribution is independently recoverable; the fixed expression alone does not require grouping.

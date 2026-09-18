@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "chapter": "ROM.4",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.ROM.4.1.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV has the verb (\"hath found\"), with the verbless variant relegated to the note \"Some ancient authorities read of Abraham, our forefather according to the flesh?\" — so the English requires the infinitive somewhere, but this unit is only its position. RP omits it here and supplies it at v003, so both readings still yield \"hath found\"; English word order is not evidence of Greek order."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.4.1.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads \"our forefather\", not \"our father\"; the compound προπάτορα is what \"forefather\" renders, and the mapped note repeats \"our forefather\". πατέρα would give \"our father\" as elsewhere in the chapter (vv. 11, 12, 16)."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.4.1.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Placement of εὑρηκέναι only. ASV's \"hath found\" is satisfied by the infinitive at v001 (base) or here (RP); the English cannot fix the Greek position, and the note bears on the omission of the verb, not on where it stands."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.4.2.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Presence or absence of the article τόν before θεόν; ASV \"but not toward God\" is identical either way, and the only note is a greek_gloss on ἐξ, which does not touch this unit."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.4.8.v005",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV \"the man to whom the Lord will not reckon sin\" makes the man the dative recipient of the reckoning and \"sin\" the object — that is ᾧ. Genitive οὗ would give \"the man whose sin the Lord will not reckon\", which the ASV does not print."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.4.9.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Added ὅτι would be recitative, introducing the quotation; ASV \"for we say, To Abraham his faith was reckoned for righteousness\" renders it with punctuation either way, so the English does not distinguish."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.4.11.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV \"that righteousness might be reckoned unto them\" shows no \"also\"; but an adjunctive καί in this position is routinely left unrendered, and no note is mapped here, so the English does not settle it."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.4.12.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The two readings differ only in Greek word order and articulation; both come out as ASV's \"that faith of our father Abraham which he had in uncircumcision\", and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.4.13.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Articular τοῦ εἶναι versus bare εἶναι is invisible in English; ASV \"that he should be heir of the world\" fits both, and the only note is an alternative_rendering on \"through law\"."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.4.15.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the second clause adversatively — \"but where there is no law\" — which is δέ. γάρ would give a second causal \"for\" immediately after \"for the law worketh wrath\", which the ASV does not print."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.4.19.v011",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The added οὐ negates κατενόησεν (\"he considered not his own body\"). ASV reads positively, \"he considered his own body now as good as dead\", so the negative is absent from the text the ASV rendered."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.4.19.v012",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV prints \"now as good as dead\" — \"now\" renders ἤδη — and the mapped textual_variant note \"Many ancient authorities omit now\" puts the omission in the margin, confirming ἤδη stands in the text."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.4.22.v013",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV \"Wherefore also it was reckoned unto him\" renders an adjunctive καί after διό; the bare διό reading gives only \"Wherefore\"."
+    }
+  ]
+}

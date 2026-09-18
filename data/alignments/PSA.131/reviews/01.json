@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "dbf4c81634917b3b423308ba80c675fcd048ec193d5ba854b5897cde48f5b560",
+  "contract_version": "ot-hebrew-verse-v213",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Verified the partition: all 25 source ids and all 31 target ids are covered exactly once, with the article of `הַמַּעֲלוֹת` the only unrepresented morpheme and no `added` unit.",
+    "That article is unrepresented because the ASV writes no *the* anywhere in the chain (*A Song of Ascents*), which is rule 29's closing sentence; the supplied *A* stands before the construct's own word and belongs to that nominal expression under rule 15.",
+    "Both `וְ` + `לֹא` pairs are fused under rule 35 and headed on the negative, which is what distinguishes *nor* and *Neither* from a bare *and*; the two colons are read alike.",
+    "`מִמֶּנִּי` takes the whole *too … for* frame headed on *for*, which is rule 24's own `פְּלִיאָה דַעַת מִמֶּנִּי` → *too wonderful for me* ruling; the competing reading leaving *too* with the participle is named in the unit note.",
+    "The ASV's marginal gloss *Hebrew walk* on *exercise myself* was read and set aside under rule 38; the printed text governs, and *myself* stays with the Piel under rule 44's reflexive clause."
+  ],
+  "ref": "PSA.131.1",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

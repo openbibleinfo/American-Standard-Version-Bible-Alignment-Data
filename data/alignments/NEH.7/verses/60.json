@@ -1,0 +1,156 @@
+{
+  "alignments": [
+    {
+      "note": "כֹּל takes the ASV's *All*, the word standing at the phrase's left edge that renders its lexeme.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The article takes the *the* standing before its own word, *Nethinim* (rules 15, 29). Nothing is fronted here: the ASV writes *All the Nethinim* with the *the* in place, unlike v.66's *The whole assembly*, where the anarthrous rendering of the noun forces the article's *The* to the left edge.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Construct with supplied *the*, no article morpheme present (rule 29).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "*of* on the nomen rectum (rule 19); discontinuous because the ASV renders the innermost rectum as a possessive standing between them (rule 25).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Rendered as an English possessive rather than with *of*; follow the ASV (rule 28).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Verbless clause: the supplied copula joins the numeral predicate it opens (rule 20).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "NEH.7.60",
+  "review_notes": [
+    "Corrected: the accepted alignment crossed s001 and s002, giving כָּל the English *the* and the article הַ the English *All*, with notes carried over from v.66's *The whole assembly*. The ASV here writes *All the Nethinim*, so כֹּל takes *All* and the article takes the *the* standing before its own word.",
+    "All other units are unaffected; the rest of the array is reproduced unchanged."
+  ]
+}

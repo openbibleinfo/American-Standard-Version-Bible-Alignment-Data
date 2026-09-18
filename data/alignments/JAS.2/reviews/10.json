@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "a2060759d785bed768990ba033476fb500cc2d6f27410c2a09c109f3160137d0",
+  "contract_version": "nt-greek-verse-v62",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed and returned unchanged: every unit's edges and head survive the audit. All 13 source and all 19 target ids are partitioned exactly once; no unrepresented, added or noncompositional unit is needed anywhere in this verse.",
+    "Only one unit is materially contested, δέ → and yet. I kept the head on yet and expanded the note to name rule 91's operational test as the strongest argument for the competing head on and, since and is the more ordinary corpus rendering of δέ while yet carries the adversative force this clause turns on. A later reader flipping this head should flip only the head, not the edges: both words answer to the expressed δέ, so neither is added under rule 98.",
+    "Audited the article sequence ὅλον τὸν νόμον under rule 13. τὸν takes the English the under rule 19 and is not emptied: rules 38 and 49 empty an article only where a demonstrative occupies the determiner slot, and ὅλον is a quantifying adjective, not a demonstrative. Rule 58 does not reach it either, that rule being scoped to an anarthrous adjective-plus-noun phrase; its closing clause is what puts the determiner on the article and leaves whole bare.",
+    "Checked ὅστις against rules 50, 72 and 80. No ἄν or ἐάν stands in the verse, so the -soever is not a particle's, and no substantival article stands with it, so rule 80's πᾶς ὁ pattern is not this construction. The pronoun takes whosoever alone.",
+    "Checked ἑνί → one point and ἔνοχος πάντων → guilty of all for the generic-noun head trap. Rule 17 holds the head on the numeral one rather than the italicized supplied point, and on all rather than the case preposition of; ἔνοχος keeps a bare guilty because γέγονεν is expressed and no copula is supplied for rule 53 to place.",
+    "Variant SBLGNT.JAS.2.10.v007 is underdetermined with the base fallback still among the compatible readings r00-base, r01 and r02, so it carries no FALLBACK EXCLUDED BY EVIDENCE mark and rule 97 is not in play. Both s006 and s007 align normally and no textual decision was taken inside this file, per rule 12."
+  ],
+  "ref": "JAS.2.10",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,171 @@
+{
+  "ref": "1PE.4.4",
+  "alignments": [
+    {
+      "source": [
+        "s001",
+        "s002"
+      ],
+      "source_head": "s002",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Portmanteau *wherein* spells the preposition into *-in* and the relative into *where-*, so both tokens take it as one aligned unit headed on the pronominal (rule 35)."
+    },
+    {
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "target": [
+        "t002",
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Subject and the dummy *it* are inflection-licensed helpers (rules 7, 9); rule 17 heads the support-verb rendering on the meaning-bearing complement *strange*, not on *think*."
+    },
+    {
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Ordinary negative."
+    },
+    {
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "target": [
+        "t006",
+        "t008",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t008",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The supplied complementizer belongs to the non-finite complement the ASV expands into a finite clause (rule 85); *with them* realizes the participle's own συν- prefix and its supplied object, discontinuous under rule 15."
+    },
+    {
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Subject of the genitive absolute, realized by *ye*."
+    },
+    {
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Article surfaces as English *the* (rule 19)."
+    },
+    {
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "target": [],
+      "target_head": null,
+      "status": "unrepresented",
+      "confidence": "high",
+      "note": "The ASV gives *riot* no determiner, so the article has no *the* to anchor and the case preposition stays with the noun (rules 21, 23)."
+    },
+    {
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Source noun rendered *of + noun*; rule 17 heads it on the noun."
+    },
+    {
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "target": [
+        "t018",
+        "t019",
+        "t020",
+        "t021"
+      ],
+      "target_head": "t018",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "No Greek preposition governs 'of', so the phrasal frame and the supplied object are rule 7 helpers on the participle, as 'to rail at' is at 2PE.2.10. Rule 66 heads the unit on 'speaking': unlike 'think it strange' in this same verse, where 'think' glosses no part of xenizo and 'strange' renders the xen- root, 'speak' is itself the gloss of blasphemeo's -phem- and 'evil' only its generic modifier. The corpus heads blasphemeo on the verb word in all twelve of its units, TIT.3.2 'to speak evil of' on 'speak' unhedged, as katalalias -> 'evil speakings' heads on 'speakings' at 1PE.2.1."
+    }
+  ],
+  "review_notes": []
+}

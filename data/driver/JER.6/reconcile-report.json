@@ -1,0 +1,30 @@
+{
+  "chapter": "JER.6",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "JER.6.16"
+  ],
+  "rejected": {},
+  "conventions": [
+    "An enclitic זֶה bound by maqqef to an interrogative is decided by rule 30's one-English-rendering condition, not by its own class. Where the ASV writes a single word for the pair it shares the interrogative's unit, headed on the interrogative: אֵי־זֶה → 'where is' (JER.6.16, the copula joining under rule 20). Where the ASV spends a word on each of the other morphemes the condition is defeated and the זֶה is unrepresented: לָמָּה־זֶּה → 'To what purpose' gives 'To' to לְ, 'what' to מָה, and 'purpose' to מָה as rule 31's supplied completion (JER.6.20).",
+    "Where a demonstrative phrase carries an article on the noun and another on the demonstrative and the ASV writes one determiner for the whole — הָעָם הַזֶּה → 'this people' (JER.6.19, JER.6.21) — the demonstrative takes that determiner because it is the morpheme that licenses it, and both articles are unrepresented (rules 22, 41, 47). Rule 41's 'determiner written in the article's place' does not reach it, since another morpheme licenses the word.",
+    "The ASV's 'every one' heads on different words in this chapter and the difference is rule 31's subtraction, not an inconsistency: אִישׁ → 'every one' heads on 'one' (JER.6.3), because אִישׁ carries the substantive and 'every' is supplied; כֹּל → 'every one' heads on 'every' (JER.6.13), because כֹּל carries the quantifier and 'one' is supplied. In the כֹּל case the supplied 'one' joins that unit and the word's own suffix is left unrepresented, since no English remains for it."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v59",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 65 candidate groups and the whole dump end to end (the table is blind to `added` units, so the 13 of them were checked separately). No cross-verse split: every alternation the table flags is licensed by what the ASV writes. One genuine error, at JER.6.16, found from the BSB list rather than the table.",
+    "JER.6.16 patched. `אֵי־זֶה` is a maqqef-bound fixed interrogative that the ASV renders by the single word *where*; rule 30 makes that one unit headed on the lexeme-bearing `אֵי`, 'rather than one rendered morpheme beside others marked unrepresented', which is exactly what the verse had (אֵי aligned to *where is*, זֶה unrepresented). The supplied copula stays in the unit, as rule 30 allows for `לִפְנֵי` → *was before* and rule 20 requires for an interrogative predicate. Head unchanged: s014 / *where*.",
+    "JER.6.20 `לָמָּה־זֶּה` is not the same case and stands as aligned. The ASV spends *To* on `לְ` and *what* on `מָה`, so rule 30's one-English-rendering condition is defeated by English spent on particular morphemes, `זֶה` keeps nothing, and *purpose* is the supplied completion of `מָה` under rule 31. The chapter now treats the enclitic זֶה two ways, and rule 30's condition is what licenses that.",
+    "BSB disagreements, plainly: Td x 7 (JER.6.2, 6.18, 6.19, 6.21) and R x 6 (JER.6.10, 6.14, 6.19, 6.26, 6.30) are the documented convention differences — the vocative article (rule 36), the coordinated-attributive article (rule 47), the article displaced by a demonstrative (rule 41), the `לְ` of `לֵאמֹר` (rule 27), and the prepositions the ASV's recasting silences (rules 21, 40). Not errors. The two כֻּלּוֹ suffixes at JER.6.13 are correct unrepresented: *every* is owned by `כֹּל` and *one* is rule 31's supplied completion, so no English is left for the suffix. The `אֶת` at JER.6.14 is correct unrepresented: the ASV writes the object bare. JER.6.16 זֶה was the one genuine error; JER.6.20 זֶה was not.",
+    "Checked and not splits: the article's aligned/unrepresented alternation everywhere follows whether the ASV writes a *the*; `מָאַס` + `בְּ` leaves the preposition unrepresented in both JER.6.19 and JER.6.30; the supplied possessive *their* is `added` in both JER.6.3 and JER.6.12 because no suffix and no article morpheme stands on `אֹהָלִים`, `שָׂדוֹת`, `נָשִׁים` (rule 18's closing sentence, not rule 41); the italic *and*s at JER.6.24, 6.25 and 6.27 are `added` while every waw-licensed *and* is aligned; the three fusions (JER.6.15 `גַּם`+`לֹא`, JER.6.20 `וְ`+`לֹא`, JER.6.25 `וּ`+`אַל`) all head on the negative per rule 35; the anarthrous construct chains at JER.6.4, 6.17 and 6.22 each take two supplied *the*s while JER.6.12 gives the present article the *the* standing before its own word, which is one policy read off rule 29 and not two.",
+    "Head choices that look inconsistent and are not: `אִישׁ` → *every one* heads on *one* (JER.6.3) and `כֹּל` → *every one* heads on *every* (JER.6.13), because rule 31's subtraction moves the head to whichever word survives the lexeme; the same test gives `סָבִיב` → *round about* head *round* (JER.6.3) and *every side* head *side* (JER.6.25).",
+    "No promotions and no amendments. The 6.16 correction is rule 30 applied, not rule 30 widened; the chapter's other novel judgments — *as for* on the resumptive waw at JER.6.19, *go on* for the infinitive absolute at JER.6.29, the `אֵת` taking *of* after *am full* at JER.6.11 — are each single, hedged instances with the competing reading already named in the verse, and a rule built on one of them would be paid for by every chapter after this."
+  ]
+}

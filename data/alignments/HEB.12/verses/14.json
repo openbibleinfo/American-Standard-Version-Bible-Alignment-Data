@@ -1,0 +1,170 @@
+{
+  "alignments": [
+    {
+      "note": "The imperative takes the whole phrasal verb *Follow after*; no Greek preposition governs the object, so rule 36 does not remove *after* from the verb. Head on the lexical verb word.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Fronted accusative object rendered by the postposed *peace*; discontinuity permitted by rule 15.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Preposition to *with*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Anarthrous substantival adjective with the supplied generic noun *men* as a rule 7 helper; rule 17's generic-noun clause heads on the adjective, as rule 51's anarthrous clause has it.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Coordinating conjunction to *and*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Article surfaces as English *the* under rule 19.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Noun to *sanctification*; the determiner stands on the article under rule 19, leaving the noun bare.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Improper preposition rendered by the single word *without*; rule 71's closing clause makes that word the head and no frame question arises. The governed relative is a separate unit under rule 2.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Relative pronoun to *which*; the English reorders preposition and relative, which rule 15 permits without merging the two units.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Negative indefinite carrying the clause's whole negation, with *man* the supplied generic completion; rule 17's generic-noun clause and rule 69's head on *any* both put the head on the negative word. No second negator stands, so rules 41 and 59 are not in question.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Future indicative with its auxiliary; rule 9 heads on the lexical verb.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Article surfaces as English *the* under rule 19.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Noun to *Lord*, the determiner staying with its own article under rule 19.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "HEB.12.14",
+  "review_notes": [
+    "All 13 source and 17 target ids partitioned exactly once; every unit is aligned, with no unrepresented or added units in this verse.",
+    "s002 keeps *after* with the verb: the competing reading would give it to a preposition, but no Greek preposition governs Ἑιρήνην, so rule 36's warning about phrasal verbs does not apply.",
+    "s009/s008 are split rather than merged: rule 94's precondition for a compound prepositional unit is a single English word, and the ASV writes *without which* as two words each answering to a token."
+  ]
+}

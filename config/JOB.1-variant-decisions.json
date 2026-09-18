@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "chapter": "JOB.1",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JOB.1.4.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere אַחְיוֹתֵיהֶם and ketiv אחיתיהם are plene and defective spellings of the same word, 'their sisters'; the ASV's 'their three sisters' renders both identically and no ASV note is mapped to this unit. Nothing in the English distinguishes the orthography, so both readings stand and the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.JOB.1.10.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere אַתָּה and ketiv את are the full and defective spellings of the second-person pronoun; the ASV's 'Hast not thou made a hedge about him' renders either the same way, since English 'thou' shows no orthographic distinction. The only note on the verse, 'Or, cattle', is classed alternative_rendering, is about the English wording of מקנהו later in the verse, and never decides a reading. Underdetermined; the qere base fallback stands."
+    },
+    {
+      "unit_id": "WLC.JOB.1.21.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere יָצָאתִי and ketiv יצתי are plene and defective spellings of the same first-person perfect of יצא; the ASV's 'Naked came I out of my mother's womb' renders both alike and no ASV note is mapped to this unit. The English cannot distinguish the spellings, so both readings are retained and the qere base fallback carries the projection."
+    }
+  ]
+}

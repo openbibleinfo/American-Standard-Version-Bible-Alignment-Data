@@ -1,0 +1,133 @@
+{
+  "alignments": [
+    {
+      "note": "Explicit pronoun → I.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The ASV supplies a whole lexical verb and its object for a clause whose Hebrew has none; no morpheme licenses either word (rule 20). The edition's italics corroborate without deciding (rule 7).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Imperative → Keep.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Construct relation recast as an English possessive, so the determiner stands before the possessor's word and goes to it (rule 29).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Construct noun keeps only its own word, rendered command.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "A coordinator and a subordinator written together at the clause's left edge are one rendering of the single waw, headed on the coordinator (rule 55). The competing reading takes t009 as an added supply.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Preposition → in; the ASV writes a word for each of עַל and דִּבְרַת, so rule 2 splits rather than rule 30 fusing.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Construct noun → regard.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Rectum takes the of; the supplied the joins the noun (rules 19, 15).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Second-level rectum takes its own of, headed on the name.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "ECC.8.2",
+  "review_notes": [
+    "I counsel thee is the ASV's supplied frame; only the written אֲנִי takes I, and counsel thee is added under rule 20's supplied-lexical-verb clause.",
+    "and that is read as one waw's rendering under rule 55's coordinator-plus-subordinator sentence; the alternative leaves that added."
+  ]
+}

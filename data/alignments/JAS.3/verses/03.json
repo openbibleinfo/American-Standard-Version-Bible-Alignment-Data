@@ -1,0 +1,263 @@
+{
+ "alignments": [
+  {
+   "note": "Ordinary conditional particle aligned to the English *if* that introduces the protasis; rule 72's closing clause treats an ordinary conditional like any other word.",
+   "source": [
+    "s001"
+   ],
+   "source_head": "s001",
+   "status": "aligned",
+   "target": [
+    "t002"
+   ],
+   "target_head": "t002"
+  },
+  {
+   "note": "Postpositive connective realized by the verse-initial *Now*; rule 15 permits the reordering.",
+   "source": [
+    "s002"
+   ],
+   "source_head": "s002",
+   "status": "aligned",
+   "target": [
+    "t001"
+   ],
+   "target_head": "t001"
+  },
+  {
+   "note": "The article governing ἵππων takes the English *the* of *the horses' bridles* (rule 19). Competing reading: give *the* to s005 as the determiner of *bridles* and leave s003 unrepresented; taken this way because the ASV writes *the* immediately before the word answering to ἵππων, and the possessive *horses'* is what displaces the determiner of *bridles* under rule 20, exactly as `ὁ θρόνος τοῦ Σατανᾶ` → *Satan's throne* does.",
+   "source": [
+    "s003"
+   ],
+   "source_head": "s003",
+   "status": "aligned",
+   "target": [
+    "t005"
+   ],
+   "target_head": "t005"
+  },
+  {
+   "note": "Genitive noun rendered by the English possessive *horses'* (token supplied without its apostrophe).",
+   "source": [
+    "s004"
+   ],
+   "source_head": "s004",
+   "status": "aligned",
+   "target": [
+    "t006"
+   ],
+   "target_head": "t006"
+  },
+  {
+   "note": "The genitive ἵππων already occupies the determiner slot of *bridles* as an English *'s* possessive, so this article realizes nothing (rule 20, which names a genitive noun the ASV renders with *'s* as one of the words that can displace it).",
+   "source": [
+    "s005"
+   ],
+   "source_head": "s005",
+   "status": "unrepresented",
+   "target": [],
+   "target_head": null
+  },
+  {
+   "note": "Noun to noun.",
+   "source": [
+    "s006"
+   ],
+   "source_head": "s006",
+   "status": "aligned",
+   "target": [
+    "t007"
+   ],
+   "target_head": "t007"
+  },
+  {
+   "note": "Preposition governing the prepositional phrase realizes the Greek preposition (rule 36). Variant SBLGNT.JAS.3.3.v002 is underdetermined between the base εἰς and r01; the fallback remains among the readings the English permits, so rule 97 is not in question.",
+   "source": [
+    "s007"
+   ],
+   "source_head": "s007",
+   "status": "aligned",
+   "target": [
+    "t008"
+   ],
+   "target_head": "t008"
+  },
+  {
+   "note": "The article is what the supplied possessive *their* realizes (rule 20, second arm). No genitive pronoun stands with `στόματα`, and rule 76's availability test settles the three candidates that do stand in the verse: `ἵππων` is already spent on *horses'*, `αὐτούς` on the subject *they*, and `αὐτῶν` — the strongest challenger, a genitive pronoun of the same person and number — on the *their* of *their body*. None is available to carry this possessive. The corpus decides this configuration the same way and often: JHN.2.12 has two `αὐτοῦ`, each spent on its own phrase, and gives the middle article a supplied *his*; 1PE.2.12 `ἐκ τῶν καλῶν ἔργων` → *by your good works* aligns the article with two `ὑμῶν` standing; and 2PE.1.5 writes both treatments in one verse, as this verse does. The competing reading is rule 23 `unrepresented`, refused because the ASV writes a determiner here; the corpus reserves that for a shared genitive scoping over coordinated nouns (REV.1.14, EPH.2.1), which is not this construction.",
+   "source": [
+    "s008"
+   ],
+   "source_head": "s008",
+   "status": "aligned",
+   "target": [
+    "t009"
+   ],
+   "target_head": "t009"
+  },
+  {
+   "note": "Noun to noun.",
+   "source": [
+    "s009"
+   ],
+   "source_head": "s009",
+   "status": "aligned",
+   "target": [
+    "t010"
+   ],
+   "target_head": "t010"
+  },
+  {
+   "note": "Finite verb with its inflection-licensed subject pronoun; head on the lexical verb rather than the subject (rules 9, 17).",
+   "source": [
+    "s010"
+   ],
+   "source_head": "s010",
+   "status": "aligned",
+   "target": [
+    "t003",
+    "t004"
+   ],
+   "target_head": "t004"
+  },
+  {
+   "note": "Preposition governing the articular infinitive takes the whole English clause-introducer (rule 61); here that is the bare complementizer *that*, which rule 24 treats as one analysis with *to the end that*.",
+   "source": [
+    "s011"
+   ],
+   "source_head": "s011",
+   "status": "aligned",
+   "target": [
+    "t011"
+   ],
+   "target_head": "t011"
+  },
+  {
+   "note": "Nominalizing article of the articular infinitive; English spells no word answering to the article itself (rule 61).",
+   "source": [
+    "s012"
+   ],
+   "source_head": "s012",
+   "status": "unrepresented",
+   "target": [],
+   "target_head": null
+  },
+  {
+   "note": "Infinitive expanded into a finite clause; the modal *may* is its helper and the head is the lexical verb (rules 7, 9, 17).",
+   "source": [
+    "s013"
+   ],
+   "source_head": "s013",
+   "status": "aligned",
+   "target": [
+    "t013",
+    "t014"
+   ],
+   "target_head": "t014"
+  },
+  {
+   "note": "Expressed accusative subject of the infinitive, rendered by the English subject pronoun *they*. Rule 74 does not bear on this: it governs a subject Greek leaves unexpressed, and this one is written.",
+   "source": [
+    "s014"
+   ],
+   "source_head": "s014",
+   "status": "aligned",
+   "target": [
+    "t012"
+   ],
+   "target_head": "t012"
+  },
+  {
+   "note": "Dative complement to the English object pronoun.",
+   "source": [
+    "s015"
+   ],
+   "source_head": "s015",
+   "status": "aligned",
+   "target": [
+    "t015"
+   ],
+   "target_head": "t015"
+  },
+  {
+   "note": "Adverbial καί realized by the clause-final *also*, aligned on rule 65's English-side test; rule 15 permits the discontinuity from its Greek position. No οὕτως stands here, so rule 100 is not in question.",
+   "source": [
+    "s016"
+   ],
+   "source_head": "s016",
+   "status": "aligned",
+   "target": [
+    "t022"
+   ],
+   "target_head": "t022"
+  },
+  {
+   "note": "Attributive adjective to *whole*.",
+   "source": [
+    "s017"
+   ],
+   "source_head": "s017",
+   "status": "aligned",
+   "target": [
+    "t020"
+   ],
+   "target_head": "t020"
+  },
+  {
+   "note": "The free genitive pronoun αὐτῶν occupies the determiner slot as *their*, so this article realizes nothing (rule 20 proper).",
+   "source": [
+    "s018"
+   ],
+   "source_head": "s018",
+   "status": "unrepresented",
+   "target": [],
+   "target_head": null
+  },
+  {
+   "note": "Noun to noun.",
+   "source": [
+    "s019"
+   ],
+   "source_head": "s019",
+   "status": "aligned",
+   "target": [
+    "t021"
+   ],
+   "target_head": "t021"
+  },
+  {
+   "note": "Genitive pronoun rendered by the possessive *their* (rule 20).",
+   "source": [
+    "s020"
+   ],
+   "source_head": "s020",
+   "status": "aligned",
+   "target": [
+    "t019"
+   ],
+   "target_head": "t019"
+  },
+  {
+   "note": "Finite verb with its subject pronoun; *about* is the English phrasal verb's own particle and governs no prepositional phrase, so rule 36's contrast keeps it inside the unit. Head on *turn*, the word that glosses μετάγω, rather than on the particle or the subject (rules 17, 91): *turn* is no empty support verb, so rule 91's `make straight` case does not reach it.",
+   "source": [
+    "s021"
+   ],
+   "source_head": "s021",
+   "status": "aligned",
+   "target": [
+    "t016",
+    "t017",
+    "t018"
+   ],
+   "target_head": "t017"
+  }
+ ],
+ "ref": "JAS.3.3",
+ "review_notes": [
+  "Accepted alignment is confirmed unchanged in unit membership and heads; only three notes were sharpened (see below). Every s001-s021 and t001-t022 id is partitioned exactly once.",
+  "s003/s005 is the one materially contestable pair. τῶν ἵππων τοὺς χαλινούς → *the horses' bridles*: the English *the* is the determiner of *horses'*, so it goes to τῶν, and τούς is emptied by the *'s* possessive under rule 20's genitive-noun clause. The competing reading (bare *the* on τούς, τῶν unrepresented) is named in the s003 note.",
+  "s008 note now cites rule 76 by name. Both candidate possessors present in the verse are already spent — ἵππων on *horses'*, αὐτούς on *they* — so availability, not mere presence, is what leaves the article to carry *their*. This is the contrast with s018, where αὐτῶν is free and rule 20 proper empties the article; the verse writes both configurations, as JHN's rule 76 example does.",
+  "s001's note previously cited rule 40, which governs a subordinator realized by an infinitival *to*; replaced with the ordinary-conditional reading. No alignment consequence.",
+  "s021 keeps *about* inside the verb's unit: μετάγω is rendered by the phrasal *turn about* with *their whole body* as its object, and no Greek preposition stands for *about* to answer to under rule 36. Head on *turn* per rule 91's operational test — the corpus spends the verb word on μετάγω (cf. μετάγεται in the next verse), and *about* is the particle, not a meaning-bearing complement.",
+  "Variant note for the chapter log: SBLGNT.JAS.3.3.v002 is underdetermined and its fallback is still among the readings the English permits, so it carries no FALLBACK EXCLUDED mark and rule 97 does not apply; v001 is compatible with the base. No textual decision is made inside this file (rule 12)."
+ ]
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "chapter": "EZK.9",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.EZK.9.4.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'Jehovah said unto him' renders the prepositional phrase 'to him' either way: the ketiv אלו is the defective spelling of the same word the qere אֵלָיו vocalizes, and both yield 'unto him'. No ASV note is mapped here, so nothing in the English distinguishes the two."
+    },
+    {
+      "unit_id": "WLC.EZK.9.5.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'let not your eye spare', a negative jussive requiring the negative particle אַל of the qere. The ketiv על ('upon/over') would give no negation and leave 'your eye spare' unintelligible in the clause the ASV renders; the English wording therefore selects the qere."
+    },
+    {
+      "unit_id": "WLC.EZK.9.5.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'let not your eye spare' with the singular 'eye', matching the qere singular עֵינְכֶם; the ketiv plural עיניכם would be rendered 'your eyes'. The ASV's number distinguishes the reading."
+    },
+    {
+      "unit_id": "WLC.EZK.9.11.v004",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads simply 'I have done as thou hast commanded me', with no quantifier. The qere כְּכֹל אֲשֶׁר carries כֹל and the ASV renders that phrase elsewhere as 'according to all that'; the bare 'as' answers to the ketiv כאשר. The absence of 'all' in the English distinguishes the ketiv."
+    }
+  ]
+}

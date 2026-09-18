@@ -1,0 +1,10 @@
+# 2 Samuel 13 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- A clause-initial waw the ASV answers with a contiguous coordinator+subordinator pair (*and when*, *And when*, *But when*) takes both words as one unit headed on the coordinator (rule 55), whether the waw stands on a verb (13.5, 13.6, 13.11) or on a fronted subject noun (13.21). In 13.28, the temporal כְּ (`s011`) governs both coordinated conditions and takes both occurrences of *when* (`t010`, `t018`) in one aligned unit headed on the first; the waw (`s018`) takes only *and* (`t017`) in its own aligned unit (rules 25, 52, 55). The *while* of 13.30 is `added` because the *it came to pass* frame separates it from the waw's *And* (rule 45).
+- הַחוּצָה (13.17) and הַחוּץ (13.18) → *out* are one fused unit each, article included, headed on חוּץ; the *out* is the noun phrase's, not a particle of the hiphil verb (שִׁלְחוּ → *Put*, וַיֹּצֵא → *brought*).
+- אָבָה + לְ + infinitive rendered *would not V* (13.14, 13.16, 13.25): אָבָה takes *he would* with its subject pronoun, לֹא takes *not*, the לְ is `unrepresented` under rule 52, and the infinitive keeps the bare verb.
+- לְעֵינֵי + suffix → *in my/his sight* (13.5, 13.6, 13.8) splits: לְ takes *in*, עַיִן takes *sight*, the suffix its possessive. Where the ASV instead writes a single *to* for בְּעֵינֵי (13.2), the preposition and construct noun fuse under rule 30.
+- לְבַדּוֹ → *only* (13.32, 13.33): לְ and בַּד fuse, headed on בַּד; the suffix is its own `unrepresented` unit under rule 30's suffix sentence, never inside the fusion.
+- נַעַר rendered *young man* / *young men* (13.32, 13.34) heads on *young*, which carries the lexeme of youth, with *man*/*men* the supplied generic (rule 31); where the ASV writes *servant(s)* (13.17, 13.18, 13.28, 13.29) the single word is the head.

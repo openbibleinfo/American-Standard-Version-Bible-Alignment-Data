@@ -1,0 +1,8 @@
+# Matthew 18 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- A relative and a generalizing particle the ASV renders by the single word *whoso* are one `aligned` unit, headed on the relative, whether the Greek writes `ἄν` or `ἐάν`: 18:5 and 18:6 write the same English for the same construction, and the count of English words the ASV wrote is what joins them (rules 39, 50, 94). `ἐάν` is left `unrepresented` only where the relative has an English word of its own and no part of it answers to the particle, as `οὗ ἐάν` → *that* at 18:19.
+- `τῶν μικρῶν τούτων` (18:6, 18:10, 18:14): the article takes the supplied generic noun *ones* under rules 49 and 102, the demonstrative having displaced the determiner slot and nothing else, and the adjective keeps a bare *little*. The partitive *of* rides with the adjective under rule 21's determinerless clause, discontinuously across the demonstrative. Carrying *of* into the article's unit alongside *ones* remains defensible; all three verses read alike.
+- `ἕως οὗ` → *till* is one `aligned` unit headed on the adverb (18:30, 18:34), the ASV writing one English word for the two tokens, as rule 50 reads `ἕως ἄν` → *till*. A bare `ἕως` with no relative following keeps its own word as its own unit (18:21, 18:22).
+- The multiplicative adverbs `ἑπτάκις` → *seven times* and `ἑβδομηκοντάκις` → *seventy times* are headed on the numeral stem, *times* rendering the suffix (18:21, 18:22, rule 66). Heading on *times* remains defensible, but the two verses read alike.

@@ -1,0 +1,8 @@
+# 2 Kings 6 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Protasis-initial connective supplied where the Hebrew opens the sentence without a conjunction, with the apodosis waw left bare (6.32 'but ere ... he said', 6.33 'And while ... behold'): the supplied connective is added (with an adjacent supplied subordinator as one unit) and the apodosis waw is unrepresented. Do not read the ASV's verse-initial 'And' as the וְהִנֵּה waw reordered; this matches 6.15, where the waw before a bare 'behold' is unrepresented.
+- וַיְהִי + subject + participle rendered periphrastically 'as X was V-ing' (6.5, 6.26): הָיָה takes only 'was'; no presentative frame is written, the supplied 'as' is added under rule 55, and the apodosis waw the ASV opens bare is unrepresented. Contrast the וַיְהִי frames of 6.20/24/30, where the apodosis waw takes 'that'.
+- אוֹתָם in 6.16 (מֵאֲשֶׁר אוֹתָם → 'than they that are with them') is tagged To by MACULA but is the preposition אֵת 'with' in sense; aligned as a prepositional predicate taking 'are with' with the copula under rule 49, not left unrepresented as an object marker. The אוֹתָם of 6.19 and 6.21 are true object markers and stay unrepresented.
+- 'cut down' for גָּזַר (6.4, trees) and קָצַב (6.6, a stick) keeps the particle with the verb as the English phrasal rendering of felling rather than marking 'down' added; the notes name the alternative. The waw → 'And when' units (6.4, 6.15, 6.18, 6.23) are all headed on the coordinator, with 'when' named as the competing head.

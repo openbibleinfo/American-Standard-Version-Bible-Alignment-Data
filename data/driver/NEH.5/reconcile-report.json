@@ -1,0 +1,25 @@
+{
+  "chapter": "NEH.5",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The formula yesh asher omrim (vv. 2, 3, 4) is read yesh -> 'there were' (presentative dummy and copula, rules 43/50) and asher -> 'that'; a subject the ASV supplies for the existential ('Some' in v. 3) goes with the written asher as its antecedent under rule 46's first rider, not with yesh and not added. In v. 5, where the ASV writes only 'some' for yesh (ve-yesh mi-benotenu -> 'and some of our daughters'), yesh takes that word and the partitive min keeps only 'of'; competing reading (min -> 'some of', yesh unrepresented) is named in the unit note.",
+    "vayyacharishu -> 'held they their peace' keeps the idiom's fixed possessive 'their' inside the verb's light-verb unit (headed on peace, rule 44), on the reasoning rule 30 gives for the pronouns of na -> 'I beseech thee'; it is not marked added under rule 18's closing sentence, since English writes no 'hold peace' without the possessive."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 50 candidate groups against the verses. Every multi-treatment bucket is the ASV rendering one morpheme differently in different contexts (waw connectives read off the ASV; articles beside a demonstrative or a kol left unrepresented under rule 41; prepositions silenced or rendered as written under rule 40; suffixes taking whichever pronoun the ASV wrote). No construction is analysed two ways with nothing in the source to license the difference.",
+    "The one apparent split, asher -> 'that' in vv. 2 and 4 against 'Some that' in v. 3, is not one: only v. 3 supplies an antecedent, and the verse pass placed it on the written relative under rule 46's first rider, with the competing reading (Some on yesh, or added under rule 17) named in the note. v. 5's yesh -> 'some' is the same particle taking the only word the ASV wrote for it (rule 43).",
+    "The five added units (v.5 already, to help it; v.12 them; v.14 that is; v.18 and) were checked against the whole dump: none is folded into a licensing morpheme elsewhere in the chapter.",
+    "BSB disagreements are all convention: the unrendered waws before 'let us get' (vv. 2-3), 16 agreement/demonstrative articles, 5 cohortative or paragogic he, 4 prepositions silenced by recasting, yad left unwritten in 'our power' (v.5) and lev left unwritten in 'I consulted with myself' (v.7). None is a genuine error; the two lexical cases carry notes naming the rule-30 fusion alternative.",
+    "No promotion: the chapter's only novel readings (yesh -> some, im zeh -> for all this, held their peace with its fixed possessive) are single instances with no corpus precedent shown, and each is already defensible under rules 43, 24/30 and 44/30."
+  ]
+}

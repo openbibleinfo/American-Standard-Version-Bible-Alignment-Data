@@ -1,0 +1,31 @@
+{
+  "chapter": "JOB.31",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "JOB.31.2"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Job 31 writes both `מִי יִתֵּן` and `אִם לֹא` in both of rule 30's shapes, and each occurrence is decided by the ASV's rendering rather than by the lemma pair. Where the ASV writes one fixed English expression for the pair, the two morphemes share one `noncompositional` unit — `מִי יִתֵּן` → *Oh that* in v35, `אִם לֹא` → *Surely* in v36 — and rule 6's fallback supplies the source head, since neither morpheme's own lexeme is written there. Where the ASV instead spends a word on each morpheme, rule 2 splits them and each takes what is written for it — `מִי` → *Who* beside `יִתֵּן` → *can find* in v31, and `אִם` → *If* beside `לֹא` → *not* in v20 and v31. Rule 17's sentence that a present `מִי יִתֵּן` takes its own fixed English formula is read as it stands, under rule 30, and does not license fusing an occurrence the ASV has rendered as an ordinary interrogative or protasis.",
+    "In this chapter's interrogative verbless clauses the single written copula belongs to the interrogative morpheme, not to the predicate nominal standing beside it. `הֲ` takes the fronted *Is* of v3, where rule 20's fronted-copula sentence makes that one word both question auxiliary and copula, and `מָה` takes the *is* of v2, where it is itself the clause's predicate over a definite construct-chain subject. The impersonal *it* the ASV writes in v3 is not a presentative dummy and is its own `added` unit.",
+    "Where one Hebrew morpheme's English is rewritten at the head of a clause coordinated under it, this chapter distributes every occurrence to that morpheme rather than marking the later one `added`: the one `אִם` of v7 and of v20 takes both of its *if*s, and the one `הֲ` and the one `לֹא` of v15 and the one `לֹא` of v20 take both of theirs. The same reading was extended to the italicized supply of v35, where *that I had* repeats the optative formula, the possessive `לְ` and its suffix over the coordinated second clause; an ASV italic corroborates an `added` reading but does not decide it (rule 7), and the competing reading is named in that verse."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v151",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 36 candidate lemma groups plus a full end-to-end read of the dump for `added` units, which the table cannot see. One genuine error, in JOB.31.2; it is a single-verse misapplication of rule 20 rather than a cross-verse split.",
+    "JOB.31.2 corrected: the verbless clause's single written copula *is* was attached to `חֵלֶק`. `מָה` is the clause's predicate and the definite construct chain `חֵלֶק אֱלוֹהַּ מִמָּעַל` is its subject, so the copula belongs to the interrogative, exactly as rule 20 gives the *is* of `מִי הָאִישׁ הַלָּזֶה` → *What man is this* to `מִי`. One target token moves; after the patch v2 and v3 agree that the interrogative morpheme carries the copula.",
+    "Not splits: `מִי יִתֵּן` is fused as *Oh that* in v35 and split into *Who* / *can find* in v31, and `אִם לֹא` is fused as *Surely* in v36 and split into *If* / *not* in v20 and v31. Both are rule 30's one-rendering condition read in both directions — where the ASV writes one word for the pair it fuses, where it spends a word on each morpheme rule 2 splits. Recorded as a convention.",
+    "Also checked and consistent: the waw's connectives (*And*, *Or*, *Yea*, *then*, *For*, *or*, *That*, *So that*, *Or that*), read off the ASV under rule 14's open list; five distinct `לְ` constructions (written *to*/*unto*, possessive *had* under rule 43, and rule 40's silenced preposition); the supplied *the* split three ways by whether an article morpheme, a construct noun or a bare substantive licenses it (rules 12, 15, 29, 46); rule 31's tie sentence heading *man servant*, *maid servant*, *shoulder blade* and *fine gold* on the class noun; and the distributed one-morpheme-two-realizations reading of `אִם` in v7 and v20, `הֲ` and `לֹא` in v15, and `לֹא` in v20.",
+    "All eight BSB disagreements are documented convention differences and none is a genuine error: the paragogic nuns of v10 and v38 (rule 32, which names these as the bulk of such disagreements); the `בְ` of v12, the `לְ` of v27, the `לָ` of v28 and the second `לִ` of v35, each a preposition whose object the ASV's recasting promotes or leaves bare, so rule 40 leaves it nothing; and the two 3fs suffixes of v22, where the ASV writes *the shoulder blade* and *the bone* with no pronoun anywhere, so rule 22 marks them unrepresented and the supplied *the* goes to the noun under rule 15.",
+    "The `added` units were read as a set, since the candidate table is blind to them: five supplied connectives (*Then* in v8, v10 and v22, *But* in v32, *and* in v34) all sit in clauses with no conjunction morpheme, and the two supplied relatives (v12 *that*, v35 *which*) both subordinate a finite clause the Hebrew wrote beside a written antecedent. Nothing parallel was folded into a licensing morpheme elsewhere; the *him that*, *one that* and *the* of v3, v15, v16, v17, v21, v29 and v31 are all rule 46's anarthrous substantives, which is a different construction.",
+    "v36's source head on `אִם` follows rule 6's deterministic fallback rather than rule 23's negation clause. Rule 23 hands the head to a negation only where that morpheme carries content the fused word bears, and the asseverative *Surely* neutralizes the negation rather than writing it, so no morpheme is uniquely defensible. The competing reading is named in the verse.",
+    "No promotions or amendments. Everything this chapter met was already decided by rules 20, 30, 31, 48 and 55. The one extension it makes — v28's supplied *that is* joining `מִמָּעַל` under rule 41, where the attributive is a prepositional phrase rather than the adjective or participle that rule names — rests on a single occurrence with no corpus behind it, so it stays a named competing reading in the verse rather than a rule."
+  ]
+}

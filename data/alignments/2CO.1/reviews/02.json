@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "b18d0797081efa471ef8c4035914d6a371feb18a4a0d259ec492cfdd44ed7420",
+  "contract_version": "nt-greek-verse-v58",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed and returned unchanged: every s### and t### id is partitioned exactly once, all twelve units are aligned with both heads inside their arrays, and no unrepresented or added unit is warranted.",
+    "The projection supplies no article tokens at all in this verse, so the article rules (19-23, 51, 57, 60) never engage. Both supplied English determiners — our before Father and the before Lord — fall under rule 51's anarthrous clause: our is ἡμῶν's own possessive, and the is a rule 7 helper on κυρίου headed on Lord under rule 17.",
+    "s007/s008 are kept split rather than bundled as a phrase: our answers to ἡμῶν and Father to πατρός, each independently recoverable under rule 26. The interlinear bracket \"[the] Father\" is a gloss convention, not an article token, and rule 12 forbids reading a textual decision into it.",
+    "Ἰησοῦ and Χριστοῦ stay separate units rather than sharing one head, per rules 17 and 28.",
+    "The supplied to before you rides with ὑμῖν as the dative's case preposition; no article stands in this verse for rule 21 to hand it to, and rule 36 keeps from on ἀπό rather than on any noun."
+  ],
+  "ref": "2CO.1.2",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

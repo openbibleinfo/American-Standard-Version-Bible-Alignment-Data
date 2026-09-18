@@ -1,0 +1,6 @@
+# Jeremiah 1 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- In a numeral date phrase the supplied English 'the' joins the numeral's unit, not the counted noun: JER.1.2 gives 'the thirteenth' to shelosh-'esreh and only 'year' to shanah, and JER.1.3 gives 'the eleventh' to 'ashte-'esreh and only 'year' to shanah. This is rule 29's counting test — the written 'the' stands before the ordinal — applied to a phrase rule 22 otherwise governs. In JER.1.3 the 'of' of 'unto the end of the eleventh year' likewise joins the numeral rather than shanah, because MACULA tags 'ashte as construct (Aobpc) and it is therefore the nomen rectum of tom that rule 19 puts the 'of' on.
+- The oracle formula ne'um-YHWH is two units throughout this chapter (JER.1.8, 1.15, 1.19): ne'um takes 'saith' and the divine name takes 'Jehovah'. The phrase is divisible, so rule 2 prefers the split and rule 6 withholds noncompositional, notwithstanding the handful of noncompositional 'saith jehovah' units the corpus carries at HOS.2.13 and HOS.2.16.

@@ -1,0 +1,316 @@
+{
+  "alignments": [
+    {
+      "note": "Conjunction waw to the ASV's *And* (rule 14).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb with its English subject pronoun (rule 17); heads on the verb.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The plural substantive rendered by the single adjective *double*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "מִלְּמַטָּה is rendered by the one English word *beneath*, so the two prepositions and the adverb share one unit under rule 30's one-English-word condition, headed on the lexeme-bearing מַטָּה. Recorded `aligned` rather than `noncompositional`, to match EXO.36.19's identical מִלְמָעְלָה → *above* and the chapter's twelve other rule 30 fusions; the corpus is split on the status of such fusions (לִפְנֵי is noncompositional in 225 units and aligned in 144), so the chapter's own convention decides it. The competing reading marks both prepositions `unrepresented` beside מַטָּה → *beneath*; rejected because no morpheme owns a part of the single English rendering and the subtraction test diminishes only the expression as a whole.",
+      "source": [
+        "s004",
+        "s005",
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Conjunction waw to *and* (rule 14).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The adverb יַחְדָּו is recast as the phrase *in like manner*; headed on *like* by rule 31's subtraction test, since *manner* alone is any manner and *in* is the supplied connective. Heading on *manner* as the English phrase's noun is defensible but would move the head onto a generic supplied noun, which rule 31 forbids.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t009"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Imperfect of הָיָה with its subject pronoun (rule 17); the clause has an ordinary copular sense, not the presentative of rule 21.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Predicate adjective *entire*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Preposition אֶל to *unto* (rule 11).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Construct noun with the ASV's supplied *the*: no article morpheme stands in the phrase, so under rules 15 and 29 the supplied article belongs to the nominal expression it determines and is not `added`.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Pronominal suffix to the possessive *thereof* (rule 18).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Second אֶל to the second *unto* (rule 11).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Article on טַּבַּעַת: the ASV writes *one ring* with no *the* for the phrase, so the article is unrepresented under rule 29. The written *one* is the numeral's own.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun *ring*.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Agreement article on the attributive numeral; the ASV writes no second *the* either, so it too is unrepresented (rules 29 and 47).",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Numeral אֶחָת to *one*. The marginal *the first* is an alternative rendering the ASV text does not adopt and does not affect the alignment.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Adverbial כֵּן to *thus*.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Finite verb with its subject pronoun (rule 17); heads on the lexical verb *did*.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Preposition לְ to *to* (rule 11).",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Construct numeral takes only its own English word *both*; the following *of them* is the suffix's under rule 19. This *both* is not a correlative opening of *both … and* — no answering *and* is written for it — so rule 14's correlative clause does not reach it.",
+      "source": [
+        "s022"
+      ],
+      "source_head": "s022",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "The suffix is the nomen rectum and takes the whole *of them*, headed on the pronoun (rule 19).",
+      "source": [
+        "s023"
+      ],
+      "source_head": "s023",
+      "status": "aligned",
+      "target": [
+        "t025",
+        "t026"
+      ],
+      "target_head": "t026"
+    },
+    {
+      "note": "The second לְ is rendered by *in* here; the preposition takes the connective the ASV wrote for it (rule 11).",
+      "source": [
+        "s024"
+      ],
+      "source_head": "s024",
+      "status": "aligned",
+      "target": [
+        "t027"
+      ],
+      "target_head": "t027"
+    },
+    {
+      "note": "Construct numeral *two*; the *the* belongs to the article morpheme on the rectum, not here.",
+      "source": [
+        "s025"
+      ],
+      "source_head": "s025",
+      "status": "aligned",
+      "target": [
+        "t029"
+      ],
+      "target_head": "t029"
+    },
+    {
+      "note": "The rectum's article takes the phrase's single written *the*, which English fronts before the construct while rendering the rectum anarthrously (rule 29).",
+      "source": [
+        "s026"
+      ],
+      "source_head": "s026",
+      "status": "aligned",
+      "target": [
+        "t028"
+      ],
+      "target_head": "t028"
+    },
+    {
+      "note": "Noun *corners*.",
+      "source": [
+        "s027"
+      ],
+      "source_head": "s027",
+      "status": "aligned",
+      "target": [
+        "t030"
+      ],
+      "target_head": "t030"
+    }
+  ],
+  "ref": "EXO.36.29",
+  "review_notes": [
+    "All 27 source and 30 target IDs partitioned exactly once.",
+    "Corrected: מִלְּמַטָּה → *beneath* is now `aligned` rather than `noncompositional`, matching EXO.36.19's identical מִלְמָעְלָה → *above* and the chapter's other rule 30 fusions. The unit's source and target arrays and both heads are unchanged; only the status and its note differ.",
+    "Both articles in the ring phrase (s015, s017) are unrepresented: the ASV writes *unto one ring* with no *the*, and the *one* is licensed by the numeral אֶחָת.",
+    "The one fusion in the verse is מִלְּמַטָּה → *beneath* (rule 30); alternatives are named in that unit's note, as is the head choice for *in like manner*."
+  ]
+}

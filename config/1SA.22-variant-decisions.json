@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "chapter": "1SA.22",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1SA.22.13.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'said unto him': qere אֵלָיו and ketiv אלו are orthographic variants of the same 3ms 'to him'; the English does not distinguish them. Base qere fallback retained."
+    },
+    {
+      "unit_id": "WLC.1SA.22.15.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'to inquire': qere לִשְׁאָל and ketiv לשאול differ only in plene/defective spelling of the same infinitive; the English does not distinguish them. Base qere fallback retained."
+    },
+    {
+      "unit_id": "WLC.1SA.22.17.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'did not disclose it to me' renders the idiom 'uncover my ear' with the first-person suffix of the qere אָזְנִי; the ketiv אזנו 'his ear' would give 'to him', which the ASV does not read. The hebrew_gloss note 'runners' concerns 'guard' and does not bear on this unit."
+    },
+    {
+      "unit_id": "WLC.1SA.22.18.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'Doeg': qere דוֹאֵג and ketiv דויג are spelling variants of the same proper name, both transliterated Doeg; the English does not distinguish them. Base qere fallback retained."
+    },
+    {
+      "unit_id": "WLC.1SA.22.18.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'Doeg the Edomite': qere דוֹאֵג and ketiv דויג are spelling variants of the same proper name; the English does not distinguish them. Base qere fallback retained."
+    },
+    {
+      "unit_id": "WLC.1SA.22.22.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'Doeg the Edomite': qere דוֹאֵג and ketiv דויג are spelling variants of the same proper name; the English does not distinguish them. Base qere fallback retained."
+    }
+  ]
+}

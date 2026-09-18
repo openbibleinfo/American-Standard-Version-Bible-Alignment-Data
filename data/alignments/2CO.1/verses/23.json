@@ -1,0 +1,234 @@
+{
+  "alignments": [
+    {
+      "confidence": "high",
+      "note": "Adversative conjunction rendered But.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "confidence": "high",
+      "note": "Emphatic subject pronoun; its own English word, so the finite verb keeps only its lexical realization.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "confidence": "high",
+      "note": "Finite verb; the subject is already realized by the expressed pronoun, and the prefix's sense is carried by the expressed epi under rule 36.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "confidence": "high",
+      "note": "Article before theon has no English determiner; the ASV writes a bare God (rule 23).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "Object noun standing bare.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "confidence": "high",
+      "note": "Predicate accusative rendered by the supplied frame for a witness; no Greek preposition is expressed for the supplied for to answer to, so it and the determiner are rule 7 helpers on the noun, headed on the word the corpus spends on martys (rules 17, 66, 91).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "confidence": "high",
+      "note": "Expressed preposition governing the phrase upon my soul realizes the English preposition (rule 36).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "confidence": "high",
+      "note": "The first-person possessive adjective emen names the possessor itself and carries my, so the article realizes nothing (rules 20, 54).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "Possessive adjective takes the English possessive (rule 54).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "confidence": "high",
+      "note": "Head noun stands bare, its determiner slot occupied by my.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "confidence": "high",
+      "note": "The ASV writes the complementizer out, so the conjunction is aligned to that word in the ordinary way (rule 43).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "confidence": "high",
+      "note": "Circumstantial participle recast as an infinitive; no conjunction governs the clause, so the infinitival marker is its verb's own helper (rules 7, 61).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "confidence": "high",
+      "note": "Genitive complement of pheidomai rendered as a bare object pronoun.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "confidence": "medium",
+      "note": "The negated adverb is what the ASV lexicalizes as forbare; leaving it unrepresented and reading forbare off elthon is the competing analysis, and giving it the supplied subject as I forbare also stays defensible (rule 16).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "confidence": "medium",
+      "note": "The Greek finite verb supplies the subject by its own inflection and is realized lexically as come, discontinuously across forbare under rule 15 and headed on the lexical verb (rules 9, 17). English finiteness sits on forbare, which is what makes the division medium.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "confidence": "high",
+      "note": "Preposition rendered unto (rule 36).",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "confidence": "high",
+      "note": "Place name.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    }
+  ],
+  "ref": "2CO.1.23",
+  "review_notes": [
+    "Reviewed and returned unchanged; only the note wording and explicit confidences were tightened. All 17 source and all 20 target IDs are partitioned exactly once.",
+    "The one real judgment call is how I forbare to come divides. Kept as accepted: ouketi takes forbare, elthon takes the discontinuous I ... to come. The subject is licensed by the Greek verb's person inflection under rule 9, and ouketi is an adverb with no person to license it, so I rides with elthon even though English finiteness sits on forbare; rule 17 refuses finiteness and word order as criteria. Both units stay medium under rule 16.",
+    "for a witness is kept whole on martyra. No Greek preposition is expressed for the supplied for to answer to, so rule 67 does not apply and the supplied preposition and determiner are rule 7 helpers; the head is on witness, the word the corpus spends on the martyr- lexeme (rules 17, 66, 91).",
+    "Both articles are unrepresented for different reasons: s004 because the ASV writes a bare God (rule 23), s008 because the possessive adjective emen occupies the determiner slot (rules 20, 54). Rule 21 is not in play for s008, since an expressed epi already takes upon under rule 36.",
+    "hoti here introduces reported speech the ASV spells with that, so rule 43's unrepresented arm does not reach it."
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "37c537d3df2f7b084d8984c501080d1c525ca378929ac248a7012e43fc06d5f2",
+  "contract_version": "ot-hebrew-verse-v67",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: all 22 source ids and all 26 target ids occur exactly once across the 21 units; s006 (the article before *linen*, for which the ASV writes no *the*) and s016 (the לְ of לֵאמֹר, rule 27) are the only unrepresented tokens and nothing is added.",
+    "Article accounting: s003 takes the single *the* of *the man* (rules 15, 47) and s009 takes the *the* standing before its own word in *the inkhorn* (rule 29); the supplied *the* of *the matter* goes to the nominal expression it determines under rule 15.",
+    "s011 carries the recast possessive *had* with its own *by*, decided on this verse's evidence by rule 43's subtraction test over a prepositional predicate whose copula rule 49 assigns to the preposition; the note names the readings that would put *had* on אֲשֶׁר or mark it added.",
+    "s019+s020 (כַּאֲשֶׁר → *as*) fuses under rule 30, headed on the preposition whose sense the one English word writes; the note names the competing head on the relative (rule 8).",
+    "Variant WLC.EZK.9.11.v004 is selected to r01 over s019–s020 and is compatible with it, with no FALLBACK EXCLUDED mark, so rule 53 does not engage and both projected tokens are aligned as written."
+  ],
+  "ref": "EZK.9.11",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

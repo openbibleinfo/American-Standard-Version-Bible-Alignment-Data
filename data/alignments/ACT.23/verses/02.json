@@ -1,0 +1,158 @@
+{
+  "alignments": [
+    {
+      "note": "Connective δέ rendered And.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Article surfaces as the English the (rule 19).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "ἀρχιερεύς → high priest heads on priest (rule 66).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Substantival article before a participle supplies the pronoun and nothing else (rule 32).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Relativizer is the participle's helper (rule 31). The particle by is not the preverb's here: rule 106's preverb arm is scoped to a particle no other source token stands to answer to, and the bare dative αὐτῷ stands.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "παρίστημι governs a bare dative, so the English preposition realizes the case government and rides with the governed word, as rule 106's own ACT.4.1 ἐπέστησαν αὐτοῖς → came / upon them does; the pronoun carries no determiner, so by stays on it under rule 21's determinerless clause, exactly as ACT.23.33 παρέστησαν … αὐτῷ → before him reads it in this chapter.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "τὸ στόμα is accusative and has no case for on to realize, so the preposition is the verb's own phrasal government and stays inside its unit, discontinuously under rule 15 (rules 21, 106).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013",
+        "t015"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Genitive pronoun recast as the English object him.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "The article keeps a bare determiner; rule 21 gives it no case preposition, an accusative having none for on to realize.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "ACT.23.2",
+  "review_notes": [
+    "Corrected the placement of by: the accepted alignment put it on παρεστῶσιν as a preverb realization, but rule 106 scopes that arm to a particle no other source token answers to, and the bare dative αὐτῷ stands. ACT.4.1 ἐπέστησαν αὐτοῖς → came / upon them is the rule's own precedent, and ACT.23.33 already reads παρέστησαν … αὐτῷ → before him the same way.",
+    "Corrected the placement of on: rules 21 and 106 both say in terms that a preposition standing over an accusative object is the verb's or the frame's and never the object's, so on joins τύπτειν and the article keeps a bare the. The accepted unit's own note recorded this reading as the competing one; the contract forecloses the choice."
+  ]
+}

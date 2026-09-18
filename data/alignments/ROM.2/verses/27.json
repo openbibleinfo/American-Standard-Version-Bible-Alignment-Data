@@ -1,0 +1,234 @@
+{
+  "alignments": [
+    {
+      "note": "Coordinating conjunction.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Rule 17: head on the lexical verb; the auxiliary is discontinuous under rule 15 because the ASV recasts the clause as a question.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Rule 5: the projection carries no negator in this clause. The ASV turns the Greek statement into a rhetorical question and supplies *not*, which answers to no source token; rule 86's test finds nothing to license it. Folding it onto κρινεῖ remains defensible.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Rule 31: an article preceding the noun it governs takes the determiner along with the supplied relativizer, headed on *the*, discontinuously under rule 15; the modifier ἐκ φύσεως is verbless.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t006"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Head noun, left bare by rule 31.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Rule 31 with rule 53: a prepositional modifier has no verb, so the copula goes with the preposition.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Governed noun.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Rules 86 and 74: the participle carries the subordination, so the supplied *if* and the supplied subject are helpers on it.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Rule 19.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Object noun.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Accusative object pronoun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Corrected from an alignment to *who*. Rule 92: rule 31's verbless-modifier carve-out does not reach an expressed appositional predicate noun, so where the ASV recasts the phrase as a finite relative clause the article takes only the determiner written for it — here the indefinite *a*, which rule 92 aligns to an article in all eight such corpus units — and the noun carries the relativizer and copula. Rule 57 forbids handing a supplied determiner to a noun standing behind its own article.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Preposition rendered *with*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Rule 51's anarthrous clause: the supplied determiner belongs to the noun.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Coordinating conjunction.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Coordinate noun.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Corrected: rule 92 gives the expressed appositional predicate noun the supplied relativizer *who* and the supplied copula *art* along with its own word, headed on the noun, discontinuously under rule 15. Rule 53's test decides it — an expressed predicate noun is a token left to carry the supplied words, whereas a prepositional phrase is not.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t023",
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "note": "Rule 51's anarthrous clause with rule 21: the supplied determiner and the case preposition go with the noun.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t026",
+        "t027",
+        "t028"
+      ],
+      "target_head": "t028"
+    }
+  ],
+  "ref": "ROM.2.27",
+  "review_notes": [
+    "Corrected s011/s016: the accepted alignment gave *who* to τόν under rule 31's verbless-modifier carve-out, but rule 92 says in terms that the carve-out does not reach an expressed appositional predicate noun. παραβάτην is such a noun and takes *who … art … transgressor*; the article keeps only the supplied *a*.",
+    "t003 *not* is kept added: the projection carries no negative particle in this verse and rule 86's licensing test finds no token for it.",
+    "s003 is unaffected: its modifier ἐκ φύσεως is a prepositional phrase with no verb, so rule 31's precede clause gives the article the discontinuous *the … which*."
+  ]
+}

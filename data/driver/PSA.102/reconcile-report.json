@@ -1,0 +1,28 @@
+{
+  "chapter": "PSA.102",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Phrasal particles the ASV writes with this chapter's verbs — 'poureth out' (v0), 'consume away' (v3), 'taken ... up' and 'cast ... away' (v10), 'built up' (v16), 'looked down' (v19), 'take ... away' (v24) — are all kept in the verb's unit under rule 44 and none marked added. 'built up' (בָּנָה, v16) is the one where rule 44's surplus-particle test could go either way; it was read as the ASV's ordinary phrasal rendering of building a city rather than a result the Hebrew does not write, and the competing 'up' added reading is named in the unit note."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 29 candidate groups against the verses. None is a split: every difference is one the ASV or the Hebrew licenses.",
+    "דּוֹר: v12 (לְדֹר וָדֹר → 'unto all generations') and v24 (דוֹר דּוֹרִים → 'throughout all generations') both render the first occurrence and leave the second unrepresented; v12 is rule 22's distributive-with-waw case and v24 its construct-headed case, so the two agree for different reasons and both are right. v18 'the generation' is an ordinary singular.",
+    "אֵת: v14 takes 'in'/'upon' because 'take pleasure in' and 'have pity upon' reach their object only through the preposition (rule 16); v15, v17, v22 are unrepresented because 'fear', 'despised', 'serve' take a bare object. v13 'have mercy upon Zion' / 'have pity upon her' put the same 'upon' on the verb because no marker stands there (rule 44) — v13 and v14 are the two shapes, consistently read.",
+    "Assimilated articles: 'the' where the ASV writes it (v8, v15, v17, v23, v25), unrepresented where it writes 'a' or nothing (v4, v9, v11, v26). Correct by rule 12.",
+    "אֶל: 'unto' in v1/v2, unrepresented in v17/v19 where 'regarded'/'behold' take a bare object (rule 40). Consistent.",
+    "The three added units (v13 asyndetic 'and', v13 anticipatory 'it', v21 lexical subject 'men') have no counterpart folded elsewhere in the chapter; no supplied connective or subject was absorbed into a neighbouring morpheme.",
+    "Phrasal particles (pour out, consume away, taken up, cast away, looked down, take away, built up) are uniformly kept with the verb under rule 44; v16 'built up' is the only debatable one and its note names the competing reading.",
+    "BSB disagreements: paragogic he (v1, rule 32), four prepositions the ASV recasting silences (v2 לְ, v6 לְ, v17/v19 אֶל, rule 40), and the v12/v24 repeated דּוֹר with its waw (rule 22) are all documented convention differences. None is an error.",
+    "No promotion or amendment: the chapter taught nothing the contract does not already say."
+  ]
+}

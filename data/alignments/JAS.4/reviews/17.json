@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "2940fd5a60930803428c760771cc7b4f672434897295c781a2593e937a9a918b",
+  "contract_version": "nt-greek-verse-v64",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Kept the accepted alignment unchanged in structure and heads; the only edit is an expanded note on s007 recording the two competing readings and why each was rejected, per rule 16.",
+    "All 10 source ids and all 17 target ids are partitioned exactly once. Every unit is `aligned`; there are no unrepresented, added or noncompositional units, and no verse in this projection is orphaned across a versification seam (rules 37, 97 not in play).",
+    "s007 is the one materially contestable unit. *it* has three defensible homes: on the participle as a supplied object (taken), `added` under rule 103, or folded onto the antecedent s003/s004 on the shape of 3JN.1.13. Rule 74 states in terms that a supplied object stays with the verb that requires it in English, and rule 103 names a resumptive pronoun as its own contrast case, so the taken reading rests on two explicit contract statements rather than on analogy.",
+    "s001 has no Greek article, so rule 32's split of a substantival article from its participle is not triggered and rule 90 does not bear on it; the supplied antecedent pronoun and the relativizer both stay with the participle as rule 7 helpers, headed on *knoweth* under rule 17.",
+    "The two English *to him* phrases are not a double realization of one token: t001/t002 is the participle's supplied antecedent with the dative case preposition riding along, and t013/t014 is the resumptive `αὐτῷ`. Rule 103's repeated-lexical-content test does not reach them, both being pronouns the ASV writes for distinct source tokens.",
+    "s010 keeps the supplied dummy *it* because the Greek copula is expressed; the supplied-copula chain of rules 53/62/63/68/96 governs only verbless clauses and has no application here, so `ἁμαρτία` correctly stands bare on t017."
+  ],
+  "ref": "JAS.4.17",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

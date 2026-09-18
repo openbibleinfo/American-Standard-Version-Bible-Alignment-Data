@@ -1,0 +1,5 @@
+# Psalms 143 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- An English lexical verb no morpheme's rendering completes is marked `added` in this chapter rather than folded into a preposition, a noun or the one Hebrew verb standing beside it: v. 6 *thirsteth*, supplied for the verbless colon `נַפְשִׁי כְאֶרֶץ עֲיֵפָה לְךָ` whose `לְ` keeps the *after* written for its own relation, and v. 9 *flee*, written beside the ASV's own *I ... to hide me* for the single verb `כִסִּתִי`. Rule 20's supplied-lexical-verb clause governs the first case in its own terms; the second is not literally a clause whose Hebrew has none, and the subtraction test is what decides it — dropping *flee* leaves `כָּסָה` its whole rendering in *hide*, so no written morpheme is diminished. The competing reading, taking *I flee ... to hide me* as one paraphrastic rendering of the one verb, is named in that unit's note.

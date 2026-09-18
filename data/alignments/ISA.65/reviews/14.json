@@ -1,0 +1,9 @@
+{
+  "alignment_sha256": "62e6fb72bc0feff574920a72c6c447d0e3d665487979bd1b97cf814a252de367",
+  "contract_version": "ot-hebrew-verse-v2",
+  "notes": [
+    "Checked full partition (18 source / 24 target IDs each used exactly once, 18 units), unit edges, and heads. Confirmed the flagged medium: mi->'for' and tuv->'joy' is correct rather than 'sing for joy' whole on ranan, because the ASV builds all three lines on the identical frame verb + 'for' + noun + 'of' + noun (sing/joy, cry/sorrow, wail/vexation), so the preposition and the noun each have their own English realization and rule 2 requires the split. Also verified rule 17 (verb + auxiliary units, explicit 'attem as its own unit), rule 18 ('my' split from 'servants'), rule 19 ('of heart', 'of spirit' headed on the nomen rectum), rule 14 (waw -> 'but'), and the rule 25 discontinuity on the clause-final wail."
+  ],
+  "ref": "ISA.65.14",
+  "status": "reviewed"
+}

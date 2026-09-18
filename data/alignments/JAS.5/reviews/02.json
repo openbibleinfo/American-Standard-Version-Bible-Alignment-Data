@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "e78c3c4f54e2ceb7fe5493f42eff0b954cf78e34f92dcecaa7bb0242152f4f30",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed unchanged: the accepted alignment partitions all 10 source and all 10 target ids exactly once, every head is a member of its array, and no unit needed correction.",
+    "Both articles are rightly emptied under rule 20 by the two genitive pronouns, neither of which is spent on another syntactic role, so rule 76's availability test does not reach them.",
+    "The verse's two verbs are split correctly: sesēpen takes are corrupted headed on corrupted, and gegonen takes the bare are that supports the predicate adjective. Expanded that unit's note to name rules 53 and 96 explicitly, since the English 'are moth eaten' reads like a supplied copula and a later reader will want the reason it is not — the Greek expresses the verb.",
+    "setobrota's head is the one genuinely open choice. Kept eaten and recorded in the unit that rule 104's lemma and neighbouring-class queries return nothing (hapax lexeme, no sēs or bibrōskō precedent), so the reading rests on rule 66's modifier-plus-head shape rather than on corpus usage."
+  ],
+  "ref": "JAS.5.2",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

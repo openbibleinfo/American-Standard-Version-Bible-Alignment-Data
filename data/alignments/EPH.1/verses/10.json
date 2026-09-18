@@ -1,0 +1,30 @@
+{
+  "ref":"EPH.1.10",
+  "alignments":[
+    {"source":["s001"],"source_head":"s001","target":["t001"],"target_head":"t001","status":"aligned","confidence":"high","note":""},
+    {"source":["s002"],"source_head":"s002","target":["t002","t003"],"target_head":"t003","status":"aligned","confidence":"high","note":"English indefinite article belongs to the anarthrous noun."},
+    {"source":["s003"],"source_head":"s003","target":["t004","t005"],"target_head":"t005","status":"aligned","confidence":"high","note":"'of' realizes the genitive case and 'the' the article."},
+    {"source":["s004"],"source_head":"s004","target":["t006"],"target_head":"t006","status":"aligned","confidence":"high","note":""},
+    {"source":["s005"],"source_head":"s005","target":["t007","t008"],"target_head":"t008","status":"aligned","confidence":"high","note":"'of' realizes the genitive case and 'the' the article."},
+    {"source":["s006"],"source_head":"s006","target":["t009"],"target_head":"t009","status":"aligned","confidence":"high","note":"ASV's note 'Greek seasons' glosses καιρῶν."},
+    {"source":["s007"],"source_head":"s007","target":["t010","t011","t012"],"target_head":"t011","status":"aligned","confidence":"high","note":"The infinitive is rendered by the phrasal verb 'to sum up'; the lexical verb is the head."},
+    {"source":["s008"],"source_head":"s008","target":["t014"],"target_head":"t014","status":"aligned","confidence":"medium","note":"The substantival article supplies the generic English noun 'things'; alternatively it could be unrepresented with 'all things' taken as one unit."},
+    {"source":["s009"],"source_head":"s009","target":["t013"],"target_head":"t013","status":"aligned","confidence":"high","note":""},
+    {"source":["s010"],"source_head":"s010","target":["t015"],"target_head":"t015","status":"aligned","confidence":"high","note":""},
+    {"source":["s011"],"source_head":"s011","target":[],"target_head":null,"status":"unrepresented","confidence":"high","note":"The article before the name has no English realization."},
+    {"source":["s012"],"source_head":"s012","target":["t016"],"target_head":"t016","status":"aligned","confidence":"high","note":""},
+    {"source":["s013"],"source_head":"s013","target":["t017","t018"],"target_head":"t018","status":"aligned","confidence":"high","note":"The substantival article is realized as 'the things'; the nominal expression is the head."},
+    {"source":["s014"],"source_head":"s014","target":["t019"],"target_head":"t019","status":"aligned","confidence":"high","note":"ASV's note 'Greek upon' marks the rendering of ἐπὶ as 'in'."},
+    {"source":["s015"],"source_head":"s015","target":["t020"],"target_head":"t020","status":"aligned","confidence":"high","note":""},
+    {"source":["s016"],"source_head":"s016","target":["t021"],"target_head":"t021","status":"aligned","confidence":"high","note":""},
+    {"source":["s017"],"source_head":"s017","target":["t022"],"target_head":"t022","status":"aligned","confidence":"high","note":""},
+    {"source":["s018"],"source_head":"s018","target":["t023","t024"],"target_head":"t024","status":"aligned","confidence":"high","note":"The substantival article is realized as 'the things'; the nominal expression is the head."},
+    {"source":["s019"],"source_head":"s019","target":["t025"],"target_head":"t025","status":"aligned","confidence":"high","note":""},
+    {"source":["s020"],"source_head":"s020","target":["t026"],"target_head":"t026","status":"aligned","confidence":"high","note":""},
+    {"source":["s021"],"source_head":"s021","target":["t027"],"target_head":"t027","status":"aligned","confidence":"high","note":""},
+    {"source":["s022"],"source_head":"s022","target":["t028"],"target_head":"t028","status":"aligned","confidence":"high","note":""},
+    {"source":["s023"],"source_head":"s023","target":["t029"],"target_head":"t029","status":"aligned","confidence":"high","note":""},
+    {"source":[],"source_head":null,"target":["t030","t031"],"target_head":"t031","status":"added","confidence":"high","note":"ASV marks the resumptive 'I say' as supplied; no source token licenses it."}
+  ],
+  "review_notes":["τὰ πάντα is split so that the adjective heads 'all' and the substantivizing article supplies 'things', matching the John 1 rule that a substantival article may realize a nominal expression.","τῷ before Χριστῷ has no English realization and is its own unrepresented unit."]
+}

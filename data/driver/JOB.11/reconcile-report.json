@@ -1,0 +1,24 @@
+{
+  "chapter": "JOB.11",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Existential אֵין before an anarthrous hiphil participle (11.3 וְאֵין מַכְלִם, 11.19 וְאֵין מַחֲרִיד): the negation word alone is אֵין's ('no', 'none'; rule 50), and the participle takes its light-verb rendering headed on the complement ('make ... ashamed', 'make ... afraid'; rule 44) together with any generic noun the ASV supplies to make it a noun phrase ('man' in 11.3; rule 46). 'no man' is not read as an equivalent of 'none' resting whole on אֵין; the supplied object 'thee' is added in both verses."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v218",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 16 candidate lemmas; none is a split. The differences are ASV renderings the source licenses: waw connectives read off the ASV (rule 14), אִם taking a fronted auxiliary in the second disjunctive question (11.2, 11.7) versus If (11.10, 11.13, 11.14), the two לְ of 11.6 (dative silenced under rule 40 beside a written 'of'), and מִן as comparative 'than' versus privative 'without' (11.15) versus silenced under a subject recasting (11.20).",
+    "אֵין + hiphil participle occurs twice (11.3 'no man make thee ashamed', 11.19 'none shall make thee afraid') and is analysed the same way in both: negation word on אֵין (rule 50), light-verb rendering on the participle (rule 44), the 11.3 generic 'man' joining the participle under rule 46 because the ASV wrote it there and not in 11.19. Recorded as a convention.",
+    "Read the 13 added units across verses: each supplied pronoun, possessive, subordinator ('Though' 11.17, 'that' 11.16, 'and' 11.18) and lexical verb ('deserveth' 11.6) answers to no morpheme in its verse, and none is folded into a neighbouring morpheme in a sister verse.",
+    "BSB disagreements (5) are all documented convention differences: two waws the ASV leaves unrendered (11.3, 11.5), a dative לְ rendered as a bare indirect object (11.6), a מִן whose object the ASV promotes to subject (11.20), and a paragogic he (11.17). None is an error.",
+    "The four repeated notes restate rules 15, 20, 29 and 44 and need no convention. No promotion or amendment: the chapter teaches nothing the contract does not already hold."
+  ]
+}

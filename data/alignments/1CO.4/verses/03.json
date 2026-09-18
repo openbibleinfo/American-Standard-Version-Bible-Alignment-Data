@@ -1,0 +1,222 @@
+{
+  "alignments": [
+    {
+      "note": "Connective rendered *But*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Dative pronoun: the case preposition rides with the word under rule 21's determinerless clause, no article standing to anchor it.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Expressed copula with its supplied expletive subject (rule 9).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The ASV renders `εἰς ἐλάχιστόν ἐστιν` as *it is a very small thing*, writing no English preposition anywhere for the phrase; rule 36 leaves a preposition empty exactly where English realizes it nowhere at all.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Anarthrous substantival superlative expanded with a supplied determiner and generic noun; rule 17's generic-noun clause is scoped to anarthrous Greek and keeps the head on the adjective, with *very* an intensifying helper on the superlative.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t008",
+        "t009"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Conjunction realized by the complementizer that introduces its English clause (rule 40).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Subject, modal and passive auxiliary ride with the verb; head on the lexical *judged* (rules 9 and 17).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Agent preposition rendered *of*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Pronoun.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Disjunctive particle.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Second agent preposition rendered *of*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Adjective rendered by the English possessive *man's*; the ASV's gloss note (*Greek day*) confirms that *judgment* answers to the noun and not to this word.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "`ἡμέρας` rendered *judgment*, as the ASV's own gloss note records.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Adversative rendered *yea*.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "The ASV writes a single *not* for this negative connective; no second negative word stands to carry the negation, so rules 41 and 59 do not empty it. Discontinuity is licensed by rule 15.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Finite verb with its supplied subject pronoun (rules 9 and 17).",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t022",
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Reflexive pronoun rendered by the three-word emphatic *mine own self*; head on the *-self* word under rule 17, as rule 107 heads a two-word emphatic on *self* rather than on the plain possessive standing first.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t025",
+        "t026",
+        "t027"
+      ],
+      "target_head": "t027"
+    }
+  ],
+  "ref": "1CO.4.3",
+  "review_notes": [
+    "All 17 source and 27 target ids are partitioned exactly once.",
+    "The `unrepresented` `εἰς` will be reported as a disagreement by a reference comparison; rule 36's test is that English realizes it nowhere in the verse."
+  ]
+}

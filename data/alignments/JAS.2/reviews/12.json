@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "d0160334ecace80e05a6fa214e0ce87674ade0fb48bcf311863bb5ea96fd6f69",
+  "contract_version": "nt-greek-verse-v62",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed and left unchanged: all 11 source and 18 target IDs are partitioned exactly once, every unit is aligned with both heads inside their arrays, and no unrepresented or added unit is needed.",
+    "The only materially contested seam is the infinitival 'to' (t011) between μέλλοντες and κρίνεσθαι. I re-checked it and kept the accepted split: rule 7's own examples (ἀντλῆσαι → 'to draw', προσκυνεῖν → 'to worship') and rule 61's no-preposition clause give a bare infinitival marker to its own verb. The competing reading — 'are to' as one periphrasis on μέλλοντες, leaving 'be judged' to the infinitive — remains defensible and is named in the s011 note under rule 16.",
+    "'men that are' stays whole on μέλλοντες rather than being split, because no Greek article is present for rules 22, 31, 32 or 90 to operate on; the supplied nominal and relativizer are rule 7 helpers on the participle, exactly as rule 31 says of a relativizer with no article to carry it.",
+    "Head on t010 'are' rather than t008 'men' confirmed under rule 91 rather than by English syntax: the corpus spends 'about to' / 'are to' on μέλλω and never 'men', so 'men' is the generic completion rule 17 refuses as a head. This is not a case where the head is in genuine doubt.",
+    "νόμου is anarthrous, so 'a' is a rule 7 helper on the noun and rule 51's article clause does not apply; the packet gloss's bracketed '[the]' is projection convention and was not read as a source article. Likewise no article stands to anchor 'of' before ἐλευθερίας, so rule 21's bare-of prohibition keeps it on the noun under rule 23."
+  ],
+  "ref": "JAS.2.12",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

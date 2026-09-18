@@ -1,0 +1,25 @@
+{
+  "chapter": "2SA.9",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The naming formula וּשְׁמוֹ X → 'whose name was X' (9.2, 9.12): the possessive suffix on שֵׁם takes the relative 'whose' (rule 18), the waw of the recast clause is unrepresented because the ASV writes no separate connective (rule 17's explicit-pronoun reasoning applied to a suffix), and the construction's copula joins the predicate name (rule 20). The competing reading — 'whose' to the waw under rule 17 — is named in both notes and was not taken.",
+    "בַּעֲבוּר + possessor → 'for X's sake' (9.1, 9.7): the preposition and its construct noun fuse under rule 30 as one rendering 'for … sake', headed on the construct noun and on 'sake', discontinuous around the possessor, which keeps its own English as an English possessive ('Jonathan's', 'Jonathan thy father's')."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked every multi-treatment bucket in the candidate table; none is a split. Every difference is licensed by the ASV's own wording: עִם + suffix is unrepresented where the ASV writes 'show him/thee kindness' (9.1, 9.7) and takes 'unto' where it writes 'unto him' (9.3); possessive לְ carries 'hath/had' (9.3, 9.10, 9.12) and 'there was of' where the ASV writes that frame (9.2); הָיָה לְ takes 'pertained' with לְ keeping 'to' (9.9) but 'may have' with לְ silent (9.10); the waws before מְפִיבֹשֶׁת take 'but', 'As for' and 'So' as written (9.10, 9.11, 9.13).",
+    "Recurring constructions are analysed the same way throughout: וּשְׁמוֹ X → 'whose name was X' gives 'whose' to the suffix, leaves the waw unrepresented and puts the copula on the name (9.2, 9.12); בַּעֲבוּר → 'for … sake' fuses on the construct noun headed on 'sake', discontinuous around the possessor (9.1, 9.7); הִשְׁתַּחֲוָה → 'did obeisance' heads on the complement (9.6, 9.8); the interrogative הֲ takes the fronted copula with the existential keeping the presentative frame (9.1, 9.2, 9.3); the article on a possessor rectum takes the phrase's 'the' (9.11, 9.13).",
+    "The four added units (9.2 'he', 9.3 'his', 9.10 'the fruits', 9.11 'said the king') are all English no morpheme answers to; none has a counterpart elsewhere in the chapter folded into a licensing word. Two single-verse judgments carry a named competing reading and were left as accepted: 9.8 אֲשֶׁר unrepresented beside כְּמוֹ → 'such … as … am', and 9.10 'bring in' keeping its particle with the hiphil of בּוֹא.",
+    "BSB disagreements are all documented convention: unrendered discourse כִּי (9.1), waws of clauses the ASV recasts as a relative or an infinitive (9.2, 9.12, 9.10), datives and עִם left bare by the recasting (rule 40), articles the ASV drops in 'king David' and 'a dead dog' (9.5, 9.8), and the object suffix of וַאֲכָלוֹ the ASV's 'to eat' omits (9.10). None is an error.",
+    "Nothing here generalises beyond rules 14, 18, 30, 43 and 49 as they already stand; no promotion or amendment."
+  ]
+}

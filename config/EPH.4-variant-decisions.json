@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "chapter": "EPH.4",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.EPH.4.6.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'and through all, and in all' ends the series with a bare πᾶσιν; RP's added ἡμῖν would give 'in us all'."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.4.7.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The readings differ only in the article ἡ before χάρις; ASV 'was the grace given' supplies the English definite article that an abstract noun takes here either way."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.4.8.v003",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'And gave gifts unto men' opens the quoted line with an unitalicized conjunction rendering καί; the base reading begins at ἔδωκεν and leaves nothing for 'And'."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.4.9.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'that he also descended into the lower parts of the earth' has no 'first', and its note 'Some ancient authorities insert first' maps explicitly to RP's added πρῶτον."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.4.15.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The readings differ only in the article ὁ before Χριστός; English drops the article before a proper name, so ASV 'even Christ' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.4.17.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'as the Gentiles also walk' renders τὰ ἔθνη alone; RP's added λοιπὰ would give 'as the rest of the Gentiles'."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.4.18.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἐσκοτωμένοι and ἐσκοτισμένοι are the perfect passive participles of the two by-forms σκοτόω and σκοτίζω in the same tense, voice, and case; ASV 'being darkened in their understanding' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.4.26.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The readings differ only in the article τῷ after ἐπί; ASV 'upon your wrath' renders the prepositional phrase the same way with or without it."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.4.28.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'working with his hands the thing that is good' keeps the hands before τὸ ἀγαθόν, where RP's order would give 'working the thing that is good with his hands', and its 'his' is unitalicized, answering to ἰδίαις rather than to WH's bare ταῖς χερσίν."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.4.32.v010",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'and be ye kind one to another' has an unitalicized connective rendering δέ; the base reading opens the verse with a bare γίνεσθε."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.4.32.v011",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'even as God also in Christ forgave you' renders ὑμῖν, and its note 'Many ancient authorities read us' maps explicitly to RP's ἡμῖν."
+    }
+  ]
+}

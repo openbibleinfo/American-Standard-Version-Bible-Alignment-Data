@@ -1,0 +1,82 @@
+{
+  "alignments": [
+    {
+      "note": "Article → The (rule 19).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Noun → salutation.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Genitive name rendered of me Paul; the case preposition and the supplied appositional pronoun are its helpers and the name is the head (rules 7, 17).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Article displaced by the first-person possessive adjective (rule 54).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Possessive adjective → mine own, headed on the possessive word.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Dative noun with its case preposition with, discontinuous around the possessive; no article carries a determiner here, so the preposition stays with the noun (rules 15, 21).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t009"
+      ],
+      "target_head": "t009"
+    }
+  ],
+  "ref": "1CO.16.21",
+  "review_notes": [
+    "own is kept inside the possessive adjective's unit, ἐμῇ being the only token it can answer to."
+  ]
+}

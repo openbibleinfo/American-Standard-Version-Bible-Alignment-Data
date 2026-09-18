@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "chapter": "1CH.7",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1CH.7.1.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Jashub' renders the qere יָשׁוּב (shureq, -ub); the ketiv ישיב would yield 'Jashib'. The 'other' note concerns Puvah/Iob in Gen 46:13, not this name."
+    },
+    {
+      "unit_id": "WLC.1CH.7.10.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Jeush' renders the qere יְעוּשׁ; the ketiv יעיש would yield 'Jeish'. No note is mapped."
+    },
+    {
+      "unit_id": "WLC.1CH.7.31.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Birzaith' renders the qere בִרְזָיִת (-aith); the ketiv ברזות would yield 'Birzoth'. No note is mapped."
+    },
+    {
+      "unit_id": "WLC.1CH.7.34.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere וְרָהְגָּה and ketiv ורוהגה differ only by a plene waw inside the name; both transliterate as 'and Rohgah', which is what ASV prints. The 'other' note (Shomer, v. 32) concerns a different name. Base qere projection retained."
+    },
+    {
+      "unit_id": "WLC.1CH.7.34.v005",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'Jehubbah' renders the ketiv יחבה with initial yod and no conjunction ('Rohgah, Jehubbah, and Aram' — no 'and' before the name); the qere וְחֻבָּה would yield 'and Hubbah'. The 'other' note (Shomer, v. 32) concerns a different name."
+    }
+  ]
+}

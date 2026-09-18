@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "chapter": "2SA.12",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2SA.12.9.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV renders 'in his sight': third-person suffix matches the ketiv בעינו; the qere בְּעֵינַי would be 'in my sight'."
+    },
+    {
+      "unit_id": "WLC.2SA.12.20.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'his apparel' is a collective noun that renders either the plural qere שִׂמְלֹתָיו or the singular ketiv שמלתו; no note is mapped to this unit."
+    },
+    {
+      "unit_id": "WLC.2SA.12.22.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'will be gracious to me' renders the verb identically whether it is the weqatal qere וְחַנַּנִי or the yiqtol ketiv יחנני; the waw of the qere is conjugational and leaves no English trace, and no note is mapped."
+    },
+    {
+      "unit_id": "WLC.2SA.12.24.v004",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text reads 'he called his name Solomon', the masculine ketiv ויקרא; the mapped textual_variant note 'Another reading is, she called' records the feminine qere וַתִּקְרָא as the alternative not adopted."
+    },
+    {
+      "unit_id": "WLC.2SA.12.31.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'brickkiln' (note: 'Or, brick-mould') renders מַלְבֵּן, the qere; the ketiv במלכן is not a word for brickkiln. The 'slight change in the Hebrew text' note concerns the verb 'made them pass through'/'made them labor', not this noun."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "chapter": "PSA.90",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PSA.90.8.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere שַׁתָּה and ketiv שת differ only in the final mater (plene vs defective spelling of the 2ms perfect שַׁתָּ); the ketiv is pointed and read as the same 2ms form. ASV 'Thou hast set' renders that verb identically under either spelling, no italic supply, and no ASV note is mapped to this unit; the qere base fallback carries the projection."
+    }
+  ]
+}

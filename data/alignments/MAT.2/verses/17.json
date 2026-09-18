@@ -1,0 +1,120 @@
+{
+  "alignments": [
+    {
+      "note": "Adverb τότε → Then.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Passive verb with its auxiliary, headed on the lexical verb (rules 9, 17).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Substantival article before a participle: the ASV writes two English words for the pair, that and which, so rule 32's ordinary split applies and the article supplies the pronoun that and nothing else. Rule 90 gives the article a single word only where the ASV writes one, as MAT.2.15 and MAT.2.23 do with which; the corpus units in which τό takes that which whole, which rule 77 counts, are those whose complement is an adjective or a prepositional phrase with no verb to carry the relativizer (rules 22, 31).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The participle keeps the supplied relativizer which along with the copula was and its own verb spoken, headed on the lexical verb (rules 31, 32).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Preposition διά → through.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Name → Jeremiah.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Article → the (rule 19).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Noun → prophet.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Participle → saying.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    }
+  ],
+  "ref": "MAT.2.17",
+  "review_notes": [
+    "Corrected: the accepted unit gave that which whole to the article and only was spoken to the participle. Rule 32 forbids a single unit taking a pronoun plus a relativizer in terms — never one unit taking they that — and rule 90 relaxes it only where the ASV writes one English word for the pair.",
+    "The variant unit SBLGNT.MAT.2.17.v006 is selected to the base reading over s005, which the ASV translates as through; no textual decision is taken here (rule 12)."
+  ]
+}

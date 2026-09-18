@@ -1,0 +1,453 @@
+{
+  "alignments": [
+    {
+      "note": "Imperative takes Say.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Preposition takes unto.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Suffix takes the object pronoun them (rule 18).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The oath formula's fixed rendering 'As ... live' belongs to the predicate adjective, discontinuous around the pronoun under rule 25 and headed on live (rule 55).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Explicit pronoun takes only its own I; the formula's As belongs to חַי (rule 55).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The construct נְאֻם is what the ASV renders by the verb saith.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "The divine title takes the supplied the with its noun (rule 15).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The suffix of אֲדֹנָי is not separately rendered in the ASV's 'the Lord'.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The name takes Jehovah.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "The oath's אִם carries the negation the ASV writes as no; the competing reading folds it into the verb's rendering, which I did not take because the negation is what this particle contributes.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Light verb plus complement 'have pleasure', headed on pleasure (rule 44); discontinuous around the negation under rule 25.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Preposition takes in.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Construct takes the supplied the beside its own noun; the article on the rectum takes the other written the (rule 29).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Article takes the the standing before its own word (rule 29).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Rectum takes of + substantive (rule 19).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Corrected: כִּי אִם is the fusion rule 35 names, rendered by the single English but, so the two morphemes share one unit; the one-English-word condition of rule 30 is met once the complementizer that is placed on the infinitival בְּ under rule 52. Headed on כִּי as the governing conjunction that opens the expression, as EZK.33.27 heads אִם לֹא on its opening particle; heading on אִם is the defensible alternative. The accepted alignment instead split כִּי → but and אִם → that, which left the present בְּ unrepresented and gave a complementizer to a particle that does not contribute one.",
+      "source": [
+        "s016",
+        "s017"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Corrected: the preposition before the infinitive construct takes the complementizer of the recast finite clause 'that the wicked turn' (rule 52); it is a present morpheme with English written for it, so rule 40's unrepresented reading does not apply.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Infinitive keeps the verb, the supplied subject being the explicit noun (rule 52).",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "note": "Anarthrous substantive takes the supplied the; head on the lexeme (rule 46).",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t023",
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Preposition takes from.",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t026"
+      ],
+      "target_head": "t026"
+    },
+    {
+      "note": "Construct noun takes way.",
+      "source": [
+        "s022"
+      ],
+      "source_head": "s022",
+      "status": "aligned",
+      "target": [
+        "t028"
+      ],
+      "target_head": "t028"
+    },
+    {
+      "note": "Suffix takes the possessive his (rule 18).",
+      "source": [
+        "s023"
+      ],
+      "source_head": "s023",
+      "status": "aligned",
+      "target": [
+        "t027"
+      ],
+      "target_head": "t027"
+    },
+    {
+      "note": "Waw takes and (rule 14).",
+      "source": [
+        "s024"
+      ],
+      "source_head": "s024",
+      "status": "aligned",
+      "target": [
+        "t029"
+      ],
+      "target_head": "t029"
+    },
+    {
+      "note": "Verb takes live.",
+      "source": [
+        "s025"
+      ],
+      "source_head": "s025",
+      "status": "aligned",
+      "target": [
+        "t030"
+      ],
+      "target_head": "t030"
+    },
+    {
+      "note": "Imperative takes verb plus subject pronoun (rule 17).",
+      "source": [
+        "s026"
+      ],
+      "source_head": "s026",
+      "status": "aligned",
+      "target": [
+        "t031",
+        "t032"
+      ],
+      "target_head": "t031"
+    },
+    {
+      "note": "The repeated imperative takes the repeated English imperative.",
+      "source": [
+        "s027"
+      ],
+      "source_head": "s027",
+      "status": "aligned",
+      "target": [
+        "t033",
+        "t034"
+      ],
+      "target_head": "t033"
+    },
+    {
+      "note": "Preposition takes from.",
+      "source": [
+        "s028"
+      ],
+      "source_head": "s028",
+      "status": "aligned",
+      "target": [
+        "t035"
+      ],
+      "target_head": "t035"
+    },
+    {
+      "note": "Construct noun takes ways.",
+      "source": [
+        "s029"
+      ],
+      "source_head": "s029",
+      "status": "aligned",
+      "target": [
+        "t038"
+      ],
+      "target_head": "t038"
+    },
+    {
+      "note": "Suffix takes the possessive your (rule 18).",
+      "source": [
+        "s030"
+      ],
+      "source_head": "s030",
+      "status": "aligned",
+      "target": [
+        "t036"
+      ],
+      "target_head": "t036"
+    },
+    {
+      "note": "The ASV writes one determiner for the phrase and the suffix takes it, leaving the agreement article nothing (rule 41's limit).",
+      "source": [
+        "s031"
+      ],
+      "source_head": "s031",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Adjective takes evil.",
+      "source": [
+        "s032"
+      ],
+      "source_head": "s032",
+      "status": "aligned",
+      "target": [
+        "t037"
+      ],
+      "target_head": "t037"
+    },
+    {
+      "note": "Waw rendered by for (rule 14's open list).",
+      "source": [
+        "s033"
+      ],
+      "source_head": "s033",
+      "status": "aligned",
+      "target": [
+        "t039"
+      ],
+      "target_head": "t039"
+    },
+    {
+      "note": "לָמָּה is fused into the single English why, so the two morphemes share a unit headed on the interrogative (rule 30).",
+      "source": [
+        "s034",
+        "s035"
+      ],
+      "source_head": "s035",
+      "status": "aligned",
+      "target": [
+        "t040"
+      ],
+      "target_head": "t040"
+    },
+    {
+      "note": "Verb takes auxiliary, subject pronoun and lexical verb (rule 17); no interrogative morpheme claims the fronted auxiliary, since מָה has its own word.",
+      "source": [
+        "s036"
+      ],
+      "source_head": "s036",
+      "status": "aligned",
+      "target": [
+        "t041",
+        "t042",
+        "t043"
+      ],
+      "target_head": "t043"
+    },
+    {
+      "note": "Vocative takes the supplied O into its own unit (rule 36).",
+      "source": [
+        "s037"
+      ],
+      "source_head": "s037",
+      "status": "aligned",
+      "target": [
+        "t044",
+        "t045"
+      ],
+      "target_head": "t045"
+    },
+    {
+      "note": "Rectum takes of + name (rule 19).",
+      "source": [
+        "s038"
+      ],
+      "source_head": "s038",
+      "status": "aligned",
+      "target": [
+        "t046",
+        "t047"
+      ],
+      "target_head": "t047"
+    }
+  ],
+  "ref": "EZK.33.11",
+  "review_notes": [
+    "Corrected: כִּי אִם is fused into the single 'but' under rules 30 and 35, and the infinitival בְּ takes the complementizer 'that' under rule 52 instead of going unrepresented. The accepted split gave 'that' to אִם, which contributes no complementizer, and silenced a present preposition for which the ASV had written a word.",
+    "The oath 'As I live' is the formula's own rendering: the adjective takes 'As ... live' and אָנִי only its I (rule 55).",
+    "The head of the כִּי אִם unit is a genuine tie; it is taken on the opening conjunction, matching the treatment of אִם לֹא elsewhere in this chapter, and the alternative is named in the unit note."
+  ]
+}

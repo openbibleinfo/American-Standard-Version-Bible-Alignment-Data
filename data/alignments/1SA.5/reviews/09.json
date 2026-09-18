@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "01ab3d9b16eca2bd55301531cb9aa2f4f1592b13698c51e4918832e45e86bc07",
+  "contract_version": "ot-hebrew-verse-v202",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 32 source morphemes and all 42 target tokens are partitioned exactly once.",
+    "The frame's *that* stands immediately after *And it was so*, ahead of the *after* clause, so rule 45's word-order rider keeps it with `הָיָה` and leaves the apodosis waw `unrepresented`. This is the opposite division from 1SA.5.10, where the ASV writes the *that* at the apodosis head — the two verses are the rule's two shapes in one chapter.",
+    "`מְהוּמָה גְדוֹלָה מְאֹד` is a bare nominal with no preposition or marker on it; the supplied *with* and the indefinite *a* both go to the noun under rules 33 and 15, headed on *discomfiture*.",
+    "`מִקָּטֹן וְעַד־גָּדוֹל` → *both small and great*: `מִן` takes *both*, the waw stands where the connective stands and takes *and*, and the `עַד` whose connective the waw has answered for is `unrepresented` (rules 14, 26).",
+    "Variant WLC.1SA.5.9.v002 is underdetermined with the base reading retained and no fallback exclusion marked, so rule 53 does not arise."
+  ],
+  "ref": "1SA.5.9",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

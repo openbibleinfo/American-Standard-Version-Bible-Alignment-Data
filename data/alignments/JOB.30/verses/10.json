@@ -1,0 +1,159 @@
+{
+  "alignments": [
+    {
+      "note": "Finite verb takes its English subject pronoun and lexical verb under rule 17; head on the lexical verb.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Object suffix realized by *me* under rule 18.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "`רָחֲקוּ` rendered *they stand aloof*; the subject pronoun stays with the verb under rule 17. Head corrected to *aloof* by rule 44's subtraction test: dropping *aloof* leaves *they stand from me*, which says nothing of distance, while *aloof* alone carries רָחַק's lexeme of being far. *stand* is the competing reading and was rejected, since rule 44 forbids reading rule 24's *lexical predicate* as a preference for the English verb, and *aloof* is a complement rather than a bare particle like *forth* or *away*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "`מִן` takes the written *from*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Suffix realized by *me* under rule 18; the lemma displayed on this segment is a distribution defect and the morphology governs (rule 39).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Waw takes the connective *And* under rule 14.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The ASV recasts `מִפָּנַי לֹא־חָשְׂכוּ רֹק` as *spare not to spit in my face*, writing *in* for the preposition's own relation; each morpheme of the phrase has a rendering of its own, so rule 30's one-rendering condition is unmet and rule 2 splits the pair. The margin *Or, at the sight of me* was read and set aside under rule 38.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "`פָּנֶה` takes its own *face*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Possessive suffix realized by *my* under rule 18.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Negative takes the written *not*, which the ASV postposes after the verb (rule 25).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "`חָשְׂכוּ` rendered *spare*; the ASV writes no subject pronoun for it here.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "The noun `רֹק` is recast as the verbal complement *to spit*; English writes no bare infinitive complement, so the marker *to* is licensed by that rendering and joins the unit under rule 52's closing sentence, headed on the word carrying the lexeme.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "JOB.30.10",
+  "review_notes": [
+    "Head of the `רָחֲקוּ` unit moved from *stand* to *aloof*: the accepted note claimed *stand* carries the verb's lexeme of distancing, but rule 44's subtraction shows the reverse — *stand* alone names posture, *aloof* alone names distance. Everything else in the verse is unchanged.",
+    "ASV *spit in my face* recasts the Hebrew *they have not withheld spittle from my face*; the preposition, the noun and the suffix each keep a written English word, so the phrase is split rather than fused under rule 30, unlike the מִפָּנַי of JOB.30.11.",
+    "Marginal note *Or, at the sight of me* read and set aside under rule 38; the printed text governs.",
+    "The packet header counts 18 targets while the token table lists t001–t016; the ids are what is partitioned, and all sixteen are covered exactly once."
+  ]
+}

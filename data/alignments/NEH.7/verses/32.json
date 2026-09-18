@@ -1,0 +1,133 @@
+{
+  "alignments": [
+    {
+      "note": "אַנְשֵׁי takes only its own English word. The ASV writes a single *The* for the phrase and an article morpheme stands on the chain's second nomen rectum, so the construct does not take a supplied *the* here (rule 29).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "*of* on the nomen rectum (rule 19); the compound name is two source tokens and two target tokens.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Second token of the compound name.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Waw rendered *and* (rule 14).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "הָעָי's article: the rectum is rendered anarthrously (*Ai*), so the article takes the single *The* the ASV fronts to the phrase's left edge (rule 29), exactly as הָרָמָה's does in v.30. Rule 29's final clause applies only where the ASV writes no *the* for the phrase at all, and here it writes one. The competing reading — supply the *The* on אַנְשֵׁי and mark this article `unrepresented` — is the one v.30 corrected, and it is corrected here.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The coordinated place name, rendered bare.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "English *a* belongs to the noun (rule 15).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The tens numeral.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "The figure's single waw takes the ASV's single *and*, which stands between the same two numerals (rule 42).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "The units numeral.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    }
+  ],
+  "ref": "NEH.7.32",
+  "review_notes": [
+    "Corrected under rule 29 and for consistency with v.30: the chain's rectum הָעָי carries an article morpheme, so that morpheme takes the fronted *The* and אַנְשֵׁי takes only *men*.",
+    "The superseded reading applied rule 29's final clause on the ground that the ASV writes no *the* for the place name; the clause turns on no *the* for the phrase, as v.30's own review note records. The chapter's six other single-*the* chains with a present article — v.6 הַגּוֹלָה, v.30 הָרָמָה, v.65 הַקֳּדָשִׁים, v.66 הַקָּהָל, v.70 and v.71 הָאָבוֹת — all read this way.",
+    "BSB independently represents this article (WLC.NEH.7.32.005 in the validation report). That is secondary evidence and not the ground of the change (rule 38).",
+    "All other units are unaffected and are reproduced unchanged."
+  ]
+}

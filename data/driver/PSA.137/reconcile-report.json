@@ -1,0 +1,26 @@
+{
+  "chapter": "PSA.137",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The beatitude אַשְׁרֵי שֶׁ… → *Happy shall he be that …* divides so that אַשְׁרֵי takes *Happy shall … be*, the construction-supplied copula frame of rule 20, discontinuous around the supplied subject pronoun, while the written שֶׁ takes *he that* whole under rule 46's first rider and heads on *that*. The supplied *he* is the relative's antecedent and never the copula unit's, and the competing head *he* is named in each unit's note. So PSA.137.8 and PSA.137.9.",
+    "An English phrasal particle standing in a lexicalized collocation is kept with the verb under rule 44 rather than marked a surplus: *sat down* for יָשַׁב (v1) and *hanged up* for תָּלָה (v2) both leave the head on the lexical verb, because neither particle names a direction, result or repetition distinct from the verb's own lexeme, and in v2 the upon-relation is written by עַל besides. The competing `added` reading is named in the v1 note. Contrast the two supplied *it*s of v7, which are objects no morpheme writes and are `added`."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v208",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 13 candidate groups and all 9 verses end to end. No cross-verse split found, so patches is empty.",
+    "Multi-treatment lemmas are licensed by the source or by what the ASV wrote. שִׁיר: v3 *the songs* is a construct taking the supplied *the* of rule 29, v4 *song* is a chain the ASV recasts as an English possessive with no determiner written at all. יהוה: v4 is the possessive rectum, v7 a vocative with the supplied *O* of rule 36. צִיּוֹן: v1 is the bare object of the marker, v3 the rectum taking the chain's *of* under rule 19. שֶׁ: v8 and v9 both give *he that* to the written relative under rule 46's first rider, headed on *that*, while v8's third occurrence takes the *As* of the recast comparative clause. הַ: a relative on an attributive participle in v7 and v8 under rule 41, a written *the* in v9.",
+    "The לְ and עַל spreads are the ASV's own choice of English word plus three datives silenced under rule 40 (v3 s014, v8 s008, v8 s015), each rendered as a bare English object. Convention, not divergence.",
+    "Checked supplied English by reading the dump, since the candidate table is keyed by source lemma and is blind to `added` units. The chapter marks four — *saying* (v3), *her skill* (v5), two *it*s (v7) — and folds a phrasal particle into the verb twice — *sat down* (v1), *hanged up* (v2). That is rule 44's own line and not two treatments of one construction: *down* and *up* name no direction or result distinct from the lexemes of יָשַׁב and תָּלָה, and in v2 the upon-relation is written by עַל besides, whereas the *it*s of v7 supply objects no morpheme in the clause writes. The two *it*s are separate units because the ASV's own *rase* stands between them (rule 2), and *her skill* is a single run for the same reason.",
+    "BSB: four of the six disagreements are the documented לְ / אֵת convention difference (rules 40 and 16). The two that are not are גְּמוּלֵךְ and its suffix in v8. The ASV recasts יְשַׁלֶּם־לָךְ אֶת־גְּמוּלֵךְ as *rewardeth thee*, so *thee* realizes the לָךְ suffix on rule 40's own precedent (תְּנָה לִּי → *give me*) and the cognate object is left unwritten. The competing reading — silencing לָךְ and giving *thee* to the suffix of גְּמוּלֵךְ — leaves exactly one token unrepresented either way and has no precedent behind it, and the verb and its object are not contiguous, so rule 30 cannot fuse them. No genuine error; nothing changed to improve the rate.",
+    "No promotion. The *sat down* / *hanged up* judgment is rule 44 read correctly rather than a gap in it — that rule already says the first condition cannot decide a particle by itself, and keeps *find out* and *gather together* on the same ground — and the packet carries no corpus precedent for these lemmas that would carry a wider rule. Two conventions recorded instead."
+  ]
+}

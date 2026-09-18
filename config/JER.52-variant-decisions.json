@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "chapter": "JER.52",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JER.52.1.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's proper name 'Hamutal' distinguishes the qere חֲמוּטַל from the ketiv spelling חמיטל."
+    },
+    {
+      "unit_id": "WLC.JER.52.11.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'put him in prison' does not distinguish qere בֵית from ketiv בבית; the English locative wording permits either reading."
+    },
+    {
+      "unit_id": "WLC.JER.52.21.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'the height of the one pillar' expresses the construct relation marked by qere קוֹמַת, distinguishing it from ketiv קומה."
+    },
+    {
+      "unit_id": "WLC.JER.52.31.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'out of prison' gives no spelling or wording distinction between qere הַכְּלוּא and ketiv הכליא; both remain compatible."
+    },
+    {
+      "unit_id": "WLC.JER.52.32.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'the kings' explicitly represents the definite article in qere הַמְּלָכִים, distinguishing it from ketiv מלכים."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "chapter": "REV.7",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {"unit_id":"SBLGNT.REV.7.1.v001","status":"selected","selected_reading":"r00-base","compatible_readings":["r00-base"],"evidence":"ASV begins directly with 'After this', supporting base Μετὰ rather than Καὶ μετὰ."},
+    {"unit_id":"SBLGNT.REV.7.1.v002","status":"underdetermined","selected_reading":null,"compatible_readings":["r00-base","r01"],"evidence":"Under negation, ASV 'any tree' can represent either πᾶν or indefinite τι."},
+    {"unit_id":"SBLGNT.REV.7.3.v003","status":"underdetermined","selected_reading":null,"compatible_readings":["r00-base","r01"],"evidence":"ASV 'till' is equally compatible with ἄχρι and expanded ἄχρι οὗ."},
+    {"unit_id":"SBLGNT.REV.7.4.v004","status":"underdetermined","selected_reading":null,"compatible_readings":["r00-base","r01"],"evidence":"ASV's 'and' in 'a hundred and forty' is normal English numeral composition and does not securely distinguish an added Greek καί."},
+    {"unit_id":"SBLGNT.REV.7.4.v005","status":"underdetermined","selected_reading":null,"compatible_readings":["r00-base","r01"],"evidence":"ASV 'them that were sealed' does not preserve the nominative-versus-genitive participial form."},
+    {"unit_id":"SBLGNT.REV.7.5.v006","status":"underdetermined","selected_reading":null,"compatible_readings":["r00-base","r01"],"evidence":"ASV 'sealed' does not preserve the masculine-versus-feminine participial form."},
+    {"unit_id":"SBLGNT.REV.7.8.v007","status":"underdetermined","selected_reading":null,"compatible_readings":["r00-base","r01"],"evidence":"ASV 'sealed' does not preserve the masculine-versus-feminine participial form."},
+    {"unit_id":"SBLGNT.REV.7.9.v008","status":"underdetermined","selected_reading":null,"compatible_readings":["r00-base","r01"],"evidence":"ASV's non-resumptive relative 'which no man could number' is compatible with Greek containing or omitting resumptive αὐτόν."},
+    {"unit_id":"SBLGNT.REV.7.9.v009","status":"underdetermined","selected_reading":null,"compatible_readings":["r00-base","r01"],"evidence":"ASV 'standing' does not preserve the nominative-versus-accusative participial form."},
+    {"unit_id":"SBLGNT.REV.7.9.v010","status":"underdetermined","selected_reading":null,"compatible_readings":["r00-base","r01"],"evidence":"ASV 'palms' does not preserve the nominative-versus-accusative form."},
+    {"unit_id":"SBLGNT.REV.7.14.v011","status":"selected","selected_reading":"r00-base","compatible_readings":["r00-base"],"evidence":"ASV's explicit note 'Greek have said' identifies perfect εἴρηκα rather than aorist εἶπον."},
+    {"unit_id":"SBLGNT.REV.7.14.v012","status":"selected","selected_reading":"r00-base","compatible_readings":["r00-base"],"evidence":"ASV 'made them white' directly represents αὐτάς, omitted by RP."},
+    {"unit_id":"SBLGNT.REV.7.15.v013","status":"underdetermined","selected_reading":null,"compatible_readings":["r00-base","r01"],"evidence":"ASV 'before the throne' does not distinguish genitive τοῦ θρόνου from dative τῷ θρόνῳ after ἐνώπιον."},
+    {"unit_id":"SBLGNT.REV.7.16.v014","status":"underdetermined","selected_reading":null,"compatible_readings":["r00-base","r01"],"evidence":"ASV 'nor' does not expose whether the Greek has simple οὐδέ or reinforced οὐδ᾽ οὐ."},
+    {"unit_id":"SBLGNT.REV.7.17.v015","status":"selected","selected_reading":"r00-base","compatible_readings":["r00-base"],"evidence":"ASV future 'shall be their shepherd' supports future ποιμανεῖ rather than present ποιμαίνει."},
+    {"unit_id":"SBLGNT.REV.7.17.v016","status":"selected","selected_reading":"r00-base","compatible_readings":["r00-base"],"evidence":"ASV future 'shall guide' supports future ὁδηγήσει rather than present ὁδηγεῖ."}
+  ]
+}

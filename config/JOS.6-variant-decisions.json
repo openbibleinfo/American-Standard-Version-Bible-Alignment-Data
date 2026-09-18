@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "chapter": "JOS.6",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JOS.6.5.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'and when ye hear the sound of the trumpet' renders an infinitive construct with 2mp suffix; the qere's kaf-preposition and the ketiv's bet-preposition are both temporal here and yield the same English 'when ye hear'. The only note on the verse is a hebrew_gloss ('Hebrew in its place') attached to the wall falling flat, not to this word, so nothing in the ASV distinguishes the two spellings. Base fallback (qere) carries the projection."
+    },
+    {
+      "unit_id": "WLC.JOS.6.7.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'And they said unto the people' — a plural verb, matching the ketiv ויאמרו rather than the singular qere וַיֹּאמֶר ('and he said'). The verse's textual_variant note, 'Another reading is, he,' confirms the translators took the plural as the text and recorded the singular as the alternative."
+    },
+    {
+      "unit_id": "WLC.JOS.6.9.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'the priests that blew the trumpets' is satisfied equally by the qere construct participle תֹּקְעֵי ('blowers of') and by the ketiv finite תקעו ('they blew'), since the relative clause 'that blew' does not disclose participle versus finite verb. The verse carries no textual note. Base fallback (qere) carries the projection."
+    },
+    {
+      "unit_id": "WLC.JOS.6.13.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'went on continually, and blew the trumpets' renders the idiom either way: the qere הָלֹוךְ infinitive absolute ('going on') and the ketiv הולך participle ('going') are a difference of vowel-letter spelling that the English durative 'went on continually' does not distinguish. The verse carries no textual note. Base fallback (qere) carries the projection."
+    }
+  ]
+}

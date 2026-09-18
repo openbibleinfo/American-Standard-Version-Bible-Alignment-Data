@@ -1,0 +1,149 @@
+{
+  "alignments": [
+    {
+      "confidence": "high",
+      "note": "The article in הַכֹּל has no English 'the' and is therefore unrepresented under rule 12.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "Substantival כֹּל is realized discontinuously as 'They ... all'; 'all' carries the lexeme.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "confidence": "high",
+      "note": "סָר is rendered 'are gone aside'; the lexical predicate 'gone' is the target head.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "confidence": "high",
+      "note": "יַחְדָּו is directly rendered 'together'.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "confidence": "high",
+      "note": "The inflected plural verb supplies 'they are ... become filthy'; 'filthy' most directly realizes the Hebrew verbal lexeme.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "confidence": "high",
+      "note": "Negative existential אֵין is rendered 'There is none', including the dummy subject and copula; 'none' realizes its negative-existential force.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "confidence": "high",
+      "note": "The participle עֹשֵׂה is rendered by the relative construction 'that doeth'.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "confidence": "high",
+      "note": "טוֹב is directly rendered 'good'.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "confidence": "medium",
+      "note": "The negative existential and scalar גַּם are jointly realized by the ASV's emphatic phrase 'no, not'. Neither assigning 'not' atomically to גַּם nor assigning both negatives solely to אֵין captures the correspondence as well.",
+      "source": [
+        "s009",
+        "s010"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "confidence": "high",
+      "note": "אֶחָד is directly rendered 'one'.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "PSA.14.3",
+  "review_notes": [
+    "Corrected the closing clause by treating אֵין גַּם and the emphatic ASV rendering 'no, not' as one phrase-level alignment. The accepted analysis left גַּם unrepresented even though the English negative repetition conveys its scalar emphasis.",
+    "Kept the article s001 unrepresented because the ASV has no corresponding 'the'; the discontinuous 'They ... all' belongs to substantival כֹּל.",
+    "The interleaved target units in the first two clauses were retained without absorbing unrelated intervening tokens."
+  ]
+}

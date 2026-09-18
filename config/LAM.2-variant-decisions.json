@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "chapter": "LAM.2",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.LAM.2.2.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the conjunction and negation as ‘and hath not pitied,’ distinguishing qere וְלֹא from ketiv לא."
+    },
+    {
+      "unit_id": "WLC.LAM.2.14.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV’s ‘to bring back thy captivity’ renders qere שְׁבוּתֵךְ; the alternative-rendering note concerns English wording and does not support the ketiv."
+    },
+    {
+      "unit_id": "WLC.LAM.2.19.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV’s absolute phrase ‘in the night,’ followed separately by ‘at the beginning of the watches,’ distinguishes qere בַלַּיְלָה from ketiv construct בליל."
+    }
+  ]
+}

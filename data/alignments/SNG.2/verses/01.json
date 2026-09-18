@@ -1,0 +1,95 @@
+{
+  "alignments": [
+    {
+      "note": "Explicit subject pronoun takes only its own English (rule 20).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Verbless clause: the construction-supplied copula joins the nominal predicate (rule 20), and the indefinite article belongs to the noun that licenses it (rule 15).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Article on the rectum; the ASV writes no *the* for the phrase at all (*a rose of Sharon*), so rule 29's last sentence applies.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Construct relation goes to the nomen rectum, headed on the name (rule 19).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Construct noun keeps its own word; supplied indefinite article is the noun's own (rule 15).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Arthrous rendering of the rectum: the article takes the *the* standing before its own word (rule 29).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Rectum takes the relational *of*, headed on the noun (rules 19, 24).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t011"
+      ],
+      "target_head": "t011"
+    }
+  ],
+  "ref": "SNG.2.1",
+  "review_notes": [
+    "Two nominal clauses, each with a construct chain; the copula of the first is placed on the predicate under rule 20 and the second clause writes none."
+  ]
+}

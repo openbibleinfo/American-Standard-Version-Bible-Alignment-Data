@@ -1,0 +1,169 @@
+{
+  "alignments": [
+    {
+      "note": "Imperative with its English subject pronoun under rule 17; the *ye* stands immediately after the verb, which rule 36 makes the imperative's rather than a vocative's.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Short divine name rendered *Jehovah*. The margin's Hallelujah gloss is read and set aside under rule 38.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Causal particle rendered *For*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Predicate adjective of the verbless clause takes the construction-supplied copula under rule 20; the anticipatory *it* standing before it is placed separately, since the Hebrew writes an infinitive subject for this predicate.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "The Hebrew's subject of `טוֹב` is the infinitive phrase `זַמְּרָה אֱלֹהֵינוּ`, which the ASV extraposes and renders in full, putting an anticipatory *it* where that subject would stand. Rule 25's extraposition sentence governs: the pronoun denotes nothing the verse names and is its own `added` unit, exactly as `תוֹעֲבַת כְּסִילִים סוּר מֵרָע` → *it is an abomination to fools to depart from evil*. The competing reading keeps *it is* whole on `טוֹב` under rule 20's leading example *that it was good*; I took the split because that example has no extraposed clausal subject, its *it* denoting a referent the verse names.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Bare infinitive construct with no preposition takes the English infinitive marker under rule 52's closing sentence; *praises* carries the verb's own lexeme and joins its one rendering under rule 44, and the *unto* is the preposition the English verb's valency needs to reach its bare object `אֱלֹהֵינוּ`. Head on the lexical verb.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Construct noun keeps only its own word.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Pronominal suffix as possessive under rule 18.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Second causal particle rendered *For*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "The third colon writes no subject for `נָעִים`, and the ASV coordinates `נָאוָה תְהִלָּה` as a clause of its own rather than extraposing it, so nothing is anticipated here: the supplied *it is* is rule 20's construction-supplied copula joining the predicate adjective, as in that rule's own *that it was good*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Subject noun of the third colon.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Predicate adjective with the construction-supplied copula under rule 20; the subject noun `תְהִלָּה` keeps its own word.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t020",
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "No conjunction morpheme stands between the two predicates of the third line; the coordinating *and* answers to nothing and is `added` under rule 14's closing sentences. The ASV italic corroborates it, by rule 7.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    }
+  ],
+  "ref": "PSA.147.1",
+  "review_notes": [
+    "Corrected: the *it* of *it is good* is the anticipatory subject of an extraposed infinitive clause the Hebrew writes (`זַמְּרָה אֱלֹהֵינוּ`), so rule 25's extraposition sentence makes it `added` and leaves *is good* on `טוֹב`. The third colon is left as accepted, because there the ASV coordinates `נָאוָה תְהִלָּה` as its own clause and extraposes nothing, so rule 20's construction-supplied *it is* stands with `נָעִים`.",
+    "The alternative rendering in the margin (*Or, For he is good ... For he is gracious*) was read and set aside; the printed text governs, by rule 38."
+  ]
+}

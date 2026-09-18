@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "chapter": "NEH.7",
+  "policy": "An ASV verse the pinned WLC does not contain at all. Each one is resolved either by naming the parallel verse of the same edition that supplies it, or by recording that nothing does and its English is aligned as `added`. A supply names a full reference and quotes the words it takes, which the build checks against the pinned text before using them; the tokens keep that reference as their source_ref, so nothing downstream reads them as this chapter's own Hebrew.",
+  "verses": [
+    {
+      "target": "NEH.7.68",
+      "status": "resolved",
+      "resolution": "supplied",
+      "source": "EZR.2.66",
+      "evidence": "The Leningrad Codex has no horses-and-mules verse in Nehemiah 7: OSHB's WLC runs 1-72 where the ASV runs 1-73, and VerseMap records the omission by mapping WLC Neh 7:68 onto ASV 7:69. The same muster list is in the pinned edition at Ezra 2:66, and the ASV renders the two verses in identical English -- ASV Ezra 2:66 and ASV Nehemiah 7:68 both read \"Their horses were seven hundred thirty and six; their mules, two hundred forty and five;\" word for word. The neighbours corroborate the parallel: WLC Neh 7:68 (ASV 7:69) and Ezra 2:67 are both the camels and asses with the same figures, 435 and 6720. This supplies the Hebrew the ASV evidences here from the pinned edition itself; it is not a manuscript of Nehemiah, and is not presented as one.",
+      "source_words": [
+        {
+          "word": 1,
+          "text": "סוּסֵי/הֶ֕ם"
+        },
+        {
+          "word": 2,
+          "text": "שְׁבַ֥ע"
+        },
+        {
+          "word": 3,
+          "text": "מֵא֖וֹת"
+        },
+        {
+          "word": 4,
+          "text": "שְׁלֹשִׁ֣ים"
+        },
+        {
+          "word": 5,
+          "text": "וְ/שִׁשָּׁ֑ה"
+        },
+        {
+          "word": 6,
+          "text": "פִּרְדֵי/הֶ֕ם"
+        },
+        {
+          "word": 7,
+          "text": "מָאתַ֖יִם"
+        },
+        {
+          "word": 8,
+          "text": "אַרְבָּעִ֥ים"
+        },
+        {
+          "word": 9,
+          "text": "וַ/חֲמִשָּֽׁה"
+        }
+      ]
+    }
+  ]
+}

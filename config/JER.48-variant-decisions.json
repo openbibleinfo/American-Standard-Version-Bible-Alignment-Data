@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "chapter": "JER.48",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JER.48.4.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'her little ones' does not distinguish the qere and ketiv forms; no mapped textual note decides the reading, so the base fallback is retained."
+    },
+    {
+      "unit_id": "WLC.JER.48.5.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV explicitly renders the place-name as 'Luhith,' matching the qere reading rather than the ketiv."
+    },
+    {
+      "unit_id": "WLC.JER.48.7.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV explicitly renders the name as 'Chemosh,' matching the qere reading rather than the ketiv."
+    },
+    {
+      "unit_id": "WLC.JER.48.7.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'together' is compatible with both the qere and ketiv readings and no mapped textual note distinguishes them; the base fallback is retained."
+    },
+    {
+      "unit_id": "WLC.JER.48.18.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'and sit' explicitly represents the qere imperative; the note 'art seated' is classed alternative_rendering and does not decide a textual reading."
+    },
+    {
+      "unit_id": "WLC.JER.48.20.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV imperative 'wail' does not express the singular-versus-plural distinction between the readings; the alternative_rendering note concerns English wording and does not decide this unit, so the base fallback is retained."
+    },
+    {
+      "unit_id": "WLC.JER.48.20.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV imperative 'cry' does not express the singular-versus-plural distinction between the readings; the alternative_rendering note concerns English wording and does not decide this unit, so the base fallback is retained."
+    },
+    {
+      "unit_id": "WLC.JER.48.21.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV explicitly renders the place-name as 'Mephaath,' matching the qere reading rather than the ketiv."
+    },
+    {
+      "unit_id": "WLC.JER.48.27.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'was he found' explicitly uses masculine agreement for Israel, matching the masculine qere rather than the feminine ketiv."
+    },
+    {
+      "unit_id": "WLC.JER.48.44.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'He that fleeth' represents the qere's fleeing subject, distinguishing it from the ketiv causative form."
+    }
+  ]
+}

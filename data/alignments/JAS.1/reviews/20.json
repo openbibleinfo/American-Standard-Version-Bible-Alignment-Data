@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "43680f6ff034432e1032dfd2e2ef8a09dc4c627e7f2a955e311e16b50c589873",
+  "contract_version": "nt-greek-verse-v61",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed unchanged: the accepted alignment partitions all 7 source and all 11 target ids exactly once, every head is a member of its own array, and no unit needed correction.",
+    "Both English determiners are supplied for anarthrous Greek nouns, so rule 51's anarthrous clause makes them helpers on 'wrath' and 'righteousness' rather than evidence of an article; no source article exists anywhere in this verse, so rules 19-23, 51, 57 and 60 are all out of question.",
+    "The competing reading for s003 and s005 would split 'of' onto a determiner-bearing article; none is present, and rule 21 forbids leaving a bare 'of' on anything but an article that takes the English determiner, so 'of man' and 'of God' each stay one unit headed on the noun.",
+    "Rule 58 was checked and does not apply: it governs a supplied determiner over an anarthrous adjective-plus-noun phrase, and the modifiers here are genitive nouns, each of which carries its own English word already.",
+    "Variant SBLGNT.JAS.1.20.v005 is underdetermined and resolved to r00-base, covering s006 and s007; no textual decision is taken here (rule 12), and the unit carries no FALLBACK EXCLUDED mark, so rule 97 does not apply."
+  ],
+  "ref": "JAS.1.20",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

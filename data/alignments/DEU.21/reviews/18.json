@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "519c254719e58bac24186a4283bff4db712fd164a97ca37ddfe82cb04945a2a0",
+  "contract_version": "ot-hebrew-verse-v133",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "Corrected two units: the suffix on אֵינֶנּוּ now takes the relative 'that' at t010 under rule 18's sentence that an English relative pronoun may be what realizes a suffix, and שֹׁמֵעַ keeps only 'will ... obey'. The accepted alignment had left a present pronominal morpheme unrepresented while handing its English to the participle as rule 41's supplied relative, against rule 11's priority for a present function morpheme.",
+    "The competing reading — rule 41's articleless attributive taking the whole supplied relative frame — is materially plausible, but that sentence reaches a clause with no morpheme in it to answer for the relative, which is not this clause; DEU.21.20 renders the same אֵינֶנּוּ שֹׁמֵעַ with the suffix taking 'he', so this is also the consistent reading.",
+    "All 29 source and 34 target ids remain partitioned exactly once after the correction.",
+    "The negation stays on אַיִן and heads there under rule 50, with 'will' left to the predicate under rule 35's two-word sentence."
+  ],
+  "ref": "DEU.21.18",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

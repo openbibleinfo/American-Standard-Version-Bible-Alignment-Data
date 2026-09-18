@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "chapter": "HEB.6",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.HEB.6.2.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text reads 'of the teaching of baptisms', continuing the genitive series after 'the foundation of repentance ... of faith'; that is the genitive διδαχῆς. The accusative διδαχὴν, appositional to θεμέλιον, is exactly what the mapped textual_variant note preserves as a margin: 'Some ancient authorities read, even the teaching of'. Text over margin selects r01."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.6.2.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "τε is an enclitic connective inside a four-item genitive list; ASV supplies 'and' before three of the four items ('and of laying on of hands, and of resurrection ..., and of eternal judgment') as ordinary English list idiom, which it would do whether or not the Greek coordinated asyndetically here. The mapped note concerns διδαχὴν/διδαχῆς only, and 'Or, washings' is an alternative_rendering. Nothing distinguishes presence from omission; base fallback carries the projection."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.6.3.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'And this will we do' is a future indicative, matching ποιήσομεν. The hortatory subjunctive ποιήσωμεν would give 'let us do this', which ASV does not render and no note offers."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.6.7.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is only the order of ἐρχόμενον and πολλάκις. ASV 'the rain that cometh oft upon it' renders both words with English word order fixed by its own syntax, and no note is attached to the verse. English cannot distinguish Greek constituent order here."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.6.10.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'to forget your work and the love which ye showed toward his name' — 'work' alone, with no second noun. The longer reading + τοῦ κόπου would require 'your work and the labour of love'; that phrase is absent from the ASV text and from any note on the verse."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.6.14.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Εἰ μὴν and Ἦ μὴν are the two spellings of the same asseverative formula and are rendered alike; ASV 'Surely blessing I will bless thee' answers to either. The only note on the verse is a cross-reference to Gen. 22:16f., which decides nothing textual."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.6.16.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant adds the particle μὲν after ἄνθρωποι. μὲν without a following δέ has no fixed English exponent and ASV 'For men swear by the greater' would read the same either way; no note is attached to the verse."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.6.18.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is the presence of the article with θεόν. ASV renders 'for God to lie' — English treats θεός as a proper name and takes no article in either case, so the wording cannot distinguish τὸν θεόν from anarthrous θεόν; no note is attached."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.6.19.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἀσφαλῆ and ἀσφαλήν are orthographic variants of the same accusative singular of ἀσφαλής, identical in sense. ASV 'sure and stedfast' renders either; no note is attached to the verse."
+    }
+  ]
+}

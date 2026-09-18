@@ -1,0 +1,149 @@
+{
+  "alignments": [
+    {
+      "note": "Imperative rendered *Take*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Suffix taking the possessive *his*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Noun rendered *garment*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "`כִּי` recast as a relative; the ASV rewrites that subordinator over the coordinated second colon, so both occurrences are this morpheme's one discontinuous unit, headed on the first (rule 55).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t015"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Light verb plus complement *is surety*, headed on the complement (rule 44), with the supplied *for* reaching the verb's bare object; the Hebrew writes this verb once and the ASV realizes it twice across the coordination, so both realizations are its one discontinuous unit (rules 34, 25).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007",
+        "t016",
+        "t017"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Bare object noun with its own indefinite article (rule 15).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Waw taking *And*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Imperative rendered as light verb plus complement *hold ... in pledge*, headed on the complement, discontinuous around the object pronoun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Object suffix taking *him* (rule 18).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Preposition taking the second written *for*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Selected reading r01 (`נָכְרִים`) rendered *foreigners*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "PRO.20.16",
+  "review_notes": [
+    "Variant WLC.PRO.20.16.v002 was resolved to r01, covering s009, which the ASV's *foreigners* matches; the textual note about *a foreign woman* was read and set aside (rule 38).",
+    "The italic *that is surety* was read as the second realization of the one written `עָרַב` (rule 34) with its subordinator rewritten under rule 55, rather than as an `added` supplied verb; the italics corroborate but do not decide (rule 7)."
+  ]
+}

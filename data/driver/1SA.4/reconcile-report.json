@@ -1,0 +1,27 @@
+{
+  "chapter": "1SA.4",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "A coordinating 'and' the ASV writes where a purpose le plus infinitive construct stands is its own added unit, and the le is unrepresented. 1SA.4.13 'and came into the city and told it' renders lehaggid by a coordinated finite clause: no conjunction morpheme stands in that clause, so rule 14's closing sentences make the 'and' added, and rule 14 forbids the preposition as a home for a coordinator, leaving it unrepresented under rule 40. Rule 52's 'no word, not no complementizer' reaches a complementizer or an ordinary preposition written in that slot (by, in, for, of, when), not a clause coordinator. The competing reading, which gives the 'and' to the le, is recorded in the verse's review notes and set aside; the corpus's 32 units aligning le to 'and' are lemma-wide and predate rule 14's closing sentences, and rule 52's own counts record no le-before-infinitive aligned to 'and'. The verse's apodosis waw (s031) is separately unrepresented, the ASV opening 'all the city cried out' bare, so the added 'and' is not that waw reordered either."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v202",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 49 candidate groups and the dump end to end. No construction is analysed two ways without the source licensing the difference, so there are no patches.",
+    "Waw (80 tokens, 9 treatments): every rendering is a word the ASV wrote — And, Now, So, for, But, that — and the and-when / so-that pairs are handled identically under rule 55, headed on the coordinator, in 4.2, 4.3, 4.5, 4.6, 4.13, 4.14, 4.15 and 4.19. Each unrepresented waw is counted against a written connective in its own clause (4.2, 4.3, 4.5, 4.6, 4.9, 4.12, 4.13, 4.14, 4.19, 4.20).",
+    "The article groups are one count, not two analyses. 4.6, 4.8 and 4.14 write a single determiner, which goes to the demonstrative with every article unrepresented (rules 41 and 47); 4.12 writes two, so the article takes 'the' and the pronoun takes 'same'. The kisse phrases of 4.13 and 4.18 both give the written possessive to the article under rule 41, no suffix standing on the noun.",
+    "The ark chains agree: two-level aron ha-elohim fronts the article's 'the' (4.13, 4.17, 4.18, 4.19, 4.21, 4.22); the three-level chain of 4.4 puts it before 'covenant' per rule 29's multi-level paragraph; the article-less chains of 4.3, 4.5, 4.6 and 4.11 take supplied 'the's on the construct.",
+    "mah: 'What meaneth' (4.6, 4.14) is a verbless clause whose predicate is the interrogative, so it takes the linking verb under rule 20; 'How went' (4.16) has a written haya to carry the verb. haya: 4.5 writes no came-to-pass frame and 4.18 does, which is rule 45's own three-way reading. yad derekh fuses to 'wayside' (4.13) because one English word writes both lexemes; yad ha-shaar splits (4.18) because the ASV writes a word for each.",
+    "The five added units are mutually consistent: supplied objects with no object morpheme (4.13 'it', 4.20 'it'), a supplied lexical subject (4.18 'Eli'), a supplied indirect object (4.20 'unto her'), and 4.13's supplied 'and'.",
+    "BSB: no genuine error. The Td x 12, C x 11 and R x 4 blocks are the documented convention difference. Of the named singletons, hem (4.8) is the resuming pronoun rule 20 marks unrepresented by name; ba (4.12) and la (4.21) are rule 40's silenced prepositions, the second being rule 40's own qara-le example; the 4.20 suffix sits inside the fused shit lev -> regard; and the two haya tokens are recastings for which the ASV writes no frame and no separate copula.",
+    "One convention recorded, for 4.13's supplied 'and', which is the chapter's one contested call and runs against 32 older corpus units aligning le to 'and'. Nothing promoted: the chapter's harder calls are already decided by rules 20, 23, 29, 30, 41 and 45 as they stand, and restating them would bury the convention that matters."
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "cdcd383a15eaeb7ba863cfef674dd1bfef04a2686f90751d183819a5cf3b249b",
+  "contract_version": "nt-greek-verse-v102",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 17 source and 18 target ids are partitioned exactly once; no id is invented or repeated.",
+    "μέν is `unrepresented` on rule 70's English-side test, and the chapter's aligned *indeed* at 1:5 is not a counter-instance but rule 24's habit applied to what the ASV actually wrote in each verse.",
+    "τε → *both* and καί → *and* are kept as separate units, the ASV writing two English conjunctions for the pair (rule 70).",
+    "The article before Ἰησοῦς is `unrepresented` under rule 23; a reference comparison reporting it as a disagreement is not a correction.",
+    "The repeated infinitival *to* on διδάσκειν is a rule 7/103 helper on the second verb, not `added`."
+  ],
+  "ref": "ACT.1.1",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

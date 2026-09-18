@@ -1,0 +1,105 @@
+{
+  "alignments": [
+    {
+      "note": "Quantifying construct noun `כֹּל` rendered by the single word *everything*, which carries the quantification and the generic the ASV builds it on; rule 19's *of* does not arise because the ASV writes no relational word between the two nouns.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Article morpheme with no written *the*; the phrase's determination is carried inside `כֹּל`'s *everything*, so the article is unrepresented under rules 15 and 29.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The noun itself, rendered *breath*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "A supplied relative and a supplied verb of having, standing together and composing the single office of making the Hebrew nominal phrase into a relative clause; one `added` unit under rule 2, headed on *hath*, exactly as `נָצְרוּ דָעַת` → *him that hath knowledge* is. No `הָיָה`, existential particle, possessive preposition, suffix or noun of possession stands in the clause for rule 43 to place the *hath* on.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Jussive rendered by the volitive frame *Let ... praise*; the framing word joins the verb's unit under rule 17 and the unit heads on its lexical predicate, discontinuous under rule 25 around the subject phrase.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The divine name; the 'Hebrew Jah' margin was read and set aside under rule 38.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Imperative with its supplied subject pronoun under rule 17, headed on the lexical verb.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The divine name; the 'Hebrew Hallelujah' margin was read and set aside under rule 38.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    }
+  ],
+  "ref": "PSA.150.6",
+  "review_notes": [
+    "*that hath* is kept as one `added` unit rather than split word by word, since its two words stand together and do one office and no source morpheme owns either; rule 2 states this expressly for the same construction.",
+    "The article on `נְשָׁמָה` is unrepresented because the ASV writes no separate determiner for it: *everything* is `כֹּל`'s own word.",
+    "Both marginal glosses are corroborative only and decide nothing, by rule 38."
+  ]
+}

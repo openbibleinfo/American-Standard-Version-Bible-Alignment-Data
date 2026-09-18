@@ -1,0 +1,183 @@
+{
+  "alignments": [
+    {
+      "note": "Postpositive δέ takes the ASV's clause-initial *but*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Dative pronoun with its case preposition riding along under rule 21's determinerless clause; headed on *them*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The article governing κλητοῖς realizes nothing: αὐτοῖς has already written the antecedent *them*, so no determiner and no antecedent pronoun is left for it. This is rule 20's stated contrast, `Ὑμῖν … τοῖς ἔθνεσιν` → *to you that are Gentiles*, and rule 92 keeps the supplied relativizer and copula on the expressed complement rather than on the article.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The substantival adjective recast as a finite relative clause takes *that are called* whole, the relativizer and copula being rule 7 and 9 helpers on it (rule 92); headed on the lexical *called*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "τε … καί is spelled out with two English words, so each particle keeps its own: *both* to τε under rule 70.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Anarthrous noun, bare English word.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The second of the two written conjunctions belongs to καί under rule 70.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Anarthrous noun, bare English word.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Predicate accusative name.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Anarthrous δύναμιν with a supplied *the*: no article competes, so the determiner is an ordinary rule 7 helper on the noun (rule 51's anarthrous clause), headed on *power*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Genitive noun rendered *of + noun*; the case preposition rides with it under rule 21's determinerless clause and rule 17 heads it on *God*. The ASV reverses the Greek order θεοῦ δύναμιν without crossing the nouns' senses.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Coordinating καί.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Anarthrous σοφίαν with a supplied *the*, analysed exactly as δύναμιν above under rule 24; headed on *wisdom*.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Second genitive θεοῦ with its case preposition, headed on *God*, as with the first.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    }
+  ],
+  "ref": "1CO.1.24",
+  "review_notes": [
+    "τοῖς κλητοῖς: the competing reading gives the article the supplied relativizer under rule 31's verbless-modifier carve-out. That carve-out names a prepositional phrase or a bare adverb, and here αὐτοῖς has already spelled the antecedent, which is precisely rule 20's `Ὑμῖν … τοῖς ἔθνεσιν` case; so the article is left unrepresented and the adjective keeps *that are called*.",
+    "τε and καί each receive one of the two written English conjunctions (rule 70's spelled-out arm), rather than joining *both … and* into one unit.",
+    "The two θεοῦ / accusative-noun pairs are analysed alike under rule 24, each supplied *the* staying with its anarthrous noun and each *of* with its genitive."
+  ]
+}

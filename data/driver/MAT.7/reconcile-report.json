@@ -1,0 +1,28 @@
+{
+  "chapter": "MAT.7",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "MAT.7.21"
+  ],
+  "rejected": {},
+  "conventions": [],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v111",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 29 verses end to end and worked every one of the 45 candidate groups. No construction is analysed two ways with nothing in the source to license the difference. The single patch below corrects a note, not an edge.",
+    "Doublets are the strongest internal evidence and they agree unit for unit: 7.16 and 7.20 (ἀπὸ τῶν καρπῶν αὐτῶν ἐπιγνώσεσθε αὐτούς) are identical; 7.25 and 7.27 treat προσέπεσαν/προσέκοψαν alike (the compound keeps its own verb word, *upon* rides with the dative οἰκίᾳ under rule 106's dative arm, the demonstrative empties the article under rule 38); 7.24 and 7.26 differ only where the Greek differs (ὅστις with finite verbs against ὁ with participles); 7.9 and 7.10 give the phrasal *for* to αἰτήσῃ over its accusative object alike, under rule 106's accusative arm.",
+    "Rule 106 is applied one way across 7.4, 7.5, 7.13, 7.19, 7.21, 7.22, 7.25, 7.27, 7.28. Where the ASV writes a particle for the preverb in addition to a full prepositional expression each token takes its own (7.4, 7.5: *cast out* … *out of*); where it writes one word for both, the preposition takes it and the verb keeps only its verb word (7.21: *shall enter* … *into*). The repeated English word *out* in 7.4/7.5 is not counter-evidence: rule 106's count test decides, and that rule already says the preverb and the preposition being the same morpheme is not the test.",
+    "Rule 31 is applied by the article's position and not by the English. An article following its noun keeps only the relativizer (7.3 s006, 7.11 s018, 7.21 s022); one preceding its noun across a verbless modifier takes the discontinuous determiner plus relativizer (7.3 s013); one whose modifier is a participle is unrepresented with the relativizer on the participle (7.13 s014, 7.14 s009). Consistent.",
+    "The πᾶς group shows three treatments and none is a split: πᾶς ὁ gives *every* to the quantifier and *one* to the article (7.8, 7.21, 7.26, rule 80's closing clause); anarthrous Πᾶς … ὅστις gives *Every one* whole to the quantifier headed on *Every* (7.24, rule 17); Πάντα → *All things* is that same anarthrous shape (7.12). Whether a Greek article stands to take the supplied nominal is what decides, exactly as rules 80, 102 and 17 have it.",
+    "Supplied English words: the chapter carries no `added` unit, so I read the dump for the fold-versus-add blindness the table cannot show. Every supplied word has a licensing token — *men* (7.16) and *ye* (7.13) on their finite verbs, *one* (7.29) on its participle under rule 74, *Thou* (7.5) on an anarthrous vocative under rule 89, *how* (7.11) on the infinitive under rule 85, *there* (7.9) on the expressed copula, *can* (7.18) on the second ποιεῖν as a repeated auxiliary. None should have been `added`.",
+    "BSB: all 14 disagreements are documented convention differences and none is a genuine error. Nine are articles the ASV realizes nowhere — six displaced by a possessive under rule 20 (7.4 ×2, 7.9, 7.11 ×2, 7.21, 7.22 ×2, with the 7.22 pair displaced by the possessive adjective σῷ under rules 20 and 54), one determinerless under rule 23 (7.12), and two second attributive articles before participles under rule 31 (7.13, 7.14). Two are interrogative μή (7.9, 7.10), which rule 44 says in terms is not a correction. One is an intensifying καί for which the ASV writes no word (7.10), decided by rule 65's English-side test. I made no change to improve the rate.",
+    "One correction, MAT.7.21 s022: the note called τοῦ (of τοῦ πατρός μου τοῦ ἐν τοῖς οὐρανοῖς) a substantival article. It is the second attributive article, and MAT.7.11 s018 — the identical construction, identically aligned — describes it correctly. Left as it stood, a later reader querying the corpus would see one chapter describing one construction two ways, and could take MAT.7.21 as precedent for a substantival article carrying a relativizer over an expressed head noun. The alignment array is unchanged; only that note is rewritten.",
+    "Contested edges left standing, each already carrying a note that names the competing reading: the split of the periphrastic ἦν … διδάσκων in 7.29; the resumptive *him* given to αἰτήσῃ rather than read as ὅν's discontinuous realization in 7.9; γε left unrepresented beside ἄρα in 7.20; *how* placed on the infinitive in 7.11; *mighty works* headed on *mighty* in 7.22. Rule 16 is satisfied for each and none is a cross-verse inconsistency."
+  ]
+}

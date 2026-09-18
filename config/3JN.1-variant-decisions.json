@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "chapter": "3JN.1",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.3JN.1.4.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV explicitly reads 'Greater joy,' distinguishing χαράν from χάριν; the note is only an alternative rendering and does not alter that judgment."
+    },
+    {
+      "unit_id": "SBLGNT.3JN.1.4.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's 'walking in the truth' expresses the definite article τῇ; the alternative-rendering note concerns another phrase."
+    },
+    {
+      "unit_id": "SBLGNT.3JN.1.5.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's 'and strangers withal' reflects the emphatic καὶ τοῦτο ξένους construction, distinguishing τοῦτο from a repeated εἰς τοὺς."
+    },
+    {
+      "unit_id": "SBLGNT.3JN.1.7.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's 'the Gentiles' can render either ἐθνικῶν or ἐθνῶν, and no mapped textual note distinguishes them; retain the base fallback."
+    },
+    {
+      "unit_id": "SBLGNT.3JN.1.8.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's 'welcome such' does not distinguish ὑπολαμβάνειν from ἀπολαμβάνειν; the note is only an alternative rendering, so retain the base fallback."
+    },
+    {
+      "unit_id": "SBLGNT.3JN.1.9.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's explicit 'somewhat' renders τι and distinguishes it from omission."
+    },
+    {
+      "unit_id": "SBLGNT.3JN.1.12.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's singular 'thou knowest' distinguishes singular οἶδας from plural οἴδατε."
+    },
+    {
+      "unit_id": "SBLGNT.3JN.1.13.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV explicitly says 'to write unto thee,' including the singular recipient represented by σοι and distinguishing γράψαι σοι from γράφειν."
+    },
+    {
+      "unit_id": "SBLGNT.3JN.1.13.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's infinitive 'to write' does not distinguish present γράφειν from aorist γράψαι, and no textual note decides it; retain the base fallback."
+    },
+    {
+      "unit_id": "SBLGNT.3JN.1.14.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's 'to see thee' does not expose whether the Greek pronoun precedes or follows the infinitive; retain the base fallback."
+    }
+  ]
+}

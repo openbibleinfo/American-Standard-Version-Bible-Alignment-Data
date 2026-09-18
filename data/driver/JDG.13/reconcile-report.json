@@ -1,0 +1,28 @@
+{
+  "chapter": "JDG.13",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "A two-noun construct chain that the ASV renders by a single English noun is one fused unit under rule 30, headed on the construct noun under rule 23, and the second noun is never marked unrepresented under rule 22 on the ground that the one English word is the first noun's own ordinary rendering: גְּדִי עִזִּים to 'kid' at 13.15 and 13.19, גֶּפֶן הַיַּיִן to 'vine' at 13.14. A separately segmented article on the rectum is no part of that fusion and takes the written 'the' beside it, as it does in דִּבְרֵי הַיָּמִים to 'chronicles' (13.14, 13.19). JDG.13.14 was corrected to this reading from one that left יַיִן unrepresented; align a fourth instance the same way, and split only where the ASV spends an English word on each noun."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v182",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 58 candidate lemma groups, then the full dump end to end for the added units the lemma table is blind to. No cross-verse split found; patches empty.",
+    "Waw (77 occurrences, 13 contexts) is rule 14's open connective list read off the ASV - and, but, Then, So, or, with, as, seeing, For, that - plus two recastings where the ASV writes no connective (13.2, 13.17). Every treatment answers a word the ASV actually wrote, so the variation is source-licensed rather than a split.",
+    "Rule 29's article count is run identically in every phrase: the article fronts where the ASV writes one 'the' and renders the rectum anarthrously (13.6 the countenance of the angel of God, 13.8 the man of God, 13.9 the angel of God); each noun takes the 'the' standing before its own word where the ASV writes two (13.2, 13.12 the ordering of the child, 13.20 the flame of the altar); the article is unrepresented where the ASV writes none (13.6 A man of God, 13.9 God, 13.20 toward heaven).",
+    "Rule 35 negative fusions track what the ASV spent: fused where one word carries the waw and a negative morpheme standing in the clause (13.6 neither, 13.14 neither and nor, 13.23 neither and nor), split where the ASV writes a word for each and the negative already holds one (13.4 and 13.7, 'no ... nor'). That is rule 35's own align-what-is-there sentence, not two analyses of one shape.",
+    "Rule 56: יָסַף takes 'again' at 13.1, where it alone carries the repetition and the infinitive holds 'did'; it takes 'did' at 13.21, where it is the clause's finite verb and עוֹד stands beside it to take 'more'. One written word per morpheme, counted as rule 42 counts waws against 'and's.",
+    "The construction the lemma table could not have cleared, because it turns on a fusion and not a lemma treatment: a two-noun construct rendered by a single English noun. All three instances fuse under rule 30 - גְּדִי עִזִּים to 'kid' (13.15, 13.19) and גֶּפֶן הַיַּיִן to 'vine' (13.14) - each headed on the construct noun under rule 23, with the article on the rectum taking the written 'the' separately (13.14, 13.19). JDG.13.14's own review note records that it was corrected into line rather than left with יַיִן unrepresented. Logged as this chapter's one convention.",
+    "The four added units each stand beside a morpheme that already holds its own English, so none is a candidate for folding in: 13.10 'other' (the article holds the written 'the' and יוֹם its own 'day'), 13.12 'how', 13.19 'it' (no object morpheme in the clause), 13.19 'the angel' as one supplied-subject unit under rules 17 and 2.",
+    "BSB: none of the 18 disagreements is an error. The R x 8 block is unrendered prepositions under rules 27, 40 and 52 plus the repeated בֵּין of 13.25 under rule 26; the two אֶת are rule 16; the three הַ are rule 29's last sentence; the אֲדֹנָי suffix at 13.8 is rule 57; זֶּה at 13.18 is rule 22's explicit ruling on לָמָּה זֶּה; the 13.2 and 13.17 waws are recastings, and 13.2's 'whose' goes to the suffix, which the corpus carries in 105 units.",
+    "Two places hold a materially different reading, and both verses already name it: 13.17 gives 'that when' to כִּי as one rendering under rule 55 and leaves the apodosis waw unrepresented, which rule 45's own qualification supports because the ASV writes the word ahead of a temporal clause carrying its own subordinator rather than at the apodosis head (13.20, where it does stand at the apodosis head, gives it to the waw); and 13.12 marks the italic 'how' added while giving the finite recasting of מַעֲשֵׂהוּ to the noun under rule 46. Neither creates a chapter split, and neither is left unrecorded."
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "alignments": [
+    {
+      "note": "Ordinary negative with the imperative; the ASV writes *not*. No negative indefinite stands here, so rules 41 and 59 are not in question.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The supplied partitive *of you* has no Greek token of its own and is licensed by the quantifier under rule 7; rule 11 keeps the ASV's italics from making it `added`. The competing reading would hang *you* on the 2nd-person inflection of γίνεσθε under rule 9, but that inflection licenses a subject, not a partitive complement, and rule 27 keeps the helper with the word that licenses it. Headed on *many*, the word that glosses πολύς.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Anarthrous predicate noun to its own English word; rule 2 keeps it separate from the quantifier.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Present imperative rendered by the bare English imperative *Be*. The discontinuity (t001 preceding the negative) is licensed by rule 15.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Vocative noun, anarthrous, so no article competes and no address word is supplied (rule 89 not in question).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Genitive pronoun rendered by the possessive *my*; no article stands with ἀδελφοί, so rule 20's displacement is not in question.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Circumstantial participle kept as an English participle; no supplied juncture or subordinator, so rules 86 and 88 do not arise.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Complementizer ὅτι with an expressed English *that*: rule 43's test is the English, and a word answers to the conjunction here, so the `unrepresented` case does not apply.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Comparative adjective to the comparative *heavier*; the packet's gloss *greater* is the lexeme's plain sense but the ASV's word is what aligns.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Anarthrous noun to its own English word; the ASV supplies no determiner, so rules 51 and 58 are not in question.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Inflected future indicative takes its supplied subject and auxiliary under rule 9; headed on the lexical verb *receive* rather than on *we* or *shall*, as rule 17 requires.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "JAS.3.1",
+  "review_notes": [
+    "Reviewed and returned unchanged; only the notes on s002 and s008 were sharpened, no edge or head was altered.",
+    "Every s### and t### id is partitioned exactly once: 11 source and 15 target tokens all accounted for, no invented ids.",
+    "The one materially contestable unit is s002. *of you* could be read as `added` on the ASV's italics, or *you* could be hung on γίνεσθε's 2nd-person inflection under rule 9. Rule 11 makes the markup evidence rather than a verdict, and the partitive slot is the quantifier's, not the verb's subject slot, so it rides with πολλοί under rules 7 and 27. Both competing readings are now named in the unit's note per rule 16.",
+    "Head choices reviewed independently of edges per rule 28: s011 heads on *receive* and not on the auxiliary *shall* or the subject *we*; s002 heads on *many* and not on the supplied partitive. Rules 66 and 91 are not in question, since no one Greek word is rendered by an adjective-plus-noun phrase here.",
+    "Atomization checked against rule 26: μεῖζον κρίμα is split into *heavier* / *judgment*, and πολλοὶ διδάσκαλοι into *many* / *teachers*, both being independently recoverable. No article stands anywhere in the verse, so rules 19-23, 31-32 and 89 raise nothing."
+  ]
+}

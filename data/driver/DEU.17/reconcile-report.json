@@ -1,0 +1,28 @@
+{
+  "chapter": "DEU.17",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The idiom `al pi` is split in all four of its occurrences (17.6 twice, 17.10, 17.11) rather than fused under rule 30: the preposition takes whatever English the ASV writes for its own relation, whether *At*, *at*, or the compound *according to* headed on *according* under rule 24, and the construct noun takes *the mouth* or *the tenor* with the supplied *the* rule 15 gives it. Rule 30's one-rendering condition is never met here, because subtracting the preposition's word leaves the construct noun holding a plain English rendering of its own.",
+    "In a construct chain whose rectum is a counted expression, the chain's *of* goes to the morpheme the construct actually governs, which the Hebrew word order decides and the English word order does not. `pi shenayim edim` -> *the mouth of two witnesses* makes the numeral the immediate rectum, so it takes *of two* (17.6 s003), while `pi ed echad` -> *the mouth of one witness* makes the noun the rectum, so it takes *of ... witness* discontinuous around the numeral (17.6 s015-s016). Rule 15's sentence giving a supplied determiner to the counted noun rather than to the numeral reaches supplied determiners only and does not move this *of*.",
+    "A determiner outside rule 41's named list of *this*, *that*, *these*, *those*, a possessive, *any* and *every* is still the demonstrative pronoun's where it stands in the phrase's determiner slot and no other morpheme licenses it: `ha-toevah ha-zot` -> *such abomination* gives *such* to `zot` and leaves both the noun's article and the agreement article unrepresented (17.4 s017-s020), on the same terms as the eight phrases in this chapter whose written word is *this*, *that* or *those*.",
+    "Where the ASV supplies an English nominal head for a bare prepositional phrase that contains no participle, adjective, clause or other substantive, no morpheme licenses it and it is `added`: *one* before *from among thy brethren* (17.15) and the italic *that which is* before *before the priests* (17.18). Rule 46 reaches a headless relative clause or a bare participle standing in a nominal slot, not a prepositional phrase, and the prepositions in both places already hold their own English (*from among*, *out of ... before*), so rule 52's count leaves them no room for a second word."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v132",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 20 verses end to end against the 50-lemma candidate table. Every multi-treatment bucket is licensed either by what the ASV wrote or by the Hebrew's own shape; none is one construction analysed two ways. Patches array is empty.",
+    "Prepositions and connectives: the four occurrences of `al pi` (17.6 twice, 17.10, 17.11) are all split, the preposition taking whatever the ASV writes for its own relation (At, at, according to) and the construct noun taking *the mouth* or *the tenor*, since each morpheme holds a rendering of its own. Waw-plus-negative fuses where one English word carries both (17.16 s007-s008, 17.17 s001-s002, and 17.17 s012+s016 across the fronted object) and splits where the ASV writes two (17.11, 17.13, 17.17 s007-s008); the count runs identically in every place.",
+    "Articles: rule 29 is read in both directions and consistently. The *the* is fronted onto the rectum's article where the ASV renders the rectum anarthrously (17.3 *the host of heaven*, 17.9 *the sentence of judgment*), and stays on its own word beside a supplied *the* on the construct where the rectum is arthrous (17.7, 17.10, 17.11). All nine demonstrative phrases write one determiner, given to the demonstrative pronoun, leaving the noun's article and the agreement article unrepresented.",
+    "The nine `added` units, which the lemma table cannot see, were checked against every place the same English is folded into a licensing morpheme, and the two sides agree. Supplied connectives and subordinators are `added` in 17.4 where no conjunction stands, while present waws take *that* in 17.17 and 17.18. Supplied nominal heads for bare prepositional phrases are `added` in both 17.15 (*one*) and 17.18 (*that which is*). The supplied *his* of 17.20 is `added` where 17.19's written suffix takes its own *his*, and the supplied objects *of it* (17.4) and *him* (17.15) are `added` where 17.14's and 17.19's written suffixes take theirs.",
+    "BSB: all 42 disagreements are convention differences, and none is a genuine error. Thirty-six are the documented unrendered R, Rd and Td classes. Of the six named tokens, 17.13 and 17.16 are paragogic nuns under rule 32, 17.18 is an ordinary unrendered object marker under rule 16, 17.5 s039 is a waw whose clause the ASV recast as the phrase *to death*, and 17.15's `bo` and `hu` are resumptives in a relative clause the ASV writes one word for, exactly rule 22's `asher bo mum` shape. No accepted edge was changed.",
+    "No promotion. The two judgments that come nearest are recorded as conventions instead: the chain's *of* going to a numeral that is the immediate nomen rectum (17.6), which rule 15's numeral sentence could easily be misread against, and *such* read as the determiner written for a demonstrative (17.4), which falls outside rule 41's named list. Each rests on a single occurrence and the packet carries no corpus counts for the lemmas involved, so neither is strong enough to bind later chapters. The numeral case is worth revisiting once more instances accumulate."
+  ]
+}

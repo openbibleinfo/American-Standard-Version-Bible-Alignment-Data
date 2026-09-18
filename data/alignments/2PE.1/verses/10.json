@@ -1,0 +1,232 @@
+{
+  "ref": "2PE.1.10",
+  "alignments": [
+    {
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The comparative determiner of 'the more' belongs to the adverb it forms."
+    },
+    {
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "target": [
+        "t003",
+        "t006"
+      ],
+      "target_head": "t006",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Light-verb rendering 'give ... diligence'; rule 17 heads on the meaning-bearing complement."
+    },
+    {
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "target": [],
+      "target_head": null,
+      "status": "unrepresented",
+      "confidence": "high",
+      "note": "Rule 20: the genitive pronoun is present and free to take 'your', so the article realizes nothing."
+    },
+    {
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Rule 7: no conjunction governs the clause, so the infinitival 'to' belongs to its verb."
+    },
+    {
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t018",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Rule 17: the generic noun expands the demonstrative, which stays the head."
+    },
+    {
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "target": [
+        "t015",
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The participle is rendered as a finite conditional clause; the supplied 'if' and subject are rule 7 helpers on it."
+    },
+    {
+      "source": [
+        "s015",
+        "s016"
+      ],
+      "source_head": "s015",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022",
+      "status": "noncompositional",
+      "confidence": "medium",
+      "note": "Rule 33: the emphatic negation is one unit taking the whole English negation, here compressed into the single word 'never'. Rule 48's pattern, extended from eis ton aiona to a temporal particle, as JHN.6.35 does for ou me ... popote -> 'shall never thirst'. Reading the '-ever' of 'never' as answering to pote under rules 39 and 50 remains defensible, but rule 48 forecloses that same argument for aiona, which the corpus renders 'ever' elsewhere."
+    },
+    {
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "target": [
+        "t020",
+        "t021",
+        "t023"
+      ],
+      "target_head": "t023",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Rule 9: subject and auxiliary ride with the verb, headed on the lexical verb."
+    },
+    {
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "target": [],
+      "target_head": null,
+      "status": "unrepresented",
+      "confidence": "medium",
+      "note": "'never' answers to the negation whole and nothing is left over for the temporal particle, as at JHN.6.35 (popote). Where the ASV instead writes a separate 'ever' the particle is aligned, as at 2PE.1.21 and EPH.5.29. A reference comparison reports this token as a disagreement, and that report is not a correction (rule 48)."
+    }
+  ],
+  "review_notes": []
+}

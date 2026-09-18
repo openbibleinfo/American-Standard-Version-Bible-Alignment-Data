@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "cb21102f74882db942dbf50b0a100efe71b964b3704cf8ef41981fe1461de878",
+  "contract_version": "ot-hebrew-verse-v114",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition checked: all 23 source ids and all 29 target ids are covered exactly once across the 22 units, and every head is a member of its own array.",
+    "Age formula: no `הָיָה` stands in this verse, so the verbless clause's construction-supplied copula joins the predicate `בֶּן` (rule 20), giving it *was ... old* discontinuously around the numeral phrase (rule 25), headed on *old*. 27:8 writes `הָיָה` and is divided differently there on its own evidence.",
+    "Rule 42 count: the phrase holds one waw (s003) and the ASV writes one *and*, standing between *twenty* and *five* — the same two numerals the waw joins, so the match is determined rather than a tie.",
+    "`שֵׁשׁ עֶשְׂרֵה` → *sixteen* meets rule 30's one-English-word condition and is one unit headed on `שֵׁשׁ`; both `שָׁנָה` tokens are separately rendered (*years* twice), so rule 22's tail-to-tail suppression is not in play.",
+    "`שֵׁם אִמּוֹ` → *his mother's name*: the ASV writes no *the* at all for the chain, so nothing is supplied to the construct; the suffix takes *his* under rule 18 and the rectum carries its own possessive marking. `בַּת` then takes a supplied *the* under rule 29, no article morpheme being present."
+  ],
+  "ref": "2CH.27.1",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

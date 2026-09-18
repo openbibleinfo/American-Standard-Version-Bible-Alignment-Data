@@ -1,0 +1,371 @@
+{
+  "schema_version": 1,
+  "chapter": "LUK.21",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.LUK.21.1.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Pure word order: 'casting their gifts into the treasury' renders either sequence identically in English; the only note is an alternative_rendering about 'rich', which cannot decide a reading."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.2.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The RP addition is adverbial kai, 'he saw also a certain poor widow' (so KJV). ASV reads simply 'And he saw a certain poor widow' with no 'also', so it renders the text without kai."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.2.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only; both readings give 'two mites' in English."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.3.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order of demonstrative and adjective; English 'This poor widow' is required either way."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.4.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "pantes and hapantes are orthographic variants of the same word; 'all these' renders both."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.4.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'cast in unto the gifts' with no 'of God'; the Treg/RP addition tou theou has no counterpart in the English, and it is not an italicized omission but simply absent."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.4.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "panta and hapanta are variants of the same word; 'all the living' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.6.v008",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV has 'there shall not be left here one stone upon another'. The unitalicized 'here' renders hode, which only the WH reading prints; the base lemma leaves nothing for that word."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.8.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The added hoti is recitative, marking direct speech; ASV's 'saying, I am he' with no complementizer is the normal rendering of either text."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.8.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The RP addition is inferential oun, 'go ye not therefore after them' (so KJV 'go ye not therefore after them'). ASV reads 'go ye not after them' with no 'therefore', and ASV renders oun elsewhere in this chapter ('Settle it therefore', v.14)."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.11.v011",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV attaches 'in divers places' to the famines and pestilences, not to the earthquakes: 'great earthquakes, and in divers places famines and pestilences'. That is the base order kai kata topous limoi; the RP order joins kata topous to the earthquakes."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.11.v012",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'famines and pestilences' in that order, matching limoi kai loimoi; the WH/Treg reading reverses the pair."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.11.v013",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "All three readings contain the same three elements; English requires the adjective before the noun and the prepositional phrase after, so 'great signs from heaven' is the only possible rendering of any of them."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.12.v014",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "A repeated Greek article before 'prisons'; English 'to the synagogues and prisons' does not show whether the article was repeated."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.12.v015",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "apagomenous and agomenous both mean 'being brought/led'; ASV 'bringing you before kings' and the greek_gloss note 'you being brought' fit either compound."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.13.v016",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV begins the verse 'It shall turn out unto you for a testimony' with no connective; the Treg/RP de is rendered in versions following that text (KJV 'And it shall turn to you'), and ASV translates de as 'But' at v.36 in this chapter."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.14.v017",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Active thete and middle thesthe of the same verb; 'Settle it' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.14.v018",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV has 'in your hearts', but English idiom uses 'in' after 'settle' for eis as well (KJV renders the RP eis tas kardias 'in your hearts'), so the preposition is not decided."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.15.v019",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV has 'to withstand or to gainsay' — antistenai first, joined by 'or' for e. The RP reading reverses the two infinitives and joins them with oude ('gainsay nor withstand')."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.15.v020",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "hapantes and pantes are variants of the same word; 'all your adversaries' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.16.v021",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV lists 'brethren, and kinsfolk, and friends' in the base order; the RP reading has kinsfolk, friends, brethren. The two notes are alternative_rendering and do not bear on it."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.19.v022",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'ye shall win your souls', a future indictive, which is ktesesthe; the aorist imperative ktesasthe would give 'win ye your souls' (so RV margin / KJV 'possess ye'). The two notes are alternative_rendering only."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.20.v023",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "An added article before Jerusalem, a proper name; English 'Jerusalem' shows nothing either way."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.23.v024",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV opens 'Woe unto them that are with child' with no connective; the RP de is rendered in versions on that text (KJV 'But woe unto them'). The 'Or, earth' note is an alternative_rendering."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.23.v025",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'wrath unto this people', the plain dative to lao touto; RP's en to lao gives 'wrath upon this people' (so KJV). ASV's 'unto' answers to the bare dative."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.24.v026",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order of panta with ta ethne; 'all the nations' is the rendering of either."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.24.v027",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "achri hou and achri alike give 'until'; the relative adds nothing renderable."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.24.v028",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV ends the verse at 'until the times of the Gentiles be fulfilled'; the WH addition kai esontai would add a further clause, and there is no English for it."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.25.v029",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Plural esontai against singular estai with a plural subject; ASV 'there shall be signs' is the rendering of either."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.25.v030",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'for the roaring of the sea and the billows' — a noun echous governing two genitives. The RP participle echouses would agree with 'sea' alone ('the sea and the waves roaring', so KJV), which is not what ASV prints."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.33.v031",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Future indicative against aorist subjunctive after ou me; both are rendered 'shall not pass away'."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.34.v032",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order of the pronoun and noun; English 'your hearts' is fixed either way."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.34.v033",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only; 'come on you suddenly' renders both arrangements of the same three elements."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.35.v034",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Both readings have gar and a compound of erchomai meaning 'come upon'; ASV's 'for so shall it come upon all them' does not distinguish epeiseleusetai from epeleusetai or fix the position of gar."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.36.v035",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV opens the verse 'But watch ye', which renders de; the RP oun would give 'Watch ye therefore' (so KJV), and ASV writes 'therefore' for oun at v.14."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.36.v036",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'that ye may prevail to escape', which is katischusete; the RP kataxiothete means 'be accounted worthy' (so KJV 'may be accounted worthy to escape')."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.36.v037",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'all these things that shall come to pass'; 'these' renders tauta, which RP omits."
+    },
+    {
+      "unit_id": "SBLGNT.LUK.21.37.v038",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order of participle and prepositional phrase; 'he was teaching in the temple' renders either."
+    }
+  ]
+}

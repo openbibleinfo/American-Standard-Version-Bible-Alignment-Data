@@ -1,0 +1,28 @@
+{
+  "chapter": "2CH.5",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "A waw the ASV renders by a discontinuous result correlative — 'the staves were so long that the ends … were seen' (5.9) — takes both 'so' and 'that' as one discontinuous unit headed on the closing 'that' (rule 14's correlative pair; the degree word is not the verb's). A contiguous 'so that' at a clause edge (5.14) is rule 55's compound and heads on 'so'. The two heads are two constructions, not a split.",
+    "Appositional 'even': a preposition standing on the very phrase the 'even' introduces takes it — the fourth appositional אֶל of אֶל־תַּחַת כַּנְפֵי (5.7, as the parallel 1KI.8.6 aligns it) and the enumerative לְ of לְאָסָף (5.12); the later enumerative לְs the ASV writes nothing for are unrepresented. Where no morpheme stands on the phrase (עָנָן בֵּית יְהוָה → 'a cloud, even the house of Jehovah', 5.13) the 'even' is added under rule 16.",
+    "Hiphil בּוֹא → 'brought in' (5.1, 5.7): the particle restates the entering that the lexeme of בוא carries, so it stays in the verb's unit under rule 44 rather than being marked added as 'bring … back' is.",
+    "The two וַיְהִי frames: 5.11's יְהִי takes 'it came to pass' alone (the ASV's 'that' stands in verse 13), and 5.13's יְהִי is one written verb realized twice — the frame 'it came to pass … that' and the recast clause's copula 'were' — while the apodosis waw takes 'then' and the supplied 'when' is added. Both frames head on 'pass', with 'came' the named competing head."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v218",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 40 candidate groups against the verses. Every two-way bucket is the ASV rendering one morpheme differently (silenced vs written preposition, fronted vs arthrous article, waw connectives read off the ASV); no construction is analysed two ways with nothing in the source to license it.",
+    "The one apparent head split — waw → 'so that' headed on 'that' in 5.9 but on 'so' in 5.14 — is two constructions: 5.9 is a discontinuous degree correlative ('were so long that …', rule 14's correlative pair headed on the closing connective, corpus heads 'more than' on 'than' likewise), while 5.14 is the contiguous compound subordinator at the clause edge that rule 55 heads on the coordinator (127 corpus units). Recorded as a convention.",
+    "Appositional 'even' is placed consistently: it goes to a preposition standing on the very phrase it introduces (אֶל in 5.7, matching the parallel 1KI.8.6 precedent; enumerative לְ in 5.12) and is added where nothing stands on the phrase (5.13 עָנָן בֵּית יְהוָה). Hiphil בּוֹא → 'brought in' keeps 'in' with the verb in both 5.1 and 5.7.",
+    "BSB disagreements are all documented convention (agreement articles, object markers, prepositions silenced by recasting, dative לְ promoted to subject). The only substantive one, 5.8 וַיִּהְיוּ unrepresented beside the participle rendered 'spread forth', is a defensible tie that the note already names (fusion under rule 30 was the alternative); not a genuine error.",
+    "Both וַיְהִי frames are internally consistent: 5.11 holds 'it came to pass' with no complementizer of its own (the ASV's 'that' stands in verse 13 and belongs to verse 13's יְהִי, which is also realized as the recast clause's 'were'); both head on 'pass' with 'came' named as the competing head.",
+    "No contract promotion: nothing here generalises beyond what rules 14, 16, 29, 44, 45 and 55 already say, and the corpus evidence for the discontinuous 'so … that' head is not shown."
+  ]
+}

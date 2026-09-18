@@ -1,0 +1,123 @@
+{
+  "ref": "1KI.7.28",
+  "alignments": [
+    {
+      "source": ["s001"],
+      "source_head": "s001",
+      "target": ["t001"],
+      "target_head": "t001",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s002"],
+      "source_head": "s002",
+      "target": ["t007", "t008", "t009", "t010"],
+      "target_head": "t009",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The ASV recasts the verbless clause so that the demonstrative is the predicate: \"was on this manner\". Rule 20 gives the supplied copula to the predicate's unit, and \"on\"/\"manner\" are the connective and the generic noun the ASV supplies to expand the demonstrative, so the head is \"this\"."
+    },
+    {
+      "source": ["s003"],
+      "source_head": "s003",
+      "target": ["t002", "t003"],
+      "target_head": "t003",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The construct noun carries no article; English \"the\" is supplied for it (rule 29)."
+    },
+    {
+      "source": ["s004"],
+      "source_head": "s004",
+      "target": ["t005"],
+      "target_head": "t005",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s005"],
+      "source_head": "s005",
+      "target": ["t004", "t006"],
+      "target_head": "t006",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Rule 19: the \"of\" of the construct chain belongs to the nomen rectum."
+    },
+    {
+      "source": ["s006"],
+      "source_head": "s006",
+      "target": ["t013"],
+      "target_head": "t013",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s007"],
+      "source_head": "s007",
+      "target": ["t012"],
+      "target_head": "t012",
+      "status": "aligned",
+      "confidence": "medium",
+      "note": "Possessive לְ recast as English \"have\": the preposition is what makes the verbless clause possessive, so \"had\" realizes it rather than being left unrepresented. Reading \"they had\" as one unit on the suffix, with לָ unrepresented under rule 40, remains defensible."
+    },
+    {
+      "source": ["s008"],
+      "source_head": "s008",
+      "target": ["t011"],
+      "target_head": "t011",
+      "status": "aligned",
+      "confidence": "medium",
+      "note": "The suffix takes the subject pronoun the recasting gives it (rule 40's range)."
+    },
+    {
+      "source": ["s009"],
+      "source_head": "s009",
+      "target": ["t014"],
+      "target_head": "t014",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s010"],
+      "source_head": "s010",
+      "target": ["t017"],
+      "target_head": "t017",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s011"],
+      "source_head": "s011",
+      "target": ["t015", "t016", "t018"],
+      "target_head": "t018",
+      "status": "aligned",
+      "confidence": "medium",
+      "note": "Verbless existential clause: the supplied \"there were\" joins the predicate that licenses it (rules 20-21), which is the בֵּין phrase, with the dummy subject inside that unit. Attaching \"there were\" to the subject מִסְגְּרֹת instead is defensible."
+    },
+    {
+      "source": ["s012"],
+      "source_head": "s012",
+      "target": ["t019"],
+      "target_head": "t019",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s013"],
+      "source_head": "s013",
+      "target": ["t020"],
+      "target_head": "t020",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    }
+  ],
+  "review_notes": []
+}

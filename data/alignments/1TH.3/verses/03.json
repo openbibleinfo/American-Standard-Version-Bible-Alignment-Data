@@ -1,0 +1,168 @@
+{
+  "alignments": [
+    {
+      "note": "Nominalizing article of the articular infinitive τὸ … σαίνεσθαι. Rule 61 states in terms that such an article is unrepresented under rule 23, English spelling the construction with no word answering to the article itself, and permits aligning it only where the ASV writes a determiner of its own, as τὸ εἶναι → the being does. The English that here is a supplied complementizer rather than a determiner, so it goes to the infinitive under rule 85. The competing reading aligns the article to that on rule 40's principle that a subordinating element is realized by whatever word introduces its English clause; I did not take it, because rule 61 reserves rule 40's principle for a preposition governing the construction and no preposition governs this one.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "μηδένα → no man, headed on no, the supplied man being the generic completion under rules 17 and 69.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "σαίνεσθαι → that … be moved, discontinuously under rule 15. The supplied complementizer that belongs to the non-finite complement the ASV expands into a finite clause under rule 85, and the auxiliary rides with the verb under rule 9; head on the lexical verb moved under rule 17. It is not added under rule 86, the infinitive being a source token that licenses the word.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "ἐν → by.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Article of θλίψεσιν: the attributive demonstrative ταύταις supplies the English determiner, so the article realizes nothing under rule 38.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "θλίψεσιν → afflictions.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "ταύταις → these.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Intensive αὐτοί → yourselves, a single English word, so rule 107's two-word question does not arise.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "γάρ → for.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "οἴδατε → know; the subject word yourselves belongs to the intensive pronoun αὐτοί.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "ὅτι introducing reported speech is realized by the supplied that, so rule 43's English-side test aligns it.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "εἰς τοῦτο → hereunto: one English word spelling the demonstrative in here- and the preposition in -unto, so aligned rather than noncompositional under rules 35 and 81, headed on the demonstrative.",
+      "source": [
+        "s012",
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "κείμεθα → we are appointed; subject and auxiliary ride with the verb under rules 7 and 9, head on the lexical verb.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "1TH.3.3",
+  "review_notes": [
+    "Corrected s001: the nominalizing article of the articular infinitive is unrepresented under rules 23 and 61, and the supplied complementizer that moves to σαίνεσθαι under rule 85. The unit count is unchanged at 13.",
+    "All 14 source and 16 target ids partitioned exactly once after the correction; s003's unit is discontinuous over t002-t003, which belong to μηδένα, and absorbs nothing else (rule 15).",
+    "s012/s013 stay one aligned unit rather than noncompositional: rule 81 reads here-/there- portmanteaux as spelling both elements."
+  ]
+}

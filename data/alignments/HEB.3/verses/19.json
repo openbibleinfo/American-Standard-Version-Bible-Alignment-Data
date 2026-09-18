@@ -1,0 +1,110 @@
+{
+  "alignments": [
+    {
+      "note": "Coordinating conjunction.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb with its supplied subject.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Rule 43's test: the ASV supplies *that* for the reported clause, so the conjunction is aligned to it in the ordinary way.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Finite verb with its supplied subject and auxiliary; rule 17 heads it on *able*, the word that glosses `δύναμαι`. Discontinuous around the negative under rule 15.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Ordinary negative; no negative indefinite stands here, so rules 41 and 59 do not apply, and the ASV does not spell the negation into the modal.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Rule 61's closing clause: with no preposition governing it, the infinitival *to* is an ordinary helper on its verb, and *in* is the English verb's own particle.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "`διά` rendered by the two-word preposition *because of*, which rule 67 keeps undivided on the expressed preposition. Headed on the prepositional word, as the corpus heads `διά` → *by reason of* on *by*; no supplied noun stands in this frame for rule 67's open case to bear on.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Anarthrous noun.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "HEB.3.19",
+  "review_notes": [
+    "`βλέπομεν` headed on *see* here, the ASV writing a plain verb; HEB.3.12's *Take heed* for the same lemma is headed on its complement under rule 17."
+  ]
+}

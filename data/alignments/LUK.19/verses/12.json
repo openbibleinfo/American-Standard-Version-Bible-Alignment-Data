@@ -1,0 +1,173 @@
+{
+  "alignments": [
+    {
+      "note": "Inflected verb takes its supplied subject pronoun as a rule 7/9 helper; head on the lexical verb.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Inferential conjunction rendered *therefore*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The ASV compresses the anarthrous noun and its adjective into the single word *nobleman*, which spells both lexemes, so the pair is one aligned unit under rule 39's test rather than noncompositional; the supplied determiner *A* is a rule 51 helper on the anarthrous phrase. Splitting *A* onto the adjective is the competing reading, but rule 58 keeps a supplied determiner with the noun.",
+      "source": [
+        "s003",
+        "s005"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Indefinite `τις` → *certain*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Finite verb → *went*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Preposition governing the goal phrase realizes *into* under rule 36.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Anarthrous noun with attributive adjective: rule 58 gives the supplied determiner to the noun, discontinuously under rule 15.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Attributive adjective → bare *far*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "No conjunction governs the clause, so the infinitival *to* is a rule 7/61 helper on its own verb.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Dative reflexive; the case preposition *for* rides with the pronoun under rule 21.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Anarthrous noun with supplied indefinite determiner as a rule 51 helper.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Expressed conjunction → *and*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Second coordinated infinitive; the repeated *to* is an ordinary helper on its verb under rule 40's closing clause.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    }
+  ],
+  "ref": "LUK.19.12",
+  "review_notes": [
+    "Every s### and t### id is partitioned exactly once.",
+    "`Ἄνθρωπός … εὐγενής` → *nobleman* is the only many-to-one unit; it is aligned rather than noncompositional because *noble-* and *-man* each answer to a source token (rules 35, 39)."
+  ]
+}

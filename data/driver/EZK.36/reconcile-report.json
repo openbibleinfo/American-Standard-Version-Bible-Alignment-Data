@@ -1,0 +1,30 @@
+{
+  "chapter": "EZK.36",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The relative plus locative adverb ASHER ... SHAM, and ASHER ... SHAMMAH with the directive he, are rendered by the single English word 'whither' and align as one noncompositional unit spanning all of those morphemes, headed on ASHER, however much of the clause stands between them (36.20, 36.21, 36.22). The competing reading gives 'whither' to the relative alone and marks the locative, and the directive he with it, unrepresented under rule 22; it was declined because the one English word still carries what every morpheme in it says, which is the far side of rule 30's contiguity condition that rule 35 marks out.",
+    "The title ADONAY YHWH, which stands 15 times in this chapter, divides three ways: ADONAY takes the supplied 'the Lord' as one unit headed on 'Lord' (rule 15, no article morpheme standing in the title), its 1cs suffix is unrepresented, and YHWH takes 'Jehovah'. The suffix is what the 16 Sp1cs BSB disagreements are, in 14 verses; BSB attaches it to the title and the ASV spends no English word on it."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v81",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 38 verses end to end against the 66-lemma candidate table, the validation report and the corpus rows. No cross-verse split found, so patches is empty.",
+    "Pronominal suffixes (114 occurrences, 21 treatments) divide by what the ASV writes: possessive, object or subject pronoun; the emphatic 'your own' / 'their own' of rule 18 (36.17, 36.24, 36.31); and a suffix as rectum of KOL taking 'of it' / 'of them' under rule 19 (36.10, 36.23), beside 36.5, where the referent is written out by EDOM itself and the suffix falls to rule 22. All 17 unrepresented Sp1cs are the suffix of ADONAY; the two aligned ones (36.8, 36.12) sit on ordinary nouns.",
+    "The article (58 occurrences) shows three constructions, each treated the same way throughout: a written 'the' to a present article; a single 'the' to the first of coordinated or agreement articles with the rest unrepresented under rule 47 (36.4, 36.35, 36.38); and unrepresented where the phrase's one determiner is licensed by another morpheme, whether a suffix (36.23, 36.31) or the written demonstrative HALLEZU (36.35), which is rule 41's own instruction to count determiners. Attributive HA to 'that' (36.4, 36.34, 36.35) and substantival HA to 'the' or 'that which' (36.36) are separated by whether an explicit noun stands.",
+    "Waws (89 occurrences): one waw per written connective. The surplus waw in the 36.4 list and the three apodosis waws (36.17, 36.20, 36.33) are unrepresented by count, and waw plus LO fuses to 'neither' four times across fronted objects (36.14 once, 36.15 three times), which is rule 35's distance clause; 36.12 and 36.29 keep 'and' and 'no' apart because the ASV writes two words there.",
+    "The object marker (23 occurrences) is unrepresented 22 times and aligned once, to the 'even' of 36.12, where the marker stands on the appositive AMMI YISRAEL. The 'even' of 36.10 introduces KOL-BEYT YISRAEL KULLOH, on which no marker stands, and is added. That is rule 16's limit applied in both directions inside one chapter, not two analyses of one construction.",
+    "Supplied-word audit, which the lemma table cannot see: all 16 added units follow one policy. Supplied objects with no object morpheme ('this' 36.22 and 36.32, 'them' 36.27, 'it' 36.36 twice and 36.37), supplied lexical subjects ('men' 36.20, 'land' 36.13), supplied coordinators between asyndetic clauses (36.35, 36.36), supplied subordinators for clauses with no conjunction at all ('when' 36.17, 'because' 36.18), the supplied 'unto you' of 36.11, the supplied possessive 'their' of 36.5 and the italic 'saying' of 36.7. Nowhere is a comparable supplied word folded into a neighbouring morpheme instead, which is the split a clean table would have hidden.",
+    "Two further recurring judgments checked and found uniform: the copula of a prepositional predicate goes to the preposition in 36.4, 36.7 and 36.9 (rule 49), and a supplied function word for an adverbial accusative goes to the noun in 36.37 ('with men') and 36.38 ('with flocks'), rule 33 both times.",
+    "BSB: none of the 55 disagreements is an error. They are four documented convention families (the ADONAY suffix 16, recast prepositions left with no English 15, the object marker 10, repeated or limited articles 8, apodosis waws 4) plus two resumptive suffixes, 36.5 and 36.21, that rule 22 disposes of. No accepted edge was touched to improve the rate.",
+    "Conventions: two appended. The 86 repeated notes the validator lists are otherwise restatements of binding rules ('Noun.', 'Divine name.', 'Waw takes and.') and are not worth logging.",
+    "Promotions: none. The two places that tested a rule's edge, rule 52's second temporal word arriving as 'that' rather than 'when' in 36.33 and rule 41's determiner count meeting a written demonstrative in 36.35, are each already settled by the counting sentence those rules carry, and each rests on a single verse."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "chapter": "MAT.11",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "δυνάμεις → \"mighty works\" is headed on \"mighty\" at 11:20, 11:21 and 11:23. The ASV's own marginal gloss on all three verses, \"Greek powers\", puts the lexeme in \"mighty\" and leaves \"works\" the generic completion under rule 66. The head on \"works\" is named as defensible in each unit's note. No corpus query on δύναμις was run for this chapter, so a later Synoptic chapter carrying that evidence should confirm or correct all three units together rather than one at a time.",
+    "A supplied English \"and\" converting a Greek participle into a coordinate finite clause rides with the finite verb it introduces throughout this chapter under rule 88 (11:4 εἶπεν, 11:4 ἀπαγγείλατε, 11:17 λέγουσιν, 11:25 εἶπεν), and that holds where the ASV's verse division cuts the Greek clause. The \"and\" opening 11:3 is licensed by πέμψας in 11:2, rule 88 asking for a participle standing in the same clause and not in the same verse, so it is a helper on εἶπεν and not \"added\" under rule 86 or rule 98. A verse pass reading 11:3 alone sees no licensing token in its own verse and would reach for \"added\"; the licence is in the preceding verse."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v78",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "All 44 candidate lemmas were read end to end against the dump. None is a split: every difference is licensed on the source side (article present or absent, participle versus adjective, one English word versus two) or by the ASV's own wording. No patch.",
+    "ὁ, the only lemma with real volume (63 units), is uniform inside each class: rule 20 possessive displacement (11:1 twice, 11:2, 11:8, 11:10 twice, 11:19, 11:20, 11:29, 11:30 twice); rule 23 determinerless 'of heaven' / 'of man' / 'in heart' (11:11, 11:12, 11:19, 11:25 twice, 11:29); rule 23 before a name (11:1, 11:2, 11:4, 11:7, 11:25); rule 38 demonstrative (11:16, 11:25); rule 31 second attributive article (11:21, 11:23); rule 61 articular infinitive (11:1); rule 89 bare vocative (11:26). Both arms of rule 20 stand in the chapter and are correctly told apart — 11:8 empties the article because 'kings'' occupies the slot, 11:16 aligns it to 'their' because no other source word is available to take it.",
+    "Article plus participle: 11:3, 11:15 and 11:28 take the two-word split under rule 32 ('he' / 'that cometh'), 11:14 the single relativizer under rule 90 ('that' to the article, 'is' to μέλλων). The count of English words the ASV wrote licenses the difference, so this is one analysis and not two. The substantival article with an adjective at 11:11 follows the same shape (article keeps 'he', μικρότερος carries 'that is but little' under rule 53).",
+    "μαλακός at 11:8 is the chapter's most delicate pair and it is right: anarthrous μαλακοῖς → 'soft raiment' headed on 'soft' (rule 17), articular τὰ μαλακά → 'raiment' to the article and a bare 'soft' to the adjective (rule 102, which records the corpus as unanimous for that shape). Rule 103 names an article rather than a spent noun as the licensor of the second 'raiment', so neither of the two 'raiment' tokens is added.",
+    "Parallel constructions agree: the two counterfactual apodoses (11:21, 11:23) give 'would' to ἄν and keep the perfect auxiliary with the lexical verb; the two judgment-day formulas (11:22, 11:24) are token-for-token identical; ἐξήλθατε at 11:7, 11:8, 11:9 and καταβήσῃ at 11:23 all keep the preverb particle inside the verb's unit under rule 106, εἰς at 11:7 having its own complete 'into'; supplied copulas go to the predicate at 11:11, 11:21, 11:23 and 11:30 and never to the subject; ὃς ἐάν (11:6) and ᾧ ἐάν (11:27) are both joined under rule 72's compression arm; both εἰ μή clusters (11:27) are noncompositional under rule 39.",
+    "The chapter has zero added units, so the dump was read for supplied English the lemma table cannot see. 'their sight' (11:5), 'their way' (11:7), 'it' (11:14), 'him' (11:27), 'O' (11:25), both 'raiment' (11:8) and all four participle-to-finite junctures have a licensing token in their own clause, so none of them is added. The one that needed a chapter-level view is the 'and' opening 11:3, licensed by πέμψας in 11:2 — recorded as a convention.",
+    "BSB: all six disagreements are the documented convention difference and none is a genuine error. 11:11 τῶν and 11:12 τῶν are the determinerless 'of heaven' (rules 23 and 21's determinerless clause); 11:29 τῇ is the determinerless 'in heart'; 11:29 ταῖς is emptied by the free ὑμῶν → 'your' (rule 20); 11:21 αἱ and 11:23 αἱ are second attributive articles before a participle with an expressed head noun (rule 31). Nothing was changed to move the figure.",
+    "One judgment a later reader should know is contested rather than settled: δυνάμεις → 'mighty works' is headed on 'mighty' in all three units on rule 66 and the ASV's marginal 'Greek powers', with the head on 'works' named as defensible in each note. No corpus query on δύναμις was run for this chapter; it is consistent within the chapter, so it was left alone and logged."
+  ]
+}

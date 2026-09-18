@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "chapter": "PRO.2",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PRO.2.7.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV opens the verse with no conjunction -- 'He layeth up sound wisdom for the upright' -- matching the qere yitspon. The ketiv wetsafan carries a prefixed waw that ASV renders as 'And' where it stands (the mapped note is an alternative_rendering about 'And a shield for etc.' in the second clause, and does not bear on the lemma). The absent conjunction is English-visible and distinguishes the qere."
+    },
+    {
+      "unit_id": "WLC.PRO.2.8.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'the way of his saints', a plural, which renders the qere chasidayw; the ketiv chasido is singular ('his saint') and English would show that as a singular. Both mapped notes are alternative_rendering, about English wording of the verbs, and do not decide the lemma; the number of the noun does."
+    }
+  ]
+}

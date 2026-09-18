@@ -1,0 +1,123 @@
+{
+  "alignments": [
+    {
+      "note": "Relative pronoun to relativizer.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Inflected verb with subject and auxiliary; sent back renders the ana- compound, headed on the lexical verb.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Dative pronoun with its case preposition.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "The intensive pronoun is expanded into the supplied frame in his own person; rule 17's generic-completion clause keeps the head on the pronominal word rather than on person. Heading on person remains defensible if the frame is read as a supplied nominal expression.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Substantival demonstrative with no article in question.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Expressed copula to copula.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "The first-person possessive adjective ema carries my, so rule 54 empties the article.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Possessive adjective to possessive.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Noun with the supplied intensifier very as a rule 7 helper on it.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "PHM.1.12",
+  "review_notes": [
+    "ta ema splanchna follows rule 54: the possessive adjective names the possessor and the article realizes nothing.",
+    "The supplied frame in his own person is kept whole on auton; the competing head on person is named in that unit's note."
+  ]
+}

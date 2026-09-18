@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "NEH.9",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.NEH.9.6.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'Thou art Jehovah' renders the 2ms pronoun; qere אַתָּה and ketiv את differ only in orthography of the same pronoun, and the English cannot distinguish the spellings. No mapped note. Base qere fallback retained."
+    },
+    {
+      "unit_id": "WLC.NEH.9.17.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'slow to anger, and abundant in lovingkindness' renders רַב־חֶסֶד as a construct chain: 'in' subordinates lovingkindness to 'abundant' with no conjunction between them. The ketiv וחסד would coordinate lovingkindness as a separate item ('abundant, and lovingkindness'), which the English does not do. The only mapped note (hebrew_gloss on 'ready to pardon') concerns סְלִיחוֹת, not this unit."
+    }
+  ]
+}

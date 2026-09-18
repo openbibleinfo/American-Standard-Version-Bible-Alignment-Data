@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "d596e06108f8b6a67bc2fb48a9ef84105fdae5c66e73b40cd9ad32551425c00f",
+  "contract_version": "nt-greek-verse-v97",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 33 source and 39 target ids are partitioned exactly once.",
+    "`μὴ … τι` → *nothing* is one `aligned` unit under rule 59: the indefinite is plain rather than negative and so cannot carry the negation alone, which is exactly `ἵνα μή τι ἀπόληται` → *that nothing be lost*. A reference comparison expecting the negator alone will report a disagreement, and that report is not a correction.",
+    "`ἕως ἄν` → *until* is one `aligned` unit under rule 50's count-of-English-words test, as MAT.10.11 and MAT.10.23 read `ἕως ἂν` → *till*; leaving `ἄν` `unrepresented` is the failure rule 50 names.",
+    "`τὰ κρυπτά` → *the hidden things* follows rule 102: the article takes the determiner and the supplied generic noun, headed on *things*, and the substantival adjective stays bare. The supplied *his* before *praise* goes to `ὁ` under rule 76's availability test, `ἑκάστῳ` having been spent on *each man*."
+  ],
+  "ref": "1CO.4.5",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

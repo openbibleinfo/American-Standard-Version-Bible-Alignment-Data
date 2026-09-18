@@ -1,0 +1,133 @@
+{
+  "alignments": [
+    {
+      "note": "'ey-zeh is rendered by the single determiner what, so the two morphemes share one unit under rule 30, headed on the lexeme-bearing 'ey (rule 23), as the corpus reads the same compound at 1KI.13.12 and ISA.66.1.",
+      "source": [
+        "s001",
+        "s002"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The ASV writes no the for the phrase, and the interrogative compound standing before the noun is itself what licenses the determiner slot, so nothing is left for the article (rules 29, 41).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Supplied By licensed by this noun's adverbial function (rule 33); the unit is discontinuous around the interrogative (rule 25).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Supplied determiner joins the noun (rule 15).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "No conjunction morpheme stands in this clause, so the coordinator is its own added unit (rule 14).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "qadim rendered the east wind; dropping east loses the lexeme, so the head is east (rule 31).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "JOB.38.24",
+  "review_notes": [
+    "'ey-zeh is fused under rule 30, headed on 'ey; the competing reading marks zeh unrepresented under rule 22, and no corpus unit splits this compound.",
+    "The article is unrepresented because the ASV writes no the for the phrase: the interrogative compound standing before the noun is what licenses the determiner slot, so no supplied determiner reaches the article (rules 29, 41).",
+    "The margin's 'Which is the way to the place where the light is' was read and set aside; the printed text governs (rule 38)."
+  ]
+}

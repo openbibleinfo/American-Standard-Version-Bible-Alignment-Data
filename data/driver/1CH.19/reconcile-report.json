@@ -1,0 +1,26 @@
+{
+  "chapter": "1CH.19",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "בְּעֵינֵי + suffix rendered by an English verb of seeming or thinking — v.3 בְּעֵינֶיךָ → *Thinkest*, v.13 בְּעֵינָיו → *seemeth* — gives that verb to the fused preposition and construct noun (rules 30, 40), headed on עַיִן, while the suffix keeps the pronoun the ASV writes for it (*thou*, *him*) and the predicate adjective keeps its own word (*good*). The competing reading, the verb as a copula on the adjective with בְּ and עַיִן unrepresented, was considered and not taken.",
+    "עָרַךְ in this chapter is the light-verb *put/set ... in array*, headed on *array* (rule 44). An object the ASV supplies where the Hebrew writes none is `added` and not the verb's — v.10 *them*, v.17 *the battle* in the first clause — while the written מִלְחָמָה takes *the battle* with a supplied *the* (vv. 9, 17 second clause). v.11's *themselves* is coreferential with the subject and stays with the verb as the ASV's intransitive rendering; competing reading *themselves* added is named in the note."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 42 candidate lemmas. Every multi-treatment bucket is licensed by what the ASV wrote: waw takes And/So/Then/But/that/who/with or the *And when*/*Now when*/*So when* pair, and every apodosis waw after such a pair (vv. 6, 8, 10, 15, 16, 17, 19) is unrepresented; dative לְ is bare before *David*/*them*/*me* (vv. 5, 6, 7, 12, 17) and takes *to*/*unto* only where written (vv. 3, 7, 14); the assimilated article takes *the* where the ASV writes one (vv. 4, 9, 14) and nothing where it writes *to battle* (v. 7).",
+    "The added units were read together since the candidate table cannot see them: v.5 *certain persons* (supplied subject) and *were served* (supplied lexical verb), v.5 *then* beside a waw already holding *and*, v.8 *of it*, v.10 *them* and v.17 *the battle* (supplied objects of עָרַךְ), v.18 *the men of*. v.11's *themselves* stays with עָרַךְ as the intransitive/reflexive rendering, which differs from v.10's *them* (a distinct referent) on the terms rule 44 draws; not a split.",
+    "The בְּעֵינֵי idiom is treated one way in both places it occurs (v.3 *Thinkest*, v.13 *seemeth* on the fused preposition and noun, suffix keeping its pronoun); recorded as a convention.",
+    "One defensible alternative not patched: v.16 לִפְנֵיהֶם → *at their head* is fused as one לְ+פָּנֶה unit; rule 30's *to meet* example would support splitting *at* to לְ and *head* to פָּנֶה. The verse note names a competing reading and the unit's information content is the same either way, so it was left as accepted.",
+    "BSB disagreements are all documented convention differences (bare dative לְ and בַּעֲבוּר, apodosis waws, object markers). None is a genuine error.",
+    "No promotion or amendment: nothing here generalises beyond what rules 14, 40, 44, 45 and 55 already say."
+  ]
+}

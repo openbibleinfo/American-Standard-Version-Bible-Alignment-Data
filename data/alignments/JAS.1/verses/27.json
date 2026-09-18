@@ -1,0 +1,324 @@
+{
+ "alignments": [
+  {
+   "note": "Adjective of θρησκεία, which the ASV places in front of the noun; the reordering is immaterial under rule 15.",
+   "source": [
+    "s002"
+   ],
+   "source_head": "s002",
+   "status": "aligned",
+   "target": [
+    "t001"
+   ],
+   "target_head": "t001"
+  },
+  {
+   "note": "Anarthrous noun, no determiner supplied.",
+   "source": [
+    "s001"
+   ],
+   "source_head": "s001",
+   "status": "aligned",
+   "target": [
+    "t002"
+   ],
+   "target_head": "t002"
+  },
+  {
+   "note": "Coordinating conjunction joining the two adjectives.",
+   "source": [
+    "s003"
+   ],
+   "source_head": "s003",
+   "status": "aligned",
+   "target": [
+    "t003"
+   ],
+   "target_head": "t003"
+  },
+  {
+   "note": "Rule 26: split from its coordinate adjective, each independently recoverable. Rendered by a single English word, so rule 84's *without* + noun frame is not in question.",
+   "source": [
+    "s004"
+   ],
+   "source_head": "s004",
+   "status": "aligned",
+   "target": [
+    "t004"
+   ],
+   "target_head": "t004"
+  },
+  {
+   "note": "Proper preposition rendered by a single English preposition.",
+   "source": [
+    "s005"
+   ],
+   "source_head": "s005",
+   "status": "aligned",
+   "target": [
+    "t005"
+   ],
+   "target_head": "t005"
+  },
+  {
+   "note": "Rule 20's second arm: the ASV supplies *our* and no other source token is present to take it — the Greek has no genitive pronoun, and θεῷ is the head noun the possessive determines. So the article is what the supplied possessive realizes, and rule 11 keeps the ASV's markup from making it `added` (the ASV in fact does not italicize *our* here). The competing reading marks the article `unrepresented` under rule 23 and *our* `added`; rejected because rule 20 reserves emptying for the case where some other word takes the possessive. Variant SBLGNT.JAS.1.27.v011 covers this token and is underdetermined to r00-base, with no fallback exclusion marked, so rule 12 leaves the projection as given.",
+   "source": [
+    "s006"
+   ],
+   "source_head": "s006",
+   "status": "aligned",
+   "target": [
+    "t006"
+   ],
+   "target_head": "t006"
+  },
+  {
+   "note": "Head noun stands bare, its determiner slot already spent on the article.",
+   "source": [
+    "s007"
+   ],
+   "source_head": "s007",
+   "status": "aligned",
+   "target": [
+    "t007"
+   ],
+   "target_head": "t007"
+  },
+  {
+   "note": "Coordinating conjunction.",
+   "source": [
+    "s008"
+   ],
+   "source_head": "s008",
+   "status": "aligned",
+   "target": [
+    "t008"
+   ],
+   "target_head": "t008"
+  },
+  {
+   "note": "Second member of the coordinated title, under one article; split under rule 26.",
+   "source": [
+    "s009"
+   ],
+   "source_head": "s009",
+   "status": "aligned",
+   "target": [
+    "t009"
+   ],
+   "target_head": "t009"
+  },
+  {
+   "note": "Expressed copula; rules 53, 63 and 68 do not arise, nothing being supplied.",
+   "source": [
+    "s011"
+   ],
+   "source_head": "s011",
+   "status": "aligned",
+   "target": [
+    "t010"
+   ],
+   "target_head": "t010"
+  },
+  {
+   "note": "Substantival demonstrative subject, rendered by a bare *this* with no generic noun supplied, so rule 17's generic-noun clause is not in question.",
+   "source": [
+    "s010"
+   ],
+   "source_head": "s010",
+   "status": "aligned",
+   "target": [
+    "t011"
+   ],
+   "target_head": "t011"
+  },
+  {
+   "note": "Rule 61's closing clause with rule 7: no conjunction or preposition governs this infinitive, so the infinitival *to* is its own helper. Head on the lexical verb under rule 17.",
+   "source": [
+    "s012"
+   ],
+   "source_head": "s012",
+   "status": "aligned",
+   "target": [
+    "t012",
+    "t013"
+   ],
+   "target_head": "t013"
+  },
+  {
+   "note": "Substantival adjective; the Greek is anarthrous, so under rules 51 and 58 the supplied *the* is an ordinary rule 7 helper on the word it determines, as `νεκρῶν` → *the dead* is. Head on the adjective, which is the nominal word.",
+   "source": [
+    "s013"
+   ],
+   "source_head": "s013",
+   "status": "aligned",
+   "target": [
+    "t014",
+    "t015"
+   ],
+   "target_head": "t015"
+  },
+  {
+   "note": "Coordinating conjunction joining the two objects.",
+   "source": [
+    "s014"
+   ],
+   "source_head": "s014",
+   "status": "aligned",
+   "target": [
+    "t016"
+   ],
+   "target_head": "t016"
+  },
+  {
+   "note": "Anarthrous noun, no determiner supplied.",
+   "source": [
+    "s015"
+   ],
+   "source_head": "s015",
+   "status": "aligned",
+   "target": [
+    "t017"
+   ],
+   "target_head": "t017"
+  },
+  {
+   "note": "Rule 36: the English preposition governing the phrase realizes the Greek preposition.",
+   "source": [
+    "s016"
+   ],
+   "source_head": "s016",
+   "status": "aligned",
+   "target": [
+    "t018"
+   ],
+   "target_head": "t018"
+  },
+  {
+   "note": "Rule 20 proper: the genitive pronoun αὐτῶν is present and free — its English *their* is all it carries — so it displaces the article's determiner and the article realizes nothing. Rule 76's availability test does not save it, αὐτῶν having been spent on no other role. Contrast s006 in this same verse, where no such pronoun stands.",
+   "source": [
+    "s017"
+   ],
+   "source_head": "s017",
+   "status": "unrepresented",
+   "target": [],
+   "target_head": null
+  },
+  {
+   "note": "Head noun bare, the determiner slot taken by the possessive.",
+   "source": [
+    "s018"
+   ],
+   "source_head": "s018",
+   "status": "aligned",
+   "target": [
+    "t020"
+   ],
+   "target_head": "t020"
+  },
+  {
+   "note": "Genitive pronoun rendered by the possessive, per rule 20.",
+   "source": [
+    "s019"
+   ],
+   "source_head": "s019",
+   "status": "aligned",
+   "target": [
+    "t019"
+   ],
+   "target_head": "t019"
+  },
+  {
+   "note": "The supplied coordinating *and* joins two infinitives across an asyndetic Greek seam, and no source token licenses it (rule 5, with 2CO.3.7 and REV.15.6). The verse's two expressed `καί` tokens are both spent, on *and undefiled* and on *and widows*, and neither governs this juncture. Rule 88 is scoped to a participle converted into a coordinate finite clause and does not reach a seam between two infinitives both rendered as infinitives; rule 29's numeral juncture is narrower still. Rule 11 does not decide it either way — the ASV does italicize this *and* — and rule 37 is ruled out, no licensing conjunction standing in a neighbouring verse.",
+   "source": [],
+   "source_head": null,
+   "status": "added",
+   "target": [
+    "t021"
+   ],
+   "target_head": "t021"
+  },
+  {
+   "note": "The Greek coordinates the two infinitives asyndetically — no καί stands between `ἐπισκέπτεσθαι` and `τηρεῖν`, the verse's two expressed conjunctions being spent on *and undefiled* and *and widows* — so the supplied *and* is `added` and only *to keep* stands here. Rule 88 does not reach it: that rule is scoped in terms to where the ASV **converts a Greek circumstantial participle into a coordinate finite clause**, and no conversion happens here, both infinitives being rendered as infinitives. 2CO.3.7 is the governing precedent and is the corpus's one test of that limit decided after rule 88 entered the contract: it marks the identical supplied *and* `added` across an asyndetic seam between two attributive participles, citing rule 5 with REV.15.6 and conceding nothing. Rule 86's test gives the same answer — a participle carries subordination, which is why rule 86 grants it a supplied *when* or *if*, but an infinitive carries no coordination, so no token licenses the juncture. TIT.2.9 `εἶναι` → *and to be* is the one contrary unit and is weak evidence: its note cites no rule and it was finished before rule 88 existed. The infinitival *to* is a rule 7 helper on its own verb under rule 61, no conjunction governing the clause. Head on the lexical verb under rule 17.",
+   "source": [
+    "s022"
+   ],
+   "source_head": "s022",
+   "status": "aligned",
+   "target": [
+    "t022",
+    "t023"
+   ],
+   "target_head": "t023"
+  },
+  {
+   "note": "Expressed reflexive object of the infinitive; rule 74 does not arise, nothing being supplied.",
+   "source": [
+    "s021"
+   ],
+   "source_head": "s021",
+   "status": "aligned",
+   "target": [
+    "t024"
+   ],
+   "target_head": "t024"
+  },
+  {
+   "note": "Privative adjective rendered by a single English word, so rule 84's *without* + noun frame is not in question and the one word is the head. Discontinuous from its infinitive under rule 15.",
+   "source": [
+    "s020"
+   ],
+   "source_head": "s020",
+   "status": "aligned",
+   "target": [
+    "t025"
+   ],
+   "target_head": "t025"
+  },
+  {
+   "note": "Proper preposition rendered by a single English preposition; not pleonastic, so rule 34 does not apply.",
+   "source": [
+    "s023"
+   ],
+   "source_head": "s023",
+   "status": "aligned",
+   "target": [
+    "t026"
+   ],
+   "target_head": "t026"
+  },
+  {
+   "note": "Rule 19: the article surfaces as English *the*. Rule 21 does not apply, the case preposition answering to the expressed ἀπό.",
+   "source": [
+    "s024"
+   ],
+   "source_head": "s024",
+   "status": "aligned",
+   "target": [
+    "t027"
+   ],
+   "target_head": "t027"
+  },
+  {
+   "note": "Head noun split from its article under rule 13.",
+   "source": [
+    "s025"
+   ],
+   "source_head": "s025",
+   "status": "aligned",
+   "target": [
+    "t028"
+   ],
+   "target_head": "t028"
+  }
+ ],
+ "ref": "JAS.1.27",
+ "review_notes": [
+  "Reviewed and returned unchanged: no unit's edges or head were altered. Two notes were tightened only — s002 no longer calls καθαρά a fronted predicate (the ASV simply places the adjective before the noun), and s020 now records its discontinuity from τηρεῖν under rule 15.",
+  "Partition checked: all 25 s### and all 28 t### ids appear exactly once, with one unrepresented unit (s017) and no added units.",
+  "The verse decides two articles in opposite directions and that is deliberate, not an inconsistency. s006 takes the supplied *our* under rule 20's second arm because no other source word competes for the slot; s017 is `unrepresented` because αὐτῶν stands free to take *their*. Rule 76's availability test is what makes these one analysis rather than two, and the ASV's own markup agrees, italicizing neither.",
+  "The supplied *and* at t021 (ASV-marked) is the one genuinely contested call. It is placed as a rule 29/88 juncture helper on τηρεῖν, the verb it introduces; the `added` reading under rule 86 is named and answered in that unit's note. A reference comparison that expects `added` there is not a correction.",
+  "Heads reviewed separately from edges under rule 28: each infinitive heads on its lexical verb rather than the infinitival marker (t013, t023), ὀρφανούς heads on the substantival adjective rather than the supplied *the* (t015), and ἄσπιλον heads on its single word *unspotted*.",
+  "Variant SBLGNT.JAS.1.27.v011 covers s006, is underdetermined to r00-base, and carries no `FALLBACK EXCLUDED BY EVIDENCE` mark, so rules 12 and 97 leave the projection untouched and nothing here is `added` on textual grounds."
+ ]
+}

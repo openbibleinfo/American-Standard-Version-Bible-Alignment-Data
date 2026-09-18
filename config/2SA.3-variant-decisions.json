@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "chapter": "2SA.3",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2SA.3.2.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'were sons born' is passive; the qere niphal and the ketiv consonants (read as a passive 'were born') both yield that English, and the verse carries no textual note. Base qere fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.2SA.3.3.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV transliterates the name as 'Abigail', with the -ai- that reflects the yod of the qere אביגיל; the ketiv consonants אביגל would give 'Abigal'. The English spelling distinguishes the reading."
+    },
+    {
+      "unit_id": "WLC.2SA.3.12.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere תחתיו and ketiv תחתו are the same suffixed preposition spelled plene/defective; ASV 'on his behalf' fits either. The note 'Or, where he was' is alternative_rendering and does not decide a reading. Base qere fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.2SA.3.15.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV transliterates the father's name as 'Laish', which reflects the qere ליש; the ketiv consonants לוש cannot yield that spelling. The 'other' note concerns Palti/Paltiel, not this unit."
+    },
+    {
+      "unit_id": "WLC.2SA.3.25.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere מובאך and ketiv מבואך are the same noun 'coming in' with a transposed vowel letter; ASV 'thy coming in' fits either and the verse has no textual note. Base qere fallback carries the projection."
+    }
+  ]
+}

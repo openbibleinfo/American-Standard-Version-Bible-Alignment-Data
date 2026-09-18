@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "97f895edfc70b3611714063d06eeac99ac74957030eec0940c188b49bb73ced2",
+  "contract_version": "nt-greek-verse-v120",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: 25 source units cover s001-s025 exactly once and the 33 target tokens exactly once. No unrepresented or added units are needed anywhere in the verse.",
+    "s012 keeps *for* inside the verb's unit, and rule 106's accusative arm settles it in terms: an accusative has no case for an English preposition to realize, so a preposition standing over an accusative object is the verb's own phrasal government — its worked example is this very lemma, ἐκδεχομένου αὐτούς → *waited for them* headed on the participle. Rule 36 is not the contrast, since no Greek preposition is expressed for the *for* to answer to.",
+    "The two supplied-determiner questions divide correctly by whether an article stands: t016 goes to the expressed article s013 under rules 19 and 58, while t029 goes to the substantival adjective s023 because its phrase is anarthrous and the adjective is itself the nominal word (rule 58's substantival clause).",
+    "The supplied *rain* is placed on s025 as the coordinated adjectives' generic completion, headed on *latter* under rule 17. Sharing the token across both adjectives is not representable, and merging πρόϊμον with ὄψιμον is barred by rule 2 while *early* and *latter* remain separately recoverable; the unit note records this.",
+    "Both ἕως tokens are rendered by a single English word, so rule 42's frame question and rule 101's trailing-preposition question do not arise and s005 takes a bare *the* (rule 19). Both variant units (v004, v005) are underdetermined with the base among the compatible readings and neither is marked FALLBACK EXCLUDED BY EVIDENCE, so rule 97 is not in question."
+  ],
+  "ref": "JAS.5.7",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

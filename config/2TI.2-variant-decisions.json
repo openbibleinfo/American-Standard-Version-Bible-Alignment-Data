@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "chapter": "2TI.2",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.2TI.2.3.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Suffer hardship with me' renders the compound συγκακοπάθησον, whose συν- prefix supplies 'with me'; the alternative-rendering note ('Take thy part in suffering hardship') keeps the same compound. The rival reading Σὺ οὖν κακοπάθησον has a simplex verb plus an emphatic 'Thou therefore', and ASV shows neither the pronoun, the 'therefore', nor a bare 'suffer hardship'."
+    },
+    {
+      "unit_id": "SBLGNT.2TI.2.3.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV prints the order 'Christ Jesus', matching Χριστοῦ Ἰησοῦ; the rival Ἰησοῦ Χριστοῦ would give 'Jesus Christ'. Word order is visible in the English, so the reading is distinguished."
+    },
+    {
+      "unit_id": "SBLGNT.2TI.2.7.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'Consider what I say' uses 'what', which is indifferent to number in English and renders singular ὃ and plural ἃ alike. No ASV note is mapped here, so nothing distinguishes the readings; the base fallback carries the projection."
+    },
+    {
+      "unit_id": "SBLGNT.2TI.2.7.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'the Lord shall give thee understanding' is a plain future indicative, rendering δώσει. The optative δῴη would be a wish and ASV renders such forms with 'may give' (as at 2:25 in this same chapter's ASV wording), not 'shall give'."
+    },
+    {
+      "unit_id": "SBLGNT.2TI.2.12.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'if we shall deny him' is future, matching ἀρνησόμεθα; the present ἀρνούμεθα would give 'if we deny him'. ASV's 'shall' here contrasts with the unmarked present 'if we endure' in the preceding clause, so the tense is deliberate and visible."
+    },
+    {
+      "unit_id": "SBLGNT.2TI.2.13.v006",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'for he cannot deny himself' supplies the causal connective 'for', which renders γὰρ. The base reading lacks the conjunction and would yield asyndeton, leaving nothing for ASV's 'for' to translate."
+    },
+    {
+      "unit_id": "SBLGNT.2TI.2.14.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text reads 'in the sight of the Lord' (κυρίου), and the mapped textual_variant note 'Many ancient authorities read God' relegates θεοῦ to the margin. The note explicitly identifies the rejected rival, so the text reading is settled."
+    },
+    {
+      "unit_id": "SBLGNT.2TI.2.14.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'to no profit' renders ἐπ᾽ οὐδὲν χρήσιμον and εἰς οὐδὲν χρήσιμον identically; English 'to' does not distinguish the prepositions. The verse's only mapped textual note concerns Lord/God at v007, not this unit."
+    },
+    {
+      "unit_id": "SBLGNT.2TI.2.18.v009",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text reads 'the resurrection is past already', the definite article rendering τὴν ἀνάστασιν, and the mapped textual_variant note 'Some ancient authorities read a resurrection' assigns the anarthrous base reading to the margin. The note names the rejected rival, so the text reading is the articular one."
+    },
+    {
+      "unit_id": "SBLGNT.2TI.2.21.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV lists 'a vessel unto honor, sanctified, meet for the master's use' with no connective before 'meet', matching asyndetic εὔχρηστον. The rival καὶ εὔχρηστον would require 'and meet for the master's use', which ASV does not print."
+    },
+    {
+      "unit_id": "SBLGNT.2TI.2.25.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "ASV 'if peradventure God may give them repentance' renders μήποτε with any of the three forms alike: subjunctive δώῃ, optative δῴη, and subjunctive δῷ all yield 'may give' after 'if peradventure'. The only note on the verse is an alternative_rendering about 'correcting/instructing', which cannot decide a reading."
+    }
+  ]
+}

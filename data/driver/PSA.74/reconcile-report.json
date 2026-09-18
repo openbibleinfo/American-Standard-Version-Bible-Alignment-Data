@@ -1,0 +1,27 @@
+{
+  "chapter": "PSA.74",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "A simple 'how long' for עַד־מָה / עַד־מָתַי with no matrix frame is split morpheme by morpheme (rule 17): 'long' to עַד as the extent word, 'how' to the interrogative. Applied at 9 and 10; the competing noncompositional fusion is named in each note.",
+    "Where a bare noun stands as predicate complement of a verb and the ASV writes a supplied 'to be' before it, the frame is placed on that noun (rules 20/33), never added: v. 2 'to be the tribe' on שֵׁבֶט, v. 14 'to be food' on מַאֲכָל.",
+    "A supplied relative or subordinator is added under rule 55 where the Hebrew writes a finite clause asyndetically after a written antecedent (v. 2 'which' twice, v. 18 'that'), but stays with the morpheme where the ASV has recast a single morpheme into a clause: v. 3 הֵרַע → 'the evil that ... hath done' (headless clause after כָּל, rule 46) and v. 22 חֶרְפָּה → 'how ... reproacheth' (rule 46 closing).",
+    "Every phrasal particle in the chapter (cast off, Lift up, set up, break down, burned up, drawest back, brakest in pieces, driedst up, rise up against) is read as part of the verb's rendering under rule 44 rather than a surplus, the head staying on the lexical verb; the notes at 6, 8 and 14 name the competing added/complement readings.",
+    "Possessive לְ + suffix rendered by the single genitive 'thine' fuses with the copula ('is thine') under rule 49 closing, headed on the suffix; both cola of v. 16 are read alike."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 29 candidate lemmas end to end. Every multi-treatment bucket is the ASV rendering one word differently in context (בְּ in/upon/by/on/against/with; לְ for/to/unto/of; waw and/even/yet/And that; suffixes as possessive/object; שֵׁם and צָרַר bare as subject or 'of X' as rectum; [הַ] unrepresented at 7 where 'on fire' writes no 'the'). None is a split.",
+    "Read the dump for constructions the table cannot see. The two 'how long' clauses (vv. 9, 10) both split 'long' to עַד and 'how' to the interrogative; both לָמָה units (vv. 1, 11) fuse headed on מָה; both 'to be' predicate frames (vv. 2 'to be the tribe', 14 'to be food') sit on the bare predicate noun; both לְךָ 'is thine' cola in v. 16 fuse with the copula; every phrasal particle (cast off, Lift up, set up, break down, burned up, drawest back, in pieces, driedst up, rise up against) is kept with its verb, with competing readings noted. Supplied relatives are added where the Hebrew writes an asyndetic finite clause after a written antecedent (vv. 2, 18) and kept with the morpheme where the ASV recast a single morpheme into a clause (v. 3 הֵרַע headless after כָּל under rule 46; v. 22 חֶרְפָּה under rule 46 closing). These are two constructions, not one analysed two ways.",
+    "BSB disagreements (7): three paragogic he, one paragogic nun, the second לְ of v. 14, the agent מִנִּי of v. 22, and the unrendered object suffix of v. 17. All are documented convention differences (rules 32, 40, 22); none is an error.",
+    "No patches. Five conventions recorded so the repeated judgments are in the log. Nothing to promote: the chapter applied existing rules and taught no general case the contract lacks."
+  ]
+}

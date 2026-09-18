@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "459987ee2f78382b9296571408d5276835237bed794b1e5faf8c0b5250c8de57",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: all 20 source ids and all 31 target ids appear exactly once; every aligned unit has nonempty arrays with heads drawn from their own arrays.",
+    "s003 (bare 'the', verb-governed genitive) against s015 (anarthrous, carrying its own supplied 'of the') is the one place the two look inconsistent on the surface; both are right. Rule 21 gives the article the determiner and only the case preposition the ASV actually writes, and the ASV writes none after 'forgotten'; rule 21's determinerless clause plus rule 51's anarthrous clause put both 'of' and 'the' on kyriou, since no article stands there to anchor them. Same for s014 'the chastening'.",
+    "s007/s008 checked against rule 42's 'as unto the Lord': the comparative adverb keeps a bare 'as' and the dative's case preposition goes to the governed side, which is the article where one stands and the noun where the Greek is anarthrous. 'with sons' on huiois is correct, and it matches the parallel 'with you' on s006 in the same clause (rule 24).",
+    "s009/s006 checked against rule 36: 'reasoneth with' reads as phrasal English, but the 'with' answers to the dative and rides with the pronoun, not with the verb. Rule 36 says so in terms and rule 27 does not point the other way.",
+    "s013 head ('lightly' over 'regard') is the one genuinely contested choice and the unit's note already names the competing reading as rule 16 requires. Sustained: oligoreo is a hapax with no corpus unit, so rule 104 sends the question to the frame, and the 'regard X-ly' frame parallels rule 91's 'think it strange' heading on 'strange' -- the manner adverb carries the contempt sense that the negated imperative is about. A later chapter finding corpus attestation for the oligo- family should re-test this.",
+    "s020's 'when thou art reproved' keeps the supplied subordinator, subject and copula on the participle. Rule 86's test is satisfied -- a participle is a source token that carries subordination -- so 'when' is a rule 7 helper here and not 'added'."
+  ],
+  "ref": "HEB.12.5",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

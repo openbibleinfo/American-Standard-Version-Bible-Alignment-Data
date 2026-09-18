@@ -1,0 +1,24 @@
+{
+  "chapter": "PSA.101",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "לְנֶגֶד before a noun (101.3, 101.7) is rendered by the single word 'before' and fuses under rule 30 as one unit on both prepositions, headed on נֶגֶד as the morpheme carrying the content (rule 23's first sentence). The competing reading heads on the opening לְ under rule 23's compound-preposition sentence (as מֵעַל and מֵאֵת do); the chapter took נֶגֶד in both verses and the notes name the alternative."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked every candidate group in the cross-verse table. None is a split: the 1cs suffix takes my/me/mine as the ASV writes it and is unrepresented only in PSA.101.2 where the ASV writes 'a perfect heart' with no possessive; לֹא takes 'no' in 101.3 and 101.4 where the ASV recasts the negation onto the object nominal (rule 15) and 'not' where it negates the verb; the בְּ and לְ buckets each follow the ASV's own preposition or complementizer.",
+    "Read the constructions the table is blind to and found them consistent across verses: בְּקֶרֶב → 'within' fused and headed on the construct noun (101.2, 101.7); לְנֶגֶד → 'before' fused and headed on נגד (101.3, 101.7); the object marker unrepresented with its suffix taking 'him'/'Him' in both cola of 101.5; anarthrous participles and adjectives taking their supplied 'the' / 'He that' / 'Whoso' (101.3, 101.5, 101.6, 101.7, 101.8); the supplied 'the' on a construct noun rendered as a noun (101.3 'the work', 101.8 'the city', 'the workers'); 'unto' given to the verb where the object is a bare suffix (101.6) and to the written בְּ where one stands (101.3).",
+    "The one 'added' unit in the chapter, 'that hath' in 101.5, matches rule 2's own example (טוֹב־עַיִן הוּא → He that hath a bountiful eye) with the fronted 'Him' on the resumptive object suffix; the verse's review notes already name the competing rule-46 reading on גְּבַהּ. Left as accepted.",
+    "BSB disagreement at 101.5 אוֹת (s007) is the documented rule-16 convention: the marker is unrepresented and the suffix carries 'him'. Not an error.",
+    "The two repeated notes flagged by the validator restate rules 46 and 15 and need no convention. One convention recorded for the לְנֶגֶד head, which rule 23 leaves genuinely arguable and both verses settled the same way. No promotions or amendments: the chapter taught nothing the contract does not already hold."
+  ]
+}

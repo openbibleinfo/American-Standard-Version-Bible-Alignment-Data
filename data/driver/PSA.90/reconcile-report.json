@@ -1,0 +1,25 @@
+{
+  "chapter": "PSA.90",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Restrictive 'but' meaning 'only' ('Are but as yesterday' v4, 'is their pride but labor' v10) answers to no morpheme and is its own added unit under rule 30; it is not folded into the comparative kaf, the copula or the predicate noun beside it. Both occurrences in this chapter are treated alike.",
+    "Where MACULA tags a noun construct with a finite clause standing under it (ימוֹת עִנִּיתָנוּ, שְׁנוֹת רָאִינוּ), the finite verb is the rectum: the ASV's 'wherein' together with the verb's subject and auxiliaries goes to that verb under rule 19, while the construct noun keeps only its supplied 'the' (rule 29) and its own word. Rule 52's absolute-noun reading, which marks such a relative added, does not arise because the tag is construct, and the asyndetic second phrase's 'And' is added under rule 14."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 17 verses end to end against the 21-lemma candidate table. Every multi-treatment bucket is licensed by the ASV's own rendering: our/Our/us on the 1cp suffix, thine/thy on the 2ms suffix, waw → Yet/And/Yea/Or/Even/That read off the connective actually written (rule 14), bet unrepresented only where the ASV writes a bare phrase (v14 'all our days', rule 40), assimilated article unrepresented only where the ASV writes no the (v5 'like grass', rule 12), Adonai as bare vocative 'Lord' (v1) versus rectum 'of the Lord' (v17).",
+    "Cross-verse pairs checked specifically: restrictive 'but' (= only) is added in both v4 and v10; the distributed second 'as' in v4 goes to the written kaf (rule 25/33 gapped-preposition paragraph) while the 'as' of v5 'as a sleep', where no kaf is written at all, goes to the bare noun under rule 33 — two different constructions, not a split; the two 'wherein' relatives in v15 are treated identically on the finite verbs that stand as recta of construct-tagged nouns; both 'establish thou' imperatives in v17 keep the pronoun; paragogic he unrepresented in v10, v13, v17.",
+    "Units carrying a named competing reading (v2 'Or ever' whole on the waw, v5 doubled 'they are' on the one yihyu, v11 'that is due unto thee' on the possessive suffix, v13 'how long' noncompositional under rule 2 as rule 17's simple-how-long sentence permits) were left as accepted: each is defensible and the note records the alternative. Corpus precedent for עַד מָתַי and for 'Or ever' was not in the briefing, but neither would produce a cross-verse split here.",
+    "BSB disagreements (10) are all documented convention differences: the lexicalized 1cs suffix of Adonai (rule 57), the dative lamed recast as 'our' (rule 40), the unrendered 'in them' of v10 (rule 40), the temporal bet of v14 (rule 40), the waw and repeated noun of dor wa-dor (rule 22 distributive paragraph), and two paragogic he tokens (rule 32). None is an error.",
+    "No promotion: the chapter's one novel shape — a construct-tagged noun governing a finite clause (v15) — is already decided by rule 19 with rule 52's morphology direction, and no corpus precedent for that shape was supplied, so it is recorded as a convention rather than written into the contract."
+  ]
+}

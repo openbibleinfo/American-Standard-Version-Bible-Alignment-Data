@@ -1,0 +1,148 @@
+{
+  "alignments": [
+    {
+      "note": "Construct noun with the *the* supplied for it under rule 29, no article morpheme standing in the chain. Headed on *praises* by rule 31's class-noun test: the ASV writes a bare *praise* for a noun of this class elsewhere in the psalm, so *high* is its specifier; the competing reading heads on *high*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Nomen rectum takes the relational *of* under rule 19.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Verbless clause with a prepositional predicate: the construction-supplied copula joins the preposition heading that phrase under rule 49, and the volitive frame *Let ... be* is the copula the ASV has written in that slot. Discontinuous under rule 25; the ASV's italics corroborate the supply and decide nothing, by rule 7.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The noun takes the word the printed text writes for it; the margin's literal 'Hebrew throat' was read and set aside, by rule 38.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Suffix rendered by the possessive, rule 18.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Conjunction takes the *And* written for it, rule 14.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "The indefinite article belongs to the noun that licenses it under rule 15; discontinuous around the attributive under rule 25.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "The ASV renders the construct relation attributively rather than with *of*, so the rectum takes *two edged* under rule 28, headed on the word carrying the lexeme.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Preposition; the second colon gaps the copula and the ASV writes none for it, so there is nothing further to place.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Suffix rendered by the possessive, rule 18.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "PSA.149.6",
+  "review_notes": [
+    "The clause is verbless and its predicate is the prepositional phrase, so the whole supplied *Let ... be* frame joins the preposition under rule 49 rather than being marked `added`; the alternative of putting it on the fronted construct nominal was rejected because that nominal is the clause's subject.",
+    "`רוֹמְמוֹת` heads on *praises* rather than *high*; both readings are defensible under rule 31 and the class-noun test decided it."
+  ]
+}

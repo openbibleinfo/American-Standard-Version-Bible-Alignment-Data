@@ -1,0 +1,331 @@
+{
+  "alignments": [
+    {
+      "note": "Relative pronoun.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "ἔχει ἀνάγκην collapsed into the single English verb needeth; need answers to ἀνάγκη, so the pair is one aligned unit under rule 39's test and the source head is the noun the target head realizes (rule 73).",
+      "source": [
+        "s003",
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Ordinary negative to not.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "καθ᾽ ἡμέραν rendered by the single word daily, whose day- answers to ἡμέραν, so the pair stays aligned (rules 39, 94).",
+      "source": [
+        "s004",
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Comparative adverb rendered like.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Article rendered by the supplied demonstrative determiner those (rule 60).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "ἀρχιερεύς rendered high priests, headed on the noun that glosses the lexeme (rule 66).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Infinitive with its rule 7 marker to and the particle up of the phrasal offer up.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Noun object; the ASV reorders it after the infinitive.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Adverb rendered first.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Preposition rendered for.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "ἴδιος stands attributively between the article and an expressed noun and carries the supplied possessive, so the article realizes nothing (rules 20, 47).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "ἴδιος rendered his own, headed on own (rule 47).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "The supplied and joins two like constituents — the adjuncts first for his own sins and then for the sins of the people — that the Greek coordinates asyndetically, no καί or δέ standing in the verse. Rule 98 makes such a juncture added under rule 5, citing 2CO.3.7 and REV.15.6, and scopes rule 88's protection to a circumstantial participle converted into a coordinate finite clause, which this is not; rule 29's compound-numeral juncture is not a general licence. Reading the and as an obligatory rule 7 helper on ἔπειτα remains defensible but rests on the rule 98 forecloses.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Adverb rendered then; the supplied juncture and is its own added unit under rule 98, no source token carrying the coordination.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Substantival article carrying the implied case preposition for and the determiner the, headed on the determiner (rules 21, 102).",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t020",
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "The italicized sins repeats English already spent on ἁμαρτιῶν at t017, so no source token is left to license it (rule 103). Reading it as a discontinuous second realization of ἁμαρτιῶν under rule 15 remains defensible.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Article carrying the genitive case preposition, headed on the (rule 21).",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t023",
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Noun stands alone (rule 21).",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "note": "γάρ to for.",
+      "source": [
+        "s022"
+      ],
+      "source_head": "s022",
+      "status": "aligned",
+      "target": [
+        "t026"
+      ],
+      "target_head": "t026"
+    },
+    {
+      "note": "Substantival demonstrative rendered this.",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t027"
+      ],
+      "target_head": "t027"
+    },
+    {
+      "note": "Finite verb with its subject pronoun (rule 9).",
+      "source": [
+        "s023"
+      ],
+      "source_head": "s023",
+      "status": "aligned",
+      "target": [
+        "t028",
+        "t029"
+      ],
+      "target_head": "t029"
+    },
+    {
+      "note": "Adverb rendered by the three-word idiom once for all, headed on once, which glosses the ἅπαξ element.",
+      "source": [
+        "s024"
+      ],
+      "source_head": "s024",
+      "status": "aligned",
+      "target": [
+        "t030",
+        "t031",
+        "t032"
+      ],
+      "target_head": "t030"
+    },
+    {
+      "note": "Participle rendered as a finite clause; the supplied subordinator when and subject he are its helpers, a participle carrying subordination (rules 7, 86).",
+      "source": [
+        "s026"
+      ],
+      "source_head": "s026",
+      "status": "aligned",
+      "target": [
+        "t033",
+        "t034",
+        "t035",
+        "t036"
+      ],
+      "target_head": "t035"
+    },
+    {
+      "note": "Reflexive pronoun object.",
+      "source": [
+        "s025"
+      ],
+      "source_head": "s025",
+      "status": "aligned",
+      "target": [
+        "t037"
+      ],
+      "target_head": "t037"
+    }
+  ],
+  "ref": "HEB.7.27",
+  "review_notes": [
+    "Corrected: the supplied and at t018 was carried on ἔπειτα as a rule 29 helper. Rule 98 governs an asyndetic seam between two like constituents both rendered alike and makes the juncture added under rule 5, and it says in terms that rule 29's compound-numeral juncture is not a general licence and that rule 88's protection reaches only a circumstantial participle converted into a coordinate finite clause. The Greek coordinates πρότερον … ἔπειτα with no conjunction, so nothing licenses the word.",
+    "ἔχει ἀνάγκην is collapsed into needeth under rule 73, with the source head on the noun the English verb realizes.",
+    "The italicized second sins is added under rule 103, ἁμαρτιῶν having already been spent at t017; the unit note concedes the rule 15 reading.",
+    "The two added units of this verse rest on different rules — rule 103 for the repeated sins, rule 98 for the asyndetic juncture — and neither is decided by the ASV's italics under rule 11."
+  ]
+}

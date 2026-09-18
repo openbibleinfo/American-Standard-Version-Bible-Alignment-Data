@@ -1,0 +1,482 @@
+{
+  "schema_version": 1,
+  "chapter": "JHN.7",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.JHN.7.1.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only: 'after these things ... walked' vs 'walked ... after these things'. ASV 'And after these things Jesus walked in Galilee' fronts the phrase as English idiom requires either way; nothing in the verse or its notes distinguishes the Greek order."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.3.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Future indicative vs aorist subjunctive after hina. ASV 'that thy disciples also may behold' renders a purpose clause and is compatible with either form; no note bears on it."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.3.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV reads 'thy works', an explicit possessive, so the bare tau ergon of r02 is excluded. The remaining readings differ only in whether sou precedes or follows, which English word order cannot show."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.4.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order of ti and en krypto only; ASV 'doeth anything in secret' fits both. The mapped textual_variant note concerns 'seeketh it to be known' (the pronoun object of the next clause), not the placement of ti, so it does not decide this unit."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.8.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "This is the first occurrence of heorten. ASV renders it 'Go ye up unto the feast' with no demonstrative, while it does write 'this feast' in the following clause; the contrast within the one verse shows no tauten stood here."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.8.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text reads 'I go not up unto this feast' without 'yet', and the mapped textual_variant note 'Many ancient authorities add yet' assigns oupo to other authorities rather than to the text rendered."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.8.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order and article only ('my time' either way). ASV 'because my time is not yet fulfilled' does not distinguish them; the verse's note concerns 'yet' in the preceding clause."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.9.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV opens 'And having said these things unto them', rendering a connective; the omission leaves the clause asyndetic with nothing for 'And' to translate."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.9.v009",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV has 'having said these things unto them' — the dative 'unto them' renders autois; the nominative autos would give an emphatic 'he himself abode', which ASV does not write."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.10.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'when his brethren were gone up unto the feast, then went he also up' keeps 'unto the feast' with the brethren's going, excluding the RP order that attaches it to the later clause. The two remaining readings differ only in punctuation, which the English cannot distinguish."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.12.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order of polys and peri autou only; ASV 'there was much murmuring among the multitudes concerning him' fits either arrangement."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.12.v012",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV writes 'others said' with no adversative, but it regularly leaves de untranslated in a correlative pair of clauses, so the absence of 'but' does not establish the omission."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.14.v013",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Presence or absence of the article with the proper name; English 'Jesus went up into the temple' cannot show it."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.15.v014",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'The Jews therefore marvelled': 'therefore' renders oun, whereas the alternative begins with kai, which ASV would render 'And'."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.16.v015",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Article before the name only; 'Jesus therefore answered them' is the same English either way."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.19.v016",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Perfect vs aorist of didomi. ASV's 'Did not Moses give you the law' is the ordinary English of a rhetorical question about a past act and does not reliably mark which tense stood; no note bears on it."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.20.v017",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders a single verb of speaking, 'The multitude answered, Thou hast a demon'; the added kai eipen would give 'answered and said', which ASV does not write here."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.23.v018",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Article only; 'If a man receiveth circumcision on the sabbath' is unaffected. The verse's note is a greek_gloss on 'every whit whole' and does not touch this unit."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.24.v019",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Present vs aorist imperative. English 'judge' carries no aspectual marking, so ASV's imperatives do not distinguish the forms."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.26.v020",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV places 'indeed' with the knowing — 'Can it be that the rulers indeed know' — and leaves the hoti clause plain, 'that this is the Christ'; a second alethos after estin would give 'this is truly the Christ', which ASV does not write."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.31.v021",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only; ASV 'But of the multitude many believed on him' matches either arrangement of polloi and the prepositional phrase."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.31.v022",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Recitative hoti before direct speech, which ASV does not translate; 'and they said, When the Christ shall come' is the same either way."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.31.v023",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "me vs meti introducing a question expecting the answer no; ASV's 'will he do more signs' renders either without distinction."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.31.v024",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'more signs than those which this man hath done' needs the antecedent 'those' in English to carry the relative regardless of whether touton stood in the Greek, so the wording does not settle it."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.32.v025",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV names the senders in the order 'the chief priests and the Pharisees'; the alternative reverses them to Pharisees first, which the ASV wording contradicts."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.33.v026",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order of chronon and mikron only; ASV 'Yet a little while am I with you' fits both."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.34.v027",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's 'shall not find me' supplies the object English requires after 'find'; the pronoun in the translation does not establish that me stood in the Greek."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.36.v028",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order of the demonstrative with logos only; ASV 'What is this word that he said' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.36.v029",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "As in the quoted saying, ASV's 'shall not find me' supplies the object English requires and does not show whether me stood in the Greek."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.39.v030",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Case of the relative pronoun (genitive by attraction vs accusative); ASV 'which they that believed on him were to receive' is identical for both."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.39.v031",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV writes 'they that believed on him', a past-tense relative clause answering the aorist participle; the present participle would give ASV's usual 'they that believe on him'."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.39.v032",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r02"
+      ],
+      "evidence": "The mapped textual_variant note assigns 'the Holy Spirit was not yet given' to some ancient authorities, so 'Holy' is not in the text ASV rendered and r01 is excluded. Between the remaining readings, ASV's 'was not yet given' may equally be a supplied complement or a rendering of dedomenon."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.39.v033",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "oudepo vs oupo, both 'not yet'; ASV 'the Spirit was not yet given' does not distinguish them."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.40.v034",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'Some of the multitude therefore'; the alternative begins with polloi, which ASV renders 'many' (as it does in v. 31 of this same word), not 'some'."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.40.v035",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV has 'when they heard these words' — plural noun with plural demonstrative — against the singular ton logon of the alternative."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.40.v036",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Recitative hoti before direct speech, untranslated in ASV's 'said, This is of a truth the prophet'."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.41.v037",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV distinguishes the two groups as 'Others said, This is the Christ. But some said'; the adversative 'But some' answers hoi de, whereas a repeated Alloi would give 'Others said' a second time."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.42.v038",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ouch vs ouchi, an orthographic/emphatic variant of the negative in a question; ASV 'Hath not the scripture said' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.42.v039",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order of verb and subject only; ASV 'that the Christ cometh of the seed of David' fits both."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.43.v040",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only; ASV 'So there arose a division in the multitude because of him' renders either arrangement."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.44.v041",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "epebalen vs ebalen with 'hands on him'; ASV's 'no man laid hands on him' is the natural English of both."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.46.v042",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order of houtos and the verb only; ASV 'Never man so spake' fits both."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.46.v043",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads simply 'Never man so spake'; the longer reading's 'as this man' has no counterpart in the ASV clause."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.49.v044",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "eparatoi vs epikataratoi, two forms of the same predicate; ASV 'are accursed' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.50.v045",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV describes Nicodemus as 'he that came to him before', with no 'by night'; the added nyktos would have to appear in the English parenthesis and does not."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.50.v046",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's 'came to him before' renders proteron, so the omission (r02) is excluded. The two remaining readings differ only by the article with the adverb, which English cannot show."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.51.v047",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order, and proton vs proteron, both rendered 'first'; ASV 'except it first hear from himself' does not distinguish them."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.52.v048",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order of 'prophet' and 'out of Galilee' only; ASV 'out of Galilee ariseth no prophet' follows English idiom either way. The verse's note is an alternative_rendering about punctuating 'see: for out of Galilee', which is about English wording."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.7.52.v049",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'out of Galilee ariseth no prophet' in the present tense, answering egeiretai; the alternative's perfect egegertai would give 'hath arisen'."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "chapter": "JOB.19",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Compound מֵעַל + suffix: where the ASV writes one English preposition for it (JOB.19.13 'far from me'), מִן and עַל fuse into that word headed on the opening מִן (rules 23, 30); where the recasting promotes the suffix's referent to the English verb's direct object and spends no word on the relation (JOB.19.9 'stripped me of my glory'), each of the two prepositions is its own unrepresented unit (rules 2, 40), the suffix takes the object pronoun, and the 'of' that reaches the verb's own bare object (כְּבוֹדִי) is the verb's under rule 44."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 30 candidate lemmas and every added unit end to end. No construction is analysed two ways without the ASV licensing the difference: the suffix, waw, בְּ, לְ and עַל buckets vary only by what the ASV wrote (rendered preposition vs. object promoted to a bare English object under rule 40; 'also'/'that'/'Then' connectives under rules 14, 51, 55).",
+    "מֵעָלַי: JOB.19.9 (two unrepresented units, 'stripped me of my glory') and JOB.19.13 (fused 'from', rule 23/30) are one construction rendered two ways by the ASV, not a split; recorded as a convention so a later reader does not re-derive it.",
+    "Explicit אֲנִי beside a finite verb (JOB.19.25 'as for me, I know'; JOB.19.27 'I, even I, shall see') consistently gives the first pronoun to אֲנִי and the second to the verb, with 'as for'/'even' added (rules 16, 17).",
+    "Evidence round: corpus is split on both עַד אָנָה → 'How long' (noncompositional/long 3, noncompositional/how 2, aligned/long 1) and מִי יִתֵּן → 'Oh that' (noncompositional/Oh 3, /that 2, aligned/Oh 1). JOB.19.2 and JOB.19.23 follow the plurality in each case; a self-contradicting corpus is a reason not to promote, so no promotion or amendment.",
+    "BSB disagreements are all documented conventions: paragogic nun ×4 and cohortative he (rule 32), silenced prepositions ×9 (rule 40), apodosis waw in v18 and the two waws after the optative formula in v23 that the ASV leaves unrendered (rule 14), and the relative שַׁ of v29 for which the ASV writes no 'that'. None is an error; no edge changed.",
+    "Repeated notes flagged by the validator (rules 12, 15, 29, 32) restate contract rules and are not recorded as conventions."
+  ]
+}

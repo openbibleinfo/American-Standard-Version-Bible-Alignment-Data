@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "b99f324ce9c05343f318b2b0868e72626c044eeb14fa3da2dca9b80cf583400b",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: 12 source and 13 target IDs each used once.",
+    "The Hebraic oath particle `Εἰ` correctly takes *not*: the ASV's own gloss (*Greek If they shall enter*) shows the negation answers to this token, and no other source token stands for it, so leaving it `unrepresented` would strand the English negation.",
+    "Both `τῇ` and `τὴν` are `unrepresented` under rule 20, each `μου` taking its possessive."
+  ],
+  "ref": "HEB.3.11",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

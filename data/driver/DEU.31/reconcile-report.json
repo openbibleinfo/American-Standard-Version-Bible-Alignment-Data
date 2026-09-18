@@ -1,0 +1,29 @@
+{
+  "chapter": "DEU.31",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The come-to-pass frame of DEU.31.24 has its apodosis in DEU.31.25: waw + yehi in v24 takes 'And it came to pass' with no complementizer, and the verse-initial 'that' of v25 is the apodosis waw's rendering under rule 45's apodosis-waw sentence, not an added subordinator under rule 55. A pass seeing v25 alone would find a clause-initial 'that' over a bare waw and could mark it added; the frame that licenses it is in the preceding verse. Compare v21, where the same frame and its apodosis waw stand inside one verse.",
+    "In lera'ot 'et-penei YHWH the object marker is its own unrepresented unit and the construct noun penei holds the whole of 'before', because 'before' renders paneh's own lexeme rather than the object relation, which is the condition rule 16 sets. This was chosen over the fused reading even though the corpus aligns 'et + paneh as one 'before' unit in twelve places, including one whose 'et is tagged as an object marker; rule 16 is the rule specific to H853 and rule 30's one-word condition does not reach a morpheme whose sense the word carries nothing of. Recorded so the choice is not re-litigated from the corpus table alone."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v139",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 30 verses end to end against the 65-lemma candidate table. No construction is analysed two ways without something in the source or in the ASV licensing the difference, so patches is empty.",
+    "masa 'come upon' (v17 twice, v21) is the closest call and is licensed: v21 carries an object marker on the object, which takes the 'upon' under rule 16, while v17's two clauses have a bare object suffix, so the supplied preposition joins the verb under rule 44's own limit. Both verses already record the contrast.",
+    "le-'ed (v19 unrepresented, v21 'as', v26 'for') tracks the English actually written: v19 puts nothing between the written hayah's 'may be' and 'a witness', so rules 21 and 40 leave the lamed nothing, while v21 and v26 each write a preposition for it.",
+    "min plus a construct is uniform: fused where one English rendering covers both (mippeneihem to 'at'), split wherever the construct holds a word of its own (miqqets to 'At the end', mippi to 'out of the mouths', mitstsad to 'by the side'), and mi-li-fnei split in v3 because the ASV writes 'from before'.",
+    "Determiner counting is consistent chapter-wide: ha-yom to 'this day' on the article (vv2, 21, 27); ba-yom ha-hu to 'that' on the pronoun with both articles unrepresented (vv17, 18); v22 writes two determiners ('the same day') and each morpheme takes the one standing before its own word. The construct-chain 'the's of vv4, 10, 15, 16, 26, 29 are all placed by which word each 'the' stands before, fronting only where the rectum is left with no determiner at all.",
+    "Audited every English connective clause by clause against the conjunction morphemes present, since the candidate table is blind to added units. Only v3's italic 'and' before Joshua answers to no conjunction and is added; the cleft 'it' of the parallel clauses in v6 and v8 is added in both. No supplied connective is folded into a neighbouring word anywhere in the chapter.",
+    "BSB: all 53 disagreements are the documented convention families - 40 articles, 5 prepositions silenced by an ASV recasting, 5 object markers, the resumptive suffix at v4 (rules 22, 43), the adverbial-accusative preposition at v22, and the paragogic nun at v29. None is a genuine error, and none of the accepted edges was changed.",
+    "One divergence from corpus precedent, flagged rather than patched: v11 reads 'et-penei as an unrepresented object marker beside a construct noun holding 'before' (rule 16), while the corpus fuses 'et + paneh into one 'before' unit in twelve places, one of them tagged To+Ncbpc at DEU.16.16. Rule 16 is the specific rule and 'before' writes paneh's lexeme rather than the object relation, so the verse's reading stands; the competing reading is recorded in the conventions log.",
+    "No promotions or amendments. The cross-verse hayah frame is what the conventions log is for under rule 10 rather than new contract text, and the kol ha-yamim article question has a corpus that contradicts itself (eight 'for ever' units absorb the article, rule 30's own text excludes it), which is a reason not to promote."
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "chapter": "REV.15",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.REV.15.3.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'thou King of the ages' renders αἰώνων, and its note 'Many ancient authorities read nations. Jer. 10:7' maps ἐθνῶν as the reading it did not follow."
+    },
+    {
+      "unit_id": "SBLGNT.REV.15.4.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Who shall not fear, O Lord' supplies no object; the added σε would give 'shall not fear thee', which ASV renders explicitly wherever the pronoun stands."
+    },
+    {
+      "unit_id": "SBLGNT.REV.15.4.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Future indicative δοξάσει and aorist subjunctive δοξάσῃ both continue the μή question as ASV 'and glorify thy name?'."
+    },
+    {
+      "unit_id": "SBLGNT.REV.15.4.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'for thou only art holy' renders ὅσιος and ἅγιος alike; the verse's only note points to 3:9 and belongs to 'worship', not to this word."
+    },
+    {
+      "unit_id": "SBLGNT.REV.15.6.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'arrayed with precious stone' flattens the periphrastic relative as readily as the bare participle, and it has already turned ἔχοντες into 'that had' in the same verse, so the English does not distinguish the two."
+    },
+    {
+      "unit_id": "SBLGNT.REV.15.6.v006",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'arrayed with precious stone' renders λίθον against the SBLGNT base, and its note 'Many ancient authorities read in linen. 19:8' maps λίνον as the reading it did not follow."
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "alignments": [
+    {
+      "note": "Postpositive conjunction taking the verse-opening 'For'.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Ordinary negative aligned to 'not'; no negative indefinite stands in the clause, so rules 41 and 59 do not arise.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Dative noun with its supplied case preposition under rule 21's determinerless clause.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Finite verb with its subject and periphrastic auxiliary; rule 9 heads on the lexical verb.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Rule 19: article realized by 'the'.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Rule 23: second attributive article with no English realization, the ASV writing a bare infinitival modifier.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Participle rendered by the infinitive 'to come'; the marker is its rule 7 helper, no conjunction governing the clause.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Rule 35: preposition and relative fused into the single portmanteau 'whereof', whose '-of' answers to the preposition; headed on the pronominal.",
+      "source": [
+        "s009",
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Finite verb with its subject pronoun, headed on the lexical verb.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "HEB.2.5",
+  "review_notes": [
+    "'whereof' is 'aligned' rather than 'noncompositional' because part of the English word answers to each source token (rule 35's test, as against rule 45)."
+  ]
+}

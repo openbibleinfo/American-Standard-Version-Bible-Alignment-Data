@@ -1,0 +1,24 @@
+{
+  "artifact_hashes": {
+    "greek_boundary_mapping_sha256": "eb3537bd08c68b321bcb45a5bcf4ecda176008db83ef4c66183b58f586b7da01",
+    "review_receipts_sha256": "222765a2f5770d34d3140819a3c136f0cbc762b6a933659b6b0b71662b197982",
+    "source_lock_entries_sha256": "b65ac384131b974822cb41cbc5fd369a28f16a5d2e18149a018ac36aba031ec8",
+    "variant_decisions_sha256": "63a021dfb833c75db8cb7b1845f37df96d04f4c9cc9220e42e4223c96c8979a9",
+    "verse_divisions_sha256": "absent",
+    "verse_responses_sha256": "0352aff1e62da7c32a57f6cdb8b46b9447a63b63b6caa4897b1c4ae32b70db0d"
+  },
+  "chapter": "ACT.5",
+  "contract": {
+    "sha256": "6cb2a5ddbd4b251deac0bf661f4081daf75eaa6b9430e27186e31cdfa18b0467",
+    "version": "nt-greek-verse-v70"
+  },
+  "created_at": "2026-08-27T13:06:26.227092+00:00",
+  "models": {
+    "alignment": "claude-code (packed=all)",
+    "reconciliation": "claude-code (bounded)",
+    "review_context": "claude-code (packed=all)"
+  },
+  "omissions": [],
+  "repository_revision": "fe9ca0b1308e723e72309a23889e736652e1b59f",
+  "testament": "NT"
+}

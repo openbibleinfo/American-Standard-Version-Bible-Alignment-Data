@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "chapter": "1JN.1",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.1JN.1.3.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 1:3 renders an adjunctive kai that the RP omission would leave untranslated: \"declare we unto you also ... that ye also may have fellowship\" and \"yea, and our fellowship is with the Father\". The English carries every connective of the base text, so the omission reading is excluded."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.1.4.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 1:4 reads \"and these things we write, that our joy may be made full\" -- an emphatic subject \"we\" and no indirect object. The RP reading hemin/hymin would require \"we write unto you\", which the ASV does not have. The verse note \"Many ancient authorities read your\" concerns the joy (hemon/hymon) later in the clause, not the pronoun at issue here, so it does not bear on this unit."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.1.5.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The candidates differ only in the order of en auto and ouk estin. ASV \"and in him is no darkness at all\" translates the same words in an English order fixed by English syntax, so the rendering cannot distinguish the Greek order. No note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.1.7.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 1:7 reads \"the blood of Jesus his Son\" with no \"Christ\". The RP reading adds Christou, which the ASV would have rendered; its absence selects the base."
+    },
+    {
+      "unit_id": "SBLGNT.1JN.1.8.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The candidates differ only in the order of en hemin and ouk estin. ASV \"and the truth is not in us\" reflects the same words in an order English requires, so it does not distinguish the Greek. No note is mapped here."
+    }
+  ]
+}

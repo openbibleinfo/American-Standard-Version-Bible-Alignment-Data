@@ -1,0 +1,31 @@
+{
+  "ref": "1PE.3.7",
+  "alignments": [
+    {"source": ["s001"], "source_head": "s001", "target": ["t001"], "target_head": "t001", "status": "aligned", "confidence": "high", "note": "Vocative article with an expressed head noun; the ASV supplies *Ye* as the address pronoun, which is the article's own to take under rules 51 and 60, as EPH.6.9, REV.18.20 and REV.19.5 have it. REV.19.5 is decisive, the determiner slot there being already filled by *his* while the article still takes *ye*."},
+    {"source": ["s002"], "source_head": "s002", "target": ["t002"], "target_head": "t002", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s003"], "source_head": "s003", "target": ["t003", "t004", "t005"], "target_head": "t004", "status": "aligned", "confidence": "medium", "note": "The adverb is rendered by the frame *in like manner*; rule 66's test heads it on *like*, which glosses the lexeme, rather than on the generic completion *manner*."},
+    {"source": ["s004"], "source_head": "s004", "target": ["t006", "t007", "t008", "t009"], "target_head": "t006", "status": "aligned", "confidence": "medium", "note": "*with* is the compound verb's own particle. The supplied object *your wives* is an argument the English verb requires and no other source token licenses it, so it rides with the verb under rules 7 and 11 rather than being marked added mechanically; rule 74's contrast keeps a supplied object with the verb that requires it."},
+    {"source": ["s005"], "source_head": "s005", "target": ["t010", "t011"], "target_head": "t010", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s006"], "source_head": "s006", "target": ["t012"], "target_head": "t012", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s012"], "source_head": "s012", "target": ["t013"], "target_head": "t013", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s013"], "source_head": "s013", "target": ["t014"], "target_head": "t014", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s010"], "source_head": "s010", "target": ["t015", "t016"], "target_head": "t016", "status": "aligned", "confidence": "high", "note": "Rule 21: the dative case preposition rides with the article and the unit heads on *the*."},
+    {"source": ["s011"], "source_head": "s011", "target": ["t017"], "target_head": "t017", "status": "aligned", "confidence": "high", "note": "The ASV reorders, rendering the adjective substantivally as *woman*."},
+    {"source": ["s007"], "source_head": "s007", "target": ["t018"], "target_head": "t018", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s008"], "source_head": "s008", "target": ["t021"], "target_head": "t021", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s009"], "source_head": "s009", "target": ["t019", "t020", "t022"], "target_head": "t022", "status": "aligned", "confidence": "medium", "note": "The one Greek article is spent on *unto the woman*, so the ASV's second *the* before *vessel* is supplied; rule 58 gives a supplied determiner and its case preposition to the noun, discontinuously under rule 15."},
+    {"source": ["s014"], "source_head": "s014", "target": ["t023"], "target_head": "t023", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s015"], "source_head": "s015", "target": ["t025"], "target_head": "t025", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s016"], "source_head": "s016", "target": ["t024", "t026", "t027"], "target_head": "t027", "status": "aligned", "confidence": "high", "note": "Verbless clause with no expressed subject, so the supplied participial copula *being* rides with the predicate noun under rules 53 and 68; *joint heirs* is one lexeme's two-word English and heads on *heirs* under rule 66."},
+    {"source": ["s017"], "source_head": "s017", "target": ["t028", "t029", "t030"], "target_head": "t030", "status": "aligned", "confidence": "high", "note": "The Greek is anarthrous, so the supplied *the* and the case preposition stay with the noun under rules 21 and 58."},
+    {"source": ["s018"], "source_head": "s018", "target": ["t031", "t032"], "target_head": "t032", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s019"], "source_head": "s019", "target": ["t033", "t034", "t035", "t036"], "target_head": "t033", "status": "aligned", "confidence": "high", "note": "Rule 61: the preposition governing an articular infinitive takes the whole clause-introducer *to the end that*, headed on the word realizing the preposition."},
+    {"source": ["s020"], "source_head": "s020", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "The nominalizing article of the articular infinitive has no English realization of its own under rules 61 and 23."},
+    {"source": ["s021"], "source_head": "s021", "target": ["t040"], "target_head": "t040", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s022"], "source_head": "s022", "target": ["t039", "t041"], "target_head": "t041", "status": "aligned", "confidence": "high", "note": "The passive auxiliary rides with the lexical verb, which is the head under rules 9 and 17."},
+    {"source": ["s023"], "source_head": "s023", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "Rule 20: the genitive pronoun is present and free to take the possessive *your*, so the article is displaced and realizes nothing."},
+    {"source": ["s024"], "source_head": "s024", "target": ["t038"], "target_head": "t038", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s025"], "source_head": "s025", "target": ["t037"], "target_head": "t037", "status": "aligned", "confidence": "high", "note": ""}
+  ],
+  "review_notes": []
+}

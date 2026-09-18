@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "chapter": "JER.51",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JER.51.3.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV wording renders three bend-words: 'Against him that bendeth let the archer bend his bow', which requires the doubled verb of the ketiv (ידרך ידרך הדרך קשתו). The qere, with the second ידרך omitted, yields the single prohibition the ASV records only as an alternative ('Let not the archer bend his bow'), i.e. not what the main text renders."
+    },
+    {
+      "unit_id": "WLC.JER.51.9.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere רִפִּינוּ and ketiv רפאנו are orthographic variants of the same 1cp perfect 'we healed' (III-he vs III-aleph spelling of רפא/רפה). ASV 'We would have healed Babylon' renders either identically, and no note is mapped here."
+    },
+    {
+      "unit_id": "WLC.JER.51.13.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Ketiv שכנתי is the archaic 2fs form with final yod of the same qal perfect that the qere writes שֹׁכַנְתְּ; both are 'thou (fem.) that dwellest'. ASV 'O thou that dwellest upon many waters' does not distinguish them, and the only note here is classed alternative_rendering about 'covetousness/dishonest gain'."
+    },
+    {
+      "unit_id": "WLC.JER.51.34.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV main text reads 'hath devoured me' (1cs suffix), the qere אֲכָלַנִי; the mapped textual_variant note 'Another reading is, us.' records the ketiv אכלנו as the reading the ASV did not follow."
+    },
+    {
+      "unit_id": "WLC.JER.51.34.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV main text reads 'he hath crushed me' (1cs suffix), the qere הֲמָמַנִי; the mapped textual_variant note 'Another reading is, us.' records the ketiv הממנו as the reading the ASV did not follow."
+    },
+    {
+      "unit_id": "WLC.JER.51.34.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV main text reads 'he hath made me an empty vessel' (1cs suffix), the qere הִצִּיגַנִי; the mapped textual_variant note 'Another reading is, us.' records the ketiv הציגנו as the reading the ASV did not follow."
+    },
+    {
+      "unit_id": "WLC.JER.51.34.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV main text reads 'hath, like a monster, swallowed me up' (1cs suffix), the qere בְּלָעַנִי; the mapped textual_variant note 'Another reading is, us.' records the ketiv בלענו as the reading the ASV did not follow."
+    },
+    {
+      "unit_id": "WLC.JER.51.34.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV main text reads 'he hath cast me out' (1cs suffix), the qere הֱדִיחָנִי; the mapped textual_variant note 'Another reading is, us.' records the ketiv הדיחנו as the reading the ASV did not follow."
+    }
+  ]
+}

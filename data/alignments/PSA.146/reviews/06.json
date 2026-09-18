@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "8d93f2551e5fdb47e9064dbf5b78a9ab0fc8684bca4265fb236783000b7f6af0",
+  "contract_version": "ot-hebrew-verse-v201",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 18 source IDs and 18 target tokens are partitioned exactly once.",
+    "The two participles are governed by different rules and the alignment keeps them apart correctly: `עֹשֶׂה` is anarthrous and takes its supplied *Who* into its own unit headed on *made* (rule 46), while `הַשֹּׁמֵר` carries an article, which takes the written *Who* and heads on it (rule 41).",
+    "`כָּל־אֲשֶׁר` is rendered by two English words, so rule 35's *whatsoever* fusion does not reach it and rule 2 splits the quantifier from the relative.",
+    "*in them is* puts the copula on the `בְּ` heading the prepositional predicate of the verbless relative clause (rule 49), discontinuous around the suffix's *them* under rule 25.",
+    "Both `אֵת` markers are `unrepresented`: the ASV writes each object bare (rule 16). `לְעוֹלָם` is split rather than fused, since a word is written for each morpheme (rule 30)."
+  ],
+  "ref": "PSA.146.6",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,5 @@
+# Psalms 141 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Where the ASV renders a single connective or relational morpheme standing over a clause by two English words -- one realizing that morpheme's own lexeme and the other a bare subordinator the recast clause needs in English -- both words are that morpheme's one unit and neither is `added`, headed on the word that writes the lexeme. כְּמוֹ -> 'As when' (v7) and עַד -> 'Whilst that' (v10) are each read that way, headed on 'As' and 'Whilst'. This is rule 55's coordinator-plus-subordinator carve-out read by its own direction to take the connective that is there and not its lemma, extended here to a comparative particle and to a temporal preposition. The competing reading marks the second word `added` under rule 55's first sentence; it is named in each verse's notes and was set aside because a connective morpheme does stand over each clause, so the count rule 55 runs finds no surplus.

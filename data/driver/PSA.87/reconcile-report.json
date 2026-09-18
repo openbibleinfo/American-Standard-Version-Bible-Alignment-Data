@@ -1,0 +1,25 @@
+{
+  "chapter": "PSA.87",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Refrain זֶה יֻלַּד־שָׁם (vv. 4, 6) → 'This one was born there': זֶה takes the supplied 'one' headed on 'This' (rule 31), the Pual perfect takes 'was born', שָׁם 'there'. The distributive אִישׁ וְאִישׁ of v. 5 is read the same way, each noun taking its own 'This one' / 'that one' with the contrastive determiner inside the noun's unit (rule 15) and nothing unrepresented. The predicate בְּ of vv. 1 and 7 carries the copula (rule 49); the בְּ of מְדֻבָּר בָּךְ in v. 3 is the participle's complement and takes 'of' — the candidate table's three treatments of בְּ are contexts, not a split."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all seven candidate lemmas; none is a split. הוּא, וְ, לְ, צִיּוֹן and שִׁיר differ only by ASV rendering in different constructions.",
+    "בְּ: vv. 1 and 7 are verbless clauses with a prepositional predicate and both put the copula on the preposition headed on 'in' (rule 49); v. 3's בָּךְ is the complement of the passive participle and takes the 'of' the ASV writes for it (rule 11); v. 5 'in' and v. 6 'when' (rule 52) are ordinary. Consistent.",
+    "אִישׁ: v. 5's 'This one … that one' handles both occurrences alike (supplied contrastive determiner joins the noun, rule 15), and the refrain זֶה יֻלַּד־שָׁם is analysed identically in vv. 4 and 6 (זֶה → 'This one' headed on 'This', rule 31).",
+    "Read the dump end to end for added-unit splits: the only added unit is v. 7's italic 'shall say' (rule 20 supplied lexical verb), correctly marked; v. 6's 'up' of 'writeth up' and v. 4's 'as' of 'as among' are kept with their morphemes with the competing reading named in each note — defensible under rules 44 and 24 and not in tension with any other verse of the chapter.",
+    "BSB disagreements (v. 3 article on the rectum of 'city of God', v. 7 verse-initial waw the ASV leaves unrendered) are documented convention differences under rules 29 and 14, not errors.",
+    "Repeated notes are rule restatements ('Rectum takes of', 'Pual perfect → was born', 'Selah') and need no convention. No promotion: the chapter teaches nothing the contract does not already say."
+  ]
+}

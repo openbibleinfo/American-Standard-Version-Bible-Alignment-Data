@@ -1,0 +1,27 @@
+{
+  "chapter": "DEU.24",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "לוֹ לְאִשָּׁה is aligned by the morphemes each verse actually writes. At v3, where the Hebrew has no verb, the resultative frame *to be* goes to the לְ of לְאִשָּׁה (rule 49) and the לְ of לוֹ is unrepresented; at v4 the written לִהְיוֹת supplies both words, so *to* is the לִ's and *be* the infinitive's, and the לְ of לוֹ and the לְ of לְאִשָּׁה are both unrepresented (rules 40, 52). The two readings differ because the source differs, not because one construction was analysed twice.",
+    "אַחֲרֶיךָ is aligned as the ASV wrote it in each verse: *again* at v20, with the suffix unrepresented under rule 22, and *after thee* at v21, with the suffix taking *thee*. Identical Hebrew rendered two ways by the ASV is not a split, and neither verse should be moved to match the other.",
+    "ASV italics in this chapter fall both ways under rule 7, decided by whether a morpheme licenses the word rather than by the markup. *due to* (v17) joins the rectum גֵּר as the construct relation the ASV recast (rule 19), and *the grapes of* (v21) joins בָּצַר as the completion of that verb's own lexeme; *wife* (v2), *a man's* (v6) and *or* (v17) are `added`, no morpheme in their clauses answering to them. v17 writes one of each.",
+    "Heads on a verb rendered by more than one English word: where the English verb is light, the head is the complement carrying the lexeme — חָבַל → *take ... to pledge* (v6 twice, v17) heads on *pledge* and מוּת hophal → *shall be put to death* (v16 three times) on *death*; where the English verb itself carries the action and the supplied noun only spells out its domain, the head stays on the verb — פִּאֵר → *go over the boughs* (v20) heads on *go* and בָּצַר → *gatherest the grapes of* (v21) on *gatherest*. Rule 44's subtraction test is what separates them."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v137",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 46 candidate lemma groups and, separately, every `added` unit in the dump read end to end, since the candidate table is blind to those. No construction in this chapter is analysed two ways with nothing in the source or in the ASV's own wording to license the difference. Verdict no-change; patches empty.",
+    "The groups that looked like splits and are not: (a) לוֹ לְאִשָּׁה at v3 versus v4 — v3 writes no verb, so the resultative frame *to be* belongs to the לְ of לְאִשָּׁה (rule 49), while v4 writes לִהְיוֹת, which takes *be* with *to* on its own לִ, leaving both other לְs unrepresented (rules 40, 52); (b) לָשׁוּב לְקַחְתָּהּ at v4 (*take her again*, both infinitive prepositions unrepresented) versus לְקַחְתּוֹ at v19 (*to fetch it*, the written *to* on the לְ), which is rule 52's 'ask whether a word is written'; (c) אַחֲרֶיךָ at v20 (*again*, suffix unrepresented) versus v21 (*after thee*) — identical Hebrew, different ASV; (d) הוּא at v6 (*he*) versus the second הוּא at v15 (unrepresented under rule 22, the first occurrence already rendered); (e) the article groups at v3, v4, v7, v18 and v22, each a determiner count under rules 29, 41 and 47 that comes out differently because a suffix, a demonstrative, or nothing at all stands in the phrase.",
+    "The `added` units are consistent, and they were the real risk here, being invisible to the table. All four supplied object pronouns are `added` (v1 *it*, v3 *it*, v15 *him*, v21 *it*) and none is folded into a verb anywhere; both supplied connectives are `added` in clauses holding no conjunction morpheme (v8 *so*, v17 *or*), while every connective with a waw, an אוֹ or a כִּי behind it is aligned to that morpheme; supplied determiners (*a*, *the*, *some*, *every*) and supplied copulas are joined to the noun or to the predicate everywhere they occur and are never `added`.",
+    "BSB: none of the 24 disagreements is a genuine error. Ten R and eight Td are the documented convention difference on function morphemes the ASV leaves unrendered (rules 40, 47, 52), as is the object marker at v8 (rule 16). Five more are places where the ASV writes one English word where BSB attaches something to each morpheme: בֵיתוֹ → *home* (v5), בּוֹ → *to whom* with the resumptive suffix unrendered (v11, rules 22, 43), the second הוּא (v15), and אַחֲרֶיךָ → *again* (v20). The v2 waw is rule 42's count run on waws: the chapter writes three waws and the ASV one *and*, which stands before *be*, so the waw before *she may go* is the one left unrepresented. Nothing here should be changed to move the rate.",
+    "One thing to carry forward rather than promote: rule 44's 'a supplied object is not a complement' is written about pronouns, and this chapter met supplied lexical objects that spell out a verb's own lexeme — פִּאֵר → *go over the boughs* (v20) and בָּצַר → *gatherest the grapes of* (v21) — and kept them inside the verb's unit rather than marking them `added`. Both verse passes named the competing reading and no corpus precedent for either verb was supplied, so nothing is promoted; a chapter that meets this with corpus support should settle it. Recorded as a convention meanwhile."
+  ]
+}

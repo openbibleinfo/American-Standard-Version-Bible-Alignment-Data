@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "chapter": "JOS.5",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JOS.5.1.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV renders the first person: \"until we were passed over\", which is the ketiv עברנו (we passed over), not the qere עָבְרָ֑ם (they passed over). The mapped textual_variant note \"Another reading is, they.\" confirms the third-person qere was the alternative ASV set aside, so the English distinguishes r01."
+    }
+  ]
+}

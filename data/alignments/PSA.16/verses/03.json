@@ -1,0 +1,132 @@
+{
+  "ref": "PSA.16.3",
+  "alignments": [
+    {
+      "source": ["s001"],
+      "source_head": "s001",
+      "target": ["t001", "t002"],
+      "target_head": "t002",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "One morpheme rendered by a multi-word English preposition; head on the token carrying the lexeme (for) rather than the connective (As), per rule 24."
+    },
+    {
+      "source": ["s002"],
+      "source_head": "s002",
+      "target": ["t003", "t004"],
+      "target_head": "t004",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "No article morpheme on the absolute adjective, so the ASV's the is supplied to the substantive that licenses it and is not added."
+    },
+    {
+      "source": ["s003"],
+      "source_head": "s003",
+      "target": ["t005"],
+      "target_head": "t005",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s004"],
+      "source_head": "s004",
+      "target": ["t006", "t007"],
+      "target_head": "t007",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Verbless relative clause; the supplied copula are joins the predicate phrase's preposition under rule 20 and is not added."
+    },
+    {
+      "source": ["s005"],
+      "source_head": "s005",
+      "target": ["t008"],
+      "target_head": "t008",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Assimilated article supplied by MACULA as a token; it takes the ASV's the per rule 12."
+    },
+    {
+      "source": ["s006"],
+      "source_head": "s006",
+      "target": ["t009"],
+      "target_head": "t009",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s007"],
+      "source_head": "s007",
+      "target": ["t010"],
+      "target_head": "t010",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s008"],
+      "source_head": "s008",
+      "target": [],
+      "target_head": null,
+      "status": "unrepresented",
+      "confidence": "high",
+      "note": "The ASV leaves this waw unrendered in the text; the And of the marginal alternative is not the reading aligned."
+    },
+    {
+      "source": ["s009"],
+      "source_head": "s009",
+      "target": ["t011", "t012", "t013"],
+      "target_head": "t013",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Verbless clause: the supplied copula are joins the predicate it licenses (rule 20), and a construct noun carries no article, so the is supplied here (rule 29). Head on the lexeme-bearing excellent."
+    },
+    {
+      "source": ["s010"],
+      "source_head": "s010",
+      "target": ["t017"],
+      "target_head": "t017",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Gloss is reverse-distributed across the suffixed word per rule 39; the lemma kol is all."
+    },
+    {
+      "source": ["s011"],
+      "source_head": "s011",
+      "target": ["t019"],
+      "target_head": "t019",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s012"],
+      "source_head": "s012",
+      "target": ["t018"],
+      "target_head": "t018",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Pronominal suffix takes the English possessive per rule 18."
+    },
+    {
+      "source": ["s013"],
+      "source_head": "s013",
+      "target": ["t014", "t016"],
+      "target_head": "t014",
+      "status": "aligned",
+      "confidence": "medium",
+      "note": "Verbless clause with inverted English order; the supplied is joins the predicate prepositional phrase under rule 20, discontinuously across whom (rule 25). Attaching is to delight instead remains defensible."
+    },
+    {
+      "source": ["s014"],
+      "source_head": "s014",
+      "target": ["t015"],
+      "target_head": "t015",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The suffix is realized by the relative pronoun whom in the ASV's recasting of in them."
+    }
+  ],
+  "review_notes": []
+}

@@ -1,0 +1,8 @@
+# 2 Corinthians 4 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Substantival article plus generic nominal: the article takes the supplied *things* in both shapes, but the firmness differs. Before a substantival adjective (2CO.4.2 τὰ κρυπτά -> *the hidden things*) the corpus is unanimous since rule 49 entered the contract — JUD.1.15, 2CO.5.17 — so record high. Arthrous τὰ πάντα (2CO.4.15 -> *all things*) is the contested shape, most of its precedents hedged and rule 17's own *all things* illustration pulling the other way, so record medium. 2CO.5 drew the same line.
+- ὑπερβολή heads on the noun of magnitude, never on *exceeding*: 2CO.4.7 -> *exceeding greatness* heads on *greatness* with 2CO.12.7 and GAL.1.13, *exceeding* being what the corpus spends on ὑπερβάλλω (rule 91).
+- A supplied English juncture goes to the token that heads the member it introduces, and an expressed Greek conjunction takes the English word standing in its slot whatever its part of speech: 2CO.4.13 διό -> *and therefore* at high, 2CO.4.16 καί -> *by* in *day by day*. Rule 88's closing line is the test — rules 29 and 30 reach only a juncture with no Greek counterpart, as at 2CO.4.17 εἰς ὑπερβολήν -> *and more exceedingly*.
+- καθ᾽ ὑπερβολὴν εἰς ὑπερβολήν (2CO.4.17) is split token by token, each preposition unrepresented under rule 34 and each ὑπερβολήν taking its own English: no aligned PREP+X unit in the corpus renders to more than one English word. Reading all four as one noncompositional unit stays defensible, hence medium.

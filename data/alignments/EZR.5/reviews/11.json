@@ -1,0 +1,12 @@
+{
+  "alignment_sha256": "936504eaa1a8565433a44877f32b02259ab062c6ffe2c38913131b80c4377011",
+  "contract_version": "ot-hebrew-verse-v218",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "Corrected: the relative 'which' of 'which a great king of Israel builded' is the object of the verb and realizes the object suffix of בְּנָהִי (rule 18), so it goes to the suffix and the waw, for which the ASV writes no separate connective, is unrepresented (rule 17: a pronoun the relative realizes takes it before the waw does). Contrast EZR.5.12, where 'who' is the subject relative and no pronoun realizes it, so it is the waw's.",
+    "Scoped LS01 correction independently confirmed; evidence: data/audits/retrospective-new-chapters-2026-09-12/receipts/EZR.5.11.json. Original full-review coverage is carried forward only for unchanged content. The scoped assessment and independent confirmation cover the changed candidate units and their notes; no new full-verse review is claimed. Original reviewer, date fields and contract provenance are preserved; original receipt: data/audits/retrospective-new-chapters-2026-09-12/before/EZR.5.11/review.json."
+  ],
+  "ref": "EZR.5.11",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

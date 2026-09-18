@@ -1,0 +1,6 @@
+# Proverbs 22 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Phrasal particles are kept with their verbs throughout this chapter, and rule 44's surplus-particle carve-out was considered and declined in each case: 'Train up' (22.6), 'bound up' (22.15), 'pass on' (22.3), 'Cast out' and 'go out' (22.10), 'carry back' (22.21), 'take away' (22.27). Where the bare English verb arguably writes the whole lexeme already -- 'up' on חָנַךְ and on קָשַׁר, 'away' on לָקַח -- the competing `added` reading is named in the verse's own note. A later verse in this chapter should fold the particle and name the alternative rather than mark it `added`.
+- Rule 30 fusions in this chapter are recorded with status `noncompositional` rather than `aligned`: עַל־פִּי (22.6), בְּבִטְנְ- (22.18), בַּחוּץ and בְּתוֹךְ (22.13), אִישׁ מַלְוֶה (22.7), לָמָּה (22.27), וְאַל (22.22) and both לִפְנֵי (22.29). The corpus records fused prepositions both ways -- לִפְנֵי is `aligned` to 'before' in 597 units and `noncompositional` in 269 -- so the choice is free and the chapter made it uniformly.

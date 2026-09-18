@@ -1,0 +1,163 @@
+{
+  "alignments": [
+    {
+      "note": "γάρ → 'For'.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Anarthrous noun with supplied determiner (rule 51).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Adjectival predicate of a verbless clause takes the supplied copula (rule 53); βέβαιος → 'of force', headed on the noun that carries the sense.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The prepositional phrase is expanded into a finite clause and the preposition carries the supplied verb (rule 62); head on the word that introduces its English clause.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "νεκροῖς → 'death' (ASV note: Greek 'over the dead').",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "ἐπεί → 'for'.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Finite verb with supplied subject and auxiliary; head on the lexical verb.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "μήποτε carries content of its own here and is aligned in the ordinary way to 'never' (rule 64's contrast).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "ὅτε → 'while'.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Substantival article before a participle supplies the pronoun and nothing else (rule 32).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Participle rendered as a finite relative clause; relativizer and supplied object are its helpers.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020",
+        "t021"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "ζῇ → 'liveth'.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    }
+  ],
+  "ref": "HEB.9.17",
+  "review_notes": [
+    "ἐπὶ νεκροῖς expanded into 'where there hath been death'; the supplied verb goes to the preposition under rule 62, headed on 'where'.",
+    "μήποτε here is negative rather than interrogative, so rule 64 does not empty it."
+  ]
+}

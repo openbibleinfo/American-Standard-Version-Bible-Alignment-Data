@@ -1,0 +1,166 @@
+{
+  "alignments": [
+    {
+      "note": "Imperative; ASV margin offers 'Send forth', which does not change the alignment.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Construct noun; its suffix takes the possessive separately under rule 18.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "2ms suffix realized by the possessive 'thy'.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Rule 30 names `עַל־פְּנֵי` → *upon* as a fusion: one English word carries the relation and the construct noun, headed on the construct. The ASV note 'Hebrew upon the face of the waters' corroborates that no separate word was spent on `פָּנֶה`.",
+      "source": [
+        "s004",
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Article on the rectum takes the written *the* (rule 29).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Rectum of the fused prepositional phrase.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "`כִּי` rendered *for*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "The temporal `בְּ` is rendered *after* in the ASV's recasting of 'in the abundance of the days' as 'after many days'.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Construct `רֹב` 'abundance' recast attributively as *many* (rule 28).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Article on the rectum: the ASV writes no *the* for the phrase at all, so it is unrepresented under rule 29.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rectum of the chain, rendered as the counted noun of the attributive recasting.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Finite verb with its subject pronoun and auxiliary, headed on the lexical verb (rules 17, 24).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Object suffix realized by *it*.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    }
+  ],
+  "ref": "ECC.11.1",
+  "review_notes": [
+    "`עַל־פְּנֵי` is fused per rule 30's explicit ruling rather than leaving `פָּנֶה` unrepresented.",
+    "The construct chain `בְרֹב הַיָּמִים` is recast attributively as 'after many days', so no *of* is written and the article goes unrepresented under rule 29."
+  ]
+}

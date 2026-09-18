@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "chapter": "REV.10",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.REV.10.1.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV explicitly has 'another strong angel,' requiring ἄλλον and excluding its omission."
+    },
+    {
+      "unit_id": "SBLGNT.REV.10.1.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'upon his head' can render either the accusative τὴν κεφαλὴν or genitive τῆς κεφαλῆς after ἐπί; retain the base fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.10.2.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'a little book' reflects diminutive βιβλαρίδιον rather than βιβλίον 'book'."
+    },
+    {
+      "unit_id": "SBLGNT.REV.10.6.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'sware by him that liveth' can render either the bare dative construction or the reading with inserted ἐν; retain the base fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.10.7.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'his servants' does not distinguish reflexive ἑαυτοῦ before δούλους from personal αὐτοῦ after it; retain the base fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.10.8.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV relative syntax 'the voice which I heard ... speaking with me' does not expose whether the participle is accusative λαλοῦσαν or nominative λαλοῦσα; retain the base fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.10.8.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV relative syntax does not expose whether 'saying' is accusative λέγουσαν or nominative λέγουσα; retain the base fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.10.8.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV calls this item 'the book,' distinguishing βιβλίον from diminutive βιβλιδάριον; compare its 'little book' in verses 2, 9, and 10."
+    },
+    {
+      "unit_id": "SBLGNT.REV.10.9.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'I went' does not distinguish the first-aorist form ἀπῆλθα from the second-aorist form ἀπῆλθον; retain the base fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.10.9.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Both diminutives βιβλαρίδιον and βιβλιδάριον are compatible with ASV 'the little book'; retain the base fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.10.10.v011",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'the little book' reflects diminutive βιβλαρίδιον rather than βιβλίον 'book'."
+    },
+    {
+      "unit_id": "SBLGNT.REV.10.11.v012",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's single 'over' may govern the entire coordinated list whether or not ἐπί is repeated before the final member; retain the base fallback."
+    }
+  ]
+}

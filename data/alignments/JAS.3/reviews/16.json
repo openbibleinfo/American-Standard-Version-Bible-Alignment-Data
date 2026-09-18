@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "c6622b06bd96f7533fb21006d4d0f27ea6b2928e893f592806dc36aabb619554",
+  "contract_version": "nt-greek-verse-v63",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed against the contract; returned unchanged. All 11 source and 13 target IDs partitioned exactly once.",
+    "The verse is two verbless clauses; both supplied copulas are placed on the locative adverbs ὅπου and ἐκεῖ as adverbial predicates under rule 53, kept consistent with each other under rule 24. The competing placement of *are* on ἐριθεία (rule 56) is named in the ὅπου unit's note.",
+    "The packet's gloss column is the visible evidence for that competing reading: it brackets the existential at s005 (`self-interest [exist]`) and at s006 (`there [will be]`), i.e. it follows English word order in placing *are* after *faction*. Rule 53 refuses to read a supplied copula off word order, and rule 63 blocks the same placement by a second route here, since both clauses have lexical-noun subjects and rule 53's noun-phrase exception is scoped to a subject pronoun. ἐκεῖ is an uncontested rule 53 adverbial predicate (compare ἐγγύς → *were nigh*), and ὅπου is its correlative, so the two clauses get one analysis.",
+    "Heads: *where* and *there* realize the adverbs' own lexemes and the supplied copulas ride along as rule 7 helpers, so neither head lands on a copula. Rule 15 licenses both discontinuities.",
+    "πᾶν φαῦλον πρᾶγμα splits three-to-three under rule 26. πρᾶγμα is expressed, so rule 58's supplied-determiner question does not arise and φαῦλον stays bare; πᾶν stands with no negator in the clause, so rule 87 is not in question.",
+    "No unrepresented, added or noncompositional units: every source token has an English realization and every English token answers to a source token."
+  ],
+  "ref": "JAS.3.16",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

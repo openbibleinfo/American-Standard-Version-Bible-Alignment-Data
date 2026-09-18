@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "chapter": "JHN.1",
+  "policy": "Select a reading only when ASV wording or an explicit ASV textual note distinguishes it; otherwise retain SBLGNT as the operational fallback.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.JHN.1.15.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV 'he of whom I said' represents ὃν εἶπον, not ὁ εἰπών."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.16.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV begins the verse with causal 'For', supporting ὅτι rather than Καί."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.18.v003",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": ["r01"],
+      "evidence": "ASV main text has 'the only begotten Son'; its note explicitly gives 'God only begotten' as the alternative."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.19.v004",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": ["r01"],
+      "evidence": "ASV 'sent unto him' directly represents the added πρὸς αὐτόν."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.20.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "English does not preserve the alternative Greek word orders."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.21.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "English question syntax does not distinguish the Greek word orders."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.24.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "ASV 'they had been sent' can render the substantival participle with or without οἱ."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.25.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01", "r02"],
+      "evidence": "ASV's repeated 'neither' is compatible with either οὐδέ or οὔτε."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.26.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "An added δέ could be left unrepresented in ASV."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.26.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "ASV 'standeth' does not securely distinguish the two Greek forms."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.27.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01", "r02"],
+      "evidence": "ASV must supply an English subject whether the Greek article is present, absent, or expanded."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.27.v012",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV lacks the substantial added clause ὃς ἔμπροσθέν μου γέγονεν at this point."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.27.v013",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01", "r02"],
+      "evidence": "English 'I am not' does not distinguish the Greek pronoun presence and word order."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.28.v014",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "The personal-name article is normally unrepresented in English."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.30.v015",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "ASV 'of whom' can represent either ὑπέρ or περί here."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.31.v016",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "ASV 'in water' does not determine whether the Greek article is present."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.32.v017",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "Both forms yield ASV 'as a dove'."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.34.v018",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": ["r01"],
+      "evidence": "ASV 'the Son of God' requires υἱός rather than ἐκλεκτός."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.35.v019",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "The personal-name article is normally unrepresented in English."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.37.v020",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "ASV does not preserve the alternative constituent orders."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.38.v021",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "Both Greek verbs are represented by ASV 'being interpreted'."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.39.v022",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "The base and r01 have the same lexical reading; ASV excludes r02 by 'ye shall see'."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.41.v023",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV adverbial 'findeth first' supports πρῶτον."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.42.v024",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "ASV may omit a connective καί in this discourse context."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.42.v025",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV names John rather than Jonah."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.45.v026",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "English 'the son' can supply its article independently of the Greek variant."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.46.v027",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "The personal-name article is normally unrepresented in English."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.47.v028",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "The personal-name article is normally unrepresented in English."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.49.v029",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV 'answered him' supports the base lexical reading rather than 'and says to him'."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.49.v030",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "English word order and article usage do not decide the Greek order."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.50.v031",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV 'Because I said' explicitly represents ὅτι."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.50.v032",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "Both forms can be rendered 'thou shalt see'."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.1.51.v033",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV lacks the added temporal phrase ἀπ᾽ ἄρτι."
+    }
+  ]
+}

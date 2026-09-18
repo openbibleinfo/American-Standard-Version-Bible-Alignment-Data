@@ -1,0 +1,12 @@
+{
+  "alignment_sha256": "99754eb7e21a72ca1d45c0ea13e66a0c95c3015e097b6e3e314a39e3c7938d8e",
+  "contract_version": "ot-hebrew-verse-v217",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Large-source-unit candidate reviewed: כָל־הַיָּמִים אֲשֶׁר → 'as long as'. No English word writes any of the four morphemes' lexemes (no 'all', 'the', 'days' or 'which'); a split giving אֲשֶׁר the second 'as' and the rest 'as long' is imaginable but not clearly preferable, so the noncompositional grouping is retained with first-token source head (rule 6).",
+    "Scoped LS15 correction independently confirmed; evidence: data/audits/retrospective-new-chapters-2026-09-12/receipts/1SA.20.31.json. Original full-review coverage is carried forward only for unchanged content. The scoped assessment and independent confirmation cover the changed candidate units and their notes; no new full-verse review is claimed. Original reviewer, date fields and contract provenance are preserved; original receipt: data/audits/retrospective-new-chapters-2026-09-12/before/1SA.20.31/review.json."
+  ],
+  "ref": "1SA.20.31",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

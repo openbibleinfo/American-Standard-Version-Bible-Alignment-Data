@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "chapter": "GEN.39",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.GEN.39.20.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV renders the lemma as ‘the king’s prisoners’ and provides no mapped textual note distinguishing the qere אֲסִירֵי from the ketiv אסורי; its English wording permits both readings, so the documented base fallback is retained."
+    }
+  ]
+}

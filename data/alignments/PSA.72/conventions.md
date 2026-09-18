@@ -1,0 +1,5 @@
+# Psalms 72 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **PSA.72.5** — The psalm twice recasts a prepositional phrase of duration as a temporal subordinate clause, and in both the whole recasting stays with the preposition. לִפְנֵי before a celestial body rendered 'so long as' (v5) or 'as long as' (v17) is one rule-30 unit on the לְ and the construct פָּנֶה, source head on פָּנֶה and target head on 'long' under rule 24; the ASV margin 'before the sun/moon' is read and set aside under rule 38. עִם־שָׁמֶשׁ → 'while the sun endureth' (v5) gives both 'while' and 'endureth' to עִם: the bare copula 'while the sun is' says what the Hebrew says, so 'endureth' is the continuance copula of rule 20's 'endureth for ever' reasoning and not a supplied lexical verb. The competing reading, 'endureth' as its own added unit, is named in the unit note.

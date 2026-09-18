@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "2fea6f1c848a421965f5ec3d8bd4d009dada979c235a912893c963eb99484ba5",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Checked partition (15 source / 20 target ids each exactly once), head membership, and every status; no unit needs changing.",
+    "The supplied existential *there be* on `πόρνος` reaches the right token, but the citation in that unit's note is imprecise: this clause has no predicate at all (`τις πόρνος` is the notional subject of an existential), so rule 56 rather than rules 53/63 is what licenses the placement — and rule 56 sends the supplied verb to the subject, whose head noun is `πόρνος`. Both routes land on t005, so the alignment stands; a later reader auditing the rule reference should read it as rule 56.",
+    "`μή` + `τις` correctly stay two units: the ASV renders the indefinite non-negatively as *any*, which is rule 69's case, not rule 59's single-negative-word join.",
+    "`βρώσεως` heading on *meat* rather than the formal English noun *mess* follows rules 91 and 17; *mess* is the supplied portion word and the corpus glosses `βρῶσις` as food/meat. The note names the competing reading, which satisfies rule 16.",
+    "s013 `τὰ` is `unrepresented` under rule 20 with `ἑαυτοῦ` carrying *his own*; rule 76's availability test is satisfied, the reflexive being spent on nothing else, and the selected variant r00-base covers s015."
+  ],
+  "ref": "HEB.12.16",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "937c60c820adc3a2d25b061d5d3b97d7cbe89e925604ea7772841486fe0868dc",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition checked: all 19 source ids and all 27 target ids appear exactly once; every aligned unit has nonempty arrays with both heads inside them, and the single unrepresented unit (s003) has a valid source head and null target head.",
+    "ἐπ᾽ ἐσχάτου τῶν ἡμερῶν τούτων confirmed as accepted: ἐσχάτου is substantival, so rule 58's substantival clause keeps the supplied 'the' with the adjective rather than with ἡμερῶν, τῶν is emptied by the attributive demonstrative under rule 38, and the genitive 'of' stays with the determinerless noun under rules 21 and 23, discontinuous around 'these' by rule 15. The competing frame reading ('at the end' whole on ἐπί) is already named in the unit's own review note; it is not preferable, since 'end' glosses ἔσχατος and is not a supplied frame noun, so rule 67 is not in question.",
+    "Heads spot-checked against rule 17: 'spoken', 'appointed', 'made' are the lexical verbs rather than 'hath', 'he'; 'all' rather than the generic 'things' for substantival πάντων; 'Son' rather than the supplied 'his'; 'us' rather than the case preposition 'unto'.",
+    "s009 υἱῷ is anarthrous, so no article competes for the determiner slot and the supplied possessive is a rule 7 helper on the noun under rule 51's anarthrous clause, with rule 11 keeping the italics from forcing 'added'. Rule 20 does not apply: no genitive pronoun or other source word is present to take 'his'.",
+    "s016 καί → 'also' is correctly aligned on the English-side test of rules 65 and 70 rather than left unrepresented, and s018 τούς takes a plain 'the' under rule 19 with αἰῶνας bare.",
+    "SBLGNT.HEB.1.2.v001 is underdetermined with no FALLBACK EXCLUDED mark and its base reading covers s017–s019, all of which have English; rule 97 is not engaged and rule 12 forbids revisiting the reading here."
+  ],
+  "ref": "HEB.1.2",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

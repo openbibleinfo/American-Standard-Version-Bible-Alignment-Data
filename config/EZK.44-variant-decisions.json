@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "chapter": "EZK.44",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.EZK.44.5.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders a plural, 'and all the laws thereof', which answers the qere plural תּוֹרֹתָיו; the ketiv תורתו is the singular 'his law' and would have given 'the law thereof'. The verse's two notes are both hebrew_gloss on 'mark well' and bear on nothing here."
+    },
+    {
+      "unit_id": "WLC.EZK.44.24.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'in a controversy they shall stand to judge' does not distinguish the readings: the qere noun לְמִשְׁפָּט ('for judgment') is idiomatically rendered by an English infinitive 'to judge' just as the ketiv infinitive לשפט would be. No ASV note is mapped to this unit, so the base qere fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.EZK.44.24.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'according to mine ordinances shall they judge it' matches either form: the qere yiqtol יִשְׁפְּטוּהוּ and the ketiv weqatal ושפטהו differ only in the initial waw, and the clause follows a semicolon where ASV routinely leaves a connective unrendered. Nothing in the English or in any mapped note settles it, so the base qere fallback stands."
+    }
+  ]
+}

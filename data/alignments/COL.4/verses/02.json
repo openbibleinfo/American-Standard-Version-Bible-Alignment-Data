@@ -1,0 +1,93 @@
+{
+  "alignments": [
+    {
+      "note": "The ASV gives 'prayer' no determiner, so the article has no English 'the' to anchor and the dative's case preposition stays with the noun (rules 21 and 23).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Determinerless dative: 'in prayer' is one unit headed on the noun (rule 21).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "προσκαρτερέω rendered by the two-word verb expression 'Continue stedfastly'; the verb word glosses the lexeme and takes the head (rule 17).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Participle.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Preposition fused with its governed pronoun into a single 'there-' word: 'there-' answers to αὐτῇ and '-in' to ἐν, so this is one aligned unit headed on the pronominal (rule 81).",
+      "source": [
+        "s005",
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    }
+  ],
+  "ref": "COL.4.2",
+  "review_notes": [
+    "ἐν αὐτῇ → 'therein' is read under rule 81 as aligned rather than noncompositional, both elements being spelt in the single word."
+  ]
+}

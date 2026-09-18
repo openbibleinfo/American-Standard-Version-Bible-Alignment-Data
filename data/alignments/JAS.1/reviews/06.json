@@ -1,0 +1,17 @@
+{
+  "alignment_sha256": "7fcc78a28a5b3fd0ec06f420055309730d7d86f4461601cd95236fa08062d111",
+  "contract_version": "nt-greek-verse-v61",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed the accepted alignment and kept every unit's source/target membership and every head unchanged. The only edit is to the s009 note, which cited rule 31 where rule 32 governs: the article governs no expressed head noun, so it is rule 32's split that puts the relativizer on the participle.",
+    "All 15 source and all 25 target ids partitioned exactly once. No unrepresented, added or noncompositional units in this verse.",
+    "s013 is the one materially contested head: *driven* (lexical predicate, rule 17, and rule 91's pattern for a Greek verb rendered by an English verb phrase) taken over *wind* (the root's gloss). Named in the unit note.",
+    "s007/s009 follow rule 32 rather than rule 90, since the ASV writes two English words (*he* and *that*) for the article-plus-participle pair; rule 90 is scoped to the pair receiving only one.",
+    "s011 and s012 are both anarthrous, so neither supplied *the* is an article's to take: rule 51's anarthrous clause makes each a rule 7 helper on its own noun, and with no article to anchor it the *of* of s012 stays with the noun under rule 21, the shape rule 96 records at 2CO.5.13.",
+    "s005's *nothing* is not a rule 41/59 case: no separate negator stands in the clause, so nothing is emptied and the indefinite simply carries the negation as a one-token unit.",
+    "s013's *by the wind* is supplied for the compound verb with no Greek preposition expressed, so rule 36 does not detach *by* and rule 86 does not apply, the participle being the token that licenses the phrase."
+  ],
+  "ref": "JAS.1.6",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

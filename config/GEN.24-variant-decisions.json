@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "chapter": "GEN.24",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.GEN.24.33.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV reads 'And there was set food before him to eat', a passive with no expressed agent, which matches the qere hophal wa-yusam. But the ketiv is written without vowels and its consonants carry no voice distinction: the same letters can be pointed as a passive, so the English passive does not exclude it. No ASV note is mapped to this verse, and nothing else in GEN.24.33 turns on the choice. Both readings remain compatible; the qere base fallback carries the projection."
+    }
+  ]
+}

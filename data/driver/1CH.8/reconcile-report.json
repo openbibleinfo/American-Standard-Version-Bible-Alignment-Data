@@ -1,0 +1,28 @@
+{
+  "chapter": "1CH.8",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Two-token proper names that MACULA segments and the ASV also writes in two tokens — מַלְכִּי שׁוּעַ → Malchi shua (8.33), מְרִיב בַּעַל → Merib baal (8.34) — are matched surface to surface, one unit per token, rather than fused as one two-token unit; where the name is a verbless-clause predicate the construction's copula joins the first element (was Merib). 1CH.9.39-40 repeats both names and should follow this.",
+    "וְ + noun + suffix recast by the ASV as a relative clause (whose wife's name was Maacah 8.29, whose names are these 8.38): the suffix takes whose (rule 18), the waw is unrepresented because no connective is written for it, and the copula joins the Hebrew predicate (was Maacah on the name; names are on שְׁמוֹת) whatever order the ASV writes. 1CH.9.35 repeats the first clause."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 26 candidate groups against the verses. None is a split: every two-way bucket is the ASV writing or omitting a copula, a subject pronoun or a connective, and the source licenses each difference.",
+    "וְ before a noun/demonstrative: 8.29 and 8.38 leave the waw unrepresented because the ASV recasts וְשֵׁם אִשְׁתּוֹ / וְאֵלֶּה שְׁמוֹתָם as a relative clause whose only connective, whose, realizes the suffix (rule 18); 8.6, 8.30 and 8.34 have a written And/and. Consistent.",
+    "לְ: 8.3 unrepresented beside a written הָיָה that takes had, 8.38 takes had in a verbless clause — exactly rule 43's two cases.",
+    "Copula placement is uniform: it joins the Hebrew predicate in every verbless clause (are the sons 8.6, names are 8.38, was Merib 8.34, was son 8.37, was Maacah 8.29), whichever order the ASV writes; names without a written copula take only the name.",
+    "Two-token names מַלְכִּי שׁוּעַ (8.33) and מְרִיב בַּעַל (8.34) are matched token to token against Malchi shua / Merib baal, the first element taking the copula where one is written; recorded as a convention since 1CH.9 repeats the same names.",
+    "BSB disagreements (8.3 לְ, 8.6 הֵם, 8.13 הָ, 8.30 הַ, 8.29 and 8.38 וְ) are all documented convention differences (rules 43, 20, 29, 41/47, 18); none is an error.",
+    "Jeiel in 8.29 is added: italic in the ASV, supplied from 9:35, no token in WLC and no variant unit recorded (rules 7, 53). children in 8.8 is a supplied object noun (rule 44). Both stand.",
+    "Nothing here generalises beyond the contract; no promotions or amendments."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "alignment_sha256": "11a4d12e8991629c4899a3ba8109afb96ceadea839d5784b0a2505b147a41a22",
+  "contract_version": "nt-greek-verse-v61",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed against the contract and returned unchanged in membership, status and heads; three notes were expanded to name the precedents a later reader would want (rules 40 and 74 at s001/s010, rule 73 at s005, rule 94 at s018).",
+    "All 19 source ids and all 20 target ids are partitioned exactly once; the two `unrepresented` units have empty targets and null target heads, and every `aligned` head is a member of its own array.",
+    "Both selected variants are r00-base and compatible, and neither carries a FALLBACK EXCLUDED BY EVIDENCE mark, so rule 97 is not in question and no unit is `added`.",
+    "The two articular infinitives (s010-s012, s014-s016) are analysed identically under rule 24; each preposition takes the infinitival *to* and each article is `unrepresented` under rule 61. This is the one materially contestable choice in the verse and s010's note names the competing reading, which would give *to* to the infinitive and leave `εἰς` empty.",
+    "s018 `εἰς` governs a plain noun rather than an articular infinitive, so its *to* is an ordinary preposition alignment; the parallel with s010/s014 is only superficial and the identical English word arrives by a different route.",
+    "Heads follow rule 9 on the lexical verbs *know* and *be* rather than on the subject pronoun *Ye* or the auxiliary *let*.",
+    "The supplied *this* at t003 is kept with `Ἴστε` under rules 7 and 11 rather than marked `added`; rule 74's contrast puts a supplied object with the verb that requires it.",
+    "The vocative phrase `ἀδελφοί μου ἀγαπητοί` is anarthrous, so rule 89 does not arise: no article competes for a supplied address word, and none is supplied. The three tokens split under rule 26 despite the ASV's reordering, which rule 15 permits."
+  ],
+  "ref": "JAS.1.19",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

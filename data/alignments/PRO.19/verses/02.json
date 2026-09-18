@@ -1,0 +1,167 @@
+{
+  "alignments": [
+    {
+      "note": "Particle to *Also*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Supplied subordinator for a clause with no conjunction morpheme in it, `added` under rule 55; counting the clause's conjunctions against the ASV's subordinators leaves this one unlicensed.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Noun with the determiner the ASV supplies under rule 15. The copula *be* is not this unit's: rule 20 sends the construction-supplied copula to the predicate, and a predicate morpheme is present in `בְּלֹא־דַעַת`, so the explicit subject takes only its own English.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Preposition plus negative rendered by the single word *without*; rule 30's one-rendering condition is met and the unit heads on the negation, as rule 48 heads `מֵאֵין`. The clause's supplied *be* is the copula of this prepositional predicate and joins the unit under rules 20 and 49, which rule 30 says does not defeat the condition (`לִפְנֵי` → *was before*). The competing reading puts *be* on the subject `נֶפֶשׁ`; rule 20's sentence that an explicit subject takes only its own English where a predicate morpheme stands is why I did not take it.",
+      "source": [
+        "s002",
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Noun to *knowledge*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Negative to *not*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Predicate adjective of the main clause with its construction-supplied copula, discontinuous around the negative under rule 25.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Waw to *And* under rule 14.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Anarthrous participle with rule 46's supplied *he that*; head on the word carrying the lexeme under rule 31.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Preposition to *with*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Supplied possessive with no suffix or other possessive morpheme in the phrase, `added` under rule 18's closing sentence.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Noun to *feet*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Participial predicate to *sinneth*; the margin's *misseth his way* was read and set aside under rule 38.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    }
+  ],
+  "ref": "PRO.19.2",
+  "review_notes": [
+    "Corrected: the accepted alignment gave the subordinate clause's copula *be* to the subject `נֶפֶשׁ`, but rule 20 sends a construction-supplied copula to the predicate wherever a predicate morpheme stands, and rule 49 puts it on the preposition heading a prepositional predicate. *be* now joins the `בְּ`+`לֹא` unit rendered *without*.",
+    "Both marginal notes were read and set aside; the printed text governs under rule 38."
+  ]
+}

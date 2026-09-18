@@ -1,0 +1,121 @@
+{
+  "alignments": [
+    {
+      "note": "Construct noun with a supplied *the*; the rectum is a proper name carrying no article morpheme (rule 29).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The chain's relational *of* belongs to the *nomen rectum* (rule 19), headed on the name.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Explicit subject pronoun rendered *it* (rule 20).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Hiphil rendered as light verb plus complement; the head goes to the complement carrying the lexeme (rule 44).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Waw rendered *And* (rule 14).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The ASV recasts the clause's negation onto the object nominal, so the negative takes the determiner that negation has become (rule 15); discontinuous from the verb it negates under rule 25.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Finite verb with its subject pronoun, headed on the lexical verb (rules 17, 24).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Noun rendered *sorrow*; the margin's *toil addeth nothing thereto* was read and set aside under rule 38.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Preposition and its own suffix fused into the pronominal adverb *therewith*, one unit headed on the preposition (rules 22, 30).",
+      "source": [
+        "s009",
+        "s010"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "PRO.10.22",
+  "review_notes": [
+    "The supplied *no* is given to `לֹא` rather than left to the noun, since the ASV has recast the clause's negation onto the object (rule 15)."
+  ]
+}

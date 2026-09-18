@@ -1,0 +1,10 @@
+# Nehemiah 3 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- עַל־יָד + suffix → 'next unto him/them', 'next to him/them': עַל and the construct יָד are one fused unit under rule 30, source head יָד, target head next; the suffix takes the pronoun as written, including the ASV's them for a singular suffix (margin 'Hebrew him' read and set aside). Fifteen occurrences, all alike.
+- The נֶגֶד family: bare נֶגֶד → 'over against', headed on against. מִנֶּגֶד and לְנֶגֶד are fused with their preposition as one 'over against' unit, source head on the governing preposition standing first (rule 23's two-preposition compound), with the competing reading (preposition unrepresented) named in the note. עַד־נֶגֶד → 'unto the place over against' gives unto to עַד, over against to נֶגֶד, and leaves 'the place' as one added unit (3.16, 3.26).
+- מִקְצוֹעַ → 'turning of the wall': the italic 'of the wall' is the ASV's completion of the substantive and joins the noun's unit headed on turning (rule 31). Where the noun stands bare in the Hebrew the supplied 'at' joins it too (rule 33, 3.19).
+- מִדָּה שֵׁנִית → 'another portion': שֵׁנִית takes another and מִדָּה portion, each its own unit; seven occurrences.
+- בֶּן before an arthrous plural class noun recast as 'one of the goldsmiths/perfumers': בֶּן takes one, the article its the, and the rectum 'of X' (3.8, 3.31).
+- A construct noun with an article-bearing attributive rendered prenominally under a single the — בֶּן־צָלָף הַשִּׁשִּׁי → 'the sixth son of Zalaph', בֵּית הַמֶּלֶךְ הָעֶלְיוֹן → 'the upper house of the king' — gives that the to the attributive's present article and leaves the construct bare (rule 47); 3.25 was corrected at reconciliation to match 3.30. The repair formula קֵרוּהוּ → 'laid the beams' is light verb plus complement headed on beams (rule 44), and every 'thereof' is the suffix's own.

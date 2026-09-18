@@ -1,0 +1,311 @@
+{
+  "alignments": [
+    {
+      "note": "The ASV writes two English words, so the negator and the quantifier split (rule 87).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Quantifier → every; a second English word stands for the article, so rule 80's compression does not apply.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Substantival article supplies the pronoun one (rules 22, 80).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Participle keeps the relativizer and its own verb (rule 32).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Dative pronoun with its case preposition (rule 21).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Vocative → Lord.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Second vocative → Lord.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Future with its auxiliary; the preverb εἰσ- has no separate particle, the following εἰς taking into (rule 106).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Preposition εἰς → into.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Article → the.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Noun stands alone.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "No English determiner for heaven, so the case preposition stays with the noun (rules 21, 23).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive noun with its case preposition, headed on the noun (rule 17).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "ἀλλά → but.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Substantival article supplies the pronoun he (rule 32).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Participle keeps the relativizer and its own verb (rule 32).",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Article → the.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Noun stands alone.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Determiner displaced by the possessive my from μου (rule 20).",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive noun with its case preposition, no determiner standing on the article (rules 21, 23).",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t023",
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "note": "Genitive pronoun → my.",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Second attributive article before a verbless prepositional modifier keeps the supplied relativizer (rule 31); the modifier has no verb to carry it. Its head noun πατρός stands expressed in front of it, and the determiner slot there is already occupied by the possessive my from μου, so no determiner is owed here. The identical ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς at MAT.7.11 is aligned the same way.",
+      "source": [
+        "s022"
+      ],
+      "source_head": "s022",
+      "status": "aligned",
+      "target": [
+        "t026"
+      ],
+      "target_head": "t026"
+    },
+    {
+      "note": "Prepositional predicate carries the supplied copula (rules 31, 53).",
+      "source": [
+        "s023"
+      ],
+      "source_head": "s023",
+      "status": "aligned",
+      "target": [
+        "t027",
+        "t028"
+      ],
+      "target_head": "t028"
+    },
+    {
+      "note": "No English determiner for heaven (rule 23).",
+      "source": [
+        "s024"
+      ],
+      "source_head": "s024",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun stands alone.",
+      "source": [
+        "s025"
+      ],
+      "source_head": "s025",
+      "status": "aligned",
+      "target": [
+        "t029"
+      ],
+      "target_head": "t029"
+    }
+  ],
+  "ref": "MAT.7.21",
+  "review_notes": [
+    "Note-only patch: every source and target id is partitioned exactly as the verse pass returned it, and no status, edge or head is altered. Only the note on s022 differs.",
+    "s022 is the second attributive article of τοῦ πατρός μου τοῦ ἐν τοῖς οὐρανοῖς, not a substantival article: πατρός is its expressed head noun and stands in front of it. Rule 31's verbless-modifier branch is what gives it the relativizer, and rule 31's follows-its-noun clause is what leaves it no determiner.",
+    "SBLGNT.MAT.7.21.v015 is underdetermined over s024, which is unrepresented on either reading."
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "ref": "EPH.3.4",
+  "alignments": [
+    {
+      "source": ["s001", "s002"],
+      "source_head": "s002",
+      "target": ["t001"],
+      "target_head": "t001",
+      "status": "aligned",
+      "confidence": "medium",
+      "note": "One English token whereby fuses preposition and relative, so the pair cannot be split; headed on the relative because the preposition only realizes its case (rule 17)."
+    },
+    {
+      "source": ["s004"],
+      "source_head": "s004",
+      "target": ["t002", "t003", "t004"],
+      "target_head": "t004",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Anarthrous circumstantial participle rendered as a temporal clause; when and the subject ye are helpers on the participle (rules 7, 9)."
+    },
+    {
+      "source": ["s003"],
+      "source_head": "s003",
+      "target": ["t005", "t006"],
+      "target_head": "t006",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s005"],
+      "source_head": "s005",
+      "target": ["t007"],
+      "target_head": "t007",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s006"],
+      "source_head": "s006",
+      "target": [],
+      "target_head": null,
+      "status": "unrepresented",
+      "confidence": "high",
+      "note": "Article displaced by the possessive my (rule 20)."
+    },
+    {
+      "source": ["s007"],
+      "source_head": "s007",
+      "target": ["t009"],
+      "target_head": "t009",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s008"],
+      "source_head": "s008",
+      "target": ["t008"],
+      "target_head": "t008",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s009"],
+      "source_head": "s009",
+      "target": ["t010"],
+      "target_head": "t010",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s010"],
+      "source_head": "s010",
+      "target": ["t011"],
+      "target_head": "t011",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s011"],
+      "source_head": "s011",
+      "target": ["t012"],
+      "target_head": "t012",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s012"],
+      "source_head": "s012",
+      "target": [],
+      "target_head": null,
+      "status": "unrepresented",
+      "confidence": "high",
+      "note": "Article before a name has no English realization (rule 23)."
+    },
+    {
+      "source": ["s013"],
+      "source_head": "s013",
+      "target": ["t013", "t014"],
+      "target_head": "t014",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Genitive noun rendered as of + noun; headed on the noun (rule 17)."
+    }
+  ],
+  "review_notes": []
+}

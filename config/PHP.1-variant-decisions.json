@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "chapter": "PHP.1",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.PHP.1.1.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'servants of Christ Jesus' and again 'in Christ Jesus'; the English order renders Χριστοῦ Ἰησοῦ, not the transposed Ἰησοῦ Χριστοῦ of r01."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.1.5.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The unit turns on the presence of the article τῆς. ASV's 'for your fellowship in furtherance of the gospel' renders the phrase identically whether or not the article stands; no note is mapped here (the greek_gloss only glosses 'gospel')."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.1.6.v003",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'until the day of Jesus Christ'; the English order renders Ἰησοῦ Χριστοῦ (r01) rather than the base Χριστοῦ Ἰησοῦ."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.1.8.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The unit adds the copula ἐστιν after μου. English requires a verb in 'For God is my witness' whether or not the Greek supplies one, and the ASV does not mark 'is' as supplied; no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.1.8.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'in the tender mercies of Christ Jesus'; the English order renders Χριστοῦ Ἰησοῦ rather than the transposed Ἰησοῦ Χριστοῦ of r01."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.1.11.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's text reads 'the fruits of righteousness', but its mapped greek_gloss 'Greek fruit.' states the underlying noun is singular — καρπὸν δικαιοσύνης τὸν, not the plural καρπῶν … τῶν of r01."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.1.14.v007",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'to speak the word of God without fear'; 'of God' renders the added τοῦ θεοῦ of r01, which the bare λόγον of the base has nothing to answer."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.1.16.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 1:16 reads 'the one do it of love, knowing that I am set for the defence of the gospel', which is the ἀγάπης … κεῖμαι clause and excludes the transposed RP clause of r02. Between r00-base and r01 the English cannot choose: they are the same clause, r01 being the elided form of it."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.1.17.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 1:17 reads 'but the other proclaim Christ of faction, not sincerely, thinking to raise up affliction for me in my bonds', which is the ἐριθείας clause and excludes the RP transposition of r02. r00-base and r01 are the same clause, r01 elided, and the English does not distinguish them."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.1.18.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'What then? only that in every way … Christ is proclaimed'; 'only that' renders πλὴν ὅτι, and the omission of r01 would leave 'that' with nothing behind it."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.1.23.v011",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'for it is very far better', and the causal 'for' renders the γὰρ the base retains; r01 omits it and the ASV supplies no other conjunction there, nor marks 'for' as supplied."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.1.24.v012",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The unit turns on the preposition ἐν before the dative τῇ σαρκί. ASV's 'to abide in the flesh' reads the same for the bare dative as for ἐν with the dative; no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.1.25.v013",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV reads 'I shall abide, yea, and abide with you all'. The 'with you all' answers the dative πᾶσιν ὑμῖν, which stands under either verb, so the English does not distinguish παραμενῶ from the compound συμπαραμενῶ; the only note here is an alternative_rendering on 'of faith'."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.1.27.v014",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The unit is present subjunctive ἀκούω against aorist/future ἀκούσω. ASV's 'that … I may hear of your state' renders either; English marks no aspectual difference here, and the mapped notes are glosses on 'manner of life', 'gospel' and 'with'."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.1.28.v015",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The unit is word order plus μέν: ἐστὶν αὐτοῖς against αὐτοῖς μέν ἐστιν. ASV's 'which is for them an evident token of perdition, but of your salvation' follows English order regardless, and leaves μέν untranslated as ASV usually does, so nothing distinguishes the readings."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.1.28.v016",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'but of your salvation' — a genitive qualifying 'salvation', rendering ὑμῶν; the dative ὑμῖν of r01 would give 'but to you salvation'."
+    }
+  ]
+}

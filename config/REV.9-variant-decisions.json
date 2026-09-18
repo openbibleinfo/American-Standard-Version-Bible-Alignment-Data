@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "chapter": "REV.9",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.REV.9.2.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV's explicit 'great furnace' supports μεγάλης rather than καιομένης ('burning')."
+    },
+    {
+      "unit_id": "SBLGNT.REV.9.2.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "Both passive verbs are naturally rendered by ASV's 'were darkened'; the base reading is retained as fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.9.4.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "ASV 'should not hurt' does not distinguish future ἀδικήσουσιν from subjunctive ἀδικήσωσιν; the base reading is retained as fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.9.4.v004",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": ["r01"],
+      "evidence": "ASV's explicit possessive 'their foreheads' supports the addition αὐτῶν."
+    },
+    {
+      "unit_id": "SBLGNT.REV.9.5.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "English 'them' does not distinguish masculine/neuter αὐτοῖς from feminine αὐταῖς; the base reading is retained as fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.9.5.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "ASV 'should be tormented' does not securely distinguish future βασανισθήσονται from subjunctive βασανισθῶσιν; the base reading is retained as fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.9.6.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV's present 'fleeth' directly supports present φεύγει rather than future φεύξεται."
+    },
+    {
+      "unit_id": "SBLGNT.REV.9.6.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "The two readings differ only in Greek word order, and ASV cannot distinguish them; the base order is retained as fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.9.7.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV 'crowns like unto gold' directly reflects ὅμοιοι χρυσῷ rather than adjectival χρυσοῖ ('golden')."
+    },
+    {
+      "unit_id": "SBLGNT.REV.9.10.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV's construction 'in their tails is their power' directly reflects nominative ἡ ἐξουσία αὐτῶν rather than 'they have power.'"
+    },
+    {
+      "unit_id": "SBLGNT.REV.9.11.v011",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV 'They have over them as king' directly reflects finite ἔχουσιν and the base word order rather than participial Ἔχουσαι."
+    },
+    {
+      "unit_id": "SBLGNT.REV.9.11.v012",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV continues with 'and in the Greek tongue,' directly supporting καὶ ἐν rather than ἐν δὲ."
+    },
+    {
+      "unit_id": "SBLGNT.REV.9.13.v013",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV has 'from the horns' without 'four,' supporting the base text without added τεσσάρων."
+    },
+    {
+      "unit_id": "SBLGNT.REV.9.14.v014",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "English 'saying' does not express the participle's grammatical gender, so it cannot distinguish λέγοντα from λέγουσαν; the base reading is retained as fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.9.15.v015",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "ASV's single 'for' can scope the coordinated time expressions with or without repeated εἰς τὴν; the base reading is retained as fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.9.16.v016",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV 'armies of the horsemen' supports collective ἱππικοῦ ('cavalry') rather than singular ἵππου ('horse')."
+    },
+    {
+      "unit_id": "SBLGNT.REV.9.16.v017",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV's 'twice ten thousand times ten thousand' directly reflects compound δισμυριάδες rather than δύο μυριάδες or simple μυριάδες."
+    },
+    {
+      "unit_id": "SBLGNT.REV.9.18.v018",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "ASV instrumental 'by' can render either ἐκ or ἀπό in context; the base reading is retained as fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.9.19.v019",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": ["r00-base"],
+      "evidence": "ASV 'like unto serpents' directly reflects dative ὄφεσιν after ὅμοιαι rather than genitive ὄφεων."
+    },
+    {
+      "unit_id": "SBLGNT.REV.9.20.v020",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01", "r02"],
+      "evidence": "Within the coordinated English negatives, ASV 'neither' does not securely distinguish οὐδέ, οὐ, and οὔτε; the base reading is retained as fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.9.20.v021",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "ASV 'should not worship' does not distinguish future προσκυνήσουσιν from subjunctive προσκυνήσωσιν; the base reading is retained as fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.9.20.v022",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "English modal 'can' does not mark number and cannot distinguish plural δύνανται from singular δύναται; the base reading is retained as fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.9.21.v023",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": ["r00-base", "r01"],
+      "evidence": "In this context both φαρμάκων and φαρμακειῶν can be represented by ASV 'sorceries'; the base reading is retained as fallback."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "chapter": "JER.1",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "In a numeral date phrase the supplied English 'the' joins the numeral's unit, not the counted noun: JER.1.2 gives 'the thirteenth' to shelosh-'esreh and only 'year' to shanah, and JER.1.3 gives 'the eleventh' to 'ashte-'esreh and only 'year' to shanah. This is rule 29's counting test — the written 'the' stands before the ordinal — applied to a phrase rule 22 otherwise governs. In JER.1.3 the 'of' of 'unto the end of the eleventh year' likewise joins the numeral rather than shanah, because MACULA tags 'ashte as construct (Aobpc) and it is therefore the nomen rectum of tom that rule 19 puts the 'of' on.",
+    "The oracle formula ne'um-YHWH is two units throughout this chapter (JER.1.8, 1.15, 1.19): ne'um takes 'saith' and the divine name takes 'Jehovah'. The phrase is divisible, so rule 2 prefers the split and rule 6 withholds noncompositional, notwithstanding the handful of noncompositional 'saith jehovah' units the corpus carries at HOS.2.13 and HOS.2.16."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v51",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "All 36 candidate lemma groups were read. Every multi-treatment bucket is licensed either by the source morphemes present or by what the ASV writes, so no verse is patched.",
+    "hayah: JER.1.3 takes the presentative dummy ('It came') because its clause writes no subject, while JER.1.2, 1.4, 1.11 and 1.13 take bare 'came' beside the explicit subject devar-YHWH. Rule 17's explicit-subject clause accounts for the difference; it is not a split.",
+    "kol asher fuses to 'whomsoever'/'whatsoever' in JER.1.7 and splits into 'all' + 'that' in JER.1.17, because rule 30's one-English-rendering condition is met in the first and not the second. 'et (H853) is unrepresented in 1.7, 1.9 and 1.17 where the object is written bare, and aligned to 'against' in 1.16 where the ASV spends a word on the object relation (rule 16, first family).",
+    "natan and tsavah each show two treatments only because JER.1.17 and 1.18 write an explicit anokhi/ani and JER.1.5 and 1.7 do not; the English 'I' follows the morpheme that is present. mippene/lifne fuse in all four occurrences (1.8 'because of', 1.13 'from', 1.17 'at', 1.17 'before') and differ only in the ASV's word.",
+    "The supplied copula is uniform across the chapter: JER.1.1, 1.8, 1.13 and 1.19 all put it on the preposition heading the predicate (rule 49), never on an object noun. The two article decisions agree as well: JER.1.10 leaves both articles of hayyom hazzeh unrepresented because zeh licenses the single written 'this', while JER.1.18's article takes 'this' with no demonstrative morpheme present (rule 41).",
+    "The candidate table is blind to added units, so I read the dump end to end for a supplied English word folded into a licensing morpheme in one verse and marked added in another. The chapter's only added unit is 'how' at JER.1.6, and no other verse supplies a subordinator, so no split hides behind the table.",
+    "BSB: none of the 19 disagreements is a genuine error. The Td x4 and R x10 are the documented convention difference (BSB attaches articles and prepositions to their phrases). The two Sd directive he's at 1.13 and 1.15 are rule 32's last sentence, another morpheme having taken the English of direction. The 'et at 1.17 is an object written bare. The suffix at 1.2 is relative-clause resumption under rule 22, the ASV writing only 'to whom'. The yod of adonay at 1.6 is unrendered because the ASV writes 'Lord', not 'my Lord'.",
+    "No promotion. The one thing this chapter had to settle that the contract does not name — where the supplied 'the' of a numeral date phrase goes — is already decided by rule 29's instruction to count the ASV's 'the's and read which word each stands before, so a rule would restate it. It is recorded as a convention instead."
+  ]
+}

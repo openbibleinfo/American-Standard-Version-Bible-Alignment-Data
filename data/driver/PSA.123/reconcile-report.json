@@ -1,0 +1,24 @@
+{
+  "chapter": "PSA.123",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "שָׂבַע with a bare accusative complement (בוּז, v3 and v4): the ASV's 'with' is the verb's valency preposition and joins the verb's unit headed on 'filled' (rules 33/44); the noun keeps only its own word. In v4 the second 'with' over the juxtaposed second complement is the same verb's distributed rendering under rule 25, and the ASV's 'And' between the two complements is added under rule 14 since no waw stands there."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all seven candidate lemmas across the four verses; none is a split. הוּא, הַ, עַיִן, יהוה and לְ differ only where the ASV writes different English (possessive vs object suffix, 'the' vs relative vs nothing, vocative 'O', ethical dative left bare), each licensed by the source.",
+    "שָׂבֵעַ is treated identically in v3 and v4: the bare accusative complement (בוּז) takes its own noun and the 'with' joins the verb under rule 33's direct-object/valency clause; v4's second 'with' over the juxtaposed second complement is the same unit distributed under rule 25, with the ASV's 'And' left added since no waw stands there. Corpus precedent ('be filled with', 'is satisfied with', 'he is filled with', all headed on the verb) agrees.",
+    "Read the dump for added units the table cannot see: v2's two italic 'look's are both added on rule 20's supplied-lexical-verb terms (parallel to 'My soul waiteth for the Lord'), the אֶל phrases keeping 'unto'; v4's 'And' is added under rule 14. No verse folds any of these into a neighbouring morpheme, so the chapter is consistent.",
+    "BSB disagreements (v4 לָּהּ, preposition and suffix) are the documented ethical-dative convention under rule 40, not errors.",
+    "No promotion: the chapter applies existing rules (20, 25, 33, 36/41, 40, 44) without meeting a case they had not considered."
+  ]
+}

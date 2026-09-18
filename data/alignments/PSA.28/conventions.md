@@ -1,0 +1,5 @@
+# Psalms 28 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Phrasal particles are kept with their verb throughout under rule 44: 'lift up' (28.2), 'Draw ... away' (28.3), 'break ... down' and 'build ... up' (28.5), 'bear ... up' (28.9), each discontinuous around its object under rule 25. 'build up' is read on the same footing as 'lift up' — the particle completes rather than adds to the lexeme — and not as a surplus completive; the added alternative is named in the 28.5 unit note. 'greatly rejoiceth' for עָלַז (28.7) is read the same way, the adverb completing 'exult'. In 28.1 'become like' is the Niphal מָשַׁל's own rendering (headed on 'like') and עִם is unrepresented; PSA.143.7 in the corpus gives 'like' to עִם for the identical phrase, so a later reader should know the chapter chose the verb.

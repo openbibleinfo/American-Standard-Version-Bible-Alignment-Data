@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "095cf2e600c7964a591325ae97477c65cfc9bb1fc2ee98d8d5cb240023a10f1f",
+  "contract_version": "nt-greek-verse-v120",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: all 32 source ids and all 37 target ids are covered exactly once; every head is a member of its array and the two unrepresented units (s021, s025) have empty targets and null target heads. (The accepted review note that said 'three notes were expanded' then listed five was miscounted; nothing in the alignment turns on it.)",
+    "The three supplied *by*'s are placed uniformly by rule 21: with the article where one bears a determiner (s009, s012, headed on *the*) and with the noun where the phrase is anarthrous (s017, discontinuous under rule 15 with *any* and *other* left as their own units). The materially different reading is rule 106's accusative arm, on which an English preposition standing over an accusative object is the verb's phrasal government (ὀμνύω + accusative = *swear by*), which would fold the first *by* into s007 and leave the second and third as rule 103 repetitions on the members they introduce. The uniform reading is kept because rule 103's own worked case — εἰς Μωϋσῆν καὶ τὸν θεόν → *against Moses and against God* — puts a repeated preposition on the member's article where a determiner is written and on the bare noun where none is, which is exactly what s009, s012 and s017 do; a later reader revisiting this should start at s009.",
+    "Both supplied *your*'s fold onto the single fronted ὑμῶν as one discontinuous realization under rule 15, leaving s021 and s025 `unrepresented` under rule 20. Checked against rule 76: its availability test empties an article's competitor only where the pronoun has been spent on an English word of some other syntactic role, and here ὑμῶν is spent on possessives alone. The competing readings — t029 to s025 under rule 20's second arm, or `added` under rule 103 — are named in the unit notes, and this matches the analysis JAS.5.3 takes for the same construction.",
+    "ἵνα μή is split rather than joined: rule 39's noncompositional cluster requires a single English word, and the ASV writes *that … not*, so each particle keeps its own word.",
+    "Heads reviewed independently of edges per rule 28: ἤτω heads on *be* rather than the imperative auxiliary *let* (rules 17 and 73), πέσητε on *fall* rather than the supplied *ye* (rule 9), and πάντων on *all* rather than the generic *things* (rule 17, the phrase being anarthrous). The marginal rendering cited in the verse note is not the ASV text and was not followed."
+  ],
+  "ref": "JAS.5.12",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "938d2ff8fad494651cb05a06b003308c0a8a1c9a41875e95cd91e5d6610d50e6",
+  "contract_version": "nt-greek-verse-v78",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "Corrected: the last five units carried an off-by-one in their source IDs. ἐν was assigned 'they have repented', σάκκῳ 'in', καί 'sackcloth', σποδῷ 'and', and μετενόησαν 'ashes', while each unit's note described the token one position earlier. Realigned so that ἐν → 'in', σάκκῳ → 'sackcloth', καί → 'and', σποδῷ → 'ashes', and μετενόησαν → 'they have repented' headed on 'repented'.",
+    "ἄν takes 'would' under rule 50 and the aorist keeps 'have repented'.",
+    "The second αἱ is unrepresented under rule 31, an expressed head noun standing before it and a participle carrying the relativizer."
+  ],
+  "ref": "MAT.11.21",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

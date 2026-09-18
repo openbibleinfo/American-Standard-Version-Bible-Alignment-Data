@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "09c05d9fc367700e75e035764b1c60b3681e5e14601c3a298b4277db9f04439c",
+  "contract_version": "ot-hebrew-verse-v76",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: 34 source and 50 target IDs each covered once.",
+    "הָאֶחָד and its article are both `unrepresented`: the ASV writes only *a span*, and rule 15 assigns an English indefinite article to the noun that licenses it. The competing reading — the numeral taking the *a* as a present morpheme under rules 46/47's precedence — is named in that unit's note.",
+    "The waw before חֵיק is `unrepresented` under rule 14, the ASV writing no connective at that clause boundary.",
+    "The article at s015 and the assimilated article at s007 are real tokens with no *the* to take (*a cubit*, *by cubits*), correctly marked under rules 12 and 29.",
+    "Gapping is handled per rule 34: *and the breadth a cubit* writes no copula, so none is placed."
+  ],
+  "ref": "EZK.43.13",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

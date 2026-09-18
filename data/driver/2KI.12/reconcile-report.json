@@ -1,0 +1,25 @@
+{
+  "chapter": "2KI.12",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Bare בֵּית יְהוָה after a verb of bringing, coming or finding takes the ASV's supplied preposition into its own unit under rule 33 — *into the house* (12.4, 9, 13, 16), *in the house* (12.10), *for the house* (12.13), *at the house of Millo* (12.20) — with the supplied *the* joining it under rule 29. The one exception is 12.11, where the ASV recasts the Hophal participle הַמֻּפְקָדִים as *had the oversight of*: that *of* is the predicate's own valency and goes to פָּקַד under rule 44, leaving בֵּית the bare *the house*. Read which of the two the English verb is before placing the word.",
+    "The italic *more* of *take no more money* (12.7, 12.8) is `added` in both verses: the negative (אַל in 12.7, בִלְתִּי in 12.8) takes the *no* the ASV recasts onto the object under rule 15, and neither it nor כֶּסֶף licenses the *more*."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 21 verses end to end against the 37-lemma candidate table. Every multi-treatment bucket is the ASV rendering one word differently (article written or not, waw as and/but/then/that/or/now/for/therefore/moreover, לְ as to/for/of or silenced where the ASV writes no second preposition); none is one construction analysed two ways.",
+    "Checked the constructions that recur across verses: וַיְהִי frame *that* (12.6 inside the frame → verb; 12.10 at the apodosis head → waw, rule 45); attributive article rendered by relative (12.9, 10, 11, 13, 18, 20) versus agreement article left unrepresented before a prenominal adjective (12.10 *the high priest*, rule 47); possessive recasting giving the *the* to the rectum's article (12.10, 12.18 *the king's*); supplied *into/in/for/at* before bare בֵּית יְהוָה on the noun under rule 33 (12.4, 9, 10, 13, 16, 20) with 12.11's *had the oversight of* as the one predicate-valency case (rule 44); מֵאֵת and מֵעַל fused headed on the first (12.5, 7, 8, 18); the two *no more money* clauses (12.7 אַל → *no*, 12.8 בִלְתִּי → *no*, italic *more* added in both). All consistent.",
+    "The eight added units (12.4 asyndetic *and*, 12.5/12.12/12.18 supplied object *it*, 12.7 italic *other* and *more*, 12.8 italic *more*, 12.20 italic *on the way*) are each licensed by no morpheme and no verse folds the same word into a neighbour.",
+    "BSB disagreements (11) are all documented convention: object markers (rule 16), articles the ASV writes no *the* for (12.7, 12.10), לְ silenced where the ASV writes no second preposition (12.5, 8, 12), the suffix of עֶרְכּוֹ the ASV's relative recasting does not render (12.4), and the trailing absolute שָׁנָה of a construct-headed regnal date (12.6, rule 22). None is an error.",
+    "Two textual notes stand as recorded: 12.21 *Jozacar* against WLC יוֹזָבָד with no variant unit (rule 53 unmarked case), and the underdetermined variants in 12.9 and 12.11 aligned as projected. No patches, no promotions."
+  ]
+}

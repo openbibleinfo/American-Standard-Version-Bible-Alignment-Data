@@ -1,0 +1,26 @@
+{
+  "chapter": "EZK.24",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Demonstrative date phrases (בְּעֶצֶם הַיּוֹם הַזֶּה at 24.2 twice, בַּיּוֹם הַהוּא at 24.26 and 24.27): the ASV writes one determiner for the phrase and it is the written demonstrative pronoun's — זֶה takes *this*, הוּא takes *that* — while both articles, the one on יוֹם and the agreement article on the demonstrative, are unrepresented (rule 41's limit, rule 22). This reads rule 41's 'only where no other morpheme licenses that determiner' of a written demonstrative pronoun and not only of a suffix. It is recorded here rather than promoted because the corpus is divided: four Td+Pp3ms units fuse the demonstrative's article with the pronoun as one noncompositional *that*, while a bare Pp3ms is aligned to *that* elsewhere. Six of the chapter's Td disagreements with BSB are this judgment.",
+    "הָיָה לְ with a predicate noun (24.24 *shall Ezekiel be unto you a sign*, 24.27 *shalt thou be a sign unto them*): the written הָיָה takes the copula and the לְ before מוֹפֵת is unrepresented, because the ASV leaves *a sign* bare (rules 21, 40). Each clause holds two לְs; the single written *unto* belongs to the one on the person, not to the predicate complement. Both predicate לְs are BSB R disagreements."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v73",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 51 candidate lemma groups. Every multi-treatment bucket is licensed by the ASV's own wording (waw connectives Again/Also/Then/So/Thus/but/yet/so; the הוּא suffixes as possessive, object, thereof, of it; חֶלְאָה, נֵתַח, יוֹם, עֶצֶם) or by a difference standing in the source. Nothing in this chapter is one construction analysed two ways with nothing to license the difference, so no patches.",
+    "The two internal doublets are the strongest test and both pass. The mourning prohibitions of 24.16-17 recur at 24.22-23 and are aligned identically: עַל before שָׂפָם is unrepresented in both (rule 40), the supplied possessive of *thy lips* / *your lips* is added in both because שָׂפָם carries no suffix, לֶחֶם אֲנָשִׁים is split the same way, and the second וְלֹא fuses as *nor* in both. The confiscation list of 24.21 recurs at 24.25 and matches unit for unit: מַחְמַד עֵינֵי- takes the supplied *the* on the construct and *of* on the rectum in both, and the recast nouns מַחְמַל and מַשָּׂא each take their supplied antecedent and relative into the noun's own unit under rule 46, headed on the lexeme word.",
+    "The candidate table is blind to added units, so I read all 15 of them end to end against their licensed counterparts. Every supplied object pronoun marked added (24.3 set it on, 24.4 fill it, 24.14 spoken it and do it, 24.26 cause thee to hear it) stands in a clause with no object morpheme, while the one aligned *it* (24.5 make it boil well) has the suffix of רְתָחֶיהָ with that referent — the distinction rule 44 draws. The appositional *even* is rule 16's own minimal pair and is correctly split: 24.2 gives *even of* to the אֵת standing on the appositive, 24.4 marks *even* added because no marker stands on כָּל־נֵתַח טוֹב. The supplied possessives (24.17, 24.22, 24.26 thine ears) are added on the same test that keeps the suffixed *thy headtire* and *thy feet* aligned in 24.17 itself.",
+    "Two readings I examined and left accepted, recorded so a later reader need not re-derive them. 24.17 gives the whole of *but not aloud* to דֹּם; the competing reading marks *but* added by rule 51's reasoning, since no waw stands in the clause. I left it because the three words are one paraphrase of the imperative rather than a connective written beside a rendering, and because 24.26's supplied *that* — a subordinator over a whole clause, related to no morpheme's rendering — is a different construction, correctly added there. 24.25 heads the doubled suffix of נַפְשָׁם on *they* rather than *their*; rule 18's own example heads on the direct realization, which here is the possessive, but the two pronouns are a genuine tie and the unit's note takes a side, which rule 8 permits.",
+    "BSB: none of the 25 disagreements is an error. Td x6, R x10 and Sp1cs x6 are the documented convention differences (articles in demonstrative phrases and rule 47 agreement articles; the לְ of לֵאמֹר, dative לְ and עַל left bare by the ASV's recasting under rules 27 and 40; the suffix of אֲדֹנָי in the title). The two Sp3fs at 24.6 are the suffixes of לִנְתָחֶיהָ לִנְתָחֶיהָ, which the ASV renders simply *piece after piece*. 24.11 תוֹךְ is unrepresented because the ASV writes *in it* for בְתוֹכָהּ: בְּ owns the *in* and the suffix the *it*, so rule 30's one-English-rendering condition is unmet and nothing is left for תָּוֶךְ — contrast 24.5 and 24.7, where *the midst* is written and the noun takes it.",
+    "Textual: the one variant unit, WLC.EZK.24.2.v001 on s003, is underdetermined and carries no FALLBACK EXCLUDED mark, so rule 53 does not engage and the projection was aligned as it stands."
+  ]
+}

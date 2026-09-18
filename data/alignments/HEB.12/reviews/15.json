@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "5d06112928377dc5049c7cd6f0dfb30efcc523b870a6bcc1b5e099af4aac9d4d",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "One correction only: the target head of s004 ὑστερῶν moves from 'falleth' (t009) to 'short' (t010). Unit membership, statuses and every other head are unchanged from the accepted alignment.",
+    "Reason for that correction: rule 17 names the meaning-bearing complement in support/light-verb and resultative renderings ('make straight' on 'straight', 'bear witness' on 'witness'), and rule 91's operational test asks which English word answers to the lexeme rather than which is the phrase's formal verb. The ASV renders ὑστερέω with an invariant deficiency word and a varying light verb — 'be in want', 'behind', 'come/fall short' — so 'short' is the constant that carries the lexeme. The accepted note's appeal to rule 104's ἐξέρχεται → 'cometh forth' does not carry, because that contrast requires the lexeme's own sense to be the verb word (ἔρχομαι means 'come') and ὑστερέω does not mean 'fall'. The competing reading is named in the unit note, as rule 16 requires.",
+    "Partition verified: all 22 source ids and all 30 target ids appear exactly once. Units are now listed in source order (s014 before s015), which was the only other change and is presentational.",
+    "s008 remains the sole unrepresented unit — the article before θεοῦ, where the ASV writes a bare 'God' (rules 21, 23). A reference comparison reporting it is not a correction.",
+    "The supplied 'there be' (t004, t005) stays folded onto τις rather than marked 'added': rule 53's pronoun side leaves the subject indefinite as the only token in the clause available to carry it, the participle having been recast as its own finite relative with 'that falleth short'. Marking it 'added' under rule 5 was considered and rejected, since a source token does license it (contrast rule 86, where none does).",
+    "δι᾽ αὐτῆς → 'thereby' follows rule 81 verbatim and stays aligned. Variant v007 is underdetermined with the base compatible and carries no FALLBACK EXCLUDED mark, so rule 97 is not in play; v008's selection of r01 is a textual decision rule 12 keeps outside this file."
+  ],
+  "ref": "HEB.12.15",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

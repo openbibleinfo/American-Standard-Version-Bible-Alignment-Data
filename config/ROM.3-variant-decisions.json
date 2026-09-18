@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "chapter": "ROM.3",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.ROM.3.2.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'Much every way: first of all, that they were intrusted with the oracles of God' renders no connective at all for this position; a postpositive gar and its omission are alike invisible in the English, and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.3.4.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "kathos and kathaper are synonyms both rendered 'as it is written'; the ASV wording cannot separate them and the only notes here are a greek_gloss on 'God forbid' and an OT citation."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.3.4.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'And mightest prevail' stands in a single hopos purpose clause with 'that thou mightest be justified'; ASV renders the whole clause as purpose whether the verb is future indicative nikeseis or aorist subjunctive nikeses, so the English does not distinguish the two."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.3.7.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text reads 'But if the truth of God ...' (de), and the mapped textual_variant note 'Many ancient authorities read For.' places gar in the margin, so the base de is the reading rendered."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.3.11.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The article on the substantival participle has no English exponent; 'There is none that understandeth' is the same rendering with or without ho, and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.3.11.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "As with the preceding participle, 'There is none that seeketh after God' renders the substantival participle identically whether or not the article is present; nothing in the ASV distinguishes them."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.3.12.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'There is none that doeth good' shows no trace of an added article before the participle; article presence or absence is not rendered in English and no note is mapped to this verse."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.3.22.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text reads only 'unto all them that believe', and the mapped textual_variant note 'Some ancient authorities add and upon all.' consigns kai epi pantas to the margin, so the shorter base reading is the one rendered."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.3.25.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "'through faith' is the ASV rendering of dia pisteos with or without the article tes; the only note here is an alternative_rendering on 'propitiation', which is about English wording and cannot decide a reading."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.3.26.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The Greek article is not separately rendered in 'for the showing, I say, of his righteousness'; its presence or absence leaves the English unchanged, and the notes here are cross references, a greek_gloss, and an alternative_rendering, none of which is a textual_variant."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.3.28.v011",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text reads 'We reckon therefore' (oun), and the mapped textual_variant note 'Many ancient authorities read For we reckon.' puts gar in the margin, so the ASV rendered oun, not the base gar."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.3.28.v012",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is only the order of dikaiousthai and pistei; both yield 'is justified by faith' in English, and the mapped textual_variant note concerns the connective 'For we reckon', not this word order."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.3.29.v013",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'is he not the God of Gentiles also?' carries no connective, but the ASV routinely leaves a postpositive de untranslated in a question sequence, so its absence in English does not exclude the added particle; no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.3.30.v014",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders 'if so be that God is one', a conditional clause matching eiper; epeiper is causal ('since indeed') and would have produced 'seeing that/since', so the ASV wording distinguishes the base reading."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.3.31.v015",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "histanomen and histomen are alternative present forms of the same verb with the same sense, both rendered 'we establish'; the notes here are all alternative_rendering and cannot decide a reading."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "chapter": "2CH.15",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "A resumptive pronominal suffix pointing back at a fronted nominal the ASV renders once — עָלָיו after the fronted subject Azariah (15.1), the object suffix of הֱסִירָהּ after the fronted Maacah (15.16) — is its own unrepresented unit under rule 22; the nominal takes the English and the suffix is not folded into the verb or preposition.",
+    "The agent לְ + suffix after the Niphal יִמָּצֵא rendered as an English passive ('he was found of them/you') takes the ASV's 'of' as its own unit (15.2, 15.4, 15.15); it is not silenced under rule 40 because the ASV spends a word on the agent relation.",
+    "In the לְמִן־קָטֹן וְעַד־גָּדוֹל / לְמֵאִישׁ וְעַד־אִשָּׁה ranges (15.13) rendered 'whether small or great, whether man or woman', the fronting לְ is unrepresented, מִן takes 'whether' as the opening correlative, the waw takes 'or', and עַד is unrepresented beside the waw's connective (rules 14, 26)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 19 verses end to end against the 39-lemma candidate table. Every multi-treatment bucket is the ASV rendering one morpheme differently in a different construction, licensed by the source: לְ is unto/for where the ASV writes a relation (15.11, 15.14, 15.16), 'of' where it marks the agent of a passive-rendered Niphal (15.2, 15.4, 15.15), and unrepresented where the ASV promotes its object to subject or bare object (15.3, 15.7, 15.13, 15.4 dative, 15.15 dative); מִן is out of/from/partitive of/correlative whether by what the ASV wrote; articles beside a demonstrative (15.5, 15.8, 15.11) are uniformly unrepresented with the demonstrative taking those/these/that (rule 41), and agreement articles uniformly unrepresented (rule 47).",
+    "The two resumptive suffixes pointing at a fronted nominal the ASV renders once (15.1 עָלָיו after Azariah, 15.16 הֱסִירָהּ after Maacah) are treated alike as unrepresented under rule 22. The two coordinator+subordinator pairs (15.4 'but when', 15.13 'and that') are treated alike as one unit on the waw under rule 55's pair sentence. The four added units (15.11 'which' over an asyndetic finite clause with a written antecedent, 15.16 'of it' and 'it' as supplied objects, 15.19 'more') each answer to no morpheme and no verse folds a comparable word into a neighbour.",
+    "BSB disagreements are all convention: object markers (15.2, 15.8, 15.9, 15.12, 15.16, 15.18), silenced לְ, agreement/demonstrative articles, the resumptive suffixes in 15.1 and 15.16, and the bare apodosis waw in 15.4. None is an error.",
+    "No promotion or amendment: the chapter applied existing rules (22, 30, 33, 40, 41, 44, 46, 47, 49, 50, 55) without meeting a case they had not considered."
+  ]
+}

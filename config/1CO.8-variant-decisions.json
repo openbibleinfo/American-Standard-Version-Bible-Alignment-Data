@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "chapter": "1CO.8",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.1CO.8.2.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV opens the verse 'If any man thinketh' with no connective. A postpositive de is routinely left untranslated in the ASV, so its absence in English neither attests nor excludes it; nothing else in the verse distinguishes ei from ei de."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.8.2.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV renders 'thinketh that he knoweth anything'. Both egnokenai and eidenai are rendered 'know' in the ASV, and no note is mapped here, so the English does not distinguish the two infinitives."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.8.2.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV has 'he knoweth not yet as he ought to know', a bare negated verb with no object. The RP reading oudepo ouden supplies an accusative 'nothing/anything' that the ASV does not render; the only 'anything' in the verse belongs to the preceding infinitive clause (ti egnokenai). The absence of a second object distinguishes oupo."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.8.2.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'he knoweth not yet' gives no tense signal that separates the aorist egno from the perfect egnoken; the ASV renders both aorist and perfect of ginosko with an English present here, and no note is mapped to this unit."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.8.4.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'there is no God but one'. The RP addition heteros would yield 'no other God but one'; the ASV supplies no 'other', italicized or otherwise, so the shorter reading is what the English renders."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.8.7.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'some, being used until now to the idol', which renders synetheiai (custom, habitual use). The RP syneidesei would give 'with conscience of the idol'; the ASV keeps 'conscience' for the separate syneidesis later in the verse ('their conscience being weak is defiled') and does not use it here."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.8.7.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The two readings differ only in the order of heos arti and tou eidolou; both say the same thing. English word order in 'being used until now to the idol' follows ASV clause construction, not the sequence of the Greek words, so it cannot attest either arrangement, and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.8.8.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'food will not commend us to God' — a future. That renders the future parastesei, not the present paristesin. The mapped note 'Greek present.' glosses the sense of paristemi (to present) rather than a tense, so it does not tell against the future form."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.8.8.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r02",
+        "r03"
+      ],
+      "evidence": "ASV puts the abstaining clause first: 'neither, if we eat not, are we the worse; nor, if we eat, are we the better', and the mapped notes confirm the pairing ('Greek do we lack' on 'the worse' = hysteroumetha, 'Greek do we abound' on 'the better' = perisseuomen). That excludes r00-base and r01, which begin with eating and abounding, and the ASV also renders no 'for' (gar). Between r02 and r03 the English cannot distinguish the active perisseuomen from the middle perisseuometha, both rendered 'are we the better'."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.8.9.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV reads 'a stumblingblock to the weak'. The adjective asthenesin and the participle asthenousin are both rendered 'the weak' in the ASV; the only mapped note (Or, power) is an alternative rendering of exousia and by policy cannot decide a reading."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.8.11.v011",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'For ... he that is weak perisheth': a causal 'For' rendering gar and a present 'perisheth' rendering apollytai. The RP Kai apoleitai would give 'And ... shall perish', which matches neither the connective nor the tense the ASV prints."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.8.11.v012",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The mapped note 'Greek in.' stands on 'through thy knowledge' and states the underlying preposition is en, which is the base reading; the RP alternative reads epi. The note also excludes the RP placement of adelphos before the prepositional phrase, since the ASV's 'the brother' follows 'through thy knowledge'."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.8.11.v013",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'perisheth, the brother for whose sake Christ died' — an appositional 'the brother' after the knowledge phrase, which renders ho adelphos in the base position. RP omits the word here (having it earlier, with asthenon), so the omission cannot account for the ASV's phrase."
+    }
+  ]
+}

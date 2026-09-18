@@ -1,0 +1,12 @@
+{
+  "alignment_sha256": "2262ec699bac8de734511ebb3895e31fe98e378f9bcd18b2c79d53f9deb40fc6",
+  "contract_version": "ot-hebrew-verse-v105",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "Corrected: the head of the מִדָּה unit moves from length to measures. Rule 31's subtraction test loses the lexeme measure when measures is dropped and loses nothing of it when length is dropped, and rule 31's tie-break keeps the head on a class noun that is the ASV's ordinary rendering of the word.",
+    "The ASV writes two ins for four Hebrew prepositions, so the third and fourth are unrepresented under rule 40 and every assimilated article token is unrepresented under rule 29."
+  ],
+  "ref": "LEV.19.35",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

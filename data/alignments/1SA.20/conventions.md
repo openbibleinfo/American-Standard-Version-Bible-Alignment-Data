@@ -1,0 +1,7 @@
+# 1 Samuel 20 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- גָּלָה אֹזֶן with a possessive suffix rendered 'disclose(th) it unto me/thee' (20.2, 20.12, 20.13): the verb takes 'disclose', the object marker and אֹזֶן are each unrepresented, the suffix takes 'unto me'/'unto thee' as its expanded realization (rule 18), and the object 'it' is added (rule 44). The rule 30/40 alternative of fusing verb + marker + noun into 'disclose' was available and not taken; the chapter is consistent on the split.
+- הַחִצִּים מִמְּךָ וָהָלְאָה / וָהֵנָּה (20.21, 20.22, 20.37): the adverb takes 'beyond' or 'on this side', the waw before it is unrepresented (no connective written), and the מִן heading the predicate takes the construction's copula ('are', 'are of') under rule 49 except where an interrogative הֲ stands to take the fronted 'Is' under rule 20, in which case the מִן is unrepresented (rule 40).
+- Noun subject + prepositional predicate rendered with a presentative 'there is X PP' (20.3 כְּפֶשַׂע בֵּינִי, 20.21 שָׁלוֹם לְךָ): the whole frame 'there is' joins the predicate preposition, and the noun keeps only its own English with any supplied article. 20.12's טוֹב אֶל is not this case: the adjective is read as the impersonal predicate and keeps 'there be good'.

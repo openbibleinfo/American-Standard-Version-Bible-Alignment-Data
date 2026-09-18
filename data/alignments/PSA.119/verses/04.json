@@ -1,0 +1,87 @@
+{
+  "ref": "PSA.119.4",
+  "alignments": [
+    {
+      "source": ["s001"],
+      "source_head": "s001",
+      "target": ["t001"],
+      "target_head": "t001",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s002"],
+      "source_head": "s002",
+      "target": ["t002", "t003"],
+      "target_head": "t003",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s003"],
+      "source_head": "s003",
+      "target": ["t006"],
+      "target_head": "t006",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s004"],
+      "source_head": "s004",
+      "target": ["t005"],
+      "target_head": "t005",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s005"],
+      "source_head": "s005",
+      "target": ["t007"],
+      "target_head": "t007",
+      "status": "aligned",
+      "confidence": "medium",
+      "note": "The ASV recasts the purpose infinitive as a finite clause; That realizes this preposition. Marking it unrepresented under rule 40 remains defensible."
+    },
+    {
+      "source": ["s006"],
+      "source_head": "s006",
+      "target": ["t008", "t009", "t010"],
+      "target_head": "t010",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s007"],
+      "source_head": "s007",
+      "target": ["t012"],
+      "target_head": "t012",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [],
+      "source_head": null,
+      "target": ["t004"],
+      "target_head": "t004",
+      "status": "added",
+      "confidence": "high",
+      "note": "ASV supplies the indirect object us; no Hebrew morpheme licenses it."
+    },
+    {
+      "source": [],
+      "source_head": null,
+      "target": ["t011"],
+      "target_head": "t011",
+      "status": "added",
+      "confidence": "medium",
+      "note": "The finite recasting supplies a resumptive object them for the precepts; folding it into the infinitive's unit is also defensible."
+    }
+  ],
+  "review_notes": []
+}

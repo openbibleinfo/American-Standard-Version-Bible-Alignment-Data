@@ -1,0 +1,26 @@
+{
+  "chapter": "1CH.15",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "1CH.15.25"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Periphrastic וַיְהִי + subject + הַ + participle rendered by a single English finite verb ('So David … went'): the participle takes the finite verb as the lexeme-bearing word, while הָיָה and the predicate article are each their own unrepresented unit, since the subject stands between the auxiliary and the participle and no English word is spent on either. The fusion alternative (הָיָה + participle sharing 'went') is named in the unit note and was not taken.",
+    "Appositional nominals standing after שַׂר with no preposition or marker on them (הַמַּשָּׂא → 'of the song', הַמְשֹׁרְרִים → 'with the singers', and הַמִּשְׁנִים → 'of the second degree' in 15.18) take the ASV's supplied preposition into the noun's own unit under rule 33, discontinuous around the article's 'the'; the italic on 'with' corroborates the supply and is not an added label. In the same verse 'had' of 'David had upon him an ephod' is added, because עַל already holds 'upon' and rule 43 reads a spent preposition as no home for the have."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 37 candidate lemmas and read every added unit across the dump. One real split found: the construct chain with an arthrous rectum the ASV renders anarthrously under a single fronted 'the'. 15.1, 15.2, 15.15 and 15.24 read אֲרוֹן הָאֱלֹהִים → 'the ark of God' correctly under rule 29 (article takes the fronted 'the', construct bare), but 15.25 read שָׂרֵי הָאֲלָפִים → 'the captains over thousands' the other way, giving the 'the' to the construct and leaving the article unrepresented. Rule 29's fronting sentence does not depend on the relational word, so 15.25 is patched: s009 takes 'the', s008 keeps bare 'captains'.",
+    "Everything else the table flags is contextual: waw connectives read off the ASV; לְ/בְּ unrepresented only where the ASV promotes the object or writes no relation (rule 40); the article on הַהֹלְכִים (15.25) unrepresented beside a bare 'went' while הַנֹּשְׂאִים (15.27) takes the written relative 'that'; construct participle נֹשְׂאֵי (15.26) takes 'that bare' itself under rule 41 since no article stands there.",
+    "Added units (6) are all licensed by the contract: italic 'David' (15.1, rule 17), 'bare it' (15.13, rule 20/34), 'and' before an asyndetic infinitive (15.16, rule 14), 'were appointed' (15.19, rule 20), 'had' beside a spent עַל (15.27, rule 43's spent-preposition ruling, alternative named in the note), 'as' over an asyndetic temporal clause (15.29, rule 45/55).",
+    "BSB disagreements: the seven R tokens and the Td tokens at 15.25 (participle article), 15.26 and 15.29 are the documented rule 40/29 convention differences, not errors. The 15.25 rectum article was the one genuine error and is fixed on rule 29 grounds, not for the score. 15.25 יְהִי (periphrastic וַיְהִי + participle rendered by a single finite 'went') is a judgment the contract does not settle; the verse's note names the fusion alternative, and it is recorded as a chapter convention rather than changed."
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "alignments": [
+    {
+      "note": "Coordinating conjunction to *and*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Anarthrous dative name; rule 21's determinerless clause keeps the case preposition *to* with the noun, headed on the name. The *to* governs the whole appositional dative phrase `μεσίτῃ Ἰησοῦ` and is placed on the word it immediately precedes in the ASV.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Greek is anarthrous, so the supplied *the* is an ordinary rule 51 helper on the noun it determines rather than an article's determiner, headed on the noun.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Anarthrous genitive; adjective and noun are both anarthrous, so rule 58 gives the supplied determiner *a* to the noun, and the genitive's case preposition *of* rides with it under rule 21. Rule 15 permits the discontinuity across *new*; rule 17 heads on the noun.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Attributive adjective to *new*; rule 58 keeps the supplied determiner on the noun rather than on the adjective standing next to it.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Coordinating conjunction to *and*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Anarthrous dative noun; the supplied *the* is a rule 51 helper on the noun and the case preposition *to* rides with it under rule 21.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Genitive noun rendered *of + noun*; rule 17 heads on the noun.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Anarthrous participle recast as a finite relative clause; the supplied relativizer *that* is the participle's own helper under rules 7 and 31, headed on the lexical verb under rule 17. No article stands here for the relativizer to compete with.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Adverbial comparative accusative modifying `λαλοῦντι`, to *better*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Comparative preposition to *than*; rule 36 keeps the English preposition on the Greek preposition.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Article governing the expressed name `Ἅβελ`, with which it agrees in case and gender; it is not substantival. The ASV recasts the phrase by supplying the anaphoric nominal *that* and *of* in front of the article's own noun, and rule 102 makes both supplied words the article's and heads the unit on the supplied nominal — REV.11.15's `τοῦ κυρίου` → *the kingdom of*, leaving `κυρίου` a bare *Lord*, is the same shape. Rule 17 confirms *that* over *of*. The competing reading marks *that of* `added` under rules 5 and 103 and leaves `τόν` `unrepresented` under rule 23 as an article before a name, on the strength of the ASV's italics on both words and the margin *Or, than Abel*; it was rejected because rule 11 makes those italics evidence rather than a verdict, no other source token competes for the slot the ASV filled, and rule 102's own REV.11.15 nominal likewise resumes a noun already realized earlier in its verse.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t020",
+        "t021"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Name to a bare *Abel*, as REV.11.15's `κυρίου` → *Lord* is; the supplied *of* in front of it belongs to the article's unit under rule 102.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    }
+  ],
+  "ref": "HEB.12.24",
+  "review_notes": [
+    "Partition and heads are unchanged: all 13 source and 22 target ids are still partitioned exactly once, every unit is `aligned`, and no unit's token membership or head moved. The correction is to the reasoning recorded in the notes, chiefly s012.",
+    "s012 `τόν` was accepted as a substantival article 'resuming *blood*' under rules 22 and 77. That analysis is not available: `τόν` is T-ASM and agrees with the masculine indeclinable `Ἅβελ` it stands before, so it governs an expressed noun and is not substantival, and a substantival reading pointing at neuter `αἷμα` would need a neuter article. The unit is re-based on rule 102, which covers exactly this shape — an article governing an expressed noun taking a nominal the ASV supplies inside its own phrase, headed on the supplied nominal, with the article's own noun left bare (REV.11.15 `τοῦ κυρίου` → *the kingdom of* / *Lord*). Rule 102 yields the same tokens and the same head, so the accepted alignment stands.",
+    "The contested question is recorded in the s012 note as rule 16 requires: `that of` is italicized in the ASV (t020*, t021*) and the margin reads *Or, than Abel*, which supports the competing reading of `that of` as `added` under rules 5 and 103 with `τόν` `unrepresented` under rule 23. It was rejected because rule 11 makes the italics evidence rather than a verdict, `τόν` is free — no other source token has been spent on the slot the ASV filled — and rule 102's REV.11.15 precedent gives a supplied anaphoric nominal to a free article even though that nominal likewise resumes a noun already realized in its verse. A reference comparison that reports `τόν` as represented is not a correction.",
+    "Two minor citations were tightened. s005 cited rule 23 for an anarthrous dative name where no article stands at all; it now cites rule 21's determinerless clause alone, and records why the shared `to` of the appositional dative pair `μεσίτῃ Ἰησοῦ` sits on the name. s010 cited rule 31 for an anarthrous participle; the relativizer is a rule 7 helper on the participle either way, and the note now says that no article competes for it.",
+    "Rule 12 is untouched: the packet shows no `FALLBACK EXCLUDED BY EVIDENCE` mark on this verse, so rule 97 is not in play and the projection's `τὸν` is taken as given despite the ASV text reading as though the comparison were blood-to-blood."
+  ]
+}

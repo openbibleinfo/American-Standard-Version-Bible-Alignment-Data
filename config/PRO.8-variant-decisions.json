@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "chapter": "PRO.8",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PRO.8.17.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'I love them that love me', a first-person object on the participle. That renders the qere אֹהֲבַי ('those who love me', 1cs suffix); the ketiv אהביה would give a third-person feminine suffix, 'those who love her', which the ASV's 'me' excludes. The verse's only note ('Or, early') is an alternative_rendering attached to the second clause's verb and does not bear on this unit."
+    },
+    {
+      "unit_id": "WLC.PRO.8.35.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'For whoso findeth me findeth life', two verbal forms: the preceding participle מֹצְאִי supplies 'whoso findeth me', and this unit supplies the finite 'findeth'. That is the qere מָצָא, a 3ms perfect. The ketiv מצאי repeats the suffixed participle and yields no second finite verb, so the ASV's second 'findeth' distinguishes the qere. The verse's note is a hebrew_gloss on 'obtain favor' and does not touch this unit."
+    }
+  ]
+}

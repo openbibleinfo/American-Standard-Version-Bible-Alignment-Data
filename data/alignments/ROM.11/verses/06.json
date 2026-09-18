@@ -1,0 +1,158 @@
+{
+  "alignments": [
+    {
+      "note": "Connective δέ realized by the ASV's clause-initial But.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Conditional εἰ to if.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Verbless clause with a dative predicate. No subject is expressed, so under rule 68 the predicate carries both the supplied subject it and the copula is; no article stands, so the case preposition by rides with the noun under rule 21's determinerless clause. Headed on grace.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Second verbless clause has an expressed prepositional predicate, so under rules 53 and 62 the preposition ἐξ carries the supplied it is, discontinuously under rule 15, together with its own of. Headed on the prepositional word of per rule 17. Giving it is to οὐκέτι was considered and rejected: rule 96 refuses to make a modifier the carrier.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "οὐκέτι to no more.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "ἔργων to works, bare, the case preposition having gone with the expressed ἐξ.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "ἐπεί to otherwise.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "The ASV writes no determiner for the subject grace, so the article has nothing to anchor and is its own unrepresented unit under rule 23.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Subject χάρις to grace. Variant SBLGNT.ROM.11.6.v003 selected r00-base, which covers this token; no textual decision is made here per rule 12.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "γίνεται rendered by the copula is.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Second οὐκέτι to no more.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Predicate χάρις to the final grace.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    }
+  ],
+  "ref": "ROM.11.6",
+  "review_notes": [
+    "All 12 source and 18 target IDs partitioned exactly once.",
+    "The two supplied copulas are placed by what is left in each clause to carry them (rules 53, 62, 68): the dative noun in the first clause, the expressed preposition ἐξ in the second."
+  ]
+}

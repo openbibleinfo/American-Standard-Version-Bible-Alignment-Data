@@ -1,0 +1,143 @@
+{
+  "alignments": [
+    {
+      "note": "Name split from the following one under rule 26.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Split separately recoverable names rather than sharing a head (rules 17, 26).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Article realized by the English determiner of the predicate phrase (rule 19). The supplied copula is not its, rule 96 keeping a determiner-carrying article to its own determiner.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Verbless clause with a lexical-noun subject, so rule 63 gives the supplied copula to the predicate word rather than to the subject; discontinuous under rule 15, and headed on *same* as the meaning-bearing word (rule 17), exactly as rule 63's `ὧν ὁ θεὸς ἡ κοιλία` → *whose god is the belly* gives *the* to the article and *is belly* to the noun.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Adverb on its own English word.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Expressed conjunction on its own *and*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "The ASV's *to day* is one adverb spelt apart; the *to* is no preposition here (no Greek preposition governs `σήμερον`), so both tokens belong to the adverb, headed on *day*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "`καί` takes *and*, with the supplied *yea* folded in as an intensifying rule 7 helper on the conjunction it introduces, as *even* rides on *so* under rules 82 and 100; rule 11 keeps the ASV's italics from making it a verdict. Marking *yea* its own `added` unit under rule 5 remains defensible, since no source token answers to it separately — I took the fold because an expressed conjunction stands here to license it, which is rule 86's test.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Rule 30/48: where the ASV writes *for ever* the ordinary analysis applies and the preposition takes *for*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Rule 30: in the duration idiom the article has no distinct English realization and is its own unit; rule 21 forbids leaving a bare *for* on it.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rule 30: the noun takes *ever*. The gloss note's *unto the ages* is not the ASV's phrasing, and rule 48's *never* compression is not in question here.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "HEB.13.8",
+  "review_notes": [
+    "All 11 source and 13 target ids partitioned exactly once.",
+    "The only contested unit is s008: *yea and* folded onto `καί` versus *yea* marked `added`; the note names the competing reading.",
+    "s007 carries the supplied copula rather than the subject or the article, per rules 63 and 96."
+  ]
+}

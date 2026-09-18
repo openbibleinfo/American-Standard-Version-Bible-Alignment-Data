@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "chapter": "2KI.4",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2KI.4.2.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'for thee' does not distinguish the qere לָךְ from the ketiv לכי; both candidates remain compatible, so the documented qere base remains the fallback."
+    },
+    {
+      "unit_id": "WLC.2KI.4.3.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'thy neighbors' does not distinguish the qere שְׁכֵנָיִךְ from the ketiv שכנכי; both candidates remain compatible, so the documented qere base remains the fallback."
+    },
+    {
+      "unit_id": "WLC.2KI.4.5.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'she poured out' does not distinguish the qere מוֹצָקֶת from the ketiv מיצקת; both candidates remain compatible, so the documented qere base remains the fallback."
+    },
+    {
+      "unit_id": "WLC.2KI.4.7.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'thy debt' does not distinguish the qere נִשְׁיֵךְ from the ketiv נשיכי; both candidates remain compatible, so the documented qere base remains the fallback."
+    },
+    {
+      "unit_id": "WLC.2KI.4.7.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'thy sons' does not distinguish the qere וּבָנַיִךְ from the ketiv בניכי; both candidates remain compatible, so the documented qere base remains the fallback."
+    },
+    {
+      "unit_id": "WLC.2KI.4.16.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'thou' does not distinguish the qere אַתְּ from the ketiv אתי. The mapped Hebrew-gloss note concerns 'liveth (or, reviveth)' elsewhere in the verse and does not decide this unit; both candidates remain compatible, so the documented qere base remains the fallback."
+    },
+    {
+      "unit_id": "WLC.2KI.4.23.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'thou' does not distinguish the qere אַתְּ from the ketiv אתי. The mapped Hebrew-gloss note 'Peace' concerns the woman's reply and does not decide this unit; both candidates remain compatible, so the documented qere base remains the fallback."
+    },
+    {
+      "unit_id": "WLC.2KI.4.23.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'wilt thou go' explicitly renders a second-person feminine form, selecting qere הֹלֶכֶת over ketiv הלכתי, which is first person. The mapped Hebrew-gloss note 'Peace' concerns the woman's reply and does not affect this unit."
+    },
+    {
+      "unit_id": "WLC.2KI.4.34.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'his hands upon his hands' explicitly renders the plural, selecting qere כַּפָּיו over singular ketiv כפו. The alternative-rendering note 'bowed himself' concerns English wording elsewhere and cannot decide this reading."
+    }
+  ]
+}

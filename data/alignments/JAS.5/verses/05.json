@@ -1,0 +1,175 @@
+{
+  "alignments": [
+    {
+      "note": "τρυφάω → 'Ye have lived delicately'; subject and auxiliary ride with the finite verb under rule 9. Head on 'delicately' by rule 91's operational test: the corpus spends 'live' on ζάω (TIT.2.12 ζήσωμεν → 'live', the adverbs standing on their own words), so 'lived' here is the supplied frame verb and the adverb is what answers to this lexeme. τρυφάω itself is unattested elsewhere in the corpus, so rule 104 sends the query to the root family, and the τρυφ- family is rendered by the content word and never by 'live' (2PE.2.13 τρυφήν → 'revel'). Same head as the parallel σπαταλάω unit below, which is rule 24. Heading on 'lived' as the lexical verb word remains defensible.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "ἐπί → 'on'; the expressed preposition takes its own English word, so the article keeps only 'the' (rule 21's case-preposition clause is not in question).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Article → 'the' under rule 19.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "γῆς → 'earth'; split from its article under rule 26.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "καί → 'and', an expressed conjunction aligned in the ordinary way.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "σπαταλάω → 'taken your pleasure'; no Greek pronoun stands for 'your' (ὑμῶν is spent on t015 under rule 76), so it is a rule 7 helper inside the English idiom the single verb licenses. Rule 17 heads the unit on the meaning-bearing complement 'pleasure' rather than the light verb 'taken'. σπαταλάω is unattested elsewhere in the corpus, so rule 104 sends the query to the frame, and a 'take' + complement support rendering heads on its complement.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "ἐθρέψατε → 'ye have nourished'; subject and auxiliary ride with the finite verb and rule 9 heads it on the lexical verb.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "The article's determiner slot is occupied by the possessive 'your', which the free genitive ὑμῶν takes under rule 20 (and rule 76: that pronoun is spent on nothing else).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "καρδίας → 'hearts'.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "ὑμῶν → 'your'; the genitive pronoun carries the possessive that displaces the article (rule 20). Variant SBLGNT.JAS.5.5.v003 selected r00-base, which covers this token.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "ἐν → 'in'.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "The Greek is anarthrous, so the supplied 'a' is an ordinary rule 7/51 helper on the noun it determines, headed on 'day'.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "σφαγῆς → 'of slaughter'; the case preposition rides with the noun and rule 17 heads the unit on the noun.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t020",
+        "t021"
+      ],
+      "target_head": "t021"
+    }
+  ],
+  "ref": "JAS.5.5",
+  "review_notes": [
+    "Reviewed unchanged: all 13 units stand as accepted. All 13 source ids and all 21 target ids are partitioned exactly once, every aligned unit has nonempty arrays with both heads inside them, and the single unrepresented unit (s008) has a valid source head, an empty target and a null target head.",
+    "Edges checked against rule 26: ἐπὶ τῆς γῆς is split three ways (s002 'on' / s003 'the' / s004 'earth') rather than bundled, since the expressed preposition takes its own word and rule 21's case-preposition clause is not in question; ἐν ἡμέρᾳ σφαγῆς likewise splits into s011 / s012 / s013.",
+    "s008 τάς is the contract's canonical rule 20 case, not rule 23: the free genitive ὑμῶν is present and available (rule 76 — it is spent on nothing else in the verse), so it takes 'your' and the article realizes nothing. The discontinuity of s009 'hearts' and s010 'your' is licensed by rule 15.",
+    "s012 ἡμέρᾳ keeps its supplied 'a' because the Greek is anarthrous, which is rule 51's anarthrous clause and not rule 92's articular one; no article stands here to take the determiner.",
+    "The two contested heads remain the ones to check on a later pass, and they were decided together under rule 24: s001 'delicately' over 'lived' and s006 'pleasure' over 'taken'. I strengthened s001's note with the rule 104 evidence rather than changing the alignment — τρυφάω is a corpus hapax, and the root family (2PE.2.13 τρυφήν → 'revel') spends the content word on the lexeme while 'live' is the corpus's word for ζάω. Heading s001 on 'lived' stays defensible and the note says so."
+  ]
+}

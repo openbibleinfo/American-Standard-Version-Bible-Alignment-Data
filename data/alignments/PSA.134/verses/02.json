@@ -1,0 +1,107 @@
+{
+  "alignments": [
+    {
+      "note": "Imperative rendered by an English phrasal verb; *up* is the verb's own particle under rule 44 and the head stays on the lexical verb.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Construct dual noun rendered *hands*; the possessive standing before it is the suffix's under rule 18, so the unit is discontinuous in English order only.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Pronominal suffix realized by the possessive *your* (rule 18).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Bare nominal with no preposition and no object marker on it; the supplied *to* states what the nominal contributes and belongs to it under rule 33, and the supplied *the* determines the nominal expression under rule 15. Head on the word carrying the lexeme. The ASV margin offers *Or, in holiness*, which is read and set aside under rule 38: the printed text governs.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Conjunction rendered *And* (rule 14).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Imperative with its subject pronoun written immediately after the verb (rules 17 and 36); no vocative stands in this clause to compete for it.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Object marker; the ASV writes the object bare, so rule 16's default applies.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Divine name as object of the imperative.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    }
+  ],
+  "ref": "PSA.134.2",
+  "review_notes": [
+    "`קֹדֶשׁ` stands with no preposition and no marker on it, so both the supplied *to* and the supplied *the* join its unit under rules 33 and 15 rather than being marked `added`.",
+    "The marginal alternative *Or, in holiness* was read and set aside under rule 38; the printed *to the sanctuary* is what is aligned."
+  ]
+}

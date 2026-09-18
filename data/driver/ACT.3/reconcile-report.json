@@ -1,0 +1,29 @@
+{
+  "chapter": "ACT.3",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Versification: the ASV translates ὅπως ἂν ἔλθωσιν καιροὶ ἀναψύξεως ἀπὸ προσώπου τοῦ κυρίου at the end of 3:19, not in 3:20. Under rule 37 that English is one `added` unit in 3:19 headed on *come*, and the nine source tokens ὅπως … κυρίου are each their own `unrepresented` unit in 3:20; both sides carry a note naming the other verse, and a reference comparison reports all nine as disagreements. The *that* of 3:20's *that he may send* is not `added`: ὅπως governs both subjunctives, so under rule 103's repeated-function-word clause the repetition is a rule 7 helper on ἀποστείλῃ even though the conjunction's own English stands in the previous verse.",
+    "ἀτενίζω rendered by the frame *fasten one's eyes* (3:4 *fastening his eyes*, 3:12 *fasten ye your eyes*) is headed on the verb word, with the supplied *his eyes* / *your eyes* folded in as rule 7 helpers. Heading on *eyes* as rule 17's meaning-bearing complement remains defensible; the chapter writes one analysis in both verses.",
+    "The article before θεός is aligned only where the ASV writes a determiner in the phrase — 3:13 *The God*, 3:22 *the Lord God* — and is its own `unrepresented` unit under rule 23 wherever the ASV writes a bare *God* (3:8, 3:9, 3:15, 3:18, 3:21, 3:25, 3:26). In 3:22's κύριος ὁ θεός the phrase's one *the* is given to the expressed article rather than to the anarthrous κύριος, an article being present in the phrase for the determiner to belong to (rules 51, 57 and 92); giving it to κύριος as a rule 51 helper and emptying the article is the competing reading and is named in that unit's note.",
+    "Where the ASV renders ἐκ by the two-word *from among* (3:22, 3:23), both words ride whole with the preposition and *among* is not split off onto the following article or noun. The article of that phrase is decided independently — displaced by ὑμῶν at 3:22, aligned to *the* at 3:23."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v102",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 26 verses end to end against the 47 candidate groups. No genuine cross-verse split: every difference inside a candidate group is licensed either by the source construction or by the English the ASV actually wrote, so patches is empty.",
+    "Checked in detail and found consistent: rule 31's verbless-modifier carve-out (3:16 ἡ δι᾽ αὐτοῦ → *which* / *is through*; 3:21 τῶν … ἀπ᾽ αἰῶνος → *that* / *have been from*; 3:24 τῶν καθεξῆς → *them that* / *followed after*), against the participle contrast at 3:2 and 3:11 where the second attributive article is unrepresented — that is rule 31's own test rather than two analyses.",
+    "Also checked: rule 102's article-plus-supplied-nominal at 3:1 (*the … hour*) and 3:14 (*the … One*), both headed on the supplied noun; an English preposition standing over a verb's object — accusative inside the verb's unit (3:10 *took knowledge of*, 3:14 *asked for*, 3:24 *told of*) and oblique riding with the governed word (3:5 *unto them*, 3:22 *to him*, 3:23 *to prophet*), which is rule 106's two arms held throughout; μέν (empty 3:13 and 3:21, *indeed* 3:22); ὅτι (recitative 3:22 against reported 3:10 and 3:17); ἄν (aligned 3:23, compressed 3:22, displaced 3:20); στερεόω (3:7 *strength*, 3:16 *strong*, both heading the complement); ἀτενίζω (3:4, 3:12, both heading the verb word); rule 106 preverb particles (3:1, 3:8, 3:11, 3:13, 3:19, 3:22, 3:23, 3:26) against the expressed-preposition arm at 3:3 and 3:8; and the supplied anarthrous *the* (3:13, 3:18, 3:21).",
+    "BSB: 14 disagreements, none a genuine error. Nine are the 3:19/3:20 versification block that rule 37 requires and BSB does not have, its versification following the Greek. The other five are documented convention — rule 20 displacement (3:16 τοῦ), rule 38 displacement (3:23 τοῦ), rule 21/23's determinerless clause (3:6 τοῦ, 3:10 τὴν), and 3:14 ἄνδρα, where the ASV compresses ἄνδρα φονέα into *a murderer* while BSB writes *a man*. Nothing was changed to move the agreement rate.",
+    "Four conventions recorded. The validation report was right that 22 judgments reached later verses through repeated notes with nothing in the log, but most of those notes are bare rule citations that need no convention; what is recorded is the versification handling, the ἀτενίζω head, the article before θεός, and ἐκ → *from among*.",
+    "No promotion. The one candidate was widening rule 76's availability test to a possessor already spent on a coordinate member's possessive — 3:7 gives the first *his* to αὐτοῦ and the second, in the coordinate τὰ σφυδρά, to the article. Rule 76 states availability as the principle and rule 103's repeated-function-word clause points the same way, so the reading is sound, but it rests on one instance and none of the corpus rows supplied speaks to it, so the contract is left alone and 3:7's own note carries the reasoning.",
+    "Two defects noted and deliberately not patched, since a patch rewrites a whole verse and neither changes an edge. 3:20's note on ἂν cites 'rule 50's own exception for a neighbouring verse', which rule 50 does not contain; the operative rule is 37, correctly cited by the other eight tokens of that block. And 3:19's displaced English is one 14-token `added` unit headed on *come*; rule 37 does not say whether the added side is one unit or one per token, and rule 97's mirror clause splits only the unrepresented side, so the single unit stands unchallenged here."
+  ]
+}

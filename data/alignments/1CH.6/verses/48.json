@@ -1,0 +1,170 @@
+{
+  "alignments": [
+    {
+      "note": "Conjunction waw → *And* (rule 14).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Pronominal suffix → *their* (rule 18).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The noun of אֲחֵיהֶם takes *brethren*; the suffix is its own unit (rules 11, 18).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Article → *the* (rule 15).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Gentilic noun.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Passive participle → *were appointed*; head on the lexical predicate, not the auxiliary (rule 24).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "לְ → *for*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "כֹּל → *all*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Construct עֲבוֹדַת with a supplied *the*: an outer construct in a multi-level chain takes a supplied article (rule 29).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "*of* with the rectum (rule 19); the second English *the* is supplied for this outer construct (rule 29).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Construct בֵּית takes *of ... house*; the *the* at t016 is the article morpheme's, so this unit is discontinuous (rules 25, 29).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "The article on the rectum takes the *the* the ASV fronts to *the house*, since a present article morpheme takes its English before a supplied one does (rule 29).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "*of God*; the rectum is rendered anarthrously and its article stands at t016 (rules 19, 29).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "1CH.6.48",
+  "review_notes": [
+    "Three-level construct chain *service — tabernacle — house — God* with a single article morpheme. Following rule 29, that article takes the innermost written *the* (*the house*) and the two outer constructs take supplied ones. The competing reading gives the article the leftmost *the* (*the service*); rule 29's parenthetical about the article leaving the second *the* for the outer construct is what decided against it."
+  ]
+}

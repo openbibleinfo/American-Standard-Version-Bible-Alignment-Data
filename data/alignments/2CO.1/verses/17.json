@@ -1,0 +1,348 @@
+{
+  "alignments": [
+    {
+      "confidence": "high",
+      "note": "Accusative demonstrative object of the participle, rendered adverbially as *thus*. It stands inside the participial clause's English but is its own unit: rule 15 forbids absorbing it into s003 merely because that unit is discontinuous around it.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "confidence": "high",
+      "note": "Inferential conjunction. *therefore* stands inside the participial clause, which is where οὖν stands in the Greek; the second particle ἄρα belongs to the following interrogative clause.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "confidence": "high",
+      "note": "Participle recast as a finite temporal clause. The supplied *When* is a rule 7 helper, not `added`: rule 86's test is whether a source token licenses the subordination, and a participle does — the corpus places a supplied *when* on a participle in sixty-six of its sixty-seven units. Subject *I* and copula *was* ride along under rules 7 and 9; head on the lexical *minded* under rule 17. Discontinuous around t005 under rule 15.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t004",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "confidence": "high",
+      "note": "Interrogative particle whose only work is to mark the question. The ASV marks it by inversion and supplies no interrogative word, so rules 44 and 64 leave it empty. The *did* of *did I show* is the past indicative's own do-support riding with s008 under rule 9, exactly as the auxiliary does in rule 44's `μὴ πλείονα σημεῖα ποιήσει;` → *will he do more signs?*; it is not a supplied interrogative word of rule 64's `μήτι` → *Can* kind. A reference comparison will report this as a disagreement, and that report is not a correction.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "Second particle in the interrogative frame, likewise unwritten in the ASV; rule 64. Raised from `medium`: the only materially different reading is giving *therefore* to ἄρα and emptying οὖν, and clause position excludes it, *therefore* standing in the participial clause where οὖν stands while ἄρα stands in the following clause. No *then* is written anywhere in the verse, so rule 16 leaves no competing analysis to hedge against and rule 84's line against hedging an undisputed unit applies. A reference comparison will report this as a disagreement, and that report is not a correction.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "The ASV gives *fickleness* no determiner, so the article has no *the* to anchor and is `unrepresented` under rule 23; the dative is absorbed into the English object of *show*, and rule 21 forbids leaving a bare case preposition on the article.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "Noun complement of χράομαι, spelled out as *fickleness*. Rule 73 does not join it to s008: the ASV writes both elements of the pair, so rule 2's ordinary split applies.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "confidence": "high",
+      "note": "Finite verb with the inverted do-support *did* and subject *I* as rule 9 helpers; head on the lexical *show* under rule 17.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "confidence": "high",
+      "note": "Disjunctive particle.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "confidence": "high",
+      "note": "Relative pronoun substantivized with the supplied generic noun *things*. Rule 77's generic-noun arm heads such a unit on *things* rather than on the relativizer, as `ἃ εἰργασάμεθα` → *the things which we have wrought* does; the determiner and relativizer are rule 7 helpers.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013",
+        "t014"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "confidence": "high",
+      "note": "Verb of the relative clause, with subject *I* as a rule 9 helper; head on the lexical verb.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "confidence": "high",
+      "note": "Preposition rendered by the contiguous two-word *according to*, headed on *according*. Rule 67 is not in question: no supplied noun makes this a complex frame.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t020",
+        "t021"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "confidence": "high",
+      "note": "`κατὰ σάρκα` is anarthrous, so no article competes for the determiner slot and the supplied *the* is an ordinary rule 7 helper on the noun it determines, as rule 51 has it. Head on *flesh*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t022",
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "confidence": "high",
+      "note": "Repeated finite verb heading the main interrogative clause, with do-support *do* and subject *I* as rule 9 helpers; head on *purpose*.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "confidence": "high",
+      "note": "Purpose conjunction realized by the word introducing its English clause, *that*; rule 40.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "confidence": "high",
+      "note": "Subjunctive of εἰμί with the expletive *there* and modal *should* as rule 9 helpers; head on the lexical *be*.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t027",
+        "t028",
+        "t029"
+      ],
+      "target_head": "t029"
+    },
+    {
+      "confidence": "high",
+      "note": "Preposition realized by *with*. Rule 94's precondition for a compound unit is not met: the ASV writes two separate English words, so rule 2 splits the phrase.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "confidence": "high",
+      "note": "Dative pronoun.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t026"
+      ],
+      "target_head": "t026"
+    },
+    {
+      "confidence": "high",
+      "note": "Article nominalizing the quoted particle, realized by the written *the*; rule 19. Rule 61's `unrepresented` nominalizer does not reach it, that rule aligning the article wherever the ASV writes a determiner of its own.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t030"
+      ],
+      "target_head": "t030"
+    },
+    {
+      "confidence": "high",
+      "note": "First quoted *yea*.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t031"
+      ],
+      "target_head": "t031"
+    },
+    {
+      "confidence": "high",
+      "note": "Second quoted *yea*, kept its own unit under rule 2.",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t032"
+      ],
+      "target_head": "t032"
+    },
+    {
+      "confidence": "high",
+      "note": "Coordinating conjunction.",
+      "source": [
+        "s022"
+      ],
+      "source_head": "s022",
+      "status": "aligned",
+      "target": [
+        "t033"
+      ],
+      "target_head": "t033"
+    },
+    {
+      "confidence": "high",
+      "note": "Article nominalizing the quoted negative, realized by the written *the*; rule 19.",
+      "source": [
+        "s023"
+      ],
+      "source_head": "s023",
+      "status": "aligned",
+      "target": [
+        "t034"
+      ],
+      "target_head": "t034"
+    },
+    {
+      "confidence": "high",
+      "note": "First quoted *nay*.",
+      "source": [
+        "s024"
+      ],
+      "source_head": "s024",
+      "status": "aligned",
+      "target": [
+        "t035"
+      ],
+      "target_head": "t035"
+    },
+    {
+      "confidence": "high",
+      "note": "Second quoted *nay*. The doubled negatives are quoted words rather than an emphatic negation, and they are not the adjacent `οὐ μή` pair, so rule 33 is not in question and rule 2 splits them.",
+      "source": [
+        "s025"
+      ],
+      "source_head": "s025",
+      "status": "aligned",
+      "target": [
+        "t036"
+      ],
+      "target_head": "t036"
+    }
+  ],
+  "ref": "2CO.1.17",
+  "review_notes": [
+    "All 25 source and all 36 target IDs are partitioned exactly once; every aligned unit's head is a member of its own array.",
+    "Changed from the accepted alignment: s005 `ἄρα` raised from `medium` to `high`. The accepted note conceded that no *then* stands in the verse, which defeats its own hedge. The only materially different reading is giving *therefore* to ἄρα and leaving οὖν empty, and clause position excludes it — *therefore* sits in the participial clause where οὖν stands. Rule 16 wants a competing analysis, and rule 84 warns that hedging against an undisputed unit is the recurring failure. Everything else is unchanged.",
+    "s004 and s005 are separate `unrepresented` units under rules 44 and 64. The point worth recording is that *did* is not a supplied interrogative word: it is the past indicative's do-support required by English inversion, so it rides with s008 under rule 9, as the auxiliary does in rule 44's `μὴ πλείονα σημεῖα ποιήσει;` → *will he do more signs?*. Rule 64's `μήτι` → *Can* case is the contrast, where the supplied modal carries a sense the Greek verb does not. A reference comparison will report both particles as disagreements, and that report is not a correction.",
+    "s003's *When* is a rule 7 helper on the participle, not `added`. Rule 86's test is whether a source token licenses the subordination, and a participle is exactly such a token; the corpus places a supplied *when* on a participle in sixty-six of its sixty-seven units.",
+    "s007/s008 are split rather than joined: `τῇ ἐλαφρίᾳ ἐχρησάμην` → *did I show fickleness* spells both elements out, so rule 73's collapsed light-verb pair is not in question and rule 2's ordinary split applies.",
+    "s006 is `unrepresented` because the ASV writes no determiner for *fickleness*; rule 21 forbids leaving a bare case preposition on the article. Contrast s013, where the Greek is anarthrous and the supplied *the* is therefore the noun's own helper under rule 51, and s019/s023, where the ASV writes *the* and rules 19 and 61 align the article to it.",
+    "s010 heads on *things* per rule 77's generic-noun arm, not on the relativizer *that*.",
+    "The doubled `ναί ναί` and `οὔ οὔ` are quoted particles, each its own unit under rule 2; rule 33 is not in question, these being neither adjacent `οὐ μή` nor an emphatic negation."
+  ]
+}

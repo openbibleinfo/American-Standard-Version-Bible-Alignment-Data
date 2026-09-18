@@ -1,0 +1,149 @@
+{
+  "alignments": [
+    {
+      "note": "Inflected verb takes its supplied English subject pronoun as a rule 7/9 helper; head on the lexical verb *see*, not the pronoun.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Complementizer of reported speech realized by *that*; rule 43's test is the English word, and one is written here.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Preposition governing the phrase takes the English preposition under rule 36.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Anarthrous noun stands on its own English word.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Greek is anarthrous, so no article competes for the determiner slot and the supplied *a* is an ordinary rule 51/7 helper on the noun it determines; head on *man*. Word order in the ASV reverses subject and verb relative to the Greek, which rule 15 permits.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Passive verb takes its auxiliary as a helper under rule 9; head on the lexical participle *justified* rather than *is*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Expressed conjunction aligned to *and* in the ordinary way.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Ordinary negative aligned to *not*; no negative indefinite follows, so rules 41 and 59 do not arise, and no `πᾶς` stands in the clause, so rule 87 does not arise either.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "The ASV moves *only* in front of the prepositional phrase while the Greek places `μόνον` last; rule 15 permits the reordering and rule 2 keeps the adverb on its own word rather than merging it with `πίστεως`. The competing reading would fold *only* into the negation with `οὐκ` as *not only*, rejected because both source words have independently recoverable English words under rule 26 and rule 39's test is not in question, `μόνον` being a contentful adverb rather than a particle.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Second preposition takes the second *by* under rule 36, discontinuous from its noun only by the intervening *only*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Anarthrous noun stands alone; the case preposition is realized by the expressed `ἐκ` and does not ride here.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "JAS.2.24",
+  "review_notes": [
+    "Reviewed and left unchanged; only the notes on s008 and s011 were expanded to name the competing readings the contract asks a later reader to be able to act on.",
+    "All 11 source and 14 target ids partitioned exactly once; every unit is `aligned` with nonempty arrays and heads drawn from their own arrays, as rule 3 requires.",
+    "No article, demonstrative, possessive or particle cluster stands in the verse, so the bulk of the contract's article and particle machinery (rules 19-23, 38, 49, 51, 57, 60) has nothing to decide here. Both prepositions govern anarthrous nouns, so rule 21's article-carries-the-case case does not arise and rule 36 puts each *by* on its own preposition.",
+    "Heads reviewed separately from edges per rule 28: *see* over the supplied *Ye* (rule 17), *justified* over the auxiliary *is* (rules 9 and 17), *man* over the supplied *a* (rules 17 and 51). None of these is a light-verb or generic-completion phrase, so rules 66, 84 and 91 do not bear on them.",
+    "s006's supplied *a* is the article-free case rule 51 names explicitly: the Greek is anarthrous, no article competes, and the determiner is a rule 7 helper on the noun. Rule 92's supplied-determiner-to-the-article clause is scoped to articular Greek and does not reach this.",
+    "The variant line records SBLGNT.JAS.2.24.v023 resolved to r00-base with no `FALLBACK EXCLUDED BY EVIDENCE` mark, so rule 97 does not apply and no target token is `added` on textual grounds. Rule 12 forbids revisiting the selection here in any case.",
+    "No token's English is placed in a neighbouring verse, so rule 37 does not arise, and every supplied English word in the verse (*Ye*, *a*, *is*) is licensed by an expressed source token, so rule 86 produces no `added` unit."
+  ]
+}

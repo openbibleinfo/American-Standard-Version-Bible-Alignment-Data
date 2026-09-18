@@ -1,0 +1,24 @@
+{
+  "artifact_hashes": {
+    "greek_boundary_mapping_sha256": "2ed6da45508166ef50a893f12361458ff7e08add073284ce9b11b47e7b155f59",
+    "review_receipts_sha256": "9383ef8e13368f5b648f6352d93a02c087388a9eaaf57d36883a6e6ca0999025",
+    "source_lock_entries_sha256": "b65ac384131b974822cb41cbc5fd369a28f16a5d2e18149a018ac36aba031ec8",
+    "variant_decisions_sha256": "4d01d6d1ac1195bd2677e1fdcdc5fedaeeb00d13db107a9106ecd9a6064f3dba",
+    "verse_divisions_sha256": "absent",
+    "verse_responses_sha256": "7b6ae2f580cb6b3c4fab7f326fa6d3580c1705e18f80833a1f6f029a2fc5e12b"
+  },
+  "chapter": "ROM.3",
+  "contract": {
+    "sha256": "f33c4e901fc88919a0d0b30dfbd89afbd85a7695c4c9d1b3d24ae5abf25f9082",
+    "version": "nt-greek-verse-v110"
+  },
+  "created_at": "2026-08-28T20:56:26.809787+00:00",
+  "models": {
+    "alignment": "claude-code (packed=all)",
+    "reconciliation": "claude-code (bounded)",
+    "review_context": "claude-code (packed=all)"
+  },
+  "omissions": [],
+  "repository_revision": "fe9ca0b1308e723e72309a23889e736652e1b59f",
+  "testament": "NT"
+}

@@ -1,0 +1,28 @@
+{
+  "chapter": "PSA.144",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "בְּנֵי נֵכָר -> *aliens* (144.7, 144.11) is one fused unit under rule 30, headed on נֵכָר under rule 23, since the single English word writes that noun's lexeme alone; the chain's *of* is the rectum's under rule 19 and בֵּן is not marked unrepresented beside it.",
+    "Where a Hebrew substantive is rendered by a two-word English phrase closing on a class noun, this chapter read the class noun as rule 31's supplied generic and headed on the modifier: יָמִין -> *right hand* on *right* (144.8 twice, 144.11 twice), מִשְׂגָּב -> *My high tower* on *high* (144.2), זָוִית -> *corner stones* on *corner* (144.12). The competing head is named in each unit's note under rule 8. Corpus precedent agrees: יָמִין -> *right hand* heads on *right* in 42 units against two on *hand*.",
+    "144.3 writes two waws and three ASV connectives (*that*, *Or*, *that*). Both waws take the *that* standing where they stand, and the disjunctive *Or*, which opens a colon the Hebrew juxtaposes with no conjunction in it, is the surplus and is `added` under rule 14's closing sentences. The competing allocation gives *Or* to the second waw and marks the second *that* added; the first colon's identical waw -> *that* decides it.",
+    "The datives לִי (144.2, beside מָגִנִּי, which carries the one written *My* on its own suffix) and לּוֹ (144.15, the ASV writing *in such a case* for כָּכָה alone) are each unrepresented together with their suffixes, the ASV's recasting writing nothing for either morpheme. These four tokens are four of the five BSB disagreements."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v202",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 16 candidate lemma groups; none is a split. Every multi-treatment bucket is licensed by the ASV's own wording or by a difference in the source: the article buckets divide only where the ASV writes a *the* in one colon and none in the next (בֶּהָרִים -> *the mountains* against לַמְּלָכִים -> *unto kings*, הָעָם -> *the people* against לַקְרָב -> *to war*); the participial הַ takes *Who* in 144.2 and 144.10 and *he that* in 144.10 according to what the ASV wrote in the article's place, which is what rule 41 asks; לְ divides *to*/*unto*/*of* and מִן divides *from*/*out of* on the English word alone; *thy*/*thine* is orthography.",
+    "Read the dump end to end for what the lemma table is blind to, the 11 `added` units, and set each against the places the chapter folded a supplied word into a licensing morpheme. Supplied connectives are `added` in exactly the cola that write no conjunction (1 *And*, 3 *Or*, 12 *And*, 13 *When*/*And*/*and*, 14 *When* twice, 15 *Yea*), while all seven waws standing in the chapter take the connective written for them (3, 5, 6, 7, 8, 11, 14) and the אֲשֶׁר of 12 takes its *When*. Supplied determiners, generic nouns, vocative *O*s and English phrasal particles are folded into their licensing morphemes without exception, so nothing is folded in one verse and marked added in another.",
+    "Copula placement is uniform: on the predicate morpheme wherever one stands (בָּרוּךְ 1, מָה 3, יְמִין 8 and 11, מָלֵא 13, סָבַל 14, אֶשֶׁר and אֱלֹהָיו 15), on the preposition heading a prepositional predicate under rule 49 (כְּ 4 and 12), and on the predicate participle rather than the article under rule 41 in 10, where the supplied *Thou* is `added` because no morpheme in that verse denotes the addressee and rule 10 makes the verse the whole unit of work.",
+    "The two repeated passages are aligned identically, unit for unit and head for head: 144.8 against the second half of 144.11 (relative plus resumptive suffix fused as one *Whose*, the rewritten *whose* to the suffix on יְמִינָם under rule 22's coordinated-clause paragraph, both יָמִין phrases headed on *right*), and מִיַּד בְּנֵי נֵכָר in 144.7 against 144.11 (*out of* on מִן headed on *out*, supplied *the* on the construct, the pair fused to *aliens*).",
+    "BSB: all five disagreements are documented convention differences, not errors. בֶּ in 144.5 is rule 40's promoted object, which that rule names in its own words (*Touch the mountains*); לִי with its suffix in 144.2 and לּוֹ with its suffix in 144.15 are datives the ASV's recasting leaves with no English at all, the one written *My* in 144.2 answering to מָגִנִּי's own suffix. None should be moved to lift the rate.",
+    "No promotion. בְּנֵי נֵכָר -> *aliens* is already provided for, rule 23 naming a construct chain among the things rule 30 fuses and settling the head where one lexeme alone is written; the supplied *Thou* of 144.10 is decided by rule 25's closing sentences read with rule 10; the שֶׁ plus suffix -> *whose* of 144.15 falls under rule 22, which is written on the condition and not on the lemma אֲשֶׁר."
+  ]
+}

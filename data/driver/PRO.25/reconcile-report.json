@@ -1,0 +1,27 @@
+{
+  "chapter": "PRO.25",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Emblematic similes. Where the chapter juxtaposes two nominal cola with no verb, the Hebrew predicate is read as the first colon, and where that colon lists several items it is the first of them; the construction-supplied copula joins that unit under rule 20, discontinuous under rule 25, whichever colon the ASV puts first in English. Applied at 25.11, 25.12, 25.14, 25.18, 25.19, 25.20, 25.25, 25.26 and 25.28, five of which the ASV reorders. Where the first colon is instead headed by a written comparative kaph, rule 49 puts the same copula on the preposition, as at 25.13. The competing reading, which attaches the copula to the second colon's noun, is named in the units it touches.",
+    "Supplied comparative frame. No morpheme licenses the opening As or like of these similes, so it is added (25.3, 25.11, 25.12, 25.14, 25.19, 25.20, 25.25, 25.26, 25.28), while the answering So belongs to the waw opening the second colon where one stands (25.3, 25.20, 25.23, 25.25, 25.27) and is added where none does (25.12, 25.13, 25.14, 25.26). The ASV's italics track the Hebrew exactly here: every italic So in this chapter stands in a waw-less verse and every So aligned to a waw is set in roman, which corroborates the count without deciding it (rule 7).",
+    "Existential ayin with its noun. At 25.3 the ASV writes one word, unsearchable, for ein cheqer, so the pair shares one unit under rule 30, headed on the noun carrying the lexeme, with the rule 50 reading that heads on the negation named in the unit's note; the fused unit is indexed under cheqer rather than ayin, so it does not appear beside the chapter's other ayin units. Where the ASV instead spends a word on each morpheme - without rain at 25.14, without walls and is without restraint at 25.28 - rule 2 splits them and each ayin is its own unit headed on without."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v169",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read the full dump end to end as well as the 35 candidate groups, since this chapter's dominant construction is the emblematic simile and most of its decisions are about supplied English, which a lemma-keyed table cannot see.",
+    "Simile copula: all nine juxtaposed similes (25.11, 25.12, 25.14, 25.18, 25.19, 25.20, 25.25, 25.26, 25.28) give the construction-supplied copula to the first colon's first nominal, including the five where the ASV reorders the cola. 25.13 is the only simile with a written comparative kaph, and there the copula joins that preposition under rule 49 - the same predicate identified the same way, not a second analysis.",
+    "Supplied correlative frame: the opening As/like is added in every verse writing no comparative morpheme (25.3, 25.11, 25.12, 25.14, 25.19, 25.20, 25.25, 25.26, 25.28), and the answering So goes to the waw where one opens the second colon (25.3, 25.20, 25.23, 25.25, 25.27) and is added where none does (25.12, 25.13, 25.14, 25.26). The ASV's italics on So fall on exactly the waw-less four, corroborating the split under rule 7.",
+    "Other candidates resolved as context rather than splits: lipne fused at 25.5 and 25.26 but split at 25.6 and 25.7, which is rule 30's one-rendering condition read off the ASV; comparative min holds only Than at 25.7 and 25.24, with the further English word placed by the count (complementizer to the infinitive at 25.7, supplied with left added at 25.24); supplied infinitive to at 25.2, 25.24 and 25.27 against the written le of 25.8; generic ish taking the pronoun at 25.14 and 25.28 while an unaccompanied participle takes he that at 25.10, 25.13 and 25.20; phrasal particles, supplied determiners and the impersonal It (25.2, 25.24, 25.27) each treated one way throughout.",
+    "BSB: all six disagreements are function morphemes under documented convention differences - the suffix inside the fused adverb at 25.11 (rules 30, 22), waws the ASV leaves unrendered at 25.14 and 25.24 (rule 14), and three prepositions the ASV's recasting leaves nothing to say at 25.20, 25.22 and 25.28 (rule 40). None is a genuine error, and nothing was changed to move the rate.",
+    "No promotion. The simile-predicate judgment is rule 20's own method applied to one poetic shape, and no corpus evidence here shows how the finished Proverbs chapters read the emblematic simile; a rule that contradicted them would be worse than none, so it is recorded as a chapter convention instead."
+  ]
+}

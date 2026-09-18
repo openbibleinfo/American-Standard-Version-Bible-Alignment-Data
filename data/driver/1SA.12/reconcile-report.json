@@ -1,0 +1,26 @@
+{
+  "chapter": "1SA.12",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Two גַּם particles coordinating two subjects each take the English word the ASV writes for their own position: גַּם־אַתֶּם וְגַם־הַמֶּלֶךְ → *both ye and also the king* gives *both* and *also* to the two גַּם and *and* to the waw (12.14); גַּם־אַתֶּם גַּם־מַלְכְּכֶם → *both ye and your king*, with no waw, gives *and* to the second גַּם (12.25). Rule 14's correlative-pair fusion is for one connective rendered by two words and does not reach a written pair.",
+    "A subject pronoun the ASV supplies for a later verbless clause whose referent is a nominal written earlier in the same verse joins that nominal's discontinuous unit under rule 25 rather than being marked added: *He is witness* → יְהוָה (12.5), *as it was against your fathers* → יַד (12.15, where *was* is the second realization of the one הָיְתָה under rule 34). The competing added reading is named in each note.",
+    "Cleft and impersonal *it* in a verbless clause is added, and the copula goes where rule 20 sends it: to the only overt anchor free to bear it when the predicate is a finite relative clause (*It is Jehovah that appointed*, 12.6), and to the interrogative particle when it is fronted as the question auxiliary (*Is it not wheat harvest*, 12.17)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 25 verses end to end against the candidate table and the added units. Every multi-treatment bucket is the ASV rendering one word differently in a different construction (waw connectives read off the ASV, מִן → of / out of, אַחַר → after / following / followers of, לְ before an infinitive → to / in / that by what the ASV wrote); no construction is analysed two ways with nothing in the source to license it.",
+    "Cross-verse constructions that recur were checked and agree: demonstrative phrases (12.2, 12.5, 12.8, 12.16, 12.18, 12.20) give *this*/*that* to the pronoun and leave both articles unrepresented; the two גַּם … (וְ)גַּם pairs (12.14, 12.25) give each גַּם its own written word and the waw its *and*; the two clefts/impersonal frames (12.6, 12.17) leave the dummy *it* added and put the copula on the anchor rule 20 names; the two resumed subjects (12.5 *He*, 12.15 *it*) both join the nominal written earlier in the verse under rule 25; both Hithpael יצב units take *stand still* whole.",
+    "Added units (12.3 *it*, 12.6 *It*, 12.13 *and*, 12.14 *well*, 12.17 *it*, 12.21 *then would ye go*, 12.23 *as for*) each answer to no morpheme and are not folded elsewhere in another verse.",
+    "BSB disagreements are all documented convention differences (object markers, articles, unrendered prepositions and waws, the paragogic he of חָלִילָה, the resumptive suffix of הִנָּם); none is a genuine error.",
+    "No promotion: the chapter's only novel judgments (supplied *this* joining a bare noun in 12.19; *indeed* joining the emphatic pronoun in 12.20; *Here I am* copula on the suffix in 12.3) are single occurrences with the competing reading named in the note and no corpus evidence here to carry a rule."
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "alignments": [
+    {
+      "note": "Rule 66: 'manner' is the generic completion of the adverbial frame and 'like' carries the comparative sense of ὡσαύτως, so the head stays on 'like'. Heading on 'manner' as the frame's formal noun remains defensible but is what rule 17 forbids.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Rule 5: no source token licenses 'also' — no καί stands in this verse, unlike 25:22 and 25:24, and ὡσαύτως's own English is complete in 'In like manner'.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Rule 32's contrast: no participle stands, so the substantival article keeps the discontinuous 'he … that', headed on the pronoun.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t006"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Rule 19.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Rules 62 and 96: the relative clause is verbless and the ASV supplies a lexical verb, which falls on the predicate rather than on the determiner-carrying article. Discontinuous under rule 15. Marking 'received*' `added` under rule 5 remains defensible.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Finite verb.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Adjective.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Numeral.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    }
+  ],
+  "ref": "MAT.25.17",
+  "review_notes": [
+    "The supplied 'received*' is handled the same way here as in MAT.25.22, which has the identical verbless relative — rule 24's habit.",
+    "'also' is the one `added` unit: it answers to no token in this verse."
+  ]
+}

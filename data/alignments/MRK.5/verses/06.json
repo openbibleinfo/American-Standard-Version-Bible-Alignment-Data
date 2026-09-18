@@ -1,0 +1,131 @@
+{
+  "alignments": [
+    {
+      "note": "Coordinating καί takes the verse-opening And.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Circumstantial participle rendered as a finite clause; the supplied subordinator when and the subject pronoun he are rule 7/86 helpers on the participle, which carries the subordination. Head on the lexical verb saw per rule 17.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Article before a name with no English realization (rule 23); the ASV writes a bare Jesus.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Name aligned to its own English token, split from the article per rules 13 and 26.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The ASV writes from afar, so English realizes the preposition in its own word and the ordinary analysis applies. Rule 34's pleonastic reading is the contrast and is scoped to afar off, where no English word answers to ἀπό; here one does, so the preposition is aligned rather than unrepresented.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The adverb takes afar; the preposition stands on its own word (see s005).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Inflected finite verb takes its supplied subject pronoun as a rule 7/9 helper; head on the lexical verb ran.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Expressed καί coordinating the two finite verbs takes and; rule 88's supplied juncture is not in question, the conjunction being written in the Greek.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "The verb is rendered by the single word worshipped; the gloss column's fell on his knees is not the ASV's rendering here.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Accusative object pronoun rendered by him; the verb governs it directly and no English preposition is written for it.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    }
+  ],
+  "ref": "MRK.5.6",
+  "review_notes": [
+    "ἀπὸ μακρόθεν is split here rather than treated under rule 34, because the ASV writes from afar and not afar off: the preposition has its own English word, so leaving it unrepresented would deny it a realization the translation supplies. The competing reading, taking the pair as one idiom on μακρόθεν, remains defensible but would leave from unaccounted for.",
+    "τόν is left unrepresented as its own unit rather than grouped with Ἰησοῦν, per rules 13 and 23.",
+    "Both variant units (v007 covering s001–s002 and v008 covering s010) are underdetermined and resolved to the base reading, which the ASV's And when he saw … him fully translates, so neither rule 97 arm applies and no token is added or unrepresented on textual grounds."
+  ]
+}

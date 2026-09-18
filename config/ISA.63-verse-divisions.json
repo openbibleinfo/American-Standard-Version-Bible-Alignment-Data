@@ -1,0 +1,84 @@
+{
+  "schema_version": 2,
+  "chapter": "ISA.63",
+  "policy": "One Hebrew verse's words fill two different ASV places here. Read both texts, find the Hebrew word the second part begins at, and record its 1-based position within the Hebrew verse together with its consonants. The targets and the notes beside them are derived from the versification table; only the position is a judgment. The build checks the position and the consonants against each other and refuses the chapter until every entry is resolved.",
+  "divisions": [
+    {
+      "source_verse": 19,
+      "status": "resolved",
+      "first_target": "ISA.63.19",
+      "first_target_is": "the whole of ASV ISA.63.19",
+      "second_target": "ISA.64.1",
+      "second_target_is": "outside this chapter: ISA.64.1 aligns it, and ISA.63 drops it",
+      "second_begins_at_word": 10,
+      "second_begins_with": "לוא",
+      "evidence": "ASV Isaiah 63:19 renders words 1-9 of Hebrew verse 19 (הָיִינוּ ... עֲלֵיהֶם) as “We are become as they over whom thou never barest rule, as they that were not called by thy name.” Word 10, לוּא, begins ASV Isaiah 64:1, “Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might quake at thy presence,” which lies in the next ASV chapter and is not aligned here. The seven words from לוּא to נָזֹלּוּ are the material this chapter drops.",
+      "hebrew_words": [
+        {
+          "word": 1,
+          "text": "הָיִ֗ינוּ"
+        },
+        {
+          "word": 2,
+          "text": "מֵֽ/עוֹלָם֙"
+        },
+        {
+          "word": 3,
+          "text": "לֹֽא"
+        },
+        {
+          "word": 4,
+          "text": "מָשַׁ֣לְתָּ"
+        },
+        {
+          "word": 5,
+          "text": "בָּ֔/ם"
+        },
+        {
+          "word": 6,
+          "text": "לֹֽא"
+        },
+        {
+          "word": 7,
+          "text": "נִקְרָ֥א"
+        },
+        {
+          "word": 8,
+          "text": "שִׁמְ/ךָ֖"
+        },
+        {
+          "word": 9,
+          "text": "עֲלֵי/הֶ֑ם"
+        },
+        {
+          "word": 10,
+          "text": "לוּא"
+        },
+        {
+          "word": 11,
+          "text": "קָרַ֤עְתָּ"
+        },
+        {
+          "word": 12,
+          "text": "שָׁמַ֨יִם֙"
+        },
+        {
+          "word": 13,
+          "text": "יָרַ֔דְתָּ"
+        },
+        {
+          "word": 14,
+          "text": "מִ/פָּנֶ֖י/ךָ"
+        },
+        {
+          "word": 15,
+          "text": "הָרִ֥ים"
+        },
+        {
+          "word": 16,
+          "text": "נָזֹֽלּוּ"
+        }
+      ]
+    }
+  ]
+}

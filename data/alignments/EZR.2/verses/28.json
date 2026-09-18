@@ -1,0 +1,131 @@
+{
+  "alignments": [
+    {
+      "note": "Construct noun *men*. The chain's single *the* is fronted from the rectum's article under rule 29, so none is supplied here and this unit takes only its own word.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "First element of the compound place name, with the chain's *of* (rule 19).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Second element of the compound place name.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Conjunction (rule 14).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Article on hā-ʿāy, the second member of the rectum. It takes the *the* the ASV writes for the chain, fronted to the phrase's left edge while *Ai* is rendered anarthrously (rule 29); the unit is a single token realized out of position, which rule 25 allows. The accepted alignment marked it `unrepresented`, but rule 29 permits that only where the ASV writes no *the* for the phrase at all, and it writes one. Competing reading, which is genuinely available here as it is not in a simple chain: the rectum's first member Beth-el is anarthrous and already definite, so the chain's definiteness need not come from this article and the *the* could be a supplied one on the construct with the article lexicalized in the toponym. I took the fronting reading because a present article morpheme takes the English *the* before a supplied one does.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Proper name.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Dual māʾṯayim → *two hundred*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Numeral.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Waw between the same pair of numerals as the English *and* (rule 42).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Numeral.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    }
+  ],
+  "ref": "EZR.2.28",
+  "review_notes": [
+    "Corrected the disposal of the article hā on ʿAy for the same reason as the article on the rectum elsewhere: the ASV does write a *the* for this chain, so rule 29's narrow condition for `unrepresented` is not met and the present article takes it ahead of a supplied one.",
+    "The competing reading is stronger here than in a simple chain, because the article stands on the second conjunct of a compound rectum whose first member is an anarthrous proper name; it is recorded in full in the s005 note."
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "c74aca20ec28a5ec888daf11ac5fe8a98c85da8cf2c9cf7ea4d871dbd861966c",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: s001–s011 and t001–t014 each appear exactly once; every unit has nonempty source and target with heads inside their arrays.",
+    "Anarthrous κύριος: the supplied 'the' is correctly a rule 7/51 helper on the noun (no Greek article competes), headed on 'Lord' per rule 17.",
+    "Supplied subject pronouns 'he' on παιδεύει and παραδέχεται are rule 9 helpers on their own inflected verbs, headed on the lexical verb; μαστιγοῖ correctly stands alone since the ASV does not repeat the pronoun there. Reading the resumptive 'he' as folding back onto κύριος under rule 103's pronoun clause is the competing analysis, but the verb's own inflection licenses it and rule 9 is the direct case.",
+    "Postpositive γάρ and δέ are aligned to the clause-initial 'For' and 'And' with discontinuity permitted by rule 15; the 'And' at t008 answers to an expressed conjunction, so rules 88/98 are not in question.",
+    "πάντα stands with an expressed noun and no negator or substantival article, so rules 80 and 87 do not reach it; rule 26 correctly keeps 'every' and 'son' as separate pairs."
+  ],
+  "ref": "HEB.12.6",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

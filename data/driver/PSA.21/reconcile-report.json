@@ -1,0 +1,26 @@
+{
+  "chapter": "PSA.21",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Double-accusative verbs (שית + object suffix + second accusative in 21.6, 21.9, 21.12; קדם + suffix + accusative in 21.3): the verb keeps only its subject pronoun, auxiliary and lexical verb (make, meetest), and the whole English of the second accusative stays with that noun — most blessed (21.6, rule 31), as a furnace (21.9, כ written), turn their back (21.12, noncompositional under rule 2), with the blessings (21.3, supplied with to the bare nominal under rule 33 because the suffix already holds the direct-object role). The verb never absorbs the predicate complement."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 14 verses end to end against the 12 candidate groups. No cross-verse split found: every multi-treatment bucket is the ASV rendering one word differently (thy/thee, in/through/with, O Jehovah vocative vs bare subject, שית make/settest, מן from / from among / of, פנים presence/face vs the sense rendering anger in 21.9), and each difference is licensed by what the ASV wrote.",
+    "ל split (21.3 on vs 21.8 unrepresented) is correct: 21.3 לראשו has a written on; 21.8 לכל־איביך is the object-marking ל the ASV renders as a bare object (rule 40).",
+    "The five added units are each the case their rule names: it (21.4, supplied object, rule 44), Even (21.4, appositional even before a phrase no marker stands on, rule 16), which (21.11, relative over a finite clause juxtaposed to a written antecedent, rules 46/55), to perform (21.11, supplied lexical complement, rule 20, one unit under rule 2), So (21.13, resumptive connective for an asyndetic clause, rule 14). No verse folds any of these into a neighbour, so the added side is consistent too.",
+    "The one noncompositional unit (21.12 שכם → turn their back) differs in status from 21.6 ברכות → most blessed (aligned), but the shapes differ: most blessed is a modifier completing the substantive under rule 31, while turn their back is an idiom the ASV recast whole with a verb and a possessive no morpheme owns, which is rule 2's noncompositional case; both notes name the competing reading. Left as accepted.",
+    "BSB disagreements (4): 21.2 and 21.4 dative ל before a bare indirect object, 21.8 object-marking ל, 21.13 paragogic he (Sh). All are documented convention differences (rules 40, 32); none is an error.",
+    "Heads under review: 21.0 Chief Musician on Musician, 21.3 fine gold on gold, 21.7 Most High on High, 21.8 right hand on hand, 21.10 from among on from — each a rule-31/24 tie the verse note records with its competing head. No corpus request spent; the notes already carry what rule 8 asks.",
+    "No promotion: the chapter taught nothing the contract does not already say."
+  ]
+}

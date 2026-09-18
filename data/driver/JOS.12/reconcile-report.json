@@ -1,0 +1,27 @@
+{
+  "chapter": "JOS.12",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "A proper name MACULA segments into two source tokens is aligned token for token rather than kept whole as one unit, and the relational word the chain writes for it goes to the first element, which is the word that English word stands before. Beth-jeshimoth at 12.3 takes *to Beth* and *jeshimoth*; Beth-el takes *of Beth* and *el* at 12.16 and a bare *Beth* and *el* at 12.9, where mi-tsad already carries the relation as *is beside*; Shimron-meron takes *of Shimron* and *meron* at 12.20; Baal-gad takes *Baal* and *gad* at 12.7, the min beside it keeping its own *from*. Each element holds an English word of its own, so rule 2 prefers the split and rule 30's one-rendering condition is not met. Keeping such a name as a single two-token unit was the competing reading, named in the review notes at 12.3 and 12.16."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v156",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 23 candidate lemma groups. Every bucket with more than one treatment is licensed by the printed ASV or by a difference in the source, not by a split analysis.",
+    "The article on a construct chain's rectum is the construction worth verifying at chapter scale, and it is consistent across all fourteen chains. Two written *the*s: each morpheme takes the one standing before its own word (12.1 *the kings of the land*, 12.2 *the middle of the valley*, 12.3 *the sea of the Arabah*, 12.4 *the remnant of the Rephaim*, 12.5 *the border of the Geshurites*). One written *the* with an anarthrous rectum: the article takes it fronted and the construct goes bare (12.3 *the slopes of Pisgah*, 12.6 *the half tribe of Manasseh*, 12.7 *the valley of Lebanon*, 12.9 *the king of Ai*). No *the* at all: unrepresented (12.2 and 12.5 *half Gilead*, 12.4 and 12.5 *Bashan*, 12.7 *mount Halak*). JOS.12.6 was corrected to the fronted reading by its own verse pass and now agrees with the other three.",
+    "Other candidate groups: melek is bare *king* only where the ASV writes no *the*, which is the appositional use after a personal name in 12.2, 12.4 and 12.5, and *the king* throughout the list verses. The waw before a limit preposition divides as rule 16 directs in 12.2 and 12.7, the waw taking the bare *even* and 'ad taking *unto*; the same pair written *and unto* in 12.3 divides identically. The b- prepositions rendered *in*/*at*, min rendered *from*/*of* (the second partitive, at 12.4), the article rendered *who*/*that*, the directive he rendered *to*/*toward*, and every place-name lemma follow the printed English.",
+    "Read the dump end to end for a split the lemma table cannot see, since it is blind to added units. The three are 12.2 t010 *and*, 12.2 t026-t030 *the city that is in*, and 12.3 t017 *even*. Counting the chapter's connectives, appositional *even*s, copulas and supplied determiners against the morphemes present, no comparable supplied word is folded into a neighbouring unit anywhere: every other *and* answers to a waw, every other *even* to a waw standing before a limit preposition, every copula to a predicate morpheme, and every supplied *the* or *a* to the nominal it determines.",
+    "Two single-verse calls were reviewed and kept, both already carrying review notes. At 12.2 the italic *the city that is in* stays one added unit: the *in* belongs to the wholly supplied relative predication about a supplied *city*, not to tavek's own case-function, so rule 33's first sentence does not reach it, which is what distinguishes it from the supplied *for* of *for a possession* at 12.6 and 12.7 that does go to the bare noun. At 12.18 the *of* rightly joins the fused la-ha-sharon / *Lassharon* unit, because the lamed whose relation that word states is a morpheme inside the unit (rule 11), and the article and preposition are both spelled into the transliteration exactly as rule 29 reads Hassophereth.",
+    "BSB: no genuine error among the eight disagreements. Six are articles the ASV writes no *the* for, which rule 29's last sentence marks unrepresented while BSB attaches them to their noun. The other two are the second and third lamed of 12.6, where the ASV writes one *unto* for three coordinated phrases and rules 22 and 40 leave the repeated occurrences unrepresented.",
+    "Conventions: one recorded, on multi-token place names. The 34 repeated notes the validator lists are applications of rules 19, 28, 29 and 41, which already bind every verse, so logging them would bury the one judgment a later reader actually needs.",
+    "Promotions: none. The chapter's novelties (the transliterated preposition at 12.18, the three-way distributed lamed at 12.6) are single occurrences with no corpus evidence behind them, and the *even unto* case it exercises was already written into rule 16 from JOS.11."
+  ]
+}

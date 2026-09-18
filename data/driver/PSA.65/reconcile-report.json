@@ -1,0 +1,24 @@
+{
+  "chapter": "PSA.65",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Verbs of clothing and girding (לָבַשׁ 65.13, חָגַר 65.12, עָטַף 65.13) take the thing worn as a bare accusative; where the ASV recasts them passive (are clothed with, are girded with, are covered over with) the supplied with is the English verb's reach to its own object and joins the verb's unit under rule 44, the noun keeping only its own word. Rule 33's instrumental reading was considered and rejected in each verse because the noun is the verb's direct object. The phrasal about/over of girded about and covered over is kept with the verb as its fixed phrasal rendering, competing reading added."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 14 candidate lemmas. Every multi-treatment bucket is the ASV writing a different word for a different context (בְּ with/by, לְ for/unto, Sp3mp their/them where 65.9 recasts a possessive as an indirect object, הַ the/unrepresented where 65.13 writes no the for flocks, אֶרֶץ with and without its article). None is a split.",
+    "Read the dump end to end for added-vs-folded splits. The three added units (65.3 As for, 65.4 unto thee and That) each answer to no morpheme and no other verse folds the same kind of word into a neighbour: 65.5 Thou that art and 65.2 O thou that are recastings of a written nominal (rules 46, 36), not a bare supplied subordinator.",
+    "The supplied with of passive recastings is handled one way throughout: 65.12 girded with, 65.13 clothed with and covered over with all give the preposition to the verb because the Hebrew noun is the verb's bare direct object (rule 33's direct-object question sending it to rule 44); 65.11 with thy goodness is a construct chain and rule 19's. Phrasal particles about (65.6) and over (65.13) are both kept with the verb.",
+    "BSB disagreements: 65.11 paragogic nun (rule 32) and 65.13 unrendered article on הַצֹּאן (rule 29) are both documented convention differences, not errors.",
+    "No promotion or amendment: the chapter applied existing rules and taught nothing the contract lacks."
+  ]
+}

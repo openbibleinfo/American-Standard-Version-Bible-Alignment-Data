@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "chapter": "2TI.1",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.2TI.1.1.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 1:1 reads \"an apostle of Christ Jesus\"; the English word order renders Χριστοῦ Ἰησοῦ, not the transposed Ἰησοῦ Χριστοῦ of r01."
+    },
+    {
+      "unit_id": "SBLGNT.2TI.1.5.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 1:5 renders the participle with completed aspect, \"having been reminded of the unfeigned faith\", which answers the aorist λαβών; the present λαμβάνων of r01 yields the iterative \"when I call to remembrance\" that ASV declined to keep."
+    },
+    {
+      "unit_id": "SBLGNT.2TI.1.10.v003",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 1:10 reads \"our Saviour Christ Jesus\"; the order Χριστοῦ Ἰησοῦ is r01, against the base Ἰησοῦ Χριστοῦ."
+    },
+    {
+      "unit_id": "SBLGNT.2TI.1.11.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 1:11 ends \"and a teacher.\" with nothing rendering ἐθνῶν and no italicized supply, so the shorter διδάσκαλος stands; r01's \"a teacher of the Gentiles\" would be visible in the English."
+    },
+    {
+      "unit_id": "SBLGNT.2TI.1.17.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 1:17 reads \"he sought me diligently\", a positive adverb answering σπουδαίως; the comparative σπουδαιότερον of r01 would give \"the more diligently\"."
+    }
+  ]
+}

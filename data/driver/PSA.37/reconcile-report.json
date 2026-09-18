@@ -1,0 +1,28 @@
+{
+  "chapter": "PSA.37",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "PSA.37.12"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Where a Hebrew verb's bare direct object is recast by the ASV as an instrument or an oblique (upholdeth him with his hand 37.24, gnasheth upon him with his teeth 37.12, feed on 37.3, prospereth in 37.7, delighteth in 37.23, talketh of 37.30), the supplied preposition goes to the verb's unit and the noun keeps only its own word; the chapter reads none of these as rule 33's instrumental or adverbial accusative, since in each the noun is what the Hebrew verb governs.",
+    "Phrasal particles in this chapter are read as completing the verb's lexeme and stay with the verb (rule 44): cut down for מלל 37.2, drawn out for פתח 37.14, cast down for הִפִּיל 37.14 and the hophal of טול 37.24, consume away for כלה 37.20, payeth again for שלם 37.21, passed by for עבר 37.36. Marking the particle added was the competing reading only for 'drawn out', and the note there records it."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 47 candidate lemmas end to end. The waw, suffix, preposition, כִּי and article groups are the ASV rendering one morpheme by context (For/Yea/But/Nor/also, of/in/at/against, the/none), each licensed by the source or by rule 40 silence; none is a split.",
+    "One real split: PSA.37.12 gave the supplied 'with' of 'gnasheth upon him with his teeth' to שִׁנָּיו under rule 33 as an instrumental accusative, while PSA.37.24 (after review) gives the same recasting's 'with' in 'upholdeth him with his hand' to the verb under rule 33's direct-object paragraph and rule 44. שִׁנַּיִם is the bare direct object of חרק in Hebrew (Lam 2:16 חָרְקוּ־שֵׁן, Ps 35:16), exactly as יָדוֹ is of סמך, so the preposition is the verb's. Patched 37.12; unit heads unchanged (gnasheth, teeth).",
+    "Bare-object recastings elsewhere in the chapter (feed on 37.3, prospereth in 37.7, wait for 37.9, delighteth in 37.23, talketh of 37.30) already give the preposition to the verb and agree with the patch.",
+    "BSB disagreements are all convention: paragogic nun (37.2, 37.9, rule 32), dative/possessive לְ and עַל left bare (37.4, 37.10, 37.32, rule 40), the lexicalized 1cs suffix of אֲדֹנָי (37.13, rule 57), and the waw of 37.38 for which the ASV writes no connective while 'As for' is added under rule 16. No genuine error among them.",
+    "Debatable but recorded verse-pass choices left standing with their notes: גַּם → 'and now' (37.25), 'one' as subject pronoun of יַּעֲבֹר (37.36), 'utterly' inside the hophal's rendering (37.24), 'drawn out' whole on פתח (37.14), 'that' added beside the possessive לַ (37.16). None is a cross-verse split.",
+    "No contract promotion or amendment: the chapter taught nothing the contract does not already state."
+  ]
+}

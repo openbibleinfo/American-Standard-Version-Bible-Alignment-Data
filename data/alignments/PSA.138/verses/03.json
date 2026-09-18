@@ -1,0 +1,167 @@
+{
+  "alignments": [
+    {
+      "note": "Preposition rendered 'In'.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The noun is absolute and no article morpheme is segmented, so the supplied 'the' joins the noun's unit under rule 15.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The ASV supplies a relative over the asyndetic temporal clause; 'day' is a written antecedent, so rule 46 does not reach it and no morpheme in the clause licenses the word (rule 55). Not folded into the preposition, which already holds 'In', nor into the noun.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Finite verb with its subject pronoun (rule 17).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The apodosis waw is left unrendered: the ASV opens 'thou answeredst me' bare (rule 14). The supplied 'that' stands ahead of the temporal clause, not at this clause's head, so it is not this waw's.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Finite verb with its subject pronoun.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Object suffix realized by 'me'.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Finite verb with subject pronoun and auxiliary, headed on the lexical verb.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Object suffix realized by 'me'.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Preposition rendered 'in'.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Noun 'soul'.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Suffix realized by 'my'.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Bare adverbial accusative; the supplied 'with' states what the noun contributes and belongs to it under rule 33, never as head.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "PSA.138.3",
+  "review_notes": [
+    "The supplied 'that' and the unrendered waw are the two sides of one count under rule 14's closing sentences and rule 55.",
+    "'with strength' is placed by rule 33 rather than rule 44, since no verb governs the noun as its object here."
+  ]
+}

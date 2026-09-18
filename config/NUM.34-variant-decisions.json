@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "chapter": "NUM.34",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.NUM.34.4.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The clause is rendered 'and the goings out thereof shall be southward of Kadesh-barnea', with no ASV note attached. English verb number here follows its own plural subject 'goings out' (plural תוצאתיו), so it reflects the noun, not the Hebrew verb: the plural qere וְהָיוּ and the singular ketiv והיה both yield exactly this English, since Hebrew freely admits a singular verb before a plural subject. Nothing in the ASV wording, italics, or notes distinguishes the two; the qere base fallback carries the projection."
+    }
+  ]
+}

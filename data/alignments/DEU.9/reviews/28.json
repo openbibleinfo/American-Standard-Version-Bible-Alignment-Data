@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "f322511334c4b8a713afedd197f8930b0656ab9074ad76381705da3b7dbe2681",
+  "contract_version": "ot-hebrew-verse-v128",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Flagged large-source unit `אֲשֶׁר` + `מִ` + `שָּׁם` → *whence* is retained: the single English word carries the relative, the ablative and the resumptive place adverb, so rule 30's one-word condition is met and no morpheme is left over to mark; headed on the relative per rule 22, discontinuous in the source under rule 25.",
+    "Partition verified: 37 source and 41 target IDs each used once across 35 units.",
+    "`מִבְּלִי` is split because the ASV writes a word for each: the privative preposition takes the complementizer *Because* and the present negative morpheme the *not* (rule 48's `מֵאֵין` sentence), leaving `יְכֹלֶת` its *was … able*."
+  ],
+  "ref": "DEU.9.28",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

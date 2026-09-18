@@ -1,0 +1,30 @@
+{
+  "chapter": "MAT.15",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "MAT.15.37"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Where the ASV writes a single determiner for a coordinated list of anarthrous substantival adjectives, the determiner is folded onto the first member and the remaining members stand bare: 15.30's 'the lame, blind, dumb, maimed' gives 'the' to cholous and leaves typhlous, kophous and kyllous their own bare words. Where the ASV instead writes a determiner before each member it is folded onto the member it determines, as 15.31's four 'the's and 15.14's two are. Rule 51's anarthrous clause decides both; the count of English determiners the ASV wrote is what distributes them.",
+    "For a pros-compound verb of motion or calling, the English 'to him' or 'unto him' goes to a dative pronoun where one stands in the Greek and rides inside the verb's own unit where none does. 15.30 prosēlthon autoi gives a bare 'there came' to the verb and 'unto him' to the pronoun under rule 106's oblique-case arm, while 15.10 and 15.32 proskalesamenos keep 'called to him' and 'called unto him' whole, no source token standing for the supplied pronoun. Read the source for a dative before assigning the phrase.",
+    "15.36's verse-opening 'and' is folded onto elaben as rule 88's juncture even though the circumstantial participle it converts, parangeilas, stands in 15.35. Rule 86 already names a conjunction or licensing token expressed elsewhere in the sentence, and the Greek sentence runs across the ASV verse boundary here; the juncture belongs to the finite verb it introduces, which is in this verse. Marking it 'added' under rule 5 would have read the verse boundary as a sentence boundary."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v100",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "One correction. MAT.15.37 s010 kept its head on 'broken'; the corpus spends 'pieces' on klasma in all eight of its units across five chapters and 'broken' in none, MAT.14.20 in this same book among them with the reasoning spelled out. Rules 84 and 91 leave the head not in doubt against an unbroken line, so the head moves to t019 'pieces' and the unit's hedge is withdrawn. The edge partition is untouched; only the head and the note change.",
+    "Cross-verse consistency: no splits found. The article's 74-occurrence T-to-N bucket divides on rule 20's second arm versus rule 20 proper. The article takes a supplied possessive at 15.4, 15.5 and 15.8, and is unrepresented at 15.2, 15.6, 15.13, 15.22, 15.23, 15.28, 15.30 and 15.32 where a free genitive pronoun stands. 15.8 turns on rule 76's availability test: auton is already spent on the second 'their', so the first is the article's. Supplied demonstratives divide the same way, rule 60 at 15.12 against rule 38 at 15.8, 15.22 and 15.28. The two-article possessive phrases at 15.26 and 15.27 agree under rules 20 and 57: the inner article takes the determiner the ASV writes on the possessor at 15.26, and is emptied at 15.27 only because auton has already taken it.",
+    "Preverb handling under rule 106 is uniform across 15.11, 15.13, 15.17, 15.18, 15.19, 15.21, 15.22, 15.23, 15.29, 15.32, 15.35, 15.37 and 15.39: an expressed ek takes 'out of' whole, and the verb keeps a written particle only where the ASV wrote one in addition, which is why ekporeuomai goes bare at 15.11 and 15.18 while exerchomai keeps 'forth' at 15.18 and 15.19. The pros-compounds divide on whether a dative pronoun stands to answer to the preverb: 15.30 gives 'unto him' to autoi, while 15.10 and 15.32 keep the supplied 'to him' and 'unto him' inside the verb. Accusative objects stay bare at 15.23, 15.30, 15.32 and 15.39.",
+    "The chapter carries no 'added' unit at all, so the candidate table's blindness to them conceals nothing here. I read the five supplied-word folds end to end for a hidden split and they are one policy, each naming its competing reading: 'to God' at 15.5, 'as their' at 15.9, 'even' at 15.16, 'it' at 15.26, and the verse-opening 'and' at 15.36. The last is licensed from outside the verse, the converted participle standing in 15.35; rule 86 already names a conjunction expressed elsewhere in the sentence as a licensing token, so nothing in the contract had to be stretched to reach it.",
+    "The four BSB disagreements are all documented convention differences and none is an error. 15.5 ean is rule 72's generalizing particle, which that rule says in terms is not a correction. 15.22 ton and 15.28 tes are emptied by an attributive demonstrative under rule 38. 15.26 ton is emptied by the prenominal possessive 'the children's' under rules 20 and 57.",
+    "Heads reviewed separately from edges per rule 28. The compound and denominal families agree with each other and with rules 66, 91 and 104: kakolog- heads the verbal core 'speaketh' at 15.4, pseudomartyria heads 'witness' at 15.19, tetrakischilioi heads 'thousand' at 15.38, and the support frames of eleeo, splanchnizomai, daimonizomai and eucharisteo all head the root-glossing complement at 15.22, 15.32 and 15.36. Two heads remain genuinely open and their own notes already say so: aphete as 'Let alone' at 15.14, and hemin as 'should we have' at 15.33, the latter matching the corpus's 'have we to do' units on the dative pronoun.",
+    "No promotions and no amendments. The one apparent gap, rule 88's juncture reaching across a verse boundary at 15.36, is already answered by rule 86's own wording, so widening rule 88 would have added a cross-reference where nothing was missing."
+  ]
+}

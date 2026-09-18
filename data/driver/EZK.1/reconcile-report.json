@@ -1,0 +1,31 @@
+{
+  "chapter": "EZK.1",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "כְּעֵין is one unit wherever the ASV spends no separate English word on עַיִן — *as it were* (1.4, 1.27), *like* (1.7), *like unto* with the verbless clause's copula (1.16) — headed on the lexeme-bearing עַיִן. It is split only at 1.22, where the ASV writes *to look upon* for the noun and *like* for the preposition, so rule 30's one-rendering condition is unmet and rule 2 divides it.",
+    "The chapter's verbless possessive clauses are read three ways, by what stands in the Hebrew and what the ASV wrote. Where a possessive לְ is present and the ASV writes *had*, the לְ carries it and the suffix takes the subject pronoun (1.6, 1.8, 1.10, 1.16, 1.18, 1.23). Where the לְ is present but the ASV recasts the predicate — *a brightness round about it*, *the fire was bright*, *they were high*, *there was brightness* — the לְ is `unrepresented` under rule 40 and its suffix still takes the pronoun (1.4, 1.13, 1.18, 1.27). Where the clause holds no possessive morpheme at all, the supplied *they had* is `added` (1.8, 1.10); this is what distinguishes the first four-faces clause from the three that follow it.",
+    "Where the ASV recasts a pair of waw-consecutives as a temporal clause plus its apodosis — *Now as I beheld ... behold* (1.15), *And when I saw it, I fell* (1.28) — the opening waw takes the coordinator written for it (*Now*, *And*), the supplied subordinator (*as*, *when*) is `added` under rules 42 and 55, and the second waw is `unrepresented` because the ASV writes no connective for the clause it opens. The corpus elsewhere aligns a single waw to *and when*; rule 55's counting rule was followed here in preference to that precedent, and both verses were decided the same way.",
+    "The resumptive שָׁם/שָׁמָּה inside the אֶל/עַל אֲשֶׁר relative is `unrepresented`, the fused *whither* (1.12) and *Whithersoever* (1.20) carrying the direction once under rule 22; both fusions head on the relative. The main-clause שָׁמָּה of 1.20 is a different token and keeps its own *thither* with its directive he under rule 32.",
+    "The four-faces and four-wings formula לְאַרְבַּעְתָּם/לְאַרְבַּעְתָּן is partitioned the same way at 1.8, 1.10, 1.16 and 1.18: לְ takes *had*, the numeral construct takes *four*, and the suffix takes *they*, discontinuous where the ASV reorders them. At 1.15 the same numeral construct in לְאַרְבַּעַת פָּנָיו instead takes *each of the four*, the ASV's *of* there being the distributive's partitive rather than rule 19's construct relation, which stays with פָּנָיו."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v62",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 28 verses end to end against the 47-lemma candidate table and, separately, against the 7 `added` units, which the table cannot see. No construction is analysed two ways without something in the source or the ASV licensing the difference, so patches is empty.",
+    "The largest candidate is כְּעֵין: fused as one unit at 1.4 and 1.27 (*as it were*), 1.7 (*like*) and 1.16 (*like unto*, carrying the clause's copula), and split only at 1.22, where the ASV writes *to look upon* for עַיִן itself. That is rule 30's one-English-rendering condition failing, exactly as לִפְנֵי → *to meet* fails it, so 1.22 is not a departure. Every fused unit heads on the lexeme-bearing token.",
+    "Possessive לְ is consistent across its eleven occurrences: *had* where the ASV writes it (1.6, 1.8, 1.10, 1.16, 1.18, 1.23) with the suffix taking the subject pronoun under rule 43, and `unrepresented` where the ASV recasts the predicate instead (1.4, 1.13, 1.18, 1.27) under rule 40. The two `added` *they had* units at 1.8 and 1.10 sit in the clauses that hold no possessive morpheme at all, so the asymmetry tracks the Hebrew and is not a split.",
+    "Rule 29's article counting holds everywhere. A single written *the* goes to the article on the rectum where the rectum is rendered anarthrously (1.13 *the appearance of torches*, 1.14 *the appearance of a flash of lightning*, 1.28 *the day of rain*), and the construct takes a supplied *the* beside the article's own where the ASV writes two (1.16, 1.20, 1.21, 1.22, 1.26, 1.28). Rule 47's first-article reading is applied the same way at 1.2 and 1.22.",
+    "Waw counting at 1.15, 1.18 and 1.28 is internally consistent, and the compound prepositional expressions — מִלְמָעְלָה, מֵעַל, מֵעַל לְ / מִמַּעַל לְ, מִתַּחַת, בְּתוֹךְ, לְעֻמַּת, אֶל־עֵבֶר פָּנָיו, אֶל/עַל אֲשֶׁר, כַּאֲשֶׁר — are fused under rule 30 at every one of their occurrences, with the head on the lexeme-bearing morpheme throughout.",
+    "BSB: 22 disagreements, none a genuine error. Six Td are articles for which the ASV writes no *the* (rule 29); four R and the two Sp3fs/Sp3ms suffixes are morphemes the ASV's recasting silences (rules 40, 22); the אֵת at 1.11 is rule 16; the resumptive שָׁם/שָׁמָּה at 1.12 and 1.20 is rule 22; the three waws at 1.15, 1.18 and 1.28 are the surplus rule 42 disposes of. Each is the documented convention difference, not a candidate correction.",
+    "One tension recorded rather than patched: the corpus aligns a single waw to *and when* in 27 units, which would absorb the `added` *as* (1.15) and *when* (1.28) into the opening waw. Rule 55 forbids that fold in terms — count the clause's conjunctions against the ASV's subordinators and mark the surplus, and do not fold it into the waw that opens the clause. Both verses applied that rule and agree with each other, so they stand; a later reader who wants to revisit it should revisit rule 55, not these two verses.",
+    "Nothing here generalises past what the contract already says. Rule 20's presentative amendment carried the *there was* of 1.22 and 1.27, rule 41's articleless-attributive paragraph carried the *which covered* of 1.23, rule 45 carried the *that* of 1.1, and rule 30's subtraction test carried the whole כְּעֵין boundary. Promotions and amendments are empty."
+  ]
+}

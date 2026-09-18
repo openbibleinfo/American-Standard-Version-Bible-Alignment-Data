@@ -1,0 +1,146 @@
+{
+  "alignments": [
+    {
+      "note": "Postpositive connective.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Attributive comparative adjective.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Imperative.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Postpositive causal conjunction.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Temporal conjunction.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Support-verb rendering of one compound verb: rule 17's meaning-bearing complement heads on *wanton*, *waxed* carrying none of the lexeme, with the supplied subject and auxiliary riding along under rules 7 and 9. The supplied *against* is not part of this unit: it realizes the genitive the verb governs and belongs to that governed word, as rule 36 refuses to read a preposition off a verb merely because English idiom makes it phrasal.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Article before a name, with no English realization (rule 23).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive object of `καταστρηνιάω`: the supplied *against* realizes the case and, the article being `unrepresented`, stays with the noun under rule 21's determinerless clause, exactly as `ἁμαρτίαις` → *of sins* does at 5:22 and the genitive after `κοινωνέω` and `προνοεῖ` does at 5:22 and 5:8. Reading *against* as the English verb's own particle on `καταστρηνιάσωσιν` remains defensible, but the chapter puts a supplied case preposition on the governed side throughout.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Finite verb with its supplied subject.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Rule 61: no preposition governs the infinitive, so the infinitival *to* is its own helper.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "1TI.5.11",
+  "review_notes": [
+    "Corrected: *against* moved from the verb's unit to `Χριστοῦ`. A supplied case preposition governing an expressed Greek word rides with that word (rules 21, 23) or with an article that takes a determiner; the chapter does this at 5:8 (*for his*), 5:9 (*of one man*), 5:17 (*of honor*) and 5:22 (*of … sins*), and rule 36 forbids reading the preposition onto the verb merely because *wax wanton against* reads as phrasal.",
+    "5:10's `ἐξενοδόχησεν` → *used hospitality to strangers* keeps its *to* inside the verb unit only because no separate Greek token stands for it to attach to; here `Χριστοῦ` does stand.",
+    "The verb unit's head stays on *wanton*, the meaning-bearing complement, under rule 17."
+  ]
+}

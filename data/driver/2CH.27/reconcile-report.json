@@ -1,0 +1,27 @@
+{
+  "chapter": "2CH.27",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Regnal age formula `בֶּן` + numeral + `שָׁנָה`: the construct `בֶּן` carries the English *old* in every verse, and the copula follows what the Hebrew writes. 27:1 has no verb, so the construction-supplied copula joins `בֶּן` (*was ... old*, discontinuous around the numeral phrase under rules 20 and 25) and the explicit subject `יוֹתָם` takes only its own name; 27:8 writes `הָיָה`, which takes *He was* with its subject pronoun under rule 17 and leaves `בֶּן` the bare *old*. The two verses are not a split — read the clause for a written `הָיָה` before placing the copula.",
+    "`בַּשָּׁנָה הַהִיא` → *the same year* (27:5) writes two determiners for three candidate morphemes, so rule 41's count gives the noun's own article the *the*, gives the demonstrative pronoun the *same*, and leaves only the agreement article on the demonstrative `unrepresented`. Rule 41's own example `הַמָּקוֹם הַהוּא` → *that place* is the one-determiner case, where both articles are left with nothing; what separates them is how many determiners the ASV wrote, not that a demonstrative pronoun stands in the phrase."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v114",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all nine verses end to end against the 18 candidate lemma groups. Every multi-treatment bucket is licensed by something written in the source or in the ASV, so no cross-verse split was found and no verse is patched.",
+    "The one group that mattered is the regnal age formula. 27:1 `בֶּן עֶשְׂרִים וְחָמֵשׁ שָׁנָה יוֹתָם` is verbless, so the construction-supplied copula joins the predicate `בֶּן` (*was ... old*, discontinuous around the numerals) under rules 20 and 25, while `יוֹתָם` takes only its own name. 27:8 writes `הָיָה`, which takes *He was* under rule 17 and leaves `בֶּן` the bare *old*. The difference is in the Hebrew, not in the analysis; both shapes have corpus precedent (`בֶּן` → *was old* 14 units, → *old* 82).",
+    "`מָלַךְ` Vqp3ms→R differs the same way from the English side: the ASV writes *he reigned* at 27:1 and gaps the pronoun at 27:8 (*He was ... old ... and reigned*). Rule 17 attaches whatever subject pronoun is written, so the two units differ because the target does. Likewise `בָּנָה` at 27:3 (*built* after explicit `הוּא`, *he built* in the second clause) and every verb in 27:5, 27:6 and 27:9: wherever a Hebrew subject noun or pronoun is written the verb keeps only the lexical verb, and the chapter does this without exception.",
+    "The three-treatment `בְּ` Rd→Td bucket is three different English facts in two verses: 27:4 `בֶ[הַ]חֳרָשִׁים` → *in the forests* has a written *in*; 27:5 s018 `בַּ[הַ]שָּׁנָה` is *gave him the same year*, an adverbial accusative with no English preposition, so rule 40 silences it; 27:5 s042 `וּבַ[הַ]שָּׁנָה` is *in the second year ... and in the third*, one preposition whose scope English distributes over two coordinated phrases, both *in*s in one discontinuous unit under rule 25. The alternative there would supply a second `בְּ` the Hebrew does not write and leave t058 `added`.",
+    "The two `לְ` + suffix datives in 27:5 are read on their own terms — s014 unrepresented before the bare object *gave him*, s037 aligned to the written *unto* — which is rule 40's condition read as a condition and not as a lemma.",
+    "The lemma table is blind to `added`, so I read every supplied English word in the chapter separately. There are no `added` units and none is owed: each supplied *the* is counted against the article morphemes actually present (27:3 s007 and s012 take the phrase's one written *the* under rules 47 and 29's toponym rider; 27:7 has no article morpheme at all, so all four *the*s are supplied to their construct nouns), each supplied *of* stands on a rectum or a measure nominal (rules 19, 33), *a hundred* and *hill country* belong to the expressions they complete (rules 15, 31), and both *also*s answer to a waw that is present (rule 51). No word is folded in one verse that would be `added` in another.",
+    "BSB: all four disagreements are in 27:5 and all four are the documented convention difference, not errors. s014 `לְ` and s018 `בַּ` are recastings that spend no English word on the preposition (rule 40); s021 and s045 are agreement articles in phrases where the ASV writes fewer determiners than the Hebrew writes morphemes (rules 41, 47). BSB attaches each to its phrase by its own convention. Nothing here would be changed to move the 97.8% figure."
+  ]
+}

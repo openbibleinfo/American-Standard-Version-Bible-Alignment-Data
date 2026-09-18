@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "sources": {
+    "asv": {
+      "commit": "5c83ee265c75b3b1c056435eff622a875f1edc45",
+      "license": "Public domain",
+      "paths": [
+        "usx/01-GEN.usx",
+        "usx/11-1KI.usx",
+        "usx/19-PSA.usx",
+        "usx/23-ISA.usx",
+        "usx/43-JHN.usx",
+        "usx/49-EPH.usx",
+        "usx/66-REV.usx"
+      ],
+      "url": "https://github.com/openbibleinfo/American-Standard-Version-Bible.git"
+    },
+    "macula_greek": {
+      "commit": "8423afe47b9e8f24b7772e808af45c7159a6fe7e",
+      "license": "See upstream repository",
+      "paths": [
+        "SBLGNT/tsv/macula-greek-SBLGNT.tsv",
+        "SBLGNT/lowfat/04-john.xml",
+        "SBLGNT/lowfat/10-ephesians.xml",
+        "SBLGNT/lowfat/27-revelation.xml"
+      ],
+      "url": "https://github.com/Clear-Bible/macula-greek.git"
+    },
+    "sblgnt": {
+      "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+      "license": "CC BY 4.0",
+      "paths": [
+        "data/sblgnt/text/John.txt",
+        "data/sblgntapp/text/John.txt",
+        "data/sblgnt/text/Eph.txt",
+        "data/sblgntapp/text/Eph.txt",
+        "data/sblgnt/text/Rev.txt",
+        "data/sblgntapp/text/Rev.txt"
+      ],
+      "url": "https://github.com/Faithlife/SBLGNT.git"
+    },
+    "sblgnt_tei": {
+      "commit": "2a95589b2a9cb9b8bda5372650c7f55745ceecad",
+      "license": "See upstream repository; transformed SBLGNT content",
+      "paths": [
+        "xml/sblgnt_tei.xml",
+        "SBL_Errata.txt"
+      ],
+      "url": "https://github.com/jjmccollum/sblgnt-tei.git"
+    }
+  }
+}

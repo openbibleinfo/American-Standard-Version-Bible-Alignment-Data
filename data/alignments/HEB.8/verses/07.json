@@ -1,0 +1,158 @@
+{
+  "alignments": [
+    {
+      "note": "γάρ → *For*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Conditional εἰ → *if*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Demonstrative ἐκείνη → *that*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Rule 38: the demonstrative already occupies the English determiner slot, so the article realizes nothing.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Substantival πρώτη with the italicized *covenant* supplied as its generic completion; rule 17's generic-noun clause keeps the head on the adjective. Giving *covenant* to the article instead is the competing reading, but rule 38 has already emptied that article.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "ἦν → *had been*, headed on the lexical copula under rule 9.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "ἄμεμπτος → *faultless*, a single English word glossing the lexeme, so rule 84's *without* frame is not in question.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Rule 50: the modal particle takes the English modal of the counterfactual apodosis; the supplied *then* rides with it as a rule 7 helper, since the particle is what licenses the apodosis frame.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "οὐκ carries the clause's negation, written once as *no* before the anarthrous τόπος.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "τόπος → *place*, the negation having gone to οὐκ.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "ἐζητεῖτο → *have been sought*, headed on the lexical participle under rule 9.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Substantival δευτέρας: the supplied determiner is its own under rule 58, and with no article to anchor it rule 21's determinerless clause leaves the case preposition *for* on the word itself.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    }
+  ],
+  "ref": "HEB.8.7",
+  "review_notes": [
+    "ἡ is `unrepresented` under rule 38, the demonstrative ἐκείνη taking *that*; the supplied *covenant* goes to the substantival πρώτη with the alternative named.",
+    "οὐκ takes *no* and ἄν takes *then would* under rule 50."
+  ]
+}

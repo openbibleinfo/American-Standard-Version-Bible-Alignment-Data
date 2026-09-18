@@ -1,0 +1,182 @@
+{
+  "alignments": [
+    {
+      "note": "Distributive `אִישׁ` with the supplied determiner *every*, which no other morpheme in the clause licenses (rule 15).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Supplied lexical verb *shall give*: the Hebrew clause is verbless and no morpheme is there to carry it (rule 20's supplied-lexical-verb clause).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Comparative preposition rendered *as*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Suffix realized by the subject pronoun of the recast clause (rules 18, 40).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "`מַתְּנַת יָד` is recast as the predicate *is able*, in which no English word realizes either noun's lexeme; the construction's copula joins the whole expression (rules 20, 30) and the anchor is *able*. Source head is the construct noun, the syntactic head of the pair.",
+      "source": [
+        "s003",
+        "s004"
+      ],
+      "source_head": "s003",
+      "status": "noncompositional",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "`כְּ` → *according to*, a compound preposition of which no morpheme owns a part, headed on the content word (rules 24, 30).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Construct noun with a supplied *the*; no article morpheme stands in the chain (rule 29).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Rectum with its relational *of* (rule 19).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Construct noun.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Suffix takes *thy*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Relative takes *which*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Verb with subject pronoun and auxiliary.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Dative `לְ` rendered as a bare English indirect object (rule 40).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Suffix takes *thee*.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    }
+  ],
+  "ref": "DEU.16.17",
+  "review_notes": [
+    "The ASV's own margin gives the literal *according to the gift of his hand*; the running text recasts the whole construct chain as *is able*, which is why `מַתְּנַת יָד` is marked `noncompositional` while the suffix keeps the subject pronoun it is realized by.",
+    "*shall give* is `added`: the Hebrew writes no verb in this clause at all."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["ref", "verdict", "alignments", "review_notes"],
+  "properties": {
+    "ref": {"type": "string"},
+    "verdict": {"type": "string", "enum": ["unchanged", "corrected"]},
+    "alignments": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "source", "source_head", "target", "target_head",
+          "status", "note"
+        ],
+        "properties": {
+          "source": {"type": "array", "items": {"type": "string"}},
+          "source_head": {"type": ["string", "null"]},
+          "target": {"type": "array", "items": {"type": "string"}},
+          "target_head": {"type": ["string", "null"]},
+          "status": {
+            "type": "string",
+            "enum": ["aligned", "unrepresented", "added", "noncompositional"]
+          },
+          "note": {"type": "string"}
+        }
+      }
+    },
+    "review_notes": {"type": "array", "items": {"type": "string"}}
+  }
+}

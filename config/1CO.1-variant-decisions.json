@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "chapter": "1CO.1",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.1CO.1.1.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'an apostle of Jesus Christ', the order Ἰησοῦ Χριστοῦ; the base's Χριστοῦ Ἰησοῦ would give 'Christ Jesus', which ASV writes elsewhere in this chapter (vv. 2, 4, 30) when the Greek has that order."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.1.2.v002",
+      "status": "selected",
+      "selected_reading": "r02",
+      "compatible_readings": [
+        "r02"
+      ],
+      "evidence": "ASV places the locative first — 'unto the church of God which is at Corinth, even them that are sanctified in Christ Jesus' — matching τῇ οὔσῃ ἐν Κορίνθῳ ἡγιασμένοις ἐν Χριστῷ Ἰησοῦ; the base order would put the sanctification phrase before Corinth."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.1.2.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'their Lord and ours' renders the following καί; an added τε in the correlative τε καί is not separately represented in English and no note is mapped here, so the English permits both."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.1.4.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text reads 'I thank my God', with the possessive present; the mapped textual_variant note 'Some ancient authorities omit my' places the omission in the margin, so the text follows μου."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.1.14.v005",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text reads 'I thank God', supplying an object for the verb; the mapped textual_variant note 'Some ancient authorities read I give thanks that' assigns the bare εὐχαριστῶ to the margin, so the text carries + τῷ θεῷ."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.1.15.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'lest any man should say that ye were baptized into my name' has a second-person plural passive, ἐβαπτίσθητε; the variant ἐβάπτισα would read 'that I baptized into my name'."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.1.20.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "At the clause this lemma stands in, ASV reads 'the wisdom of the world' with no demonstrative; the added τούτου would give 'of this world'. ASV does write 'this world' earlier in the verse, where the Greek has τοῦ αἰῶνος τούτου, showing it renders the demonstrative when present. The 'Or, age' note is an alternative_rendering on that earlier phrase and decides nothing here."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.1.22.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Jews ask for signs' is plural, σημεῖα; the variant singular σημεῖον would give 'a sign'."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.1.23.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'unto Gentiles foolishness' renders ἔθνεσιν; ASV uses 'Greeks' for Ἕλλησιν one verse earlier (v. 22), so the variant would have produced 'unto Greeks'. The 'Or, a Messiah' note is an alternative_rendering on Χριστόν."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.1.25.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "English must supply a copula in 'is wiser than men' whether or not ἐστίν stands in the Greek, and no note is mapped here, so the wording does not distinguish the readings."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.1.27.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variation is Greek word order only; English requires 'put to shame them that are wise' in that order under either reading, and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.1.28.v012",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text reads 'yea and the things that are not', with the conjunction present; the mapped textual_variant note 'Many ancient authorities omit and' puts the bare τὰ in the margin, so the text follows καὶ τά."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.1.30.v013",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variation is Greek word order only; 'was made unto us wisdom from God' is the idiomatic English order under either σοφία ἡμῖν or ἡμῖν σοφία. The mapped note is an alternative_rendering about the following conjunctions."
+    }
+  ]
+}

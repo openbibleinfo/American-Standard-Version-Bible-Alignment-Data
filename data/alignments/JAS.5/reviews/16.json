@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "d8f852b21a57bb91ab4d95ab7f63d2c1daf015d8ec0de4be3c8e4ec696ab9b6a",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Unchanged: I judge the accepted alignment correct at every unit and every head, and have only expanded three notes with the rule citations a later reader would otherwise have to reconstruct (s013, s015, s016).",
+    "Partition verified: all 16 s### ids and all 28 t### ids appear exactly once. No unit is `unrepresented`, `added` or `noncompositional`, which is right here — every source token has English and every English word has a licensing token.",
+    "The two reciprocals are the chief head decision, and rule 83 settles both: `ἀλλήλοις` → *one to another* and `ἀλλήλων` → *one … another* head on *another*, never on the supplied completion *one*, thirty corpus units to four.",
+    "s004 `τάς` → *your* follows rule 20's second arm as read by rule 76: the test is whether some other source word is available to take the supplied possessive, and this verse has none — no genitive pronoun, and `ἀλλήλοις` is already spent on the reciprocal idiom.",
+    "s015 and s014 are the same anarthrous shape decided twice: no Greek article stands in either phrase, so the supplied *The*, *a* and *man* are rule 7 helpers on the words they determine or complete, not article realizations. Rule 102 applies only where an article is present to take a determiner, and it is not.",
+    "s016 is the one place a materially different reading is available: *in its working* could be read with *in* `added` under rule 86. It is not, because rule 86's test is whether a source token licenses the supplied word, and the participle licenses the whole frame under rule 67 — which reaches for `added` only where the licensing token stands in no verse at all. The note records the competing reading."
+  ],
+  "ref": "JAS.5.16",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

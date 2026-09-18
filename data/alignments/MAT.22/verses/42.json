@@ -1,0 +1,182 @@
+{
+  "alignments": [
+    {
+      "note": "Participle.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Interrogative pronoun.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The dative of the impersonal is realized by the English subject pronoun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Finite verb.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The English preposition governing the phrase realizes the Greek preposition (rule 36).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Article as *the* (rule 19).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Interrogative genitive rendered *whose*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Predicate noun.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Expressed copula with its supplied subject pronoun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Finite verb with its supplied subject.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Dative pronoun with its case preposition (rule 21).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "The article takes the determiner, the supplied relational noun the ASV writes in front of its own name, and the case preposition, leaving the name bare. Rule 102 governs an article standing before an expressed noun with a supplied nominal in front of it, and its precedent REV.11.15 `τοῦ κυρίου` → *the kingdom of* gives the article the anaphoric nominal **and** the case preposition; rule 21 gives the same *of* to any article that takes the English determiner. Head on the supplied nominal, all fifty-three such corpus units heading there and none on *the*. Rule 52 is the competing reading and would give the whole *The son of David* to the name headed on *David* with the article unrepresented, but rule 52 is scoped to a bare genitive where no head noun and no article is expressed and the genitive is the only word the supplied noun can belong to.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017",
+        "t018"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Genitive name; the case preposition has gone to the article that takes the English determiner (rules 21, 102).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "MAT.22.42",
+  "review_notes": [
+    "Corrected s013/s014: *of* moves from the name into the article's unit. Rule 102's governing precedent, REV.11.15 `τοῦ κυρίου` → *the kingdom of*, gives the article the supplied nominal and the case preposition together and leaves the noun bare, and rule 21 does the same for any article carrying the English determiner. The previous split — *The son* on the article, *of David* on the name — matched neither that precedent nor rule 52's whole-expression-on-the-name reading.",
+    "The head stays on the supplied *son* under rule 102, not on *The*."
+  ]
+}

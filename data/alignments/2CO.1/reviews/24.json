@@ -1,0 +1,18 @@
+{
+  "alignment_sha256": "4d4994576fffa4f104286391bbafda681510eb2a4b3d9a14e5f8647faf1da353",
+  "contract_version": "nt-greek-verse-v58",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed unchanged. The partition is complete and disjoint: all 16 source IDs and all 20 target IDs are used exactly once, every `aligned` unit has nonempty arrays, and every head is a member of its own array.",
+    "Both genitive `ὑμῶν` tokens take the ASV's possessive and empty their articles under rule 20 proper. Neither pronoun is spent on another syntactic role, so rule 76's availability arm does not apply, and rule 51's supplied-determiner-as-helper clause does not either, since it is scoped to anarthrous Greek.",
+    "The two case-marking prepositions *over* and *of* ride with their nouns rather than with an article, because in each phrase the determiner slot is already occupied and rule 21 forbids leaving a bare *of* or *over* on the article. Rule 20's `τοῦ θελήματος αὐτοῦ` → *of his will* is the governing precedent for both.",
+    "`τῇ` before `πίστει` is the plain determinerless case of rules 21 and 23, distinct from the two displaced articles: there no source word competes for the slot because the ASV supplies no determiner at all.",
+    "The only genuinely contested unit is *over* on `πίστεως`, recorded `medium` under rule 16. Reading it as part of an English phrasal *have lordship over* stays defensible; rule 36's refusal to read a preposition off a phrasal verb is what decides it against that reading, and no Greek preposition is expressed for it to answer to.",
+    "`οὐχ ὅτι` is split rather than fused. Rule 39's `noncompositional` cluster is scoped to a particle fused with the negative `μή` and rendered by one English word, and here the ASV writes a separate word for each token.",
+    "The alternative-rendering note (*Or, your faith*) bears on the sense of the final clause, not on the ASV wording aligned here; rule 12 keeps textual decisions out of the alignment file.",
+    "No unit here is a candidate for rule 73: the Greek expresses a verb alone, and the ASV expands rather than collapses it, which is rule 91's inverse case."
+  ],
+  "ref": "2CO.1.24",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

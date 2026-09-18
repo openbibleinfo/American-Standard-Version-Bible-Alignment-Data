@@ -1,0 +1,166 @@
+{
+  "alignments": [
+    {
+      "note": "Connective καί → and.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Degree adverb οὕτω → so. The answering that of the English so … that frame is treated separately; see its unit.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Predicate adjective φοβερόν → fearful.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Expressed copula ἦν → was; no supplied-copula question arises (rule 53 is not in play).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Article → the (rule 19). A participle follows, so rule 32 keeps the article to its own determiner and leaves the participle its own English word rather than absorbing the phrase under rule 22.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Substantival participle φανταζόμενον rendered by the noun appearance; the determiner stays with the article standing in front of it.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The Greek result clause is asyndetic — no ὥστε, ὅτι or other subordinator stands in the verse — so no source token licenses the supplied that (rule 86), and the ASV marks it as an addition (rule 11, evidence only). The materially different reading is to give the discontinuous so … that to οὕτω as one correlative frame under rule 15, on the analogy of rules 82 and 100; I took the added reading because those rules concern a correlative the Greek itself writes with a second token (καί), whereas here οὕτω is a bare degree adverb already fully realized by so and nothing else in the Greek answers to the clause-introducer.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Name Μωϋσῆς → Moses.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "εἶπεν → said; the quotation follows with no recitative ὅτι, so rule 43 is not in question.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The predicate adjective ἔκφοβος is recast as a finite verb phrase, exceedingly fear. Head on fear by rule 91's operational test: the φοβ- root is what the corpus spends fear/fearful on — this very verse renders φοβερόν → fearful — while exceedingly answers to the intensive ἐκ- prefix, as without answers to an alpha-privative under rule 84.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "The finite εἰμι is expressed, but the ASV turns both predicate adjectives into finite verbs, so the only English answering to it is the subject its inflection supplies (rule 9's subject clause). Rule 9's preference for the lexical verb cannot apply here, since fear and quake answer to ἔκφοβος and ἔντρομος rather than to εἰμί.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Coordinating καί → and, joining the two recast predicates.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "ἔντρομος recast as the finite quake; the copula is shared from s010 and is not repeated in English.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "HEB.12.21",
+  "review_notes": [
+    "All 12 source and 14 target ids partitioned exactly once.",
+    "The supplied t007 that is the one genuinely contested unit: added under rule 86 versus a discontinuous so … that frame on οὕτω under rule 15. The note names both.",
+    "s009/s012 are Greek predicate adjectives rendered as finite English verbs; heads placed on the lexical words fear and quake per rule 91, with the subject pronoun left on the expressed εἰμι per rule 9.",
+    "Article s005 split from participle s006 per rules 32 and 90: two English words were written, so the ordinary split applies and the article keeps only its determiner."
+  ]
+}

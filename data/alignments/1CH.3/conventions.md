@@ -1,0 +1,7 @@
+# 1 Chronicles 3 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **1CH.3.2** — In the Hebron list (3.1–3) the לְ before each mother's name takes the of or by the ASV writes for it; the לְ of 3.2 stands before the son's name (לְאַבְשָׁלוֹם), the ASV writes nothing for it, and it is its own unrepresented unit under rule 40. BSB's representation of it is the documented convention difference, not an error.
+- **1CH.3.5 — retrospective TS07 supersession** — Bath-shua (3.5) and Jushab-hesed (3.20) each have two independently written source components retained in separate ASV name components. Under the settled separate-name ownership criterion in rules 2 and 30, each component takes its own aligned unit and lexical heads. Shared lemma annotation and hyphenation do not justify fusion. This replaces only the prior mandatory-fusion clause, independently confirmed in scoped reviews of both verses; the original is preserved in data/audits/retrospective-new-chapters-2026-09-12/before/1CH.3/conventions.md. Other chapter conventions remain in force.
+- **1CH.3.19** — Where the ASV writes 'the sons' for a singular construct בֶן (3.19, 3.21, 3.23; margin 'Hebrew son'), the noun takes the plural together with the supplied the under rule 29, and the margin is read and set aside under rule 38.

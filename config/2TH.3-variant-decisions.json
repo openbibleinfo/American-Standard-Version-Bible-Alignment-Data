@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "chapter": "2TH.3",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.2TH.3.4.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 3:4 renders the relative clause as 'the things which we command', with no dative object; the ASV supplies 'you' where it is read (3:6 'we command you'), so the absence here answers the shorter lemma without + ὑμῖν."
+    },
+    {
+      "unit_id": "SBLGNT.2TH.3.6.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 3:6 reads 'in the name of our Lord Jesus Christ'; the possessive 'our' renders ἡμῶν, which the omitting reading lacks. The verse's note ('read ye') bears on the verb of receiving, not on this pronoun."
+    },
+    {
+      "unit_id": "SBLGNT.2TH.3.6.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r02"
+      ],
+      "evidence": "ASV text reads 'the tradition which they received of us' — third person plural, which excludes παρελάβετε (r01); the mapped note 'Some ancient authorities read ye' records that second-person reading as the alternative, confirming it is not the text rendered. Between παρελάβοσαν and παρέλαβον the English is identical, both being 'they received', so the choice is not distinguished."
+    },
+    {
+      "unit_id": "SBLGNT.2TH.3.8.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Genitive νυκτὸς καὶ ἡμέρας and accusative νύκτα καὶ ἡμέραν both render as ASV 'night and day'; English has no way to mark the case distinction and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.2TH.3.12.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 3:12 reads 'we command and exhort in the Lord Jesus Christ' — 'in' for ἐν with no possessive; the alternative διὰ τοῦ κυρίου ἡμῶν would give 'by our Lord', and the ASV shows neither 'by' nor 'our'."
+    },
+    {
+      "unit_id": "SBLGNT.2TH.3.13.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἐγκακήσητε and ἐκκακήσητε are orthographic forms of the same verb with the same sense; ASV 'be not weary in well-doing' renders either identically."
+    },
+    {
+      "unit_id": "SBLGNT.2TH.3.14.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 3:14 continues 'note that man, that ye have no company with him' — a subordinate clause with no coordinating 'and'. The καὶ μὴ reading goes with the imperative construction ('and have no company'), which the ASV's subordination does not render."
+    },
+    {
+      "unit_id": "SBLGNT.2TH.3.14.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 3:14 renders 'that ye have no company with him', a subordinate infinitive clause dependent on 'note that man'; the imperative συναναμίγνυσθε would give an independent command, which the ASV does not have."
+    },
+    {
+      "unit_id": "SBLGNT.2TH.3.18.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 3:18 ends 'be with you all.' with no closing 'Amen'; the ASV prints Amen where it is read, so its absence answers the lemma without + Ἀμήν."
+    }
+  ]
+}

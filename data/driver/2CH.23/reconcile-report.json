@@ -1,0 +1,28 @@
+{
+  "chapter": "2CH.23",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "A circumstantial waw standing before a nominal that carries its own prepositional phrase takes the ASV's *with*: `אִישׁ וְכֵלָיו בְּיָדוֹ` → *every man with his weapons in his hand* (23.7) and `וְאִישׁ שִׁלְחוֹ בְיָדוֹ` → *every man with his weapon in his hand* (23.10) both give *with* to the waw under rules 11 and 14, rather than leaving the waw unrepresented and giving the word to the noun under rule 33. A present function morpheme whose sense the word carries takes it before a supplied-word analysis does; the competing reading is named in each verse's note.",
+    "A bare `בֵּית` of direction or place takes the preposition the ASV supplies before it — *into* (23.6, 23.12), *to* (23.15, 23.17), *in* (23.9, 23.14), *unto* (23.20) — as an adverbial accusative under rule 33, and not as a preposition supplied for the governing verb's valency under rule 44. Rule 33's own *to your mountain* is the terminative accusative this answers to, so the direct-object question that rule asks is answered in the negative throughout the chapter; in 23.9 the construction's copula joins the same unit under rule 20.",
+    "Where the ASV renders a substantival article by a single word combining the pronoun and the relative — *whosoever* (23.7), *whoso* (23.14) — that whole word is the article's under rule 41 and the participle keeps only its verb. The article is not left unrepresented and the word is not split between the two morphemes."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v216",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 21 verses end to end against the 42-lemma candidate table. No construction is analysed two ways with nothing in the source to license the difference, so verdict no-change and patches empty.",
+    "Article counting is uniform chapter-wide. Every unrepresented article is one the ASV writes no determiner for: the ordinal's agreement article (23.1), the three before *a third part* (23.4, 23.5 twice), the second and third of the coordinated object series (23.9), the two bare participles (23.12), and the article of `הַשִּׁיר` in *instruments of music* (23.13). Construct chains front the article's *the* wherever the rectum carries no determiner — `שָׂרֵי הַמֵּאוֹת` four times (23.1, 9, 14, 20), `בֵית הָאֱלֹהִים` (23.3, 9), `בֵּית`/`כֹּהֵן הַבַּעַל` (23.17) — and run rule 29's arthrous count wherever two determiners are written (`שַׁעַר הַיְסוֹד`, `קוֹל הָעָם`, `עַם הָאָרֶץ` three times, `יַד הַכֹּהֲנִים`, `כִּסֵּא הַמַּמְלָכָה`). The possessive recasting gives the *the* to the rectum's article in all five places (23.3, 5, 11, 15, 20).",
+    "The two corrections already carried in the verse files are consistent with the rest of the chapter. 23.10 counts two written *the*s against the two article morphemes of each `כֶּתֶף הַבַּיִת הַ...ית` phrase, each article taking the one before its own word — the same count 23.20 runs on `שַׁעַר הָעֶלְיוֹן` under rule 47's construct-head sentence, and properly distinct from 23.1, where two articles share one written *the* and the first takes it. 23.11 keeps *put ... gave* as one discontinuous unit on `וַיִּתְּנוּ` (rule 34's pro-verb clause with rule 25), leaving only the supplied object *him* added; that does not collide with 23.13, where *played* is added because the clause has no verb at all.",
+    "Candidates examined and dismissed as licensed by the ASV rather than split: `בָּאֵי הַשַּׁבָּת` → *that come in* (23.4) against *those that were to come in* (23.8), both putting the supplied relative frame inside the participle's unit headed on the lexical verb, the antecedent supplied only where the participle stands as its own noun phrase; the articles of `הַמְשָׁרְתִים` → *they that* (23.6), `הָרָצִים`/`הַמְהַלְלִים` → nothing (23.12) and `הַמּוֹשְׁלִים` → *the* (23.20); `הַבָּא` → *whosoever* (23.7) and *whoso* (23.14), identically analysed; the three `בֵּין` of 23.16 with one written *between* (rule 26); and `אַל` → *none* (23.6) beside `לֹא` → *none* (23.19).",
+    "The three added units — *him* (23.11), *played* and *the singing* (23.13) — are the only supplied English in the chapter that no morpheme licenses, and no analogous supply is folded into a neighbouring unit elsewhere, so the table's blindness to added units hides nothing here. Ledger is clean: 636 units, 640 source and 770 target IDs partitioned once each, every head a member of its unit.",
+    "BSB: all 22 disagreements are documented convention differences and none is an error. They are agreement and series articles the ASV leaves unwritten (rule 47), prepositions whose relation the ASV's recasting leaves unstated (rule 40 — the appositional `לְ` of the 23.1 commander list, the second `לְ` of `לַמִּזְבֵּחַ וְלַבָּיִת` in 23.10, `אֶל` and `אַחֲרֵי` in 23.14, `לְעָם` in 23.16), two object markers (rule 16), and the 23.12 apodosis waw the ASV opens bare (rule 14).",
+    "No promotion. 23.11 sits inside rule 34's pro-verb sentence read with rule 25; the supplied preposition before a bare `בֵּית` is rule 33's own terminative accusative, its *to your mountain* being the same construction; and 23.10's count is rule 47's construct-head sentence already in force. Three conventions recorded for judgments that recur across verses and have live competing readings."
+  ]
+}

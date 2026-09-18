@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "35e9f8e1964f612afe674b77a8e1feb0be3f2e54a0e13bea824240d4a3465726",
+  "contract_version": "nt-greek-verse-v120",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: all 20 source ids and all 33 target ids are covered exactly once; every head is a member of its own array and no unit is empty on both sides.",
+    "Correcting a stale review note carried with the accepted alignment: it claimed the supplied *of* at t011 rides with the article s005 under rule 21 and that rule 36 forbids folding it onto ἠκούσατε. That is not what the unit rows do, and the unit rows are right. ὑπομονήν is a bare accusative with no Greek preposition expressed, and rule 106's accusative arm decides it in terms, its worked example being this very lemma — ἀκούσαντες ἀνάστασιν → *heard of the resurrection* gives *heard of* to the verb. Rule 36's *hear of your state* is the contrast only because an expressed περί stands there, as rule 106 says by name. s005 therefore keeps a bare *the*.",
+    "The two contested heads are s002 and s015, and both notes name the competing reading as rule 16 requires. s002 heads on *blessed* under rule 17's support-verb clause with rule 91's lemma query (the corpus spends *blessed* on the μακαρ- family and *call* on καλέω); s015 heads on *pity* under rule 66's compound clause, *full of* spelling the πολυ- prefix and *pity* the σπλαγχν- core, with rule 104 supplying the neighbouring-class route for a hapax and reaching the same answer.",
+    "s003/s004 is rule 32's ordinary split (*them* to the article, *that endured* to the participle), with the pronoun discontinuous from its participle under rule 15. Rule 90 does not reach it, blessing only the pair for which the ASV writes a single English word.",
+    "ὅτι is aligned to the supplied introducer *how that* rather than left unrepresented, rule 43's test being the presence of an English word; the two words stay undivided and head on the complementizer under rule 61, and *how* is not `added` under rule 86 because a source token licenses it.",
+    "The anarthrous κυρίου at t021-t023 takes its supplied *the* as a rule 7 helper under rule 51's anarthrous clause, while the articular ὁ κύριος splits into *the* / *Lord* under rules 19 and 26. The verse writing both is rule 24's habit, not two analyses. All three variant units selected r00-base with no excluded fallback, so no target token is `added` under rule 97."
+  ],
+  "ref": "JAS.5.11",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

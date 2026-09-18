@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "chapter": "EZK.32",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.EZK.32.31.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'shall be comforted over all his multitude', a masculine singular suffix referring to Pharaoh; this renders the qere הֲמוֹנוֹ 'his multitude' rather than the ketiv המונה. The only note on the verse is classed alternative_rendering and concerns the English wording of the following clause, so it does not bear on the suffix."
+    },
+    {
+      "unit_id": "WLC.EZK.32.32.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text reads 'I have put his terror in the land of the living' — a third-person suffix, the ketiv חתיתו — and the mapped textual_variant note 'Another reading is, my' records the qere חִתִּיתִי 'my terror' as the rejected alternative. The note thus explicitly distinguishes the two readings and places the ketiv in the text."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "chapter": "MAT.2",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.MAT.2.3.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Pure word order within the appositional phrase. English idiom fixes 'Herod the king' regardless of whether the Greek read ho basileus Herodes or Herodes ho basileus, and no ASV note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.2.8.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order of adverb and imperative only. ASV 'search out exactly' places the adverb where English requires it; both orders yield the same rendering. The mapped note is about proskyneo, not this unit."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.2.9.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Aorist passive estathe and aorist active este are both rendered 'stood' in this intransitive sense; ASV 'came and stood over' distinguishes neither, and no note is mapped."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.2.13.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only: 'appeareth to Joseph in a dream' renders both phainetai kat' onar and kat' onar phainetai identically, and no note is mapped."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.2.15.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Presence or absence of the article with kyriou. ASV 'by the Lord' supplies the English definite article for the anarthrous proper title as a matter of course, so the wording does not distinguish the readings; the mapped note is only the Hos. 11:1 citation."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.2.17.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'spoken through Jeremiah the prophet'. 'Through' renders dia with the genitive of the human agent; hypo would be rendered 'by'. The wording distinguishes the base reading."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.2.18.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV lists two items after 'A voice was heard in Ramah': 'Weeping and great mourning'. The longer reading adds threnos kai, which would give a third item ('lamentation, and weeping, and great mourning'). The absence of it in the ASV distinguishes the base reading."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.2.19.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only: 'appeareth in a dream to Joseph' is the same English for either phainetai kat' onar or kat' onar phainetai, and no note is mapped."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.2.21.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'came into the land of Israel'. The directional 'into' is carried by the following preposition with 'land', so both the compound eiselthen and the simplex elthen are rendered 'came'; nothing in the English distinguishes them."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.2.22.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'was reigning over Judaea'. 'Over' is the ordinary rendering of basileuo with the genitive as well as of the reading that adds epi, so the English does not show whether the preposition stood in the text."
+    },
+    {
+      "unit_id": "SBLGNT.MAT.2.22.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only. English requires 'his father Herod' whichever order the Greek had, and no note is mapped to this unit."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "chapter": "JDG.1",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "JDG.1.6",
+    "JDG.1.7"
+  ],
+  "rejected": {},
+  "conventions": [
+    "A supplied English of, or a supplied the inhabitants of, that continues a head noun the ASV has written for an earlier member of a list and then gapped is `added` wherever the Hebrew noun it stands before is an אֵת-marked direct object: JDG.1.19 (the hill country), JDG.1.27 (Beth-shean, Taanach) and JDG.1.31 (Ahlab, Achzib, Helbah, Aphik, Rehob). Rule 33 does not reach such a noun, since a marker stands on it, and none of rule 16's four families covers a word written for a relation to a head noun the Hebrew never wrote. Where instead a written construct governs the name, the of is the rectum's under rule 19: JDG.1.31 for Acco and Sidon, and JDG.1.33 for both Beth-shemesh and the coordinated Beth-anath, which carries no marker and stands as a second rectum under the one written יֹשְׁבֵי. The two shapes read alike in English and are told apart only by whether a marker or a construct head stands in the Hebrew.",
+    "בְּהֹנוֹת with a following יָד is one rule 30 unit on the ASV's single word thumbs, headed on בְּהֹנוֹת, because English writes thumbs of hands only exactly as it writes great toes of feet only, so the one word carries both morphemes; the suffix keeps its own pronoun under rule 18, and a gapped בֹּהֶן leaves great toes whole with רֶגֶל, headed on toes. So read at JDG.1.6 and JDG.1.7, correcting an earlier reading that marked יָד unrepresented under rule 22, which governs a repeated or resumptive element and does not reach it.",
+    "מִשָּׁם is read off the number of English words the ASV spends on it: split at JDG.1.11, where from goes to the preposition and thence to the adverb, and fused on the single word thence at JDG.1.20, headed on שָׁם. The difference is rule 30's condition and not an inconsistency."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v170",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 57 candidate groups and read the dump end to end for the asymmetries the lemma table cannot see: added units, and a word folded into its licensor in one verse but marked added in another.",
+    "One real error, on the source side where the table is blind. JDG.1.6 and JDG.1.7 both mark יָד unrepresented beside a בֹּהֶן holding the whole English word thumbs, citing rule 22. Rule 22 governs a repeated or resumptive element, and יָד is neither: the element the Hebrew repeats and then gaps is בֹּהֶן, in the feet colon. The ASV's one word carries both morphemes, since English writes thumbs only of hands and great toes only of feet, which is precisely the יָד / רֶגֶל distinction the Hebrew makes. Rule 30's one-English-word condition is met, so the two lexical nouns share one unit headed on בֹּהֶן, exactly as that rule's own דִּבְרֵי הַיָּמִים -> chronicles example does. Both verses are patched; the suffix keeps its own his / their under rule 18, and great toes stays whole on רֶגֶל, whose בֹּהֶן the Hebrew does gap.",
+    "Not splits, each licensed by the source or by what the ASV wrote: מִשָּׁם split at 1.11 (from thence, a word for each morpheme) and fused at 1.20 (thence); the relative of an attributive participle goes to a present article at 1.10 and 1.29 and to the participle itself at 1.9, 1.17 and 1.21, which is rule 41 read off the morphology; the presentative frame's that goes to the apodosis waw at 1.1, 1.14 and 1.28, the ASV writing it at the apodosis head after the temporal phrase in all three; בְּקֶרֶב fuses on among in all four places; the resultative לְ takes subject to, headed on to, at 1.30, 1.33 and 1.35.",
+    "The supplied of is one judgment running across three verses and it is consistent. Where the ASV continues a gapped English the inhabitants of over a noun the Hebrew writes as an אֵת-marked direct object, no morpheme licenses the word and it is added: 1.19, 1.27 twice, 1.31 five times. Where a written construct governs the name, the of is the rectum's under rule 19: 1.31 for Acco and Sidon, 1.33 for both members of Beth-shemesh and Beth-anath, where no marker stands and the second name coordinates as a rectum under the one written participle. Recorded as a convention, since the two look alike on the page and are told apart only by what stands in the Hebrew.",
+    "BSB: 30 disagreements, and the recurring classes (R x10, Td x9, To x5) are the documented convention difference, not candidates. The two יָד tokens at 1.6 and 1.7 were the genuine error and are now fixed. The rest are defensible: the paragogic ה at 1.15 is rule 32; the נּוּ of מִמֶּנּוּ at 1.13 is unrendered because younger carries the comparison but nothing of the comparand, which is the mirror of the thumbs case and was decided the same way; לָהֶם at 1.33 is left wholly unwritten by the ASV, so preposition and suffix each go unrepresented under rule 40; the waw at 1.12 opens an apodosis the ASV writes bare."
+  ]
+}

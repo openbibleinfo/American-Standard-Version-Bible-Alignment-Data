@@ -1,0 +1,100 @@
+{
+  "alignments": [
+    {
+      "note": "Anarthrous Greek noun; the supplied determiner 'the' is an ordinary rule 7 helper on the word it determines under rule 51's anarthrous clause, since no Greek article competes. Head on the noun under rule 17.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Postpositive causal conjunction rendered by the clause-initial 'for'.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Genitive rendered 'of + noun'; rule 17 heads such a unit on the noun and the case preposition rides along. No article stands here, so rule 21's 'of the' unit is not in question.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Anarthrous accusative; supplied 'the' is a rule 7 helper on the noun under rule 51's anarthrous clause, analysed exactly as s001 in the same verse (rule 24).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Genitive rendered 'of God'; head on the noun per rule 17, the case preposition riding along as for s003.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Ordinary negative aligned to 'not'. No negative indefinite stands in the clause, so rules 41 and 59 are not in question and the negator keeps its own English word; the ASV's 'worketh not' is English word order and does not join the pair.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Present indicative rendered by the lexical verb 'worketh'; rule 17 heads on the lexical verb.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    }
+  ],
+  "ref": "JAS.1.20",
+  "review_notes": [
+    "Reviewed unchanged: the accepted alignment partitions all 7 source and all 11 target ids exactly once, every head is a member of its own array, and no unit needed correction.",
+    "Both English determiners are supplied for anarthrous Greek nouns, so rule 51's anarthrous clause makes them helpers on 'wrath' and 'righteousness' rather than evidence of an article; no source article exists anywhere in this verse, so rules 19-23, 51, 57 and 60 are all out of question.",
+    "The competing reading for s003 and s005 would split 'of' onto a determiner-bearing article; none is present, and rule 21 forbids leaving a bare 'of' on anything but an article that takes the English determiner, so 'of man' and 'of God' each stay one unit headed on the noun.",
+    "Rule 58 was checked and does not apply: it governs a supplied determiner over an anarthrous adjective-plus-noun phrase, and the modifiers here are genitive nouns, each of which carries its own English word already.",
+    "Variant SBLGNT.JAS.1.20.v005 is underdetermined and resolved to r00-base, covering s006 and s007; no textual decision is taken here (rule 12), and the unit carries no FALLBACK EXCLUDED mark, so rule 97 does not apply."
+  ]
+}

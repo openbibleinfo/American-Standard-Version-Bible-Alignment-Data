@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "d78f369561e1074f014d05dc35e2be3446b2909a6d38282d4df0d7afc897cc3f",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed and returned unchanged: every unit of the accepted alignment survives review. Notes were expanded where the governing rule was implicit, but no unit's source array, target array, head or status changed.",
+    "Partition verified by enumeration: s001-s018 each appear exactly once, and t001-t028 each appear exactly once across the eighteen units. No id is invented.",
+    "s003/s004 stays split under rule 32 rather than joined under rule 90. Rule 90 is scoped in terms to where the ASV writes only *one* English word for the article-plus-participle pair; here it writes two (*he who*), and rule 90's own closing clause sends the two-word case back to the ordinary split.",
+    "s008 is the one discontinuous unit: *of … way* wraps around *his*. Rule 15 permits it, and the alternative of putting *of* on the possessive or on `ἐκ` is refused by rule 21's determinerless clause, which keeps a case preposition with the noun where no article stands to anchor a determiner.",
+    "s012 is the verse's only `unrepresented` unit. Both variant units selected r00-base and neither carries a FALLBACK EXCLUDED BY EVIDENCE mark, so rule 97 is not in play and rule 12 bars reading the ASV's *a soul* as a textual decision against the projection's `αὐτοῦ`. A reference comparison will report s012 as a disagreement; that report is not a correction.",
+    "Head choices were reviewed independently of edges under rule 28: the three finite verbs and the imperative head on their lexical verbs rather than on *shall* or *let*, and the four supplied-determiner units head on their nouns rather than on *a* or *the*, since rule 51's anarthrous clause makes those determiners helpers and not article realizations."
+  ],
+  "ref": "JAS.5.20",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,31 @@
+{
+  "chapter": "JHN.9",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "JHN.9.13",
+    "JHN.9.17",
+    "JHN.9.6",
+    "JHN.9.22"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Where the ASV recasts a demonstrative-plus-expressed-copula clause as an English cleft with an expletive subject — Οὗτός ἐστιν → 'It is he', ἐκεῖνός ἐστιν → 'he it is' — the demonstrative takes the predicate pronoun that realizes it and the expressed copula takes the expletive together with 'is' as an ordinary rule 9 helper. Do not align the demonstrative to the expletive, and do not read rule 68's subject-takes-the-copula arm here: that arm governs a verbless clause with a supplied copula, whereas the copula is expressed in both of these and the English subject is the expletive rather than the demonstrative. Applies at JHN.9.9 and JHN.9.37.",
+    "The idiom ἡλικίαν ἔχει, which the ASV renders 'is of age', splits rather than joining: the verb takes the supplied subject pronoun with 'is', and the noun takes 'of age' headed on the noun. Rule 73 does not join it, the ASV having spread the pair over separate English words rather than collapsing it into a single verb, and 'is' answers to ἔχει rather than being a supplied copula for rule 53 to place. A single noncompositional unit over both tokens remains defensible; the chapter takes this reading at JHN.9.21 and JHN.9.23 and both verses must move together."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v121",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Real split: an article whose antecedent an expressed pronoun has already written. JHN.9.18 (τοῦ ἀναβλέψαντος after αὐτοῦ → 'of him that had received his sight') and JHN.9.37 (ὁ λαλῶν with ἐκεῖνος writing 'he') both empty the article and leave the relativizer to the modifier, per rule 32's apposition clause. JHN.9.13 (αὐτὸν ... τόν ποτε τυφλόν → 'him that aforetime was blind') did the opposite, keeping 'that' on the article. Rule 31 settles it in terms for an adjective complement — 'where some other source token has already written the antecedent, rule 32's apposition clause empties the article and the relativizer falls to the adjective along with the copula' (αὐτοῖς δὲ τοῖς κλητοῖς → 'unto them that are called'). JHN.9.13 patched to match its two neighbours: τόν unrepresented, τυφλόν takes the discontinuous 'that ... was blind'.",
+    "JHN.9.17 τῷ τυφλῷ → 'unto the blind man' was analysed the anarthrous way, giving 'blind man' to the adjective. Rule 102 is explicit and its corpus unanimous (fifty-three units, and twelve to none for the substantival-adjective shape): where a Greek article governs the phrase the article takes the determiner and the supplied nominal, headed on the nominal, and the adjective stays bare. Patched to 'unto the ... man' on τῷ headed on 'man' and a bare 'blind' on τυφλῷ. JHN.9.32 τυφλοῦ → 'of a man blind' is anarthrous and correctly stays rule 17's case, so the chapter now reads the two configurations apart rather than alike.",
+    "JHN.9.6 gave the supplied instrumental 'with' to τόν, the article of the accusative πηλόν, 'as in the case-preposition pattern'. That is what rule 21 forbids in terms — a preposition rides with a governed word only where it realizes that word's own case — and rule 106's accusative arm says the same from the other side: an accusative has no case for an English preposition to realize, so 'with' is ἐπιχρίω's own phrasal government ('anoint X with Y') and stays inside the verb's unit. Patched: ἐπέχρισεν takes the discontinuous 'anointed ... with', τόν a bare 'the'. ἐπί stays unrepresented, the ASV's inversion having absorbed it (rule 36).",
+    "JHN.9.22 ἀποσυνάγωγος → 'put out of the synagogue' was headed on 'put'. 'put' glosses no element of the lexeme and is the empty support verb rule 91 sends to the complement; rule 66's compound clause heads on the core (συναγωγ-) and not the prefix (ἀπο- → 'out of'). Head moved to 'synagogue'; the unit's edges are unchanged.",
+    "BSB disagreements: none is a genuine error, and all eleven are documented convention differences. 9.9 and 9.11 ὅτι are recitative (rule 43, which names this chapter's construction); 9.27 and 9.40 μή are interrogative (rule 44, which says in terms that such a report is not a correction); 9.37 ὁ and 9.18 τοῦ are the apposition clause above; 9.8 τό and 9.35 τοῦ are articles the ASV gives no determiner (rules 21, 23); 9.6 ἐπί is absorbed by the ASV's inversion (rule 36); 9.24 ἐκ is the ἐκ δευτέρου → 'a second time' case, three English words answering to δευτέρου alone (rules 34, 94); 9.18 ὅτου falls under rule 94's own exception, ἕως glossing 'until' by itself. No accepted edge was changed to move the rate.",
+    "Checked and found consistent, needing no patch: ἀναβλέπω heads on 'sight' at 9.11, 9.15 and both units of 9.18 (recorded convention); the possessive-displacement of the article at 9.2, 9.3, 9.6, 9.11, 9.14, 9.15, 9.17, 9.19, 9.20, 9.21, 9.22, 9.23, 9.26, 9.30, 9.31, 9.41; articles before names at 9.7, 9.11, 9.14, 9.28, 9.29, 9.31, 9.35, 9.37, 9.39, 9.41; substantival article + participle split at 9.4, 9.8, 9.39, 9.40; attributive demonstrative emptying the article at 9.16, 9.24, 9.39 against the substantival demonstrative taking its generic noun at 9.3, 9.22, 9.29, 9.33, 9.40; supplied determiners on anarthrous nouns at 9.4, 9.5, 9.14, 9.32; ἄν → 'would' at 9.41, which rule 50 cites by its own words; the repeated ἵνα-marker at 9.39 (rules 40, 103). The chapter's single `added` unit (9.28 'And') is textual and already logged; no other supplied English word is marked `added` anywhere, and every one is folded onto a token that licenses it, so the chapter holds no added/folded split."
+  ]
+}

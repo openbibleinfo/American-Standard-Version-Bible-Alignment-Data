@@ -1,0 +1,83 @@
+{
+  "alignments": [
+    {
+      "note": "Predicate adjective with the construction-supplied copula (rule 20); head on the word carrying the lexeme.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Noun keeps its own word.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Articleless attributive participle rendered prenominally, so no relative frame is written for it (rule 41).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Comparative מִן → *Than*, with no degree adverb written.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Noun keeps its own word.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Articleless attributive recast as a relative clause; the relative and copula join the attributive under rule 41, headed on the word carrying its lexeme.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    }
+  ],
+  "ref": "PRO.27.5",
+  "review_notes": [
+    "The two attributive participles are rendered differently — מְגֻלָּה prenominally as *open*, מְסֻתָּרֶת as a relative clause — and rule 41 places each by what the ASV actually wrote."
+  ]
+}

@@ -1,0 +1,5 @@
+# James 4 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **JAS.4.1** — The ASV's supplied appositional *even* is decided by the class of the Greek token carrying the appositive it introduces. Where an expressed preposition carries it, *even* folds onto that preposition as a rule 7/11 helper headed on the prepositional word — JAS.4.1 `ἐκ` → *even of*, as the corpus does in all ten such units and marks none `added`. Where a substantival article carries it, *even* is its own `added` unit and the article keeps a bare pronoun under rule 32's *and nothing else* — JAS.4.12 `ὁ` → *he*, as the corpus does nine unhedged units to one. Rule 24 does not require the two to match: they are different carrier classes, and rule 98's asyndetic-seam clause reaches neither, being scoped to two like constituents both rendered alike.

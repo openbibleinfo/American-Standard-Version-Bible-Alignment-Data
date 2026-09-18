@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "chapter": "2KI.9",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2KI.9.15.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere לְהַגִּיד and ketiv לגיד are both the infinitive 'to tell' (full vs. defective spelling); ASV 'to go to tell it' renders either identically and carries no mapped textual note, so the base qere fallback stands."
+    },
+    {
+      "unit_id": "WLC.2KI.9.25.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere שָׁלִשׁוֹ and ketiv שלשה both yield 'his officer/captain' (ו vs. archaic ה for the 3ms suffix); ASV 'Bidkar his captain' fits either, and the only note is alternative_rendering on 'laid this burden', which cannot decide a reading. Base qere fallback retained."
+    },
+    {
+      "unit_id": "WLC.2KI.9.33.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Throw her down' renders a feminine object; qere שִׁמְטוּהָ has the 3fs suffix (Jezebel), whereas ketiv שמטהו reads with the 3ms suffix 'throw him down'. The ASV wording excludes the ketiv."
+    },
+    {
+      "unit_id": "WLC.2KI.9.37.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere וְהָיְתָה and ketiv והית are both 3fs 'shall be' (full vs. defective spelling); ASV 'the body of Jezebel shall be' renders either identically and has no mapped textual note, so the base qere fallback stands."
+    }
+  ]
+}

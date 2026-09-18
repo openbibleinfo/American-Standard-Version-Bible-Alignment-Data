@@ -1,0 +1,29 @@
+{
+  "chapter": "MAT.21",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "A Greek adverb the ASV expands into a complex English prepositional frame keeps that frame whole as one aligned unit and heads on the frame's lexical noun: Πρωΐ → 'in the morning' heads on 'morning' at 21.18 and ὡσαύτως → 'in like manner' heads on 'manner' at 21.36. No Greek preposition or article stands for the frame's other words to answer to, so nothing is split off and nothing is `added`. This is rule 104's route rather than rule 91's, the corpus spending 'likewise' on ὡσαύτως (as 21.30 writes it) and so returning no word inside the frame; the analogy taken is rules 71 and 84, which head a supplied frame on its noun. Heading 21.36 on 'like' remains defensible and is recorded in that verse's note."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v67",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read the full 46-verse dump end to end against the 76-lemma candidate table. No construction is analysed two ways without the source or the ASV licensing the difference, so no patches.",
+    "Article before a prepositional phrase: 21.2 τὴν … κατέναντι keeps 'that', 21.11 ὁ ἀπὸ Ναζαρέθ is unrepresented. Rule 31's closing clause licenses exactly this — the ASV supplies a relative clause at 21.2 and none at 21.11. Not a split.",
+    "Second attributive article: unrepresented at 21.9 (s004, s008) and 21.15 (s015), where ὄχλοι and παῖδας are expressed and the relativizer rides with the participle under rule 31; 21.4's τὸ ῥηθέν → 'which' governs no head noun and correctly reads under rule 90 instead. One test, two configurations.",
+    "Rule 88 junctures are uniform across every instance (21.2, 21.7, 21.17, 21.21, 21.23, 21.24, 21.27, 21.28, 21.29, 21.30, 21.35, 21.39): the supplied 'and' sits on the finite verb it introduces, never on the participle it follows, and never `added`.",
+    "Possessive determiner: 21.7 gives 'their' to τά because αὐτῶν is already spent as ἐπ᾽'s object (rule 76); 21.34, 21.35, 21.37, 21.38, 21.41 and 21.45 empty the article because the genitive pronoun is free (rule 20 proper); 21.31 gives 'of his' to τοῦ under rule 20's second arm, no genitive standing. Three rules, one consistent availability test.",
+    "ἔχω with a complement is split at 21.3 (χρείαν ἔχει → 'hath need'), 21.26 (ὡς προφήτην ἔχουσιν → 'hold … as a prophet') and 21.46 (εἰς προφήτην εἶχον → 'took him for a prophet'). The ASV spells both elements out in each, so rule 73's collapsed pair is nowhere in question — and 21.26/21.46 are the same Greek shape rendered two ways and analysed alike, which is rule 24 holding.",
+    "Rule 106 preverbs are uniform (21.12, 21.17, 21.31, 21.33 twice, 21.39, 21.41), including the wide discontinuity of 'go … before' at 21.31, which absorbs no intervening token. ἔξω plus article is uniform at 21.17 and 21.39 under rule 42.",
+    "The candidate table is blind to `added` units, but this chapter has none: 860 units, statuses 816 aligned / 3 noncompositional / 41 unrepresented, every unit carrying a source. I checked each supplied English word individually — 'them', 'it', 'him', 'ye', 'Did', 'let us', 'Let there be', 'as dust', 'into another country', 'on' — and found a licensing token for every one, so the added/folded split the table cannot see does not exist here.",
+    "BSB: all eight disagreements are documented convention differences, none an error. ὅτι at 21.3 and 21.43 is recitative under rule 43, the ASV punctuating rather than writing 'that' (and writing it at 21.31 and 21.45); the articles at 21.9 twice and 21.15 are rule 31; 21.19 τὸν αἰῶνα is rule 30; 21.25 τὸ Ἰωάννου is rule 23; 21.42 εἰς is rule 36's absorbed-into-a-predicate case. Giving that εἰς the 'the' of 'the head' would take the determiner off the anarthrous noun rule 51 gives it, so I left the accepted edge alone.",
+    "Two heads stay flagged in their own verse notes and were not changed: ὡσαύτως → 'in like manner' headed on 'manner' at 21.36 (against 'like'), and ἀπεδήμησεν → 'went into another country' headed on 'went' at 21.33 (against 'country')."
+  ]
+}

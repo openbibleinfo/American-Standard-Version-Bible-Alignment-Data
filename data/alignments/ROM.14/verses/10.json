@@ -1,0 +1,279 @@
+{
+  "alignments": [
+    {
+      "note": "δέ → But.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Emphatic σύ → thou.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Interrogative τί → why.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Finite verb with its inverted auxiliary and subject pronoun; head on the lexical verb (rules 9, 17).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "σου takes the possessive, so the article's determiner slot is occupied (rule 20).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive pronoun → thy.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "ἀδελφόν → brother.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "ἤ → or.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Emphatic σύ → thou.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Intensifying καί is realized by again; rule 65's English-side test aligns it wherever the ASV writes a word for it.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Interrogative τί → why.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Finite verb rendered by the support frame set at nought with its auxiliary and subject; rule 17 heads on the meaning-bearing complement, ἐξουθενέω being denominal from οὐθέν (rule 66).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014",
+        "t015",
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "σου takes the possessive (rule 20).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive pronoun → thy.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "ἀδελφόν → brother.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "γάρ → for.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "πάντες → all, discontinuous from the verb it quantifies (rule 15).",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Compound verb with its subject and auxiliary; head on the lexical verb stand (rules 9, 17). before is not kept here: rule 106 scopes its preverb arm to a particle no other source token stands to answer to, and the bare dative τῷ βήματι does answer to this one.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022",
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "The ASV writes an English verb word of its own for the compound (stand), so rule 106's dative arm applies and before realizes the government of the bare dative, riding with the governed word as ACT.4.1 ἐπέστησαν αὐτοῖς → came / upon them and ACT.4.3 ἐπέβαλον αὐτοῖς → laid / on them do. A determiner being written, the article carries before the and heads on the (rules 17, 21). Reading before as the preverb παρα-'s own particle inside the verb's unit remains defensible and was the earlier reading.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t025",
+        "t026"
+      ],
+      "target_head": "t026"
+    },
+    {
+      "note": "βῆμα → judgment seat; the English noun glosses the lexeme, so it heads (rule 66). The noun stands bare, the case preposition and determiner being the article's (rule 21).",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t027",
+        "t028"
+      ],
+      "target_head": "t028"
+    },
+    {
+      "note": "Article before θεοῦ with no English determiner (rule 23).",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive rendered of + noun; the of rides with the noun (rules 17, 21).",
+      "source": [
+        "s022"
+      ],
+      "source_head": "s022",
+      "status": "aligned",
+      "target": [
+        "t029",
+        "t030"
+      ],
+      "target_head": "t030"
+    }
+  ],
+  "ref": "ROM.14.10",
+  "review_notes": [
+    "Corrected: before moved out of παραστησόμεθα's unit onto the article τῷ, which now carries before the headed on the, βήματι standing bare. Rule 106's preverb arm is scoped to a particle no other source token stands to answer to; the compound governs a bare dative and the ASV writes stand for the verb itself, which is the dative arm's own configuration (ACT.4.1, ACT.4.3).",
+    "Variant v008 is a selected unit over θεοῦ and leaves the projection unchanged.",
+    "The competing reading — before as the preverb's discontinuous particle inside the verb's unit — is recorded in the two changed units' notes (rule 16)."
+  ]
+}

@@ -1,0 +1,7 @@
+# 2 Chronicles 6 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Solomon's prayer formula: an apodosis waw before אתה תשמע / ושמעת takes the ASV's then; מן השמים → from heaven leaves the article unrepresented, while 6.27's bare השמים takes the supplied in under rule 33; מכון שבתך is rendered attributively as dwelling place (rule 28), with the מ taking from where written; the appositional even the ASV writes before the second from-phrase, and before the second thou of 6.30, is added, since no waw or marker stands on the phrase.
+- Verbs of the chapter: סלח ל → forgive leaves the ל unrepresented (6.25, 27, 39), while חטא ל → sin against gives the ל against (6.24, 26, 36, 39); שבה in any stem → carry/carried ... captive is one unit headed on captive (6.36, 37, 38); השיב אל לבב → bethink is one fused unit with the suffix taking themselves (6.37); עשה משפט → maintain ... cause gives maintain to the verb and cause to the noun (6.35, 39).
+- Phrasal particles are kept with their verb throughout (risen up 6.10, smitten down 6.24, kneeled down 6.13, shut up 6.26, spread forth 6.12/13/29, go out 6.34, turn away 6.42, turn again 6.24/37, bring again 6.25). The two borderline cases, risen up and smitten down, are read as the ASV's phrasal rendering rather than surplus particles, and each note names the added reading as the competitor.

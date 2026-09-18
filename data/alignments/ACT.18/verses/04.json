@@ -1,0 +1,165 @@
+{
+  "alignments": [
+    {
+      "note": "Finite verb with its supplied subject; head on the lexical verb.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Connective rendered 'And'.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Article to 'the'; rule 19.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Distributive κατά has no English word: the ASV writes only 'every sabbath', where 'every' answers to πᾶν and 'sabbath' to σάββατον. Rule 36 leaves a preposition empty only where English realizes it nowhere, which is this case.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Quantifier.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Finite verb. The clause juncture 'and' is not folded here: rule 88 is scoped in terms to where the ASV converts a circumstantial participle into a coordinate finite clause, and both διελέγετο and ἔπειθεν are finite indicatives, so nothing licenses the fold.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Connective τε takes the 'and' that introduces its own clause. Rule 70 decides τε by the English rather than by the Greek pairing, and its one-English-conjunction case does not hold here: the ASV writes two conjunctions in this stretch, so τε keeps the clause juncture and καί keeps the 'and' between the nouns, exactly as rule 70's ἐλάλει τε καὶ συνεζήτει gives an 'and' to each. The competing reading takes τε…καί as a correlative pair spelled with the single 'and' between 'Jews' and 'Greeks', which would leave τε unrepresented and make the juncture 'and' added under rule 98's asyndetic-seam clause; that reading is weaker because the Greek seam is not asyndetic — τε stands in it.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Connective.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "ACT.18.4",
+  "review_notes": [
+    "The accepted alignment folded the 'and' before 'persuaded' onto ἔπειθεν as a rule 88 juncture and left τε unrepresented. Rule 88 does not reach it — no participle is converted here — and rule 98 would then make the juncture added; giving the word to the expressed τε instead accounts for it with a source token and leaves nothing added.",
+    "τε is aligned rather than unrepresented, so a reference comparison reporting it as empty would be a disagreement against this reading, not a correction of it.",
+    "κατά is unrepresented: 'every sabbath' realizes the quantifier and the noun and nothing answers to the preposition."
+  ]
+}

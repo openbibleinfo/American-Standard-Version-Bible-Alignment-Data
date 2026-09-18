@@ -1,0 +1,6 @@
+# Psalms 137 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- The beatitude אַשְׁרֵי שֶׁ… → *Happy shall he be that …* divides so that אַשְׁרֵי takes *Happy shall … be*, the construction-supplied copula frame of rule 20, discontinuous around the supplied subject pronoun, while the written שֶׁ takes *he that* whole under rule 46's first rider and heads on *that*. The supplied *he* is the relative's antecedent and never the copula unit's, and the competing head *he* is named in each unit's note. So PSA.137.8 and PSA.137.9.
+- An English phrasal particle standing in a lexicalized collocation is kept with the verb under rule 44 rather than marked a surplus: *sat down* for יָשַׁב (v1) and *hanged up* for תָּלָה (v2) both leave the head on the lexical verb, because neither particle names a direction, result or repetition distinct from the verb's own lexeme, and in v2 the upon-relation is written by עַל besides. The competing `added` reading is named in the v1 note. Contrast the two supplied *it*s of v7, which are objects no morpheme writes and are `added`.

@@ -1,0 +1,6 @@
+# 1 Chronicles 19 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- בְּעֵינֵי + suffix rendered by an English verb of seeming or thinking — v.3 בְּעֵינֶיךָ → *Thinkest*, v.13 בְּעֵינָיו → *seemeth* — gives that verb to the fused preposition and construct noun (rules 30, 40), headed on עַיִן, while the suffix keeps the pronoun the ASV writes for it (*thou*, *him*) and the predicate adjective keeps its own word (*good*). The competing reading, the verb as a copula on the adjective with בְּ and עַיִן unrepresented, was considered and not taken.
+- עָרַךְ in this chapter is the light-verb *put/set ... in array*, headed on *array* (rule 44). An object the ASV supplies where the Hebrew writes none is `added` and not the verb's — v.10 *them*, v.17 *the battle* in the first clause — while the written מִלְחָמָה takes *the battle* with a supplied *the* (vv. 9, 17 second clause). v.11's *themselves* is coreferential with the subject and stays with the verb as the ASV's intransitive rendering; competing reading *themselves* added is named in the note.

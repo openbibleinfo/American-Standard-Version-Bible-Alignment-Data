@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "chapter": "JOS.15",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JOS.15.4.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'the goings out of the border were at the sea' takes its verb number from the English plural subject 'goings out', not from the Hebrew. Both the plural qere והיו and the singular ketiv והיה (a singular verb preceding a plural subject, ordinary in Hebrew) are Englished identically here, and no ASV note is mapped to this unit. Nothing in the wording distinguishes the readings; the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.JOS.15.47.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders 'and the great sea, and the border thereof': 'great' translates the qere הגדול as the attributive of הים, while the following 'and the border thereof' renders the separate word וגבול. The ketiv הגבול would leave the sea unqualified and duplicate 'border'; the ASV's 'great' can only come from the qere."
+    },
+    {
+      "unit_id": "WLC.JOS.15.53.v003",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV names the town 'Janim', transliterating the ketiv וינים (yod before the final mem). The qere וינום would yield 'Janum', the form other versions print. The ASV spelling reflects the written consonants, so the ketiv is the rendered reading."
+    },
+    {
+      "unit_id": "WLC.JOS.15.63.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere יכלו and ketiv יוכלו differ only in the plene waw; read as the same verb 'to be able' with the negative לא, both give ASV 'could not drive them out'. The ASV supplies no wording and no mapped textual note that separates defective from plene spelling, so the unit stays with the qere base fallback."
+    }
+  ]
+}

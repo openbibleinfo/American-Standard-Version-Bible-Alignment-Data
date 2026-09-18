@@ -1,0 +1,25 @@
+{
+  "chapter": "NUM.6",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The age idiom BEN / BATH + SHANAH + pronominal suffix is divided, not fused. BEN or BATH takes the ASV's *old*, SHANAH takes *a year* with the indefinite article joining that nominal under rule 15, and the suffix is `unrepresented` because the ASV writes no possessive anywhere in *a year old*. Rule 28 governs the construct — follow the ASV rather than imposing rule 19's *of* — and rule 2 splits the pair because a separate English word answers to each morpheme. The chapter's three occurrences are NUM.6.12 (`בֶּן־שְׁנָתוֹ`) and NUM.6.14 (`בֶּן־שְׁנָתוֹ` and `בַּת־שְׁנָתָהּ`), all read the same way; treating the three morphemes as one indivisible *a year old* is the competing reading and is named in each verse's notes. BSB attaches each suffix to its host and disagrees on all three, which is the documented segmentation convention and not evidence against this division."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v111",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "All 61 candidate lemma groups were read, plus the whole dump end to end for added-side splits the table cannot see (NUM.6 carries five added units). No construction is analysed two ways with nothing in the source licensing the difference; every divergence traces to what the ASV actually writes. No patches.",
+    "Article placement in construct chains was the group most at risk, and it is uniform under rule 29's own count. An anarthrous rectum fronts the single written the onto the article: GEPHEN HAYYAYIN -> the grape vine (6.4), SAL HAMMATSOTH -> the basket of unleavened bread (6.17), ZEVACH HASHSHELAMIM -> the sacrifice of peace offerings (6.18), CHAZEH HATTENUPHAH -> the wave breast (6.20). An arthrous rectum writes two the's and nothing is fronted: TORATH HANNAZIR (6.13, 6.21), KAPPEY HANNAZIR (6.19). Chains with no article morpheme supply a the at every level: PETHACH OHEL MOED (6.10, 6.13, 6.18), PERA SEAR ROSHO (6.5), SEAR ROSH NIZRO (6.18). Agreement articles on an ordinal, adjective or demonstrative are unrepresented under rule 47 in 6.9, 6.10, 6.11, 6.12.",
+    "Object marking is consistent across the chapter's twelve ET tokens. Where a marker stands and the ASV writes the marked noun bare, it is unrepresented (6.14 ET-QORBANO -> his oblation); where a for is written it stands before an unmarked appositive or adverbial accusative and goes to that nominal under rule 33 (6.17 ZEVACH -> for a sacrifice, 6.20 TENUPHAH -> for a wave offering, 6.21 QORBANO -> of his oblation). Rule 16's fourth family is engaged nowhere here, because in no clause does the ASV demote the marked noun to a role phrase and promote its appositive. Supplied object pronouns with no object morpheme present are added in 6.16, 6.18 and 6.19; where a marker and suffix are written the suffix takes the pronoun (6.13, 6.20).",
+    "Other candidates checked and found licensed, not split: BEYOM fused to when in 6.13 but written in the day in 6.9 (rule 52's closing sentences); AL as is upon in the verbless clause of 6.7 against bare upon beside a finite verb in 6.5 (rule 49); the correlative pair either...or on the single O of 6.2 against a lone or in 6.10 (rule 14); KOL+LO fused to nothing in 6.4 against any beside neither in 6.3, where the ASV writes a word for each (rule 35); NAPHAL -> shall be void (6.12) and the offering compounds (sin, burnt, meal, drink, peace, wave, trespass) all headed on the modifier per rule 31. The one head pair worth naming is TOR -> turtle doves headed on turtle (6.10) beside KEVES -> he lamb headed on lamb (6.12, 6.14): those use opposite branches of rule 31, but the branch is selected by the ASV's own usage (lamb is its ordinary bare rendering of KEVES; dove is not its bare rendering of TOR), and each verse named the competing reading. Not a split.",
+    "BSB: no genuine error among the 20 disagreements. Twelve are the documented segmentation convention (prefixed R, agreement Td, object marker ET, resumptive suffix). The three substantive ones are the suffixes of BEN/BATH-SHENATO in 6.12 and 6.14 (twice): BSB attaches them, the ASV writes no possessive anywhere in a year old, so they are unrepresented. That reading is correct and is now recorded as a convention. Nothing was changed to improve the aggregate rate.",
+    "One convention recorded (the age idiom). No promotions and no amendments: the chapter's recurring judgments are applications of rules 15, 16, 19, 22, 28, 29, 31, 33, 44, 47 and 52 rather than cases those rules had not considered, and the log the validator flags as empty is a bookkeeping gap, not an unrecorded decision. The age idiom is the only promotion candidate; it is left unpromoted because no corpus precedent for BEN + SHANAH was supplied here, rule 28 already directs a careful pass to the same division, and a rule the finished chapters might contradict is worse than none."
+  ]
+}

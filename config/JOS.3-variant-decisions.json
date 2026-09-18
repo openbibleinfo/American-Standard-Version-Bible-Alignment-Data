@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "JOS.3",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JOS.3.4.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'a space between you and it' renders the singular 'and between it' that both readings carry; the qere וביניו and the ketiv ובינו differ only in the mater of the pronominal suffix and yield identical English. No ASV note is mapped here, so nothing in the verse distinguishes the readings; the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.JOS.3.16.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "The ASV text reads 'a great way off, at Adam', rendering the ketiv באדם ('at/in Adam'), and its mapped textual_variant note 'Another reading is, off from' records the competing qere מאדם ('from Adam') as the reading the translators did not put in the text. The note is classed textual_variant and explicitly names the alternative preposition, so the ASV distinguishes the ketiv as its base text here."
+    }
+  ]
+}

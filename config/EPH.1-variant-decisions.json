@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "chapter": "EPH.1",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.EPH.1.1.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'an apostle of Christ Jesus' keeps the Χριστοῦ Ἰησοῦ order; the RP order would read 'Jesus Christ'."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.1.1.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'to the saints that are at Ephesus' with the note 'Some very ancient authorities omit at Ephesus' excludes the omission, but the SBLGNT brackets are editorial and have no separate English realization."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.1.6.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'his grace, which he freely bestowed on us' renders an object relative attracted to χάριτος; RP ἐν ᾗ would require a locative 'wherein'. The 'Or, wherewith he endued us' note is an alternative rendering of ἐχαρίτωσεν, not a textual note."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.1.7.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The readings differ only in the gender and declension of πλοῦτος; ASV 'the riches' is identical either way."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.1.14.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'which is an earnest' does not show whether the relative agrees with πνεύματι or with ἀρραβών."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.1.15.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV main text has 'and the love which ye show toward all the saints' and its note 'Many ancient authorities omit the love' maps explicitly to the WH omission."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.1.16.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV italicizes 'of you' in 'making mention of you', marking it supplied rather than a rendering of the RP addition ὑμῶν."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.1.18.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's second question is asyndetic ('what is the hope ..., what the riches'), while ASV renders every other coordinating καί in the chapter; RP's καὶ τίς would give 'and what'."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.1.20.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'which he wrought' renders the perfect and the aorist alike."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.1.20.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "English 'from the dead' supplies the article regardless of τῶν."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.1.20.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'and made him to sit' can continue the participial clause of ἐγείρας or render the RP finite verb ἐκάθισεν."
+    }
+  ]
+}

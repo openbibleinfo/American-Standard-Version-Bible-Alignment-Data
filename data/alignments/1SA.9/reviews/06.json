@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "e4d13c00fcddeb32d1b3b6e4c6390ded1466bf3b3338477c8e42e7b9c70781db",
+  "contract_version": "ot-hebrew-verse-v214",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 36 source morphemes and 50 target tokens are partitioned exactly once.",
+    "Large-source-unit check: `אֲשֶׁר` + `עַל` + resumptive suffix → *whereon* is genuinely indivisible. The suffix is 3fs and points at the antecedent `דַּרְכֵּנוּ`, the one English word carries the relative, the relation and the resumption, and rule 22 records twenty-one such three-morpheme units; retained, headed on the relative.",
+    "*he is a man* realizes the one written `הָאִישׁ` twice under rule 25, headed on the lexeme-bearing *man*; the supplied relative *that* stands over a predication (anarthrous `נִכְבָּד` after a definite noun), so rule 41's limit makes it `added`.",
+    "The demonstrative `הַזֹּאת` takes the written *this* and both articles of that phrase are `unrepresented` (rules 41, 47)."
+  ],
+  "ref": "1SA.9.6",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

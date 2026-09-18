@@ -1,0 +1,24 @@
+{
+  "chapter": "PSA.93",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 8 candidate lemmas; none is a split. הוּא (thy/their), יהוה (bare vs vocative 'O Jehovah'), נָשָׂא (perfect 'have lifted up' vs imperfect 'lift up'), לָבֵשׁ (pronoun only where no explicit subject name stands), קוֹל (construct with supplied 'the' vs suffixed construct) and אַדִּיר (attributive vs predicate with copula) all differ only where the source or the ASV licenses the difference.",
+    "מִן: 'of' (מֵאָז, v2), 'art from' (predicate preposition with copula, rule 49, v2) and 'Above' (comparative, v4) are three constructions, not three treatments of one.",
+    "לְ in v5: the first heads the phrase the ASV promotes to the direct object of 'becometh' and is unrepresented under rule 40; the second is the written 'for' of 'for evermore'. Different constructions, consistent with the contract.",
+    "The single BSB disagreement (PSA.93.5 לְ before 'house') is the documented rule-40 convention difference, not an error.",
+    "v1 places both supplied 'with's on לָבֵשׁ under rule 44 (bare object, no marker), matching corpus 'is clothed with' (JOB.7.5) and 'thou art clothed with' (PSA.104.1). 'therewith' and the result 'that' are correctly added; 'cannot' goes whole to בַּל under rule 35.",
+    "v2 splits מֵאָז into 'of' + 'old' rather than fusing; the note names the fusion as the competing reading, so rule 8 is satisfied. Not a chapter-internal split, so no patch; a later corpus check of LEMMA=אָז PREV=R would settle which shape the corpus prefers.",
+    "The two repeated notes the validator flagged ('Construct noun with suffix rectum', 'Possessive suffix') restate rules 18 and 19 and need no convention. Nothing here generalises to a promotion or amendment."
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "chapter": "2SA.18",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "שָׁלוֹם as a one-word question or exclamation: where no interrogative particle stands (v29 שָׁלוֹם לַנַּעַר → Is it well with the young man) the whole fixed frame Is it well stays on the noun, headed on well, under rule 20's fixed-rendering it; where הֲ stands (v32 הֲשָׁלוֹם → Is it well) the particle takes the fronted Is and the noun keeps it well; and where the ASV writes a lexical subject (v28 שָׁלוֹם → All is well) the All is added as a supplied subject and is well joins the noun, since the ASV writes peace and well for the bare word without an All. The three are one reading of rule 20, and the difference is what stands in the Hebrew.",
+    "An emphatic independent pronoun doubling a verb's own subject is the unrendered occurrence where the ASV writes one pronoun: v22 אָרֻצָה־נָּא גַם־אָנִי → let me … also run keeps me with the cohortative and marks אָנִי unrepresented; v33 מוּתִי אֲנִי → I had died gives I to the infinitive's subject suffix (rule 18) and marks אֲנִי unrepresented. Where the ASV writes a separate word for the pronoun (v2 אֲנִי → myself, v13 אַתָּה → thou thyself) the pronoun takes it.",
+    "לְבַד with a 3ms suffix → alone: the preposition and construct noun fuse under rule 30 and the suffix is its own unit, unrepresented where the ASV writes no pronoun (v24, v26 a man running alone) and taking the subject pronoun where it does (v25 אִם־לְבַדּוֹ → If he be alone, with the construction copula joining the fused unit).",
+    "נַעַר → young man is headed on man throughout (vv5, 12, 15, 29, 32): the rule 31 subtraction ties, and man is the class noun the ASV writes bare for אִישׁ in the same verses, so young is the ASV's specifier; young remains the competing head.",
+    "The appositive לַנַּעַר לְאַבְשָׁלוֹם: the second לְ takes with where the ASV repeats the preposition (v5 with the young man, even with Absalom, the even added under rule 16) and is unrepresented where the ASV writes the appositive bare (v29, v32 with the young man Absalom)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 86 candidate lemma groups and the full dump of every verse, including the 18 `added` units the table cannot see. No construction is analysed two ways without the ASV licensing the difference.",
+    "Recurring constructions checked and found consistent: הַיּוֹם הַהוּא/הַזֶּה (7, 8, 18, 20: both articles unrepresented, pronoun takes that/this); לְבַד+suffix → alone (24, 25, 26: suffix unrepresented except where the ASV writes he, v25); נַעַר → young man headed on man (5, 12, 15, 29, 32); לַנַּעַר לְאַבְשָׁלוֹם (5 repeated with → second לְ; 29, 32 bare appositive → second לְ unrepresented); אֵין+לְ+suffix → have no (18, 22: existential takes have, לְ unrepresented, suffix takes subject pronoun); מִיַּד → of fused (19, 31); בָּשַׂר → bear/bringeth tidings headed on tidings (19, 20, 26, 31); the emphatic pronoun doubling a verb's own subject (22 אָנִי, 33 אֲנִי) as the unrendered occurrence, against 2 and 13 where the ASV writes a separate myself/thyself for it.",
+    "שָׁלוֹם frames differ by what stands in the Hebrew, not by analysis: 28 declarative All is well (All added as supplied subject, is well on the noun); 29 Is it well with no interrogative particle (whole frame on the noun); 32 הֲ present and takes the fronted Is, noun keeps it well. Rule 20 governs all three.",
+    "Two hedged single-verse readings are noted but not changed, since neither is a split: 3 נֹס → away (competing reading: away is the verb's particle and the infinitive absolute unrepresented) and 11 אֶחָת → a (competing reading: a to the noun, numeral unrepresented). Both carry rule 8 notes.",
+    "BSB disagreements: Td ×19, R ×16, Rd ×8 are the documented article/preposition conventions (ASV writes a, or renders the relation bare). אֲשֶׁר 18.8 is dropped by the ASV's comparative recasting (than the sword devoured); פְנֵי 18.9 by chanced to meet; the waws of 18.12 and 18.22 have no ASV connective; אֶת 18.15/17 are object markers; אָנִי 18.22 and זֶּה 18.22 are the unrendered occurrences beside a rendered verb and לָמָּה; the suffixes on לְבַד in 18.24/26 have no pronoun written. None is a genuine error.",
+    "No promotion or amendment: the chapter's judgments are applications of rules 20, 22, 30, 41, 43 and 56 already in the contract, and no candidate has corpus precedent in the packet to carry it."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "ref": "REV.18.18",
+  "alignments": [
+    {"source": ["s001"], "source_head": "s001", "target": ["t001"], "target_head": "t001", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s002"], "source_head": "s002", "target": ["t002", "t003"], "target_head": "t002", "status": "aligned", "confidence": "high", "note": "\"cried out\" is one English phrasal rendering of ἔκραξαν, headed on the lexical verb."},
+    {"source": ["s003"], "source_head": "s003", "target": ["t004", "t005", "t006", "t007"], "target_head": "t006", "status": "aligned", "confidence": "medium", "note": "The ASV renders the participle as a finite clause: \"as\" and \"they\" are helpers under rules 7 and 9. \"upon\" is taken as part of the English phrasal verb \"look upon\" rather than as a realization of the accusative article."},
+    {"source": ["s004"], "source_head": "s004", "target": ["t008"], "target_head": "t008", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s005"], "source_head": "s005", "target": ["t009"], "target_head": "t009", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s006"], "source_head": "s006", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "Article displaced by the possessive in \"of her burning\" (rule 20)."},
+    {"source": ["s007"], "source_head": "s007", "target": ["t010", "t012"], "target_head": "t012", "status": "aligned", "confidence": "high", "note": "\"of\" stays with the noun under rule 20; the target tokens are discontinuous around the possessive."},
+    {"source": ["s008"], "source_head": "s008", "target": ["t011"], "target_head": "t011", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s009"], "source_head": "s009", "target": ["t013"], "target_head": "t013", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s010"], "source_head": "s010", "target": ["t014", "t015"], "target_head": "t014", "status": "aligned", "confidence": "high", "note": "The substantival feminine interrogative is expanded with the supplied generic noun \"city\"; head stays on \"What\" under rule 17."},
+    {"source": ["s011"], "source_head": "s011", "target": ["t016", "t017"], "target_head": "t017", "status": "aligned", "confidence": "high", "note": "Supplied copula is a helper on the predicate adjective (rules 7 and 9)."},
+    {"source": ["s012"], "source_head": "s012", "target": ["t018"], "target_head": "t018", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s013"], "source_head": "s013", "target": ["t020"], "target_head": "t020", "status": "aligned", "confidence": "high", "note": "The ASV reorders the attributive adjective before the noun (rule 15)."},
+    {"source": ["s014"], "source_head": "s014", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "Second attributive article has no English realization (rule 23)."},
+    {"source": ["s015"], "source_head": "s015", "target": ["t019"], "target_head": "t019", "status": "aligned", "confidence": "high", "note": ""}
+  ],
+  "review_notes": []
+}

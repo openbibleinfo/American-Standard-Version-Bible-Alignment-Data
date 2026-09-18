@@ -1,0 +1,6 @@
+# Joel 3 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- מִסָּבִיב is two units, not one: the מִן is unrepresented and סָבִיב carries 'round about'. 'round about' says only what סָבִיב says, so rule 30's fusion condition is unmet and rule 2 splits it. The corpus agrees in both occurrences — 1KI.4.24 has the identical phrase for the identical English with מִן unrepresented, and 1KI.5.4 splits it with מִן taking 'on'. Applied at JOL.3.11 and JOL.3.12.
+- אֲשֶׁר ... שָׁם(ָּה), the relative plus its resumptive locative that the ASV renders with one word ('whither', 'where'), is one unit headed on the relative, with the directional he inside it. Rule 22 is about a repetition of the same element, and a relative plus a locative are not the same element; rule 30's closing sentence says so and rule 35's distance clause covers the intervening verb. The corpus is 6-2 this way (fused: 1KI.21.18, 1KI.8.47, 1KI.17.19, 1KI.4.28, 1KI.7.7, 1KI.8.21; split under rule 22: 1KI.18.10, 1KI.7.8). Applied at JOL.3.7. Not promoted to the contract because those two finished chapters would then contradict it and this session may not reopen them.

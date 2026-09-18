@@ -1,0 +1,154 @@
+{
+  "alignments": [
+    {
+      "note": "Negative; the projection carries the r01 reading of WLC.JOB.41.12.v001, which the ASV's 'will not' matches.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Verb rendered as light verb plus complement, with the supplied 'concerning' reaching its bare object (rules 44, 25); head on the complement.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t004",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Suffix as possessive.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Construct noun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Waw fused with a gapped negative into 'Nor' (rule 35).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Supplied possessive with no suffix or other possessive morpheme on this phrase (rule 18).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "The construct 'matter' has no English of its own; the ASV renders only the rectum's sense. The competing reading fuses both nouns into 'mighty strength'.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Plural of intensity rendered by an attributive plus its noun; head on the word carrying the lexeme (rule 31).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Waw fused with a gapped negative into 'nor' (rule 35).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Suffix as possessive.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Construct noun rendered attributively (rule 28).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Construct noun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "JOB.41.12",
+  "review_notes": [
+    "Variant WLC.JOB.41.12.v001 selected -> r01, covering s001; the ASV's negative matches the retained reading, so rule 53 does not engage.",
+    "'mighty strength' assigned wholly to `גְּבוּרוֹת`, leaving `דְּבַר` unrepresented; the alternative fuses the pair."
+  ]
+}

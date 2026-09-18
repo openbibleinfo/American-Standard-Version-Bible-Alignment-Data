@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "JER.19",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JER.19.2.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's proper name 'Harsith' distinguishes the qere reading; the alternative-rendering note concerns English wording and does not alter that textual judgment."
+    },
+    {
+      "unit_id": "WLC.JER.19.15.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's 'I will bring' does not distinguish the qere and ketiv spellings, and no mapped textual-variant note decides between them; retain the base qere fallback."
+    }
+  ]
+}

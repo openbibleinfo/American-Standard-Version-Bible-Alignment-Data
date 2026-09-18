@@ -1,0 +1,28 @@
+{
+  "chapter": "ACT.24",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Versification: the ASV renders the opening of ACT.24.19 (τινὲς δὲ ἀπὸ τῆς Ἀσίας Ἰουδαῖοι) at the end of ACT.24.18. Under rule 37 the English 'but there were certain Jews from Asia' is one `added` unit in 24.18 and s001-s006 of 24.19 are their own `unrepresented` units, each carrying a note naming the other verse. Neither verse reaches across, and a reference comparison reports all six 24.19 tokens as disagreements; that report is not a correction.",
+    "Where the ASV compresses a substantival τά plus a preposition plus a pronoun into an English possessive, as rule 36's τὰ περὶ ἡμῶν → 'our state' has it, this chapter empties the preposition and gives the possessive to the pronoun in both instances - τὰ περὶ ἐμαυτοῦ → 'my defence' at 24.10 and τὰ καθ' ὑμᾶς → 'your matter' at 24.22 - and decides the article by rule 103's licensing test rather than by the construction. At 24.22 the article takes the supplied nominal 'matter', no other token standing to claim it; at 24.10 it is `unrepresented` too, because 'defence' is what glosses ἀπολογέομαι under rule 91 and is already spent on the verb.",
+    "Where the ASV converts a Greek relative clause into a coordinate one, the supplied juncture is folded onto the relative pronoun's own unit and is not `added`: οἵτινες ἐνεφάνισαν → 'and they informed' at 24.1 gives 'and they' to οἵτινες. Rule 86's test is what licenses it, the relative pronoun being the source token that carries the subordination the ASV converted, and rule 88 places the word on the clause it introduces, as the chapter's participle-to-finite junctures at 24.23, 24.24, 24.25 and 24.26 are placed. Reading the juncture `added` under rule 86 remains defensible and the unit's note records that."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v116",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 26 verses end to end plus the 45-lemma candidate table. No construction is analysed two ways without the source or the ASV's own English licensing the difference, so no patches.",
+    "Article groups: the T-to-PREP bucket was the only real candidate. 24.14's two τοῖς differ by modifier class - a bare prepositional phrase takes rule 31 (article keeps 'things which', κατά takes 'are according to'), a participle takes rule 90 (article keeps 'which', participle keeps 'are written'). 24.5 s013 is a second attributive article under rule 23; 24.24 s022 is rule 57 across an interposed prepositional phrase. All principled.",
+    "The added/fold axis, which the table cannot see: the chapter has exactly one `added` unit, the rule 37 clause at 24.18, and its counterpart tokens at 24.19 s001-s006 are `unrepresented` with matching notes on both sides. Every other supplied word - subordinators (24.2, 24.5, 24.8, 24.10, 24.11, 24.20, 24.25, 24.27), subjects (rule 74), objects, complementizers (rule 85 at 24.9, 24.10, 24.15, 24.23) and junctures (24.1, 24.23, 24.24, 24.25, 24.26) - is folded onto a licensing token. No verse adds what another folds.",
+    "τε is consistent under rule 70's own test: `unrepresented` at 24.3 where the ASV writes one conjunction for τε ... καί, aligned to 'both' at 24.15 where it writes two, aligned to the connective at 24.5, 24.10, 24.23 and 24.27 where no καί answers. Rule 106's accusative arm is applied uniformly at 24.4, 24.6 and 24.27, the object keeping a bare pronoun or name while the English preposition stays inside the verb's unit.",
+    "BSB: none of the eleven disagreements is a genuine error. Six (24.19 τινές, δέ, ἀπό, τῆς, Ἀσίας, Ἰουδαῖοι) are the rule 37 versification, which rule 37 says will be reported and is not a correction. Three (24.10 τά and περί, 24.22 καθ) are rule 36 compression into a possessive. 24.10 τῷ is rule 38, the demonstrative τούτῳ holding the determiner slot. 24.26 καί is rule 65 with no English word written for it. 24.25 ἔχον is the only one resting on a contested reading, and that verse's note already records the competing whole-idiom analysis.",
+    "Two `noncompositional` calls remain the chapter's most arguable edges and both are hedged in place: ἀφ' ἧς → 'since' at 24.11 and διὰ παντός → 'always' at 24.16, where reading 'all-' as answering to παντός would make the unit `aligned` under rule 39. Neither conflicts with 24.3's πάντῃ → 'in all ways', which is three separate English words rather than one lexicalized word, nor with 24.16's ἐν τούτῳ → 'Herein', which spells both elements under rule 81.",
+    "One note citation is imprecise rather than wrong: 24.2's second supplied 'that' on γινομένων cites rule 103, where rule 86 is what licenses it - the second participle carries the subordination. The edge itself is right and matches the chapter's other participle folds, so I have not patched the verse for a citation."
+  ]
+}

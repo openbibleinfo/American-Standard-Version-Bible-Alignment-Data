@@ -1,0 +1,179 @@
+{
+  "alignments": [
+    {
+      "note": "Rule 91's operational test: the corpus spends the proximity word on the ἐγγ- family — ἐγγύς → *nigh*, *nigh unto*, *near*, and *at hand* headed on *hand* (rule 71) — and never spends *draw* on it, *draw* being what the corpus gives ἀντλέω (ἀντλῆσαι → *to draw*, rule 40) and ἕλκω. So *nigh* glosses the lexeme and *draw* is the light verb of the resultative rendering; rule 17's meaning-bearing complement puts the head on *nigh*, as *make straight* heads on *straight*. Rule 104's contrast (ἐξέρχεται → *cometh forth* on *cometh*) does not reach this, ἐγγίζω being denominative from ἐγγύς rather than a verb of motion whose own sense is *draw*. A head on the finite *Draw* is what rule 17 forbids.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Rule 23: the ASV gives *God* no determiner, so the article has no *the* to anchor. Rule 21 names this very phrase — τῷ θεῷ → *to God* is one unit on the noun — and forbids leaving a bare *to* on the article.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rule 21's determinerless clause: the dative's case preposition *to* stays with the noun, headed on *God* per rule 17.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Coordinating conjunction expressed in Greek, aligned in the ordinary way.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Rule 9: the inflected future carries its supplied subject *he* and auxiliary *will*, and rule 17 chooses the lexical predicate over both. Rule 91 then heads the unit on *nigh*, the word the corpus spends on the ἐγγ- family, matching s001 in the same verse under rule 24.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Rule 21: the dative pronoun takes its case preposition *to* along with it, headed on the pronoun.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Imperative rendered by a single English verb.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Rule 51's anarthrous clause: no Greek article stands to compete, so the supplied possessive *your* is an ordinary rule 7 helper on the noun it determines; rule 11 keeps the ASV's markup from making it `added`.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Rule 89's closing clause: the Greek vocative is anarthrous, so no article competes and the supplied address word *ye* is a rule 7 helper on the noun, as γυναῖκες → *ye wives* is.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Expressed conjunction, aligned in the ordinary way.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Imperative rendered by a single English verb.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Anarthrous noun with a supplied possessive, analysed as s008 is (rule 24): *your* is a rule 7 helper on the noun under rule 51's anarthrous clause.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Anarthrous vocative adjective; the supplied address word *ye* is a rule 7 helper on it, as at s009 (rule 89's closing clause). Head on the substantival adjective, which carries the sense.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022"
+      ],
+      "target_head": "t022"
+    }
+  ],
+  "ref": "JAS.4.8",
+  "review_notes": [
+    "Reviewed the accepted alignment against the contract and returned it unchanged; the only edit is to s001's note, which now names the corpus evidence that *draw* is spent on a different lexeme.",
+    "All 13 source ids and all 22 target ids are partitioned exactly once, and every head is a member of its own array.",
+    "s002 is the only unrepresented unit. Rule 21 names τῷ θεῷ → *to God* by hand as one unit on the noun with the article empty under rule 23, so this is settled text rather than a judgment call.",
+    "Both ἐγγίζω units head on *nigh* rather than on *draw*. Rule 91's test is a query on what the corpus spends on the lexeme, not a decomposition: the ἐγγ- family takes the proximity word in every unit rule 71 records (ἐγγύς → *nigh*, *nigh unto*, *near*, *at hand* on *hand*), while *draw* is what the corpus spends on ἀντλέω at JHN.2.8 (rule 40) and on ἕλκω. Rule 24 then requires s001 and s005 to be analysed alike, and they are.",
+    "The competing reading — *draw* as the lexical verb of motion and *nigh* as its particle, on the analogy of rule 104's ἐξέρχεται → *cometh forth* — is defensible but declined: ἐγγίζω is denominative from ἐγγύς, so the proximity word is the root's own gloss and *draw* is the light verb rule 17 forbids heading on.",
+    "Rule 89's article case does not arise: both vocatives (s009, s013) are anarthrous, so the supplied *ye* is a rule 7 helper on the noun and adjective rather than an article's address word. Likewise rule 20 does not arise for *your* at s008 and s012, no Greek article standing to be displaced.",
+    "Variant SBLGNT.JAS.4.8.v005 is underdetermined and its fallback is not marked FALLBACK EXCLUDED BY EVIDENCE, so rule 97 does not apply and s005 is aligned normally. Rule 12 forbids revisiting the reading here.",
+    "Nothing in this verse needs a chapter conventions entry beyond the ἐγγ- head, which rule 24 already fixes within the verse; a later ἐγγίζω elsewhere in JAS should follow the same query."
+  ]
+}

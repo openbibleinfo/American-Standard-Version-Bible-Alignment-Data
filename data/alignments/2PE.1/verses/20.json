@@ -1,0 +1,139 @@
+{
+  "ref": "2PE.1.20",
+  "alignments": [
+    {
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Reported speech with an expressed complementizer, so the conjunction aligns to that; not the recitative case of rule 43."
+    },
+    {
+      "source": [
+        "s005",
+        "s010"
+      ],
+      "source_head": "s005",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005",
+      "status": "aligned",
+      "confidence": "medium",
+      "note": "The ASV writes the negation once, as *no*, and leaves pasa no separate English word, so rule 39's test joins the pair into one discontinuous unit under rule 15. Rules 41 and 59 do not empty the negator, pas being no negative, but those settle emptying and not joining; rule 80 is a different construction, a quantifier with a substantival article that rule 32 can empty. As 1JN.2.21, 1JN.3.15, EPH.5.5, GAL.2.16 and REV.22.3, all of them medium. Giving *no* to ou alone and leaving pasa unrepresented remains defensible."
+    },
+    {
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Anarthrous genitive rendered 'of + noun'; the case preposition rides with the noun under rules 21 and 17."
+    },
+    {
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "target": [
+        "t010",
+        "t012"
+      ],
+      "target_head": "t012",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Discontinuous under rule 15: the case preposition 'of' belongs to the governed noun, the attributive adjective standing between them."
+    },
+    {
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The ASV renders this instance of the adjective as plain 'private' rather than a possessive, so rule 47's displacement is not in question."
+    }
+  ],
+  "review_notes": []
+}

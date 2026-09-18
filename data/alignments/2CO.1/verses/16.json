@@ -1,0 +1,280 @@
+{
+  "alignments": [
+    {
+      "confidence": "high",
+      "note": "Coordinating conjunction.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "confidence": "high",
+      "note": "διά + genitive rendered *by*; rule 36 keeps the English preposition on the Greek preposition rather than on the verb.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "confidence": "high",
+      "note": "Genitive pronoun governed by the preposition.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "confidence": "high",
+      "note": "Infinitive with its own infinitival marker: no preposition or conjunction governs the clause, so *to* is a rule 7 helper on the verb under rule 61's closing clause. Head on the lexical verb per rule 17.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "confidence": "high",
+      "note": "Preposition of goal.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "confidence": "high",
+      "note": "Place name.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "confidence": "high",
+      "note": "Coordinating conjunction.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "confidence": "high",
+      "note": "Adverb.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "confidence": "high",
+      "note": "Preposition of source.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "confidence": "high",
+      "note": "Place name; anarthrous, and the ASV supplies no determiner.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "confidence": "high",
+      "note": "Second infinitive, analysed exactly as s004: bare infinitive with no governing preposition or conjunction, so *to* rides with its verb under rules 7 and 61.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "confidence": "high",
+      "note": "Preposition rendered *unto*; rule 36 keeps it off the verb.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "confidence": "high",
+      "note": "Accusative pronoun governed by the preposition.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "confidence": "high",
+      "note": "Coordinating conjunction.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "confidence": "high",
+      "note": "Agentive ὑπό rendered *of*; rule 36 keeps the English preposition on the Greek preposition, not on the passive verb.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "confidence": "high",
+      "note": "Genitive pronoun as agent.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "confidence": "medium",
+      "note": "One Greek verb rendered by the whole ASV idiom *set forward on one's journey*; the infinitival marker, the passive *be* and the supplied *my* are rule 7 and 9 helpers, and no other source token can carry *on my journey* — the possessor is the unexpressed first person, not ὑμῶν — so rule 11 keeps it from being `added`. Head on *forward* by rule 17's resultative clause, the same choice as *make straight* → *straight*, *set* being the light verb. Two competing heads remain defensible: *set*, and *journey*, since the ASV's other renderings of προπέμπω keep the noun (*bring on one's way*) more consistently than *forward*. Recorded `medium` because the packet carries no corpus row for this lexeme to settle rule 91's test.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020",
+        "t021",
+        "t022",
+        "t023",
+        "t024",
+        "t025"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "confidence": "high",
+      "note": "Preposition of goal rendered *unto*.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t026"
+      ],
+      "target_head": "t026"
+    },
+    {
+      "confidence": "high",
+      "note": "Article before a place name with no English realization; rule 23. Rule 21 forbids leaving a bare *unto* on it, so the case preposition stays with s018 and the name stands alone.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "Place name.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t027"
+      ],
+      "target_head": "t027"
+    }
+  ],
+  "ref": "2CO.1.16",
+  "review_notes": [
+    "Reviewed the accepted alignment; kept its unit boundaries and all heads. The only change is a fuller note on s017 naming *journey* as the live competing head alongside *set*.",
+    "Every s### and t### is partitioned exactly once: s001-s020 with s019 `unrepresented`, and t001-t027 all placed.",
+    "Both infinitives keep their own *to* under rule 61's no-preposition clause: neither is governed by a preposition or a conjunction, so rule 40 is not in play and the marker is an ordinary rule 7 helper.",
+    "s017 is the only multiword unit. *on my journey* is supplied English for the single lexeme προπέμπω; the possessor is the unexpressed first-person subject, so ὑμῶν (s016, the agent) cannot take *my* and rule 11 keeps the supplied words from being `added`.",
+    "s017's head is the one open question. Rule 17's resultative clause selects *forward* over the light *set*; *journey* is the other defensible reading, since the ASV's other renderings of προπέμπω (*bring on one's way*, *set forward on his journey*) retain the noun where they do not retain *forward*. Rule 91 would settle this from what the corpus spends on προπέμπω, but no such row is in the packet, hence `medium`.",
+    "s019 is `unrepresented` under rule 23 rather than grouped with s020: the ASV writes no determiner for Judaea, and rule 21 explicitly refuses a bare *unto* on an article, so nothing is left for it.",
+    "Three prepositions here (s002, s012, s015) sit next to verbs English could read as phrasal; rule 36 keeps the English preposition on each of them in every case."
+  ]
+}

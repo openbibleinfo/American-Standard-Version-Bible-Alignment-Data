@@ -1,0 +1,286 @@
+{
+  "alignments": [
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Rule 51's anarthrous clause: no Greek article stands, so the supplied determiner is a rule 7 helper on the noun.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Rule 21's determinerless clause: *of* stays with the bare noun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Rules 22 and 32: the modifier is a prepositional phrase with no verb, so the substantival article keeps the discontinuous *them ... who* along with the case preposition; rule 22 heads it on the nominal word.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Negative.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Rule 31: the verbless modifier's preposition carries the supplied copula, which its own phrase is the predicate of.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Rule 51's anarthrous clause.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Adverb.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Adversative conjunction.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Rule 65: the intensifying καί takes the written *also*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Rule 32, with rule 90: the ASV writes one English word for the pair, so the substantival article takes the pronoun-relativizer and nothing else.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Rule 32: the participle keeps its own verb.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Rule 21: the case preposition and *the* form one unit headed on the determiner.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Head noun, bare.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Corrected from *of that which*, which left the supplied *he had* on ἐν. Rule 31's precedes-branch: the article stands before the noun it governs, so it takes the supplied demonstrative determiner with its case preposition (rules 21 and 60) and the relativizer of the verbless modifier, and it keeps the relative clause's own supplied verb *he had* as well, discontinuously under rule 15. Rule 62's scoping clause is what places that verb here rather than on the preposition: the rule reaches only a supplied verb the standing prepositional phrase is the predicate of, and *in uncircumcision* is an adjunct of *had*, not its predicate. ROM.4.11 reads the identical collocation the same way, giving *which he had* to the article and only the copular frame *while he was in* to ἐν. Head on the determiner *that* under rule 31.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t022",
+        "t023",
+        "t029",
+        "t030",
+        "t031"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Corrected to take only *in*. Rule 31 gives a verbless modifier's preposition the supplied copula, as ROM.4.11's ἐν takes *while he was in*, but the ASV writes no copula here; the supplied lexical *had* belongs to the article's relative clause under rule 62's predication test. Leaving *he had* here remains defensible on rule 31's bare wording.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t032"
+      ],
+      "target_head": "t032"
+    },
+    {
+      "note": "Anarthrous noun.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t033"
+      ],
+      "target_head": "t033"
+    },
+    {
+      "note": "Head noun, bare after the article took the determiner.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Rule 20: the possessive *our* belongs to ἡμῶν, so the article's determiner slot is occupied.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rule 21's determinerless clause: *of* stays with the noun, discontinuously across the possessive.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t025",
+        "t027"
+      ],
+      "target_head": "t027"
+    },
+    {
+      "note": "Rule 20: the genitive pronoun carries the possessive.",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t026"
+      ],
+      "target_head": "t026"
+    },
+    {
+      "note": "Name in apposition.",
+      "source": [
+        "s022"
+      ],
+      "source_head": "s022",
+      "status": "aligned",
+      "target": [
+        "t028"
+      ],
+      "target_head": "t028"
+    }
+  ],
+  "ref": "ROM.4.12",
+  "review_notes": [
+    "Corrected s015 and s016 only; every other unit is as the verse pass returned it, and all 22 source ids and all 33 target ids remain partitioned exactly once.",
+    "The direction of the fix follows ROM.4.11, which is the better-founded reading: there the ASV writes both *he had* and *while he was*, and rule 62's test separates them cleanly, the copula *was* being what the prepositional phrase is the predicate of and *had* not.",
+    "Giving *he had* back to ἐν remains defensible on rule 31's bare wording, which speaks of an article's verbless modifier carrying the supplied verb; what forbids it is rule 62's scoping clause, which limits that carriage to a verb the phrase is the predicate of.",
+    "s015 is now discontinuous across t024-t028 under rule 15. No intervening word is absorbed: *faith*, *of*, *our*, *father* and *Abraham* keep their own units on s018, s020, s021 and s022.",
+    "Head unchanged on t023 *that*: rule 31's precedes-branch heads such a unit on the determiner, and rule 60 makes the supplied demonstrative the article's own."
+  ]
+}

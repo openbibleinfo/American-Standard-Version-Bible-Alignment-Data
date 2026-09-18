@@ -1,0 +1,7 @@
+# Romans 16 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- ROM.16.25, 16.26 and 16.27 carry no source tokens in the prepared projection. Each verse is one added unit covering its whole English with a null head, not clause-sized added units: rule 2's atomization has no source side to work against, so any split would be arbitrary. Rule 37 is ruled out in each note, the licensing Greek standing in no verse of the projection at all.
+- The supplied second imperative 'salute' at 16:5 is added. The Greek imperative governing that clause is Aspasasthe at 16:3 and is already spent on the 'Salute' written there, so no token of 16:5 licenses it, and rule 7 cannot fold a full lexical verb onto the adjacent kai. This is rule 103's reasoning with the licensing token one verse back rather than in the same verse; rule 37 proper does not fit, because the 16:3 imperative is represented in its own verse.
+- In the greeting-list idiom ton [name] - 'them of the household of Aristobulus' (16:10) and 'of the household of Narcissus' (16:11) - the substantival article takes the supplied 'the household' and is headed on 'household' under rules 22 and 102, while the genitive name keeps only 'of X' with its case preposition. Both instances read alike; the name is never made to carry the supplied noun.

@@ -1,0 +1,24 @@
+{
+  "chapter": "2SA.7",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "לְמִן before a noun is one fused compound preposition in this chapter, headed on לְ under rule 23 and on the word carrying the ablative lexeme under rule 24: v.6 → 'since', v.11 → 'as from'. The ASV's italic 'as' in v.11 is read as part of that one two-word rendering under rule 30 rather than as an added unit; the competing reading (מִן → 'from', 'as' added) is named in the v.11 note and was not adopted."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 29 verses end to end against the 59-lemma candidate table. Every multi-treatment bucket is licensed by a difference in the ASV or the Hebrew: dative/appositive לְ and אֶל go unrepresented only where the ASV writes the object bare (vv.5, 7, 8, 9, 10, 11, 14, 23, 24, 27) and take 'to/unto/for' wherever a word is written; resultative לְ is unrepresented beside a written הָיָה (vv.14, 24b) and takes 'for' / 'to be' where no הָיָה stands (vv.23, 24a); the Sp1cs suffix is unrepresented only inside the title אֲדֹנָי (rule 57) and 'my' elsewhere; articles go unrepresented only beside a demonstrative, in a bare vocative/predicate, or where the ASV writes no 'the'.",
+    "Constructions repeated across verses are treated alike: וְעַתָּה splits עַתָּה→now / waw→therefore or And (vv.8, 25, 28, 29); the וַיְהִי frame's apodosis 'that' goes to the apodosis waw (vv.2, 4) and the bare apodosis waw is unrepresented (vv.12, 14); עַד־עוֹלָם is for/ever in all six places; לִפְנֵי/מִפְּנֵי/מִלִּפְנֵי fuse to 'before' (vv.15, 16, 18, 23, 26, 29) and split only where the ASV writes 'from before' (v.9); לְמִן fuses in both occurrences (v.6 'since', v.11 'as from'); every supplied object 'it' with no object morpheme is its own added unit (vv.15, 21, 25, 29), and v.25's 'it' resuming the fronted 'the word' is correctly left added under rule 25's closing sentence.",
+    "Verse-local judgments already carry their competing readings in notes and are not splits: v.9 בְּכֹל אֲשֶׁר→whithersoever (rule 6 fallback head), v.14 'if' on בְּ with אֲשֶׁר unrepresented, v.20 יֹסִיף…עוֹד→'more' fused across the subject, v.22 waw+אֵין→'neither is there any' and the rule-53 unmarked divergence 'O Jehovah God', v.27 גָּלָה אֹזֶן→'revealed' with 'to' on the rectum, v.29 waw→'to' before the second imperative. The status difference between v.7's fused 'Why' (aligned) and v.9's 'whithersoever' (noncompositional) mirrors the corpus's own mixed labelling of fusions and was left alone.",
+    "BSB disagreements are all convention: the R and Td classes, the seven lexicalized אֲדֹנָי suffixes, the bare apodosis waws of vv.12/14, the inversion-only הֲ of v.7, the cohortative he of v.9 (tagged Sd, nothing written), and the resuming הוּא of v.28's tripartite clause. None is a genuine error. No aggregate score was pursued.",
+    "No contract promotion: the chapter teaches nothing the corpus below does not already carry, and the one novel fusion (v.20) has no corpus precedent shown, so it stays a noted verse judgment."
+  ]
+}

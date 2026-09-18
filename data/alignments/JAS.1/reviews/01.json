@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "a1bbb08bfe4e1593ced76a15ae393297b2b97e3056eb628a3ccfa7ba4a9d2f0a",
+  "contract_version": "nt-greek-verse-v61",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed against the contract and returned unchanged: all 15 source and 21 target ids are partitioned exactly once, every unit is aligned with both heads inside their arrays, and no unrepresented or added unit is needed — every English token is licensed by a source word.",
+    "s004 (kyriou) rechecked: the token table lists no article between s003 and s004, so the ASV's the cannot be an aligned article. Rule 51's anarthrous clause makes it a rule 7 helper on the noun and rule 21's determinerless clause keeps of there too; head on Lord under rule 17's of + noun clause. Compare s008, where an article is expressed and therefore takes to the headed on the.",
+    "s011/s012 decided under rule 31's prepositional-phrase carve-out, following the tais en toi ouranoi shape: the article keeps the supplied relativizer because no verb stands in the phrase to carry it, and are of goes to en. Because s011 follows its noun, the determiner stays with the noun phrase (already supplied by s008) and s011 takes only which — not the ... which, which rule 31 reserves for an article preceding its noun.",
+    "s013 takes a bare the: en is expressed and rule 36 gives of to it, so rule 21 does not owe the article a second case preposition. This is the shape rule 95 flags at REV.14.10, an article after a frame not being owed an of the.",
+    "s007 is contiguous in the target but reordered relative to the Greek, where doulos follows its genitives; rule 15 covers this and no intervening word is absorbed."
+  ],
+  "ref": "JAS.1.1",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

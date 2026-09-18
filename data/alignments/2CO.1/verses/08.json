@@ -1,0 +1,353 @@
+{
+  "alignments": [
+    {
+      "confidence": "high",
+      "note": "Ordinary negative rendered by *not*. No negative indefinite stands in the clause, so rules 41 and 59 do not bear.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "confidence": "high",
+      "note": "Postpositive conjunction fronted in English.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "confidence": "medium",
+      "note": "Finite verb takes its subject and the volitional *would* plus the causative *have* under rules 7 and 9. Head corrected to *would*: rule 17 defines the target head as the token most directly realizing the source lexeme and forbids choosing a word merely because it is the phrase's formal syntactic head, and rule 91 makes that test operational — the corpus spends *will*, *would*, *desire* on θέλω and spends *have* on ἔχω. The causative *have* is the genuinely empty support verb here, exactly as *bear* is in *bear witness*, so rule 9's *lexical verb rather than auxiliary* selects *would* rather than the formally finite *have*. A head on *have* under a surface reading of rule 9, and an edge putting *have* with s005, both remain defensible.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t005"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "confidence": "high",
+      "note": "Accusative subject of the infinitive, expressed in Greek, so rule 74's supplied-subject arm is not in question.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "confidence": "high",
+      "note": "Infinitive rendered by the predicate adjective *ignorant*; the causative frame that embeds it belongs to the matrix verb's unit under rule 27.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "confidence": "high",
+      "note": "Anarthrous vocative with no supplied address word, so rule 89 raises no question.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "confidence": "high",
+      "note": "Preposition realized by *concerning* under rule 36.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 20: the genitive pronoun s010 is free and carries the supplied possessive *our*, so the article realizes nothing.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "Head noun of the prepositional phrase.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "confidence": "high",
+      "note": "Genitive pronoun rendered by the possessive *our* under rule 20.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 31: second attributive article governing an expressed head noun (s009) with a participle following, so the relativizer is the participle's helper and the article is unrepresented under rule 23.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "medium",
+      "note": "Attributive participle recast as a finite relative clause: *which* is its rule 7 relativizer under rule 31, and the supplied object *us* stays with the verb that requires it in English under rule 74's supplied-object arm. Head on the lexical *befell*. Reading *us* as a second, discontinuous realization of s010 under rule 76 remains defensible.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013",
+        "t014"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "confidence": "high",
+      "note": "Preposition realized by *in*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 23: article before a name with no English realization.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "Proper name.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "confidence": "high",
+      "note": "Conjunction rendered by the complementizer *that*; the ASV writes an English word for it, which is rule 43's test.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "confidence": "medium",
+      "note": "καθ᾽ ὑπερβολήν rendered by the single English word *exceedingly*, so rule 94's precondition for a compound unit is met and rule 45 joins the pair, headed on the governed noun. Rule 93's test decides which of rule 34 and rule 45 applies, and it decides for 45: the noun's own unhedged corpus glosses are nouns of magnitude — *measure* at GAL.1.13, *greatness* at 2CO.4.7 and 2CO.12.7 — so it does not spell *exceedingly* by itself and the preposition is in the word rather than pleonastic. The one corpus row heading *exceedingly* on this lexeme, 2CO.4.17, is `medium` and its sibling note records that rule 91 cannot decide the head there, so it is not the unbroken line the earlier reading took it for. κατά governing one English word is noncompositional in four corpus units — καθ᾽ ἕνα → *severally* (rule 45's own example), κατ᾽ ἰδίαν → *privately*, κατὰ θεόν → *godly*, καθ᾽ ἡμέραν → *daily* — and 2CO.11.28 and 2CO.7.10 record that *dai-ly* and *god-ly* spelling the noun is still rule 45 and not a reason to strand the preposition. GAL.1.13 is not counter-precedent: it splits this same collocation as *beyond* / *measure* with καθ᾽ aligned to its own word, and 2CO.4.17 fails rule 94's precondition, the ASV spreading that phrase over *more and more exceedingly*. Medium: 2CO.8.2's κατὰ βάθους → *deep* splits with the preposition unrepresented, and that reading stays defensible here.",
+      "source": [
+        "s017",
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "noncompositional",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "confidence": "high",
+      "note": "Preposition realized by *beyond* under rule 36.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 51: the Greek is anarthrous, so no article competes and the supplied possessive *our* is an ordinary rule 7 helper on the noun it determines.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t024",
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "confidence": "high",
+      "note": "Passive verb with its supplied subject and auxiliary; *down* is the English verb's own particle. Head on the lexical *weighed* under rules 9 and 17.",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019",
+        "t020",
+        "t021"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "confidence": "medium",
+      "note": "Result conjunction realized by the one clause-introducer *insomuch that* under rule 40, headed on the sense-carrying word as rule 61 heads *before that* on *before*. A head on the bare complementizer *that* remains defensible.",
+      "source": [
+        "s022"
+      ],
+      "source_head": "s022",
+      "status": "aligned",
+      "target": [
+        "t026",
+        "t027"
+      ],
+      "target_head": "t026"
+    },
+    {
+      "confidence": "high",
+      "note": "Infinitive rendered by the finite *despaired*.",
+      "source": [
+        "s023"
+      ],
+      "source_head": "s023",
+      "status": "aligned",
+      "target": [
+        "t029"
+      ],
+      "target_head": "t029"
+    },
+    {
+      "confidence": "high",
+      "note": "Accusative subject of the infinitive, expressed in Greek and rendered by the English subject *we*.",
+      "source": [
+        "s024"
+      ],
+      "source_head": "s024",
+      "status": "aligned",
+      "target": [
+        "t028"
+      ],
+      "target_head": "t028"
+    },
+    {
+      "confidence": "high",
+      "note": "Intensifying καί realized by a bare *even*, which is the gloss it answers to where no correlative *so* competes (rule 82); rule 65's English-side test makes it aligned rather than unrepresented.",
+      "source": [
+        "s025"
+      ],
+      "source_head": "s025",
+      "status": "aligned",
+      "target": [
+        "t030"
+      ],
+      "target_head": "t030"
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 61: nominalizing article of an articular infinitive, with no preposition governing it and no determiner written, so it realizes nothing.",
+      "source": [
+        "s026"
+      ],
+      "source_head": "s026",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "Infinitive rendered nominally as *life*; the genitive case preposition *of* rides with the noun under rules 21 and 23, the article having no determiner to anchor.",
+      "source": [
+        "s027"
+      ],
+      "source_head": "s027",
+      "status": "aligned",
+      "target": [
+        "t031",
+        "t032"
+      ],
+      "target_head": "t032"
+    }
+  ],
+  "ref": "2CO.1.8",
+  "review_notes": [
+    "Corrected s003's target head from *have* (t005) to *would* (t003). The accepted reading applied rule 9's *lexical verb rather than auxiliary* by English syntax, but rule 17 forbids choosing a word because it is the phrase's formal head, and rule 91 makes the test operational: the head is the word the corpus spends on the lexeme. θέλω is glossed *would*/*will*/*desire*; *have* is the empty causative support verb, exactly the class rule 91 contrasts (*bear witness* heads on *witness*). Edges unchanged; recorded medium.",
+    "s017/s018 left as accepted. Rule 94's single-English-word precondition is met here, unlike GAL.1.13, so joining the pair under rule 45 was genuinely available; rule 93's test still decides against it, because rule 94 itself records the corpus spending a bare *exceedingly* on ὑπερβολήν at 2CO.4.17. Recorded medium, and the reasoning is the ASV's word count plus the noun's own gloss, not the idiom's shape.",
+    "s008 is unrepresented while s020 takes its own supplied *our*: the first has a free genitive pronoun to displace it (rule 20), the second is anarthrous Greek (rule 51). One verse writing both, which is the pattern rule 76 relies on.",
+    "s012 keeps the supplied *us* under rule 74's supplied-object arm, and the relativizer is the participle's helper because s011 governs an expressed head noun (rule 31). Rule 76 would permit reading *us* as a second discontinuous realization of s010; recorded medium.",
+    "A reference comparison may report s017 and s026 as disagreements. Rules 34/93 and 61 make those readings, not corrections."
+  ]
+}

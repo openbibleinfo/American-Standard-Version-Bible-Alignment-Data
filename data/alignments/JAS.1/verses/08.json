@@ -1,0 +1,108 @@
+{
+  "alignments": [
+    {
+      "note": "Anarthrous ἀνήρ with an anarthrous attributive δίψυχος, and the ASV supplies one determiner for the phrase: rule 58 puts that determiner on the noun rather than on the adjective, taken discontinuously under rule 15 since the ASV places *doubleminded* between them. The supplied *a* is an ordinary rule 7/51 helper on the word it determines, no Greek article being present to compete. Head on the noun per rule 17. The ASV supplies no copula here, so nothing of rule 53 arises.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Attributive adjective to its one English word. Its determiner is s001's under rule 58, not this unit's.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Predicate adjective; the ASV writes no copula for it, so rule 53's adjectival case has nothing to attach. The lexeme is an alpha-privative, but rule 84 governs only a privative the ASV renders by *without* plus a noun, and here a single English word glosses it.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Proper preposition to its own English preposition (rule 36).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Quantifier to *all*; no negator stands with it, so rule 87 is not in question, and it governs an expressed noun rather than a substantival article, so rule 80 is not either.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Rule 20 proper: the genitive pronoun αὐτοῦ is present and free — it carries no other English role — so it takes the supplied possessive *his* and the article realizes nothing. Rule 76's second arm would give the article *his* only if that pronoun had already been spent elsewhere, which it has not; rule 21 is likewise unavailable, the ASV writing no *the* for the article to anchor, and rule 60 does not apply since the ASV supplies no demonstrative.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The noun stands on its own English word, the case being realized by the expressed preposition ἐν rather than here.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Genitive pronoun taking the possessive that displaces the article's determiner (rule 20). Rule 11 keeps the ASV's markup from making *his* `added`.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    }
+  ],
+  "ref": "JAS.1.8",
+  "review_notes": [
+    "Reviewed and returned unchanged in its units and heads; only two notes were sharpened, on s001 and s003.",
+    "Every s### and t### id is partitioned exactly once.",
+    "s001's *a … man* is discontinuous under rule 15; the intervening *doubleminded* is not absorbed, being s002's own word. The governing rule for placing the supplied *a* on the noun rather than the adjective is 58, which the accepted note did not name — both source words are anarthrous, so 58's case is exact and the reading is unchanged.",
+    "The only contestable unit is s006/s008. αὐτοῦ is unspent, so rule 20 proper applies and the article is unrepresented rather than taking *his* under rule 76. The competing reading — article takes *his*, pronoun unrepresented — is not defensible here, since rule 76 turns on the pronoun having been spent on some other English role and it has not.",
+    "s003 ἀκατάστατος is an alpha-privative but is rendered by a single English word, so rule 84 is not engaged and the head is not in doubt.",
+    "No copula is written anywhere in the verse, so rules 53, 63, 68 and 96 are all inert; the source gloss's bracketed *[He is]* on s001 is interlinear apparatus, not ASV text, and no target token answers to it."
+  ]
+}

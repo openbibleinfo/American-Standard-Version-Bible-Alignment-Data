@@ -1,0 +1,29 @@
+{
+  "chapter": "PSA.108",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The ASV's text of this psalm follows a reading the projection does not carry in two places, and the packet records no variant unit for either, so each is aligned as printed under rule 53's closing paragraph with the divergence noted on the unit rather than marked unrepresented/added: 108.3 בַּל (tagged Tn) takes 'among' as the token standing where the preposition of the ASV's בַּלְאֻמִּים 'among the nations' stands, with 'the nations' on אֻמִּים, parallel to בָעַמִּים → 'among the peoples' in the first colon; 108.6 the 1cs object suffix on עֲנֵנִי takes the printed 'us' (margin: 'Another reading is, me'), the margin read and set aside under rule 38."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 13 candidate lemmas end to end; every difference is licensed by the source or the ASV's rendering, and none is a split.",
+    "הוּא/וְ/אֱלֹהִים/בְּ/עַל/הַ/צַר/שִׁיר: ordinary contextual renderings (possessive vs object, 'and'/'For'/'yea'/'also', vocative 'O God' vs subject 'God', 'the' vs unrepresented article on the vocative of 108.2).",
+    "זָמַר: 108.1 'I will sing praises' and 108.3 'I will sing praises unto' differ only by the supplied 'unto' reaching the object suffix (rule 44); both head on 'praises' as rule 44 directs (corpus heads split sing/praises, contract settles on the complement).",
+    "כָּבוֹד: 108.1 bare adverbial accusative takes 'with' (rule 33); 108.5 is a verbless-colon subject with no copula written. Same rule-33 placement in 108.6 ('with thy right hand') and 108.10 ('into the fortified city'); consistent.",
+    "לְ: 108.0 authorship 'of', 108.12 dative unrepresented (rule 40), 108.8 two לִי predicates fused with their suffixes as 'is mine' under rule 49's closing paragraph — three different constructions, each rightly placed.",
+    "עַד: 108.4 'reacheth unto' on the gapped colon's עַד is the rule 20/49 extent-copula reading ('endureth for ever' pattern: a bare 'is' says what the Hebrew says), alternative 'reacheth' added is named in the unit note; 108.10 is a plain 'unto' after a written verb. Not a split.",
+    "Two rule-53 closing-paragraph divergences (108.3 בַּל aligned to 'among' as the token standing where the preposition of בַּלְאֻמִּים stands; 108.6 'us' aligned to the 1cs suffix with the margin noted) are recorded as a convention so a later reader finds them together.",
+    "BSB disagreements: Sh ×4 and Sn ×1 are rule 32's documented convention difference; 108.2 הַ 'O' — ASV writes no 'O', unrepresented is correct (rule 36); 108.12 dative לְ — rule 40. No genuine errors.",
+    "108.13 cleft 'he it is that' follows rule 20 exactly: pronoun keeps 'he', 'it is' one added unit headed on 'is', 'that' a separate added unit.",
+    "No promotions or amendments: rule 20's copula-vs-lexical-verb test already decides the 108.4 case, and the corpus precedent shown does not add a general lesson."
+  ]
+}

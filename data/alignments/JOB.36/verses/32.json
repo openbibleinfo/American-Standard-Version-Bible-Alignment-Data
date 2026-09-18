@@ -1,0 +1,153 @@
+{
+  "alignments": [
+    {
+      "note": "Rule 40: the ASV promotes the preposition's object to the direct object of *covereth*, leaving its own relation unstated while the noun keeps an English word of its own.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The noun takes *hands*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Rule 18's closing sentence: the supplied possessive *his* answers to no suffix or other possessive morpheme.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Rule 17 keeps the subject pronoun with the verb, and rule 44 keeps the supplied *with*, by which the English verb reaches the bare Hebrew object `אוֹר`, inside the verb's unit; headed on *covereth*, discontinuous under rule 25.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t005"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Rule 15: the supplied *the* determines this nominal expression. The ASV renders `אוֹר` as *lightning*; the marginal *Hebrew light* corroborates nothing and is set aside under rule 38.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Rule 14: the waw takes *And*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Rule 44: the verb is rendered as the light verb *giveth ... a charge*, headed on the complement, with the indefinite article joining that nominal under rule 15; discontinuous around the object pronoun under rule 25.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Rule 40: the preposition is rendered as a bare English indirect object, its suffix taking the pronoun.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rule 18: the suffix takes *it*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Rule 52: the preposition, its phrase recast as a finite clause, takes the complementizer *that*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Rule 52: the recast participle keeps its supplied subject pronoun and its lexical verb, headed on *strike*, which writes `פָּגַע`'s lexeme.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Corrected. Rule 44's subtraction test: *mark* does not write `פָּגַע`'s own lexeme — *strike* has already written it — so the supplied object noun and its determiner answer to no morpheme and do not join the verb merely by standing inside its rendering, exactly as *counsel* is `added` in `לֹא שָׁאָלוּ` → *asked counsel not*. Competing reading: reading *it strike the mark* whole as rule 46's recasting of the nominal `מַפְגִּיעַ`; rejected because that rule reaches an English verb naming the noun's own lexeme, not a participant the Hebrew never writes.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "JOB.36.32",
+  "review_notes": [
+    "Corrected: *the mark* is split off as its own `added` unit. It is a supplied object noun that does not carry `פָּגַע`'s lexeme, which rule 44 marks `added` rather than folding into the verb's rendering.",
+    "Everything else in the accepted alignment is retained: rule 40 silences both `עַל`s, rule 18's closing sentence leaves the italic *his* `added`, rule 44 keeps the supplied *with* with `כִּסָּה`, and rule 52 gives *that* to `בְ`.",
+    "The marginal notes (*Hebrew light*; *Or, against the assailant*) were read and set aside under rule 38; the printed *that it strike the mark* is what is aligned. All ten source ids and all seventeen target ids are partitioned exactly once."
+  ]
+}

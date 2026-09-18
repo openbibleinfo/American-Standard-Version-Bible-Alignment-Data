@@ -1,0 +1,141 @@
+{
+  "alignments": [
+    {
+      "note": "פַּלְגֵי־מַיִם is rendered by the single English noun *watercourses*, which carries both morphemes' senses (rule 30); the supplied *the* joins the nominal expression under rule 15 and the supplied comparative *as* states what this nominal contributes, so it belongs to the noun under rule 33 rather than being `added`. Head on the construct noun carrying the lexeme.",
+      "source": [
+        "s001",
+        "s002"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Construct noun keeps only its own word (rule 19).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The construct relation is recast as an English possessive, so the phrase's *The* stands before the possessor's own word and joins it (rule 29); no article morpheme is present, so the determiner is supplied.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Prepositional predicate of a verbless clause takes the construction-supplied copula on the preposition (rule 49). The materially different reading takes פַּלְגֵי־מַיִם as the clause's nominal predicate and בְּיַד־יְהוָה as an adjunct modifying it, which under rule 49's closing paragraph would send the copula to that nominal, discontinuous under rule 25, and leave בְּ the bare *in*. The reading taken here follows the ASV's own construal, announced by the supplied *as* it writes before *the watercourses*, which makes that nominal an adverbial comparison rather than the predicate; named under rule 8.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Construct noun with a supplied *the*, no article morpheme present (rule 29).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Nomen rectum takes the relational *of* (rule 19).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "*whithersoever* carries the direction of עַל, the universality of כֹּל and the relative אֲשֶׁר in one word (rules 30 and 35's *whatsoever*); headed on the relative as rule 23 heads a fused relative unit. The competing source head is כֹּל.",
+      "source": [
+        "s008",
+        "s009",
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "noncompositional",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Finite verb with its subject pronoun (rule 17).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Finite verb with subject pronoun, headed on the lexical verb (rules 17, 24).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Object suffix (rule 18).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "PRO.21.1",
+  "review_notes": [
+    "The comparative *as* was given to the fronted פַּלְגֵי־מַיִם under rule 33 rather than marked `added`; the noun it stands before is written.",
+    "The copula was placed on בְּ under rule 49's first sentence, on the reading that the ASV's supplied *as* makes פַּלְגֵי־מַיִם an adverbial comparison and leaves בְּיַד־יְהוָה as the clause's predicate. Reading the fronted nominal as the predicate instead would send the copula there under rule 49's closing paragraph; that alternative is now named in the unit's note under rule 8. The chapter reconciliation changed no edge, head or status here.",
+    "Nothing is `added` in this verse."
+  ]
+}

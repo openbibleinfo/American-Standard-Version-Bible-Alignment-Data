@@ -1,0 +1,30 @@
+{
+  "chapter": "NUM.30",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "In the formula `אֲשֶׁר־אָסְרָה עַל־נַפְשָׁהּ` (vv. 4 ×2, 5, 6, 7, 8, 9, 11) the ASV's *wherewith* is the relative's own single-morpheme unit and is not fused with `עַל` and its noun under rule 22. The `עַל` phrase denotes her soul rather than the antecedent bond, and `נַפְשָׁהּ` holds an English word of its own, so nothing here answers to the `אֲשֶׁר בּוֹ` → *wherein* pattern; `עַל` is its own `unrepresented` unit under rule 40, because the ASV writes *her soul* as a bare direct object.",
+    "`הָפֵר יָפֵר` (vv. 12, 15) → *make ... null and void*: the doublet's *null and* is what the ASV spends on the infinitive absolute and takes rule 56's slot, while the finite verb keeps the *make ... void* that is its rendering wherever no infinitive absolute stands (v. 8, v. 12's `הֲפֵרָם`, v. 13). The competing reading — the *and* `added` under rule 14's closing sentence, since a source morpheme's rendering stands on either side of it — is named in both units' notes and is not settled by any corpus precedent.",
+    "Read the Hebrew for a preposition before placing the ASV's *in* on `בֵּית`. v. 3 writes `בְּבֵית אָבִיהָ`, and that `בְּ` heads the phrase's predicate and takes *being in* under rule 49; vv. 10 and 16 write the bare locative accusative `בֵּית אִישָׁהּ` / `בֵּית אָבִיהָ`, where the supplied *in* joins the noun whose case-function licenses it under rule 33. The same English phrase is therefore aligned two ways in this chapter, and the difference is in the Hebrew."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v124",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 31 candidate lemma groups and read the dump end to end for the `added` units the lemma table cannot see. No split found; patches empty. Three chapter-wide judgments recorded in the conventions log.",
+    "`עַל` (14 occurrences): the ten in `אָסְרָה עַל־נַפְשָׁהּ` are uniformly `unrepresented` under rule 40, the ASV having made *her soul* a bare object; the four `עָלֶיהָ` are predicates taking the construction copula (vv. 6, 8, 14) or the ASV's own *against* (v. 9). Source- and ASV-licensed, not a split.",
+    "`אֲשֶׁר` → *wherewith* (8 units, vv. 4 ×2, 5, 6, 7, 8, 9, 11): given to the relative alone every time. `עַל־נַפְשָׁהּ` denotes her soul, not the antecedent bond, and holds English of its own, so rule 22's `אֲשֶׁר בּוֹ` → *wherein* fusion does not arise. Recorded, because the corpus does carry fused `wherewith` units a later reader might reach for.",
+    "Apodosis *then*: the waw takes it in vv. 4, 7, 8, 11, 14 and 15; v. 12 alone writes no conjunction at the apodosis head, so its *then* is `added`. Checked against each verse's source — rule 14's count, not an inconsistency.",
+    "Supplied English with no morpheme to answer for it is `added` consistently: the object *it*/*them* after `שָׁמַע` in seven places (vv. 7 ×2, 8, 11, 12, 14, 15), none of those clauses writing an object morpheme; the coordinating *and* of v. 11 before the asyndetic `לֹא הֵנִיא`; the appositional *even* of v. 9, whose clause writes no `אֵת`; and *herself* at v. 3, where the Hebrew writes no `נַפְשָׁהּ` (contrast v. 10, which does). No verse folds such a word into a neighbouring unit to avoid the `added`.",
+    "`כֹּל` + `לֹא`: fused as one *none* at v. 5, split at v. 12 where the ASV writes *whatsoever* and *not* separately. That is rule 35's own condition — one English word fuses, two do not — and both verses head on the negative or on the word written for each morpheme correctly.",
+    "`בֵּית` reads as *house* in v. 3 and *in house* in vv. 10 and 16 because v. 3 writes a `בְּ` and the other two do not; `בִּנְעֻרֶיהָ` takes *being in* at v. 16 and a bare *in* at v. 3 because the ASV writes one *being* per verse and places it before the first prepositional phrase. Both differences are licensed; the first is recorded.",
+    "`הָפֵר יָפֵר` → *make ... null and void* (vv. 12, 15): *null and* is placed on the infinitive absolute on chapter-internal evidence — the same verb without an infinitive absolute is plain *make void* at v. 8, at v. 12's `הֲפֵרָם` and at v. 13. Both notes name the competing reading (the *and* `added` under rule 14's closing sentence). Recorded as a convention, not promoted: the corpus shows no infinitive-absolute doublet, and rule 14's subtraction test points the other way, so hardening it into contract text would be a rule the evidence does not carry.",
+    "BSB: all three disagreement families are documented convention differences, and none is a genuine error. The nine `עַל`/`לְ` cases are rule 40 recastings (*bound her soul*, *forgive her*); the four `אֵת`+suffix cases are the marker/suffix segmentation of rules 16 and 18, where the suffix does take its English and only the marker is bare; and `הָיוֹ` at v. 6 is an infinitive absolute for which the ASV writes no distinct word, left `unrepresented` under rule 56's last sentence and rule 22. No accepted edge was changed."
+  ]
+}

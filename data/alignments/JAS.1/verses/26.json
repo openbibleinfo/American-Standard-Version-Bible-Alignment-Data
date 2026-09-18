@@ -1,0 +1,223 @@
+{
+  "alignments": [
+    {
+      "note": "Ordinary conditional εἰ → 'If'; rule 65's concessive case does not arise, no καί stands with it.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Anarthrous indefinite τις rendered by the phrase 'any man'; rule 17's generic-noun clause heads on 'any', the supplied 'man' being the empty completion, exactly as rule 69 heads οὐδένα → 'any man' on 'any'.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Finite δοκεῖ takes only 'thinketh'; the supplied subject 'himself' of the infinitive goes to εἶναι under rule 74, whose worked example δοκεῖ … εἶναί τι → 'thinketh himself to be something' is this same construction. The ASV margin's 'seemeth to be' would not change the split.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Rule 74: a supplied subject of a Greek infinitive is a rule 7 helper on the infinitive, not on the governing finite verb, so 'himself' rides here; 'to' is rule 61's ordinary infinitival marker, no preposition governing the construction. Head on the lexical verb 'be' under rule 17.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Predicate adjective inside the infinitival clause; the copula is already expressed by εἶναι, so nothing is supplied here and rule 53 does not arise.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Circumstantial participle recast as a finite clause: the supplied subordinator 'while' and subject 'he' are rule 7 helpers on the participle under rule 86, a participle being exactly the source token that licenses a supplied subordinator. Head on the lexical verb 'bridleth' under rules 9 and 17.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Ordinary negative μή aligned to 'not'; no negative indefinite follows, so rules 59 and 79 are not in question.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "γλῶσσαν is anarthrous, so no article competes for the determiner slot and the genitive pronoun plainly carries 'his'.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Bare noun; its determiner slot is filled by αὐτοῦ.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Adversative conjunction aligned to 'but'.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Second participle in the same recast clause; the ASV supplies no further subordinator or subject here, the 'while he' of the first clause carrying over in English, so this participle keeps only its own verb.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "As with s009: καρδίαν is anarthrous, so the possessive belongs to the genitive pronoun.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Bare noun; determiner slot filled by αὐτοῦ.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Substantival genitive demonstrative rendered 'this man’s': rule 49 gives the demonstrative the whole English expression including the generic noun the ASV supplies for it, and rule 17 holds the head on the demonstrative, exactly as ταῦτα → 'these things' does. The competing reading would give 'man’s' to the article ἡ under rule 22's supplied-nominal clause; I took the demonstrative reading because rule 49's contrast is scoped to an article whose complement is an adjective or participle, whereas here the article governs the expressed head noun θρησκεία and so is not substantival at all.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Rule 20 as extended to a genitive rendered with English 's (cf. τῆς Καίσαρος οἰκίας → 'Caesar’s household'): τούτου → 'this man’s' already occupies the determiner slot in front of θρησκεία, so the article realizes nothing. Rule 38 reaches the same result for a demonstrative. The ASV writes no 'the' for it.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Head noun standing bare, its determiner having gone to τούτου.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Verbless clause with an adjectival predicate: rule 53 gives the supplied copula to the predicate adjective, not to the subject noun phrase, and rule 63 confirms it against English word order where the subject is a lexical noun. Head on 'vain' under rule 17.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t022",
+        "t023"
+      ],
+      "target_head": "t023"
+    }
+  ],
+  "ref": "JAS.1.26",
+  "review_notes": [
+    "Returned unchanged: I re-derived every unit and found nothing to correct. All 17 source ids and all 23 target ids are partitioned exactly once, every aligned unit has nonempty arrays, and every head is a member of its own array.",
+    "s003/s005 is the decisive check and it is settled rather than contested: rule 74 states δοκεῖ … εἶναί τι → 'thinketh himself to be something' verbatim, giving a bare 'thinketh' to the finite verb and the supplied subject to the infinitive. No complementizer is supplied here, so rule 85 does not arise.",
+    "The one materially contested unit remains s014/s016. 'man’s' could in principle be read as a nominal supplied for the article under rule 22, but rule 49's contrast clause scopes that reading to an article whose complement is an adjective or participle; here ἡ governs the expressed noun θρησκεία, so it is attributive, not substantival, and the demonstrative takes the whole expression while the article is emptied by rules 20 and 38. Noted in both units.",
+    "Supplied helpers are placed by licensor rather than adjacency throughout: 'himself' on εἶναι (rule 74), 'while he' on χαλιναγωγῶν (rule 86 — a participle licenses a supplied subordinator, so nothing here is 'added'), 'is' on μάταιος (rules 53/63, the subject being the lexical noun θρησκεία).",
+    "Head choices checked against rule 91's operational test: 'thinketh' for δοκέω, 'bridleth' for χαλιναγωγέω, 'deceiveth' for ἀπατάω and 'vain' for μάταιος are each the word the corpus spends on that lexeme; 'any' over the supplied 'man' and 'this' over the supplied 'man’s' are rule 17's generic-completion clause.",
+    "No noncompositional units: no fused particle cluster, portmanteau or preposition-plus-complement stands in this verse.",
+    "Variants v009 and v010 are underdetermined with the base among the permitted readings and carry no FALLBACK EXCLUDED BY EVIDENCE mark, so rule 97 does not apply and no target token is 'added'."
+  ]
+}

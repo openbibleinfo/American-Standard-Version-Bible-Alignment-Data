@@ -1,0 +1,28 @@
+{
+  "chapter": "2KI.15",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2KI.15.36"
+  ],
+  "rejected": {},
+  "conventions": [
+    "A supplied connective standing with the first word of the colon it introduces is one added unit headed on the content word: the italic 'and reigned' of 15.17, 15.23 and 15.27 (no verb or waw in the Hebrew) and the supplied 'and all' of 15.36 (no waw or כֹּל before אֲשֶׁר עָשָׂה). Two supplied words are split only where they belong to different clauses, as 15.16's 'it' (object of the preceding 'smote') beside the 'and' opening the next colon.",
+    "תַּחְתָּיו → 'in his stead' divides as תַּחַת → 'in … stead', headed on 'stead' and discontinuous around the possessive, with the suffix taking 'his'; so in 15.7, 10, 14, 22, 25, 30, 38.",
+    "The chronicles formula has two shapes here and is not a split: with הֲלֹא הֵם כְּתוּבִים (15.6, 21, 36) the fronted 'are' goes to הֲ and the participle keeps a bare 'written'; with הִנָּם כְּתוּבִים (15.11, 15, 26, 31) there is no interrogative and the participle takes 'are written'."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 57 candidate lemmas: every multi-treatment bucket is licensed by the ASV's own wording (connective choice, presence of the/of, presentative dummy, fronted copula to הֲ in 15.6/21/36 vs copula on the participle in 15.11/15/26/31) or by a different construction (15.35 attributive article vs substantival article elsewhere; 15.5 indefinite rectum vs 15.19 arthrous noun).",
+    "Recurring formulas are partitioned identically across the chapter: regnal date (construct year takes 'the year', trailing absolute unrepresented), 'began to reign' on מָלַךְ, תַּחְתָּיו → 'in … stead' + 'his' in 7 verses, 'that which was evil/right' on the substantival article, bare אֲשֶׁר → 'wherewith', דִּבְרֵי הַיָּמִים → 'chronicles' with the article separate.",
+    "One real split, invisible to the lemma table: 15.17/23/27 hold the supplied 'and reigned' as one added unit, but 15.36 split the supplied 'and all' into two added units on a false analogy to 15.16 (where 'it' completes the prior clause and 'and' opens the next). In 15.36 both supplied words open the same coordinated colon, so they are one added unit under rule 2, headed on 'all'. Patched 15.36 only.",
+    "BSB disagreements (6× trailing שָׁנָה, 5× Td, לְ ×3, אֶת ×2, directive he on Galilee) are all documented convention differences; none is a genuine error.",
+    "No promotions or amendments: the 15.36 error came from misreading rule 2's two-office example, not from a gap in the rule."
+  ]
+}

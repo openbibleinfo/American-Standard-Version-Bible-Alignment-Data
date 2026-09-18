@@ -1,0 +1,115 @@
+{
+  "alignments": [
+    {
+      "note": "Waw takes the *And* written for it under rule 14.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Explicit subject pronoun takes only its own English word under rule 20; the verb keeps its auxiliary and lexical verb.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Finite verb with its future auxiliary under rule 17, headed on the lexical verb.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The definite direct-object marker has no English realization here; the ASV writes the object bare, so it is unrepresented under rule 16.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Proper name as the verb's object.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Preposition takes the *From* written for it under rule 11.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Quantifying construct noun keeps only its own word; the ASV writes no *of* between the two nouns for rule 19 to place.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Nomen rectum, rendered without a relational word.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Possessive suffix under rule 18; the English fronts it before the noun, which rule 25 allows.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    }
+  ],
+  "ref": "PSA.130.8",
+  "review_notes": [
+    "The pronoun הוּא is explicit and takes only *he*, with the auxiliary and lexical verb staying on יִפְדֶּה under rules 17 and 20."
+  ]
+}

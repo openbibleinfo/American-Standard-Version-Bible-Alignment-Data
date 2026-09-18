@@ -1,0 +1,183 @@
+{
+  "alignments": [
+    {
+      "note": "",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Rule 9: subject and auxiliary ride with the verb, headed on the lexical verb.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Anarthrous noun with a supplied indefinite (rule 51).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Rule 97's mirror case: the projection carries en horamati at SBLGNT.ACT.9.12.v010, a unit left underdetermined between r00-base and r01, and the ASV writes no *in a vision* in this verse, so no English answers to the preposition. Its own unit rather than one shared with the noun, under rule 2, as the rule 37 tokens of 9:28 are. A reference comparison will report it as a disagreement, and that report is not a correction.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rule 97's mirror case, as at s004: SBLGNT.ACT.9.12.v010 is underdetermined between r00-base and r01 and the projection carries the noun, which the ASV does not render here. Its own unit under rule 2.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Rule 106: *in* realizes the preverb eis- and rides inside the verb's unit, headed on the verb word.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Anarthrous noun; no article competes, so the supplied possessive is a rule 7 helper on the noun.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Rule 21: the case preposition rides with the pronoun.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "anablepo rendered *receive his sight*; rule 17 heads the support rendering on the meaning-bearing complement.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019",
+        "t020",
+        "t021",
+        "t022"
+      ],
+      "target_head": "t022"
+    }
+  ],
+  "ref": "ACT.9.12",
+  "review_notes": [
+    "Only the en horamati unit changed: it is now two unrepresented units, one per token, each naming the variant id and the readings that remained.",
+    "The rule 97 mirror reading is unchanged and correct: the projection carries en horamati at SBLGNT.ACT.9.12.v010 and the ASV writes no *in a vision* in this verse, so no English answers to either token."
+  ]
+}

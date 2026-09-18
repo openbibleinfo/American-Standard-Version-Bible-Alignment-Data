@@ -1,0 +1,165 @@
+{
+  "alignments": [
+    {
+      "note": "Connective δέ rendered *and*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Substantival article before the adjective πλούσιος; the ASV writes *the rich*, so the article takes its own determiner under rules 19 and 22 and the adjective stands alone under rule 2. Rule 49's supplied-nominal clause is not in question, since no generic noun is supplied here for the article to own — compare τὸ τρίτον → *the third part*, where *part* is the article's and *third* the adjective's. No participle follows, so rule 32 is not in question.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Substantivized adjective rendered *rich*; split from its article under rule 26.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The ASV recasts ἐν + the verbal noun as a finite clause, so the preposition takes the whole clause-introducer *in that* with the complementizer included, headed on the prepositional word, exactly as rule 61 has it for a preposition governing an articular infinitive and as rule 40 has it for a subordinating element realized by whatever introduces the English clause; *in that* is rule 61's *before that* — one clause-introducer the ASV never spells in two source-answering pieces. The competing reading gives a bare *in* to ἐν and *that* to the recast predicate; rejected because rule 61 refuses to split the archaic complementizer off its introducer.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The ASV's recast leaves the noun phrase no determiner at all — *he is made low* writes neither *the* nor a possessive — so nothing is left for the article and rule 23 decides it, as rule 61 leaves the nominalizing article of a recast prepositional construction empty while the preposition carries the introducer. Rule 20 is not the route: αὐτοῦ is spent on the clause's subject *he*, but no supplied possessive stands anywhere for rule 76's second arm to hand the article.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The verbal noun ταπείνωσις is recast as the passive predicate *is made low*; the copula and *made* are rule 7 and 9 helpers, and rule 17 heads on the meaning-bearing complement *low*, as *make straight* heads on *straight*. Rule 91 agrees: *low* is what the corpus spends on the ταπειν- lexeme, while *made* carries none of it.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The genitive possessor becomes the subject of the recast clause, so αὐτοῦ takes *he* rather than a possessive; the subject is not supplied and does not fall to the predicate under rules 53 or 68.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Causal ὅτι rendered *because*; not recitative, so rule 43 does not apply.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Comparative ὡς → *as*. No answering καί stands here, so rule 82 is not in question.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "The Greek is anarthrous, so no article competes and the supplied *the* is an ordinary rule 51 helper on the noun it determines; headed on the noun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Anarthrous genitive rendered *of the grass*: the case preposition and the supplied determiner both ride with the noun under rules 21 and 51, and rule 17 heads a source noun rendered *of + noun* on the noun.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Future indicative with its supplied subject and auxiliary; rule 9 heads on the lexical verb *pass*, the particle *away* belonging to the English phrasal verb and to no separate source token, the παρα- being inside the compound.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018",
+        "t019",
+        "t020"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "JAS.1.10",
+  "review_notes": [
+    "Reviewed against the contract; the accepted alignment is correct and is returned unchanged. Only notes were expanded, with no change to any unit's tokens, heads or statuses.",
+    "All 12 source and 20 target ids partitioned exactly once; every aligned unit has nonempty arrays with both heads inside them.",
+    "s004 is the one unit with a materially different defensible reading: *in that* kept whole on ἐν rather than split as bare *in* plus *that* on the recast predicate. Rule 61's *before that* is the governing precedent and the note names the competing reading.",
+    "s005 is the sole unrepresented unit. The recast writes no determiner and no possessive, and αὐτοῦ is spent on the subject *he*, so neither rule 20 nor rule 76's second arm reaches it. A reference comparison may report it as a disagreement; that report is not a correction.",
+    "Heads checked separately from edges per rule 28: s006 heads on *low* rather than the auxiliary *made* (rules 17 and 91), s012 on *pass* rather than *shall* (rule 9), s010 and s011 on their nouns rather than the supplied determiners (rules 17 and 51).",
+    "s001/s003 were audited under rule 13 as an article–adjective sequence and split; rule 49's supplied-nominal case does not arise because the ASV supplies no generic noun in *the rich*.",
+    "Verse 9's καυχάσθω governs this clause, but both the Greek and the ASV leave the verb elided here, so rule 37 is not in question and no token is orphaned across the verse boundary."
+  ]
+}

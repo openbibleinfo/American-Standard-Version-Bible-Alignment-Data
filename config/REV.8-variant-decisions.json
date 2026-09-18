@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "chapter": "REV.8",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.REV.8.1.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV temporal 'when he opened' can render either ὅταν with its subjunctive or ὅτε with its indicative."
+    },
+    {
+      "unit_id": "SBLGNT.REV.8.3.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'that he should add it' directly reflects the subjunctive δώσῃ under ἵνα rather than future indicative δώσει."
+    },
+    {
+      "unit_id": "SBLGNT.REV.8.6.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r02"
+      ],
+      "evidence": "ASV reflexive 'themselves' excludes simple personal αὐτούς but does not distinguish the reflexive spellings αὑτούς and ἑαυτούς; retain the base fallback."
+    },
+    {
+      "unit_id": "SBLGNT.REV.8.8.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV explicitly has 'burning with fire,' requiring πυρί and excluding its omission."
+    },
+    {
+      "unit_id": "SBLGNT.REV.8.9.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'the creatures' may supply a definite article in English whether or not Greek τῶν is present."
+    },
+    {
+      "unit_id": "SBLGNT.REV.8.9.v006",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV singular 'the third part of the ships was destroyed' directly reflects διεφθάρη rather than plural διεφθάρησαν."
+    },
+    {
+      "unit_id": "SBLGNT.REV.8.11.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV omits an English article before the predicate proper name 'Wormwood,' as it normally would whether Greek ὁ is present or absent."
+    },
+    {
+      "unit_id": "SBLGNT.REV.8.12.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV preserves the base order 'the day should not shine for the third part of it'; the alternative fronts 'the third part of it' before the verb and subject."
+    },
+    {
+      "unit_id": "SBLGNT.REV.8.13.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Woe ... for them that dwell' reflects the accusative τοὺς κατοικοῦντας governed by ἐπί, rather than the dative alternative."
+    }
+  ]
+}

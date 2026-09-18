@@ -1,0 +1,11 @@
+{
+  "alignment_sha256": "a968704634be191f0dec5a372b6befeb9e2da6865c045f554fd9f36f7b420ce1",
+  "contract_version": "ot-hebrew-verse-v116",
+  "notes": [
+    "Reconciliation by claude-code — corrected",
+    "The `מַ` of `לְמַדַּי` was marked `unrepresented` beside `דַּי` -> *sufficient number*, which is the treatment rule 30 explicitly rejects for a fixed multi-word Hebrew expression the ASV renders by one English rendering. Rule 31's subtraction makes *number* the supplied generic completing the substantive, so no morpheme owns a part of the two words and rule 30's one-rendering condition is met; the two morphemes share one unit headed on the morpheme carrying the lexeme. The verse pass had named this as the competing reading, and the BSB comparison flags the same token."
+  ],
+  "ref": "2CH.30.3",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

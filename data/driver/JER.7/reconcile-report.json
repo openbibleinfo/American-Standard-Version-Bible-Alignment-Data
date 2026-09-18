@@ -1,0 +1,30 @@
+{
+  "chapter": "JER.7",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "JER.7.7"
+  ],
+  "rejected": {},
+  "conventions": [
+    "לְמִן is one unit. Where the ASV renders the compound preposition לְ + מִן by a single English word — Since (7.25), from (7.7) — the two morphemes fuse as one noncompositional unit headed on מִן, rather than giving the word to מִן and marking the לְ unrepresented. 7.7 was corrected to match 7.25.",
+    "A demonstrative phrase standing as nomen rectum: in נִבְלַת הָעָם הַזֶּה → the dead bodies of this people (7.33) the chain's single written the goes to the article morpheme on הָעָם, fronted to the phrase's left edge under rule 29, while זֶה keeps this and its agreement article is unrepresented. This is the chain case and does not disturb the chapter's eleven bare demonstrative phrases (הַמָּקוֹם הַזֶּה → this place and the like), where the ASV writes no the for the phrase at all and both articles go unrepresented. Read whether a the is written for the chain before deciding.",
+    "The formula אֲשֶׁר נִקְרָא שְׁמִי עָלָיו → which is called by my name (7.10, 7.11, 7.14, 7.30) is divided the same way every time: עַל takes by, שֵׁם and its suffix take my name, and the resumptive 3ms suffix on עָלָיו is unrepresented under rule 22, the ASV writing no second pronoun for it. BSB represents that suffix at all four; the difference is conventional.",
+    "The ethical dative לָכֶם after a verb of trusting (אַל־תִּבְטְחוּ לָכֶם 7.4, בֹּטְחִים לָכֶם 7.8) is wholly unrendered: the preposition and its suffix are each their own unrepresented unit, since the ASV writes nothing for either. Where the ASV instead recasts לָכֶם as a possessive (your own hurt 7.6, your God 7.23) the suffix takes that pronoun and only the preposition is unrepresented, rule 40."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v59",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 66 candidate lemma groups and read the 34-verse dump end to end, since the table is keyed by source lemma and so cannot show the chapter's ten added units.",
+    "One real split: the compound preposition לְ + מִן is fused as one noncompositional unit at 7.25 (Since) but divided at 7.7 (from on מִן, the לְ unrepresented). The source is identical and the ASV writes one English word in both places, so nothing licenses the difference. JER.7.7 is patched to the fused reading, per rule 30's 'the whole expression is one unit ... rather than one rendered morpheme beside others marked unrepresented', and to match every other compound preposition in the chapter: מֵאֵת 7.1, מִפְּנֵי 7.12, מֵעַל 7.15, לַשֶּׁקֶר 7.9, לָכֵן 7.20 and 7.32, לְאָחוֹר and לְפָנִים 7.24.",
+    "After the patch JER.7.7 carries 22 units instead of 23; chapter totals become 822 units, 700 aligned, 88 unrepresented, 25 noncompositional, 10 added. All 23 source and 25 target ids of 7.7 remain partitioned exactly once.",
+    "Articles verified consistent chapter-wide. A present article morpheme takes a written the (7.18 queen of heaven, 7.31 high places of Topheth, 7.32 valley of Slaughter, 7.33 dead bodies of this people, and the arthrous-rectum chains of 7.20 and 7.33); a the is supplied on a construct only where no article stands in the chain (7.2, 7.17, 7.19, 7.22, 7.24, 7.25, 7.28, 7.29, 7.30, 7.32, 7.34); both articles of a bare הַX הַזֶּה phrase go unrepresented because the ASV writes no the for it (7.2, 7.3, 7.6, 7.7, 7.10, 7.11, 7.13, 7.16, 7.20, 7.23, 7.25, 7.27). 7.33 is the construct-chain case and not a departure from those eleven; it is logged as a convention.",
+    "Also checked and found licensed by the ASV rather than split: הֲ takes a fronted auxiliary where one is written (7.9, 7.11, 7.19) and is unrepresented under inversion alone (7.17); אֵת is unrepresented throughout except the appositional even of 7.15; supplied object pronouns are added where no object morpheme stands (7.11, 7.25, 7.29, 7.33) and go to the suffix where one does (7.18, 7.26, 7.30); supplied subordinators and connectives are added only where the clause writes none (7.6 if, 7.24 and) and otherwise go to the waw or particle present (7.5, 7.22, 7.25, 7.32); the copula goes to the predicate everywhere (7.4, 7.12, 7.28, 7.31); each קָרָא passive formula gives by to עַל and leaves the resumptive suffix unrepresented (7.10, 7.11, 7.14, 7.30).",
+    "BSB disagreements: none is a genuine error. Every group is a documented convention difference — object marker (16), resultative and לֵאמֹר lameds (21, 27), resumptive suffixes on עָלָיו and the שָׁם of 7.12 (22), articles in demonstrative phrases (29, 41), recast prepositions and their suffixes in 7.4 and 7.8 (40), question by inversion in 7.17 (17), and the unrendered waw of 7.25 (14). No accepted edge was moved to improve the rate; the patch incidentally shifts one R token from unrepresented to represented, which is a by-product of the fusion and not its motive."
+  ]
+}

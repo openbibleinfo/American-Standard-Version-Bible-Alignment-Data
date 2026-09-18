@@ -1,0 +1,27 @@
+{
+  "chapter": "2SA.20",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2SA.20.21"
+  ],
+  "rejected": {},
+  "conventions": [
+    "MACULA tags the name שֶׁבַע (Sheba son of Bichri) as a numeral (Acfsa) throughout this chapter. It is the proper name and is aligned as one: Sheba, of Sheba, was Sheba, never as a number.",
+    "Where the ASV renders an אַחֲרֵי whose verb is gapped or elided by an English verb of following — 'from following David', 'and followed Sheba' (20.2), 'let him follow Joab' (20.11) — that verb, with any volitive frame, is the preposition's own rendering of its relation, on rule 49's 'belonged to' reasoning, and is not a supplied lexical verb under rule 20."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked every multi-treatment lemma bucket. The waw, article, לְ, בְּ, אֶל, מִן and עַל variation is all read off the ASV (different connectives, silenced datives before bare pronouns, rule 49 copulas, comparative degree words) and is licensed by the source; the four unrepresented waws (20.1 whose-clause, 20.8 x2 and 20.12 x2 apodosis/resumption waws) each have no connective written. The two 'blew the trumpet' clauses (20.1, 20.22) and the two 'every man to his tent(s)' clauses are treated identically; the four 'to pursue after Sheba the son of Bichri' formulas (20.7, 20.10, 20.13) match.",
+    "Read the twelve added units end to end: supplied coordinators for asyndetic phrases (20.2, 20.19), a supplied possessive (20.3), a supplied subordinator/complementizer for asyndetic clauses (20.8, 20.12), the impersonal it of 'Is it well' (20.9), supplied objects (20.15, 20.18 x2, 20.22), an appositional even with no marker (20.21) and the italic 'the men of' (20.5). None is folded into a licensing morpheme in one verse and marked added in another.",
+    "One correction: 20.21 לְבַדּוֹ → only. The verse left the suffix outside the fusion as unrepresented; the corpus fuses לְ + בַד + suffix into the one 'only' in 25 units (1KI.12.20, 1KI.14.13 …), the single word carrying the reflexive as well as the restriction, so the three morphemes now share the unit under rule 30, headed on בַד. This also removes the BSB disagreement on WLC.2SA.20.21.028.",
+    "BSB disagreements otherwise are all documented convention: unrendered apodosis/relative waws and the second oath אִם (20.20), datives silenced before bare pronouns, the עַל of 'besieged him', the עַד before 'hither', the לְ of לֵאמֹר, the בְּ of 'blew the trumpet', the agreement article of 'the great stone', the directive he of בְּאָבֵלָה where בְּ holds 'in', the suffix of 'by name' and the object marker of 'deliver him'. No genuine error among them.",
+    "Within-verse judgment calls the notes already name and I left standing: 20.11 'let him follow' whole on the elliptical אַחֲרֵי (the resuming him could instead be read as מִי's under rule 25); 20.9 'with thee' on the subject pronoun; 20.5 italic 'the men of' as an added run rather than a rule 31 expansion of the name."
+  ]
+}

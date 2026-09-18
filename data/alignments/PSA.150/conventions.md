@@ -1,0 +1,6 @@
+# Psalms 150 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Construct chains in this chapter are followed as the ASV writes them. רְקִיעַ עֻזּוֹ is the only chain with a written *of*, which goes to the rectum under rule 19; רֹב גֻּדְלוֹ, תֵקַע שׁוֹפָר, צִלְצְלֵי שָׁמַע and צִלְצְלֵי תְרוּעָה are rendered attributively under rule 28, no relational word is supplied for the rectum, and each noun takes the English word that writes its own lexeme whichever order the ASV puts the two in — so תֵּקַע takes *sound* and שׁוֹפָר the attributive *trumpet*, while צֶלְצְלִים takes *cymbals* and שֶׁמַע the attributive *loud*.
+- Where one substantive is rendered by two English words, this chapter heads by rule 31's subtraction and not by position, so the direction differs from unit to unit and is not a split: גְּבוּרָה → *mighty acts* heads on *mighty* and מֵן → *stringed instruments* on *stringed*, because *acts* and *instruments* are generics the ASV supplied; תְּרוּעָה → *high sounding* heads on *sounding*, because there the noun's own lexeme is the sounding and *high* is the ASV's specifier. Each unit's note names the competing head under rule 8.

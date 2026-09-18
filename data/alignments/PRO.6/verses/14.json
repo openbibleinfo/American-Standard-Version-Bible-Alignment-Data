@@ -1,0 +1,130 @@
+{
+  "alignments": [
+    {
+      "note": "The clause's only nominal is its subject.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Prepositional predicate of a verbless clause takes the construction-supplied copula, headed on the preposition (rule 49), discontinuous under rule 25.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t004"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The ASV recasts the suffix's clause as a relative clause, and the relative is the pronoun realizing the suffix (rule 18).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Anarthrous participle takes the supplied relative (rule 46).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Preposition, quantifier and noun recast as one English adverb; the single word carries every morpheme's sense, so they share one unit (rules 30, 40), headed on the noun carrying the lexeme. The competing reading heads on כֹּל.",
+      "source": [
+        "s007",
+        "s008",
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The antecedent is already written and this clause's verb is finite with no relative morpheme in it, so the supplied relative answers to no morpheme (rules 46, 55).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Underdetermined ketiv/qere unit WLC.PRO.6.14.v001 resolved to r00-base by the prepared projection; no new textual decision is taken here (rule 9).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "The margin's literal gloss (*Hebrew letteth loose*) decides nothing (rule 38).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    }
+  ],
+  "ref": "PRO.6.14",
+  "review_notes": [
+    "The first *Who* is licensed by the anarthrous participle it stands before (rule 46); the second stands over a finite clause and is added (rule 55)."
+  ]
+}

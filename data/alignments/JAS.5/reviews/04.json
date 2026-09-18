@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "82f97ee28cd142c74c961a85a73aeb4d46e5b3f3f24d11835aec384e10272cce",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed unchanged. The accepted alignment partitions all 26 source and all 37 target ids exactly once, and every unit survives the check; the only edits are to note wording, adding the head reasoning for s012 and s015 and the rule 76 check on s008.",
+    "Both variant units (v001 covering s012, v002 covering s026) are underdetermined with the base reading still compatible with the ASV, and neither is marked FALLBACK EXCLUDED BY EVIDENCE, so rule 97 does not apply and no token is added on textual grounds.",
+    "s006 and s011 are both second attributive articles standing before participles whose head nouns (ergaton, misthos) are expressed, so rule 31 empties both and gives the relativizers who and which to the participles; s019 is the contrasting substantival article with no head noun and keeps its pronoun under rule 32. The verse writing all three shapes is what makes rule 31's expressed-head-noun test visible in one place.",
+    "s012 head: kept back by fraud is treated as the ASV's rendering of aphysteremenos rather than as separately recoverable material, by fraud having no Greek counterpart and no preposition token standing for it. The head is on kept, not fraud: rule 91 asks which English word the lexeme is spent on, aphystereo is a NT hapax, and the neighbouring hystereo family is rendered by the verb word, so keep back is the gloss and by fraud the amplification. A head on fraud would require reading kept back as an empty support verb, which it is not.",
+    "s008 was checked against rule 76 as well as rule 20: the genitive hymon at s010 is realized only by your and has not been spent on another syntactic role, so it is free and the article realizes nothing. The second hymon at s014 is a distinct token governed by aph and does not bear on this."
+  ],
+  "ref": "JAS.5.4",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

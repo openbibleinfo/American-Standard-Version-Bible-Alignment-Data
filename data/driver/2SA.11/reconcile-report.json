@@ -1,0 +1,29 @@
+{
+  "chapter": "2SA.11",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "שָׁאַל לִשְׁלוֹם X rendered 'asked ... how X did / fared / prospered': each לִ + שְׁלוֹם pair is one fused unit under rule 30 taking 'how' together with the verb the ASV writes for the welfare sense ('did', 'fared', 'prospered'), headed on that verb; the verbs are not added under rule 20 because dropping them leaves the welfare lexeme of שָׁלוֹם unwritten. The supplied 'of him' after 'asked' is one added unit (no object morpheme). Competing reading fuses only 'how' and marks the verbs added.",
+    "A directional particle the ASV writes inside a motion verb's rendering while an אֶל phrase in the same clause writes the direction stays with the verb under rule 44's clause-level reading and is not added: בּוֹא → 'came in' (v.4, before אֵלָיו) and אָסַף → 'took ... home' (v.27, before אֶל־בֵּיתוֹ). The אֶל keeps its own 'unto'/'to'.",
+    "נִגַּשְׁתֶּם in the rhetorical 'Wherefore went ye so nigh' (vv.20, 21) is one unit taking 'went ye so nigh', headed on 'nigh' under rule 44; the degree word 'so' is read as part of the ASV's rendering of the verb rather than added. In v.21 the following אֶל before 'the wall' is unrepresented under rule 40 (ASV 'nigh the wall'), while v.20's takes the 'unto' written for it."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 52 candidate lemmas against the full dump. No cross-verse split found: every treatment difference is licensed by what the ASV wrote or by a contract rule that names the case.",
+    "Waw: the five 'And when' pairs (vv.7, 10, 13, 26, 27) each leave the apodosis waw unrepresented, and the four וַיְהִי frames (vv.1, 2, 14, 16) each give the apodosis 'that' to the apodosis waw under rule 45; v.20 keeps 'that' with the frame because the ASV writes it ahead of the 'if' clause, which is rule 45's inside-the-frame case. v.20's opening waw is unrepresented because the ASV writes no connective at all.",
+    "מֵעַל: split 'from off' (v.2 first, v.24) versus fused 'from' (v.2 second, vv.20, 21) follows rule 2/30 exactly as the ASV writes one word or two. רָעַע בְּעֵינֵי: fused 'displease' in v.25 (contiguous) versus verb-alone plus noncompositional 'Jehovah' in v.27 (subject intervenes) is rule 30's contiguity condition and rule 6's בְּעֵינֵי פַרְעֹה precedent.",
+    "הֲ: 'Is' (v.3), 'Art' (v.10), 'did' (v.21) go to the particle under rules 17/20; v.20 is unrepresented because the question is marked by inversion alone. לְ before David/him with a bare English object (vv.5, 10, 13, 18, 22) is rule 40; v.8 takes the 'to' the ASV writes.",
+    "The five added units (v.1 'to battle', v.6 'saying', v.7 'of him', v.14 'it', v.17 'even') each answer to no morpheme, and no verse folds the same kind of supplied word into a neighbour.",
+    "BSB disagreements are all documented convention: unrendered articles, object markers, rule-40 prepositions, apodosis waws, v.12 'that day' bare בַּ, and v.20's inversion-only הֲ. None is an error.",
+    "v.1 מַּלְאֿכִים is a ketiv/qere slot the packet does not mark; aligned to 'kings' as printed with the divergence named in the note, per rule 53's closing paragraph. v.24's two underdetermined variant units retain the base reading and are compatible with the English; nothing to record.",
+    "No promotion: nothing here generalises beyond what the contract already says, and the one chapter-specific recasting (v.7 לִשְׁלוֹם → 'how X did/fared/prospered') has no corpus precedent shown to carry it."
+  ]
+}

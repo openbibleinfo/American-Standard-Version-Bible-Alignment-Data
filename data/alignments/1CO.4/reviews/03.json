@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "355f827e47424baf47a1a643c092da690c22d7dd84936d41c66d471cda6ee54a",
+  "contract_version": "nt-greek-verse-v97",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 17 source and 27 target ids are partitioned exactly once.",
+    "`εἰς` is `unrepresented` because the ASV writes no English preposition anywhere for `εἰς ἐλάχιστόν ἐστιν` → *it is a very small thing*; rule 94 forbids joining it with `ἐλάχιστόν` into one unit, the ASV having written more than a single English word. A reference comparison will report this token as a disagreement, and that report is not a correction.",
+    "`ἐμαυτὸν` → *mine own self* heads on *self* under rule 17, as rule 107 heads `αὐτὸς` → *his own self* on *self* rather than on the possessive standing first."
+  ],
+  "ref": "1CO.4.3",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

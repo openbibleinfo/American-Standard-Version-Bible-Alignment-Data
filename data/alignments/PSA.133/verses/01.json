@@ -1,0 +1,202 @@
+{
+  "alignments": [
+    {
+      "note": "Construct noun of the superscription; the indefinite article belongs to the nominal expression it determines under rule 15 and is not `added`. Head on the lexeme-bearing noun.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Separately segmented determined-state/article morpheme on the rectum. The ASV writes no *the* anywhere in the phrase — the only determiner is the *A* of *A Song*, which rule 15 gives the construct noun — so under rule 29's last sentence the article is unrepresented. No fronting arises, since fronting answers to a phrase whose single written *the* has to be placed.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Nomen rectum takes the chain's relational *of* under rule 19, headed on the noun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Preposition of authorship rendered *of*; the word states its own relation, so rule 11 places it here.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Proper name.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Presentative particle rendered *Behold*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Exclamatory interrogative rendered *how*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Predicate adjective. The clause's one written copula is placed on the second predicate; see that unit's note.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Conjunction rendered *and* under rule 14.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Second exclamatory interrogative, rendered by its own *how*; the ASV writes one for each morpheme, so nothing is distributed here.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Predicate adjective with the construction-supplied copula under rule 20, discontinuous around the expletive under rule 25. The verse writes two coordinated predicates and one *is*; I gave it to the nearer predicate, beside whose rendering the ASV wrote it, as rule 47 reads which word the single written determiner stands beside. The materially different reading puts *is* on `טוֹב` as the first predicate of the pair; nothing else in the alignment changes.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t014"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Anticipatory *it* filling the English subject slot for the extraposed infinitival subject the Hebrew writes. Rule 25's closing sentences mark such an expletive `added` while the predicate keeps the copula, exactly as `תוֹעֲבַת כְּסִילִים סוּר מֵרָע` → *it is an abomination ... to depart from evil* does.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Infinitive construct with no preposition on it. English writes no bare infinitive clause with an overt subject, so the *For ... to* frame is what the infinitive itself licenses under rule 52's closing sentences, and neither word is `added`. The unit is discontinuous around the infinitive's own subject noun under rule 25; head on the lexical verb under rule 24. The competing reading gives *For* to `אַחִים` under rule 33, which I set aside because an infinitive's subject is not an adverbial case-function.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Subject of the infinitive construct, rendered by its own noun.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Emphatic particle for which the ASV writes nothing; *together in unity* both realize `יַחַד` (see the next unit), and no English word carries the additive sense of `גַּם`.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The ASV realizes the one adverb/noun `יַחַד` twice, as *together* and again as *in unity*, both writing its lexeme; rule 25 keeps both realizations in that morpheme's one unit, headed on the first occurrence. The competing reading takes *in unity* as an `added` supplied phrase under rule 2; I set it aside because the lexeme `יַחַד` is precisely unitedness, so the words are a doubled rendering rather than English no morpheme owns.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020",
+        "t021"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "PSA.133.1",
+  "review_notes": [
+    "Superscription and psalm body are aligned together as one verse, as the packet supplies them.",
+    "The single written copula was allocated to the second of two coordinated predicates; the alternative reading is named in that unit's note."
+  ]
+}

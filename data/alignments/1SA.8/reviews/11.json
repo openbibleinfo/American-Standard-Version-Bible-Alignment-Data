@@ -1,0 +1,11 @@
+{
+  "alignment_sha256": "731da6a87a70e8b6a381c2cbd8514491c0b246f2116c7ee8830f96f3f3863b31",
+  "contract_version": "ot-hebrew-verse-v210",
+  "notes": [
+    "Reconciliation by claude-code — corrected",
+    "The supplied object pronoun *them* at t024 was folded into בְּנֵי as a rule 25 resumption, while the same gapped-object pronoun is marked `added` at 1SA.8.12, 1SA.8.14 and 1SA.8.16. Rule 44 is what governs a supplied object pronoun: the coordinated clause וְשָׂם לוֹ writes no object morpheme, the Hebrew gapping the object of שָׂם, so nothing in that clause answers to the word. Rule 25's resumption reaches a pronoun supplied where a clause writes no subject of its own, or a second realization of one written phrase, and a noun already rendered as the object of its own verb is not a home for a second English word, as rule 51 says of a waw. *them* becomes its own `added` unit and בְּנֵי keeps only *sons*."
+  ],
+  "ref": "1SA.8.11",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

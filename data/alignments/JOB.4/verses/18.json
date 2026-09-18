@@ -1,0 +1,156 @@
+{
+  "alignments": [
+    {
+      "note": "Presentative particle to 'Behold'.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Preposition to 'in'; the ASV writes 'in his servants' for the phrase this בְּ heads.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Noun to 'servants'.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Suffix to the possessive 'his' (rule 18).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "The ASV recasts the clause's negation onto the nominal complement, so the negative takes the determiner 'no' it has become (rule 15), discontinuous from the verb it negates under rule 25.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Hiphil rendered as light verb plus complement, with the subject pronoun rule 17 keeps on the verb; head on 'trust' (rule 44). Discontinuous around 'no'.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Waw to 'And' (rule 14).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The ASV fronts מַלְאָכָיו as the bare object of 'chargeth' and writes nothing for this preposition's own relation, so it is unrepresented (rule 40, the case of a בְּ whose object the ASV promotes to a direct object). The written 'with' at t014 stands before 'folly', not before 'his angels', and by the subtraction test of rules 16 and 44 its loss diminishes only the verb-to-object relation; the competing reading, taken by the earlier alignment, gives 'with' to this בְּ.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun to 'angels'.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Suffix to the possessive 'his' (rule 18).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Verb with its subject pronoun (rule 17) and the preposition the ASV supplies to reach its bare object תָּהֳלָה, which carries no marker and no preposition of its own — the pattern of טָחוּ תָּפֵל → 'have daubed ... with untempered mortar' (rule 44). Head stays on the lexical verb 'chargeth'.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013",
+        "t014"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Noun to 'folly'. The supplied 'with' is licensed by the English verb's valency rather than by this noun's case-function, so rule 44 rather than rule 33 places it, and the noun keeps only its own word.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "JOB.4.18",
+  "review_notes": [
+    "Corrected: the accepted alignment gave t014 'with' to s008 בְּ. That preposition stands on מַלְאָכָיו, which the ASV writes bare ('his angels he chargeth'), while the 'with' stands before the bare accusative תָּהֳלָה. It is therefore the preposition the English verb needs to reach its own object (rule 44) and belongs to יָשִׂים's unit, leaving s008 unrepresented under rule 40.",
+    "'no' goes to לֹא rather than to the noun: the ASV has turned the clause's negation into the complement's determiner (rule 15).",
+    "s006 heads on the complement 'trust', not on the light verb 'putteth' (rule 44)."
+  ]
+}

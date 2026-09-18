@@ -1,0 +1,28 @@
+{
+  "chapter": "MAT.16",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The two verbless weather clauses are analysed alike (rule 24): at 16:2 Eudia and at 16:3 cheimon each carry the whole supplied 'It will be' frame under rule 68, no subject being expressed, and each heads on 'weather' rather than on 'fair' or 'foul' - the noun glossing the lexeme for cheimon, and the compound's core under rule 66 for eudia.",
+    "At 16:3 the supplied 'and' of 'the heaven is red and lowering' is folded onto stugnazon, the participle it introduces. Rule 88's 'never on the participle it follows' addresses the reverse word order, and its principle - an obligatory juncture is a helper on what it introduces - puts the word here. Marking it added under rules 5 and 98 remains the competing reading; rule 98 is scoped to an asyndetic seam between two like constituents both rendered alike, and a finite verb with a circumstantial participle converted to a coordinate predicate is not that seam. Every other juncture in the chapter (16:1, 16:2, 16:4, 16:5, 16:16, 16:17, 16:22, 16:23) sits on a finite verb, as rule 88's majority requires.",
+    "The chapter's only two added units are repeated lexical verbs whose licensing token is already spent - 'discern' at 16:3 for diakrinein and 'say' at 16:14 for eipan - marked added under rule 103 rather than folded under rule 7 or stretched under rule 15, each conceding the rule 15 reading in its note. Every supplied word that is a pronoun or an auxiliary is folded onto the token that licenses it instead (16:1, 16:8, 16:12, 16:17, 16:23, 16:24). The test applied throughout is rule 103's own - rule 7's list, not recurrence."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v101",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 28 verses end to end against the 40-lemma candidate table. No construction is analysed two ways with nothing in the source to license the difference: patches empty, three conventions logged, no promotions.",
+    "Article (86 occurrences, the only large group): every unrepresented article is licensed by a named rule - before a name (16:6, 16:8, 16:13 x2, 16:17, 16:21, 16:22, 16:23, 16:24), possessive displacement under rule 20 (16:13, 16:17, 16:18, 16:21, 16:24 x2, 16:25 x2, 16:26 x2, 16:27 x3, 16:28), demonstrative displacement under rule 38 (16:18), second attributive article under rule 23 (16:16), and determinerless English under rules 21/23 (16:1, 16:12, 16:13 x2, 16:17, 16:19 x5, 16:23 x2, 16:27, 16:28). None is emptied for convenience and none is given a 'the' the ASV did not write.",
+    "Parallel frames agree where the source agrees: 'the Son of man' (16:13, 16:27, 16:28) is the same four units each time; 'his life' (16:25 x2, 16:26 x2) the same three; the leaven phrases (16:6, 16:11, 16:12) differ only where the ASV writes 'of bread' with no determiner; 16:9 and 16:10 are unit-for-unit identical; 16:19's two bind/loose clauses are identical; every relative-plus-particle compression is one aligned unit (16:19 x2, 16:25 x2, and heos an -> 'till' at 16:28). einai takes the supplied complementizer in both places it occurs (16:13 'that ... is', 16:15 'that ... am'), so rule 85 is applied once and not twice.",
+    "The candidate table is blind to added units, so I read those separately. Both are repeated lexical verbs whose licensing token is spent - 'discern' (16:3) and 'say' (16:14) - and every folded supplied word is a pronoun or auxiliary from rule 7's own list: 'him' (16:1), 'it' (16:8, 16:17), 'thee' (16:23), 'let him' (16:24), 'them' (16:12), the 'It will be' frames (16:2, 16:3), 'when' on a participle (16:2, 16:13). The line is drawn the same way in both directions throughout; recorded as a convention.",
+    "Groups that look split but are not: ou me heads on 'never' (16:22) and on 'no' (16:28) because rule 33 makes the head follow the English the ASV wrote; tote is 'Then' four times and 'that time' once only under apo (16:21), where rule 94's word count forbids a compound unit; ho de is a pronoun at 16:2, 16:7, 16:14, 16:23 and unrepresented at 16:6/16:8 only where it governs an expressed name; opiso is 'behind' (16:23) and 'after' (16:24) by the ASV's own wording. Two groups are lemmatisation artefacts and need no action: dei is filed under deo with 16:19's bind/bound, and auton/auten at 16:4 and 16:25 are filed under heautou.",
+    "BSB: all nine disagreements are documented convention differences and none is an error. Five are determinerless articles under rules 21/23 (16:12, 16:13, 16:19, 16:27, and 16:23's inner article, which rule 57 settles by name for ta tou theou); 16:16 is a second attributive article under rule 23; 16:24 is rule 20 displacement with the case preposition on the noun; 16:7 is recitative hoti under rule 43, whose own text says the report is not a correction; 16:14 is men under rule 70, which says the same. No accepted edge was touched.",
+    "Three hedged units I read and left standing, each already naming its competing reading: 16:3's supplied 'and' folded onto stugnazon (rule 88's placement principle against rule 98's added - see the convention); 16:23's head on 'stumbling' rather than 'block'; 16:12's 'them' on the infinitive under rule 74 rather than on eipen. The first is the only one a later chapter is likely to meet again."
+  ]
+}

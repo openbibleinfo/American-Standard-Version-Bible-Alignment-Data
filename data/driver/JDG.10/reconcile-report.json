@@ -1,0 +1,26 @@
+{
+  "chapter": "JDG.10",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Where the ASV renders a Hebrew proper name or a bare gentilic by an English plural gentilic carrying a determiner no article morpheme licenses — `מִצְרַיִם` → *the Egyptians*, `עֲמָלֵק` → *the Amalekites*, `מָעוֹן` → *the Maonites*, `צִידֹנִים` → *The Sidonians*, `פְּלִשְׁתִּים` → *the Philistines* — the supplied determiner joins that noun's own unit under rule 15 and is never `added`, exactly as a supplied *a* or *the* on a common noun is. Where an article morpheme does stand on the gentilic it takes the written *the* first, as `הָאֱמֹרִי` → *the Amorites* does in 10.8 and 10.11. JDG.10.6, 10.7, 10.11 and 10.12 all read that way, and the chapter records no gentilic determiner marked `added`."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v180",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 33 candidate lemma groups and read the dump end to end for splits the lemma table cannot see, since it is blind to the chapter's two `added` units. No construction is analysed two ways without a source difference or a difference in the English the ASV actually wrote.",
+    "Waw: *Then* (10.17), *And*/*and*, *so that* (10.9), *even* (10.10), *Yet* (10.13) and the postposed *also* (10.12) are each the connective the ASV wrote, read off the text as rule 14 directs. The one unrepresented waw (10.11 s015) is the surplus left by counting waws against written connectives (rule 42), and 10.9's *so that* is one rendering of a waw that is present, not a waw plus an added subordinator (rule 55).",
+    "The article on a toponym is the worst-looking candidate and is not a split: 10.4 renders `אֶרֶץ הַגִּלְעָד` with one written *the* and an anarthrous rectum, so the article takes it by fronting; 10.8 and 10.17 write no *the* at all before *Gilead*/*Mizpah*, so the assimilated `[הַ]` is unrepresented (rule 29's last sentence). `אֶרֶץ` in 10.4 against 10.8 divides on the same count, one written *the* against two. `הַיּוֹם הַזֶּה` (10.4, 10.15) and `בַּשָּׁנָה הַהִיא` (10.8) are treated identically: the demonstrative takes the phrase's one determiner and both the noun's article and the agreement article are unrepresented.",
+    "`לְ` before an infinitive construct is aligned wherever a *to* is written (10.1, 10.9, 10.18) and unrepresented where the ASV recasts and writes none (10.6, 10.13), which is rule 52's own division. The two `לְ`s of 10.4 differ because `הָיָה` stands in the first clause and not the second, which is rule 43's split verbatim. `בְּ` plus a construct noun fuses where one English word covers the pair (10.8 *beyond*, 10.15 *unto*) and splits where the ASV spends a word on each (10.6 *in the sight of*, 10.16 *from among*, rule 30's own example). `קוּם` differs only by the presentative *there* written in 10.1 and not in 10.3, and both `יָסַף` units follow rule 56 (*again* in 10.6, *I will ... more* in 10.13).",
+    "The two `added` units are 10.11 *I save you*, one contiguous supplied run in a clause whose Hebrew is verbless, and 10.18 *he*, a referential subject pronoun no morpheme answers to. No other verse folds a comparable supplied word into a neighbouring unit, so the table's blindness to `added` hides nothing here.",
+    "BSB: none of the 25 disagreements is an error. The R, Td and To groups are the documented convention difference (BSB attaches function morphemes to their host); the cohortative he of 10.12 is rule 32, the resumptive suffix of `בָּם` in 10.14 is rule 22 beside a relative the ASV renders with one word, the reciprocal suffix of `רֵעֵהוּ` in 10.18 is rule 22's unwritten occurrence, and the `בַּ` of `בַּשָּׁנָה` in 10.8 is rule 40, the ASV writing *that year* as a bare accusative.",
+    "Two within-verse judgments are left standing with their notes rather than patched. 10.8 reads the italic *oppressed they* as the second realization of the written `רָצַץ` (rule 34's pro-verb paragraph), not as supplied English; the italics decide nothing either way (rule 7). 10.15 fuses `כְּ` with `כֹּל` as *whatsoever* and leaves the article on `הַטּוֹב` unrepresented; the available alternative folds that article into the fusion under rules 11 and 30, and the unit's note names only the preposition's competing reading, so a later reader should know the article was the other live question."
+  ]
+}

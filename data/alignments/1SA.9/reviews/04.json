@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "1b958d5ce60101bd50c98927f369291a4aef98549effc888e74dcbf846ad2e75",
+  "contract_version": "ot-hebrew-verse-v214",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 28 source morphemes and 48 target tokens are partitioned exactly once, with three `added` units.",
+    "Both *them* of *found them not* are supplied objects with no object morpheme in either clause and are `added` under rule 44.",
+    "The supplied *they* of *and there they were not* is referential and answers to no morpheme the verse writes — the asses are named nowhere in this verse — so rule 50's boundary (only a supplied dummy joins the existential) leaves it `added` while *there ... were not* stays with `אַיִן`, headed on the negation.",
+    "`אֶרֶץ יְמִינִי` → *the land of the Benjamites* writes one *the* before each noun and no article morpheme stands in the phrase, so each takes the one standing before its own word (rule 29)."
+  ],
+  "ref": "1SA.9.4",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

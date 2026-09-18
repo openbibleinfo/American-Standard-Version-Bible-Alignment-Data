@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "chapter": "JER.13",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JER.13.16.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV explicitly gives Jehovah as the third-person subject in 'he turn it ... and make it gross darkness'; 'make' therefore represents the ketiv third-person form ישית rather than the qere imperative וְשִׁית. The listed notes are alternative renderings or a Hebrew gloss and do not decide the unit."
+    },
+    {
+      "unit_id": "WLC.JER.13.20.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'Lift up your eyes' does not mark whether the addressee is plural (qere שְׂאוּ) or feminine singular (ketiv שאי), because English imperative 'lift' and possessive 'your' permit both; no mapped textual-variant note distinguishes them, so the qere remains the base fallback."
+    },
+    {
+      "unit_id": "WLC.JER.13.20.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'behold them' does not mark whether the addressee is plural (qere וּרְאוּ) or feminine singular (ketiv וראי), because the English imperative is compatible with both; no mapped textual-variant note distinguishes them, so the qere remains the base fallback."
+    }
+  ]
+}

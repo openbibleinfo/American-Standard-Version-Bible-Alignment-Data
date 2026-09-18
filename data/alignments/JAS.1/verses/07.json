@@ -1,0 +1,157 @@
+{
+  "alignments": [
+    {
+      "note": "Postpositive γάρ realized by the clause-initial For.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Ordinary prohibitive negative on the imperative, aligned to not. Rules 41/59 do not apply: the indefinite τι is not itself a negative, and the ASV writes the negation and the indefinite as two separate words (not ... anything), so rule 59's joined single-word case (nothing) is not in question either. Rule 69 is the governing case, the indefinite being rendered non-negatively as anything.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Third-person imperative rendered periphrastically; the auxiliary let is a rule 7/9 helper inside the verb's own unit, and rule 17 heads on the lexical verb think rather than on the finite auxiliary.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Article emptied by the attributive demonstrative ἐκεῖνος under rule 38: that already occupies the English determiner slot, and the ASV supplies no the. Rule 38 states in terms that whether the demonstrative precedes or follows the article makes no difference, so ὁ ἄνθρωπος ἐκεῖνος is its ὁ ναὸς οὗτος → this temple.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Attributive demonstrative supplying the English determiner that.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Head noun, bare under rule 38 since the demonstrative carries the determiner.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Complementizer ὅτι realized by the ASV's that. Rule 43's unrepresented case does not apply: its test is whether an English word answers to the conjunction, and one does.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Future indicative with its subject pronoun and future auxiliary as rule 9 helpers; rule 17 heads on the lexical verb receive.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Indefinite τι rendered non-negatively as anything, its own unit under rule 2.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Expressed preposition παρά realized by of; rule 36 keeps the English preposition on the Greek preposition rather than on the verb.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Article aligned to the under rule 19. Rule 21's of+the unit does not apply here, because the of answers to the expressed παρά rather than to the genitive case; cf. rule 95's note on REV.14.10, that an article following a preposition which has already taken its own of is not owed an of the.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Noun standing alone, its determiner on the article and its preposition on παρά.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "JAS.1.7",
+  "review_notes": [
+    "Reviewed against nt-greek-verse-v61 and returned unchanged; no unit was altered.",
+    "All 12 source ids and all 14 target ids partitioned exactly once, and every head is a member of its own array.",
+    "The alternative_rendering note concerns the clause division with v.8 and does not change this verse's token inventory; no rule 37 orphaning is involved.",
+    "Competing reading considered and rejected for s001/s009: joining μή and τι into one unit under rule 59's test. That test wants a single English negative word spelling both elements; the ASV wrote not and anything as separate words, and anything is positive, so rule 69's reasoning keeps the negation on the negator as an ordinary aligned unit.",
+    "Competing reading considered and rejected for s010/s011: a rule 21 of+the unit on the article. Rule 21 is for an article carrying a case preposition where no Greek preposition is expressed; παρά is expressed and rule 36 assigns of to it, leaving the article a bare the."
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chapter": "PSA.146",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "`לְדֹר וָדֹר` → *unto all generations* (v10) is read as rule 22's distributive repetition and not as a rule 30 fusion of the three morphemes: the single written `לְ` opens the phrase and takes *unto*, the first `דּוֹר` takes *all generations* together with the supplied determiner standing before it under rule 15, and the waw and the repeated `דּוֹר` are each `unrepresented`. A universal *all* before a plural noun is read as the distributive determiner rule 22 names alongside *every* and *each*, because the English noun is still a word the ASV spends on this noun in particular while the repetition and the coordination are left saying nothing either way. The corpus contains both treatments — the split at EXO.3.15 and PRO.27.24 among others, the fusion at PSA.106.31 and ISA.58.12 — so the choice is recorded here rather than promoted.",
+    "Rule 43's count of the morphemes that could carry a supplied *have* was run twice in this chapter with opposite outcomes, and both stand. At v5 *hath* is `added`: the clause writes no `הָיָה` and no existential particle, and the `בְ` and the suffix have each already been spent on *for* and *his*, so nothing is left for the word to complete. At v2 no part of *have any being* is `added`: it is the whole of `עוֹד`'s own rendering, headed on *being* under rule 31, and dropping it leaves that morpheme with no English at all. A later verse should run the subtraction rather than reading either verse as the chapter's policy on a supplied *have*."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v201",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Cross-verse: no construction is analysed two ways without something in the source licensing the difference. The candidate lemmas all resolve to ASV wording choices over different source contexts — `לְ` *for*/*unto*/*to*, `בְ` *in* (object of trust, v3) vs *for* (beth essentiae, v5) vs *while* (temporal clause, v2), `הַ` written *The* (v6) vs unrepresented beside a single written determiner (v4), `שֶׁ` *whom* with a written antecedent (v3) vs *he that* headless (v5, rule 46's first rider), `שָׁמַר` *keepeth*/*preserveth*, `עָשָׂה` *made*/*executeth*.",
+    "Participle policy is uniform across the three-colon runs: an anarthrous participle carries its supplied *Who*, *the* or *them that* into its own unit (v6 s001, v7 s001/s006/s013, v8 s003/s006/s009, v9 s011, rule 46); the one articular participle gives the relative to the article and keeps its own verb (v6 s014/s015, rule 41); a participle standing with an explicit written subject takes no relative at all (v7 s012, v8 s002/s008, v9 s002).",
+    "I read the dump for the split the lemma table cannot show — a supplied word marked `added` in one verse and folded in elsewhere. The four `added` units each survive the check: v3 *your* is a supplied possessive on the light verb's complement, which rule 44 sends to rule 18's closing sentence (`הָלַךְ` → *go* ***your way***); v4 *very* is an intensifier no morpheme says, the demonstrative already holding the one written determiner; v5 *hath* fails rule 43's count because `בְ` holds *for* and the suffix *his*, exactly as rule 43's own `אוֹ תְבַלֻל בְעֵינוֹ` example; v8 *the eyes of* is a supplied object noun that does not write `פָּקַח`'s lexeme, kept as one run under rule 2.",
+    "The apparent counter-case is v2's *have any being*, folded into `עוֹד` rather than marked `added` beside v5's *hath*. That is rule 43's own subtraction and not an inconsistency: in v5 every morpheme of the clause already holds an English word, while dropping *have any being* leaves `עוֹד` with nothing at all. Recorded as a convention so a later verse runs the test rather than copying either outcome.",
+    "BSB: 4 disagreements out of 114 comparable occurrences, all documented convention differences and none an error. PSA.146.3 `וֹ` is the resumptive suffix left unwritten because the ASV wrote *in whom* as two words (rule 22); PSA.146.4 `הַ֙` is the agreement article beside a single written determiner (rules 41, 47); PSA.146.10 `וָ` and `דֹר` are the waw and repeated noun of the distributive repetition (rule 22). BSB attaches each to its own phrase, which is the difference rule 22 already records.",
+    "No promotion. The one construction that might have taught a rule — `לְדֹר וָדֹר` → *unto all generations*, where the distributive determiner is a universal *all* with a plural noun rather than rule 22's *every* or *each* — is treated both ways in the finished corpus: 5 units align a single `דּוֹר` to *all generations* with 9 `unrepresented` seconds, against 2 `noncompositional` three-morpheme fusions at PSA.106.31 and ISA.58.12. A corpus that contradicts itself here is a reason not to promote, so the chapter's reading is recorded as a convention instead.",
+    "Ledger checks clean in the report: 128 units, all 124 source and 168 target IDs partitioned once, every recorded head a member of its unit."
+  ]
+}

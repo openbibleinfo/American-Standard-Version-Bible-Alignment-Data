@@ -1,0 +1,308 @@
+{
+  "alignments": [
+    {
+      "note": "Waw takes *And*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Suffix of the possessive `לְ` takes the English subject pronoun of the recast clause (rules 18, 43).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "`הָיָה` is present, so it takes the *had* of the recast possessive clause (rule 43).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "With `הָיָה` carrying the *had*, the possessive preposition has no English word left (rules 40, 43).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The construct relation is rendered attributively rather than with *of*, so `עֹז` takes *strong* (rule 28).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Construct noun rendered *rods*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "`אֶל` rendered *for*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Construct noun with no article morpheme present takes the supplied *the* (rule 29).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Anarthrous substantival participle: the ASV supplies *them that* to make it a noun phrase, and no article morpheme is present to take it, so it joins the participle's unit (rule 46). The relational *of* is the construct relation's (rule 19). *bare rule* is a light verb plus complement, so the head is *rule* (rule 44).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Waw takes *and*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Suffix takes the possessive determiner the ASV writes, *their* (rule 18).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Construct noun keeps its own word.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Finite verb recast with copula and participle; head on the lexical word (rule 24).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "`עַל־בֵּין` rendered by the single English word *among*, so the two prepositions share one unit under rule 30, headed on `בֵּין`, which is what *among* says. The competing reading marks `עַל` `unrepresented` and gives *among* to `בֵּין` alone; the one-English-word condition of rule 30 is met here, so I took the fusion.",
+      "source": [
+        "s014",
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Anarthrous plural with a supplied definite article (rule 15). Head on *boughs*, the word naming what the lexeme names, with *thick* the specifier (rule 31); the margin's *Or, clouds* does not change the alignment.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t020",
+        "t021",
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Waw takes *and*.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Niphal with supplied subject pronoun and auxiliary; head on the lexical participle.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t024",
+        "t025",
+        "t026"
+      ],
+      "target_head": "t026"
+    },
+    {
+      "note": "Preposition rendered *in*.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t027"
+      ],
+      "target_head": "t027"
+    },
+    {
+      "note": "Suffix takes the possessive *their* (rule 18).",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t028"
+      ],
+      "target_head": "t028"
+    },
+    {
+      "note": "Construct noun keeps its own word.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t029"
+      ],
+      "target_head": "t029"
+    },
+    {
+      "note": "Preposition rendered *with*.",
+      "source": [
+        "s022"
+      ],
+      "source_head": "s022",
+      "status": "aligned",
+      "target": [
+        "t030"
+      ],
+      "target_head": "t030"
+    },
+    {
+      "note": "Construct noun with no article morpheme present takes the supplied *the* (rule 29).",
+      "source": [
+        "s023"
+      ],
+      "source_head": "s023",
+      "status": "aligned",
+      "target": [
+        "t031",
+        "t032"
+      ],
+      "target_head": "t032"
+    },
+    {
+      "note": "Nomen rectum takes the relational *of* (rule 19); discontinuous around the possessive (rule 25).",
+      "source": [
+        "s024"
+      ],
+      "source_head": "s024",
+      "status": "aligned",
+      "target": [
+        "t033",
+        "t035"
+      ],
+      "target_head": "t035"
+    },
+    {
+      "note": "Suffix takes the possessive *their* (rule 18).",
+      "source": [
+        "s025"
+      ],
+      "source_head": "s025",
+      "status": "aligned",
+      "target": [
+        "t034"
+      ],
+      "target_head": "t034"
+    }
+  ],
+  "ref": "EZK.19.11",
+  "review_notes": [
+    "All 25 source and 35 target IDs partitioned exactly once.",
+    "The ASV's marginal *Hebrew his* / *Hebrew he was* notes flag number and gender differences between the suffixes and the English pronouns; what the ASV wrote is what is aligned (rule 18)."
+  ]
+}

@@ -1,0 +1,6 @@
+# Joshua 15 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- `הַיָּם הַגָּדוֹל` → *the great sea* (JOS.15.12, JOS.15.47): the phrase holds two article morphemes and the ASV writes a single *the*, standing before *great*. The attributive's article takes it and the article on `יָם` is `unrepresented`. This is the same test the chapter applies to `יָם הַמֶּלַח` → *the Salt Sea* at JOS.15.2 and JOS.15.5 under rule 29 — the written *the* goes to the article morpheme standing on the English word it precedes, and is fronted only where that word is rendered anarthrously. BSB reads the *the* onto the noun's article instead; that is the competing analysis and it accounts for two of this chapter's thirteen Td disagreements.
+- `וּגְבוּל` → *and the border thereof* (JOS.15.12, JOS.15.47): the italicized *thereof* is its own `added` unit in both verses. `גְּבוּל` carries no pronominal suffix in either, so no morpheme licenses the word, and it is not to be folded onto the noun as a helper (rules 7, 30).

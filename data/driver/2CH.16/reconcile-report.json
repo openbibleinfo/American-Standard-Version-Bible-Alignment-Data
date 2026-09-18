@@ -1,0 +1,24 @@
+{
+  "chapter": "2CH.16",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "עַד־לְ before a noun or adverb of degree rendered by a single English degree expression fuses as one unit under rules 30 and 40, headed on the final lexeme-bearing morpheme, with a construction copula joining the unit where the phrase is the clause's predicate: 16.12 עַד־לְמַעְלָה חָלְיוֹ → his disease was exceeding great (target head exceeding; great is the competing head), 16.14 עַד־לִמְאֹד → very. Neither עַד nor לְ is marked unrepresented beside the fused word."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 41 candidate groups end to end against the 14 verses. Every multi-treatment bucket is the ASV rendering one morpheme differently in context (waw → and/Then/that/yet/or/as; אֶל → unto/toward/with/against; עַל → against/on/in/because of; בְּ → in/at/to/by/because) or a rule-driven difference the source licenses; no construction is analysed two ways with nothing in the source to distinguish them.",
+    "Articles: the chapter is consistent with rule 29/41 throughout — a written the goes to a present article (16.6 אַבְנֵי הָרָמָה fronted, 16.2/16.10/16.11 arthrous or possessive recta), a construct takes a supplied the only where no article stands (16.1, 16.2, 16.4, 16.7, 16.12, 16.13, 16.14), and בָּעֵת הַהִיא gives that/same to הִיא with the agreement article unrepresented in both 16.7 (no the written) and 16.10 (the written for the assimilated article).",
+    "The chapter's one added unit (16.5 thereof, rule 44) is the only supplied English no morpheme licenses; the other supplied words are placed by rule — any one / to (16.1, rules 46, 52), there is/was (16.3, rules 20, 49), he resuming Asa (16.10, rule 25), thing (16.10, rule 31), in on the bare construct of place (16.10, rule 33), divers kinds of spices (16.14, rule 31). No verse folds a word another verse marks added.",
+    "BSB disagreements are all convention: Td ×9 are articles on toponyms, attributives and demonstratives the ASV renders without the; R ×9 are the לְ of לֵאמֹר, the repeated בֵּין of each pair, the possessive לְ of אֲשֶׁר־לוֹ, the resultative לְ after הָיָה, the מִן before a bare gerund and the עִם silenced by the have of יֵשׁ; the הֲ of 16.8 is a question marked by inversion of the written verb's own Were (rule 17, and rule 43's reasoning); the suffix of עֵינָיו in 16.9 is the resumptive occurrence the ASV renders once (rule 22); the גַם of 16.12 is left nothing because the ASV writes one connective, yet, for the waw+גַם pair (rule 14). None is an error and no edge was changed.",
+    "Two fused degree expressions, עַד־לְמַעְלָה → was exceeding great (16.12) and עַד־לִמְאֹד → very (16.14), are treated alike — one unit headed on the lexeme-bearing final morpheme — and are recorded as a convention; the 4-morpheme unit flagged by the validator is that fusion with the construction copula and is atomic. Nothing here generalises beyond what rules 30 and 40 already say, so no promotion or amendment."
+  ]
+}

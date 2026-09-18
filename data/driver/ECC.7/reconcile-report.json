@@ -1,0 +1,26 @@
+{
+  "chapter": "ECC.7",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Comparative and equative clauses: the English degree word belongs to the word whose degree it expresses, and the preposition takes only the connective written beside it. Where a gradable predicate stands in the clause, that word carries the whole comparative form and מִן takes a bare 'than' — טוֹב as 'is better' (ECC.7.1, 7.2, 7.3, 7.5, 7.8, 7.10) and מַר as 'more bitter' (ECC.7.26). Where none stands, the preposition takes the whole expression, headed on the relational word: מֵעֲשָׂרָה שַׁלִּיטִים as 'more than ten rulers' (ECC.7.19), which is how the corpus heads its 'more than' units. The equative goes the same way: טוֹבָה חָכְמָה עִם־נַחֲלָה as 'Wisdom is as good as an inheritance' (ECC.7.11) gives 'is as good' to טוֹב and the closing 'as' to עִם, the morpheme standing where the second correlative stands.",
+    "The positive existential יֵשׁ is read on the terms rule 50 gives the Aramaic אִיתַי: it takes whatever frame the ASV writes for it, the supplied dummy included — יֵשׁ צַדִּיק אֹבֵד as 'there is a righteous man that perisheth' (ECC.7.15, twice) — and heads on the copula rather than on 'there', which English syntax supplies, exactly as rule 50 heads אַיִן on its negation and not on the dummy. Where the ASV writes no frame, it is unrepresented."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v149",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 50 candidate lemma groups. Every multi-treatment bucket is the ASV rendering one word differently (טוֹב as precious/joyful/good/better, כִּי as for/Surely, גַּם as also/yea/likewise, לֵב as heart/heed) or a difference the source licenses. No split found, so patches is empty.",
+    "The comparative family was the one worth working through, since it touches nine verses. One policy holds throughout: where a gradable predicate stands in the clause it carries the English degree word and מִן takes a bare 'than' (7.1, 7.2, 7.3, 7.5, 7.8, 7.10, and 7.26 'more bitter than'); where none stands, the preposition takes the whole expression headed on the relational word (7.19 'more than', matching the corpus's 24 'more than' units, all headed on 'than'). The equative of 7.11 follows it: 'is as good' on טוֹב and the closing 'as' on עִם. Recorded as a convention.",
+    "Infinitive 'to' differs between 7.2's two לֶכֶת, and among 7.25's four infinitives, only because a לְ stands before some and not others, which is rule 52's own distinction. Article treatments differ per phrase by rule 29's count: fronted before an anarthrously rendered rectum (7.1, 7.6a, 7.13), one 'the' before each word where the rectum is arthrous (7.6b), unrepresented where the ASV writes none. The two bracketed assimilated articles of 7.19 are aligned separately under rule 12, one written and one not.",
+    "Because the candidate table is blind to added units, I read the supplied English across the chapter separately. Impersonal 'It' is added in all three extraposed clauses (7.2, 7.5, 7.18). A coordinator with no waw standing for it is added in all three places (7.8, 7.12 'even as', 7.26). A complementizer with no subordinating morpheme is added in all three (7.12, 7.25 twice), while every written relative or שֶׁ takes the 'that' written for it (7.14, 7.18, 7.22, 7.29). Supplied lexical verbs are added (7.25 'was set', 7.27 'laying', 7.10 'the cause'), while a supplied completion of a written noun joins it (7.25 'of things' under rule 31). Head placement is uniform: light-verb complements head the unit (7.3, 7.7, 7.9, 7.12, 7.13, 7.16, 7.17, 7.18, 7.19, 7.23) and phrasal particles do not (7.14, 7.18, 7.24, 7.25, 7.27, 7.29).",
+    "BSB: none of the 23 disagreements is an error. Fifteen are the documented Td convention difference, where the ASV renders the noun anarthrously. The rest are ASV recastings that leave a morpheme nothing: the unrendered waw of 7.6, the object markers of 7.7, the locative בְּ of 7.12 and 7.14 (rule 40), the לְ of 7.13 left by the modal's bare complement (rule 52), the resumptive suffix of 7.13 rendered once inside the relative (rule 22), the suffix of 7.21 in 'take not heed', and the resuming הִיא of 7.26's tripartite clause. No accepted edge was changed.",
+    "No promotion. The one general judgment this chapter made is the comparative-degree policy above, and the corpus rows available here do not show whether an adjective stood in the 24 מִן 'more than' clauses, so a rule saying the degree word goes to a present adjective could contradict settled units. It is recorded as a chapter convention instead; a later chapter with that slice in hand could promote it."
+  ]
+}

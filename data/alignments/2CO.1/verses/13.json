@@ -1,0 +1,251 @@
+{
+  "alignments": [
+    {
+      "confidence": "high",
+      "note": "Negator realized by *no*. ἄλλα is not a negative indefinite, so rules 41 and 59 do not empty οὐ, and rule 87's joining does not apply either: the ASV writes *no* and *other* as separate words each answering to a source token, which is rule 39's test for the ordinary split.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "confidence": "high",
+      "note": "Postpositive conjunction rendered clause-initially.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "confidence": "high",
+      "note": "Substantival adjective expanded with the generic noun *things*; rule 17's generic-noun clause keeps the head on the adjective, as `all things` heads on *All*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "confidence": "high",
+      "note": "Inflected verb takes its English subject; rule 9 heads on the lexical verb.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "confidence": "high",
+      "note": "Dative pronoun with its case preposition riding along under rule 21; no article stands to carry it.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "confidence": "medium",
+      "note": "ἀλλ᾽ ἤ is rendered by the single word *than*, which is the ordinary gloss of ἤ; rule 39's noncompositional cluster is scoped to a particle fused with μή, so ἤ takes the word and ἀλλά realizes nothing. Joining the pair into one aligned unit headed on ἀλλά remains defensible.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "medium",
+      "note": "Comparative particle taking *than*; see the note on ἀλλά for the competing single-unit reading.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "confidence": "high",
+      "note": "Relative pronoun rendered by a bare *what* with no supplied nominal, so rule 77's generic-noun arm does not arise.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "confidence": "high",
+      "note": "Verb with its supplied subject pronoun; rule 9 heads on the lexical verb.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "confidence": "high",
+      "note": "Disjunctive particle.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "confidence": "high",
+      "note": "Intensifying καί realized by *even*; rule 65 decides it on the English alone and here the ASV writes a word for it.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "confidence": "high",
+      "note": "Second-person verb sharing the subject *ye* the ASV already wrote for ἀναγινώσκετε; that token is spent there and the verb stands alone.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "confidence": "high",
+      "note": "Verb with its supplied subject pronoun; rule 9 heads on the lexical verb.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "confidence": "high",
+      "note": "Connective δέ rendered *and*.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "confidence": "high",
+      "note": "English drops the complementizer after *hope*. Rule 43's test is the presence of an English word, not whether the clause is reported, and no word answers to ὅτι. A reference comparison reporting this is not a correction.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "Improper preposition rendered by a single English preposition, so rule 42's supplied-frame question and rule 71's head question do not arise.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "confidence": "high",
+      "note": "The Greek is anarthrous, so under rule 51 the supplied *the* is an ordinary rule 7 helper on the word it determines; rule 42's *unto the* case needs an article to ride with and there is none here.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t023",
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "confidence": "high",
+      "note": "Future verb with its supplied subject and auxiliary; rule 9 heads on the lexical verb rather than on *will*.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020",
+        "t021"
+      ],
+      "target_head": "t021"
+    }
+  ],
+  "ref": "2CO.1.13",
+  "review_notes": [
+    "Reviewed unchanged. Partition verified: s001-s018 and t001-t024 each appear exactly once, every aligned unit has nonempty arrays on both sides, and every head is a member of its own array.",
+    "ἀλλ᾽ ἤ → *than* is the one genuinely open unit. The single English word is ἤ's own ordinary gloss, so ἀλλά is left unrepresented rather than joined; but a single aligned unit over both particles headed on ἀλλά is defensible under rule 39's test read the other way. Both members recorded medium.",
+    "οὐ → *no* is kept separate from ἄλλα → *other things*. Rule 87 joins a negator to a quantifier only where the ASV writes the negation once as a single word; here it writes *no* and *other* separately, each answering to a token, so rule 2 splits them. Rules 41 and 59 are not in play at all, ἄλλα being no kind of negative.",
+    "ὅτι after ἐλπίζω is unrepresented under rule 43's English-side test, the ASV writing no complementizer. Rule 85 does not bear on it: no non-finite complement is expanded here, the ὅτι clause already being finite in Greek.",
+    "ἕως τέλους: no Greek article stands here, so the supplied *the* is a rule 51 helper on τέλους rather than anything ἕως carries; rule 42's *unto the* case needs an article to ride with. ἕως is rendered by one English word, so rule 71's improper-preposition frame head is not engaged.",
+    "t011 *ye* is spent on ἀναγινώσκετε, which is why ἐπιγινώσκετε (s012) is a bare *acknowledge* while the later ἐπιγνώσεσθε (s018) keeps its own supplied *ye will*."
+  ]
+}

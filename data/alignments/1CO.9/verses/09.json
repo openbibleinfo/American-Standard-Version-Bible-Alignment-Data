@@ -1,0 +1,212 @@
+{
+  "alignments": [
+    {
+      "note": "Preposition to *in*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Postpositive conjunction to *For*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Article in attributive position across the interposed genitive still takes the English *the* under rule 57.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Interposed genitive name stands on its own English word with its case preposition.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Head noun, bare behind its own article.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Perfect passive with supplied subject and auxiliary; head on the participle under rule 17.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Negative particle.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Future indicative with supplied subject and modal auxiliary; head on the lexical verb.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Anarthrous noun with supplied determiner as a rule 51 helper.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Participle expanded into a finite clause; the supplied subordinator and subject are its helpers under rule 86, and *out the corn* completes this verb's own English, no other token licensing them.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017",
+        "t018",
+        "t019",
+        "t020",
+        "t021"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Interrogative `μή`; the ASV marks the question by the inverted cleft *Is it…?* rather than by a word of its own, so rule 44 leaves it empty.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Article takes the determiner with the case preposition *for* riding along under rule 21.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t024",
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "note": "Governed noun.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t026"
+      ],
+      "target_head": "t026"
+    },
+    {
+      "note": "Impersonal verb recast as an English cleft; the cleft frame is the verb's own, discontinuously under rule 15, headed on the lexical verb.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t022",
+        "t023",
+        "t027",
+        "t029"
+      ],
+      "target_head": "t029"
+    },
+    {
+      "note": "Article before *God* with no English determiner, so rule 23 leaves it empty.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Divine name.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t028"
+      ],
+      "target_head": "t028"
+    }
+  ],
+  "ref": "1CO.9.9",
+  "review_notes": [
+    "The cleft *Is it … that* goes with `μέλει` rather than to `μή`: rule 44 treats inversion as no word at all, and the cleft is what the ASV inverts.",
+    "`ἀλοῶντα` keeps *the corn* as an unspent completion of its own English under rule 103's licensing test; no other source token could carry it."
+  ]
+}

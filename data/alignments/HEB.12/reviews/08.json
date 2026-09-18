@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "e48c56aff0c0aa178b13c0e0bedba45e4d31ebb599e9e811767194d097a2530f",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Checked partition (15 source / 19 target IDs, each used exactly once), statuses, and every head. No article stands anywhere in the verse, so rules 19-23, 31-32, 51, 57, 60, 89, 90, 96 and 102 do not arise; both copulas are expressed, so rules 53, 56, 62, 63, 68 and 96 do not arise either, and each finite verb rightly keeps its own subject pronoun headed on the verb word (rules 7, 9, 17).",
+    "s008 'have been made' heads on t011 'made' rather than an auxiliary, per rules 9 and 17; s004/s015 head on 'are' as the lexical copula. s003 chiōris is rendered by a single English word, so rules 71 and 101 leave the head undisputed and the anarthrous s005 stays bare.",
+    "s006 note wording only: the unit is a single source token, so rule 35 (two source tokens fused into one English word) is not strictly the governing rule and noncompositional was never in play; the '-of' realizes the genitive case riding with the relative, and the aligned status and head are correct as they stand. Not a defect in the alignment."
+  ],
+  "ref": "HEB.12.8",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

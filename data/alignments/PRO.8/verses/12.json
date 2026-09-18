@@ -1,0 +1,127 @@
+{
+  "alignments": [
+    {
+      "note": "Explicit subject pronoun.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Appositional noun.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The verb is recast as a light verb with a supplied object noun carrying its own lexeme, so the noun joins its unit and the head goes to *dwelling* under rule 44.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Supplied possessive with no suffix or other possessive morpheme in the clause; `added` under rule 18's closing sentence and rule 44's ruling that a possessive standing on a supplied object noun is not made the verb's.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Object noun.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Waw to *And*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Construct noun; the ASV coordinates the two nouns instead of writing the chain's relation.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Coordinator written between two nouns the Hebrew joins by a construct relation with no conjunction morpheme present; `added` under rule 14's closing sentences. The ASV italic corroborates it, by rule 7.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Rectum, rendered as a coordinated noun.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "*find out* is the verb with its phrasal particle under rule 44, headed on the verb.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t009"
+    }
+  ],
+  "ref": "PRO.8.12",
+  "review_notes": [
+    "The margin's *knowledge of witty inventions* was read and set aside under rule 38; the printed text coordinates the two nouns."
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "alignments": [
+    {
+      "note": "מִי is the clause's predicate and takes the supplied copula with 'What' (rule 20, מִי הָאִישׁ הַלָּזֶה → 'What man is this'); discontinuous around 'man'.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t003"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Article on אִישׁ; ASV writes 'What man' with no 'the' (rule 29).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The article on חָפֵץ is rendered substantivally as 'he that' (rule 41, הָעֹשֶׂה → 'him that doeth'); the supplied pronoun is the article's own rendering, headed on 'he', and is not added. A present morpheme takes the English before a supplied-word analysis (rule 11). Competing reading: read 'he' as a cleft dummy added under rule 20 and give the article only 'that'.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "No waw before אֹהֵב; the coordinator is supplied (rule 14).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Italic 'many' read as a supplied quantifier determining the bare plural noun (rule 15); competing reading marks it added.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Purpose ל takes the complementizer 'that' (rule 52).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Infinitive takes the supplied subject and modal (rule 52).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "PSA.34.12",
+  "review_notes": [
+    "Corrected: 'he that' (t004 t005) given to the article on חָפֵץ under rule 41 rather than leaving 'he' added; 'And' (t008) remains added with no waw to license it."
+  ]
+}

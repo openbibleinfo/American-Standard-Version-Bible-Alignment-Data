@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "0f96fde7ff6cecad023d0cd07c1f4324ae835d44aa3f392b42394fa6605e67e6",
+  "contract_version": "ot-hebrew-verse-v178",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Large-source-unit review: both flagged units are `לְ` + `בַד` + `מִן` → *besides*. Each morpheme was accounted against the rendering — one English word stands for the whole compound preposition, no morpheme owns a part of it, and the subtraction test leaves all three without any rendering when it is dropped — so rule 30's one-rendering condition is met and the groupings are retained, headed on `בַד`, the morpheme carrying the lexeme.",
+    "The italic *shekels* is `added` as a measure noun the Hebrew never writes (rules 7, 33), while *of gold* is the appositional measure nominal's own supplied preposition.",
+    "In *the golden ear rings* and *the purple raiment* the written *the* stands before the attributive's own word, which is where the article morpheme sits, so the article takes it (rule 29)."
+  ],
+  "ref": "JDG.8.26",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "chapter": "JOB.33",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JOB.33.19.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV renders 'And with continual strife in his bones': 'strife' is riv (ketiv), reading we-riv atsamav ethan as 'the strife of his bones is continual'. The mapped textual_variant note, 'Another reading is, While all his bones are firm', is precisely the qere rov ('the multitude of his bones'), so the ASV places the qere in the margin and the ketiv in its text."
+    },
+    {
+      "unit_id": "WLC.JOB.33.21.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The candidates differ only in the final vowel letter of the same verb 'are laid bare'; ASV 'And his bones that were not seen stick out' renders that sense either way, and the plural English verb is forced by its subject 'bones' rather than by the Hebrew form. No note is mapped here, so the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.JOB.33.28.v003",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'He hath redeemed my soul from going into the pit' — first person 'my soul' renders the ketiv nafshi, not the qere nafsho ('his soul')."
+    },
+    {
+      "unit_id": "WLC.JOB.33.28.v004",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'And my life shall behold the light' — first person 'my life' renders the ketiv we-chayyati, not the qere we-chayyato ('his life')."
+    }
+  ]
+}

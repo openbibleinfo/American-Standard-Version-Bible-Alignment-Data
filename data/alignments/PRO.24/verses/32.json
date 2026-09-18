@@ -1,0 +1,126 @@
+{
+  "alignments": [
+    {
+      "note": "Consecutive waw rendered Then (rule 14).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Verb beheld; the explicit pronoun takes its own I.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Explicit pronoun אָנֹכִי rendered I.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "שִׁית לֵב is an idiom the ASV renders considered well; no English word writes either morpheme's own lexeme, so the phrase is indivisible, anchored on the first source token and headed on the lexical English anchor (rules 6 and 30).",
+      "source": [
+        "s004",
+        "s005"
+      ],
+      "source_head": "s004",
+      "status": "noncompositional",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The ASV writes no possessive for the suffix of לִבִּי (rules 18 and 22).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Finite verb with its subject pronoun (rule 17).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Verb received.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "instruction.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "No conjunction morpheme stands between the two clauses of the first colon, so the coordinating and answers to nothing (rule 14).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Likewise the and of the second colon: the Hebrew juxtaposes רָאִיתִי and לָקַחְתִּי asyndetically.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    }
+  ],
+  "ref": "PRO.24.32",
+  "review_notes": [
+    "considered well was left indivisible: neither considered nor well writes the lexeme of שִׁית or of לֵב, so rule 30's subtraction finds no morpheme owning a part.",
+    "The two supplied ands are marked separately because they stand between different pairs of clauses."
+  ]
+}

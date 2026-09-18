@@ -1,0 +1,26 @@
+{
+  "chapter": "PSA.91",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Verbs of approaching rendered 'come nigh' (נָגַשׁ in v7, קָרַב in v10) keep 'nigh' inside the verb's unit as the complement carrying the lexeme, headed on 'nigh' under rule 44; the preposition on the goal (אֶל in v7, בְּ in v10) is its own unrepresented unit under rule 40, since the ASV writes no word for its relation apart from the verb's own rendering. The competing reading gives 'nigh' to the preposition; it was rejected in both verses so the chapter is uniform.",
+    "The one לֹא of v5 scopes over both cola and takes both 'not' and the 'Nor' opening the second colon (rule 25 distributed negative; no waw stands there to fuse with under rule 35). v6 continues the same negation in English ('Nor for the destruction') but carries no negative and no conjunction of its own, so its 'Nor' is added under rules 10 and 14. The two verses are not a split: the difference is whether a negative morpheme stands in the verse.",
+    "חָשַׁק → 'he hath set his love upon' is read as one light-verb rendering headed on 'love' (rule 44) with the 'his' inside it, because the possessive is what the English idiom requires and it realizes the verb's own subject rather than a possessor the Hebrew leaves unwritten. This is distinguished from v12's 'their hands', where the possessive stands on a written noun (כַּפַּיִם) with no suffix and is added under rule 18's closing sentence. The added reading for v14's 'his' is named in the unit's note."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 12 candidate lemmas verse against verse. Every difference is one the ASV's English licenses: הוּא thee/thy/his/whom by case and construction; בְּ in/under/with/against/upon by the word written, unrepresented only where the object is promoted (v10 'come nigh thy tent', v16 'show him my salvation'); לְ 'over' in v11 against unrepresented in v4 because v11 writes a word and v4 does not; מִן from/for/at as written; כִּי for/because as written; יהוה 'Jehovah He' (v2, rule 25 resumption) against 'O Jehovah' (v9, vocative); עֶלְיוֹן headed on 'High' in both v1 and v9.",
+    "The two 'come nigh' clauses (v7 נָגַשׁ with אֶל, v10 קָרַב with בְּ) are treated identically: 'nigh' stays with the verb as the lexeme-bearing complement and the goal preposition is unrepresented. Not a split; recorded as a convention because the competing reading (nigh to the preposition) is defensible and both verses name it.",
+    "Read the added units end to end for a hidden split: v3 'And', v7 'But' (no waw), v5/v6 'that' ×3 (asyndetic relative over a written antecedent, rule 55), v6 'Nor' (no negative in the verse, rule 10) against v5's 'not … Nor' distributed on the one לֹא (rule 25), and v12 'their' on a written noun with no suffix. All consistent with each other; v14's 'his' inside 'set his love upon' is a different construction (possessive inside a light-verb idiom coreferent with the verb's subject) and its note names the added reading.",
+    "BSB disagreements: the five prepositions (לָ v4, אֵלֶי v7 and v10, בְּ v10, בִּ v16) are the documented convention difference — BSB attaches a silenced preposition to its phrase, this project marks it unrepresented under rule 40 — and the paragogic nun of v12 is rule 32. None is a genuine error.",
+    "The three repeated notes flagged by the validator ('Construct noun with supplied the', 'Rectum takes of', 'Supplied the belongs to the noun') restate rules 29, 19 and 15 and are not recorded as conventions. No promotion or amendment: the chapter teaches nothing the contract does not already say."
+  ]
+}

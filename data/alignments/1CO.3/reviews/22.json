@@ -1,0 +1,11 @@
+{
+  "alignment_sha256": "2483ecd1a735bacff14f7c902339d173fd526e2d0f8125d76ec595a759f739fb",
+  "contract_version": "nt-greek-verse-v98",
+  "notes": [
+    "Reconciliation by claude-code — corrected",
+    "The supplied copula was placed on the predicate genitive `ὑμῶν` under rule 63, but rule 63's exception-to-the-exception is scoped to a lexical-noun subject, and rule 68 says so in terms. The subject `πάντα` is a substantival quantifier, no more a lexical noun than `ὑμεῖς` is, so it falls on rule 53's pronoun side and takes the copula itself — which is what the identical frame at 3.23 does with `ὑμεῖς`. Moves t022 *are* from s018 to s017 and leaves `ὑμῶν` a bare *yours*."
+  ],
+  "ref": "1CO.3.22",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

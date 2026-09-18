@@ -1,0 +1,128 @@
+{
+  "alignments": [
+    {
+      "note": "Interrogative pronoun → 'Who'.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Comparative preposition is the clause's predicate; takes the construction-supplied copula and the two-word 'like unto' (rules 24, 49). Head on 'like'.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Divine name.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Construct noun 'God'.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Suffix → 'our' (rule 18).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Substantival article on the participle takes the relative 'That' (rule 41).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Hiphil 'makes high' recast as 'on high'; the ASV moves the height onto the sitting. Head on 'high', the word carrying the lexeme.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "לְ before the infinitive; the light-verb recasting writes no word for it (rules 40, 52).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "'to sit' rendered by the light verb plus complement 'hath ... seat', headed on 'seat' (rule 44); discontinuous around the supplied possessive (rule 25).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Supplied possessive with no suffix or other possessive morpheme in the clause is added under rule 18's closing sentence, as rule 44 disposes of the possessive of 'go your way'. Rule 30's formula-pronoun exception is stated for נָא and 'hath his seat' is not a fixed formula the ASV always writes for יָשַׁב; the competing reading keeps 'his' with 'seat' as part of the idiom.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    }
+  ],
+  "ref": "PSA.113.5",
+  "review_notes": [
+    "Corrected: 'his' in 'hath his seat' answers to no morpheme and is added (rule 18 closing sentence, rule 44); the previous alignment folded it into the infinitive's light-verb unit. ASV redistributes the two verbs: height → 'on high', sitting → 'hath ... seat'."
+  ]
+}

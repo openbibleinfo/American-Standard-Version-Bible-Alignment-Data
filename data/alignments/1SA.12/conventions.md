@@ -1,0 +1,7 @@
+# 1 Samuel 12 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **1SA.12.14** — Two גַּם particles coordinating two subjects each take the English word the ASV writes for their own position: גַּם־אַתֶּם וְגַם־הַמֶּלֶךְ → *both ye and also the king* gives *both* and *also* to the two גַּם and *and* to the waw (12.14); גַּם־אַתֶּם גַּם־מַלְכְּכֶם → *both ye and your king*, with no waw, gives *and* to the second גַּם (12.25). Rule 14's correlative-pair fusion is for one connective rendered by two words and does not reach a written pair.
+- **1SA.12.5** — A subject pronoun the ASV supplies for a later verbless clause whose referent is a nominal written earlier in the same verse joins that nominal's discontinuous unit under rule 25 rather than being marked added: *He is witness* → יְהוָה (12.5), *as it was against your fathers* → יַד (12.15, where *was* is the second realization of the one הָיְתָה under rule 34). The competing added reading is named in each note.
+- **1SA.12.6** — Cleft and impersonal *it* in a verbless clause is added, and the copula goes where rule 20 sends it: to the only overt anchor free to bear it when the predicate is a finite relative clause (*It is Jehovah that appointed*, 12.6), and to the interrogative particle when it is fronted as the question auxiliary (*Is it not wheat harvest*, 12.17).

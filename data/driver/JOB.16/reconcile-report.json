@@ -1,0 +1,22 @@
+{
+  "chapter": "JOB.16",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 22 verses end to end against the 27-lemma candidate table. Every multi-treatment bucket is the ASV rendering one morpheme differently in context (my/me/mine for the 1cs suffix; Then/and/also/Yea/That for waw; upon/against/at/into/although for עַל; with/by/to/reproachfully for בְּ); none is one construction analysed two ways.",
+    "Cross-verse constructions checked and found consistent: (a) a preposition whose object the ASV promotes to a bare English object is unrepresented in every instance (16.4 בְּ and בְּמוֹ, 16.6 מִן, 16.13 עַל), while a preposition the ASV renders keeps its word (16.5 בְּמוֹ → with); (b) a possessive suffix the recasting turns into the English object takes that 'me' and the noun keeps its own word plus any supplied preposition/determiner (16.10, 16.12, 16.19, 16.20); (c) phrasal particles completing the verb (together, up, asunder, to pieces, round about, out) stay with the verb in every verse; (d) supplied objects and connectives no morpheme licenses are added in every verse (16.5 'But', 'your grief'; 16.8 'which', 'against me'; 16.9 'me'; 16.20 'But'; 16.22 'whence'); (e) copula on prepositional predicates in 16.16, 16.17, 16.19; (f) supplied 'the' on constructs (16.5, 16.11) vs on bare nouns (16.10, 16.12, 16.22) placed by rules 29 and 15 alike.",
+    "The added/aligned boundary that the lemma table cannot see was checked in the dump: no supplied word is added in one verse and folded into a morpheme in another.",
+    "BSB disagreements: all seven are convention differences, none a genuine error. The five R tokens are prepositions silenced by the ASV's recasting (rule 40: 16.4 ×2, 16.6) or standing beside a הָיָה that carries the copula/have (rules 21, 43: 16.8, 16.12 reflexive dative, 16.18); 16.10 is a paragogic nun (rule 32); 16.22 is an apodosis waw the ASV opens bare (rule 14).",
+    "The three notes the validator reports as repeating (assimilated article → the; indefinite article and supplied 'the' → noun) each restate rules 12 and 15 verbatim, so no convention is recorded for them. Nothing in the chapter generalises beyond what the contract already states; the 'as ye do' pro-verb (16.4) and 'For when' on כִּי (16.22) are single-verse judgments carrying their competing readings in their notes and are not promoted."
+  ]
+}

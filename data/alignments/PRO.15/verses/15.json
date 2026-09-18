@@ -1,0 +1,137 @@
+{
+  "alignments": [
+    {
+      "note": "Quantifying construct noun takes only its own word under rule 19.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Construct noun with supplied *the* under rule 29.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Nomen rectum with its *of* under rule 19 and the supplied *the* of an anarthrous substantival adjective under rule 46.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Predicate adjective with the construction-supplied copula under rule 20.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Waw rendered *But* under rule 14.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Anarthrous substantival adjective in construct: the supplied *he that* is rule 46's, the copula rule 20's, and the lexeme sits in *cheerful*. The chain is anarthrous and the ASV writes the construct as the attributive standing before the rectum's own word, so the single supplied determiner *a* is this noun's under rule 29's attributive paragraph, exactly as PRO.15.4 gives the *A* of *A gentle tongue* to `מַרְפֵּא`; the unit is discontinuous around the rectum's *of* under rule 25. The competing reading gives the *a* to `לֵב` as the noun of the English expression under rule 15, which rule 29 excludes for a construct chain.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t012",
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Nomen rectum takes the chain's relational *of* under rule 19 and keeps only its own word besides; the supplied determiner is the construct noun's under rule 29.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "The clause is verbless with no הָיָה, no possessive preposition, no suffix and no verb the *have* renders, so the supplied verb answers to no morpheme and is `added` under rules 43 and 20; the ASV's italic corroborates this, by rule 7.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Possessed noun with its supplied *a* under rule 15, discontinuous around the adjective.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "תָּמִיד rendered attributively as *continual*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "PRO.15.15",
+  "review_notes": [
+    "Rule 43's count finds nothing in the second colon to carry the supplied *hath*, so it stands as its own `added` unit rather than being folded into מִשְׁתֶּה.",
+    "Reconciled with PRO.15.4 at the chapter pass: the supplied *a* of *a cheerful heart* is the construct noun's under rule 29, not the rectum's under rule 15. PRO.15.1, 15.17, 15.18, 15.19 and 15.21 already place their supplied determiners on the construct noun and are unchanged."
+  ]
+}

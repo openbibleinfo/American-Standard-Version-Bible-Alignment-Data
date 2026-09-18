@@ -1,0 +1,183 @@
+{
+  "alignments": [
+    {
+      "note": "Suffix takes the possessive *Thine* (rule 18).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Construct noun keeps only its own word. The accepted alignment additionally gave it *have* as a recast construct relation, but MACULA tags s002 רֵיחַ `Ncmsa` (absolute) and s003 `Ncmpc`, so no construct relation between fragrance and oils stands in the projection and s003 is the regens rather than the rectum; rule 43 places the *have* elsewhere.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The ASV recasts the clause possessively (*Thine oils have a goodly fragrance*). No הָיָה stands here, no written verb is rendered by *have*, and the suffix already holds *Thine*, so under rule 43's counting rider it is not a home for a second word; the לְ is the clause's one relational morpheme on which the ASV has spent nothing, and the *have* is what it is rendered by, exactly as `שָׁפְרָה עָלָי` → *I have a goodly heritage* gives *goodly* to the adjective and *have* to the preposition. Two materially available alternatives: *have* `added` under rule 20's supplied-lexical-verb clause, and *have* folded into שְׁמָנֶי as a recast construct relation (the accepted reading). The `added` branch is rejected because rule 43 reaches it only where no preposition or suffix is left with an English word to take, and this preposition is.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Substantive with its supplied indefinite article (rule 15), discontinuous around the adjective (rule 25).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Predicate adjective recast attributively as *goodly*; rule 43 is explicit that a word so rendered is not a copula and does not carry the *have*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Suffix takes the possessive (rule 18).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Construct noun keeps its own word.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The italic comparative *as* answers to no morpheme: the Hebrew predicate is a bare nominal (rules 7, 30).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Fronted nominal predicate with the construction-supplied copula (rule 20); שְׁמֶךָ is the subject and takes only its own English.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Verb with its phrasal particle; the head stays on the lexical verb (rule 44).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "עַל־כֵּן fused into one English word (rule 30), headed on the governing first morpheme (rule 23).",
+      "source": [
+        "s010",
+        "s011"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Finite verb with the fronted auxiliary *do* the inverted English clause requires; no interrogative morpheme stands here, so the auxiliary is the verb's own (rule 17).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "No article morpheme is present, so the supplied *the* joins the noun (rule 15).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Object suffix takes the object pronoun (rule 18).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "SNG.1.3",
+  "review_notes": [
+    "Fourteen source and nineteen target IDs each partitioned once in the corrected array.",
+    "The single change is t003 *have*: moved from s003 שְׁמָנֶי to s001 לְ. The accepted note's premise — that s003 is the nomen rectum carrying a construct relation the ASV recast — is contradicted by the token table, which tags s002 רֵיחַ absolute (`Ncmsa`) and s003 construct (`Ncmpc`).",
+    "Rule 43's enumeration of what can carry a *have* does not include a noun, and its `added` branch is reached only where no preposition or suffix is left unspent; here the לְ is unspent, so the word is placed on it rather than marked `added`. Both alternatives are named in that unit's note under rule 8.",
+    "The rest of the verse is unchanged, including the `added` italic *as* and the עַל־כֵּן fusion."
+  ]
+}

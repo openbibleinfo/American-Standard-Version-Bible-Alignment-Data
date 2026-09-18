@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "chapter": "1PE.2",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.1PE.2.1.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads plural 'hypocrisies' (alongside plural 'envies', 'evil speakings'), rendering ὑποκρίσεις; the WH singular ὑπόκρισιν would give 'hypocrisy'. The only note is an alternative_rendering on 'wickedness' and bears on no reading here."
+    },
+    {
+      "unit_id": "SBLGNT.1PE.2.2.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the phrase explicitly: 'that ye may grow thereby unto salvation'. 'unto salvation' is εἰς σωτηρίαν; the RP omission leaves nothing for those words to translate."
+    },
+    {
+      "unit_id": "SBLGNT.1PE.2.3.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV has bare 'if ye have tasted'. Both εἰ and εἴπερ are conditional particles that English renders with 'if'; ASV supplies no intensifying 'if so be that' or 'indeed' that would isolate εἴπερ, and nothing else in the verse or its notes distinguishes them."
+    },
+    {
+      "unit_id": "SBLGNT.1PE.2.5.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's 'to be a holy priesthood' supplies a purpose/result sense that renders εἰς; the RP text without εἰς would put ἱεράτευμα ἅγιον in simple apposition ('a holy priesthood'). The margin 'Or, a spiritual house for a holy priesthood' likewise turns on a translatable εἰς."
+    },
+    {
+      "unit_id": "SBLGNT.1PE.2.5.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is only the presence of the article τῷ before θεῷ. ASV's 'acceptable to God' is the same English with or without it, since Greek articular use with θεός is not represented in English, and no note addresses it."
+    },
+    {
+      "unit_id": "SBLGNT.1PE.2.6.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads anarthrous 'contained in scripture', with the margin 'Or, a scripture' — both indefinite renderings of ἐν γραφῇ. The RP articular ἐν τῇ γραφῇ would yield 'in the scripture' and would leave the marginal 'a scripture' without a basis."
+    },
+    {
+      "unit_id": "SBLGNT.1PE.2.6.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV keeps the sequence 'a chief corner stone, elect, precious', i.e. ἀκρογωνιαῖον then ἐκλεκτὸν then ἔντιμον, matching the base order; the WH transposition ἐκλεκτὸν ἀκρογωνιαῖον would place 'elect' before 'chief corner stone'."
+    },
+    {
+      "unit_id": "SBLGNT.1PE.2.7.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV has 'such as disbelieve', a verb of unbelief rendering ἀπιστοῦσιν; RP's ἀπειθοῦσιν is disobedience, which ASV renders elsewhere in this letter as 'obey not' / 'disobedient'."
+    },
+    {
+      "unit_id": "SBLGNT.1PE.2.7.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Nominative λίθος and accusative Λίθον both stand as a fronted, resumed subject picked up by οὗτος. ASV's 'The stone which the builders rejected, The same was made the head of the corner' is the identical English for either case, and no note bears on it."
+    },
+    {
+      "unit_id": "SBLGNT.1PE.2.12.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is word order only. English syntax requires 'having your behavior seemly among the Gentiles' regardless of whether ἐν τοῖς ἔθνεσιν stands before or after ἔχοντες καλήν, so the ASV wording does not distinguish the two orders."
+    },
+    {
+      "unit_id": "SBLGNT.1PE.2.12.v011",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders 'your good works, which they behold' with a present 'behold', matching the present participle ἐποπτεύοντες; RP's aorist ἐποπτεύσαντες would give a completed 'beheld' / 'having beheld' over against the following 'may ... glorify'."
+    },
+    {
+      "unit_id": "SBLGNT.1PE.2.13.v012",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV begins the verse 'Be subject to every ordinance of man' with no inferential connective; the RP addition οὖν would appear as 'therefore', which ASV supplies at 2:1 ('Putting away therefore') where it stands in the text."
+    },
+    {
+      "unit_id": "SBLGNT.1PE.2.16.v013",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is word order only within the phrase. 'bondservants of God' is the necessary English for both θεοῦ δοῦλοι and δοῦλοι θεοῦ, so the ASV does not distinguish them."
+    },
+    {
+      "unit_id": "SBLGNT.1PE.2.17.v014",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Present imperative ἀγαπᾶτε and aorist imperative ἀγαπήσατε are both simply 'Love' in English; ASV's 'Love the brotherhood' stands in a series of bare imperatives and marks no aspectual difference, and no note bears on it."
+    },
+    {
+      "unit_id": "SBLGNT.1PE.2.21.v015",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'Christ also suffered for you, leaving you an example', second person throughout, rendering ὑμῶν; RP's ἡμῶν would give 'for us' as against the surrounding 'ye were called' / 'ye should follow'."
+    },
+    {
+      "unit_id": "SBLGNT.1PE.2.24.v016",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "RP adds a resumptive αὐτοῦ inside the relative clause (οὗ τῷ μώλωπι αὐτοῦ), a Semitic redundancy that English cannot show; ASV's 'by whose stripes ye were healed' is the same rendering either way. The notes here concern 'bare ... upon the tree' and gloss μώλωπι, and settle nothing."
+    },
+    {
+      "unit_id": "SBLGNT.1PE.2.25.v017",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV makes the addressees the ones straying — 'ye were going astray like sheep' — which requires the masculine plural πλανώμενοι agreeing with the subject; the neuter πλανώμενα would agree with πρόβατα and yield 'like sheep going astray'."
+    }
+  ]
+}

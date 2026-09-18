@@ -1,0 +1,209 @@
+{
+  "alignments": [
+    {
+      "note": "",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Subject and auxiliary ride with the verb (rules 7, 9).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The article follows its noun, so under rule 31 the determiner stays on the noun, supplied there because the noun is anarthrous.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The article governs the expressed head noun ἔθνη and its modifier is a participle, so rule 31's test rather than rule 90's decides: the attributive article realizes nothing and the supplied relativizer is the participle's helper, as τῷ θεῷ τῷ κτίσαντι → *God who created* has it. Reading it as substantival and giving it *who* is what rule 90 forbids, blessing no unit in which a head noun is expressed.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "The supplied relativizer *who* is this participle's helper under rules 7 and 31, discontinuously under rule 15; *followed after* is the verb's own phrasal government of an accusative object, which English realizes with no case preposition, so the particle stays inside the unit (rule 106).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t012"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Accusative object rendered with *to*: the preposition is the verb's phrasal government and stays with it (rule 106).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Appositional repetition of the noun with the determiner the following article leaves on it (rule 31).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "The ASV's appositional *even* answers to this connective particle, which stands unspent, so rule 105's added arm is not reached.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Article following its noun and governing a prepositional phrase keeps only the supplied relativizer (rule 31's carve-out, there being no verb to carry it).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "A prepositional phrase has no verb to carry the supplied copula, so *is* goes with the preposition (rules 31, 53).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    }
+  ],
+  "ref": "ROM.9.30",
+  "review_notes": [
+    "Reconciliation patch: τά becomes unrepresented and *who* moves to διώκοντα, on rule 31's τῷ θεῷ τῷ κτίσαντι → *God who created* and rule 90's own statement that it blesses no unit in which a head noun is expressed.",
+    "τήν at the end of the verse is unchanged: its modifier is a prepositional phrase, which has no verb to carry a relativizer, so rule 31's carve-out keeps *which* on the article.",
+    "The determiner *the* stays on the anarthrous ἔθνη under rule 31's following-article clause.",
+    "A reference comparison will now report τά as a disagreement; that is the convention difference rule 31 requires and not a correction."
+  ]
+}

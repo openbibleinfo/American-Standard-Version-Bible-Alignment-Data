@@ -1,0 +1,7 @@
+# 2 Peter 3 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **2PE.3.6** — A complex English prepositional frame on an expressed proper preposition is decided by whether it is contiguous or a discontinuous wrap. A wrap ('by ... means', 2PE.3.6) is settled by rule 78 and heads the prepositional word at high confidence. A contiguous frame ('by reason of', 2PE.3.12) sits in rule 67's standing division: head the prepositional word, following 2PE.2.2 and 1PE.1.14, and record medium.
+- **2PE.3.8** — A supplied copula goes to the clause's predicate constituent, never to an adjunct that merely stands next to it in English word order. Where a verbless clause holds both an adjunct prepositional phrase and a comparative complement, the comparative is the predicate and takes the copula (2PE.3.8, 'is ... as' on hos, with para keeping a bare 'with'); an adverbial or prepositional predicate takes it where it is the only one (2PE.3.6, 2PE.3.7, 2PE.3.10).
+- **2PE.3.1** — A supplied English relativizer with no Greek relative token is a rule 7/9 helper on the finite verb of the English clause it introduces, not an 'added' unit. 2PE.3.1's 'the second epistle that I write' folds 'that' onto grapho, as JHN.21.14, JHN.4.54 and JHN.5.36 do.

@@ -1,0 +1,88 @@
+{
+  "alignments": [
+    {
+      "note": "Vocative name; ASV writes no O.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "עַד־מָתַי → 'how long': neither morpheme owns a part of the two-word rendering; first source token as display anchor (rule 6), target on 'long' as rule 17 anchors the fuller frame.",
+      "source": [
+        "s001",
+        "s002"
+      ],
+      "source_head": "s001",
+      "status": "noncompositional",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Anarthrous substantival adjective with supplied 'the' (rule 46).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Second עַד־מָתַי → 'How long', as the first.",
+      "source": [
+        "s005",
+        "s006"
+      ],
+      "source_head": "s005",
+      "status": "noncompositional",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Second 'the wicked' (rule 46).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "The verb is written once and gapped in the first colon; the ASV's first 'shall' realizes it there, so both auxiliaries join the verb's one discontinuous unit (rule 34, rule 25).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t009",
+        "t012"
+      ],
+      "target_head": "t012"
+    }
+  ],
+  "ref": "PSA.94.3",
+  "review_notes": [
+    "The first colon's 'shall' is read as the distributed realization of the gapped יַעֲלֹזוּ rather than as added."
+  ]
+}

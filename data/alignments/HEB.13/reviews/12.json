@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "dfb34afd88c798b91d8a3bea811e4b3ea9ec3847dfc211177128eda2531d92ef",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: s001–s015 and t001–t017 each appear exactly once; every head is a member of its own array.",
+    "s007/s008 follow rule 47 correctly: `ἴδιος` stands attributively between the article and the expressed head noun `αἵματος`, so it carries *his own* (headed on *own*, the corpus gloss of the lexeme under rule 91) and the article is `unrepresented` under rule 20. Rule 47's substantival arm (`ἐκ τῶν ἰδίων` → *of his own*) does not reach this configuration.",
+    "s012 is right to keep *without* whole on `ἔξω` and give a bare *the* to s013: rules 42 and 101 both say the single-word rendering ends the question, and the ASV supplies no trailing preposition for the article to carry. Rule 84's contrast is correctly invoked — *without* here glosses the adverb's own sense *outside* rather than a privative prefix.",
+    "s006 `διά` keeps *through* on the preposition under rule 36 rather than folding into the verb; s004 `ἵνα` → *that* is rule 40's spelled-out complementizer, the other arm of the same rule the chapter would use for a bare infinitive.",
+    "Reordering in s002/s003 (*Jesus also*) and s015 (*suffered* after the fronted purpose clause) is permitted by rule 15 and absorbs no unrelated tokens."
+  ],
+  "ref": "HEB.13.12",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

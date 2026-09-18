@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "0e3d68c513a05aefd7e7fbef4cdccc860c829527d75fc5f4d3e6279ed1a9baf5",
+  "contract_version": "ot-hebrew-verse-v214",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 36 source morphemes and 45 target tokens are partitioned exactly once.",
+    "Large-source-unit check: `הַ` + `חוּץ` + directive `he` → *abroad* is retained. One English word stands for the whole contiguous adverbial, no morpheme owns a part of it under rule 30's subtraction test, and the ASV writes no *the* for any part of the phrase; the split reading, which would mark the article `unrepresented` under rule 29, is not clearly preferable on rule 2's standard.",
+    "The apodosis opens with its own waw, which carries the frame's *that*, while `הָיָה` keeps *it came to pass* (rule 45).",
+    "`שְׁנֵיהֶם` → *both of them* gives the whole *of + pronoun* to the suffix headed on the pronoun and leaves the construct its bare *both* (rule 19).",
+    "Variant WLC.1SA.9.26.v002 (s014-s016) is underdetermined and carries the base reading; nothing decided in the alignment file (rule 9)."
+  ],
+  "ref": "1SA.9.26",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

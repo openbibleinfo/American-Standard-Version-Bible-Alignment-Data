@@ -1,0 +1,212 @@
+{
+  "alignments": [
+    {
+      "note": "Postpositive conjunction.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Rule 61: the nominalizing article of an articular infinitive has no English word, no preposition governing it.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rule 61: the infinitival marker is the verb's own helper.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Genitive pronoun as possessive.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Substantival adjective with the supplied generic noun; rule 17 heads it on the adjective.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Disjunctive particle.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "ἐξ εὐωνύμων is anarthrous, so no article competes and the supplied possessive 'my' is an ordinary rule 7 helper on the word it determines under rule 51's anarthrous clause; rule 11 keeps the italics from making it 'added', and rule 103 does not reach a pronoun, naming one as the contrast that folds. Rule 17 keeps the head on the adjective. Reading it as a discontinuous second realization of μου under rules 15 and 76 remains defensible.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Copula.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Ordinary negative.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Rule 54: the possessive adjective carries the English possessive itself.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Rule 7: the infinitival marker belongs to its verb.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "The Greek clause is the bare relative οἷς, which the ASV expands into 'it is for them for whom'. Rule 77 folds a supplied bare antecedent onto the relative and keeps the head on the relativizer, and rules 53 and 68 leave the supplied copula and dummy subject with the only token standing in that clause, the verb's own English being already spent on ἡτοίμασται. Rule 103 does not apply: no source token has already been realized as these words, so nothing is repeated. Marking the supplied frame 'added' under rule 5 remains defensible.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020",
+        "t021",
+        "t022",
+        "t023",
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Rule 9: subject and auxiliaries ride with the lexical verb.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t025",
+        "t026",
+        "t027",
+        "t028"
+      ],
+      "target_head": "t028"
+    }
+  ],
+  "ref": "MRK.10.40",
+  "review_notes": [
+    "Two units were corrected. The italicized second 'my' folds onto the anarthrous εὐωνύμων under rule 51's anarthrous clause rather than standing 'added', matching 10:2 and 10:37 in this chapter; rule 103 is scoped to lexical content and names a pronoun as the contrast that folds.",
+    "The supplied frame 'it is for them' folds onto οἷς rather than standing 'added': rule 103's condition — a source token already realized elsewhere — is not met, nothing in the verse having been spent on those words, and rule 77 is the fit for a bare relative expanded with a supplied antecedent. Rules 53 and 68 put the supplied copula and dummy subject on the only token left in that clause. The 'added' reading remains defensible and is recorded in the unit's note."
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chapter": "JDG.4",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The compound toponym Harosheth-haggoyim arrives as two Np tokens. The first takes Harosheth and the second takes of the Gentiles as an ordinary nomen rectum under rule 19; the ASV margin Or, nations was read and set aside under rule 38. Applied at 4.2, 4.13 and 4.16.",
+    "nus is the fleeing and the ASV's bare fled writes that lexeme already, so the away of fled away adds a direction the Hebrew does not write and is its own added unit under rule 44's subtraction test, not a phrasal particle folded into the verb. Applied at 4.15 and 4.17.",
+    "An appositional even the ASV writes before a phrase no object marker stands on is added under rule 16's limit, whatever markers stand elsewhere in the clause: at 4.11 no marker stands in the phrase at all, and at 4.13 the clause's marker stands on kol rikhbo, which the ASV renders bare. It is not folded into the neighbouring min or into the appositive."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v172",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 58 candidate lemma groups and then the full verse dump end to end. No cross-verse split found: every multi-treatment bucket is accounted for by a difference the ASV or the source writes.",
+    "Function morphemes are consistent. The bein pairs at 4.5 and 4.17 both give between to the first member and and to the waw, and mark the repeated member unrepresented (rule 26). The article takes a written the, takes the possessive his at 4.15 where no suffix stands in the phrase (rule 41), and is unrepresented wherever the ASV renders the phrase indefinitely (4.18, 4.19, 4.21 twice) - an indefinite a is not one of rule 41's determiners and goes to the noun under rule 15, which is rule 29's nephesh ha-adam case. le is unrepresented before a bare English object (4.6, 4.12) and takes the written to before an infinitive (4.18, 4.22). All H853 markers are unrepresented; both H854 prepositions take the predicate copula (4.11 is by, 4.13 were with).",
+    "Supplied-English audit, which the lemma table cannot do because it is blind to added units: the six added units - saying (4.6), even (4.11, 4.13), away (4.15, 4.17), as (4.22) - are decided identically wherever they recur, and every other supplied word in the chapter sits on a morpheme that licenses it (presentative there at 4.10, 4.16, 4.17, 4.20; copulas on their predicates; supplied to/in for bare directional accusatives at 4.12 and 4.20; any at 4.20; generic nouns at 4.5, 4.16, 4.22). Supplied subordinators are consistent in both directions: when goes to the waw at 4.1 and to the im at 4.20, and only the as of 4.22 - whose clause has no conjunction in it, with hinneh's behold standing between it and the waw - is added, which is rule 55's own shape.",
+    "BSB: 17 disagreements, none a genuine error. Six prepositions the ASV's recasting leaves nothing to say (4.1, 4.5, 4.6, 4.12, 4.16, 4.17), six unrendered articles (4.4, 4.5, 4.19, 4.21, 4.23), three waws for which the ASV writes no connective (4.2 twice, 4.22), and the two paragogic Sh tokens at 4.18 that rule 32 marks unrepresented by name. All are the documented convention difference, where BSB attaches the morpheme to its host phrase. Nothing was changed to improve the rate.",
+    "Head choices reviewed and left as accepted. At 4.21 the nirdam unit heads on deep, which is rule 31's own tardemah -> deep sleep ruling; the verse pass had already corrected it and named sleep in the note. At 4.16 echad -> a man heads on man, which is right, but the note offers heading on a as the competing reading and rule 31's closing sentence forecloses that - an article, of or a are never the head. The edge is correct, so I did not rewrite the verse for a note; a later reader should read that hedge as spent.",
+    "Two constructions that look like splits and are not: har -> the hill country (4.5) heads on hill while yated -> tent pin (4.22) heads on pin, because country is a supplied generic and tent is a supplied specifier, which is rule 31's two directions; and ohel is the rectum of an of-chain at 4.20 but an attributive at 4.21, which rule 28 leaves to the ASV."
+  ]
+}

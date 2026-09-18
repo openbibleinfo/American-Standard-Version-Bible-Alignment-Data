@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "chapter": "HEB.3",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.HEB.3.1.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 3:1 ends 'even Jesus' with no 'Christ' following; the added Χριστόν of r01 would appear in the English as 'Christ Jesus' or 'Jesus Christ'."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.3.2.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 3:2 reads 'as also was Moses in all his house'; 'all' renders ὅλῳ, which the base lacks."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.3.3.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is only the order of οὗτος and δόξης; English word order in 'he hath been counted worthy of more glory' is fixed by its own grammar and cannot reflect either Greek arrangement. The lone note is alternative_rendering ('Or, established') and does not bear on the reading."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.3.4.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is the presence of the article τά before πάντα. ASV 'he that built all things' renders πάντα identically with or without the article; ASV does not mark Greek articles in English. The notes are alternative_rendering only."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.3.6.v005",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 3:6 reads 'whose house are we' — a genitive relative (οὗ ... οἶκός ἐσμεν ἡμεῖς). The base nominative ὅς agrees with οἶκος and would yield 'which house we are'."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.3.6.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV renders a bare 'if we hold fast'. ἐάνπερ is the emphatic form of ἐάν and is regularly rendered simply 'if'; the English shows no intensifying word, but its absence does not exclude the emphatic particle."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.3.6.v007",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 3:6 has 'firm unto the end' after 'the glorying of our hope', rendering βεβαίαν μέχρι τέλους, which the base reading lacks."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.3.9.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 3:9 has 'tried me'. But the same verse reads 'by proving me', where no candidate supplies an object with δοκιμασίᾳ — so ASV demonstrably adds the unexpressed object of these verbs without italics. The first 'me' therefore does not distinguish ἐπείρασαν from ἐπείρασαν με."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.3.9.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders 'by proving me' — a prepositional phrase subordinate to 'tried', matching ἐν δοκιμασίᾳ. r01's ἐδοκιμασάν με is a second finite verb and would give a coordinate clause ('and proved me'), which ASV does not have. ASV's 'Where' likewise renders οὗ with the base text."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.3.10.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 3:10 reads 'displeased with this generation'; 'this' renders the near demonstrative ταύτῃ, against r01's ἐκείνῃ ('that')."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.3.13.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is only the order of τις and ἐξ ὑμῶν. ASV 'lest any one of you be hardened' renders both elements in the order English requires and cannot distinguish the Greek arrangement."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.3.14.v012",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is only whether γεγόναμεν precedes or follows τοῦ Χριστοῦ. ASV 'we are become partakers of Christ' fixes its own order; the note is alternative_rendering ('Or, with') about the preposition, not the reading."
+    }
+  ]
+}

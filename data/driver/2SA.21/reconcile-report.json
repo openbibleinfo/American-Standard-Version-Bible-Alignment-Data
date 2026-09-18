@@ -1,0 +1,28 @@
+{
+  "chapter": "2SA.21",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2SA.21.1",
+    "2SA.21.19"
+  ],
+  "rejected": {},
+  "conventions": [
+    "The formula wattehi-od (ha)milchamah is read by what the ASV writes for it. 'there was again war' (vv. 18, 19, 20) gives 'there was' to haya (rule 21), 'again' to od, and leaves the article unrepresented because the ASV writes bare 'war'; 'the Philistines had war again with Israel' (v. 15) gives the 'had' to haya and silences the possessive le (rule 43), the assimilated article taking 'the' before Philistines.",
+    "A waw opening a verbless clause the ASV recasts as a relative clause on a possessive suffix: where the ASV writes one word, 'whose', that word is the suffix's (rule 18) and the waw is unrepresented (vv. 16, 19); where it writes two, 'that had' (v. 20), the waw takes the relative connective 'that' and the suffix takes the 'had' that carries its possession (rules 11, 43). The competing reading for v. 20 gives 'that had' to the suffix and leaves the waw unrepresented.",
+    "'who was of the sons of the giant' for asher bilidei ha-raphah (vv. 16, 18): be takes 'was of' (rule 49), yelidei takes a supplied 'the' with 'sons' (rule 29), the article takes 'the', and raphah takes 'of giant', the margin 'Hebrew Raphah' read and set aside (rule 38); the bare ha-raphah of vv. 20, 22 is 'the giant' on the same terms."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Cross-verse check: the recurring formulae are consistent. wattehi-od (ha)milchamah is 'there was again war' with haya taking the presentative frame and the article unrepresented in 18/19/20, and 'the Philistines had war' in 15 with haya taking the 'had' and the possessive le silenced (rule 43); that is the ASV writing two shapes, not a split. 'who was of the sons of the giant' (16, 18) divides identically in both verses. The waw of a recast relative clause is unrepresented beside a suffix rendered 'whose' (16, 19) and takes 'that' beside a suffix rendered 'had' (20): one English word versus two, so each morpheme takes the word carrying its sense (rules 11, 18, 43); recorded as a convention because the table shows it as a split.",
+    "Two single-verse corrections under rule 29/41. 2SA.21.1: 'his' of 'his bloody house' stands where the phrase's fronted 'the' would stand and the rectum's article is the only determiner morpheme in the chain, so the article takes it (rule 41) rather than being left unrepresented beside an added possessive. 2SA.21.19: the 'a' of 'a weaver's beam' is the determiner of the possessor under rule 29's possessive-recast sentence (nesi beit-av -> 'a prince of a fathers house'), so it moves from manor to oregim.",
+    "BSB disagreements: all convention differences (object markers, datives the ASV renders as bare objects, the resuming hemmah of a tripartite clause, waws the ASV leaves unconnected, articles before nouns the ASV writes bare, repeated ben). The one on 2SA.21.1's article is resolved by the patch. 2SA.21.9 'all seven' (suffix unrepresented, italic 'all' added) and 2SA.21.6 'hang ... up' (particle added; the ASV writes the same verb bare in vv. 9 and 13) are judgment calls the verse notes already name; neither is an error.",
+    "No promotion: nothing here generalises beyond what rules 17, 18, 29, 41, 43 and 49 already say."
+  ]
+}

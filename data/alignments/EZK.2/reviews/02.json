@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "4967bfd693091637d1423a35a6fcbfd31a0526b7b215d26bfb04c9c7752d14cd",
+  "contract_version": "ot-hebrew-verse-v62",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Coverage is complete: 21 units over 22 source ids (s006+s007 fused) and all 25 target ids.",
+    "s006/s007 → *when* is the one genuinely contestable unit. The accepted fusion under rule 30 is sound because a single English word covers both morphemes with nothing left over; the split reading (rule 52 giving *when* to כְּ, אֲשֶׁר unrepresented) is already named in the unit note, satisfying rule 8.",
+    "The supplied *the* before *Spirit* is correctly placed on s005 by rule 15's second sentence rather than marked added; no Td morpheme is present.",
+    "s020 מִדַּבֵּר is anarthrous, so rule 46 governs: *him that* joins the participle's unit and the head stays on the lexeme-bearing *spake*, not on the supplied pronoun. s019's object marker is unrepresented because the ASV writes the object bare (rule 16)."
+  ],
+  "ref": "EZK.2.2",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

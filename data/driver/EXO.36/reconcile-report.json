@@ -1,0 +1,30 @@
+{
+  "chapter": "EXO.36",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "EXO.36.29"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Rule 30 fusions are recorded `aligned` in this chapter, not `noncompositional`: מִלְּמַטָּה → *beneath* and מִלְמָעְלָה → *above*, מִלִּפְנֵי → *of*, לְבָד → *by themselves*, תּוֹלַעַת שָׁנִי → *scarlet*, עֹרֹת תְּחָשִׁים → *sealskins*, the directive-he compounds תֵּימָנָה and יָמָּה → *southward*/*westward*, the compound numerals עַשְׁתֵּי עֶשְׂרֵה → *eleven* and שִׁשָּׁה עָשָׂר → *sixteen*, and לָהּ → *thereunto*. This is a chapter convention and not a contract ruling: rule 30 fixes the unit but not its status, and the corpus is split on the question, reading לִפְנֵי as noncompositional in 225 units and aligned in 144. What matters is that one chapter answers it one way throughout.",
+    "In the tabernacle's measurement and board formulas — אֹרֶךְ הַיְרִיעָה הָאַחַת, רֹחַב הַקֶּרֶשׁ הָאֶחָד, לִשְׁנֵי הַמִּקְצֹעֹת and their kin — the ASV's determiner is read this way throughout. אֶחָד/אַחַת takes whatever determiner the ASV writes for it, *each*, *every*, *one* or *another*, which is that numeral's own word and never the article's. The chain's articles are then decided by how many *the*s the ASV writes: where it writes one, the present article on the rectum takes it, fronted by English onto the construct, and the attributive numeral's agreement article is `unrepresented` under rule 47 (vv. 9, 15, 21, 29); where it writes none, both articles are `unrepresented` under rule 29 (vv. 22, 24, 26, 29, 30); where it writes one before each word, each article takes the one standing before its own (vv. 25, 31, 32). A *the* is never supplied on the construct while a present article morpheme in the same phrase is left unrepresented.",
+    "The two recurring fabric phrases are divided oppositely, and the same subtraction test decides both. תּוֹלַעַת שָׁנִי is rendered by the single English *scarlet*, so the two morphemes share one unit headed on שָׁנִי (vv. 8, 35, 37); שֵׁשׁ מָשְׁזָר is not a fusion, because the ASV spends *twined* on the participle in particular, so שֵׁשׁ takes *fine … linen* headed on *linen* and the participle takes *twined* (vv. 8, 35, 37). The same asymmetry governs the material chains: עֹרֹת תְּחָשִׁים fuses into *sealskins* while עֹרֹת אֵילִם is rendered *rams skins* and splits (v. 19)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v78",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 55 candidate groups and the dump end to end. Every multi-treatment bucket in the table is licensed by what the ASV writes: articles by rules 29 and 47, אֶחָד by the determiner written for it, לְ/אֶל/בְּ by rule 40, and עָשָׂה headed on the lexical verb in all 38 units.",
+    "One real split, invisible to the lemma-keyed table because the two lemmas differ and each occurs once: rule 30 fusions are recorded `aligned` thirteen times and `noncompositional` once. EXO.36.19's מִלְמָעְלָה -> above and EXO.36.29's מִלְּמַטָּה -> beneath are the same construction, מִן + לְ + directional adverb rendered by one English word. Patched EXO.36.29 to `aligned`; edges and both heads unchanged.",
+    "The chapter's other fusions stand as `aligned` and were left alone: תּוֹלַעַת שָׁנִי -> scarlet (8, 35, 37), עֹרֹת תְּחָשִׁים -> sealskins (19), לְבָד -> by themselves (16), מִלִּפְנֵי -> of (3), the directive-he compounds תֵּימָנָה/יָמָּה (23, 27, 32), the compound numerals (14, 15, 30), and לָהּ -> thereunto (36).",
+    "Articles are consistent chapter-wide. In אֹרֶךְ הַיְרִיעָה הָאַחַת and its kin (9, 15, 21) and in לִשְׁנֵי הַמִּקְצֹעֹת (29) the single written *the* goes to the present article on the rectum, fronted by English onto the construct, and the attributive numeral's agreement article is `unrepresented` under rule 47. Where the ASV writes no *the* for the phrase at all (one board, another board, every board, Each board, one ring: vv. 22, 24, 26, 29, 30) both articles are `unrepresented` under rule 29, because אֶחָד itself carries the determiner. Where two *the*s are written, each article takes the one standing before its own word (25, 31, 32).",
+    "BSB: 34 disagreements over 674 comparable occurrences, all in the documented convention classes — object markers, the לְ of לֵאמֹר, prepositions before a bare English object, assimilated and agreement articles, the resumptive הֵמָּה of v. 1, and the repeated אַמָּה (21) and שְׁנֵי אֲדָנִים (30). BSB attaches these to their host phrase; the ASV spends no word on them. None is a genuine error, and no accepted edge was changed.",
+    "No promotion. The status question the split turns on is one the corpus cannot settle: לִפְנֵי is recorded `noncompositional` in 225 units and `aligned` in 144, and מִלְּבַד -> besides is noncompositional in 12 while this chapter's לְבָד -> by themselves is aligned. A rule the corpus contradicts is worse than none, so the ruling is logged as a chapter convention instead.",
+    "Left as accepted, with the verse notes already naming the competing readings: the doubled שְׁנֵי אֲדָנִים of v. 30 (English given to the first occurrence) and the doubled בַּבֹּקֶר of v. 3 (morning to the first, the distributive every to the second). Rule 22's tail-to-tail clause is scoped to a counted noun across a compound numeral and does not reach either; one instance each is too thin to settle a general tie-break."
+  ]
+}

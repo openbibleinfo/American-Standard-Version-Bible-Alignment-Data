@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "06ed5d04a1451017e9ba7cd9a11143d628443a2381b95a5022e0f4b05bb29719",
+  "contract_version": "nt-greek-verse-v58",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed unchanged: every s### and t### id is partitioned exactly once, 23 source and 25 target tokens all placed, and no unit needed correction.",
+    "s007 and s018 are unrepresented under rules 21/23 because the ASV writes bare *death* and bare *God*; the case preposition *of* stays with θανάτου and *in* stays with the expressed ἐπί.",
+    "s020 follows rule 31's stated example (τῷ θεῷ τῷ κτίσαντι → *God who created*) rather than rules 32/90, since the article governs the expressed head noun θεῷ. Rule 90 disclaims in terms any unit where a head noun is expressed.",
+    "ἐν ἑαυτοῖς and ἐφ᾽ ἑαυτοῖς each render to two English words, so rule 94's precondition for a compound prepositional unit is not met and both split; the first is discontinuous under rule 15.",
+    "Two hedged heads: s002 (*ourselves* over *we*) and s013 (*should* over *we*). Both are genuine competing analyses under rule 16, not mere idiomaticity; every other unit is unhedged."
+  ],
+  "ref": "2CO.1.9",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

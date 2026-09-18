@@ -1,0 +1,11 @@
+{
+  "alignment_sha256": "c10e7b8994b0fd5c6653f4378a1132dac3b6129049a5ad3d65f23438b6d15dca",
+  "contract_version": "nt-greek-verse-v95",
+  "notes": [
+    "Reconciliation by claude-code — corrected",
+    "ἐγγύτερον ἡμῶν → 'nearer to us': the trailing 'to' was given to the genitive pronoun under rule 21, but rule 21 hands a governed word only the English preposition that realizes its own case, and 'to' does not realize a genitive. ἐγγύτερον is the comparative of the improper preposition ἐγγύς — rule 95 decides that class from the lexeme and never from the ADV-C morph tag — and the ASV gives ἡμῶν no determiner for an article to anchor, so rule 101 keeps the trailing preposition with the adverb and leaves the governed word bare, exactly as χωρὶς ἐμοῦ → 'apart from' / 'me' does. Rule 101 states in terms that no corpus unit anywhere puts such a trailing preposition on a bare governed noun. Only s015 and s016 change; every other unit is as the verse pass returned it."
+  ],
+  "ref": "ROM.13.11",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

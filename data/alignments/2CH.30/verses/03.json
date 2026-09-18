@@ -1,0 +1,301 @@
+{
+  "alignments": [
+    {
+      "note": "Causal כִּי → *For*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The ASV writes the negation and the modal as two words, so rule 35 splits them and the negative takes only its own *not*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "יָכֹל keeps the subject pronoun and the modal (rules 17, 35).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The recasting after *could not* writes no complementizer and no preposition for this lamed (rules 40, 52).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Infinitive construct → *keep*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Object suffix on the infinitive takes the English object pronoun (rule 18).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Preposition → *at*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "The phrase's single determiner is the demonstrative *that*; the articles take nothing (rule 41).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Agreement article before the demonstrative (rules 41, 47).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The demonstrative pronoun is what the written *that* realizes (rule 41).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "כִּי takes the connective the ASV wrote for it, here *because* (rule 14).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Article → *the*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Negative → *not*.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Hithpael: the reflexive *themselves* renders the verb's own voice and stays with it (rule 44); the unit is discontinuous around *not* (rule 25).",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t015",
+        "t016"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Preposition → *in* (rule 11).",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "The fixed expression מַדַּי is rendered by the single English rendering *sufficient number*, so the two morphemes share one unit under rule 30. Read that rule's condition as one rendering rather than one token: by rule 31's subtraction *number* alone is any number and is the generic the ASV supplies to complete the substantive, so no morpheme owns a part of the two words and neither is left with a rendering of its own to lose. Rule 23 heads on the morpheme carrying the lexeme, דַּי, and rule 31 heads the target on *sufficient*. Competing reading: split the pair and mark the מַ `unrepresented` under rule 22 — declined because rule 30 governs a fixed multi-word expression rendered as one English rendering and directs one unit rather than one rendered morpheme beside an unrepresented one, and because the מַ of this adverbial is not independently meaningful in the way rule 2's split requires.",
+      "source": [
+        "s018",
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Waw plus the present negative fused into the single *neither*, headed on the negative; distance does not break the fusion (rule 35).",
+      "source": [
+        "s020",
+        "s023"
+      ],
+      "source_head": "s023",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Article → *the*.",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s022"
+      ],
+      "source_head": "s022",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Niphal: *gathered themselves together* renders the verb's own voice (rule 44); the unit is discontinuous around the subject under rule 25.",
+      "source": [
+        "s024"
+      ],
+      "source_head": "s024",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t024",
+        "t025",
+        "t026"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Preposition → *to*.",
+      "source": [
+        "s025"
+      ],
+      "source_head": "s025",
+      "status": "aligned",
+      "target": [
+        "t027"
+      ],
+      "target_head": "t027"
+    },
+    {
+      "note": "Proper name.",
+      "source": [
+        "s026"
+      ],
+      "source_head": "s026",
+      "status": "aligned",
+      "target": [
+        "t028"
+      ],
+      "target_head": "t028"
+    }
+  ],
+  "ref": "2CH.30.3",
+  "review_notes": [
+    "All 26 source and 28 target ids placed exactly once.",
+    "The single *neither* rests on a written waw and a written negative, so rule 35's fusion governs rather than rule 25's distribution.",
+    "Reconciliation change: מַ + דַּי are now one unit under rule 30, headed on דַּי and on *sufficient*, rather than an `unrepresented` מַ beside a rendered דַּי. *sufficient number* is one rendering of the substantive, rule 31 accounting for the supplied *number*, so no morpheme owns a part of it."
+  ]
+}

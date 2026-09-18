@@ -1,0 +1,27 @@
+{
+  "chapter": "PSA.25",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "PSA.25.3"
+  ],
+  "rejected": {},
+  "conventions": [
+    "לְמַעַן rendered 'For ... sake' (25.7, 25.11) is one discontinuous unit on the preposition headed on 'sake', the content word the phrase turns on (rules 24, 25); the construct noun keeps only its own 'name's' / 'goodness'.",
+    "Where an articled substantival participle is the subject and the ASV fronts its pronoun before the verb — 'They shall be put to shame that deal treacherously' (25.3) — the article takes both 'They' and 'that' as one discontinuous unit headed on the pronoun (rule 41), and the finite verb keeps only its auxiliaries and lexical phrase (rule 17)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Cross-verse table read end to end: every multi-treatment bucket is context the source licenses (possessive vs object suffixes, vocative O vs bare Jehovah, waw rendered nor/and/unrendered, article taking a written the or none). No construction is analysed two ways across verses.",
+    "The three קָוָה + 2ms units are consistent with each other: a bare suffix gives the valency 'for' to the verb (25.3, 25.21) and a present אֵת takes the 'For' (25.5), which is rules 44 and 16 respectively.",
+    "One in-verse correction at PSA.25.3: the ASV's 'They ... that' is the discontinuous rendering of the substantival article on הַבּוֹגְדִים (rule 41, corpus 51 units of הַ → 'they that'); the verse pass had given 'They' to the finite verb, but an explicit subject stands in the clause so only a pleonastic pronoun could stay with the verb (rule 17). Patched: s008 → 'They ... that' headed on 'They', s007 keeps 'shall be put to shame'.",
+    "BSB disagreements are all convention: four ל prepositions whose relation the ASV leaves unstated (rule 40/52), the apodosis waw of 25.11 the ASV opens bare (rule 14), the article of 'What man' in 25.12 (rule 29), and the paragogic he of 25.20 (rule 32). None is an error.",
+    "No promotion or amendment: the chapter taught nothing the contract does not already say."
+  ]
+}

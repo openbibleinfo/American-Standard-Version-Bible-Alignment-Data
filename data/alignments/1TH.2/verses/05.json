@@ -1,0 +1,197 @@
+{
+  "alignments": [
+    {
+      "note": "γάρ → the verse-opening For.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "οὔτε → neither, the first member of the correlative pair; the answering οὔτε keeps its own nor.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "ποτέ → at any time as one unit; the indefinite adverb is what the whole English phrase renders, headed on the nominal time under rule 17.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "ἐγενήθημεν → were we found; the supplied subject and auxiliary ride with the verb under rules 7 and 9, headed on the lexical found rather than on were or we.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "ἐν → using: the ASV writes a word of its own for the preposition governing λόγῳ, so under rule 36 it is aligned to that word rather than left unrepresented. Variant SBLGNT.1TH.2.5.v003 is underdetermined to r00-base with r01 still compatible, and the fallback is not excluded, so rule 97 does not apply.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "λόγῳ → words; the case preposition is already spent on using, so the noun stands bare.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "κολακείας → of flattery; a source noun rendered by of + noun heads on the noun under rule 17.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "καθώς → as; no answering καί stands, so rule 82 is not in question.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "οἴδατε → ye know; the subject pronoun is the inflected verb's helper under rule 9, headed on the lexical verb.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "οὔτε → nor.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "The second ἐν has no English realization anywhere: the ASV writes nor a cloak of covetousness with no preposition and no verb absorbing it, which is rule 36's narrow licence for an unrepresented preposition. The first ἐν is realized by using, so this is not one construction analysed two ways but two renderings the ASV wrote.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "προφάσει → a cloak; the Greek is anarthrous, so the supplied indefinite determiner is an ordinary rule 51 helper on the noun.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "πλεονεξίας → of covetousness, headed on the noun under rule 17.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "θεός → a bare God; the subject is a lexical noun, so under rule 63 the supplied copula is the predicate nominal's helper and not the subject's, against the ASV's word order.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "μάρτυς → is witness; the verbless clause's supplied copula rides with the predicate noun under rules 53 and 63, headed on witness.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t022",
+        "t023"
+      ],
+      "target_head": "t023"
+    }
+  ],
+  "ref": "1TH.2.5",
+  "review_notes": [
+    "Every s### and t### id is partitioned exactly once: 15 source and 23 target tokens.",
+    "The two ἐν tokens are analysed differently because the ASV realizes only the first, with using; rule 36 leaves a preposition unrepresented only where English realizes it nowhere at all.",
+    "θεὸς μάρτυς is a verbless clause with a lexical-noun subject, so rule 63 puts the supplied is on μάρτυς; reading is with God would follow English word order, which rule 53 refuses."
+  ]
+}

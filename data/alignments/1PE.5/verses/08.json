@@ -1,0 +1,19 @@
+{
+  "ref": "1PE.5.8",
+  "alignments": [
+    {"source": ["s001"], "source_head": "s001", "target": ["t001", "t002"], "target_head": "t002", "status": "aligned", "confidence": "high", "note": "Imperative with supplied copula; rule 17 heads on the lexical predicate adjective rather than the auxiliary."},
+    {"source": ["s002"], "source_head": "s002", "target": ["t003", "t004"], "target_head": "t004", "status": "aligned", "confidence": "high", "note": "Second imperative rendered by copula plus adjective; head on the lexical word."},
+    {"source": ["s003"], "source_head": "s003", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "Rule 20: the genitive pronoun is present and free to take the possessive, so the article realizes nothing."},
+    {"source": ["s005"], "source_head": "s005", "target": ["t005"], "target_head": "t005", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s004"], "source_head": "s004", "target": ["t006"], "target_head": "t006", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s006"], "source_head": "s006", "target": ["t007", "t008"], "target_head": "t008", "status": "aligned", "confidence": "high", "note": "Anarthrous in the projection, so the supplied determiner is a rule 7/51 helper on the noun."},
+    {"source": ["s007"], "source_head": "s007", "target": ["t009"], "target_head": "t009", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s008"], "source_head": "s008", "target": ["t010", "t012"], "target_head": "t012", "status": "aligned", "confidence": "high", "note": "Rule 58: participle and noun both anarthrous, so the supplied determiner belongs to the noun, discontinuously under rule 15."},
+    {"source": ["s009"], "source_head": "s009", "target": ["t011"], "target_head": "t011", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s010"], "source_head": "s010", "target": ["t013", "t014"], "target_head": "t013", "status": "aligned", "confidence": "high", "note": "No Greek preposition stands here; *about* is part of the verb's own English rendering."},
+    {"source": ["s011"], "source_head": "s011", "target": ["t015"], "target_head": "t015", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s012"], "source_head": "s012", "target": ["t016"], "target_head": "t016", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s013"], "source_head": "s013", "target": ["t017", "t018", "t019"], "target_head": "t019", "status": "aligned", "confidence": "high", "note": "Rule 74: the supplied subject of the infinitive is its own helper, with the modal under rule 9; head on the lexical verb."}
+  ],
+  "review_notes": []
+}

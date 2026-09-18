@@ -1,0 +1,96 @@
+{
+  "ref": "1KI.7.11",
+  "alignments": [
+    {
+      "source": ["s001"],
+      "source_head": "s001",
+      "target": ["t001"],
+      "target_head": "t001",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s002", "s003", "s004", "s005"],
+      "source_head": "s004",
+      "target": ["t002", "t003"],
+      "target_head": "t002",
+      "status": "aligned",
+      "confidence": "medium",
+      "note": "מִלְמַעְלָה is one fixed expression the ASV spends one English word on (rule 30), so the two prepositions and the directive he share the unit headed on the lexeme מַעַל; the directive he is not the paragogic he of rule 32. The supplied copula joins the fronted predicate per rule 20, though attaching 'were' to 'costly stones' remains defensible."
+    },
+    {
+      "source": ["s006"],
+      "source_head": "s006",
+      "target": ["t005"],
+      "target_head": "t005",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s007"],
+      "source_head": "s007",
+      "target": ["t004"],
+      "target_head": "t004",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [],
+      "source_head": null,
+      "target": ["t006"],
+      "target_head": "t006",
+      "status": "added",
+      "confidence": "medium",
+      "note": "The appositional 'even' is supplied by the ASV; no morpheme licenses it, the apposition being carried by juxtaposition alone."
+    },
+    {
+      "source": ["s008"],
+      "source_head": "s008",
+      "target": ["t009", "t010"],
+      "target_head": "t009",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Multi-word English preposition heads on the token carrying the lexeme (rule 24)."
+    },
+    {
+      "source": ["s009"],
+      "source_head": "s009",
+      "target": ["t011"],
+      "target_head": "t011",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s010"],
+      "source_head": "s010",
+      "target": ["t007", "t008"],
+      "target_head": "t007",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The ASV reorders the construct chain and renders it attributively without 'of' (rule 28); גָּזִית expands to 'hewn stone' and heads on the word carrying the lexeme (rule 31)."
+    },
+    {
+      "source": ["s011"],
+      "source_head": "s011",
+      "target": ["t012"],
+      "target_head": "t012",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s012"],
+      "source_head": "s012",
+      "target": ["t013", "t014"],
+      "target_head": "t013",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "'wood' is the generic noun the ASV supplies to expand the substantive, so the head is 'cedar' (rule 24, rule 31)."
+    }
+  ],
+  "review_notes": []
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "chapter": "2SA.24",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2SA.24.14.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads the plural, 'for his mercies are great', rendering the qere plural rachamayw rather than the ketiv singular rachamo. The mapped note 'Or, many' is classed alternative_rendering and bears on the English adjective 'great', not on the number of the noun, so it does not decide the unit; the plural noun in the text does."
+    },
+    {
+      "unit_id": "WLC.2SA.24.16.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's text names 'Araunah the Jebusite', which renders the qere ha-Aravnah; the ketiv ha-Ornah would give the form the ASV relegates to its margin. The note 'Or, Ornah. In 1 Chr. 21:15, Ornan' is classed alternative_rendering and so cannot select the ketiv; the reading is decided by the name standing in the ASV text."
+    },
+    {
+      "unit_id": "WLC.2SA.24.18.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'the threshing-floor of Araunah the Jebusite', matching the qere Aravnah; the ketiv Arniyah would yield a different name (Arniah/Ornan-like), which the ASV does not render here and does not note."
+    },
+    {
+      "unit_id": "WLC.2SA.24.22.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV renders the phrase idiomatically, 'what seemeth good unto him', without an English word for 'eyes' at all, so neither the qere plural be-'enayw nor the ketiv be-'eno is distinguished; both are the same idiom and yield identical English. No ASV note is mapped to this unit, so the base fallback (qere) carries the projection."
+    }
+  ]
+}

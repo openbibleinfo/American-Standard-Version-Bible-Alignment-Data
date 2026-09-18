@@ -1,0 +1,120 @@
+{
+  "alignments": [
+    {
+      "note": "Genitive-absolute participle rendered finite; the supplied 'when' is a rule 86 helper on the participle and the supplied object 'him' a rule 7 helper on the verb that requires it in English.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Connective rendered 'And'.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Genitive-absolute subject pronoun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The ASV writes 'a longer time' with no preposition, so nothing answers to ἐπί; rule 36 leaves a preposition empty only where English realizes it nowhere.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Comparative adjective standing bare: the supplied determiner belongs to the noun it determines, not to the attributive adjective standing next to it.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Both the adjective and the noun are anarthrous and the ASV supplies a determiner for the phrase, so rule 58 gives 'a' to the noun, discontinuously around the adjective under rule 15, exactly as ὥραν … ἑβδόμην → 'at the seventh hour' gives 'at the … hour' to the noun. Rule 58 forbids in terms reading the determiner off English word order because it stands next to the adjective, and 18:24 already reads the same shape this way in 'an eloquent man'. Placing 'a' with 'longer' as one comparative expression is the competing reading.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Infinitive with its marker; rule 7, no conjunction governing the clause.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Negative aligned to 'not', discontinuous under rule 15.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Finite verb with its supplied subject; head on the lexical verb.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    }
+  ],
+  "ref": "ACT.18.20",
+  "review_notes": [
+    "The accepted alignment put the supplied 'a' on πλείονα. Rule 58 places a determiner supplied for an anarthrous adjective-plus-noun phrase on the noun, and 18:24 in this same chapter already does so for 'an eloquent man'; rule 24's habit requires the two to be analysed alike.",
+    "ἐπί is unrepresented: the ASV realizes it nowhere in the English phrase."
+  ]
+}

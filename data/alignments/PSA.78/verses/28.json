@@ -1,0 +1,142 @@
+{
+  "alignments": [
+    {
+      "note": "",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Rule 44: let ... fall is a light verb plus a second verb and heads on the second. The supplied object it is not part of that rendering and is its own unit; the verb's unit is discontinuous around it (rule 25). Contrast rule 18, which would give the pronoun to an object suffix if one were present, as at PSA.78.13.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Rule 30: the ASV supplies an object pronoun for the causative; yyappel carries no suffix and no other morpheme licenses it. Aligned as at PSA.78.15, where the supplied them of gave them drink is added on the same ground.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Supplied the on the construct.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Rule 19.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Rule 24: sabib rendered Round about, headed on the lexeme-bearing Round.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Rule 40: the ASV spends no further word on this preposition.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "PSA.78.28",
+  "review_notes": [
+    "Corrected the supplied object pronoun it: split out as its own added unit rather than folded into the causative rendering, for consistency with PSA.78.15, where the identical construction with no object suffix marks the supplied them added. The verb keeps he let ... fall discontinuously under rule 25.",
+    "The competing reading, which the accepted alignment took, treats it as part of the light-verb rendering under rule 44. It was rejected because rule 44's complement is what the verb's lexeme is rendered by, while an object pronoun answers to no morpheme, and because eight other supplied objects in this chapter are marked added."
+  ]
+}

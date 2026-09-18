@@ -1,0 +1,169 @@
+{
+  "alignments": [
+    {
+      "note": "Emphatic pronoun to *thou*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Postpositive δέ fronted as *But*; rule 15.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Imperative rendered by copula plus adjective, discontinuously around *thou* under rule 15; head on the lexical word *sober*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Preposition to *in*; rule 36.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Substantival adjective expanded with a generic noun; rule 17 keeps the head on *all*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Compound verb κακοπαθέω rendered by verb plus noun. Head on *suffer*, which glosses the -παθ- head morpheme; heading on *hardship* is the competing reading, defensible if the phrase is read as a light-verb rendering under rule 17, but *suffer* is not an empty support verb here.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Anarthrous Greek noun with a supplied determiner: rule 51's anarthrous clause makes *the* a rule 7 helper on the noun.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Imperative to imperative.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Genitive noun rendered *of an evangelist*; the case preposition and the supplied indefinite ride with the anarthrous noun under rules 21 and 51, headed on the noun.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "σου occupies the determiner slot with *thy*, so the article realizes nothing; rule 20.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun to noun.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Genitive pronoun rendered by the possessive.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Imperative to imperative.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "2TI.4.5",
+  "review_notes": [
+    "κακοπάθησον → *suffer hardship* is headed on *suffer*; the note on that unit records the competing head on *hardship*.",
+    "ἔργον is anarthrous, so the supplied *the* is a rule 7 helper on the noun rather than anything an article takes."
+  ]
+}

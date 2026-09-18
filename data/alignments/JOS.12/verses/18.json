@@ -1,0 +1,86 @@
+{
+  "alignments": [
+    {
+      "note": "Construct noun with a supplied *the* (rule 29).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Rectum takes the chain's *of* (rule 19).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Numeral.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Noun with a supplied *the*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "The ASV transliterates preposition, article and name together as *Lassharon*, so all three share one unit headed on the name (rule 30); the supplied relational *of* linking it to *king* joins that unit, no other morpheme being available to carry it.",
+      "source": [
+        "s005",
+        "s006",
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Numeral.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    }
+  ],
+  "ref": "JOS.12.18",
+  "review_notes": [
+    "The supplied *of* could alternatively have been read as the `לְ`'s own rendering, but the preposition's sense is already inside the transliterated *Lassharon*, so the word is placed with the whole fused unit."
+  ]
+}

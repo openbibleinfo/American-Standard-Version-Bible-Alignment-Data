@@ -1,0 +1,25 @@
+{
+  "chapter": "PSA.134",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Superscription determiners. In `shir ha-ma'alot` -> *A Song of Ascents* the ASV writes an indefinite *A* before the construct noun's word and no determiner at all before the rectum's. The *A* belongs to `shir`, the noun that licenses it under rule 15, and the article on `ma'alot` is `unrepresented` under rule 29's closing sentence, because the ASV writes no *the* for the phrase at all. Nothing is fronted: rule 29's fronting answers to a phrase whose single *the* stands before the construct, and rule 29's indefinite-rectum paragraph governs an *a* standing before the rectum's own word, which is not this shape. Do not read the *A* as a determiner the article could take."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v208",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all five candidate lemmas; every bucket is context-licensed and none is a split. YHWH is bare as object of the imperative (v1, v2) and as fronted subject (v3), and takes *of* only as nomen rectum, which is how the corpus divides (3607 bare against 1125 *of*). BARAK is *bless ye* for the two imperatives and *bless* for the jussive, the ASV's own difference. The article is unrepresented where the ASV writes no determiner and takes *That* on the participle under rule 41 (662 corpus units of article to *that*). BE is *by* temporally and *in* locatively. HU is *your* and *thee*, both rule 18.",
+    "Read the dump end to end for the case the lemma table cannot see: a supplied word marked `added` in one verse and folded in elsewhere. The chapter has one `added` unit, the *Even* of v3, and it is right, since that colon writes no object marker for rule 16's appositional *even* and no conjunction for rule 14's connective. It does not conflict with the supplied words folded into nouns in v1 (*A* on shir, *the* on beth) or v2 (*to the* on qodesh), because each of those answers to a noun's own determiner or case-function under rules 15, 29 and 33 while *Even* answers to no morpheme in its clause.",
+    "Supplied subject pronouns are allocated consistently: the two *ye*s of v1 go to the imperative and to the vocative avde by rule 36's positional test, and the single *ye* of v2 goes to the imperative with no vocative competing for it. The object marker is unrepresented in both verses that write it, which is rule 16's stated default.",
+    "BSB agrees on 29/29 comparable source occurrences and the report lists no disagreements, so there is no reference conflict to adjudicate and no accepted edge was touched.",
+    "The repeated review note the validator flags, 'Divine name as object of the imperative', states a syntactic role rather than a judgment between competing readings, so nothing is recorded for it. One convention is recorded, for the superscription's determiners, which is the one place the chapter resolved a shape no single rule states outright.",
+    "No promotion. The chapter taught nothing that generalises beyond rules 15, 29, 36 and 46, and the supplied precedent says nothing about Psalm superscriptions, so a rule about them would be written without evidence."
+  ]
+}

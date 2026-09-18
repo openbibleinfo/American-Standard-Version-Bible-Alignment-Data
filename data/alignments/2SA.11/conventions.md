@@ -1,0 +1,7 @@
+# 2 Samuel 11 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **2SA.11.7** — שָׁאַל לִשְׁלוֹם X rendered 'asked ... how X did / fared / prospered': each לִ + שְׁלוֹם pair is one fused unit under rule 30 taking 'how' together with the verb the ASV writes for the welfare sense ('did', 'fared', 'prospered'), headed on that verb; the verbs are not added under rule 20 because dropping them leaves the welfare lexeme of שָׁלוֹם unwritten. The supplied 'of him' after 'asked' is one added unit (no object morpheme). Competing reading fuses only 'how' and marks the verbs added.
+- **2SA.11.4** — A directional particle the ASV writes inside a motion verb's rendering while an אֶל phrase in the same clause writes the direction stays with the verb under rule 44's clause-level reading and is not added: בּוֹא → 'came in' (v.4, before אֵלָיו) and אָסַף → 'took ... home' (v.27, before אֶל־בֵּיתוֹ). The אֶל keeps its own 'unto'/'to'.
+- **2SA.11.20** — נִגַּשְׁתֶּם in the rhetorical 'Wherefore went ye so nigh' (vv.20, 21) is one unit taking 'went ye so nigh', headed on 'nigh' under rule 44; the degree word 'so' is read as part of the ASV's rendering of the verb rather than added. In v.21 the following אֶל before 'the wall' is unrepresented under rule 40 (ASV 'nigh the wall'), while v.20's takes the 'unto' written for it.

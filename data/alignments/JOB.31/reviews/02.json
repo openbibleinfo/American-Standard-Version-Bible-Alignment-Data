@@ -1,0 +1,11 @@
+{
+  "alignment_sha256": "e4a16f7c8941e8a1cf8fdee213b2917692bbe8ff8d42bf90a9d9031cf1f52c9c",
+  "contract_version": "ot-hebrew-verse-v151",
+  "notes": [
+    "Reconciliation by claude-code — corrected",
+    "The verbless clause's single written copula was attached to the subject noun `חֵלֶק` rather than to `מָה`, which is the clause's predicate. Rule 20 directs that the copula goes to the predicate and to read the Hebrew for which side that is, and its worked example `מִי הָאִישׁ הַלָּזֶה` → *What man is this* gives the copula to the interrogative pronoun standing as predicate over a definite nominal. Here `חֵלֶק אֱלוֹהַּ מִמָּעַל` is a definite construct chain and therefore the subject, so the *is* is `מָה`'s. One target token moves and nothing else changes."
+  ],
+  "ref": "JOB.31.2",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

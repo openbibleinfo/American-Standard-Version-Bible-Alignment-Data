@@ -1,0 +1,141 @@
+{
+  "alignments": [
+    {
+      "confidence": "high",
+      "note": "The adjectival predicate carries the supplied copula: “Sufficient … is.”",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t006"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "confidence": "high",
+      "note": "The article is displaced by the substantival demonstrative.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "The substantival demonstrative is expanded as “to such a one,” with the case preposition included.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "confidence": "high",
+      "note": "The attributive demonstrative supplies the English determiner “this,” leaving the article unrealized.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "confidence": "high",
+      "note": "",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "confidence": "high",
+      "note": "The postpositive article governing the prepositional modifier supplies the relativizer “which.”",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "confidence": "high",
+      "note": "The prepositional predicate carries the supplied passive verb “was inflicted”; the lexical display anchor remains “by.”",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "confidence": "high",
+      "note": "",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "confidence": "high",
+      "note": "The substantival comparative is rendered idiomatically as “many.”",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "2CO.2.6",
+  "review_notes": [
+    "All 10 source IDs and 14 target IDs are partitioned exactly once.",
+    "The two article–demonstrative constructions are split atomically; each article is unrepresented because its demonstrative occupies the English determiner or nominal slot."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "48a3308d5d237d63c7fef4ca5f92c5113fe57c2ed1b8d922f2884420eb86d355",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed against the contract and returned unchanged in structure; only two notes were strengthened (s012's competing head, s013's rule 76 check).",
+    "Every s### and t### id is partitioned exactly once: s001-s015 and t001-t016, no invented ids, no unit with an empty target except the unrepresented s013.",
+    "Variant SBLGNT.JAS.5.18.v017 is underdetermined over s007-s008 with the base reading among those the English permits, and the packet carries no FALLBACK EXCLUDED BY EVIDENCE mark, so rule 97 does not apply and no textual decision is made here (rule 12).",
+    "s013 tonally checked against rules 20 and 76: the article precedes and autēs follows, but position is not the test — what matters is that a source word is present and unspent to take her. It is, so the article is unrepresented and not aligned to a the the ASV never wrote.",
+    "s012 head on brought is the reading taken. Rule 91's operational test cannot be run on blastanō, which the corpus does not otherwise attest, so rule 104's neighbouring-class route was used and the nearest frame is a verb-plus-forth phrasal, where rule 104 heads the verb word (exerchetai -> cometh forth on cometh). A later reader with query access should check JAS.1.15 apokuei -> bringeth forth, already finalized in this book, and align the two if it heads differently; that is the one unit that would settle this by precedent rather than by analogy.",
+    "Both articles s005 and s010 are split from their nouns under rule 26 rather than bundled into noun-phrase units; s007 and s008 cross under rule 15 because the ASV writes gave rain against Greek hueton edōken."
+  ],
+  "ref": "JAS.5.18",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

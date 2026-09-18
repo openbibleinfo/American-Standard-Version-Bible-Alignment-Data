@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "chapter": "1SA.25",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1SA.25.3.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the affiliation as 'of the house of Caleb,' distinguishing the qere כָלִבִּי from the ketiv כלבו."
+    },
+    {
+      "unit_id": "WLC.1SA.25.18.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV names the woman 'Abigail,' matching the qere אֲבִיגַיִל rather than the ketiv אבוגיל; the alternative-rendering note concerns 'bottles' and does not bear on this unit."
+    },
+    {
+      "unit_id": "WLC.1SA.25.18.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'ready dressed' does not distinguish the qere עֲשׂוּיֹת from the ketiv עשוות, and the alternative-rendering note concerns 'bottles,' not this unit; the base qere therefore remains the fallback."
+    },
+    {
+      "unit_id": "WLC.1SA.25.34.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV addresses Abigail with 'thou hadst hasted and come,' selecting the second-person qere וַתָּבֹאת over the first-person ketiv ותבאתי."
+    }
+  ]
+}

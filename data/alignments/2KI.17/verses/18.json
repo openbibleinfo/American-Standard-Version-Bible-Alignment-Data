@@ -1,0 +1,243 @@
+{
+  "alignments": [
+    {
+      "note": "Waw rendered *Therefore* (rule 14).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb rendered *was ... angry*, discontinuous around the adverb.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Divine name.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Adverb.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Proper name.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Waw.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Finite verb.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Object suffix.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Compound preposition מֵעַל rendered *out of*; no morpheme carries content the other lacks, so the governing first morpheme is the source head (rule 23) and the target head is the token carrying the lexeme (rule 24).",
+      "source": [
+        "s010",
+        "s011"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Construct noun rendered *sight*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Suffix takes the possessive.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Negative realized by *none*.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Finite verb with the presentative frame *there was* (rule 17), discontinuous around the negative.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "רַק rendered *but*.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Construct noun with supplied *the*.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t020",
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Rectum takes the *of*.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t022",
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "לְ with its construct noun rendered by the single word *only*; the pair fuses under rule 30, headed on the morpheme carrying the lexeme.",
+      "source": [
+        "s019",
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Pronominal suffix on the construct noun of a fused preposition-plus-noun expression: rule 30 keeps it outside the fusion, and it takes an English pronoun only where the ASV writes one. *only* writes no person or number, so the suffix goes unrepresented (rules 30, 40).",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    }
+  ],
+  "ref": "2KI.17.18",
+  "review_notes": [
+    "The flagged three-morpheme unit לְבַדּוֹ → *only* is not indivisible as it stood. Rule 30's own sentence on compound prepositions holds that a pronominal suffix on the construct noun is no part of the fusion in either direction: it takes whatever pronoun the ASV writes for it, or goes unrepresented where none is written. *only* carries the preposition's relation and בַּד's lexeme but nothing of the 3ms suffix, and rule 30 forbids absorbing a morpheme whose sense the rendering does not carry.",
+    "This matches the chapter's own treatment of the same shape at 2KI.17.34, where שָׂם שְׁמוֹ → *named* fuses the verb and the noun and leaves the suffix unrepresented."
+  ]
+}

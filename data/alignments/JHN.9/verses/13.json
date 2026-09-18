@@ -1,0 +1,107 @@
+{
+  "alignments": [
+    {
+      "note": "Inflected verb takes its supplied English subject; head on the lexical verb.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The accusative pronoun writes the antecedent of the following relative clause, which is why the article that follows is empty.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Another source token — the accusative αὐτόν → 'him' — has already written the antecedent this relative clause is predicated of, so nothing is left for the article to supply and the relativizer falls to the adjective with the copula (rules 31, 32). Rule 31's general branch, which keeps the relativizer on an article whose complement is a verbless predicate adjective, is exactly what that clause excepts; JHN.9.18 and JHN.9.37 read the same configuration this way.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The adverb keeps its own word and is not absorbed into the discontinuous unit standing around it (rule 15).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Predicate adjective carrying the supplied relativizer and copula, discontinuously around the adverb (rules 15, 31). Keeping 'that' on the article would be rule 31's ordinary reading for a verbless complement, but the expressed αὐτόν has spent the antecedent, so the apposition clause applies.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    }
+  ],
+  "ref": "JHN.9.13",
+  "review_notes": [
+    "Partition check: s001–s008 and t001–t010 each appear exactly once.",
+    "Only the placement of t007 'that' changes; every other edge is as the verse pass returned it.",
+    "A reference comparison will report the unrepresented article as a disagreement, and rule 32 says in terms that the report is not a correction."
+  ]
+}

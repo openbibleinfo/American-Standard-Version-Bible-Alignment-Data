@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "chapter": "2CO.13",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.2CO.13.2.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders only the two προλέγω verbs (\"I have said beforehand, and I do say beforehand\") and carries the sentence through to \"I will not spare\"; there is no rendering of an added γράφω (\"I write\") after \"so now, being absent\". The notes are alternative_rendering and do not bear on the unit."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.13.4.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads \"for he was crucified through weakness\" as a flat causal statement, not the conditional \"for if he was crucified\" that εἰ γὰρ requires; no \"if\" is rendered or supplied. The textual_variant note concerns \"with\" for the following prepositional phrase, not this unit."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.13.4.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ζήσομεν and ζησόμεθα are active and middle futures of the same verb in the same person and number; both come into English as \"we shall live\", so the ASV wording cannot distinguish them. The mapped textual_variant note (\"Many ancient authorities read with\") addresses the phrase rendered \"toward you\" and names no reading in this set."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.13.5.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads \"that Jesus Christ is in you\", the order of Ἰησοῦς Χριστὸς; the transposed Χριστὸς Ἰησοῦς is rendered \"Christ Jesus\" throughout the ASV, so the printed name order distinguishes the reading."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.13.5.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "English requires a copula in \"Jesus Christ is in you\" whether or not ἐστίν stands in the Greek, and the ASV does not italicize \"is\" here as a supply; the wording therefore settles nothing between the two readings."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.13.7.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads \"Now we pray to God\", first person plural, matching εὐχόμεθα; the singular Εὐχόμαι would be \"I pray\". The greek_gloss note concerns the following conjunction, not the verb."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.13.9.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV renders καί as \"also\" but sets the clause off with a colon (\"and ye are strong: this we also pray for\"), and it leaves a connective δέ unrendered where the punctuation already carries the break; the absence of \"but\" or \"and\" therefore does not exclude the added δὲ. No note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.13.10.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is word order alone within the relative clause, and English syntax fixes \"which the Lord gave me\" regardless of whether ὁ κύριος stands before or after ἔδωκέν μοι; the ASV cannot show the Greek order here."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.13.13.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The ASV verse ends at \"All the saints salute you.\" with no \"Amen\", which the ASV renders wherever it accepts a closing Ἀμήν; the added word is absent from the English."
+    }
+  ]
+}

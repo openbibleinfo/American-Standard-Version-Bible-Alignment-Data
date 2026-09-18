@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "chapter": "1SA.24",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1SA.24.4.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'thine enemy' is singular; the qere אֹיִבְךָ is singular 'thine enemy', while the ketiv איביך reads as plural 'thine enemies'. The English number settles it for the qere."
+    },
+    {
+      "unit_id": "WLC.1SA.24.8.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere מֵהַמְּעָרָה and ketiv מן המערה both mean 'out of the cave'; the difference is the prefixed vs. separate preposition. ASV 'went out of the cave' renders either identically and carries no mapped textual note. Base fallback retained."
+    },
+    {
+      "unit_id": "WLC.1SA.24.18.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere וְאַתָּה and ketiv ואת are both the 2nd-person pronoun 'and thou' (the ketiv a defective spelling); ASV 'And thou hast declared' renders either identically and has no mapped textual note. Base fallback retained."
+    }
+  ]
+}

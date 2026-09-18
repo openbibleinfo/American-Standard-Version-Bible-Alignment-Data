@@ -1,0 +1,27 @@
+{
+  "chapter": "NUM.34",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Boundary itinerary: a supplied English to or at before a bare place name is licensed by that name's own directional or locative accusative and joins the name's unit under rule 33, never the verb of motion under rule 44 — to Hazar addar (34.4), at Hazar enan (34.9), to Riblah (34.11), at the Salt Sea (34.12), at Jericho (34.15). Where a directive he stands on the name instead, that morpheme takes the written word and the name keeps only its own (34.4, 34.5, 34.8, 34.9, 34.10, 34.12, 34.15). Read whether an Sd token is present before placing the word.",
+    "The לָכֶם of the boundary formula is recast three ways, and the determiner count follows the recasting. Where the ASV writes a bare possessive, the לְ is unrepresented under rule 40 and the suffix takes your (34.3 twice, 34.4, 34.7, 34.9, 34.12); where that your is the nominal's only determiner, an article standing on the noun is unrepresented under rule 41 (34.4 הַגְּבוּל, 34.12 הָאָרֶץ). Where the ASV writes ye shall have (34.6), rule 43 gives shall have to הָיָה and the subject pronoun ye to the suffix, so no possessive determiner is spent and the article on הַיָּם keeps the written the. Where the ASV writes a preposition of its own, the לְ takes it (34.2, 34.7, 34.17).",
+    "נָחַל rendered as a light verb plus complement is headed on the complement throughout the chapter: shall divide for inheritance (34.17), divide for inheritance (34.18), divide the inheritance (34.29), each headed on inheritance under rule 44, with heading on divide named as the competing reading. The single-word ye shall inherit (34.13) has no complement and heads on the verb."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v124",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 33 candidate lemma groups. Every multi-treatment bucket is the ASV rendering one morpheme differently in a context the source licenses, not a split. The recurring ones: לְ before a suffix is aligned where the ASV writes a preposition (34.2, 34.7, 34.17) and unrepresented where it writes a bare possessive (34.3, 34.4, 34.6, 34.7, 34.9, 34.10, 34.12), which is rule 40's condition read off the ASV; הַ takes a written the where one stands before its own word and is unrepresented where another determiner is the phrase's only one (34.4 and 34.12 under rule 41; 34.6 and 34.7 agreement articles under rule 47; 34.7, 34.8 mount Hor and 34.11 Riblah, where the ASV writes no the at all); הָיָה is shall be everywhere but 34.6, where the ASV writes have and rule 43 governs.",
+    "Directional goals are handled one way throughout: where a directive he stands on the place name it takes the written to/at/unto/toward (34.4, 34.5, 34.8, 34.9, 34.10, 34.12, 34.15), and where none stands the supplied to or at joins the name under rule 33 (34.4 Hazar addar, 34.9 Hazar enan, 34.11 Riblah, 34.12 the Salt Sea, 34.15 Jericho). No verse gives such a word to the verb under rule 44, and 34.4's review note records that competing reading. No split.",
+    "Both added units survive review. The even of 34.2 stands before a phrase no marker marks — the verse's one אֵת is on בְּנֵי יִשְׂרָאֵל, which the ASV renders bare — which is exactly rule 16's second limit. The italic thereof of 34.6 answers to no suffix morpheme, which is rule 18's closing sentence. I checked every other supplied the, a and thereof in the chapter: each has a morpheme licensing it, so the added-in-one-verse, folded-in-in-another asymmetry the report warns the table is blind to is not present here.",
+    "Connective counting is consistent. 34.6 holds three waws and two English connectives, so the apodosis waw of וְהָיָה goes unrepresented under rule 14's apodosis sentence while the two גְבוּל waws take the written And and and; 34.3 holds two waws and two connectives (then, and) and both are aligned. The tribal roster of 34.19-28 writes no article morpheme at all, so every the there is a supplied determiner on the noun it stands before, while 34.13-15 write articles on the recta and give them the written the — the difference is the morphology, not a convention drift.",
+    "BSB disagreements: none is an error. The 13 R disagreements are the לֵאמֹר lamed (rule 27), the possessive-recasting לָכֶם lameds (rule 40), and the לִגְבֻל of 34.10 and לְיַרְדֵּן of 34.15, all of which BSB attaches to their phrase by documented convention. The six Td disagreements are agreement articles and determiner-count cases decided under rules 41 and 47. The 34.6 waw is the counted surplus above. The 34.18 נָשִׂיא is the second half of the distributive doubling נָשִׂיא אֶחָד נָשִׂיא אֶחָד, which the ASV writes once as one prince ... of every tribe: rule 22 marks the repeated noun unrepresented and rule 41 gives the every to the second אֶחָד, whose corpus precedent is 18 units of each and four of every.",
+    "Nothing here generalises. The chapter's recurring decisions are all applications of rules 32, 33, 40, 43 and 44 as those rules already stand — rule 44's own second limit already tells a verse pass to read whether the Hebrew noun is a bare direct object or an adverbial accusative, and rule 33's to your mountain is already a directional accusative. Promotions and amendments are empty; three conventions are recorded against the 52 repeated notes."
+  ]
+}

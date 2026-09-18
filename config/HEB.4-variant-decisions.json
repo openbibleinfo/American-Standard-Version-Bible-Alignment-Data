@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "chapter": "HEB.4",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.HEB.4.2.v001",
+      "status": "selected",
+      "selected_reading": "r02",
+      "compatible_readings": [
+        "r02"
+      ],
+      "evidence": "ASV 'because it was not united by faith with them that heard' makes the participle singular and predicated of the word ('it'), which is the nominative singular συγκεκερασμένος; the accusative plural readings (r00-base/r01/r03) agree instead with 'them that heard'. The textual_variant note 'Many ancient authorities read they were' is the ASV's own flag for that plural alternative, confirming the plural is the reading it did not print."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.4.3.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The unit is the presence or absence of the article τὴν before the noun; ASV 'do enter into that rest' uses a demonstrative that English supplies with or without a Greek article, so the wording distinguishes nothing. The verse's notes bear on other words: the textual_variant note 'Some ancient authorities read We therefore' concerns the connective, and 'Or, So' and 'Greek If they shall enter' are rendering notes. Base fallback retained."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.4.7.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'even as hath been said before' renders the προ- prefix explicitly with 'before'; bare εἴρηται (r01) would give only 'hath been said'."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.4.12.v004",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'of both joints and marrow' uses the correlative 'both ... and', which renders τε καί; the simple καί of the base would yield 'of joints and marrow' without the correlative. The same verse's other plain καί conjunctions ('living, and active, and sharper') are rendered with bare 'and', showing 'both' here tracks the extra particle."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.4.15.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "πεπειρασμένον and πεπειραμένον are alternative perfect passive participle forms of the same verb with the same sense; ASV 'hath been in all points tempted like as we are' renders either identically, and no note is mapped to this verse. Base fallback retained."
+    }
+  ]
+}

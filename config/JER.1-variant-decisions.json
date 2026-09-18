@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "chapter": "JER.1",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JER.1.5.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere אֶצָּרְךָ and ketiv אצורך are both first-person imperfect forms of יצר with a 2ms suffix, differing only in orthography (defective vs. plene waw); they carry the same sense and the same person, number, and tense. ASV 'Before I formed thee in the belly' renders that sense and no more, and JER.1.5 carries no ASV note mapped to this unit, so the English cannot distinguish the two. Underdetermined; the qere base fallback carries the projection."
+    }
+  ]
+}

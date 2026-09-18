@@ -1,0 +1,6 @@
+# Matthew 20 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Versification: the projection carries οἱ δὲ ἀπῆλθον at the head of MAT.20.5, and the ASV translates it at the end of MAT.20.4 as 'And they went their way'. Rule 37 governs both sides — the English is `added` in 20.4, and s001–s003 of 20.5 are three `unrepresented` units, each noting the other verse. A reference comparison reports the 20.5 tokens as disagreements, and that report is not a correction.
+- Supplied English: a supplied word completing a standing token's own English folds onto that token (20.6 'hour' on the article, rule 102; 20.9 'were hired' on περί, rule 62; 20.12 'but' on the numeral; 20.20 'him' on the participle, rule 74; 20.23 'my' on the anarthrous adjective; 20.34 'their' inside the verb idiom; the repeated function words at 20.5 and 20.19, rule 103). The one `added` unit outside rule 37 is 20.23 'it is for them', where the ASV supplies a whole clause with its own copula and antecedent. That unit names the competing rule 15 reading; rule 77's supplied-antecedent precedent ('him whom', 'him of whom') is the live alternative if it is reopened.

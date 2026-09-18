@@ -1,0 +1,7 @@
+# Ezekiel 43 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- בֶּן־בָּקָר after פַּר is one unit under rule 30, rendered by the single English word *young* and headed on בֶּן, which carries the sense the one word spends itself on; the indefinite *a* goes to פַּר under rule 15 and the unit is discontinuous around it under rule 25. So read at EZK.43.19, EZK.43.23 and EZK.43.25. The competing reading marks בָּקָר unrepresented beside *young*, but no morpheme owns a part of the one English word.
+- The pronominal suffix of אֲדֹנָי in the formula אֲדֹנָי יְהוִה is `unrepresented`: the ASV writes *the Lord Jehovah* with no possessive, the supplied *the* belonging to אֲדֹנָי under rule 15. So read at EZK.43.18, EZK.43.19 and EZK.43.27. BSB represents this suffix and disagrees at all three.
+- דֶּרֶךְ הַקָּדִים is read twice over in this chapter and the ASV licenses both. Where the ASV spends its one English word on the preposition — *toward the east* at EZK.43.1, *is toward the east* at EZK.43.4 — rule 19's rider gives that word to the construct and the article takes the written *the*. Where the ASV writes a noun for דֶּרֶךְ as well — *the way of the east* at EZK.43.2, *by the way of the gate* at EZK.43.4 — rule 19's first sentence stands and the *of* goes to the rectum. Decide it by rule 19's subtraction test, not by the phrase.

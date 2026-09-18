@@ -1,0 +1,200 @@
+{
+  "alignments": [
+    {
+      "note": "Inferential conjunction rendered by the single word *Wherefore*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Participle rendered by the bare participle *receiving*; the ASV fronts it, which rule 15 permits.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The Greek is anarthrous, so no article competes and the supplied *a* is an ordinary rule 7/51 helper on the noun it determines.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Privative adjective recast as a finite relative clause; the relativizer, the modal and the copula are rule 7/9 helpers on it, and rule 84's principle keeps the head on the meaning-bearing *shaken*, *cannot be* spelling only the privative prefix.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Hortatory subjunctive: the supplied *let us* is the inflection's own helper under rules 7 and 9, and rule 17 heads on the lexical verb rather than the auxiliary.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "The margin's *thankfulness* is an alternative rendering, not a second target token.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Portmanteau under rule 35: *where-* answers to the relative and *-by* to `διά`, so the pair is one `aligned` unit headed on the pronominal, not `noncompositional` under rule 45.",
+      "source": [
+        "s007",
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Support-verb rendering of one Greek verb: rules 17 and 91 head on the meaning-bearing complement *service*, the corpus spending *offer* on no part of `λατρεύω`; the subject and modal ride along under rules 7 and 9.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015",
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Rule 104's `εὐ-` family: the stem word carries the lexeme, so the head is *pleasing* and not *well*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "The ASV gives `θεῷ` no determiner, so the article has no *the* to anchor and is `unrepresented` under rule 23; rule 21 forbids leaving a bare *to* on it, so the case preposition stays with the noun.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The dative's case preposition rides with the noun, the article having no determiner to anchor it (rules 21, 23).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t020",
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Preposition realized by *with*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "The margin's *godly fear* is an alternative rendering, not a second target token.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Expressed conjunction joining the two genitives.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Second genitive noun.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t025"
+      ],
+      "target_head": "t025"
+    }
+  ],
+  "ref": "HEB.12.28",
+  "review_notes": [
+    "All 16 source and 25 target ids partitioned exactly once.",
+    "`δι᾽ ἧς` → *whereby* taken as rule 35 `aligned` rather than rule 45 `noncompositional`, since *-by* answers to the preposition; the competing reading would be a fused unit with null heads.",
+    "`λατρεύωμεν` → *may offer service* headed on *service* under rule 91's operational test; heading on *offer* would rest only on English syntax, which rule 17 refuses."
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "alignments": [
+    {
+      "note": "Finite verb.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Ordinary negative aligned to *not*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Expressed preposition realized by the English preposition governing the phrase (rule 36).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The ASV writes *in unrighteousness* with no determiner, so the article realizes nothing (rule 23).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun governed by the preposition.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Adversative conjunction.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Compound verb keeping its own English verb word; the *with* that realizes the `συν-` government rides with the governed dative under rule 106's oblique-object arm, no expressed Greek preposition standing in the clause.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Dative article anchoring the supplied determiner and carrying the case preposition: *with the* headed on *the* (rules 21, 106).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Noun, its determiner having gone to the article (rule 21).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    }
+  ],
+  "ref": "1CO.13.6",
+  "review_notes": [
+    "*with* is given to the article of the governed dative rather than kept inside `συγχαίρει`, following rule 106's arm for a compound verb that already has an English verb word of its own; the *the* anchors the unit under rule 21.",
+    "The first article is `unrepresented` because the ASV writes *in unrighteousness* bare, while the second anchors a written *the* — one verse writing both, decided by the ASV's phrasing (rules 21, 23, 24)."
+  ]
+}

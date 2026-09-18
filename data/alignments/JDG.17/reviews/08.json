@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "470cb4f7cf26a450df6d246d778a93ca0eab51e40cce33681f2d4261033a364e",
+  "contract_version": "ot-hebrew-verse-v186",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition checked: twenty-seven source ids and thirty-eight target ids each covered exactly once across the twenty-six units.",
+    "Large-source-unit candidate `בַּ` + `אֲשֶׁר` → *where* retained: one English word carries both the relation and the relative, headed on the relative (rules 22, 30).",
+    "Large-source-unit candidate `עֲשׂוֹת` + `דַּרְכּוֹ` → *journeyed* retained: the single English word is the whole rendering and no morpheme owns a part of it, so rule 2 gives no split to prefer. The source head was re-examined — *journeyed* most directly writes `דֶּרֶךְ`'s lexeme, which argues for the second morpheme — but both lexemes stand inside the one word, which is rule 23's genuine tie, resolved as the corpus resolves `הֹלְכֵי נְתִיבוֹת` → *travellers*: on the governing morpheme standing first. The competing reading is already named in the unit's note under rule 8.",
+    "The supplied *to* before *the hill country* is rule 33's function word for an adverbial accusative of direction (*to your mountain*), not an `added` preposition; the Hebrew writes no preposition there.",
+    "The italic *a place* is one `added` unit under rule 2, its two words standing together and doing one office as the supplied object."
+  ],
+  "ref": "JDG.17.8",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "chapter": "2CO.6",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.2CO.6.4.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "All three readings are spelling variants of the same present participle of συνίστημι, rendered alike by ASV 'commending ourselves'; the only note on the verse is an alternative_rendering ('Or, stedfastness') on ὑπομονῇ, which cannot distinguish a participle form. Nothing in the English selects; base fallback carries the projection."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.6.14.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the second question 'or what communion hath light with darkness?' — the disjunctive 'or' answers ἤ of ἢ τίς. RP's Τίς δέ would give a connective 'And what', which the ASV does not have here (contrast 6:15-16, where ASV does begin 'And what'). The English distinguishes ἢ τίς."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.6.15.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Genitive Χριστοῦ and dative Χριστῷ both yield ASV 'what concord hath Christ with Belial?' — English supplies the relation with 'hath ... with' and shows no case. The only note (greek_gloss 'Greek Beliar.') concerns Βελιάρ, not this word. Underdetermined."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.6.16.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'for we are a temple of the living God' — first person plural, matching ἡμεῖς ... ἐσμεν. RP's Ὑμεῖς ... ἐστε would require 'ye are'. The English pronoun and verb person decide the unit."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.6.16.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'and they shall be my people' renders either the possessive genitive λαός μου or the dative of possession ἔσονταί μοι λαός, which English idiom likewise turns into 'my people'. The verse's notes are alternative_rendering on 'temple' and a cross-reference list, neither mapped to this word. Underdetermined."
+    }
+  ]
+}

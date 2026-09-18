@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "71a39c0dd8455c0f506b5a7aa95f9d26c16fc33f947e9d8f1db0823d6fc59651",
+  "contract_version": "ot-hebrew-verse-v195",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 11 source morphemes and 13 target tokens are partitioned exactly once.",
+    "The MACULA glosses on s004/s005 are distributed in reverse order (*his.mighty* on the noun, *deeds* on the 3ms suffix); the alignment reads the surface and morphology instead, which is what rule 39 directs.",
+    "*his mighty acts* heads on *mighty* by rule 31's subtraction, with the competing head *acts* named in the unit's note under rule 8. Retained: heading on *acts* because it is the English phrase's noun is the reasoning rule 31 excludes.",
+    "`כְּ` → *according to* heads on *according* under rule 24, the connective *to* not being the lexeme-bearing word.",
+    "`רֹב גֻּדְלוֹ` → *his excellent greatness* is rendered attributively, so rule 28 governs and rule 19's *of* is not imposed; the ASV writes the suffix's *his* where a determiner would stand, so rule 29's count raises nothing."
+  ],
+  "ref": "PSA.150.2",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

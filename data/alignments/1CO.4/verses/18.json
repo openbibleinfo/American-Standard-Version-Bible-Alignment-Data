@@ -1,0 +1,121 @@
+{
+  "alignments": [
+    {
+      "note": "Connective rendered *Now*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Indefinite pronoun rendered *some*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Aorist passive with its auxiliary, headed on the lexical participle (rule 9). φυσιόω carries no preverb, so the *up* of *puffed up* answers to no source element: it is an English phrasal particle and a rule 7 helper riding inside the verb's own unit. Rule 106 does not bear on it.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "ὡς with a genitive absolute rendered by the two-word conjunction *as though*, one clause-introducer answering to this token (rule 40).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Genitive-absolute subject rendered by the English subject pronoun.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Participle expanded into a finite clause; the supplied copula is its helper and the head is the lexical participle. Discontinuous around *not* under rule 15.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Ordinary negative rendered *not*; this is not an interrogative μή, so rule 44 does not apply.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Preposition rendered *to*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Object pronoun.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "1CO.4.18",
+  "review_notes": [
+    "All 9 source and 13 target ids are partitioned exactly once.",
+    "No alignment edge or head changes; the s008 note drops the mistaken rule 106 citation."
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "alignments": [
+    {
+      "note": "Piel jussive rendered by the bare *bless*; the subject is written separately.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Pronominal suffix realized by the object pronoun *thee*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Explicit subject, fronted in the English under rule 25.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Multi-word English preposition; the head is the word carrying the ablative lexeme under rule 24.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Proper name.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Conjunction rendered by the written *And* under rule 14.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Imperative with the subject pronoun the ASV writes after it, under rule 17; no vocative stands in the clause to compete for it.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The ASV promotes this preposition's object to the direct object of *see*, spending no word on the relation, so it is `unrepresented` under rule 40.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Construct noun with a supplied *the*; no article morpheme stands in the chain, so rule 29 supplies it on the construct.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Nomen rectum with the chain's *of* under rule 19, headed on the name.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Quantifying construct noun; the ASV writes no *of* after it, so it takes only its own word.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Construct noun with a supplied *the* under rule 29, no article morpheme standing in the phrase.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Nomen rectum with the chain's *of* under rule 19, discontinuous around the possessive under rule 25.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Pronominal suffix realized by the possessive *thy*.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    }
+  ],
+  "ref": "PSA.128.5",
+  "review_notes": [
+    "The supplied *the* of *all the days* is placed on `יְמֵי`, the construct noun it stands before, rather than on `כֹּל`, under rule 29's direction to supply a determiner on the construct where no article morpheme is present.",
+    "`בְּטוּב יְרוּשָׁלִָם`: the `בְּ` is `unrepresented` because the ASV recasts *look on* as a plain transitive *see*, promoting the preposition's object."
+  ]
+}

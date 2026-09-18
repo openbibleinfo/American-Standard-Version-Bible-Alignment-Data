@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "chapter": "EZK.1",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.EZK.1.8.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV EZK.1.8 reads plural 'the hands of a man', a construct plural governing 'of a man', which matches the qere plural construct וִידֵׁי 'and hands of'. The ketiv וידו is singular with a suffix ('and his hand') and would have yielded 'his hand', which the ASV does not render; no ASV note is mapped to this unit."
+    }
+  ]
+}

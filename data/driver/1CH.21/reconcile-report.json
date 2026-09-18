@@ -1,0 +1,27 @@
+{
+  "chapter": "1CH.21",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "גֹּרֶן → 'threshing floor' heads on *threshing* in every occurrence (15, 18, 21, 22, 28): rule 31's subtraction ties, and the tie is broken by the ASV never writing a bare 'floor' for גֹּרֶן, so 'floor' is the supplied generic. The competing head on 'floor' is named in the notes.",
+    "אָמַר rendered 'commanded' (17, 18, 27) takes that word alone, and the preposition standing on the addressee — אֶל in v18 ('commanded Gad'), לַ in v27 ('commanded the angel') — is unrepresented under rule 40 because the ASV writes the addressee as a bare object. Where the same verb is 'said' the addressee's אֶל/לְ takes its own 'unto'/'to'.",
+    "וְאִם in the three-option list of v12 is counted word by word under rule 14: where the ASV writes only 'or' the waw is unrepresented and אִם takes it; where it writes 'or else' the waw takes 'else' and אִם 'or'. The opening אִם takes 'either'."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 70 candidate groups against the 30 verses. Every within-bucket difference is licensed by the ASV's own wording: the waw connectives (And/So/Then/Wherefore/Nevertheless/For/while/else/even/nor) are each read off the printed text under rule 14; the articles left unrepresented are the bare 'God', 'earth', 'heaven', 'fire', 'sackcloth', 'burnt offerings', 'wood', 'king David', the agreement articles on הַזֶּה/הַהִיא, and the article beside a demonstrative or כֹּל; the לְ/אֶל/עַל/בְּ silences are all object promotions or bare indirect objects under rule 40.",
+    "Recurring constructions are treated one way throughout: 'the angel of Jehovah' (12, 15, 16, 18, 30) puts the supplied 'the' on the construct and 'of' on the name; 'the threshing floor of Ornan' (15, 18, 28) likewise, with the absolute הַגֹּרֶן of v21 giving its 'the' to the article; 'the king's word' (4, 6) puts 'the' on the article as the possessor's determiner; הָאֱלֹהִים (7, 8, 15, 17) leaves the article unrepresented; וְעַתָּה (8, 12) gives the adverb its own word and the waw the connective left over; supplied object pronouns for Give/Take/buy/do (10, 23, 24) are added in every verse.",
+    "Added units, which the table cannot see, were read end to end: the two clefts of v17, the impersonal 'It' of v15, the 'but' of v3, the 'as' of v21, the 'and' of v18 and the supplied objects are each placed by the rule that governs them, and no verse folds a supplied word into a neighbour that another verse marks added.",
+    "Two single-verse choices are worth a later reader's attention but are not cross-verse splits and were left standing: v11 marks 'which ... wilt' as one added unit discontinuous around the suffix's 'thou', where rule 2's contiguity condition would more strictly make two added units; and v18 leaves the לְ of לְהָקִים unrepresented with the coordinating 'and' added, following rule 14's closing sentences, although the corpus holds 32 units aligning a לְ to 'and' — the corpus contradicts the contract there, so nothing was promoted.",
+    "v18 also gives the לְ of לֵאמֹר the written 'to' of 'to say' under rule 52, which rule 27's absolute wording ('has no English realization') does not anticipate; rule 52's 'read that as no word' reaches it, and no amendment is proposed without corpus evidence on לֵאמֹר → 'to say'.",
+    "BSB disagreements are all documented convention differences: the 17 prepositions and 17 articles are ASV recastings that leave the morpheme no word; the three waws are a numeral-phrase waw with no 'and' written (v5, rule 42), a circumstantial waw recast as 'having' (v16) and an unrendered apodosis waw (v21); the v22 he is paragogic on an imperative (rule 32). None is an error and no edge was changed."
+  ]
+}

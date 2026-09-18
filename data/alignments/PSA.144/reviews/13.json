@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "228fbdb6a205ef8267bcab8eec9bc1ed5918fa4cf2d5c03969337b3aaa66e773",
+  "contract_version": "ot-hebrew-verse-v202",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Large-source-unit check on `מִזַּן אֶל־זַן` → *all manner of store*: each morpheme was accounted against the English and the grouping is retained. No English word answers to `מִן` or to `אֶל`, *all* and *of* are the phrase's own machinery, *store* names what the granaries afford rather than either `זַן`, and the two identical `זַן` lexemes leave no uniquely defensible internal head, so rule 6's deterministic anchor takes the first source token while the lexical anchor is *manner*. The competing readings — splitting each preposition from its noun, or marking *store* a supplied object under rule 44 — leave correspondences that are not independently defensible, so rule 2 does not prefer them.",
+    "Three supplied connectives are `added` — the italic *When* under rule 55 and *And* and *and* under rule 14 — the Hebrew writing no conjunction for any of them and rule 10 keeping verse 12's `אֲשֶׁר` out of this verse.",
+    "`מַאֲלִיפוֹת` → *bring forth thousands* heads on *thousands* under rule 44's light-verb clause; `מְרֻבָּבוֹת` → *ten thousands* heads on the lexeme-bearing noun."
+  ],
+  "ref": "PSA.144.13",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

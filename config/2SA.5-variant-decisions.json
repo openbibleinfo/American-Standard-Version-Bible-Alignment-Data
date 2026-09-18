@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "chapter": "2SA.5",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2SA.5.2.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'it was thou that leddest out' renders a 2ms 'thou wast'; the ketiv הייתה is a plene spelling of the same 2ms form and the English shows nothing that separates the two spellings. The only note is alternative_rendering ('Or, leader') on a different word. Base qere fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.2SA.5.2.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere הַמּוֹצִיא has the article, ketiv מוציא lacks it; ASV 'that leddest out' is a relative participle rendering that either an articular or anarthrous participle yields. No note maps to this unit. Base qere fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.2SA.5.2.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Ketiv והמבי differs from qere וְהַמֵּבִיא only by the dropped final aleph, an orthographic variant of the same hiphil participle; ASV 'and broughtest in' cannot distinguish spellings. No note maps to this unit. Base qere fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.2SA.5.8.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV main text 'the lame and the blind, that are hated of David's soul' renders the passive participle construct שְׂנֻאֵי (qere). The textual_variant note 'Another reading is, that hate David's soul' records the active ketiv שנאו as the reading not adopted, so the ASV explicitly distinguishes and follows the qere."
+    },
+    {
+      "unit_id": "WLC.2SA.5.24.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere כְּשָׁמְעֲךָ (preposition כ) and ketiv בשמעך (preposition ב) both yield temporal 'when thou hearest'; ASV 'when thou hearest the sound of marching' does not distinguish the preposition. No note on the verse. Base qere fallback carries the projection."
+    }
+  ]
+}

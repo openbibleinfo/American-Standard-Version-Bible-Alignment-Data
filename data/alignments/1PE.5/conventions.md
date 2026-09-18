@@ -1,0 +1,6 @@
+# 1 Peter 5 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **1PE.5.1** — An article governing an EXPRESSED appositional predicate noun that the ASV recasts as a supplied relative clause takes only its own determiner; the noun carries the relativizer and the supplied copula. 1PE.5.1's ho sympresbyteros -> 'who am a fellow-elder' gives 'a' to the article and 'who am ... fellow elder' to the noun, as REV.1.5's ho martys -> '*who is* the faithful witness' does. Rule 31's carve-out is for a modifier with nothing to carry the relativizer; an expressed predicate noun carries it.
+- **1PE.5.11** — A verbless clause with an expressed LEXICAL noun subject and a dative predicate puts the supplied copula on the dative, headed there, with its case preposition riding along under rule 21, and the unit is settled rather than hedged. 1PE.5.11's 'To him *be* the dominion' and 1PE.5.14's 'Peace be unto you' are one construction and carry one confidence; 2PE.3.18 is the unhedged twin. Rule 63's exception is the subject PRONOUN's alone, and rule 68 does not bear where a subject is expressed.

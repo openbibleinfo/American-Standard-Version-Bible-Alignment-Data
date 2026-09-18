@@ -1,0 +1,7 @@
+# 2 Thessalonians 3 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- The ἀτακτ- family heads on *disorderly* throughout: ἀτάκτως → *disorderly* at 3:6 and 3:11, and the hapax ἠτακτήσαμεν → *we behaved ourselves disorderly* at 3:7 heads there as well, *behaved ourselves* being the empty support the lexeme does not answer to (rules 91, 104).
+- A supplied English frame that *wraps* a Greek prepositional phrase discontinuously rides undivided with the expressed preposition and heads on the prepositional word: παρά τινος → *at any man's hand* at 3:8 gives *at … hand* to παρά headed on *at*, following rule 78's *for … sake* precedent. Rule 67's contiguous frame, whose head is genuinely divided in the corpus, does not reach a wrap; heading this unit on *hand* remains the competing reading.
+- τοῖς τοιούτοις at 3:12 → *them that are such*: the article is `unrepresented` and the demonstrative takes the supplied antecedent pronoun, the relativizer and the copula whole, headed on *such* (rules 49, 68). Rules 22 and 32 would give a bare *them* to the article, but neither reaches an article whose complement is a demonstrative — contrast 3:3, where the complement is a substantival adjective and rule 102 keeps *the … one* on the article.

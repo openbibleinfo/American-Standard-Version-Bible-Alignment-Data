@@ -1,0 +1,195 @@
+{
+  "alignments": [
+    {
+      "note": "Genitive pronoun rendered by the possessive *My*; the vocative is anarthrous, so no article competes for the determiner slot and rule 20's displacement question does not arise (rule 51's anarthrous clause).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Anarthrous vocative; no article stands before it, so rule 89 is not in question and the noun keeps its own word.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Present imperative rendered by the bare lexical verb *hold*, discontinuous from its negation under rule 15.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Ordinary prohibitive negative aligned to *not*, as rule 44's closing clause provides. No negative indefinite stands with it, so rules 41 and 59 do not arise.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Article surfaces as English *the* under rule 19; the accusative carries no case preposition for it to absorb.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Head noun stands bare, its determiner having gone to the article that precedes it.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Article displaced by the possessive *our*, which `ἡμῶν` is present and free to take: rule 20 proper, exactly as `τοῦ θελήματος αὐτοῦ` → *of his will*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive pronoun carries the possessive *our* under rule 20; it is realized nowhere else in the verse, so rule 76's availability test is not engaged.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Rule 20 keeps the case preposition *of* with the noun where the article is displaced by a possessive; headed on *Lord* under rule 17.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Name split from `Χριστοῦ` under rules 26 and 28 rather than sharing one head.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Second name recoverable on its own token.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "The ASV supplies *the Lord* as the head noun of the article's own phrase, which it then completes with *of glory*. No other source token competes for that determiner slot — `κυρίου` is already spent on *of Lord* (rule 76) — so the article takes the supplied nominal with its determiner under rules 19 and 92, whose closing clause forbids handing a supplied determiner to a noun standing behind its own article. REV.11.15 is the exact-shape precedent and is unhedged: `τοῦ` → *the kingdom* of, where a genitive article governing its own expressed noun anaphorically supplies an italicized head noun repeating a lexeme from earlier in the same verse, and the unit heads on that supplied nominal. So the head is *Lord* and not *the*. Rule 22's *never the determiner* is what decides it, and it is not scoped to a substantival article: rule 60's closing clause says in terms that where the article supplies a nominal as well, rule 22 still chooses the head, `τῆς μελλούσης` → *that hour which* heading on *hour*. The corpus agrees at roughly sixty-five units to three, the three being JHN.21.17 twice, which cite no rule and read the other way at GAL.4.13 and 2CO.13.2, and 2CO.11.9, a rule 67 prepositional frame whose note concedes. JAS.1.11 corrected this very head from *the* to *man* in the preceding chapter, and JAS.1.25 repeats it. Two competing readings, both rejected. (i) Give the whole *the Lord of glory* to `δόξης` and leave the article `unrepresented`: refused by rule 92, the article standing before its noun. (ii) Mark *the Lord* `added` under rule 5 on the ground that no source token licenses a repetition of `κύριος`: refused by REV.11.15, which is this construction and is `aligned` on the article; rule 5's `added` resumptives in the corpus — 1PE.1.19 *even the blood*, JHN.1.9 *even the light* — are appositional phrases resuming a complete preceding phrase, not a head noun supplied inside an article's own phrase.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Genitive noun rendered *of glory*, headed on the noun under rule 17. The *of* sits here rather than riding with the article as in rule 21's *of the*, because the article's *the* determines the supplied *Lord* the ASV wrote in between and this *of* governs `δόξης` alone. REV.11.15 is the one exact-shape precedent and divides the boundary the other way, giving *the kingdom* of to the article and leaving `κυρίου` a bare *Lord*; that reading is defensible here and would make `δόξης` bare *glory*. It is one unit against one, so the seam is left where the verse pass put it and recorded here rather than re-derived.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Preposition realized by *with*; rule 36 keeps it on the preposition rather than reading *hold … with* as phrasal. Discontinuous from `ἔχετε` under rule 15.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "One Greek noun rendered by the phrase *respect of persons*; *of persons* is the English idiom's own completion, not a second source token. Headed on *respect* under rules 66 and 91: the corpus spends that word on this lexeme, `ἀπροσωπολήμπτως` → *without respect of persons* heading on *respect* under rule 84. The competing head on *persons*, argued from the compound's `προσωπο-` element, is the decomposition rule 91 replaces with a query on the lemma.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018",
+        "t019"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "JAS.2.1",
+  "review_notes": [
+    "Kept the accepted alignment's unit membership throughout; the only change is an expanded note on `τῆς` (s014), which now names and answers the competing head reading as well as the competing membership reading.",
+    "The verse's one materially contested unit is s014. I give the supplied *the Lord* to the article and leave `δόξης` a bare *of glory*. Rule 21's sentence that an article carries nothing where the ASV gives its noun no determiner does not reach this case: the ASV did write a determiner inside the article's own English phrase, it simply determines the supplied head noun rather than *glory*, and rule 92 forbids handing that determiner to the noun standing behind its own article.",
+    "Head on *the* rather than *Lord* is the second contested decision inside s014. Rule 22's categorical *never the determiner* is scoped to a substantival article; here the article governs an expressed `δόξης`, so *Lord* is a supplied apposition rather than the article's substantival content, and rule 17's direct-realization test controls. A later chapter facing an article with a supplied head noun over an expressed genitive should read this note before assuming either way.",
+    "No `added` units. Every supplied English word (*My*, *the*, *Lord*) is licensed by a source token under rules 7, 11, 20 and 49; rule 11 keeps the ASV's italics on t012 and t013 as evidence rather than a verdict, and rule 86's test is not met since the article plainly stands.",
+    "The alternative_rendering note (\"do ye, in accepting persons, hold the faith … ?\") is a marginal reading only; it changes no token of the ASV text aligned here, and `μή` stays an ordinary prohibitive negative on *not* under rule 44's closing clause."
+  ]
+}

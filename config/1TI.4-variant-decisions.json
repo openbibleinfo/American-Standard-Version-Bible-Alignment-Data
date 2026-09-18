@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "chapter": "1TI.4",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.1TI.4.6.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 4:6 reads \"a good minister of Christ Jesus\", with Christ preceding Jesus, rendering the order of the base lemma Christou Iesou rather than RP's Iesou Christou."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.4.10.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 4:10 \"For to this end we labor and strive\" has no adverbial \"also\", but the ASV routinely leaves an adjunctive kai untranslated in such a clause, so the English neither requires nor excludes the added kai; base fallback carries the projection."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.4.10.v003",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 4:10 renders the verb as \"strive\" (agonizometha); the base reading oneidizometha would have given \"suffer reproach\", which appears nowhere in the verse."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.4.12.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 4:12 lists exactly five items — \"in word, in manner of life, in love, in faith, in purity\" — with no \"in spirit\" after \"in love\", so the added en pneumati was not rendered."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.4.15.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 4:15 \"that thy progress may be manifest unto all\" translates a plain dative of the persons; the ASV could render either the bare pasin or en pasin taken personally that way, and no note is mapped here, so the English does not settle the added preposition."
+    }
+  ]
+}

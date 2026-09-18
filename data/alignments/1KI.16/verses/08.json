@@ -1,0 +1,26 @@
+{
+  "ref": "1KI.16.8",
+  "alignments": [
+    {"source": ["s001"], "source_head": "s001", "target": ["t001"], "target_head": "t001", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s002"], "source_head": "s002", "target": ["t002", "t006"], "target_head": "t006", "status": "aligned", "confidence": "high", "note": "Construct noun cannot take the article, so the ASV's supplied the belongs to this noun rather than to the numeral."},
+    {"source": ["s003"], "source_head": "s003", "target": ["t003"], "target_head": "t003", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s004"], "source_head": "s004", "target": ["t004"], "target_head": "t004", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s005"], "source_head": "s005", "target": ["t005"], "target_head": "t005", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s006"], "source_head": "s006", "target": [], "target_head": null, "status": "unrepresented", "confidence": "medium", "note": "The counted noun repeats year, which the ASV renders once at t006. s002 is the construct head that bears 'of Asa', so the second occurrence is the unrepresented one (rule 22). Assigning the English 'year' to s006 instead remains defensible on word order."},
+    {"source": ["s007"], "source_head": "s007", "target": ["t007"], "target_head": "t007", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s008"], "source_head": "s008", "target": ["t008"], "target_head": "t008", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s009"], "source_head": "s009", "target": ["t009"], "target_head": "t009", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s010"], "source_head": "s010", "target": ["t010", "t011"], "target_head": "t011", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s011"], "source_head": "s011", "target": ["t012", "t018", "t019"], "target_head": "t019", "status": "aligned", "confidence": "high", "note": "Discontinuous began ... to reign realizes the one finite verb; the intervening subject phrase is its own units."},
+    {"source": ["s012"], "source_head": "s012", "target": ["t013"], "target_head": "t013", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s013"], "source_head": "s013", "target": ["t014", "t015"], "target_head": "t015", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s014"], "source_head": "s014", "target": ["t016", "t017"], "target_head": "t017", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s015"], "source_head": "s015", "target": ["t020"], "target_head": "t020", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s016"], "source_head": "s016", "target": ["t021"], "target_head": "t021", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s017"], "source_head": "s017", "target": ["t022"], "target_head": "t022", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s018"], "source_head": "s018", "target": ["t023"], "target_head": "t023", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": [], "source_head": null, "target": ["t024", "t025"], "target_head": "t025", "status": "added", "confidence": "high", "note": "The Hebrew has one verb, already spent on began ... to reign; the ASV supplies and reigned to carry the duration."},
+    {"source": ["s019"], "source_head": "s019", "target": ["t026", "t027"], "target_head": "t027", "status": "aligned", "confidence": "high", "note": "Dual noun realized as two years."}
+  ],
+  "review_notes": []
+}

@@ -1,0 +1,152 @@
+{
+  "alignments": [
+    {
+      "note": "Discontinuous around the attributive; the indefinite article is the noun's own (rule 15).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Attributive participle rendered *needy*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The ASV writes no connective for this waw; the relative *that* is what rule 41 supplies for the articleless attributive participle.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Articleless attributive recast as a relative clause keeps the supplied relative (rule 41).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Substantival adjective with supplied *the* (rule 46).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Predicate noun of a verbless clause takes the construction-supplied copula (rule 20); discontinuous around the added *like* and the attributive.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t010",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "No כְּ stands in the clause, so the comparative *like* answers to no morpheme; the ASV italic corroborates.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Attributive participle rendered *sweeping*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Waw plus a clause with no explicit subject pronoun recast as a relative clause: the relative is the waw's (rule 17).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Existential אַיִן heads on the negation (rule 50).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Supplied lexical verb for a clause whose Hebrew has none (rule 20's boundary); the existential carries only the negation.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "PRO.28.3",
+  "review_notes": [
+    "The marginal literal gloss *without food* was read and set aside under rule 38.",
+    "*leaveth* could alternatively be folded into the existential; rule 20 keeps a supplied lexical verb out of it."
+  ]
+}

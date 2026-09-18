@@ -1,0 +1,119 @@
+{
+  "alignments": [
+    {
+      "note": "Inferential conjunction rendered Wherefore.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Adverbial καί → also (rule 65).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Subject and auxiliary are the verb's own helpers, headed on the lexical verb (rules 9, 17).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Article governing a substantival adjective with no expressed noun: under rule 102 it takes both the supplied determiner these (rule 60) and the supplied nominal times, headed on the nominal and never on the determiner, discontinuously across the adjective under rule 15. Rule 17's generic-noun clause is scoped to anarthrous Greek, as rule 102 says in terms, so the supplied times is not the adjective's to take.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The substantival adjective stands bare, its article having taken the determiner and the supplied noun (rules 49, 102).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Nominalizing article of the articular infinitive (rule 61).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "No determiner stands for the article to anchor, so the preposition realizing the genitive stays with the verbal noun (rules 21, 23).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Preposition governing the pronoun.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Accusative pronoun after πρός.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    }
+  ],
+  "ref": "ROM.15.22",
+  "review_notes": [
+    "Corrected τὰ πολλά: the accepted alignment gave these to the article and many times to the adjective headed on many, which is rule 17's anarthrous generic-noun clause applied where a Greek article stands. Rule 102 governs instead — an article whose complement is a substantival adjective takes both the determiner and the supplied noun, headed on the nominal, and the corpus reads that shape the article's way twelve to none — so τά now takes these … times headed on times and πολλά keeps a bare many.",
+    "The demonstrative these is the article's own supplied determiner under rule 60, no Greek demonstrative standing to compete for the slot."
+  ]
+}

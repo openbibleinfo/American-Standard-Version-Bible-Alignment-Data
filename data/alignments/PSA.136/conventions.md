@@ -1,0 +1,6 @@
+# Psalms 136 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- The refrain `כִּי לְעוֹלָם חַסְדּוֹ` is divided identically in all 26 verses: `כִּי` → *For*; the italic *endureth* is the construction-supplied linking verb of a prepositional predicate and joins the `לְ` under rules 20 and 49, the unit *endureth for* headed on *for*; `עוֹלָם` → *ever*; `חֶסֶד` → *lovingkindness*; the suffix → *his*. `חַסְדּוֹ` is the clause's subject and `לְעוֹלָם` its predicate, so the copula never joins the noun and the supplied verb is never `added`.
+- Each `לְ` of the participial and appositional series takes only what the ASV writes for it: *To* before the participles of vv. 4-17, *unto* before the divine names of vv. 1-3, 22, 26, and nothing at all before `סִיחוֹן` (v. 19) and `עוֹג` (v. 20), where the ASV continues the apposition of vv. 17-18 bare and the preposition is `unrepresented` under rule 40. The BSB disagreements at vv. 19, 20 and 23 follow from this and are convention differences, not errors.

@@ -1,0 +1,23 @@
+{
+  "artifact_hashes": {
+    "review_receipts_sha256": "7b21433ac7a966a91ec129485079371ab2211ce3875a869e902e1dd0ab7c637b",
+    "source_lock_entries_sha256": "b65ac384131b974822cb41cbc5fd369a28f16a5d2e18149a018ac36aba031ec8",
+    "variant_decisions_sha256": "81cc07b2ca444983a8f248498325c13a51ead8f1d5bcc1a627f949198b9470b4",
+    "verse_divisions_sha256": "absent",
+    "verse_responses_sha256": "63758f1c866f1ec977c810dc5834c412fad3cf9fa92140448902d24ecbef7f92"
+  },
+  "chapter": "1CO.10",
+  "contract": {
+    "sha256": "6cb2a5ddbd4b251deac0bf661f4081daf75eaa6b9430e27186e31cdfa18b0467",
+    "version": "nt-greek-verse-v70"
+  },
+  "created_at": "2026-08-27T14:07:27.005584+00:00",
+  "models": {
+    "alignment": "claude-code (packed=all)",
+    "reconciliation": "claude-code (bounded)",
+    "review_context": "claude-code (packed=all)"
+  },
+  "omissions": [],
+  "repository_revision": "fe9ca0b1308e723e72309a23889e736652e1b59f",
+  "testament": "NT"
+}

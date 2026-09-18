@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "chapter": "ACT.6",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.ACT.6.3.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV renders 'Look ye out therefore, brethren' — 'therefore' is ouv. The mapped textual note, 'Some ancient authorities read But, brethren, look ye out from among you,' relegates the base de ('But') to the margin, confirming that the text rendered read oun."
+    },
+    {
+      "unit_id": "SBLGNT.ACT.6.3.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'full of the Spirit and of wisdom' with no 'Holy', where the same translators write 'the Holy Spirit' at 6:5 when hagiou is present. The absence of the adjective here shows the base reading pneumatos without + hagiou. The verse's only note concerns But/therefore and does not bear on this unit."
+    },
+    {
+      "unit_id": "SBLGNT.ACT.6.3.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variation is future indicative katastesomen against aorist subjunctive katastesomen/katastesomen (subj.) in a relative clause of purpose. ASV's 'whom we may appoint over this business' renders either idiom identically — English 'may' carries the purpose sense of both the future indicative and the subjunctive — so the wording distinguishes neither. The verse's note concerns But/therefore only. Base fallback retained."
+    },
+    {
+      "unit_id": "SBLGNT.ACT.6.5.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "pleres against plere is a matter of the adjective's inflection (indeclinable nominative form versus accusative agreeing with andra); both describe Stephen as 'full of faith and of the Holy Spirit'. ASV's wording is identical under either and there is no note on this verse. Base fallback retained."
+    },
+    {
+      "unit_id": "SBLGNT.ACT.6.8.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'Stephen, full of grace and power' — 'grace' is charitos, not pisteos ('faith'), which the ASV renders 'faith' wherever it stands (so 6:5, 'full of faith'). No note offers the alternative."
+    },
+    {
+      "unit_id": "SBLGNT.ACT.6.13.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'ceaseth not to speak words against this holy place, and the law' with no adjective on 'words'. The competing reading adds blasphema, which the ASV renders 'blasphemous' where it stands (so 6:11, 'blasphemous words'). Its absence here shows the base lalon remata was rendered."
+    },
+    {
+      "unit_id": "SBLGNT.ACT.6.13.v007",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'against this holy place': the demonstrative 'this' answers to toutou, which the base reading lacks and nothing else in the clause supplies. It is not italicized as an ASV supply, so it renders hagiou + toutou."
+    },
+    {
+      "unit_id": "SBLGNT.ACT.6.15.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "pantes and hapantes are the simple and strengthened forms of the same word; ASV renders both 'all', as here in 'And all that sat in the council'. Nothing in the English or in any note distinguishes them. Base fallback retained."
+    }
+  ]
+}

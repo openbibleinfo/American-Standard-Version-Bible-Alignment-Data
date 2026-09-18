@@ -1,0 +1,26 @@
+{
+  "chapter": "PSA.135",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The chapter's ten English relatives (*Who*, *that*, *Ye that*, *They that*) answer to three different things and are allocated by asking what stands in the colon, not by matching the English. A written relative takes the word together with any supplied antecedent pronoun under rule 46's first rider: `שֶׁ` → *Ye that* (v2), *Who* (vv. 8, 10), and `אֲשֶׁר` → *that* after the substantival `כֹּל` (v18). An anarthrous participle or adjective supplies its own noun phrase under rule 46 and heads on its lexeme: *Who causeth* and *Who bringeth forth* (v7), *They that make* (v18), *Ye that fear* (v20), *Who dwelleth* (v21). Where the colon writes a finite verb with no relative and no conjunction in it, the word answers to no morpheme and is `added` under rule 55: *Who maketh* (v7, over `עָשָׂה`) and *Who sent* (v9, over `שָׁלַח`). The written `שֶׁ` of v8 is not distributed forward into v9 to rescue that `added`: rule 55's distributed subordinator reaches clauses coordinated under one written subordinator, and rule 10 makes the verse the whole unit of work."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v208",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 21 verses end to end and worked through all 26 candidate lemma groups. Nothing in this chapter is analysed two ways with nothing in the source or the printed English to license the difference, so there are no patches.",
+    "The multi-treatment buckets are the ASV writing different English for the same morpheme. The article takes a written *the* wherever one stands before its own word (v6 seas, v7 earth, v11 Amorites, v15 nations) and is `unrepresented` where the ASV writes none (v6 heavens and earth, v11 Bashan, v20 Levi) — rule 29's count run in both directions. `לְ` is *unto*, *for*, *throughout*, *have*, *endureth for* or `unrepresented` exactly as written; `בְּ` is *in*, *into*, *upon*; `יהוה` differs only by the vocative *O* and the chain's *of*; `הוּא` only by the case of the pronoun written for the suffix.",
+    "Two buckets look like splits and are not. `וְ` before Ncmsa: v13's waw is `unrepresented` because `לְדֹר וָדֹר` is rule 22's distributive repetition rendered once (*all generations*), while v15's waw coordinates two written predicates and takes its *and*. `כֹּל אֲשֶׁר`: v6 fuses as *Whatsoever*, which is rule 35's own example, while v18 splits into *every one* + *that* because the ASV spends a word on each — rule 30's one-English-word condition working in both directions.",
+    "The one genuinely chapter-wide pattern is the anaphoric relative run. Ten English relatives answer to three different things: a written `שֶׁ` or `אֲשֶׁר` (vv. 2, 8, 10, 18), an anarthrous participle or adjective supplying its own noun phrase under rule 46 (v7 twice, vv. 18, 20, 21), and nothing at all over a bare finite clause, which leaves the word `added` under rule 55 (v7 *Who maketh*, v9 *Who sent*). All ten are allocated on the same test; recorded as a convention.",
+    "v17 already carries the `אַף` + `אֵין` → *Neither is there* correction in the working tree. I re-checked its partition (13 source ids and 15 target ids, each exactly once) and the competing readings its notes name, and left it as it stands. v13's `לְעוֹלָם` → *endureth for* headed on *for* matches the corpus's 27 units of that treatment (PSA.136), so the italic *endureth* stays with the preposition rather than being read as an added lexical verb.",
+    "BSB: none of the seven disagreements is a genuine error. The three `לְ`s of v11 and the articles of v11 and v20 are `unrepresented` because the ASV writes no preposition and no *the* there — it apposes the v11 list to v10's *kings* — which is the documented convention difference of rules 40 and 29; the `וָ` and second `דֹר` of v13 are the distributive repetition rule 22 already records BSB as disagreeing on. No accepted edge was changed to move the aggregate.",
+    "The six `added` units (v1 *him*, v4 *And*, v6 *that*, v7 *Who*, v9 *Who*, v18 *Yea*) are each supplied English standing beside, not inside, a written rendering, and each is licensed by a different rule (44, 14, 30, 55, 55, 14). None was folded into a neighbouring morpheme to avoid the mark, and none is a case the chapter treats the other way elsewhere."
+  ]
+}

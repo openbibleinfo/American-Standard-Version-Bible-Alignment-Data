@@ -1,0 +1,6 @@
+# Ezekiel 36 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- The relative plus locative adverb ASHER ... SHAM, and ASHER ... SHAMMAH with the directive he, are rendered by the single English word 'whither' and align as one noncompositional unit spanning all of those morphemes, headed on ASHER, however much of the clause stands between them (36.20, 36.21, 36.22). The competing reading gives 'whither' to the relative alone and marks the locative, and the directive he with it, unrepresented under rule 22; it was declined because the one English word still carries what every morpheme in it says, which is the far side of rule 30's contiguity condition that rule 35 marks out.
+- The title ADONAY YHWH, which stands 15 times in this chapter, divides three ways: ADONAY takes the supplied 'the Lord' as one unit headed on 'Lord' (rule 15, no article morpheme standing in the title), its 1cs suffix is unrepresented, and YHWH takes 'Jehovah'. The suffix is what the 16 Sp1cs BSB disagreements are, in 14 verses; BSB attaches it to the title and the ASV spends no English word on it.

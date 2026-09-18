@@ -1,0 +1,5 @@
+# Ezekiel 19 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- The ASV's pronoun for a pronominal suffix repeatedly disagrees with that suffix in number or gender in this chapter, and the written pronoun is what is aligned in every case: `אַלְמְנוֹתָיו` → *their palaces*, `קוֹמָתוֹ` → *their stature*, `גָבְהוֹ` → *their height* and `דָּלִיֹּתָיו` → *their branches* all give a plural English possessive to a 3ms suffix, and `אֲכָלָתְהוּ` → *consumed them* gives a plural object pronoun to a 3ms object suffix. The ASV's own marginal *Hebrew his* and *Hebrew he was* notes at 19:11 mark exactly these places; they are translator's notes on the Hebrew, not a second rendering, and they neither move an edge nor license marking the suffix `unrepresented`. Align the pronoun the ASV wrote under rule 18 and let the margin stand.

@@ -1,0 +1,5 @@
+# Psalms 140 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Two `אִישׁ` + genitive-of-quality chains stand in this chapter and are analysed two different ways, both times by counting the ASV's words against the morphemes. `אִישׁ חֲמָסִים`/`אִישׁ חָמָס` → *the violent man* (PSA.140.1, 140.4, 140.11) is split under rules 28-29: each noun holds an English word of its own, so the construct takes *man* with the supplied determiner and the rectum takes the attributive *violent*. `אִישׁ לָשׁוֹן` → *An evil speaker* (PSA.140.11) instead fuses under rule 30, because no English word in that rendering is spent on either noun in particular, and the supplied *An* joins the nominal expression under rule 15. What tells the two apart is independently recoverable ownership, not that both are `אִישׁ` chains, and both shapes stand in verse 11.

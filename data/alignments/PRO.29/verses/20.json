@@ -1,0 +1,149 @@
+{
+  "alignments": [
+    {
+      "note": "Finite verb with its subject pronoun, headed on the lexical verb (rule 17).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "אִישׁ with the indefinite article it licenses (rule 15).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Articleless attributive participle recast as a relative clause; the supplied *that is* joins the attributive itself (rules 41, 20).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "בְּ → *in*. The margin's *business* was read and set aside under rule 38.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "דְּבָרִים → *words*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Suffix → *his* (rule 18).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Verbless clause: the presentative *There is* is construction-supplied and joins the predicate noun (rule 20), discontinuous around the comparative degree word.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Corrected. The לְ takes both occurrences of the *of* whose scope the ASV distributes across the two compared phrases — *of a fool ... of him* — as one discontinuous unit headed on the first occurrence (rule 25's distributed function word, which gives a single מִן both of its *from*s). Rule 11 decides the ownership: the second *of* carries the same benefactive-genitive relation the לְ carries, not the comparison מִן carries, and מִן already holds the *than* written for it.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t019"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "כְּסִיל with the indefinite article it licenses.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Comparative מִן → *more ... than*, headed on *than*, which states the comparison's relation, while *more* is the degree word English adds beside it (rule 24).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Suffix → *him*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    }
+  ],
+  "ref": "PRO.29.20",
+  "review_notes": [
+    "The one change moves the *of* of *than of him* from the comparative מִן to the לְ as a distributed repetition (rules 11, 25). The prior alignment read it as part of the comparative's own rendering and named `added` as its competing reading; neither fits rule 24's account of *more than*, where *more* is the added degree word and *than* the relation, and the corpus records no מִן aligned to *than of*."
+  ]
+}

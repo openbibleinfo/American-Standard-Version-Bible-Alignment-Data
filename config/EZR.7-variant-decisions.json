@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "chapter": "EZR.7",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.EZR.7.18.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere עֲלָךְ and ketiv עליך are two spellings of the same 2ms suffixed form 'to thee'; ASV 'to thee' renders either identically and no textual note is mapped to this unit. Base qere fallback retained."
+    },
+    {
+      "unit_id": "WLC.EZR.7.18.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere אֶחָךְ and ketiv אחיך are orthographic variants of 'thy brethren' with the same 2ms suffix; ASV 'thy brethren' renders either identically and no textual note is mapped to this unit. Base qere fallback retained."
+    },
+    {
+      "unit_id": "WLC.EZR.7.25.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere דָּאיְנִין and ketiv דאנין are plene/defective spellings of the same plural 'judges'; ASV 'judges' renders either identically and no textual note is mapped to this unit. Base qere fallback retained."
+    },
+    {
+      "unit_id": "WLC.EZR.7.26.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere לִשְׁרֹשִׁי and ketiv לשרשו are spelling variants of the same infinitive 'rooting out'; ASV 'banishment' renders either identically. The verse note 'Aramaic rooting out' is classed other and glosses the shared root's meaning, not a reading. Base qere fallback retained."
+    }
+  ]
+}

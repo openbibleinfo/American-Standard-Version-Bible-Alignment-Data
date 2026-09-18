@@ -1,0 +1,17 @@
+{
+  "alignment_sha256": "86fd4442f6ac272af260083c62f318120e33e3de95e96e8a5e97fee3868d2f47",
+  "contract_version": "ot-hebrew-verse-v114",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition checked: all 49 source ids and all 60 target ids appear exactly once across the 49 units, and every head is a member of its array.",
+    "Connective count: two waws (s001, s041) are rendered by the postpositive *also* under rule 51 — a waw is present in each clause, so neither word is `added` — while the *and*s at t012, t016, t031, t037 and t057 each match the waw standing between the same two items (rule 42).",
+    "The temporal phrase `בַּשָּׁנָה הַהִיא` → *the same year*: the `בְּ` is `unrepresented` (rule 40), since the ASV writes a bare adverbial accusative; the ASV then writes two determiners, so the assimilated article takes *the* (rule 12) and the demonstrative `הִיא` takes *same* (rule 41), leaving the agreement article with nothing (rule 47).",
+    "`כֹּרִים חִטִּים` is not a construct chain — `כֹּרִים` is absolute — so the *of* before *wheat* is rule 33's supplied preposition on the measure nominal, not rule 19's relational *of*; *of barley* is placed on the same terms.",
+    "The repeated *in* of *in the second year ... and in the third* is one distributed preposition under rule 25, headed on the first. The competing reading would supply a second `בְּ` the Hebrew does not write and leave t058 `added`.",
+    "`זֹאת` → *So much* is headed on *much* under rule 24's fixed-phrase clause, since neither English word realizes the demonstrative's lexeme; no waw stands at that clause head, so *So* is not a connective to be placed elsewhere.",
+    "The two dative `לְ`s are read on their own terms: s014 is silenced by the bare English indirect object *gave him* (rule 40) while s037 takes the written *unto*."
+  ],
+  "ref": "2CH.27.5",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

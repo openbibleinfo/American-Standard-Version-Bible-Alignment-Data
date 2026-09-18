@@ -1,0 +1,31 @@
+{
+  "chapter": "NUM.10",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "NUM.10.13"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Where the ASV renders a verb by the English idiom *take one's journey* (נָסַע at vv.5, 6, 13), the possessive belongs to that verb's own unit and is not `added`: the idiom requires it and it tracks the verb's own subject, exactly as rule 44 keeps a reflexive that renders the verb's voice. Rule 18's closing sentence, which leaves a supplied possessive `added`, governs an emphatic possessive standing on a noun the clause writes for itself, not a determiner inside a light verb's complement. The unit still heads on the complement (*journey*) under rule 44.",
+    "The Hiphil of רוּעַ rendered *sound an alarm* (vv.7, 9) is read as a light verb plus complement under rule 44 and headed on *alarm*; the competing reading, which takes *sound* for the lexical verb, is named in each unit's note. Both occurrences in the chapter follow the first.",
+    "בָּ + assimilated article + רִאשֹׁנָה is one fused unit headed on the adjective where the ASV writes a single *first* (v.13), and three units where it writes *in the first place* (v.14). Rule 30's one-English-word condition is read per occurrence, so the two verses are not two treatments of one construction; ISA.60.9 aligns the same phrase as one Rd+Td+Aafsa unit.",
+    "A compound proper name that MACULA segments into two source tokens of one lemma — צוּרִישַׁדָּי (v.19), פְּדָהצוּר (v.23) — is one unit under rule 30, since the ASV writes one word for it. It carries the construct chain's *of* under rule 19 and takes its first token as the source anchor."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v112",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Rule 45 is applied three times and is consistent: v.11 has an asyndetic apodosis and the presentative verb keeps the frame's *that*; vv.32 and 35 write an apodosis waw and that waw takes the word. Both dispositions are read off the Hebrew, as the rule directs, so this is not a split.",
+    "The casuistic apodosis waw likewise goes both ways by what the ASV wrote: *then* at vv.4 and 9, unrendered at vv.3, 5, 6, 10. The opening waw takes *And when* as one rule 55 pair only where no other morpheme carries the subordinator (vv.3, 5, 6); where אִם, כִּי or a temporal בְּ stands (vv.4, 9, 32, 34, 35, 36) that morpheme takes it and the waw keeps only *And*.",
+    "One genuine error, patched. NUM.10.13 split בָּ + [הַ] + רִאשֹׁנָה, leaving the preposition and the assimilated article `unrepresented` beside an adjective holding the phrase's single English word *first*. Rule 30 governs that shape in terms — one unit headed on the morpheme carrying the lexeme, rather than one rendered morpheme beside others marked `unrepresented` — and the corpus aligns the identical phrase at ISA.60.9 as one Rd+Td+Aafsa unit to *first*. The chapter fuses every other several-morphemes-to-one-word case it meets (בְּיַד v.13, לִפְנֵי vv.9/10/33, מִפְּנֵי v.35, כִּי אִם v.30, כִּי עַל־כֵּן v.31, the two-token names vv.19/23); v.13's adverbial was the lone outlier.",
+    "v.14's *in the first place* is left split, and that is not a second treatment of the same construction: rule 30's condition is per occurrence, and there the ASV spends a word on the preposition, a word on the article and a word on the adjective, so the condition is unmet and rule 2 splits it.",
+    "BSB: no genuine error among the listed disagreements. The R×8 and C×4 groups are rule 40 recastings and unrendered apodosis waws; the v.9 אֶת is rule 16; the two v.11 articles are agreement articles under rule 47; the three Sh tokens (vv.29, 35, 36) are the paragogic/cohortative *he*, which rule 32 names as the standard BSB convention difference. The v.13 בָּ was also on that list, but the patch rests on rule 30 and ISA.60.9, and the incidental agreement with BSB is not its reason.",
+    "Checked and left alone: the three `added` units. *but* (v.4) is restrictive and answers to no morpheme; *the others* (v.21) is a supplied lexical subject under rule 17; *how* (v.31) subordinates a recast infinitive clause with no preposition present to carry it, and every other supplied subordinator in the chapter does have a morpheme standing for it. No verse folds a comparable supplied word into a neighbour, so the `added`-blind table hides nothing here.",
+    "Checked and left alone as defensible and uniform: *sound an alarm* headed on *alarm* at vv.7 and 9; the copula on עַל in the twelve tribal-officer clauses (rule 49) against the copula on the nominal predicate at vv.28 and 34's subject chain; and the possessive of *take their journey* (vv.5, 6, 13) kept inside the verb's unit. The last three are now in the conventions log."
+  ]
+}

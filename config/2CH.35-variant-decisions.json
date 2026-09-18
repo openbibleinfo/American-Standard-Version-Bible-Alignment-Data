@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "2CH.35",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2CH.35.3.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the participle actively, 'the Levites that taught all Israel', which is the hiphil הַמְּבִינִים 'those causing to understand, instructing'. The ketiv המבונים is a passive/polal-shaped form ('those instructed'), which the ASV wording excludes; no ASV note is mapped here."
+    },
+    {
+      "unit_id": "WLC.2CH.35.9.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere and ketiv differ only in the orthography of the personal name (וְכָנַנְיָהוּ vs. וכונניהו); ASV 'Conaniah also' transliterates either equally, and no ASV note is mapped to this unit, so the English does not distinguish the readings. Base fallback (qere) carries the projection."
+    }
+  ]
+}

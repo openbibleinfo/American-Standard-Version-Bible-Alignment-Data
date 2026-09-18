@@ -1,0 +1,7 @@
+# Romans 11 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- ROM.11 records no `added` unit. Every supplied English word in the chapter completes some source token's own English and is folded under rules 7 and 103: *of God* on χρηματισμός (11:4), *of them* on πρόσλημψις (11:15), *with them* on συγκοινωνός (11:17), *conceits* on ἑαυτοῖς (11:25), *time* on ποτε (11:30), *shown to* on ὑμετέρῳ (11:31), *again* on ἀνταποδοθήσεται (11:35). Where the fold repeats a pronoun the verse has already spent — *of them* at 11:15 against αὐτῶν at *casting away of them*, *with them* at 11:17 against αὐτοῖς at *among them* — rule 103's resumptive-pronoun contrast is what licenses it, and each unit's note names the `added` reading.
+- παραζηλόω is headed on *jealousy*, the resultative complement, at 11:11 and 11:14 alike; a head on *provoke* remains defensible and both notes say so. ἐλεάω is headed on *mercy* at 11:30, 11:31 and 11:32 on the same reasoning.
+- κατὰ φύσιν is one `aligned` unit wherever the ASV writes the single word *natural* (11:21, and 11:24's οἱ κατὰ φύσιν) and two units wherever it writes *by nature* (11:24's τῆς κατὰ φύσιν ἀγριελαίου). Rule 94's count of English words decides it, not the recurrence of the collocation; where the phrase is a verbless clause's predicate the supplied copula rides with it under rule 31.

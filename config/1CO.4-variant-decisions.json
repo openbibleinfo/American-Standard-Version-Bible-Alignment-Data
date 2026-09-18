@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "chapter": "1CO.4",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.1CO.4.2.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Here, moreover, it is required' opens with the adverb 'Here', rendering ὧδε; the RP relative Ὃ δὲ ('Moreover what is sought') leaves no word for 'Here' and restructures the clause."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.4.6.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Ἀπολλῶν and Ἀπολλὼ are alternative accusative forms of the same name; ASV 'Apollos' renders either identically."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.4.6.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'not to go beyond the things which are written' has a plural relative and plural verb agreement in the English phrase, matching the plural ἃ; the singular ὃ would yield 'that which is written'."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.4.6.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV ends the clause at 'the things which are written' with nothing answering to φρονεῖν ('to be minded'), so the RP addition is unrendered."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.4.9.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV takes δοκῶ parenthetically ('For, I think, God hath set forth'); English regularly drops the complementizer 'that', so the presence or absence of ὅτι is not distinguished by the wording, and the chapter's only note here is an alternative_rendering about 'to angels, and to men'."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.4.13.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "δυσφημούμενοι and βλασφημούμενοι are synonyms here and ASV 'being defamed' renders either; the verse note ('Or, refuse') is an alternative_rendering touching 'offscouring', not this word."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.4.14.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV has one finite verb, 'I write', with 'but to admonish you' subordinate to it — the participial νουθετῶν; the indicative νουθετῶ would give a second finite clause, 'but as my beloved children I admonish you'."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.4.17.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is Greek word order only; ASV 'my beloved and faithful child' renders μου τέκνον and τέκνον μου alike."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.4.17.v009",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'my ways which are in Christ' with no 'Jesus', so the name is absent from the text rendered."
+    }
+  ]
+}

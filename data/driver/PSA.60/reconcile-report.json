@@ -1,0 +1,27 @@
+{
+  "chapter": "PSA.60",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "PSA.60.1"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Superscription split (rule 54): the ASV prints the historical title 'when he strove ... twelve thousand' in verse 0, while WLC carries its Hebrew at the head of PSA.60.1 (s001–s023 there). Verse 0 holds that English as one added unit with a null head; verse 1 marks each of those 23 morphemes its own unrepresented unit. Neither verse reaches into the other.",
+    "Phrasal particles the ASV writes for a single Hebrew verb stay in the verb's unit under rule 44 throughout the chapter — 'cast off' (זָנַח, v1, v10), 'broken down' (פָּרַץ, v1), 'goest forth' (יָצָא, v10), 'mete out' (מָדַד, v6), 'tread down' (בּוּס, v12) and 'restore ... again' (שׁוּב polel, v1) — discontinuous around an object suffix where one intervenes (rule 25). 'again' is kept because the return it states is what שׁוּב writes, not a repetition the Hebrew leaves unwritten; the added reading is named in the v1 note."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Cross-verse table: no real split. זָנַח 'thou hast cast off' (v1) vs 'cast off' (v10) is licensed by the source: in v10 הֲ takes the fronted 'Hast' (rule 17) and the explicit אַתָּה holds 'thou', so the verb keeps only 'cast off'. אֱדוֹם and שׁוּב unrepresented in v1 are the superscription tokens under rule 54, rendered in v0. The הוּא, וְ, לְ, בְּ, עַל and אֱלֹהִים buckets are ordinary context-licensed renderings.",
+    "One patch, PSA.60.1: 'again' in 'oh restore us again' moved from added into the תְּשׁוֹבֵב unit. Rule 44's surplus-particle test needs both conditions, and the second fails: the return that 'again' states is what שׁוּב itself writes, so the ASV has rendered one lexeme twice, as 'did work' does for עָשָׂה, rather than supplied a repetition the Hebrew nowhere writes. The corpus keeps 'again' with שׁוּב in every treatment shown (again 28, turn again 20, bring again 11). Competing reading named in the note.",
+    "BSB disagreements (paragogic he ×3, paragogic nun, dative לָּנוּ) are all documented convention differences (rules 32, 40); none is an error.",
+    "Left as accepted, competing reading already noted: v12 cleft 'it is that' as one contiguous added unit (rule 2 vs rule 20's split); v6 'mete out' kept with מָדַד; v5 'right hand' headed on right; v0 'set to' headed on set.",
+    "Two conventions recorded: the rule-54 superscription split between v0 and v1, and the chapter's rule-44 treatment of phrasal particles."
+  ]
+}

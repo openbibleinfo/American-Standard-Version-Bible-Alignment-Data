@@ -1,0 +1,131 @@
+{
+  "alignments": [
+    {
+      "note": "Adverb rendered *Here*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Adverbial accusative rendered *moreover*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Impersonal passive: supplied subject and auxiliary ride inside the verb's unit and the head is the lexical participle (rules 9 and 17).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Preposition rendered *in*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The ASV writes no determiner for *stewards*, so the article has no English *the* to anchor and is `unrepresented` under rule 23; the preposition stays with s004.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Conjunction realized by the English complementizer *that* (rule 40).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Plain indefinite expanded with a supplied determiner and generic noun; head on the nominal word. Heading on *a* as the more direct realization of the indefinite remains defensible, but rule 17 forbids choosing a bare determiner where a nominal stands.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Aorist passive subjunctive: auxiliary rides with the verb, head on the lexical *found* (rules 9 and 17).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Predicate adjective, discontinuous from the verb under rule 15.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "1CO.4.2",
+  "review_notes": [
+    "SBLGNT.1CO.4.2.v001 selected r00-base and the projection carries it; no textual question arises in the alignment (rule 12).",
+    "All ids partitioned exactly once."
+  ]
+}

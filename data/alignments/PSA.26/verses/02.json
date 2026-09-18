@@ -1,0 +1,164 @@
+{
+  "alignments": [
+    {
+      "note": "Imperative → Examine.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Object suffix → me (rule 18).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Vocative name takes supplied O (rule 36).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Waw → and.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Piel imperative → prove.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Object suffix → me (rule 18).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Variant WLC.PSA.26.2.v001 (covers s007–s008) is underdetermined with base retained and the English compatible; no fallback exclusion, so aligned as ordinary text (rule 53).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Cohortative he (Sh) has no English realization (rule 32); part of variant unit v001, base retained. BSB attaches it to the verb; convention difference.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "כִּלְיָה → heart: the ASV's fixed rendering of the reins where they stand beside לֵב (PSA.7.9, JER.11.20, JER.17.10, JER.20.12), with the margin 'Hebrew reins' glossing this word (rule 38). No reordering; the earlier swap to mind was an error.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Possessive suffix on כִלְיוֹת → my (of heart), rule 18.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Waw → and.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "לֵב → mind, the ASV's rendering of לֵב wherever it stands beside כליות rendered heart; source order preserved.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Possessive suffix on לֵב → my (of mind), rule 18.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    }
+  ],
+  "ref": "PSA.26.2",
+  "review_notes": [
+    "Reconciliation patch: heart ↔ כִלְיוֹתַי and mind ↔ לִבִּי in source order; the margin 'Hebrew reins' glosses heart and corroborates the mapping (rule 38).",
+    "Variant v001 (covers s007–s008) underdetermined, base retained; nothing excluded (rule 53)."
+  ]
+}

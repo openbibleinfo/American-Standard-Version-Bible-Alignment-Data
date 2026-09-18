@@ -1,0 +1,115 @@
+{
+  "ref": "2PE.3.6",
+  "alignments": [
+    {
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "target": [
+        "t001",
+        "t003"
+      ],
+      "target_head": "t001",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The complex frame 'by ... means' wraps discontinuously around the relative, so rule 78 takes it out of rule 67's divided case: a discontinuous wrap riding an expressed proper preposition heads on the prepositional word. The corpus is 39 to 2 for that reading and the Catholic-epistle neighbours are unanimous (1PE.1.20, 1PE.2.13, 1PE.3.14, 1JN.3.8, 2JN.1.2). The frame stays undivided on the preposition under rule 67."
+    },
+    {
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "target": [
+        "t004",
+        "t006"
+      ],
+      "target_head": "t004",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Article precedes its noun, so under rule 31 it takes the determiner and the supplied relativizer, discontinuously, headed on 'the'."
+    },
+    {
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t007",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Adverbial predicate carries the supplied copula under rule 53; no verb stands in the clause for it otherwise."
+    },
+    {
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Auxiliary rides with the participle under rule 9; head on the lexical verb."
+    },
+    {
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Dative of means with no determiner, so the case preposition stays with the noun under rules 21 and 23."
+    },
+    {
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    }
+  ],
+  "review_notes": []
+}

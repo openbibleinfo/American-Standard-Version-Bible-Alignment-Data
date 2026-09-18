@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "2fef954842774ab6b0f155195491cf84f9ce549507cba0dc28088ad389279449",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: s001–s018 and t001–t026 each appear exactly once across the 17 units; no invented ids.",
+    "`διὰ παντός` → *continually* checked against rules 34/45/93/94: `πᾶς` never glosses *continually* on its own, so the English word carries a sense the governed word alone does not and rule 45 joins the pair, headed on `παντός` (s008); rule 34's pleonastic-preposition reading is the competing one and the unit's note already names it. Rule 94's precondition holds — one English word — and rule 93 is not in play, no article intervening.",
+    "Both `unrepresented` articles are right on their own tests: s009 has no determiner for `θεῷ` to anchor, so rule 23 empties it and rule 21's determinerless clause keeps *to* on the noun (rule 21 names `τῷ θεῷ` → *to God* by example); s016 is emptied by rule 20 proper, `αὐτοῦ` being free — rule 76's availability test finds it spent on nothing but *his*.",
+    "Head on *confession* for `ὁμολογούντων` survives rule 91's operational test: the corpus spends *confess/confessed* on `ὁμολογέω` and never *make*, so *make* is the empty support verb and the complement carries the lexeme, parallel to `μαρτυρέω` → *bear witness* on *witness*. The relativizer *which* is the participle's helper under rule 31, no article standing to carry it.",
+    "`τοῦτ᾽ ἔστιν` → *that is* correctly split rather than fused: rule 39's test finds each English word answering to a source token, so no `noncompositional` unit arises.",
+    "Supplied determiners at t008 *a* and t017 *the* are rule 7 helpers on their anarthrous nouns under rule 51's anarthrous clause, with no Greek article competing for either slot."
+  ],
+  "ref": "HEB.13.15",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

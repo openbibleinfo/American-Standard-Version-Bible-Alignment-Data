@@ -1,0 +1,144 @@
+{
+  "alignments": [
+    {
+      "note": "Relative pronoun to its own English relativizer; rule 2 keeps the conjunction's word separate.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Postpositive gar realized by the clause-initial For.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb with its own lexical English verb; subject stands separately as the expressed kyrios.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Greek is anarthrous, so the supplied the is a rule 7/51 helper on the noun; head on Lord per rule 17.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Inflected verb takes its supplied subject pronoun under rule 9; head on the lexical verb rather than the pronoun.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Verb alone; its subject he is not repeated in the ASV.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Postpositive de realized by the clause-initial And; discontinuity with respect to Greek order is permitted by rule 15.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Quantifier to its own English word; no negator or substantival article is in question, so rules 80 and 87 do not apply.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Anarthrous noun to its bare English noun; rule 26 keeps it separate from the quantifier.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Second relative pronoun to its own whom.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Inflected verb with its supplied subject pronoun under rule 9; head on the lexical verb.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "HEB.12.6",
+  "review_notes": [
+    "Every source and target id is partitioned exactly once; no unrepresented or added units were needed.",
+    "kyrios is anarthrous in the projection, so the supplied 'the' is a helper on the noun under rule 51's anarthrous clause rather than an article realization."
+  ]
+}

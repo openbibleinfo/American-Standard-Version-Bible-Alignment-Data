@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "chapter": "ROM.7",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.ROM.7.13.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Aorist ἐγένετο against perfect γέγονεν. ASV 'Did then that which is good become death unto me?' renders a simple past interrogative that either tense supports; no note is mapped here. Underdetermined, base retained."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.7.14.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "σάρκινός and σαρκικός are both rendered 'carnal'; the ASV single word 'carnal' cannot distinguish the material adjective from the ethical one, and no note is mapped. Underdetermined, base retained."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.7.17.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Simple οἰκοῦσα against compound ἐνοικοῦσα; both yield ASV 'which dwelleth in me' since ἐν ἐμοί stands in the text on either reading. The only note here glosses 'work' and is not mapped to this lemma. Underdetermined, base retained."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.7.18.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV ends the clause 'but to do that which is good is not', supplying only a copula for the elliptical oὔ of the base reading. The longer οὐχ εὑρίσκω would give an explicit 'I find not' (so KJV, 'how to perform that which is good I find not'), which the ASV does not render. Base selected."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.7.20.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Addition of emphatic ἐγώ to θέλω in the protasis. ASV 'But if what I would not, that I do' expresses the subject only through the verb, as English must whether or not the pronoun stands; no note is mapped. Underdetermined, base retained."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.7.23.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The ASV note mapped here, 'Greek in', glosses the preposition behind 'into captivity under the law of sin' and so attests ἐν in the text the translators rendered; the RP omission leaves a bare dative with no preposition to gloss. (The accompanying 'Many ancient authorities read to' reports εἰς, a reading outside this candidate set.) Base selected."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.7.25.v007",
+      "status": "selected",
+      "selected_reading": "r02",
+      "compatible_readings": [
+        "r02"
+      ],
+      "evidence": "ASV text reads 'I thank God through Jesus Christ our Lord', a finite verb of thanking = εὐχαριστῶ. The mapped textual_variant note 'Many ancient authorities read But thanks be to God' places the χάρις readings (r00-base, r01) in the margin, so the translators rendered r02 in the text."
+    }
+  ]
+}

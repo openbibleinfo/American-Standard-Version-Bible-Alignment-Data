@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "chapter": "ECC.6",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.ECC.6.10.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV renders 'him that is mightier than he'. Both readings are the same consonantal root תקף under a relative ש: the qere שֶׁתַּקִּיף and the ketiv שהתקיף differ only in the presence of the ה, and either yields an English relative clause 'that is mightier'. The ASV wording distinguishes neither, and no italicized supply bears on the word. The only ASV note attached here is classed alternative_rendering ('Or, Whatsoever he be, his name was given him long ago...'), which concerns English wording earlier in the verse and never decides a reading; the hebrew_gloss note explains 'man' (Adam), not this lemma. Underdetermined; the qere base fallback carries the projection."
+    }
+  ]
+}

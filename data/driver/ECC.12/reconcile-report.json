@@ -1,0 +1,29 @@
+{
+  "chapter": "ECC.12",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "`עַד אֲשֶׁר לֹא` rendered by a single *before* is one unit of all three morphemes under rule 30, headed on `עַד` under rule 23: the one English word carries the temporal limit, the subordination and the negative's 'not yet', so nothing is left over to mark. ECC.12.1, ECC.12.2 and ECC.12.6 are all decided this way; the competing reading gives *before* to `עַד` alone and marks the relative and the negative `unrepresented`, and is rejected because rule 22 forbids marking a morpheme unrendered whose sense the ASV wrote inside a fused word.",
+    "Where a locative `בְּ` phrase follows a verb the ASV renders with a directional particle, decide the particle by subtraction on the verb's lexeme rather than by the particle's shape. `הָרֹאוֹת בָּאֲרֻבּוֹת` → *those that look out of the windows* gives *out of* whole to the preposition under rule 24, because *look* already renders `רָאָה` and dropping *out* leaves only the relation unstated; `וְסָבְבוּ בַשּׁוּק` → *the mourners go about the streets* keeps *about* with the verb under rule 44, because *go* alone loses `סָבַב`'s 'go around', and the `בְּ` is then `unrepresented` under rule 40 with no word spent on its own relation.",
+    "A subject the ASV supplies for a verbless clause is divided by what it denotes. An impersonal *it* completing the copula joins the predicate under rule 20's own `כִּי־טוֹב` → *that it was good* example, so `אִם־טוֹב וְאִם־רָע` → *whether it be good or whether it be evil* puts *it be* on each predicate adjective at ECC.12.14. A referential demonstrative denoting something no morpheme in the clause denotes is `added`, so the *This* of `סוֹף דָּבָר` → *This is the end of the matter* at ECC.12.13 is its own `added` unit while the copula still joins the predicate nominal."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v144",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 35 candidate lemma groups and read the dump end to end for the splits the table is blind to. No construction is analysed two ways without something in the source licensing the difference, so patches is empty.",
+    "`עַד אֲשֶׁר לֹא` → *before* is identical at ECC.12.1, ECC.12.2 and ECC.12.6: one rule 30 fusion of three morphemes headed on `עַד`, each note naming the competing reading that would mark the relative and negative unrepresented. Now recorded as a convention instead of three repeated notes.",
+    "The `בְּ` Rd→Td bucket (12.3 `בָּאֲרֻבּוֹת` → *out of* on the preposition; 12.5 `בַשּׁוּק` unrepresented with *about* on the verb) is not a split. The same subtraction test decides both and the verbs' lexemes differ: *look* renders `רָאָה` whole, so *out of* states a relation nothing else states, while *go* alone loses `סָבַב`'s 'around', leaving the ASV no word for the `בְּ`.",
+    "`קוֹל` twice in ECC.12.4 differs only in the ASV's noun; both constructs take a supplied *the*, and the two recta's articles are decided oppositely because one rectum is arthrous (*the grinding*) and the other indefinite (*a bird*) — rule 29's own distinction. `אֶל` and `עַל` (*at*, *unto*, *to*) are ASV word choice, not analysis.",
+    "Articles: every unrepresented one stands where the ASV writes no determiner (*desire*, *all*, *God*, *goads*, *a bird*); fronting versus arthrous counts agree across 12.3, 12.4, 12.6 and 12.13, and `כֹּל` with an article on the rectum is read the same way at 12.4 (*all the daughters of music*) and 12.13 (*the whole ... of man*).",
+    "Supplied English checked across verses: connectives balance in every verse (12.9's third *and* is the only surplus and is `added`); phrasal particles stay on the verb wherever no preposition morpheme stands (*sought out*, *find out*, *rise up*, *go about*); *that which is/was* joins the anarthrous substantive at 12.5 and 12.10 while 12.3's arthrous `הָרֹאוֹת` takes *those that* on the article under rule 41.",
+    "BSB: no genuine error. The eight Td rows are the documented convention difference where the ASV writes no *the*; `אֶת` at 12.13 is rule 16's majority ruling; `מֵ` and `הֵמָּה` at 12.12 are unrendered by the ASV's bare *And furthermore*, which carries nothing of 'than these', so rule 30's condition is unmet and rule 40 leaves both unrepresented.",
+    "No promotion. The `עַד אֲשֶׁר לֹא` fusion is the one generalizable judgment here, and the supplied precedent covers none of those lemmas in that combination; a rule resting on three occurrences with no corpus behind it is worse than none, so it is recorded as a convention."
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "alignments": [
+    {
+      "note": "Interrogative τί → What.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "οὖν → then.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The ASV writes no determiner for περισσόν (\"What advantage\"), so under rule 23 the article realizes nothing.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Verbless clause recast with a supplied lexical *hath* and the governed genitive made the English subject: rule 75 keeps the supplied verb with the relational noun, headed on it. Discontinuous under rule 15.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t004"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Article → the (rule 19); the genitive is recast as the English subject so no case preposition rides along.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Ἰουδαίου → Jew.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "ἤ → or.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Verbless clause with a lexical-noun subject (ἡ ὠφέλεια), so under rule 63 the supplied copula is the interrogative predicate's helper.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Article → the.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "ὠφέλεια → profit.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "The ASV gives περιτομῆς no determiner, so rule 21's determinerless clause leaves the article empty and keeps *of* with the noun.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive noun rendered *of + noun*, headed on the noun (rule 17).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "ROM.3.1",
+  "review_notes": [
+    "Giving the supplied *hath* to περισσόν follows rule 75; putting it on the subject Ἰουδαίου was the competing reading and is refused by rule 63's refusal to read a supplied verb off English word order."
+  ]
+}

@@ -1,0 +1,7 @@
+# 2 Samuel 21 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **2SA.21.15** — The formula wattehi-od (ha)milchamah is read by what the ASV writes for it. 'there was again war' (vv. 18, 19, 20) gives 'there was' to haya (rule 21), 'again' to od, and leaves the article unrepresented because the ASV writes bare 'war'; 'the Philistines had war again with Israel' (v. 15) gives the 'had' to haya and silences the possessive le (rule 43), the assimilated article taking 'the' before Philistines.
+- **2SA.21.16** — A waw opening a verbless clause the ASV recasts as a relative clause on a possessive suffix: where the ASV writes one word, 'whose', that word is the suffix's (rule 18) and the waw is unrepresented (vv. 16, 19); where it writes two, 'that had' (v. 20), the waw takes the relative connective 'that' and the suffix takes the 'had' that carries its possession (rules 11, 43). The competing reading for v. 20 gives 'that had' to the suffix and leaves the waw unrepresented.
+- **2SA.21.16** — 'who was of the sons of the giant' for asher bilidei ha-raphah (vv. 16, 18): be takes 'was of' (rule 49), yelidei takes a supplied 'the' with 'sons' (rule 29), the article takes 'the', and raphah takes 'of giant', the margin 'Hebrew Raphah' read and set aside (rule 38); the bare ha-raphah of vv. 20, 22 is 'the giant' on the same terms.

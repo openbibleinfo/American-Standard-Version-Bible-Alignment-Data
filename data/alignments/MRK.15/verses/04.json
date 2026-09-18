@@ -1,0 +1,178 @@
+{
+  "alignments": [
+    {
+      "note": "Rule 23: article before a name.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Name.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Adverb.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Finite verb.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Pronoun.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Participle.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Rule 41: redundant negative before a negative indefinite the ASV renders 'nothing'; the indefinite takes the whole negation. A reference comparison will report this as a disagreement, which rule 41 says is not a correction.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Finite verb with its subject pronoun.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Negative indefinite carrying the whole English negation.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Imperative particle.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Rule 104: a degree/quantity correlative expanded with a generic noun heads on the dimension word, as 'how many soever be' heads on 'many'. The clause-final 'of' is the ASV's 'accuse X of Y' frame introducing the thing accused of, so it belongs to this accusative and not to the genitive of the person, exactly as MRK.15.3 gives 'of many things' to πολλά and a bare 'him' to αὐτοῦ; the discontinuity is rule 15's, and rules 53 and 63 refuse to move the helper on the strength of English word order. Reading the stranded 'of' as the genitive's case preposition is the competing analysis and is what this verse previously took.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t013",
+        "t017"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Finite verb with supplied subject.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Genitive of the person governed by κατηγορέω, rendered by a bare object pronoun as at MRK.15.3; the frame's 'of' belongs to πόσα.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "MRK.15.4",
+  "review_notes": [
+    "Only two units moved: 'of' (t017) transferred from σου to πόσα, headed on 'many' as before. Every other edge, head and status is as the verse pass returned it, including the rule 41 unrepresented Οὐκ.",
+    "Alternative considered and rejected: patching 15.3 instead, by putting its 'of' on the verb or on αὐτοῦ. Both fail — 'of many things' reads as one phrase there, and 'of' on the genitive would produce 'him … of' crossing the ASV's own order. 15.3 also matches the chapter's uniform treatment of a complement 'of' elsewhere (15.36 'of vinegar', 15.39 'of God', 15.40 'of James' and 'of Joses', 15.43 'of Jesus'), so 15.4 is the outlier."
+  ]
+}

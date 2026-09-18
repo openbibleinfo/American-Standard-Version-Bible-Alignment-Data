@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "3208fdc3d91fb857ad3145e7659047810a0cd9021b04dcd317be4fea515e20f3",
+  "contract_version": "ot-hebrew-verse-v190",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Variant WLC.JDG.19.25.v002 is underdetermined and its base reading is among those the English permits, so no textual decision is taken in the alignment (rules 9, 53).",
+    "'her' in 'brought her forth' is added: no object morpheme stands in that clause (rule 44).",
+    "'when' goes to the written ka- before the infinitive construct rather than to the waw, a present morpheme taking its English first (rules 52, 55).",
+    "Scoped deferred investigation PARITY-151 independently resolved; evidence: data/audits/retrospective-deferred-2026-09-14/receipts/JDG.19.25.json. Original full-review coverage is carried forward only for exact unchanged units and metadata. Two fresh sessions independently agreed on the changed source/target ownership, heads and statuses. Unit notes come from the recorded assessment; their independent agreement is recorded separately. No new full-verse review or new historical review is claimed; original identity, dates and contract provenance are preserved."
+  ],
+  "ref": "JDG.19.25",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

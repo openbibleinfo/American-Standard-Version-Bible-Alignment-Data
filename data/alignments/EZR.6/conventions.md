@@ -1,0 +1,10 @@
+# Ezra 6 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- אָסְפַּרְנָא is rendered by the fixed phrase 'with all diligence' and is one unit headed on diligence (rule 30); neither 'with' nor 'all' answers to any other morpheme (6.8, 6.12, 6.13).
+- עֲבַר־נַהֲרָה, though MACULA tags both words Np, is aligned morpheme by morpheme: עֲבַר takes 'beyond' as a directional construct under rule 19's rider, נַהֲר 'River', and the Td ending 'the'. A בְּ standing before it fuses with עֲבַר under rule 30 and, as a prepositional predicate, takes the copula under rule 49 ('are beyond', 6.6); the bare construct after מִדַּת takes 'beyond' alone (6.8, 6.13).
+- Periphrastic הוה + participle: the finite הוה takes the jussive frame, subject pronoun and modal the ASV writes ('be', 'let it be', 'they may') and the participle takes the lexical verb ('given', 'offer'); rule 2 splits the two verbs (6.8, 6.9, 6.10).
+- בֵּית־אֱלָהָא with a following demonstrative דֵךְ/דְנָה → 'this house of God': the demonstrative takes 'this', the Td on אֱלָהָא is unrepresented under rule 41's closing paragraph, and no the is fronted; where no demonstrative stands, the same chain fronts the rectum's Td to the phrase's 'the' under rule 29 (6.3, 6.5, 6.18, 6.22 against 6.7, 6.8, 6.12, 6.16, 6.17).
+- מִנִּי שִׂים טְעֵם → 'I make / have made a decree': the recasting leaves מִן unrepresented and the 1cs suffix takes the subject pronoun I (rule 40). In 6.11 MACULA tags the מִן Ncmpc and the suffix Sp3ms; the form is read past the tags (rule 39) and aligned as in 6.8.
+- Aramaic חַד after an indefinite noun is an indefinite article and takes the ASV's 'a' as a present morpheme under rule 11 (6.2 'a roll'); as an ordinal in a date it takes 'first' (6.3). The rule 15 alternative, חַד unrepresented with 'a' on the noun, was considered and set aside.

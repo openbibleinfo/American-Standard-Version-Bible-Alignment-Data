@@ -1,0 +1,25 @@
+{
+  "chapter": "PSA.114",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The ASV's second *that* (before *thou turnest back*) is the one written כִּי's distributed realization over the asyndetic second colon, in which מַה־לְּךָ and כִּי are both gapped (rules 25, 55); it is not `added`. Verse 6, which repeats the same frame with no כִּי in its own Hebrew, marks its *that* `added` under rules 10 and 55. The two verses are one judgment, not a split.",
+    "גְּבָעוֹת → *The little hills* / *Ye little hills* (vv.4, 6): *little* is the ASV's specifier distinguishing hills from the mountains of the first colon, on a word the ASV writes bare elsewhere; it joins the noun's unit and is not `added`, and the head stays on *hills* (rule 31). The vocative *Ye* of v.6 and the supplied *The* of v.4 are likewise the noun's (rules 15, 36), with the article of הֶהָרִים unrepresented in the vocative verses."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all twelve candidate lemmas. Every mixed bucket is licensed by the source: the article buckets (הַ Td→Ncmsa/Ncmpa/Np) split between ordinary *The* in vv.3-4, 8 and unrepresented in vv.5-6, where the noun is a vocative and the ASV writes *O thou*/*Thou*/*Ye* on the noun under rule 36; the לְ bucket splits between the resultative הָיָה לְ of v.2, silenced by *became* on הָיָה (rule 21), and the bare לְ → *into* of v.8 where no הָיָה stands; גִּבְעָה differs only in vocative *Ye* versus *The*, with *little* placed identically inside the noun's unit and headed on *hills* in both verses (rule 31). The remaining buckets are person/number differences.",
+    "The one cross-verse pair that looks like a split is not one: the second *that* of v.5 goes to the written כִּי as its distributed realization over the gapped second colon (rules 25, 55), while the *that* of v.6 is `added` because no כִּי stands in that verse (rule 10). Recorded as a convention so a later reader does not re-litigate it.",
+    "BSB disagreements are all convention: v.2 לְ (rule 21 resultative), vv.5-6 vocative articles (rule 36 puts *O*/*Ye* on the noun), v.8 וֹ on מַעְיְנוֹ (a segmented connecting vowel the ASV renders by nothing; no textual decision taken, rule 9). None is an error.",
+    "Hedged readings left standing with their competing analyses named in the notes: v.5 לְ → *aileth* (rule 49 relational verb) versus a fused מַה־לְּ → *What aileth*; v.7 *thou* read as the vocative's rather than the imperative's, where the pronoun stands both after the verb and before the noun and rule 36's position test cannot separate them; v.7 מִלִּ → *at* as one two-preposition unit headed on מִ (rule 23) versus לְ unrepresented; v.8 supplied *into* on the bare result accusative אֲגַם (rule 33), corroborated by the parallel colon writing לְ for the same relation.",
+    "No promotion: nothing here generalises beyond what rules 25, 30, 33, 36 and 55 already say, and the corpus shown does not test the asyndetic-colon distribution of a subordinator."
+  ]
+}

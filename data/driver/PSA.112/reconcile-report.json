@@ -1,0 +1,24 @@
+{
+  "chapter": "PSA.112",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "לָעַד → 'for ever' is split morpheme by morpheme: לְ → 'for', עַד → 'ever' (rule 2), as rule 26 splits 'and for evermore' and as the corpus splits לְעוֹלָם → 'endureth for' + 'ever'. The rule-40 fusion of preposition and absolute noun into one adverb does not reach it because the ASV writes two English words, one for each morpheme. Applied identically at PSA.112.9."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all nine candidate lemmas. Every difference is source- or ASV-licensed: בְּ and לְ take whichever preposition the ASV wrote (upon/in, Unto/to); the v2 article is unrepresented because the ASV writes 'upon earth' with no 'the'; יָרֵא is a participle in v1 and a finite verb in v7–8; אִישׁ carries a rule-33 'with' only in v5; יָשָׁר, צַדִּיק and רָשָׁע differ by construction (rectum with 'of', predicate adjective, anarthrous substantive with supplied 'the').",
+    "Read the dump end to end for splits the lemma table cannot see. Recurring constructions are treated identically across verses: לָעַד → 'for'/'ever' split in v3 and v9; עֹמֶדֶת → 'endureth' in v3 and v9; 'he shall not be afraid' discontinuous around לֹא in v7 and v8; construct + substantival rectum ('The generation of the upright', 'The desire of the wicked') in v2 and v10; supplied 'the' on an anarthrous substantival adjective in v6 and v10. The five added units (v1 'That', v4 'He', v5 'it', v8 'his desire', v10 'it') each answer to no morpheme and are not folded elsewhere in a sibling verse.",
+    "Single-verse judgments with named alternatives (v6 'never' fusion and 'had in' on the resultative לְ; v10 'melt away'; v5 'Well is it with the man') are defensible and touch no other verse, so they stand.",
+    "BSB: 109/109 comparable tokens agree; nothing to adjudicate.",
+    "The note repeated in v4 and v9 restates rule 12 and needs no convention. One convention recorded for the לָעַד split, which the verse notes hedged twice."
+  ]
+}

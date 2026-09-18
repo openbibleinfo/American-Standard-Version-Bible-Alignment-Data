@@ -1,0 +1,143 @@
+{
+  "alignments": [
+    {
+      "note": "Inferential particle rendered by the ASV's *therefore*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Hortatory subjunctive: the supplied subject *us* and the imperative auxiliary *Let* are rule 7/9 helpers on the verb, discontinuous around *therefore* under rule 15. Rule 17 heads on the lexical verb *go* rather than the auxiliary, *forth* being the verb's own particle realizing the ἐξ- prefix.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Preposition realized by *unto* (rule 36).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Accusative pronoun object of πρός.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Improper preposition governing the genitive, rendered by the single English preposition *without*; rule 42's closing clause then leaves the article a bare *the*, as `πέραν τοῦ Ἰορδάνου` → *beyond the Jordan* does. Rule 101 does not move a trailing preposition here because none is written.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Article surfaces as *the* (rule 19); no case preposition rides along, the adverb having taken the whole English preposition.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Noun stands alone, its determiner being the article's under rule 21.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Displaced by the possessive: the genitive αὐτοῦ is present and free to take *his*, so rule 20 proper empties the article.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Head noun of the participial phrase.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Genitive pronoun realized by the possessive *his* (rule 20).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Circumstantial participle rendered by the English participle *bearing*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    }
+  ],
+  "ref": "HEB.13.13",
+  "review_notes": [
+    "All 11 source and 13 target ids partitioned exactly once.",
+    "s005/s006: the alternative reading would give ἔξω the whole frame *without the* under rule 42's first arm; rejected because the ASV renders the adverb by a single preposition rather than by a phrase like *on the other side*, so the article has its own *the* to anchor.",
+    "s002 head placed on *go* rather than *Let* per rule 17's refusal to choose a word merely because it is finite."
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "alignments": [
+    {
+      "note": "Construct noun of the superscription; the supplied indefinite *A* belongs to the nominal expression under rule 15 and is not `added`.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Article on the nomen rectum; the ASV writes no *the* for the phrase at all (*A Song of Ascents*), so under rule 29's closing sentence the article is unrepresented rather than fronted.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Nomen rectum takes the chain's relational *of* under rule 19, headed on the noun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Multi-word English preposition; head on the token carrying the ablative lexeme, *Out*, under rule 24.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "No article morpheme stands on מַעֲמַקִּים, so the supplied *the* determines the nominal expression and joins the noun's unit under rule 15.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Finite verb with its subject pronoun and auxiliary under rule 17; the supplied *unto* is the preposition the English verb needs to reach its own object suffix, and joins the verb's unit under rule 44's suffix clause. Unit discontinuous around *thee* by rule 25.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Object suffix keeps only the pronoun written for it under rule 18; the preposition reaching it belongs to the verb.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Vocative takes the supplied *O* into its own unit under rule 36.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "PSA.130.1",
+  "review_notes": [
+    "Superscription and body aligned as one verse packet, as supplied.",
+    "The alternative for s006/s007 would give *unto* to the suffix; rule 44's clause on a verbal object suffix reached by a supplied preposition puts it on the verb, and that reading was taken."
+  ]
+}

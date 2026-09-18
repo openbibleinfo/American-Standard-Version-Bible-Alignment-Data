@@ -1,0 +1,231 @@
+{
+  "alignments": [
+    {
+      "note": "Preposition.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Construct noun with supplied *the* (rule 29); no article morpheme present.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Compound numeral rendered by the one English ordinal *twelfth* (rule 30); no morpheme owns a part, so the first token is the display anchor. The competing reading was to give *twelfth* to the units numeral alone and mark עֶשְׂרֵה unrepresented.",
+      "source": [
+        "s003",
+        "s004"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Proper name.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Construct noun, rendered anarthrously.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Relational *of* belongs to the nomen rectum (rule 19).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "One written מָלַךְ realized twice: *began ... to reign* and the second *reigned*, one discontinuous unit under rules 25 and 34, headed on the first occurrence's lexical verb. The italic marks that no Hebrew word stands at that place, but the verb the word stands for is written in this very clause, so rule 34's carve-out governs rather than rule 20's supplied lexical verb; rule 7 makes the italic evidence and not a label.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t016",
+        "t017",
+        "t023"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Proper name.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Construct noun with supplied *the*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Rectum takes the *of* (rule 19).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Proper name.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Proper name.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Numeral.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Counted noun.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "note": "Coordinating *and* written for a clause in which no conjunction morpheme stands (rule 14's closing sentences); the ASV italicizes it.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    }
+  ],
+  "ref": "2KI.17.1",
+  "review_notes": [
+    "The accepted alignment marked the italic *reigned* `added` under rule 20's supplied-lexical-verb clause. Rule 34's test is whether the Hebrew writes the verb the word stands for anywhere in the coordination: here it does — מָלַךְ is the clause's only verb and *reigned* names it — so the word joins that verb's discontinuous unit rather than standing alone, exactly as 2KI.17.15 places the italic *went* on the written הלך.",
+    "The supplied *and* is untouched: no conjunction morpheme stands in the verse, so rule 14's closing sentences leave it `added`."
+  ]
+}

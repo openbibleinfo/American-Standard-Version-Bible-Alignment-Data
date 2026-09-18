@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "chapter": "EZK.47",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.EZK.47.8.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere ונרפו and ketiv ונרפאו are the same verb רפא in the same stem, number and tense, differing only in whether the aleph is written; the ASV's 'and the waters shall be healed' renders both identically and no note is mapped here. Underdetermined; the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.EZK.47.10.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere עמדו (consecutive perfect after והיה) and ketiv יעמדו (imperfect) both yield future sense, and the ASV's 'fishers shall stand by it' follows 'it shall come to pass' in a way either form supports. No wording or mapped note distinguishes them; underdetermined, base fallback retained."
+    },
+    {
+      "unit_id": "WLC.EZK.47.11.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The ASV reads 'the marshes thereof' — a plural noun with a plural possessive, matching the qere בצאתיו (plural with plural suffix). The ketiv בצאתו is singular, which the ASV's plural, set beside the plural 'the miry places thereof', does not render."
+    },
+    {
+      "unit_id": "WLC.EZK.47.12.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is only the number of היה ('and it shall be' vs 'and they shall be') before the pair 'the fruit thereof ... and the leaf thereof'. English 'shall be' is invariant for number, so the ASV clause renders either. The verse's only note is a hebrew_gloss on 'new fruit' and does not bear on this unit; underdetermined, base fallback retained."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "9c46c5b3e3862a77577c476bc230f40f627ec471dabfa446b42f6d578743f3de",
+  "contract_version": "nt-greek-verse-v58",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Edges are unchanged from the accepted alignment; all 34 source and 39 target IDs are partitioned exactly once.",
+    "One change: s033 πρός → 'to … ward' is raised from medium to high. Rule 67 says a frame is never split across tokens and rides with the expressed Greek preposition, and rule 78 settles the head of a discontinuous English wrap on the prepositional word (eleven 'for … sake' units to none). Giving '-ward' to ὑμᾶς would split the frame, so it is not a defensible competing analysis under rule 16.",
+    "Three articles are unrepresented for two different reasons: s001 and s009 are emptied by the genitive ἡμῶν occupying the possessive slot (rule 20), each ἡμῶν being free — the ASV spends it on 'our' and nothing else, so rule 76's availability test is satisfied; s017 stands before θεοῦ where the ASV writes no determiner at all (rule 23). In every case the case preposition 'of' rides with the noun (rule 21).",
+    "s025 χάριτι is anarthrous, so its supplied 'the' is a rule 7 helper on the noun and not evidence of an article; this is rule 51's anarthrous clause, and it does not conflict with s029 τῷ → 'the', where an article is present to take the determiner.",
+    "s031 stays medium. 'abundantly' glosses the lexeme and 'more' spells the comparative degree, which is rule 84's shape, but no corpus line for περισσοτέρως is available in this packet, so a head on 'more' is left as a live competing reading under rule 16. A chapter-level check of περισσ- glosses would settle it either way."
+  ],
+  "ref": "2CO.1.12",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

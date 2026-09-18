@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "1c9e2cd20510887056dd2c49944a0d637e4ec2e3980440f5acb507012996bb33",
+  "contract_version": "ot-hebrew-verse-v201",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 7 source IDs and 8 target tokens are partitioned exactly once; the two `הָלַל` imperatives are separate morphemes and each takes the word written for it, only the first carrying a subject pronoun.",
+    "The *ye* stands immediately after the first imperative and before no vocative noun, so rule 36's word-order test gives it to the verb under rule 17; the vocative `נֶפֶשׁ` takes its own supplied *O* and is discontinuous around the suffix's *my* under rule 25.",
+    "`אֵת` is `unrepresented`: the ASV writes the object bare and spends no word on the object relation (rule 16).",
+    "The marginal note 'Hebrew Hallelujah' was read and set aside; the printed text governs (rule 38)."
+  ],
+  "ref": "PSA.146.1",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,191 @@
+{
+  "alignments": [
+    {
+      "note": "Construct noun takes its own word; supplied indefinite article joins the noun under rule 15.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Article on the rectum; ASV writes no 'the' for the phrase (rule 29).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rectum takes the chain's 'of' (rule 19).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Authorship lamed rendered 'of'.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "לוּלֵי 'if not' takes the discontinuous 'If ... not' (rule 25). Competing reading: fold the whole 'If it had not been' into the particle as a fixed formula under rule 30; I kept the copula with the predicate under rule 20 and left the cleft dummy added.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t010"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Cleft/impersonal 'it' in a verbless clause; no morpheme licenses it (rule 20).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Jehovah is the predicate of the verbless לוּלֵי clause and takes the construction-supplied copula 'had been' (rule 20), discontinuous around 'not'.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Written relative takes 'who'.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "לְ 'for us' recast as 'on our side'; the fixed phrase belongs to the preposition, discontinuous around the suffix's 'our', headed on the content word 'side' (rule 24).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Suffix takes the possessive the recasting writes for it (rule 18).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Jussive takes the volitive frame 'Let ... say' (rule 17), discontinuous around subject and particle.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "נָא rendered 'now'.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "PSA.124.1",
+  "review_notes": [
+    "Verbless לוּלֵי clause with a written relative: 'If ... not' to the particle, copula to the predicate name, cleft 'it' added, 'who' to שֶׁ."
+  ]
+}

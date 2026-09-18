@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "e6207d34f5123cbd6d2a1e5e8e7ad9e8c5d36fee0f1604d8b2db2cd909205e40",
+  "contract_version": "ot-hebrew-verse-v218",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "Corrected: אֶל תַּחַת → even under was fused as one unit; under is the ASV's word for תַּחַת in particular, so rule 30's one-rendering condition is unmet and rule 2 splits it, אֶל taking the appositional even and תַּחַת under.",
+    "קֹדֶשׁ הַקְּדָשִׁים → the most holy place split as holy place / the / most; competing reading fuses the chain as noncompositional.",
+    "Scoped LS02 correction independently confirmed; evidence: data/audits/retrospective-new-chapters-2026-09-12/receipts/2CH.5.7.json. Original full-review coverage is carried forward only for unchanged content. The scoped assessment and independent confirmation cover the changed candidate units and their notes; no new full-verse review is claimed. Original reviewer, date fields and contract provenance are preserved; original receipt: data/audits/retrospective-new-chapters-2026-09-12/before/2CH.5.7/review.json."
+  ],
+  "ref": "2CH.5.7",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

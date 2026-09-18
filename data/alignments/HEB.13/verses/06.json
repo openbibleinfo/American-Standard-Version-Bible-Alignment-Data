@@ -1,0 +1,176 @@
+{
+  "alignments": [
+    {
+      "note": "Consecutive ὥστε rendered by the two-word English introducer *So that*; the complementizer is part of the conjunction's own English realization under rule 40, headed on *So*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The participle θαρροῦντας is rendered adverbially as *with good courage*. Rule 91's operational test puts the head on *courage*, the word that glosses the θαρρ- lexeme; *with* and *good* are the supplied frame. A head on *with* would rest only on the word standing first, which rule 17 forbids.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Accusative subject of the infinitive, expressed in Greek and written *we* in English, so rule 74's supplied-subject case does not arise.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The infinitive is rendered by the bare finite-looking *say*; the ASV writes no infinitival *to* here, ὥστε having already taken *So that*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Κύριος is anarthrous, so no article competes and the supplied determiner *The* is an ordinary rule 7 helper on the noun under rule 51's anarthrous clause. Rule 63 keeps the copula off this subject noun.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Possessive dative ἐμοί rendered by the possessive *my*, as rule 20's possessive-dative case has it; no article stands here for it to displace.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Verbless clause with a noun subject, so rule 63 puts the supplied copula on the predicate nominal rather than on Κύριος: *is … helper*, discontinuous across *my* under rule 15, headed on *helper*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Ordinary negative aligned to *not*. The variant unit SBLGNT.HEB.13.6.v003 is underdetermined and its fallback remains among the compatible readings, so rule 97 is not in question.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "The inflected future takes its English subject and auxiliary under rule 9, headed on the lexical verb *fear*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Interrogative pronoun τί as the object of ποιήσει, rendered *What*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Future indicative with its English auxiliary, discontinuous across the inverted subject *man* under rule 15, headed on the lexical verb *do*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Dative pronoun rendered *unto me*; the case preposition rides with the pronoun under rules 21 and 36.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Anarthrous subject noun, bare *man* in English.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "HEB.13.6",
+  "review_notes": [
+    "All 13 source and 22 target IDs are partitioned exactly once.",
+    "The verbless clause Κύριος ἐμοὶ βοηθός has a noun subject, so rule 63 (not rule 53's pronoun exception) sends the supplied *is* to the predicate nominal βοηθός.",
+    "s002's head on *courage* rather than *with* follows rule 91's operational test; the competing reading is named in the unit's note.",
+    "The variant unit is underdetermined with the fallback still compatible, so no textual decision was made inside the file (rule 12)."
+  ]
+}

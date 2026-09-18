@@ -1,0 +1,224 @@
+{
+  "alignments": [
+    {
+      "confidence": "high",
+      "note": "Ordinary negative rendered by *Not*; no negative indefinite stands in the clause, so rules 41 and 59 do not apply.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "confidence": "high",
+      "note": "The ASV writes the complementizer out, so rule 43's unrepresented case does not arise. The pair `οὐχ ὅτι` splits under rule 2 rather than fusing: each token has its own English word, which is rule 39's test.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "confidence": "high",
+      "note": "Support-verb rendering: *have* carries no part of the lexeme, so rules 17 and 91 head the unit on *lordship*, the word the ASV spends on this verb. The subject *we* is a rule 9 helper. The unit stays `aligned` under rule 39's test, since *lordship* answers to `κυριεύω`.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "confidence": "high",
+      "note": "Genitive pronoun realized by the possessive *your*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 20 displacement: the genitive `ὑμῶν` is free and occupies the English determiner slot, so the article realizes nothing. Rule 76's second arm does not apply, that pronoun being spent on no other role.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "medium",
+      "note": "With the determiner slot occupied by the possessive, rule 20's own example (`τοῦ θελήματος αὐτοῦ` → *of his will*) keeps the case preposition on the noun, discontinuously under rule 15. Attaching *over* to `κυριεύομεν` as a phrasal verb remains defensible, but rule 36 refuses to read a preposition off the verb even where English idiom makes it phrasal, as it does for *bear witness of the light*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "confidence": "high",
+      "note": "Adversative conjunction rendered *but*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "confidence": "high",
+      "note": "Predicate nominal rendered by a single noun.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "confidence": "high",
+      "note": "Expressed copula keeps its own English word; rules 53, 63 and 68 govern only supplied copulas.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 20 displacement again: `ὑμῶν` supplies *your* before *joy*, leaving the article nothing.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 21: with the determiner slot occupied by the possessive, the case preposition *of* rides with the noun rather than being left as a bare *of* on the article, exactly as rule 20 states for *of his will*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "confidence": "high",
+      "note": "Genitive pronoun rendered by the possessive *your*; the packet gloss *with you* is not the ASV's wording.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 23 by way of rule 21's determinerless clause: the ASV writes a bare *in faith*, supplying no determiner, demonstrative, indefinite or possessive, so the article has no English word to anchor.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "Postpositive `γάρ` rendered *for*, reordered to clause-initial position under rule 15.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 21's determinerless case: with the article unrepresented, the case-realizing *in* stays with the noun it governs and is not left bare on the article.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 9: the supplied subject *ye* rides with the verb, and rule 17 heads the unit on *stand*, the word realizing `ἵστημι`, with *fast* as the verb's own intensifying particle rather than a separable target.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019",
+        "t020"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "2CO.1.24",
+  "review_notes": [
+    "Reviewed unchanged. The partition is complete and disjoint: all 16 source IDs and all 20 target IDs are used exactly once, every `aligned` unit has nonempty arrays, and every head is a member of its own array.",
+    "Both genitive `ὑμῶν` tokens take the ASV's possessive and empty their articles under rule 20 proper. Neither pronoun is spent on another syntactic role, so rule 76's availability arm does not apply, and rule 51's supplied-determiner-as-helper clause does not either, since it is scoped to anarthrous Greek.",
+    "The two case-marking prepositions *over* and *of* ride with their nouns rather than with an article, because in each phrase the determiner slot is already occupied and rule 21 forbids leaving a bare *of* or *over* on the article. Rule 20's `τοῦ θελήματος αὐτοῦ` → *of his will* is the governing precedent for both.",
+    "`τῇ` before `πίστει` is the plain determinerless case of rules 21 and 23, distinct from the two displaced articles: there no source word competes for the slot because the ASV supplies no determiner at all.",
+    "The only genuinely contested unit is *over* on `πίστεως`, recorded `medium` under rule 16. Reading it as part of an English phrasal *have lordship over* stays defensible; rule 36's refusal to read a preposition off a phrasal verb is what decides it against that reading, and no Greek preposition is expressed for it to answer to.",
+    "`οὐχ ὅτι` is split rather than fused. Rule 39's `noncompositional` cluster is scoped to a particle fused with the negative `μή` and rendered by one English word, and here the ASV writes a separate word for each token.",
+    "The alternative-rendering note (*Or, your faith*) bears on the sense of the final clause, not on the ASV wording aligned here; rule 12 keeps textual decisions out of the alignment file.",
+    "No unit here is a candidate for rule 73: the Greek expresses a verb alone, and the ASV expands rather than collapses it, which is rule 91's inverse case."
+  ]
+}

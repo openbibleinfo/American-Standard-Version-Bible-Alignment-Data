@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "chapter": "EPH.5",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.EPH.5.2.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'even as Christ also loved you' renders ὑμᾶς; the base ἡμᾶς would give 'loved us'."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.5.2.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'and gave himself up for us' renders ἡμῶν, and its note 'Some ancient authorities read you' maps explicitly to WH's ὑμῶν."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.5.3.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The readings differ only in the order of ἀκαθαρσία and πᾶσα; English fixes the quantifier before the noun, so ASV 'all uncleanness' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.5.4.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'which are not befitting' fits both the relative clause ἃ οὐκ ἀνῆκεν and RP's substantival participle τὰ οὐκ ἀνήκοντα, which English also renders with a relative."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.5.5.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'For this ye know of a surety' renders two verbs of knowing, ἴστε and γινώσκοντες; RP's periphrastic ἐστε γινώσκοντες is a single 'ye know' and leaves nothing for the unitalicized 'of a surety'."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.5.5.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The readings differ only in the gender of the relative, ὅ or ὅς; English takes 'who' from the personal antecedent 'covetous man' either way."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.5.9.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'for the fruit of the light' renders φωτός; RP's πνεύματος would give 'the fruit of the Spirit'."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.5.15.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Look therefore carefully how ye walk' puts ἀκριβῶς with βλέπετε, matching the base order; the RP order attaches it to the walking, as in 'see how circumspectly ye walk'."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.5.17.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'but understand what the will of the Lord is' is imperative, rendering συνίετε; RP's participle συνιέντες would give 'understanding'."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.5.19.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The readings differ only in ἐν before ψαλμοῖς; English supplies a preposition for the bare dative too, so ASV 'in psalms' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.5.19.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The readings differ only in ἐν before τῇ καρδίᾳ; English supplies a preposition for the bare dative too, so ASV 'with your heart' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.5.22.v012",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Wives, be in subjection unto your own husbands' italicizes 'be in subjection', marking a supplied verb; both RP's ὑποτάσσεσθε and Treg's ὑποτασσέσθωσαν would supply one in the source."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.5.23.v013",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'being himself the saviour of the body' italicizes 'being', so no ἐστιν stood in the source, and it has no connective for RP's added καί."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.5.24.v014",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ὡς and ὥσπερ are the comparative particle with and without the intensive -περ; ASV 'But as the church is subject to Christ' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.5.24.v015",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'be to their husbands' renders the bare article τοῖς with a possessive, as it does at 5:33 'her husband'; RP's ἰδίοις would add 'own', which ASV writes wherever ἴδιος stands (5:22, 5:28)."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.5.25.v016",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Husbands, love your wives' has no 'own'; RP's ἑαυτῶν would give 'your own wives', as ASV renders ἑαυτῶν at 5:28."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.5.27.v017",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'present the church to himself a glorious church' takes τὴν ἐκκλησίαν as the object and italicizes the predicate 'church'; RP's αὐτήν would furnish the object pronoun and leave the predicate noun unsupplied."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.5.28.v018",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Even so ought husbands also to love' has an unitalicized 'also' rendering καί, which RP omits."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.5.29.v019",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'even as Christ also the church' renders Χριστός; RP's κύριος would give 'the Lord'."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.5.30.v020",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'because we are members of his body' ends the verse there; RP's added ἐκ τῆς σαρκὸς αὐτοῦ καὶ ἐκ τῶν ὀστέων αὐτοῦ would give 'of his flesh and of his bones'."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.5.31.v021",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The readings differ only in the article τόν before πατέρα; ASV 'his father' takes its possessive from the kinship noun either way."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.5.31.v022",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'his father' is unitalicized, but ASV renders a bare article with an unitalicized possessive in this chapter (5:24 'their husbands', 5:33 'her husband'), so it does not show whether RP's αὐτοῦ stood in the source."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.5.31.v023",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The readings differ only in the article τήν before μητέρα; ASV 'and mother' is identical either way."
+    },
+    {
+      "unit_id": "SBLGNT.EPH.5.31.v024",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "προσκολληθήσεται takes its complement as a bare dative or with πρός; English 'cleave to his wife' needs the same 'to' for either."
+    }
+  ]
+}

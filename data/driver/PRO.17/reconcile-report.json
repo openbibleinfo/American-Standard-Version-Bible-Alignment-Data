@@ -1,0 +1,31 @@
+{
+  "chapter": "PRO.17",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The chapter places the English 'hath' four different ways and each is licensed by what stands in its own colon, so a later reader should not read the set as a split: PRO.17.20a leaves it added, because the colon writes only 'iqqesh-lev, a construct chain of quality, with no hayah, no possessive preposition, no suffix and no verb the word renders; PRO.17.20b gives it to the bet that makes its clause possessive; PRO.17.8 gives it to the noun of possession ba'al, whose own lexeme it names; and PRO.17.21 and PRO.17.27 give it to the verb the ASV has itself rendered by it. Run rule 43's subtraction colon by colon rather than reading the chapter's other placements across.",
+    "Where a Proverbs colon is recast as a comparison, the ASV's italic 'as' joins the predicate or nominal it construes (rule 33) and any supplied 'when' beside it is its own added unit (rule 55): PRO.17.14 gives 'as' to the participial predicate poter and leaves 'when' added, PRO.17.8 gives 'as' to the predicate nominal 'even, and PRO.17.28 gives it to the predicate participle navon. The two words are placed separately because the Hebrew writes no conjunction for the second; the whole-expression reading of 'as when' is named in PRO.17.14's own note.",
+    "A preposition on a construct noun is fused in one verse of this chapter and split in two others, and rule 30's condition is what decides it rather than the lemma: PRO.17.14's lifne is one word 'before' and fuses, while PRO.17.18 writes 'in' for the preposition and 'the presence' for panim and PRO.17.24 writes 'before' for 'et and 'the face' for pene, so each morpheme has a rendering of its own and rule 2 splits them. Count the ASV's words against the morphemes before reading the three as inconsistent."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v179",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read the 36-lemma candidate table and then the whole verse dump end to end, since the table is keyed by source lemma and is blind to this chapter's nine added units. No cross-verse split found; patches empty.",
+    "Function-morpheme candidates (waw, lamed, bet, article, hu, lo) are the ASV rendering one morpheme differently in different contexts. Every unrepresented lamed or bet is a bare-object or possessive-determiner recasting (17.5, 17.7 twice, 17.12, 17.21, 17.26) under rule 40; every unrepresented article is a phrase the ASV writes indefinitely or bare (17.3 twice, 17.8, 17.14, 17.17) under rule 29.",
+    "The English 'hath' is placed four ways in this chapter and none of them is a split: added in 17.20a, where the colon writes only a construct chain of quality and nothing makes it possessive; on the bet in 17.20b, which is rule 43's 'asher bo mum shape; on the noun of possession ba'al in 17.8, which is rule 43's own carve-out; and on the verb the word renders in 17.21 and 17.27. Rule 43's subtraction test returns each of these.",
+    "A preposition on a construct noun is fused in 17.14 (lifne to 'before') and split in 17.18 ('in' plus 'the presence') and 17.24 ('et-pene to 'before' plus 'the face'). That is rule 30's one-rendering condition met in one verse and unmet in the other two, not one construction analysed two ways.",
+    "Supplied English is uniform across the chapter: the coordinator 'And' is added in all three asyndetic cola (17.4, 17.5, 17.18); the subordinator 'when' is added in all three participial clauses (17.14, 17.28 twice); the italic comparative 'as' joins the predicate it construes in all three places (17.8, 17.14, 17.28). Supplied possessives divide correctly: 'their' is added in 17.26, where yosher is written and holds its own word (rule 18's closing sentence), while the 'his' of 'holdeth his peace' (17.28) and the 'her whelps' of shakkul (17.12) stand inside one morpheme's own multi-word rendering and belong to it (rules 31 and 44).",
+    "A supplied preposition before a bare Hebrew object goes to the verb in 17.2 ('have part in') and to the noun in 17.10 ('into a fool'), because in 17.10 the governing infinitive is itself rendered as the noun 'stripes' and no English verb's valency licenses the word. Both units name the competing reading, so the difference is source-licensed and recorded, not a split.",
+    "The large-source-unit candidate, 17.8 unit 9 ('el kol 'asher to 'Whithersoever'), is genuinely indivisible: one English word carries the direction, the universal and the relation, exactly as 'whatsoever' does for kol 'asher in rule 35. The head choice against the governing preposition is named in the unit's note.",
+    "BSB: all eleven disagreements are the documented convention difference. Six are prepositions or articles the ASV's recasting leaves unrendered (rules 40 and 29), one is the deictic zeh of lammah zeh, which rule 22's own limit marks unrepresented where the ASV writes no word for it, and one is the suffix on leshono, which the ASV renders 'a perverse tongue'. None is a genuine error and no accepted edge was changed.",
+    "Textual decisions are closed and correctly carried: 17.13's variant is underdetermined with the base reading in the projection, and 17.27's is selected to r01, whose two tokens are aligned as ordinary source text. Neither carries a FALLBACK EXCLUDED mark, so rule 53 does not apply.",
+    "Promotion considered and declined: the possessive inside a fixed English verbal idiom (17.28) is already covered by rules 31 and 44 reading a morpheme's rendering as one expression, and rule 18's closing sentence governs a possessive standing on a written noun, which that is not. Nothing else here generalises beyond a rule the contract already states."
+  ]
+}

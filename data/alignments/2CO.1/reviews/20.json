@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "1824beb1ffdd3aabf7cf4c781e98e862d97482b0d292e43eca3fae6fab12f8d0",
+  "contract_version": "nt-greek-verse-v58",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed and returned unchanged in structure, heads and statuses; only two notes were expanded to name the competing readings that justify their medium confidence.",
+    "Partition verified: s001-s020 and t001-t028 each appear exactly once, every head is a member of its own array, and the single unrepresented unit (s015) has an empty target and null target head.",
+    "Both supplied copulas ('is' at t012 and t019) sit on the prepositional predicates ἐν and δι' under rule 53, which refuses to read a copula off English word order, and rule 63 keeps the first off the noun-phrase subject τὸ Ναί. s005 stays medium because τὸ Ναί could instead be read as a predicate nominal with an unexpressed subject, which rule 68 would give the copula to; s011 stays medium because δι' αὐτοῦ and πρὸς δόξαν both stand in the clause.",
+    "The clause-initial 'be' (t005) stays on ὅσαι as rule 53's adjectival-predicate copula; medium records the attributive reading of ὅσαι, on which the clause would have no predicate and rule 56 would send 'be' to 'the promises'.",
+    "Both supplied 'the' determiners (t006, t023) stand before anarthrous Greek nouns, so rule 51's helper clause applies and no article competes. The one Greek article whose noun the ASV leaves bare is τῷ before θεῷ, and rule 21's own worked example τῷ θεῷ → 'to God' settles it: article unrepresented, case preposition on the noun.",
+    "'how many soever' is headed on 'many' per rule 17. No ἄν or ἐάν stands in this verse, so rules 50 and 72 are not in question and the whole phrase, '-soever' included, is ὅσαι's own."
+  ],
+  "ref": "2CO.1.20",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

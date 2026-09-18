@@ -1,0 +1,87 @@
+{
+  "ref": "PHP.1.3",
+  "alignments": [
+    {
+      "source": ["s001"],
+      "source_head": "s001",
+      "target": ["t001", "t002"],
+      "target_head": "t002",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Inflected verb carries its English subject; head is the lexical verb per rules 9 and 17."
+    },
+    {
+      "source": ["s002"],
+      "source_head": "s002",
+      "target": [],
+      "target_head": null,
+      "status": "unrepresented",
+      "confidence": "high",
+      "note": "Article displaced by the possessive in my God, per rule 20."
+    },
+    {
+      "source": ["s003"],
+      "source_head": "s003",
+      "target": ["t004"],
+      "target_head": "t004",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s004"],
+      "source_head": "s004",
+      "target": ["t003"],
+      "target_head": "t003",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Genitive pronoun takes the possessive my, per rule 20."
+    },
+    {
+      "source": ["s005"],
+      "source_head": "s005",
+      "target": ["t005"],
+      "target_head": "t005",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s006"],
+      "source_head": "s006",
+      "target": ["t006"],
+      "target_head": "t006",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s007"],
+      "source_head": "s007",
+      "target": ["t007"],
+      "target_head": "t007",
+      "status": "aligned",
+      "confidence": "medium",
+      "note": "The article's determiner slot is filled by the possessive my, which has no other Greek licenser; treating it as unrepresented with my added remains defensible."
+    },
+    {
+      "source": ["s008"],
+      "source_head": "s008",
+      "target": ["t008"],
+      "target_head": "t008",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s009"],
+      "source_head": "s009",
+      "target": ["t009", "t010"],
+      "target_head": "t010",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Objective genitive; of is the pronoun's helper under rule 7 and the noun heads it under rule 17."
+    }
+  ],
+  "review_notes": []
+}

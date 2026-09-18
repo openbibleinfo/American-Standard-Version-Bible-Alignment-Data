@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "chapter": "JER.8",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JER.8.1.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Both readings are the same hiphil verb of yatsa' ('they shall bring out'), differing only in the defective spelling and the prefixed waw of the ketiv; a waw-consecutive after the temporal opening 'At that time' would be rendered exactly as the ASV renders it, so the absent English 'and' does not distinguish them. No ASV note is mapped here. Underdetermined; the qere base carries the projection."
+    },
+    {
+      "unit_id": "WLC.JER.8.6.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere and ketiv are metathesized spellings of the same noun with suffix, 'their course', which the ASV renders 'every one turneth to his course' either way. The only note on the verse is classed alternative_rendering ('Or, turneth away in his course') and concerns the English wording of the verb, not the written form of this lemma, so it cannot decide a reading. Underdetermined; the qere base carries the projection."
+    },
+    {
+      "unit_id": "WLC.JER.8.7.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The two readings are different words, not spellings: the qere sis is the bird 'swallow', the ketiv sus is 'horse'. The ASV reads 'and the turtle-dove and the swallow and the crane observe the time of their coming', naming a bird in a list of birds, which renders the qere and excludes the ketiv."
+    }
+  ]
+}

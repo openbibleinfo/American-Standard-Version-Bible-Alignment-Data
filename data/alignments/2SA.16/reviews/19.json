@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "fddcadf3dc535a773f712ff60dd4c60919907c5450189312f60998c622b75272",
+  "contract_version": "ot-hebrew-verse-v217",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "The three לִפְנֵי phrases are split into preposition ('in') and noun ('presence') under rule 2, since the ASV writes a word for each morpheme; the fused reading is named as competing in each note.",
+    "Italic 'I serve' read as the gapped verb realized twice (rule 34) rather than added.",
+    "Scoped deferred investigation PARITY-149 independently resolved; evidence: data/audits/retrospective-deferred-2026-09-14/receipts/2SA.16.19.json. Original full-review coverage is carried forward only for exact unchanged units and metadata. Two fresh sessions independently agreed on the changed source/target ownership, heads and statuses. Unit notes come from the recorded assessment; their independent agreement is recorded separately. No new full-verse review or new historical review is claimed; original identity, dates and contract provenance are preserved."
+  ],
+  "ref": "2SA.16.19",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

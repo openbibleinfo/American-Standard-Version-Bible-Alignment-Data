@@ -1,0 +1,11 @@
+{
+  "alignment_sha256": "6b34ac5c83899e821944219f45f85274bfc6c08ab5ff2f4f4ac92896029cc548",
+  "contract_version": "ot-hebrew-verse-v93",
+  "notes": [
+    "Reconciliation by claude-code — corrected",
+    "Cross-verse head consistency. The chapter heads a Hebrew class noun rendered by an ASV specifier plus an English class noun on the class noun at 4.10 (שַׁחַל to 'the fierce lion', כְּפִיר to 'the young lions'), 4.11 (לַיִשׁ to 'The old lion') and 4.21 (יֶתֶר to 'tent cord'), but headed אֱנוֹשׁ to 'mortal man' on the specifier here, in the same verse where גֶּבֶר to 'a man' heads on 'man'. Nothing in the source licenses the difference: 'man' is the word that realizes both Hebrew lexemes, and 'mortal' is the ASV's disambiguating specifier, exactly as 'sea' is in rule 31's תַּנִּין. Only the target head of the s002 unit changes; every edge is as the verse pass returned it."
+  ],
+  "ref": "JOB.4.17",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

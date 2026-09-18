@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "chapter": "2CO.8",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.2CO.8.2.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Neuter τὸ πλοῦτος and masculine τὸν πλοῦτον differ only in gender; both give ASV 'the riches of their liberality'. The mapped note is a greek_gloss on ἁπλότης ('Greek singleness'), not on this word's form, so nothing in the English distinguishes the readings."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.8.3.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "παρὰ δύναμιν and ὑπὲρ δύναμιν both mean 'beyond their power', which is exactly what ASV prints; the English preposition-free rendering 'beyond' cannot separate the two."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.8.7.v003",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'in your love to us', i.e. ὑμῶν ... ἐν ἡμῖν, and its mapped textual_variant note assigns the other direction to the margin: 'Some ancient authorities read our love to you' = ἡμῶν ἐν ὑμῖν. Text and note together select r01."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.8.12.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's 'according as a man hath' supplies a subject that English requires for the impersonal ἐὰν ἔχῃ just as readily as it renders an explicit τις; no note is mapped here, so the addition is not distinguished."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.8.13.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's 'and ye distressed' is the ordinary coordination of the second clause and would stand with or without δέ after ὑμῖν; nothing in the English marks the connective."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.8.16.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the participle as a present, 'who putteth the same earnest care ... into the heart of Titus'. The aorist δόντι would give 'who put'; the present tense in the English answers to present διδόντι."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.8.19.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV expands the phrase to 'in the matter of this grace', a periphrasis that neither σύν nor ἐν excludes — 'with us' already renders συνέκδημος ἡμῶν, so the surviving 'in the matter of' does not fix the preposition governing τῇ χάριτι."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.8.19.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV prints 'to the glory of the Lord' with no 'himself'. Leaving an intensive αὐτοῦ unrendered beside τοῦ κυρίου is a rendering choice rather than a textual signal, and no note is mapped to the unit, so the omission does not settle it."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.8.21.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV has a finite clause with the connective: 'for we take thought for things honorable'. That is προνοοῦμεν γάρ; the RP participle προνοούμενοι carries no γάρ and would continue the preceding sentence rather than open one."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.8.24.v010",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV renders an imperative, 'Show ye therefore unto them', which is ἐνδείξασθε; the participle ἐνδεικνύμενοι would give 'showing'. The mapped note is classed alternative_rendering and concerns only the placement of 'unto them', so it does not bear on the verb."
+    }
+  ]
+}

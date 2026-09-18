@@ -1,0 +1,213 @@
+{
+  "alignments": [
+    {
+      "note": "Verbless clause: the construction-supplied *It shall be* joins the predicate nominal (rule 20) and the indefinite *a* belongs to it (rule 15). Unit discontinuous around *perpetual* (rule 25).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t003",
+        "t004",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Nomen rectum rendered attributively as *perpetual* (rule 28).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "לְ rendered *throughout* (rule 11).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Noun takes its own word.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Suffix takes the possessive *your* (rule 18).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "בְ rendered *in*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "כֹּל rendered *all*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Noun takes its own word.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Suffix takes the possessive *your* (rule 18).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "כֹּל unrendered: the ASV recasts the clause's negation onto the correlative pair and writes no separate quantifier for this כֹּל (rule 15's negation case, with rule 22).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun takes its own word.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "The waw takes only the closing *nor* of the correlative pair, the present negative לֹא being what the opening *neither* says (rule 14).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Second כֹּל unrendered on the same grounds as the first.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun takes its own word.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "The present negative takes the opening *neither* of the *neither … nor* pair (rule 14).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Subject pronoun and auxiliary join the verb, headed on *eat* (rules 17, 24).",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "The subordinating *that* is supplied for a clause whose Hebrew writes no אֲשֶׁר, no כִּי and no waw at its head; no morpheme licenses it, so it is added under rule 55. Folding it into the negative or the verb was rejected for the reason rule 42 gives about a surplus connective.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "LEV.3.17",
+  "review_notes": [
+    "*neither … nor* is split between the written לֹא and the waw under rule 14's correlative limit rather than given whole to the waw.",
+    "Both כֹּל tokens go unrepresented, the ASV writing no *any* and carrying the quantification inside the correlative negation."
+  ]
+}

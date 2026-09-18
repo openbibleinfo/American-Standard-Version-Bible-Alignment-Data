@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "042a103c926df55e632be42347e26b11124a73d32ce49f24bc3a474872e531e6",
+  "contract_version": "ot-hebrew-verse-v210",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: 23 source, 20 target, each once.",
+    "Flagged large-source unit (s002+s005+s006 → *displeased*) retained: rule 40 rules `אִם־רַע בְּעֵינֶיךָ` → *it displease thee* exactly this way, the governed noun keeping no English of its own so rule 30's one-rendering condition is met. Splitting it would leave בְּ and עַיִן `unrepresented` beside a verb holding the whole word, which rules 30 and 22 forbid.",
+    "שְׁמוּאֵל keeps only its own word: the ASV writes no *of* for the chain, the fused idiom reaching it as a direct object.",
+    "Scoped LS18 correction independently confirmed; evidence: data/audits/retrospective-new-chapters-2026-09-12/receipts/1SA.8.6.json. Original full-review coverage is carried forward only for unchanged content. The scoped assessment and independent confirmation cover the changed candidate units and their notes; no new full-verse review is claimed. Original reviewer, date fields and contract provenance are preserved; original receipt: data/audits/retrospective-new-chapters-2026-09-12/before/1SA.8.6/review.json. The exact approved explanatory review_notes amendment is archived in the scoped receipt and was included in the independently confirmed alignment hash."
+  ],
+  "ref": "1SA.8.6",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

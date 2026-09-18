@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "a2d8e9e950a8eb9a7d77d8537740e8972286f01efe76f3aba1bd4f49443cb2c5",
+  "contract_version": "nt-greek-verse-v64",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed and left unchanged: all 6 source and 13 target ids are partitioned exactly once, every unit is aligned with heads inside their arrays, and no unit needs further splitting.",
+    "The ἐνώπιον frame is the only materially contested unit. Head: rule 95 classifies ἐνώπιον as improper (governs one case only, forms no verbal compound) notwithstanding its PREP morph tag, so rule 71 settles the frame on its lexical noun *sight* and rule 67's still-open division for a proper preposition's frame does not apply.",
+    "Edge of that unit: the trailing *of* (t006) stays on the adverb. The competing reading would follow JHN.20.30's shape (`ἐνώπιον τῶν μαθητῶν` → *in the presence* on the adverb, *of the* on the article), but that reading needs a Greek article to carry the determiner, and none stands here. Rule 101 makes rule 21's determiner the only thing that moves the preposition, and records that no corpus unit puts such a trailing preposition on a bare governed noun; REV.14.10 keeps the trailing *of* on ἐνώπιον even with an article following.",
+    "Since the Greek is anarthrous before κυρίου, the supplied *the* (t007) is rule 51's anarthrous-clause helper on the noun, headed on *Lord* per rule 17 (a source noun rendered *of + noun* heads on the noun).",
+    "SBLGNT.JAS.4.10.v007 is underdetermined and carries no FALLBACK EXCLUDED mark, so rule 97 is not in play; the base fallback is compatible with the ASV's English and rule 12 forbids re-deciding it here. If a later decision selected an articular reading covering s003, this unit would need revisiting under rules 21 and 101."
+  ],
+  "ref": "JAS.4.10",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

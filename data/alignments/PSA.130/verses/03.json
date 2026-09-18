@@ -1,0 +1,107 @@
+{
+  "alignments": [
+    {
+      "note": "Conditional particle takes the *If* written for it.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Object noun, rendered bare.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Finite verb with its subject pronoun and modal auxiliary under rule 17; unit discontinuous around the vocative *Jehovah* by rule 25, headed on the lexical verb.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The printed text reads *Jehovah*; the marginal gloss *Hebrew Jah* was read and set aside under rule 38.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "אֲדֹנָ takes *O Lord* as its own unit under rule 57, the vocative *O* joining the noun under rule 36.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The ASV writes no possessive in the title; the suffix is unrepresented under rule 57.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Interrogative pronoun with its own English word.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Finite verb with its modal auxiliary under rule 17, headed on the lexical verb.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    }
+  ],
+  "ref": "PSA.130.3",
+  "review_notes": [
+    "No interrogative particle stands in the clause, so the modal *could* is the verb's own under rule 17's first limit.",
+    "The vocative יָהּ is rendered *Jehovah* with no supplied *O*."
+  ]
+}

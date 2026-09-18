@@ -1,0 +1,29 @@
+{
+  "chapter": "MAT.25",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "εὐθέως at the end of MAT.25.15 is a rule 37 versification split between the projection and the ASV: the token stands in 25:15 and its English is the opening 'Straightway' of 25:16. The token is its own `unrepresented` unit in 25:15 and 'Straightway' is `added` in 25:16, each naming the other verse. Do not stretch a nearby English phrase over the token to avoid an empty target. A reference comparison reports it as a disagreement and that report is not a correction.",
+    "ἐφ᾽ ὅσον → 'Inasmuch as' (25:40, 25:45) is one `aligned` unit, source head on ὅσον and target head on 'Inasmuch'. Rule 94's precondition is met by its spelt-apart-lexeme clause: 'inasmuch as' is one fixed English clause-introducer whose parts answer to both tokens, 'in-' to the preposition and 'as much as' to the correlative. Do not split it across the two and do not reach for `noncompositional`.",
+    "In the verbless relative ὁ τὰ δύο (τάλαντα) at 25:17 and 25:22 the ASV supplies the lexical verb 'received'. Under rules 62 and 96 it rides with the predicate nominal — δύο where no noun is expressed, τάλαντα where one is — discontinuously under rule 15, and never with the determiner-carrying article; it is not `added`. Where the participle λαβών or εἰληφώς is expressed (25:16, 25:18, 25:20, 25:24) nothing is supplied and rule 32's ordinary split applies.",
+    "ποτίζω rendered 'gave … drink' (25:35, 25:37, 25:42) is one `aligned` unit headed on 'drink' under rule 91: 'drink' glosses the lexeme and 'gave' is the empty support verb. Any supplied object rides inside the unit under rule 74's contrast, discontinuously under rule 15.",
+    "τῶν ἐλαχίστων is analysed differently at 25:40 and 25:45 because the ASV differs, not because the chapter split. 25:40 writes a second 'these' for the article, which takes it under rule 60; 25:45 writes only one, already spent on τούτων, so its article is `unrepresented` under rules 38 and 23. The appositional 'even*' at 25:40 is its own `added` unit under rule 105's substantival-article arm, the article keeping only its own determiner and nothing else."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v67",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 46 verses end to end rather than relying on the candidate table, which is keyed by source lemma and so cannot see this chapter's four `added` units or its three folded supplied-word decisions. No construction is analysed two ways without the Greek or the ASV licensing the difference. No patches.",
+    "Cleared near-misses. (a) A substantival ὁ splits from its participle at 25:16, 25:18, 25:20, 25:24, 25:28 and 25:29, and keeps the discontinuous 'he … that' at 25:10, 25:17 and 25:22 — rule 32 against its own contrast, turning on whether a participle stands. (b) ὥσπερ takes the whole supplied frame 'it is as when' at 25:14 and a bare 'as' at 25:32; 25:32's comparative clause has an expressed finite verb and 25:14's does not. (c) Supplied temporal subordinators ride on participles at 25:3, 25:5 and 25:10 but on ὥσπερ at 25:14, where the participle is already rendered as a bare participle and the 'when' introduces the finite clause of ἐκάλεσεν. (d) τῶν ἐλαχίστων is aligned to a supplied 'these' at 25:40 and unrepresented at 25:45 because the ASV writes two 'these' in one verse and one in the other.",
+    "Also uniform on inspection: ἀποδημέω (25:14, 25:15), συνάγω 'took … in' (25:35, 25:38, 25:43), ποτίζω 'gave … drink' (25:35, 25:37, 25:42), αἴρω 'take/taken away' (25:28, 25:29), every rule 106 preverb particle, every article+numeral+noun group under rule 13, every rule 88 supplied juncture, and the rule 20/38/47/54 article-emptying grounds, which are stated separately wherever two of them meet in one verse.",
+    "BSB: 12 disagreements, none a genuine error. Nine are the documented convention difference — articles displaced by a possessive, a demonstrative, ἴδιος or σός (25:1, 25:7, 25:21, 25:23, 25:25, 25:30, 25:34, 25:45) and δέ the ASV leaves unwritten (25:11, 25:15). εὐθέως at 25:15 is the rule 37 versification split and that report is not a correction. αὐτοῦ at 25:29 is the chapter's one genuinely contested edge: the ASV writes a single 'him' for τοῦ … ἔχοντος and ἀπ᾽ αὐτοῦ, rule 32 requires the article to supply the pronoun its relative clause is predicated of, and the unit's note already names the competing reading. Left as accepted.",
+    "One single-verse judgment reviewed and left standing, since it is not a cross-verse split and carries its own note: 25:27 gives 'my' to the expressed nominative ἐγώ and the supplied 'I' to ἐκομισάμην. Reading ἐγώ → 'I' with 'my' as a rule 7 helper on the nominalized ἐλθών, or as one discontinuous ἐγώ unit under rule 76, both remain defensible. A later reader wanting to revisit the verse should start there.",
+    "No promotion. The two candidates — rule 94's spelt-apart-lexeme clause reaching a two-word subordinator (ἐφ᾽ ὅσον → 'Inasmuch as', two units) and rule 105's article carrier where the article's English is a supplied determiner rather than a pronoun (25:40, one unit) — each follow from the cited rule's own reasoning without widening it, and the corpus supplied here covers neither lemma, so there is no precedent to carry them."
+  ]
+}

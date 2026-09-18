@@ -1,0 +1,175 @@
+{
+  "alignments": [
+    {
+      "note": "Rule 17: the fronted question auxiliary *Will* belongs to the interrogative particle, not to the verb.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The finite verb keeps its lexical verb *avail*, the auxiliary having gone to `הֲ`.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The noun is rendered *cry*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Rule 18: the suffix takes the possessive *thy*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Rule 55: the italic *that* subordinates a clause in which no conjunction morpheme stands, so no morpheme licenses it.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The supplied subject *thou* answers to no morpheme: the clause has no finite verb and no participle whose person and number rule 17 could give it to, no subject morpheme of its own, and rule 49 hands the prepositional predicate only the copula.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The negative takes *not*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Corrected. `לֹא בְצָר` is a verbless clause whose predicate is a prepositional phrase, so the construction-supplied copula of rule 20 — which that rule says is never `added` — joins the preposition heading it under rule 49 and the unit heads on *in*. Discontinuous around *not* under rule 25. Competing reading: treating the whole italic frame *that thou be* as supplied, which the accepted alignment took; rejected because rule 20 forbids marking a copula `added` and rule 49 names the morpheme that carries it.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The substantive is rendered *distress*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Rule 14: the waw takes the connective *Or* written for it.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Rule 19: the quantifying construct takes only its own word, the ASV writing no *of* after *all*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Rule 29: the construct noun takes the supplied *the*, no article morpheme being present.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Rule 19: the construct relation's *of* belongs to the nomen rectum; discontinuous around the italic *thy* under rule 25.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Rule 18's closing sentence: the italic possessive *thy* answers to no suffix or other possessive morpheme.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "JOB.36.19",
+  "review_notes": [
+    "Corrected: the copula *be* is not `added`. Rule 20 states that a verbless clause supplies its copula from the construction and that it is never `added`, and rule 49 puts it on the preposition heading a prepositional predicate — here `בְ` of `בְצָר`, headed on *in*.",
+    "*thou* remains `added` and *that* remains `added`: the first answers to no verbal, participial or pronominal morpheme, and the second subordinates a clause with no conjunction in it (rule 55). The two supplies are kept as separate units under rule 2, each independently defensible.",
+    "Every other unit of the accepted alignment is retained unchanged; all eleven source ids and all seventeen target ids are partitioned exactly once."
+  ]
+}

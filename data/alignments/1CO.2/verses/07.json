@@ -1,0 +1,240 @@
+{
+  "alignments": [
+    {
+      "note": "Adversative conjunction to *but*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Inflected verb takes its English subject pronoun as a rule 7/9 helper; rule 9 heads on the lexical verb *speak* rather than *we*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Anarthrous genitive rendered by the English possessive *God's*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Accusative object; the variant unit SBLGNT.1CO.2.7.v004 (underdetermined, r00-base) affects only the word order of s003/s004, not the alignment.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Preposition to *in* (rule 36).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Anarthrous noun with supplied indefinite determiner as a rule 7/51 helper on the noun.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Substantival article before a participle, expanded with a determiner and a supplied nominal: rule 102 gives the article *the wisdom* headed on the supplied noun, and rule 103's article clause folds the repeated *wisdom* here rather than marking it `added`, no expressed noun standing in the article's phrase. Rule 32 leaves the participle its own relative clause.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Supplied appositional *even* on a substantival-article carrier: rule 105 makes it its own `added` unit headed on itself, as at REV.16.3, rather than folding it into the article's unit.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Attributive participle rendered as a finite relative clause; the relativizer and auxiliaries are rule 7/9 helpers on the participle, headed on the lexical *hidden* (rules 31, 32).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013",
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Relative pronoun to *which* (rule 77: the relativizer carries the pronoun's own lexeme).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Finite verb to *foreordained*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Article before `θεός`, for which the ASV writes no determiner: rule 23.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Subject noun to *God*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Preposition to *before*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Article to *the* (rule 19); the case is realized by the expressed preposition, so the article takes a bare *the*.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Noun to *worlds*; the ASV's own margin *Or, age* is a rendering note and does not affect the split.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Preposition to *unto*.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Noun to *glory*, bare, the possessive belonging to `ἡμῶν`.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Genitive pronoun carries the possessive *our* (rule 20).",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    }
+  ],
+  "ref": "1CO.2.7",
+  "review_notes": [
+    "s007 `τήν`: taken under rules 102/103 as *the wisdom*, headed on the supplied *wisdom*. Reading the repeated *wisdom* as `added` under rule 103's main clause and leaving the article a bare *the* remains defensible, but rule 103 states in terms that a supplied nominal standing inside a phrase a Greek article governs is folded to the article, and no noun is expressed inside this article's phrase (contrast GAL.3.20).",
+    "t009 *even*: marked `added` per rule 105's article-carrier arm. The competing reading folds it into the article's unit; rule 105 records that side as hedged and conceding, so the `added` reading is taken.",
+    "All 18 source and 24 target IDs are partitioned exactly once."
+  ]
+}

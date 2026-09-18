@@ -1,0 +1,9 @@
+{
+  "alignment_sha256": "c8b0e15989a6085f7f0c68c58411b29787899fb982da3b43f809930e80683694",
+  "contract_version": "nt-greek-verse-v32",
+  "notes": [
+    "Reconciliation: τοῦ in περὶ τοῦ Μωϋσέως σώματος is the determiner of the whole noun phrase, not an article before a name — MACULA's structured parse reads it as neuter, agreeing with σώματος, and the legacy T-GSM string is a known tagging artifact. Aligned it to “the” and left σώματος bare, matching JUD.1.4 (τὴν τοῦ θεοῦ ἡμῶν χάριτα → “the grace of our God”) and the corpus treatment of an article separated from its head noun by an interposed genitive."
+  ],
+  "ref": "JUD.1.9",
+  "status": "reviewed"
+}

@@ -1,0 +1,189 @@
+{
+  "alignments": [
+    {
+      "note": "Connective.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Subject pronoun is the verb's rule 9 helper; head on the lexical verb.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Case preposition unto rides with the dative pronoun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Anarthrous substantival adjective recast as a finite relative clause; the supplied antecedent, relativizer and copula are its rule 7 and 92 helpers, headed on the adjective.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Connective.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "One adjective expanded into had an impediment in his speech. Rule 91's operational test returns nothing for μογιλάλος, so rule 104's neighbouring-class query decides it: the λαλ- family is what speech realizes, and a compound headed on its stem word is what εὐπειθής → easy to be entreated heads on entreated and ἀποκαραδοκία → earnest expectation heads on expectation. Heading on impediment is the competing reading and was rejected because it decomposes the Greek into its μογι- element, which rule 99 names as the recurring failure, and because impediment is otherwise only the phrase's formal English head, which rule 17 forbids as a ground of choice.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t013",
+        "t014",
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Connective.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Subject pronoun is the verb's rule 9 helper.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Pronoun.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Rule 40: the conjunction is realized by the infinitival to that introduces its English clause.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Subjunctive rendered by the bare infinitive.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Rule 76: αὐτῷ has been spent on upon him, so it is not available for the possessive and the article takes his.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Dative rendered by upon him, the case preposition riding with the pronoun.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t025",
+        "t026"
+      ],
+      "target_head": "t026"
+    }
+  ],
+  "ref": "MRK.7.32",
+  "review_notes": [
+    "The head of the μογιλάλον unit was moved from impediment to speech. The accepted reading rested on impediment carrying the lexeme's distinctive sense, which is the compositional argument rule 91 replaces with a query, and on English syntax, which rule 17 refuses; rules 91 and 104 put the head on the word realizing the λαλ- stem.",
+    "Edges are unchanged: the whole English clause had an impediment in his speech stays one unit on the adjective, and τήν still takes the supplied his under rule 76, αὐτῷ being spent on upon him."
+  ]
+}

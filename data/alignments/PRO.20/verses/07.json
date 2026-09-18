@@ -1,0 +1,142 @@
+{
+  "alignments": [
+    {
+      "note": "Anarthrous substantival adjective with the supplied *A ... man* under rule 46, headed on the word carrying the lexeme by rule 31.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Participle keeping only its own lexical verb. The Hebrew writes `מִתְהַלֵּךְ בְּתֻמּוֹ צַדִּיק`, with the participle standing before its subject and the prepositional phrase between them, which is a predicate-first verbless clause and not an attributive inside a nominal expression; rule 41's limit therefore governs and the supplied relative does not join this unit.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Supplied relative. The ASV subordinates a Hebrew predication to the noun standing as its subject, so the word subordinates a clause rather than realizing an attributive relation, and no morpheme licenses it (rule 41's limit, with rules 46 and 55). The competing reading, taken by the earlier alignment, keeps the *that* with the participle under rule 41's articleless-attributive sentence; that sentence reaches an attributive standing with its noun inside one nominal expression, which the Hebrew word order here excludes.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Preposition taking *in*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Suffix taking the possessive *his* (rule 18).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Noun rendered *integrity*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Predicate noun of blessing with the construction-supplied copula (rule 20).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Suffix taking the possessive *his*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Noun rendered *children*; the ASV writes no *of* for the construct relation (rule 28).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Preposition taking *after*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Suffix taking the object pronoun *him*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "PRO.20.7",
+  "review_notes": [
+    "Corrected: the supplied *that* is `added` rather than the attributive relative of rule 41. Hebrew attributives follow their head noun, and here `מִתְהַלֵּךְ` precedes `צַדִּיק` with the prepositional phrase between, so the first colon is a predication the ASV has subordinated, leaving the whole verse as a nominative absolute.",
+    "PRO.20.8 in the same chapter writes the other shape — `מֶלֶךְ יוֹשֵׁב` with the participle following its noun — and is correctly read there as rule 41's articleless attributive; the contrast is what identifies this verse's word order as predicative."
+  ]
+}

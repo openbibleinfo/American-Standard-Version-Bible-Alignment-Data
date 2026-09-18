@@ -1,0 +1,27 @@
+{
+  "chapter": "JOS.2",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The ASV inverts the chain pishtei ha-ets as 'the stalks of flax', making the construct noun the English dependent. The chain's 'of' is placed on the noun it stands before, so pishtei takes 'of flax' and ets keeps 'stalks'; rule 19's default direction does not survive an inversion, exactly as rule 28 directs for an attributive rendering. The article on ha-ets takes the single written 'the', which stands before 'stalks', the word its own noun is rendered by (rule 29). The competing reading, imposing rule 19's direction on the inverted English, is named in the verse's note.",
+    "The compound temporal expression 'about the time of' is given whole to the le before lisgor, headed on 'time' under rule 24, rather than marking 'about the time' added under rule 33 and leaving the preposition only the 'of'. The infinitive keeps 'the shutting' as a gerund with its supplied determiner (rules 15, 52), and the infinitive's subject noun shaar takes the second 'of' as a supplied nominal relation (rule 33).",
+    "The ASV's hyphenated 'to-night' arrives as two target tokens. It is read as one rendering of ha + laylah under rule 30's one-rendering condition, headed on the noun, rather than giving the 'to' to the article separately: no morpheme owns a part of the hyphenated word. This is a tokenization artifact of one English word, not a construction that generalises.",
+    "The 'whose' of 'whose name was Rahab' is given to the pronominal suffix of shemah under rule 18's relative-pronoun sentence, and the waw is left unrepresented because the ASV writes no separate connective for the recast clause. Rule 17's recasting clause, which would put the relative on the waw, reaches only a clause with no pronominal morpheme in it to take the word first. This is the source of the BSB disagreement recorded at WLC.JOS.2.1.030."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v139",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 56 candidate lemma groups. Every bucket with more than one treatment is the ASV rendering one morpheme differently in different contexts, and each difference is licensed by something present or absent in the source: a finite verb (2.2 vs 2.5 impersonal 'it'), an object morpheme (2.11 and 2.22 supplied pronouns against the object suffixes elsewhere), the referent of a suffix (2.10 vs 2.23 for the suffix on the object marker), a second written 'the' (2.4/2.23 vs 2.10 in the numeral phrases), a written subordinator (2.7 fused ka-asher vs 2.11's waw taking the coordinator+subordinator pair), and a written apodosis waw (2.5 and 2.14 vs 2.19 for the hayah frame's 'that'). No construction is analysed two ways with nothing in the source to license the difference, so patches is empty.",
+    "The table is keyed by source lemma and so blind to added units; the dump was read end to end for supplied English folded into a licensing morpheme in one verse and marked in another. The five added units are the impersonal 'it' of 2.5 (rule 20's cleft sentence), the object 'it' of 2.11 and the two object pronouns of 2.22 (rule 44, no object morpheme in those clauses), and the supplied 'when' of 2.18 (rule 55, no conjunction in that clause). Supplied determiners, copulas, infinitive markers and subject pronouns sit consistently on the morphemes that license them everywhere else.",
+    "Head placement across the chapter's fused units is uniform: mi-penei heads on the construct noun in 2.9, 2.10, 2.11 and 2.24; mi-maal and mi-tahat on the lexeme-bearing morpheme in 2.11; ka-asher on the governing preposition in 2.7 under rule 23's syntactic-head clause; kol-asher on the quantifier in both 2.19 units; issha-zona and shammah on the lexeme-bearing morpheme in 2.1; me-ayin on the interrogative in 2.4, with the competing reading named in that verse's note.",
+    "BSB: 29 disagreements, none a genuine error. The Td, R and To classes and the paragogic nun of 2.8 are the documented convention difference. Of the individually named tokens, 2.8's second waw and 2.11's apodosis waw open clauses the ASV writes bare; 2.14's mut is left wholly unrendered by the ASV ('Our life for yours'); 2.18's resumptive suffix stands beside a written 'which' and a written 'by', so nothing is left for it (rule 22). Only 2.1's waw turns on a judgment call, recorded as a convention rather than changed.",
+    "No promotions or amendments. The one novel analysis, the inverted chain of 2.6, rests on a single instance with no corpus evidence in the briefing, and rule 28 already directs a verse pass to follow the ASV there; the 'to-night' fusion of 2.2 exists only because a hyphenated ASV word arrives as two target tokens, which is expressly not a promotion. Four conventions record the chapter's arguable calls instead."
+  ]
+}

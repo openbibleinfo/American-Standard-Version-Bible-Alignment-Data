@@ -1,0 +1,119 @@
+{
+  "alignments": [
+    {
+      "note": "Substantival adjective רַבִּים → *Many*, with no supplied determiner to place.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Piel participle → *seek*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Construct פָּנִים → *favor*; the ASV recasts the chain as an English possessive, whose determiner goes to the possessor under rule 29.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The rectum is written as the possessive *ruler's*, and the *the* at the phrase's left edge stands before its own word (rule 29).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Waw rendered *But* (rule 14).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Corrected. מֵיְהוָה is the fronted predicate of a verbless clause, so the supplied *cometh* is the construction's copula and joins the preposition heading that predicate, headed on *from* (rules 20, 49). Rule 20 names *come* among the verbs English writes where a copula would stand, and its subtraction test confirms it: dropping *cometh* leaves the predication *a man's judgment from Jehovah* intact, so what has gone is the link and not a predication the Hebrew never wrote — unlike the supplied *were given* or the participial *done* that rule marks `added`. The ASV italic was read and set aside as corroboration only, by rule 7.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Divine name → *Jehovah*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Construct מִשְׁפָּט → *judgment*; the possessive recasting puts the determiner on the possessor.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The rectum is written as the possessive *man's*, taking the indefinite determiner standing before its own word (rule 29).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    }
+  ],
+  "ref": "PRO.29.26",
+  "review_notes": [
+    "The one change moves the italicized *cometh* from an `added` unit into the מִן's unit as the construction-supplied copula of a prepositional predicate. The competing reading treats it as rule 20's wholly supplied lexical verb; it adds no participant the Hebrew does not write, which is the test that rule states."
+  ]
+}

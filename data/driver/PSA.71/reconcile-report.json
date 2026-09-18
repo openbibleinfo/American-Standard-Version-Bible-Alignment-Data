@@ -1,0 +1,26 @@
+{
+  "chapter": "PSA.71",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The supplied 'Thou' before 'who' is placed by whether an antecedent nominal stands earlier in the same verse. PSA.71.19 gives it to the vocative אֱלֹהִים that precedes אֲשֶׁר as a rule-25 resumption; PSA.71.20 opens with אֲשֶׁר and no antecedent in the verse, so 'Thou' joins the relative's unit under rule 46's first rider. The two verses are one analysis read across the verse boundary of rule 10, not a split."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 29 candidate groups and the nine added units end to end. No real split: every multi-treatment bucket is the ASV writing a different word (me/my/mine, thy/thee/thine, for/when, also/even) or a different construction the source licenses.",
+    "The one pair that looks like a split is 'Thou who hast ...' in v.19 and v.20: v.19 gives the supplied Thou to the preceding vocative אֱלֹהִים as a rule-25 resumption (a nominal stands earlier in the verse), v.20 gives it to אֲשֶׁר under rule 46's first rider (no antecedent stands in that verse, rule 10). Both are what the contract directs; recorded as a convention so the next reader does not reopen it.",
+    "לְ: v.3 s004 unrepresented is the resultative הָיָה לְ of rule 21 beside the dative לִי → to; v.11 unrepresented is לֵאמֹר (rule 27); v.3 whereunto and v.18 unto are written words. עַד: when (v.18 recast), is very (v.19, split from 'high' because each morpheme has its own word), until (v.18) — all ASV-driven.",
+    "Participle + נַפְשִׁי: v.10 'watch for my soul' gives for to the participle rendered as a verb (rules 19, 44); v.13 'adversaries to my soul' gives to to the rectum because the ASV wrote a noun. Consistent with rule 19's verb/noun boundary.",
+    "Repeated supplied prepositions over gapped cola (v.8 with...with, v.15 of...of, v.16 of...of) all join the verb's unit under rule 25; supplied coordinators for asyndetic cola (v.8, 13, 15, 21) and appositional even (v.16, 22) are all added. Consistent.",
+    "BSB disagreements (7) are all documented convention differences: resultative לְ (v.3, rule 21), לֵאמֹר לְ (v.11, rule 27), עַל and כָּל silenced by the 'more and more' recasting (v.14, rules 40, 56), the lexicalized suffix of אֲדֹנָי (v.5, 16, rule 57), and the cohortative he (v.12, rule 32). None is an error.",
+    "v.20: the written 1cs suffix on תַּעֲלֵנִי aligned to the ASV's 'us' under rule 53 with the divergence noted; the two qere variants in that verse select r01 and the English fits them. No promotion or amendment: the chapter taught nothing the contract does not already say."
+  ]
+}

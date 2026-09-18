@@ -1,0 +1,6 @@
+# 1 Chronicles 15 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **1CH.15.25** — Periphrastic וַיְהִי + subject + הַ + participle rendered by a single English finite verb ('So David … went'): the participle takes the finite verb as the lexeme-bearing word, while הָיָה and the predicate article are each their own unrepresented unit, since the subject stands between the auxiliary and the participle and no English word is spent on either. The fusion alternative (הָיָה + participle sharing 'went') is named in the unit note and was not taken.
+- **1CH.15.27** — Appositional nominals standing after שַׂר with no preposition or marker on them (הַמַּשָּׂא → 'of the song', הַמְשֹׁרְרִים → 'with the singers', and הַמִּשְׁנִים → 'of the second degree' in 15.18) take the ASV's supplied preposition into the noun's own unit under rule 33, discontinuous around the article's 'the'; the italic on 'with' corroborates the supply and is not an added label. In the same verse 'had' of 'David had upon him an ephod' is added, because עַל already holds 'upon' and rule 43 reads a spent preposition as no home for the have.

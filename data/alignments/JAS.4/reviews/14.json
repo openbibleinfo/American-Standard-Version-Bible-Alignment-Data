@@ -1,0 +1,17 @@
+{
+  "alignment_sha256": "2ef1d478e64cafa68d22f772f9c49d0218d0556014597d75ff054b045884ed2a",
+  "contract_version": "nt-greek-verse-v64",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed against the contract and returned unchanged; no unit was altered.",
+    "Partition verified by enumeration: all 20 source IDs (s001-s020) and all 29 target IDs (t001-t029) appear exactly once, and no ID is invented.",
+    "Every aligned unit has nonempty source and target arrays with both heads inside their arrays; the two unrepresented units (s008, s014) are source-only with a valid source head, empty target and null target head. There are no added or noncompositional units.",
+    "The one materially contested split is s005/s006: *shall be* rides with the predicate word αὔριον under rules 53 and 96 rather than with the substantival article τό. Rule 53 forbids reading the supplied verb off the subject side, and rule 96 bars the determiner-carrying τῆς from being the carrier, leaving αὔριον with the discontinuous *shall be … morrow* under rule 15 — the shape of rule 96's τῆς παρακλήσεως → *of the* / *are ye … comfort*. The competing reading, τό → *what shall be*, is named in that unit's note.",
+    "s001 keeps only *whereas* and s003 keeps *ye know*: rule 9 gives the subject to the inflected verb, and the relative already has the word that introduces its English clause under rule 40's principle. Reading οἵτινες → *whereas ye* remains defensible and the note says so.",
+    "The two unrepresented articles rest on different grounds and were checked separately. s008 empties under rule 20 with rule 76's availability test satisfied, ὑμῶν carrying nothing but *your*. s014 empties under rule 31 because ἀτμίς is an expressed head noun and the participle φαινομένη carries the supplied relativizer; rule 90 says in terms that it blesses no unit with an expressed head noun, so it does not compete.",
+    "Variants: v019, v022 and v023 are underdetermined and resolved to r00-base, and v020 and v021 are selected to r00-base. None carries a FALLBACK EXCLUDED BY EVIDENCE mark, so rule 97 is not engaged and no English word here is unlicensed. Rule 12 was respected — no textual decision was reopened inside the alignment."
+  ],
+  "ref": "JAS.4.14",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

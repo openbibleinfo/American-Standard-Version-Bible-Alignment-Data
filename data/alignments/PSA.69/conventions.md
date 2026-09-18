@@ -1,0 +1,7 @@
+# Psalms 69 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **PSA.69.4** — Comparative degree word beside מן: where the ASV writes the verb's own lexeme in comparative form and nothing else for the verb — רבו → 'are more', dropping 'more' leaves רבב bare — the degree word is the verb's and מן takes only 'than'; where the verb holds a word of its own — תיטב → 'please' in PSA.69.31 — the degree word ('better') is the comparative מן's under rule 24, headed on than. The subtraction test decides it, not the presence of a comparative adjective.
+- **PSA.69.12** — A subject pronoun the ASV supplies for a second clause whose referent the verse denotes only by a pronominal suffix already holding its own pronoun ('talk of me ... I am the song', 'their table ... when they are in peace') is added; a suffix holding 'me' or 'their' is not a home for a second realization under rule 25. PSA.69.12 and PSA.69.22 both read this way.
+- **PSA.69.22** — A supplied subordinator is placed by whether a conjunction stands in its clause: 'while' before the participial clause of PSA.69.3 is added (no morpheme), 'When' in PSA.69.10-11 and the contiguous pair 'And when' in PSA.69.22 belong to the waw that opens the clause (rules 14, 55).

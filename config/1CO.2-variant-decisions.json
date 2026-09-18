@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "chapter": "1CO.2",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.1CO.2.1.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text reads 'the testimony of God' (μαρτύριον); the mapped textual_variant note 'Many ancient authorities read mystery' relegates μυστήριον to the margin."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.2.2.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order and construction only (τι εἰδέναι vs τοῦ εἰδέναι τι); 'I determined not to know anything' renders either identically and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.2.4.v003",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'in persuasive words of wisdom' has an unitalicized 'words' (λόγοις), excluding the base πειθοῖ σοφίας, and lacks any 'man's/human' rendering ἀνθρωπίνης, excluding the RP reading."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.2.7.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only (θεοῦ σοφίαν vs σοφίαν θεοῦ); 'God's wisdom' renders either and the only note here is an alternative_rendering on 'worlds'."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.2.9.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV shifts from 'Things which' for the preceding relatives to 'Whatsoever things God prepared', the quantitative ὅσα rather than the simple relative ἅ."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.2.10.v006",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text reads 'But unto us God revealed them' (δὲ); the mapped textual_variant note 'Some ancient authorities read For' puts γάρ in the margin."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.2.10.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only (ἀπεκάλυψεν ὁ θεός vs ὁ θεὸς ἀπεκάλυψεν); 'God revealed' renders either, and the verse's textual note is mapped to the γάρ/δέ unit, not this one."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.2.10.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'through the Spirit' has no possessive 'his', which the added αὐτοῦ would require."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.2.11.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἔγνωκεν and οἶδεν are both rendered 'knoweth' in ASV; nothing in the wording and no mapped note distinguishes them."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.2.13.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'which the Spirit teacheth' lacks 'Holy', which the added ἁγίου would require."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.2.15.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'judgeth all things' renders πάντα either with the article τά or with the correlative μέν left untranslated; both notes here are alternative_rendering on 'examineth/examined'."
+    }
+  ]
+}

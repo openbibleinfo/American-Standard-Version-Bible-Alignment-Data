@@ -1,0 +1,26 @@
+{
+  "chapter": "PSA.68",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "PSA.68.2",
+    "PSA.68.8"
+  ],
+  "rejected": {},
+  "conventions": [
+    "מִפְּנֵי is read two ways in this chapter by what the ASV wrote. Rendered *before* (68.1, 68.2 first occurrence) it fuses under rule 30, headed on the construct noun, as לִפְנֵי → *before* does (68.3, 68.4, 68.7). Rendered *at the presence of* (68.2 second occurrence, 68.8 twice) it splits under rule 2: מִן → *at*, פָּנֶה → *the presence* with the construct's supplied *the* (rule 29), and the rectum → *of God* (rule 19), because *presence* writes פָּנֶה's own lexeme and rule 30's subtraction test finds each morpheme holding a word of its own. Corpus: מִן → *at* before a construct פָּנֶה in 22 units, פָּנֶה → *(the) presence* headed on *presence* in 58, against one fused *at the presence of* unit."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Split found and fixed: מִפְּנֵי → *at the presence of* was fused as one unit at PSA.68.2 (second occurrence) and twice at PSA.68.8, while the corpus splits it in 22 units (מִן → *at* before a construct פָּנֶה) against one fused ZEP.1.7 unit, and aligns פָּנֶה → *presence* / *the presence* headed on *presence* in 58 units. *presence* writes פָּנֶה's own lexeme, so rule 30's subtraction test finds each morpheme with a word of its own and rule 2 splits: מִן → *at*, פָּנֶה → *the presence* (supplied *the* on the construct, rule 29), and the rectum אֱלֹהִים → *of God* (rule 19). Patched both verses; the three מִפְּנֵי/לִפְנֵי → *before* fusions in 68.1–4, 7 are correct and untouched.",
+    "Checked the other candidate buckets: Sp1cs unrepresented vs *my* is rule 57's lexicalized אֲדֹנָי suffix beside an ordinary אֵלִי; PSA.68.23 הוּ → *may have its* is rule 43's possessive suffix carrying the supplied *have*; בְּ/לְ/עַל copula units are rule 49; PSA.68.30 and 68.33 בְּ unrepresented are rule 40 promotions to direct object. PSA.68.4 בְּיָהּ → *is* on the preposition has precedent (לְ → *is* in 24 corpus units) and was left as accepted.",
+    "BSB disagreements are all convention: אֲדֹנָי suffixes (rule 57), paragogic nuns (rule 32), the object suffix of PSA.68.9 the ASV recasts, the article before אֵל in 68.20, the emphatic he of 68.28, and the two בְּ silencings. None is an error.",
+    "Promotion considered and declined: rule 30 already carries the subtraction test that decides this, and the corpus fuses *in the presence of* at JOS.4.11, JOS.8.32, 2SA.19.17 and GEN.41.46, so it is not unanimous enough to amend. Recorded as a chapter convention instead."
+  ]
+}

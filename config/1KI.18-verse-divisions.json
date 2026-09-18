@@ -1,0 +1,84 @@
+{
+  "schema_version": 2,
+  "chapter": "1KI.18",
+  "policy": "One Hebrew verse's words fill two different ASV places here. Read both texts, find the Hebrew word the second part begins at, and record its 1-based position within the Hebrew verse together with its consonants. The targets and the notes beside them are derived from the versification table; only the position is a judgment. The build checks the position and the consonants against each other and refuses the chapter until every entry is resolved.",
+  "divisions": [
+    {
+      "source_verse": 34,
+      "status": "resolved",
+      "first_target": "1KI.18.33",
+      "first_target_is": "the tail of ASV 1KI.18.33",
+      "second_target": "1KI.18.34",
+      "second_target_is": "the whole of ASV 1KI.18.34",
+      "second_begins_at_word": 11,
+      "second_begins_with": "ויאמר",
+      "evidence": "ASV 1 Kings 18:33 renders the whole of Hebrew verse 33 and then words 1-10 of Hebrew verse 34 (וַיֹּאמֶר ... הָעֵצִים) as “And he said, Fill four jars with water, and pour it on the burnt-offering, and on the wood.” ASV 18:34 begins at word 11, וַיֹּ֤אמֶר, rendered “And he said, Do it the second time; and they did it the second time...” The two ASV verses account for all sixteen words of Hebrew 34 with no overlap.",
+      "hebrew_words": [
+        {
+          "word": 1,
+          "text": "וַ/יֹּ֗אמֶר"
+        },
+        {
+          "word": 2,
+          "text": "מִלְא֨וּ"
+        },
+        {
+          "word": 3,
+          "text": "אַרְבָּעָ֤ה"
+        },
+        {
+          "word": 4,
+          "text": "כַדִּים֙"
+        },
+        {
+          "word": 5,
+          "text": "מַ֔יִם"
+        },
+        {
+          "word": 6,
+          "text": "וְ/יִֽצְק֥וּ"
+        },
+        {
+          "word": 7,
+          "text": "עַל"
+        },
+        {
+          "word": 8,
+          "text": "הָ/עֹלָ֖ה"
+        },
+        {
+          "word": 9,
+          "text": "וְ/עַל"
+        },
+        {
+          "word": 10,
+          "text": "הָ/עֵצִ֑ים"
+        },
+        {
+          "word": 11,
+          "text": "וַ/יֹּ֤אמֶר"
+        },
+        {
+          "word": 12,
+          "text": "שְׁנוּ֙"
+        },
+        {
+          "word": 13,
+          "text": "וַ/יִּשְׁנ֔וּ"
+        },
+        {
+          "word": 14,
+          "text": "וַ/יֹּ֥אמֶר"
+        },
+        {
+          "word": 15,
+          "text": "שַׁלֵּ֖שׁוּ"
+        },
+        {
+          "word": 16,
+          "text": "וַ/יְשַׁלֵּֽשׁוּ"
+        }
+      ]
+    }
+  ]
+}

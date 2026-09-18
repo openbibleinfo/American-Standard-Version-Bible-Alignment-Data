@@ -1,0 +1,26 @@
+{
+  "chapter": "2CH.12",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2CH.12.11"
+  ],
+  "rejected": {},
+  "conventions": [
+    "A bare בַּיִת (or other place noun) standing after בּוֹא with no preposition or object marker is a directional accusative: the ASV's supplied *into* belongs to the noun under rule 33, headed on the lexeme, and the verb keeps only *entered*/*came*. The corpus places the word this way in 50 units against 10 on the verb under rule 44; the 12.11 verse pass first took the minority reading and was corrected at reconciliation.",
+    "*away* after לָקַח → *took away* is a surplus particle under rule 44 in all three occurrences of the verse: *took* alone writes the whole lexeme and nothing in the clause writes the removal, so each *away* is its own `added` unit (as with the *back* of בּוֹא hiphil → *bring him back*), unlike סוּר → *take away*, where the particle completes the lexeme. The competing reading keeps the particle with the verb."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v218",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 40 candidate lemmas end to end. Every difference in the table is licensed by the ASV's rendering (waw connectives, articles the ASV writes or omits, of/possessive recastings of construct chains, the two הָיָה frames) — none is a split within the chapter.",
+    "One correction, decided by the evidence round: 2CH.12.11 ב֥וֹא הַמֶּלֶךְ בֵּית יְהוָה → *the king entered into the house of Jehovah*. The verse pass gave the supplied *into* to the verb under rule 44; the corpus places the same word on a bare בַּיִת after a motion verb as a directional accusative under rule 33 in 50 units (including 2CH.15.18 and 2CH.23.6) against 10 on the verb, and rule 33's own example *to your mountain* is that construction. Patched: *into the house* on בֵּית, headed on *house*; *entered* alone on the infinitive.",
+    "BSB disagreements are all convention: R ×7 and Td ×6 (ASV leaves prepositions and articles unrendered under rules 40 and 29), the לָ of 2CH.12.3 (people promoted to English subject, rule 40), and the two object markers in 12.5 and 12.9 (rule 16). No genuine error found.",
+    "No promotion or amendment: the corpus contradicts itself 50:10 on בּוֹא + bare בַּיִת, and the contract already decides it through rule 33 and rule 44's closing limit, so nothing new is taught. Recorded two conventions (rule-33 placement of *into* after בּוֹא; the `added` *away* after לָקַח in 12.9)."
+  ]
+}

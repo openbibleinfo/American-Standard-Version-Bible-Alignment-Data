@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "chapter": "PSA.13",
+  "policy": "One Hebrew verse becomes two ASV verses here. Read both texts, find the Hebrew word the second ASV verse begins at, and record its 1-based position within the Hebrew verse together with its consonants. The build checks the two against each other and refuses the chapter until every entry is resolved.",
+  "divisions": [
+    {
+      "source_verse": 6,
+      "status": "resolved",
+      "first_target": 5,
+      "second_target": 6,
+      "second_begins_at_word": 7,
+      "second_begins_with": "אשירה",
+      "evidence": "ASV 13:5 renders words 1-6 (וַאֲנִי ... בִֽישׁוּעָ֫תֶ֥ךָ) as “But I have trusted in thy lovingkindness; My heart shall rejoice in thy salvation.” ASV 13:6 begins at word 7, אָשִׁ֥ירָה, rendered “I will sing unto Jehovah, Because he hath dealt bountifully with me.” The two ASV verses account for all eleven Hebrew words with no overlap.",
+      "hebrew_words": [
+        {
+          "word": 1,
+          "text": "וַ/אֲנִ֤י"
+        },
+        {
+          "word": 2,
+          "text": "בְּ/חַסְדְּ/ךָ֣"
+        },
+        {
+          "word": 3,
+          "text": "בָטַחְתִּי֮"
+        },
+        {
+          "word": 4,
+          "text": "יָ֤גֵ֥ל"
+        },
+        {
+          "word": 5,
+          "text": "לִבִּ֗/י"
+        },
+        {
+          "word": 6,
+          "text": "בִּֽ/ישׁוּעָ֫תֶ֥/ךָ"
+        },
+        {
+          "word": 7,
+          "text": "אָשִׁ֥ירָה"
+        },
+        {
+          "word": 8,
+          "text": "לַ/יהוָ֑ה"
+        },
+        {
+          "word": 9,
+          "text": "כִּ֖י"
+        },
+        {
+          "word": 10,
+          "text": "גָמַ֣ל"
+        },
+        {
+          "word": 11,
+          "text": "עָלָֽ/י"
+        }
+      ]
+    }
+  ]
+}

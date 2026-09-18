@@ -1,0 +1,23 @@
+{
+  "ref": "1KI.7.47",
+  "alignments": [
+    {"source": ["s001"], "source_head": "s001", "target": ["t001"], "target_head": "t001", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s002"], "source_head": "s002", "target": ["t003"], "target_head": "t003", "status": "aligned", "confidence": "high", "note": "Explicit subject noun follows, so the verb takes only \"left\"."},
+    {"source": ["s003"], "source_head": "s003", "target": ["t002"], "target_head": "t002", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s004"], "source_head": "s004", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "Object marker with no English realization."},
+    {"source": ["s005"], "source_head": "s005", "target": ["t004"], "target_head": "t004", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s006"], "source_head": "s006", "target": ["t005"], "target_head": "t005", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s007"], "source_head": "s007", "target": ["t006"], "target_head": "t006", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": [], "source_head": null, "target": ["t007"], "target_head": "t007", "status": "added", "confidence": "high", "note": "ASV supplies \"unweighed\"; no Hebrew morpheme licenses it."},
+    {"source": ["s008"], "source_head": "s008", "target": ["t008"], "target_head": "t008", "status": "aligned", "confidence": "high", "note": "Causal מִן rendered \"because\"; the ASV spends further words on רֹב, so rule 30 does not fuse מֵרֹב."},
+    {"source": ["s009"], "source_head": "s009", "target": ["t009", "t010", "t012"], "target_head": "t012", "status": "aligned", "confidence": "high", "note": "Noun recast as predicate adjective; the supplied \"they were\" joins the predicate that licenses it (rule 20)."},
+    {"source": ["s010"], "source_head": "s010", "target": ["t011"], "target_head": "t011", "status": "aligned", "confidence": "medium", "note": "The doubled מְאֹד is rendered once; the first occurrence carries \"exceeding\"."},
+    {"source": ["s011"], "source_head": "s011", "target": [], "target_head": null, "status": "unrepresented", "confidence": "medium", "note": "Second occurrence of the repeated intensifier, unrendered (rule 22)."},
+    {"source": ["s012"], "source_head": "s012", "target": ["t019"], "target_head": "t019", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s013"], "source_head": "s013", "target": ["t018", "t020", "t021", "t022"], "target_head": "t021", "status": "aligned", "confidence": "high", "note": "Niphal rendered as English modal passive \"could ... be found out\"."},
+    {"source": ["s014"], "source_head": "s014", "target": ["t013", "t014"], "target_head": "t014", "status": "aligned", "confidence": "high", "note": "Construct noun cannot take the article, so the supplied \"the\" joins it (1KI.7.21)."},
+    {"source": ["s015"], "source_head": "s015", "target": ["t016"], "target_head": "t016", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s016"], "source_head": "s016", "target": ["t015", "t017"], "target_head": "t017", "status": "aligned", "confidence": "high", "note": "\"of\" belongs to the nomen rectum (rule 19)."}
+  ],
+  "review_notes": []
+}

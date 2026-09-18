@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "504384b37550061780a7800c1f2d5f660012da3dd386c67485ea143ef32735c0",
+  "contract_version": "ot-hebrew-verse-v214",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 34 source morphemes and 42 target tokens are partitioned exactly once, with one `added` unit.",
+    "Large-source-unit check: `כְּ` + assimilated article + `יוֹם` → *first* is retained. The one English word renders the whole temporal phrase and writes no morpheme's lexeme in particular, so the subtraction test finds nothing spent on any one of them, exactly as rule 40 reads `בֶּאֱמֶת` → *faithfully*.",
+    "`אַשְׁמִיעֲךָ` keeps *I may cause ... to hear* in one unit headed on the lexical complement, which is rule 52's second limit and rule 44's light-verb clause; the suffix keeps only its own *thee*.",
+    "*As* is supplied over a clause with no conjunction morpheme in it and is `added` (rule 55).",
+    "The margin's Hebrew gloss *to-day* on *first* was read and set aside; the printed text governs (rule 38)."
+  ],
+  "ref": "1SA.9.27",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

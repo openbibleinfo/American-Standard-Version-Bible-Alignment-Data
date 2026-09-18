@@ -1,0 +1,27 @@
+{
+  "chapter": "PSA.55",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "PSA.55.13"
+  ],
+  "rejected": {},
+  "conventions": [
+    "The cleft frame running across vv12–13 (it was not an enemy that ... it was thou ...) is read clause by clause: where the clefted clause carries a finite verb (v12, יְחָרְפֵנִי / הִגְדִּיל) the dummy-plus-copula and the cleft relative are added; where it is verbless (v13, אַתָּה אֱנוֹשׁ) the copula joins the predicate noun and only the dummy it is added (rule 20).",
+    "A bare prepositional or nominal attributive the ASV recasts as a relative clause keeps the whole recasting on the source morpheme it renders: v18 לִי on battle → that was against (relative, copula and preposition on the לְ, rules 46/49), v20 שְׁלֹמָיו → such as were at peace with (on the noun, rule 46 closing paragraph). The relative is not marked added; rule 55's added subordinator is reserved for a relative over a finite clause the Hebrew writes (v18 that strove, which is added together with its supplied verb)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 21 candidate lemmas. Every bucket difference is licensed by the ASV's rendering (my/me, upon/against, in/is in, the/a) or by a recasting the contract already disposes of (55.8 second מִן and לִי, 55.11 waw, 55.14 אֲשֶׁר, 55.18 בְ, 55.19 לָמוֹ, 55.22 לַ). No cross-verse split found among source-keyed units.",
+    "Read the added units end to end: apodosis Then/then added in 55.6 and 55.7 (no conjunction) against waw → Then in 55.12 (waw present) is consistent under rule 14; surplus particle away (55.6) against kept down/forth/about/out (55.10, 55.15, 55.20, 55.23) is consistent under rule 44's subtraction.",
+    "One patch: PSA.55.13. The clefted clause וְאַתָּה אֱנוֹשׁ כְּעֶרְכִּי is verbless, and rule 20's cleft paragraph directs that the copula is then the predicate's and only the dummy is supplied. The verse pass left it was as one added unit (its note already named this reading); now was joins אֱנוֹשׁ → was a man and only it is added. PSA.55.12 is unchanged: its clefted clauses carry finite verbs, so it was and that are rightly added there.",
+    "BSB disagreements are all convention differences (paragogic he, rule 57 suffix on אֲדֹנָי, prepositions and a resumptive suffix silenced by ASV recasting, a waw and an אֲשֶׁר the ASV writes nothing for). None is a genuine error.",
+    "No promotion or amendment: nothing here generalises beyond what the contract already states."
+  ]
+}

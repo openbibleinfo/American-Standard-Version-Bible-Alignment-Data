@@ -1,0 +1,23 @@
+{
+  "chapter": "PSA.29",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 14 candidate lemmas; every difference is licensed by the ASV's rendering or by MACULA morphology, and none is a split.",
+    "יהוה: *of Jehovah* only where the name is a construct's rectum (rule 19); bare *Jehovah* elsewhere. לְ: *unto* where the ASV writes it, unrepresented at PSA.29.2 s008 where *Worship Jehovah* writes the object bare (rule 40). הַ (assimilated): *the* at PSA.29.10 where the ASV writes it, unrepresented at PSA.29.4 s009 and PSA.29.11 where it does not (rule 12); PSA.29.4 s004 is the one-word fusion בַּכֹּחַ → *powerful*, where rule 30's article clause carries the article inside the fused unit, so it is not a third treatment.",
+    "The refrain קוֹל יְהוָה → *The voice of Jehovah* is aligned identically in vv. 3, 4, 5, 7, 8, 9 (supplied *The* on the construct, *of Jehovah* on the rectum). Article-on-rectum fronting is applied identically at v.3 (*The God of glory*) and v.5 (*the cedars of Lebanon*), and the article-less rectum of v.1 (*sons of the mighty*) takes its own supplied *the*, consistent with rule 29's counting.",
+    "The two `added` units (v.3 *Even*, v.10 italic *as King* in the first colon) answer to no morpheme in their clauses; no other verse folds a comparable supplied word into a neighbour, so the dump shows no added/folded split.",
+    "BSB disagreements: PSA.29.2 לַ before יהוה is the documented rule 40 convention (bare English object); PSA.29.9 suffix of כֻּלּוֹ is a judgment the verse note already records (split with suffix unrepresented vs. fusion into *everything*) — neither is an error.",
+    "Repeated notes flagged by the validator all restate contract rules (12, 14, 15, 16, 29), so no convention is recorded. Nothing here generalises beyond what the contract already says; no promotions or amendments."
+  ]
+}

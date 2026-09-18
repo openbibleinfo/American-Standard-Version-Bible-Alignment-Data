@@ -1,0 +1,294 @@
+{
+  "alignments": [
+    {
+      "note": "Construct noun with the supplied indefinite article, which belongs to the nominal expression under rule 15 and is not `added`.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Article on the rectum; the ASV writes no *the* for the chain (*A Song of Ascents*), so the morpheme is unrepresented under rule 29.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Nomen rectum takes the chain's relational *of* under rule 19, headed on the noun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Preposition rendered *of* before the name.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Proper name.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Vocative divine name; the ASV writes no supplied *O* here, so the noun takes only its own word (rule 36).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Negative particle taking the written *not*; discontinuous from the predicate under rule 25.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Finite verb recast with a copula and predicate adjective; both words belong to the verb's unit under rule 17, headed on the lexical predicate *haughty* under rule 24.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Construct noun keeps its own word.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Pronominal suffix realized by the possessive *my* (rule 18).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Waw plus negative fused into the single *nor* under rule 35, headed on the negative, which is what distinguishes it from a bare *and*.",
+      "source": [
+        "s011",
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Finite verb rendered by the predicate adjective *lofty*; the copula is gapped from the preceding colon and the ASV writes none here, so only the one word is placed.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Construct noun.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Suffix realized by the possessive *mine* (rule 18).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Waw plus negative fused into *Neither* under rule 35, headed on the negative.",
+      "source": [
+        "s016",
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Finite verb with its fronted auxiliary, subject pronoun and lexical verb under rule 17; the reflexive *myself* renders the Piel's own sense and stays with the verb under rule 44 rather than being marked `added`. Headed on the lexical verb.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019",
+        "t020",
+        "t021"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Preposition rendered *in*.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Anarthrous substantival adjective with the generic noun the ASV supplies to make it an English noun phrase (rule 46); headed on *great*, the word carrying the lexeme, by rule 31's subtraction test — *matters* alone is any matters.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t023",
+        "t024"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Waw rendered by the connective *Or* under rule 14.",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "note": "Preposition rendered *in*.",
+      "source": [
+        "s022"
+      ],
+      "source_head": "s022",
+      "status": "aligned",
+      "target": [
+        "t026"
+      ],
+      "target_head": "t026"
+    },
+    {
+      "note": "Niphal participle used substantivally with the supplied generic *things* (rule 46), headed on *wonderful*; the unit is discontinuous around the *too* that belongs to the comparative preposition.",
+      "source": [
+        "s023"
+      ],
+      "source_head": "s023",
+      "status": "aligned",
+      "target": [
+        "t027",
+        "t029"
+      ],
+      "target_head": "t029"
+    },
+    {
+      "note": "Comparative `מִן` rendered by the *too … for* frame; rule 24 gives both words to that one morpheme's discontinuous unit and heads it on the relational word *for*, since dropping *for* leaves the comparison with no relation stated. The competing reading leaves *too* with the participle, but rule 11 gives the function word first to the morpheme whose sense it carries.",
+      "source": [
+        "s024"
+      ],
+      "source_head": "s024",
+      "status": "aligned",
+      "target": [
+        "t028",
+        "t030"
+      ],
+      "target_head": "t030"
+    },
+    {
+      "note": "Suffix realized by the object pronoun *me* (rule 18).",
+      "source": [
+        "s025"
+      ],
+      "source_head": "s025",
+      "status": "aligned",
+      "target": [
+        "t031"
+      ],
+      "target_head": "t031"
+    }
+  ],
+  "ref": "PSA.131.1",
+  "review_notes": [
+    "The ASV's marginal gloss *Hebrew walk* on *exercise myself* was read and set aside under rule 38; the printed text governs.",
+    "Both `וְ` + `לֹא` pairs are fused under rule 35 and headed on the negative; the two colons are read alike."
+  ]
+}

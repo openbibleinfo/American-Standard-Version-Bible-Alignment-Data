@@ -1,0 +1,146 @@
+{
+  "alignments": [
+    {
+      "note": "Construct noun with the supplied 'the' (rule 29).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Nomen rectum with its relational 'of' (rule 19).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Participial predicate: it takes the construction-supplied copula (rule 20), the supplied comparative 'as' construing it as a comparison (rule 33), the supplied 'one' making it substantival (rule 46) and its phrasal particle 'out' (rule 44).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Supplied subordinator for a clause the Hebrew writes with no conjunction in it; no morpheme licenses it (rule 55). Competing reading takes 'as when' whole as the comparative expression on the participle.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Waw rendered by the resumptive 'Therefore' (rule 14).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Imperative with its phrasal particle 'off', which completes the lexeme (rule 44).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Article; the ASV writes 'contention' with no 'the' (rule 29).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun rendered 'contention'.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Preposition on a construct noun rendered by the single word 'before' (rule 30), headed on the construct noun (rule 23).",
+      "source": [
+        "s006",
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Finite verb recast presentatively; the dummy 'there' and the copula belong to the verb's unit (rule 17), headed on the word carrying the predication.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "PRO.17.14",
+  "review_notes": [
+    "The italic comparative 'as' goes to the participial predicate under rule 33; the supplied 'when' beside it is added under rule 55, and the alternative whole-expression reading is named."
+  ]
+}

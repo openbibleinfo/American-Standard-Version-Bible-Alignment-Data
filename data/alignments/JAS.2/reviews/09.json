@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "202b30ebd92e0e8b5a318e04ccaff4e8b101c3d9eed1cc45d21c6724587f98cb",
+  "contract_version": "nt-greek-verse-v62",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed; the accepted alignment stands unchanged. Only the notes were strengthened, chiefly on s003.",
+    "All 11 source and 17 target ids partitioned exactly once; every unit is aligned with nonempty arrays and heads drawn from their own arrays.",
+    "No unrepresented or added units are warranted: every source token has an English realization and every English token answers to a source token. Nothing is displaced into a neighbouring verse (rule 37) and the verse carries no fallback-exclusion mark (rule 97).",
+    "s003 is the only materially contested head. *respect* over *persons* is argued from rule 91's operational test rather than from rule 17's meaning-bearing clause alone; the note names the competing reading and why it is refused. If a chapter conventions log records JAS.2.1's προσωπολημψίαις → *respect of persons* headed otherwise, that unit governs and this one should be brought into line with it.",
+    "τοῦ νόμου was audited under rule 13 and split: the expressed ὑπό takes *by*, so the article takes a bare *the* and the noun stands alone rather than the article carrying a case preposition under rule 21.",
+    "s003's *of* is idiom-internal, not a case preposition and not a realization of any Greek preposition, so rule 36 does not pull it out of the unit."
+  ],
+  "ref": "JAS.2.9",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

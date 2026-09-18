@@ -1,0 +1,29 @@
+{
+  "chapter": "2KI.6",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2KI.6.33"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Protasis-initial connective supplied where the Hebrew opens the sentence without a conjunction, with the apodosis waw left bare (6.32 'but ere ... he said', 6.33 'And while ... behold'): the supplied connective is added (with an adjacent supplied subordinator as one unit) and the apodosis waw is unrepresented. Do not read the ASV's verse-initial 'And' as the וְהִנֵּה waw reordered; this matches 6.15, where the waw before a bare 'behold' is unrepresented.",
+    "וַיְהִי + subject + participle rendered periphrastically 'as X was V-ing' (6.5, 6.26): הָיָה takes only 'was'; no presentative frame is written, the supplied 'as' is added under rule 55, and the apodosis waw the ASV opens bare is unrepresented. Contrast the וַיְהִי frames of 6.20/24/30, where the apodosis waw takes 'that'.",
+    "אוֹתָם in 6.16 (מֵאֲשֶׁר אוֹתָם → 'than they that are with them') is tagged To by MACULA but is the preposition אֵת 'with' in sense; aligned as a prepositional predicate taking 'are with' with the copula under rule 49, not left unrepresented as an object marker. The אוֹתָם of 6.19 and 6.21 are true object markers and stay unrepresented.",
+    "'cut down' for גָּזַר (6.4, trees) and קָצַב (6.6, a stick) keeps the particle with the verb as the English phrasal rendering of felling rather than marking 'down' added; the notes name the alternative. The waw → 'And when' units (6.4, 6.15, 6.18, 6.23) are all headed on the coordinator, with 'when' named as the competing head."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 33 verses against the candidate table. Nearly every multi-treatment bucket is the ASV rendering one word differently (אֶל to/unto/with/into, אָדוֹן lord/master, נָא now/I pray thee, זֶה such/this, עוֹד yet/any longer) or a construction the source licenses (וַיְהִי frame with apodosis waw → that in 6.20/24/30 versus periphrastic הָיָה+participle → was with added 'as' in 6.5/26; article fronted before 'man of God' versus arthrous rectum in 'the eyes of the young man').",
+    "One real split: a connective the ASV supplies at the head of a protasis the Hebrew opens without a conjunction, while the apodosis waw is left bare. 6.32 ('but ere the messenger came... he said') marks the 'but' added and the waw before הוּא unrepresented; 6.33 ('And while he was yet talking... behold') instead gave the verse-initial 'And' to the waw before הִנֵּה as a reordering. Rule 14's apodosis sentence forbids reading a waw the ASV has left unrendered as the home for a connective written in another clause, and 6.15 in this chapter already leaves a bare-'behold' waw unrepresented. Patched 6.33 to match: 'And while' is one added unit, the וְהִנֵּה waw unrepresented.",
+    "Checked and left standing: 6.16 אוֹתָם tagged To but read as the preposition 'with' (rule 16's H854 caveat, sense over tag); 'cut down' for גָּזַר/קָצַב keeping its particle (6.4, 6.6); the four 'And when' units all headed on the coordinator; supplied 'he' in a later verbless clause given to an explicit הוּא (6.13, 6.30) and added where only inflection precedes (6.20); 6.3 waw → 'to' for the hendiadys 'be pleased to go' (alternative named in the note); 6.31 second כֹּה → 'also' in the oath formula (alternative named).",
+    "BSB disagreements are all documented convention differences: dative/possessive לְ before a bare English pronoun (rule 40), articles beside demonstratives, on vocatives and before 'a'/'such' renderings (rules 29, 36, 41), apodosis waws the ASV opens bare (rule 14), object markers (rule 16), the relative שֶׁ of מִשֶּׁלָּנוּ → 'of us' (rule 40), paragogic nun/he (rule 32), and interrogative הֲ where the ASV writes no auxiliary (rules 17, 43). None is an error in the ASV alignment.",
+    "No promotion: the 6.33 correction applies rule 14 as already written."
+  ]
+}

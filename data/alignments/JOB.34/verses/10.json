@@ -1,0 +1,240 @@
+{
+  "alignments": [
+    {
+      "note": "Preposition and adverb fused into one English word; headed on the morpheme carrying the lexeme (rules 30, 23).",
+      "source": [
+        "s001",
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Vocative construct noun takes the supplied *ye* into its own unit (rule 36).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Nomen rectum takes the *of* (rule 19).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Imperative.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Suffix as object pronoun.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The interjection takes the whole English formula, headed on the word carrying its force.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Paragogic he has no English realization (rule 32).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "One preposition whose scope is distributed across the two coordinated members; both *from*s belong to its one discontinuous unit, since no preposition stands before שַׁדַּי (rule 25).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t020"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "The assimilated article gets no *the* before *God* (rule 12).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Divine name.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Privative מִן recast as a clause takes the complementizer (rule 48).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Waw takes the written *And*.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Supplied *the* joins the name it determines (rule 15).",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Second privative מִן takes its own complementizer, as its parallel does.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "No verb morpheme stands in the clause: the supplied lexical verb and its subject are added under rule 20's supplied-lexical-verb clause. Rule 48 would keep only a subject and modal with an infinitive, and there is none here.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t015",
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t027"
+      ],
+      "target_head": "t027"
+    },
+    {
+      "note": "Supplied subject and lexical verb in the second colon, as in the first (rule 20).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t024",
+        "t025",
+        "t026"
+      ],
+      "target_head": "t026"
+    }
+  ],
+  "ref": "JOB.34.10",
+  "review_notes": [
+    "The second *from* is the לְ's distributed realization (rule 25); the alternative would leave it added, but the coordinated וְשַׁדַּי carries no preposition of its own.",
+    "The two *that*s belong to the two privative מִן morphemes; the supplied verbs beside them answer to nothing."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "ref":"JHN.1.27",
+  "alignments":[
+    {"source":[],"source_head":null,"target":["t001"],"target_head":"t001","status":"added","confidence":"high","note":"Italicized emphatic even has no projected source token."},
+    {"source":["s001"],"source_head":"s001","target":["t002"],"target_head":"t002","status":"aligned","confidence":"high","note":"Substantival article rendered he."},
+    {"source":["s002"],"source_head":"s002","target":["t005"],"target_head":"t005","status":"aligned","confidence":"high","note":"After."},
+    {"source":["s003"],"source_head":"s003","target":["t006"],"target_head":"t006","status":"aligned","confidence":"high","note":"Me."},
+    {"source":["s004"],"source_head":"s004","target":["t003","t004"],"target_head":"t004","status":"aligned","confidence":"high","note":"Attributive participle rendered relative clause."},
+    {"source":["s005","s011"],"source_head":"s005","target":["t010"],"target_head":"t010","status":"aligned","confidence":"medium","note":"Relative and resumptive possessives are compressed into English whose."},
+    {"source":["s006"],"source_head":"s006","target":["t014"],"target_head":"t014","status":"aligned","confidence":"high","note":"Not."},
+    {"source":["s007"],"source_head":"s007","target":["t012","t013"],"target_head":"t013","status":"aligned","confidence":"high","note":"First-person copula rendered I am."},
+    {"source":["s008"],"source_head":"s008","target":["t015"],"target_head":"t015","status":"aligned","confidence":"high","note":"Worthy."},
+    {"source":["s009"],"source_head":"s009","target":["t016"],"target_head":"t016","status":"aligned","confidence":"high","note":"Clause marker rendered infinitival to."},
+    {"source":["s010"],"source_head":"s010","target":["t017"],"target_head":"t017","status":"aligned","confidence":"high","note":"Unloose."},
+    {"source":["s012"],"source_head":"s012","target":["t007"],"target_head":"t007","status":"aligned","confidence":"high","note":"Article."},
+    {"source":["s013"],"source_head":"s013","target":["t008"],"target_head":"t008","status":"aligned","confidence":"high","note":"Latchet."},
+    {"source":["s014"],"source_head":"s014","target":[],"target_head":null,"status":"unrepresented","confidence":"medium","note":"Genitive article has no separate realization in the reordered English phrase."},
+    {"source":["s015"],"source_head":"s015","target":["t009","t011"],"target_head":"t011","status":"aligned","confidence":"high","note":"Genitive sandal rendered 'of ... shoe'."}
+  ],
+  "review_notes":["Medium confidence: ASV's single 'whose' compresses Greek οὗ and resumptive αὐτοῦ."]
+}

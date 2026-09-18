@@ -1,0 +1,181 @@
+{
+  "alignments": [
+    {
+      "note": "Συμεών → Symeon.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb with its auxiliary; head on the lexical verb.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "καθώς introducing the reported clause → how.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "πρῶτον → first.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Article before the name God; rule 23.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "θεός → God.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "ἐπεσκέψατο → visited.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Infinitive with its marker.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "ἐξ → out of, one prepositional expression headed on the prepositional word.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "The ASV moves the noun forward as the object of visited and leaves the anaphoric them in the prepositional phrase, so both mentions realize this one token and form one discontinuous unit under rule 15, headed on Gentiles under rule 17. A resumptive pronoun is exactly what rule 103 names as the contrast that folds onto its token, and the supplied the is an ordinary helper on an anarthrous noun under rule 51. Reading the Gentiles as an added repetition under rule 103 remains defensible, but nothing here is spent: the full lexical mention is the primary realization and the ASV italicizes neither word.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t014"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Anarthrous noun with the supplied indefinite as a rule 7 helper; rule 51.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "The genitive pronoun displaces the determiner into his; rule 20.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The case preposition stays with the noun where the article is displaced; rule 20, discontinuously under rule 15.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "αὐτοῦ → his.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    }
+  ],
+  "ref": "ACT.15.14",
+  "review_notes": [
+    "Corrected the treatment of ἐθνῶν: the accepted alignment gave it the anaphoric them and marked the Gentiles added under rule 103, which reverses the two mentions. Rule 103's added units are English whose licensing token has already spent its English on an earlier word, and it names a resumptive pronoun as the contrast that folds onto its token; here the full lexical mention comes first and the pronoun is the anaphor, so both are one discontinuous realization of ἐθνῶν under rule 15, headed on Gentiles.",
+    "The ASV italicizes neither the nor Gentiles, which under rule 11 is evidence against reading them as supplied.",
+    "The verse now carries no added unit and every source and target id is partitioned exactly once."
+  ]
+}

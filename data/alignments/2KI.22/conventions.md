@@ -1,0 +1,7 @@
+# 2 Kings 22 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **2KI.22.5** — עֹשֵׂי הַמְּלָאכָה → 'workmen' is one rule 30 unit on the construct participle and its rectum, headed on the construct (rule 23, both lexemes inside the one word); the rectum's article stands outside the fusion and takes the single written 'the' as the fronted article of the chain (rule 29), and the 'of' before 'workmen' after יַד is that outer chain's relation (rule 19). Applied identically at 22.5 (twice) and 22.9.
+- **2KI.22.5** — הַמֻּפְקָדִים בֵּית יְהוָה → 'that have the oversight of the house of Jehovah': the article takes 'that' (rule 41), the hophal participle takes 'have the oversight' headed on 'oversight' (rule 44), and the supplied 'of the' goes to בֵּית as a bare locative accusative under rule 33, not to the participle under rule 44 — the noun is not the passive participle's direct object and another preposition ('in') would have served. Applied identically at 22.5 and 22.9.
+- **2KI.22.9** — וַיָּשֶׁב אֶת־הַמֶּלֶךְ דָּבָר → 'brought the king word again': hiphil שׁוּב keeps 'again' in its own discontinuous unit under rule 44, since 'brought' alone does not write the returning; the marker is unrepresented and דָּבָר takes the bare 'word'. Applied identically at 22.9 and 22.20.

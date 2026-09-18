@@ -1,0 +1,257 @@
+{
+  "alignments": [
+    {
+      "note": "Postpositive particle rendered by the sentence-opening *But*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Rule 36: the English preposition governing the interrogative phrase is what realizes the Greek preposition, so the first *of* is `πρός` and not part of the verb.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Interrogative pronoun rendered *which*; it carries content of its own, so rule 64 does not touch it.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Rule 21: the partitive *of* plus the determiner form one unit on the article, headed on *the*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Head noun, left bare by rule 21.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Rule 9: auxiliary and inverted subject ride with the verb, headed on the lexical *said*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The indefinite temporal adverb takes the whole English frame *at any time*, headed on *time*, the word rendering the adverb's temporal sense. *any* is the competing head, rendering the indefiniteness, and would be defensible on the analogy of rule 69's `οὐδένα` → *any man* headed on *any*; I take *time* because nothing here is a generic completion — `ποτέ` is temporal and *time* is what carries that.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Imperative with its supplied subject pronoun as a rule 7 helper, headed on the verb.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "The ASV spreads the phrase over separate words, so rule 94 splits it and the preposition takes its own *on*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Genitive pronoun carrying the possessive *my*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Substantival adjective expanded with the generic noun *hand*; rule 17's generic-noun clause holds the head on the adjective.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Rule 50 refuses to leave `ἄν` `unrepresented`, and the ASV writes a single *Till* for `ἕως ἄν`, with no modal and no *-soever* for the particle to answer to separately. So the pair is one aligned unit under rule 39's test, some part of the English (*Till*) answering to `ἕως` — the treatment rule 50 gives a relative compressed with `ἄν` into one word. Giving *Till* to `ἕως` alone and marking `ἄν` `unrepresented` is the competing reading, and rule 50 names it as the recurring failure.",
+      "source": [
+        "s012",
+        "s013"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Rule 9: supplied subject pronoun rides with the verb, headed on the lexical *make*.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t020",
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Rule 20: the genitive `σου` is present and free and carries *thine*, so this article realizes nothing.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Substantival adjective rendered *enemies*.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Rule 20: genitive pronoun takes the possessive.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Anarthrous noun; rule 51's anarthrous clause makes the supplied *the* a rule 7 helper on it.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t024",
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "note": "Rule 20: `σου` carries *thy*, so the article governing `ποδῶν` realizes nothing and the case preposition *of* stays with the noun.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Discontinuous under rule 15, the possessive standing between; rule 20 leaves *of* with the noun.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t026",
+        "t028"
+      ],
+      "target_head": "t028"
+    },
+    {
+      "note": "Rule 20: genitive pronoun takes the possessive.",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t027"
+      ],
+      "target_head": "t027"
+    }
+  ],
+  "ref": "HEB.1.13",
+  "review_notes": [
+    "The two contested units are `ἕως ἄν` → *Till*, joined rather than leaving `ἄν` empty as rule 50 requires, and the head of *at any time*; both notes name the competing reading.",
+    "Three of the four articles are emptied by a free genitive `σου` under rule 20; only `τῶν` before `ἀγγέλων` takes an English determiner, and under rule 21 it takes the partitive *of* with it.",
+    "`ἐκ δεξιῶν μου` is spread over separate English words, so rule 94 forbids a compound unit and each token stands on its own."
+  ]
+}

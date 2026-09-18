@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "chapter": "2CH.29",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2CH.29.8.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere lezawah and ketiv lz'wh are orthographic variants of the same noun from z-w-' (trembling, horror). ASV 'to be tossed to and fro' with the note 'Or, a terror' renders that sense either way, and the note is classed alternative_rendering, so it is about English wording and cannot decide a reading. Nothing in the English distinguishes the two spellings; base qere fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.2CH.29.13.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV transliterates 'Jeuel', which reflects the ketiv y'w'l (Jeuel); the qere y'y'l would give 'Jeiel'. The English name form distinguishes the readings and matches the ketiv."
+    },
+    {
+      "unit_id": "WLC.2CH.29.14.v003",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV transliterates 'Jehuel', which reflects the ketiv yhw'l; the qere yhy'l would give 'Jehiel'. The English name form distinguishes the readings and matches the ketiv."
+    },
+    {
+      "unit_id": "WLC.2CH.29.28.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere mahtzerim and ketiv mahtzetzerim are spellings of the same hiphil participle of hatzotzer, 'to sound a trumpet'. ASV 'the trumpeters sounded' renders that participle and does not distinguish the two spellings; no note is mapped here. Base qere fallback carries the projection."
+    }
+  ]
+}

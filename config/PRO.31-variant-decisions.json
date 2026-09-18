@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "chapter": "PRO.31",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PRO.31.4.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the princes' words as a question, \"Where is strong drink?\", which is the interrogative qere אֵי. The mapped textual_variant note \"Another reading is, to desire strong drink\" reports the ketiv או (read as a desiderative) as the alternative the ASV did not put in its text, so the note confirms rather than unsettles the choice: the rendered reading is the qere."
+    },
+    {
+      "unit_id": "WLC.PRO.31.16.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV \"she planteth a vineyard\" carries a feminine subject continuing the woman of the verse, matching the qere נָטְעָה (3fs perfect). The ketiv נטע lacks the feminine ending and would be read as a masculine \"he planted\" or an infinitive, which the ASV wording does not permit. No note bears on this unit."
+    },
+    {
+      "unit_id": "WLC.PRO.31.18.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere בַלַּ֣יְלָה and ketiv בליל are the two forms of the same noun for night with the same preposition; both yield \"by night\". ASV's \"Her lamp goeth not out by night\" is identical under either, and no note is mapped here, so the base fallback carries the projection."
+    }
+  ]
+}

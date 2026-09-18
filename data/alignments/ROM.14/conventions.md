@@ -1,0 +1,6 @@
+# Romans 14 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Negative compound adverbs take the whole English negation as one `aligned` unit and head on the temporal word, not on the negative: μηκέτι → *not … any more* heads on *more* at 14:13 and οὐκέτι → *no longer* heads on *longer* at 14:15. The negative word spells only the compound's prefix, exactly as rule 84's *without* spells a privative's prefix and rule 66 heads a compound on its core rather than its prefixed element; rule 33's ἔτι → *more* is what the temporal element is worth on its own. Both units' notes concede a head on *no*.
+- A supplied English adverb filling an ellipsis that no standing token's own English is incomplete for is its own `added` unit under rule 5, not a rule 7 helper on the neighbouring verb: *alike* at 14:5 (κρίνει πᾶσαν ἡμέραν) and *again* at 14:9 (ἔζησεν). Rule 103's enumeration of what falls to it — nouns, predicates, verbs, quantifiers, antecedents — does not name an adverb, and this chapter reads one the same way, the ASV's italics corroborating under rule 11 rather than licensing. Both notes concede the fold.

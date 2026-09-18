@@ -1,0 +1,27 @@
+{
+  "chapter": "COL.4",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Where the ASV completes a partitive ἐκ phrase with a supplied *one* — `ἐξ ὑμῶν` → *one of you* at COL.4.9 and *is one of you* at COL.4.12 — this chapter gives the supplied *one* to the preposition rather than to the genitive pronoun, and heads the unit on the prepositional word *of*, the pronoun standing bare. That follows rule 67's clause for a prepositional predicate the ASV completes with a supplied nominal; but rule 67 leaves the head open where the frame's carrier is a proper preposition, so the head is this chapter's choice and not the contract's. Attaching *one* to `ὑμῶν`, or heading the unit on *one*, remains defensible, and a chapter departing from this reading should say so in the note.",
+    "A verbless clause whose predicate is a bare adverb carries the ASV's supplied verb on the adverb, whether that verb is a copula or a lexical one: `τοὺς ἔξω` → *them that are without* puts *are* on `ἔξω` (COL.4.5) and `τὰ ὧδε` → *things that are done here* puts the supplied *are done* on `ὧδε` (COL.4.9), the substantival article keeping only its nominal word and the supplied relativizer. Rule 53 names an adverbial predicate for a supplied copula and rule 62 names a prepositional one for a supplied lexical verb; this chapter read rule 62's carrier test as turning on what is left in the clause to carry the verb and not on the predicate's own class. The contract was left unamended for want of corpus evidence beyond this chapter's single lexical-verb instance, so a later chapter meeting the same shape should cite this entry."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v89",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 28 candidate groups plus the full verse dump end to end. No genuine cross-verse split: every multi-treatment bucket is licensed either by a difference in the Greek or by the ASV's own phrasing. Patches array empty.",
+    "Closest calls, both cleared: peri (4.3 'for' aligned / 4.8 unrepresented) and kata (4.7 unrepresented / 4.15 'is in'). 4.7 and 4.8 are both the ta + PREP + pronoun compression that rule 36 names by its own example (ta peri hemon -> 'our state'), and the chapter analyses that compression identically in both - the article keeps the nominal ('affairs', 'state'), the pronoun takes the possessive, the preposition is unrepresented. 4.3 has no substantivizing article and 4.15 has an English preposition word of its own, so the ordinary split applies there.",
+    "The substantival-article group (4.5, 4.9, 4.12, 4.13, 4.15 twice, 4.16) is uniform under rules 22, 31 and 32: the article keeps its pronoun or determiner plus any supplied relativizer, and the copula or supplied verb goes to the preposition or adverb. The two 4.15 articles take 'the ... that' rather than 'them that' only because they precede the nouns they govern, which is rule 31's preceding-article arm; 4.13 carries no relativizer because the ASV wrote none.",
+    "Article versus genitive pronoun for a supplied possessive is decided by the source throughout: 4.1 'unto your' and 4.12 'his' take rule 20's second arm with no free source word (Epaphras already spent on 'Epaphras' under rule 76), while 4.6, 4.8, 4.10 and 4.18 leave the article unrepresented because hymon, mou or eme is free. Impersonal dei with an expressed accusative subject and an infinitive is analysed identically at 4.4 and 4.6, and partitive ex hymon -> 'one of you' identically at 4.9 and 4.12.",
+    "The candidate table is blind to `added` units, so I checked the inverse case in the dump: the chapter marks nothing `added` (268 aligned, 17 unrepresented; 286 source and 370 target ids partitioned). The three repeated English words - the second hina-'that' at 4.8, the repeated hyper-'for' twice at 4.13, the repeated 'epistle' at 4.16 - are folded as rule 7 helpers under rules 103 and 102, each of which names that case in terms. Head choices on support frames are uniform too: 'make known' on known (4.7, 4.9), 'make manifest' on manifest (4.4), 'bear witness' on witness (4.13), 'Take heed to' on heed (4.17), while renderings whose verb word glosses the lexeme head there ('Continue stedfastly' 4.2, 'fully assured' 4.12).",
+    "BSB: all four disagreements are documented convention differences and none is an error. COL.4.2 Tei is rule 21's own cited te proseuche -> 'by prayer' shape, the ASV giving 'prayer' no determiner; COL.4.18 tei is rule 54's possessive-adjective displacement before eme; COL.4.7 kat and COL.4.8 peri are rule 36's 'our state' compression. No accepted edge changed.",
+    "Promotion declined and recorded as convention 2 instead: COL.4.9 puts the supplied lexical 'are done' on the adverb hode, where rule 62's text names only a prepositional predicate for a supplied lexical verb while rule 53 names an adverbial one only for a copula. Widening rule 62 follows its own carrier test, but the support is one unit in this chapter and the precedent supplied does not reach the case, so the contract is left alone."
+  ]
+}

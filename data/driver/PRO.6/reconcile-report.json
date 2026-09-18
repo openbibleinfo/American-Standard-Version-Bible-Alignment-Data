@@ -1,0 +1,28 @@
+{
+  "chapter": "PRO.6",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "In a negated verbless possessive clause ('eyn + le- + suffix), the possessive preposition carries the ASV's word of having and 'ayin takes only the negation word: PRO.6.7 gives 'having' to the le- under rule 43's verbless-clause sentence and 'no' to 'ayin under rule 50, which heads it on the negation. Rule 43's sentence giving the 'have' to a present hayah does not extend to 'ayin, which is a particle of nonexistence and not a verb; the division is rule 48's, where a present negative morpheme takes the negation word while the other morpheme keeps the rest. The resumptive suffix on that preposition is the unrendered occurrence under rules 22 and 43, because the written relative already carries the resumption and no subject pronoun stands beside it. BSB represents that suffix; the difference is conventional and was not treated as an error."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v190",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 37 candidate lemma groups and the full verse dump end to end. No construction is analysed two ways with nothing in the source to license the difference, so patches is empty.",
+    "Supplied relatives are the chapter's most repeated judgment and are consistent. They are licensed by the morpheme they stand on in PRO.6.12, 6.13 (three), 6.14, 6.17, 6.18 (two), 6.19, 6.29 and 6.32 - bare participles and articleless attributives under rules 41 and 46, the substantival article under 41, the suffix-borne 'whose' of 6.14 under 18 - and 'added' where the ASV writes one over a finite clause juxtaposed to a written antecedent: 6.14's second 'Who', both 'which' of 6.16, and 6.19's 'that'. PRO.6.14 and PRO.6.19 each apply both sides inside one verse, which is what shows the discrimination was deliberate rather than drifting.",
+    "Fusion status sorts by rule 6's lexeme test throughout: aligned where one morpheme's lexeme is written (ishshah zonah -> 'harlot' headed on zonah, nafsho -> 'himself', kol ha- -> 'Whosoever', bekhol-'et -> 'continually'), noncompositional with the first-token anchor where none is ('eshet 'ish -> 'adulteress', 'al-ken -> 'Therefore', nasa panim -> 'regard'). The corpus carries both statuses for kol ha- -> 'whosoever' (10 aligned, 6 noncompositional), so that unit is not a divergence.",
+    "Negation with a waw follows what each colon writes: PRO.6.4 gaps the negative and the 'Nor' rests on the waw alone under rule 35, with the competing distributed-'al reading named in the unit note; PRO.6.25 and PRO.6.35 write the negative beside the waw and fuse, headed on the negative.",
+    "Determiner counting is uniform in every construct chain (6.2, 6.5, 6.10, 6.12, 6.17, 6.19, 6.24, 6.26, 6.31, 6.34): each written determiner goes to the word it stands before - hence 'of the hands' on the rectum in 6.10 and 'the words' on the construct in 6.2 - and a single supplied determiner goes to the construct noun in both attributive orders (6.11, 6.12, 6.17, 6.19, 6.24).",
+    "Copulas sit on the predicate read from the Hebrew in all eight verbless clauses, including the fronted predicates of 6.23 (three) and 6.34 and the prepositional predicate of 6.14. PRO.6.12 is the only contested subject/predicate reading; the participial phrase is the predicate on the standard reading as well as the ASV's, and the unit note already records the competing analysis, so no edge was changed.",
+    "The ten 'added' units were checked against their mirror cases, since the candidate table is blind to them: the supplied coordinator of 6.8 is the chapter's only one (every other colon writes its waw), the supplied subject 'Men' of 6.30 is rule 17's, and the two supplied runs of 6.5 and 6.26 are each kept whole under rule 2 rather than divided word by word.",
+    "BSB: all six disagreements are the documented convention differences - the object marker in 6.22 and 6.31, an article where the ASV writes no 'the' in 6.28, a preposition whose relation the recasting leaves unstated in 6.29 and 6.30, and the resumptive suffix of 6.7 and the resuming pronoun of 6.16. None is a genuine error, and none was touched.",
+    "One convention recorded, for the 'eyn le- possessive of PRO.6.7, which is the only place in the chapter where two contract sentences could plausibly have been read against each other. Nothing here generalises beyond what rules 6, 29, 35, 41, 46 and 55 already say, so promotions and amendments are empty."
+  ]
+}

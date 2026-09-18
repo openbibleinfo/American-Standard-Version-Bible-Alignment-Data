@@ -1,0 +1,26 @@
+{
+  "chapter": "1SA.29",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The evaluative idiom X בְּעֵינֵי Y (טוֹב / רַע / עָשָׂה רַע) is fused into one unit only where the ASV writes a single English verb for the whole expression: 29.7 תַעֲשֶׂה רַע בְּעֵינֵי → displease (contiguous, rule 30/40) and 29.6 טוֹב ... בְּעֵינֵי → favor (across the lords and not, read under rule 35's test of what the one English word carries; the rule 40 contiguity reading, favor on טוֹב alone with בְּ and עַיִן unrepresented, is named in the note). Where the ASV writes a word for each morpheme (good in my sight, 29.6 and 29.9) the expression is split as ordinary text.",
+    "מִיּוֹם follows what the ASV writes for the noun: fused to since where no day is written (29.3, headed on the construct under rule 30); split since / the day where the ASV writes the day (29.6); and with a following אֲשֶׁר rendered so long as taken as one indivisible unit (29.8, noncompositional, first token as anchor).",
+    "שָׁכַם is headed on the English verb wherever one is written (rise up early 29.10, rose up early 29.11) and on the predicate up where the ASV writes only are up early (29.10); early is named as the competing head in each note. Phrasal particles the ASV writes for a verb's own lexeme (gathered together, passed on, fell away, going out, coming in, go up, go down, go back) stay with the verb throughout, heads on the verb."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 35 candidate lemmas and the dump end to end for added-vs-folded splits. Every difference in the table is licensed by the ASV's own wording: מִיּוֹם is fused to since only where the ASV writes no day (29.3), split since / the day where it writes one (29.6), and taken whole as so long as with its אֲשֶׁר (29.8); בַּמִּלְחָמָה takes the where the ASV writes the battle (29.4b, 29.9) and leaves the article unrepresented for to battle (29.4a); הֲ takes the fronted Is (29.3, 29.5) and the fronted should (29.4), where the ASV writes a second be for the prepositional predicate.",
+    "The בְּעֵינֵי idiom is treated one way throughout: where the ASV writes a single English verb for the whole expression it is fused (29.7 displease, contiguous; 29.6 favor, across the lords and not under rule 35's what-the-word-carries test, with the rule 40 contiguity reading named in the note), and where the ASV writes each word (29.6 good in my sight, 29.9 art good in my sight) it is split. Not a split; recorded as a convention.",
+    "Five added units (do, here, rather, unto me in 29.3; it in 29.4) all answer to no morpheme and none is folded elsewhere in the chapter; phrasal particles (gathered together, passed on, fell away, going out, coming in, go up, go down, go back, rise up early) are kept with their verbs consistently, heads on the verb.",
+    "BSB disagreements are all documented convention: 8 articles the ASV writes no the for (this day, these men, to battle, in dances), 5 prepositions the recasting silences (לֵאמֹר, resultative לְ, בְּ before a promoted object), the asseverative כִּי after As Jehovah liveth, and the waw before depart that the ASV leaves unwritten. No genuine error.",
+    "No promotion: the one point of contract tension (rule 40's contiguity limit against rule 35's carries-every-morpheme test for a non-contiguous idiom fusion) rests on a single verse with no corpus precedent shown, and the verse note already names both readings."
+  ]
+}

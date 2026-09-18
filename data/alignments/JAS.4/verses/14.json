@@ -1,0 +1,261 @@
+{
+  "alignments": [
+    {
+      "note": "The indefinite relative is rendered by the subordinator *whereas*, which introduces its English clause (rule 40's principle that a subordinating element is realized by whatever word introduces its clause). The subject pronoun *ye* is left to the finite verb under rule 9; giving *ye* to the nominative relative instead remains defensible, but rule 9 names subject, auxiliary and lexical verb as the inflected verb's own, and the relative already has its English word.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Rule 9: the inflected verb takes its English subject and lexical verb, headed on *know* rather than on *ye*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Ordinary negative aligned to *not*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Substantival article governing the genitive phrase, rendered by *what* under rule 22. Its complement is a genitive phrase with no verb to carry a relativizer, so the article keeps the nominal word itself; the supplied verb goes to the predicate under rules 53 and 96, not here, since this article is the clause's subject nominal.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Rule 21: the article takes the English determiner with the case preposition riding along, and rule 17 heads *on the* on *the*. Rule 96 keeps the supplied verb off the determiner-carrying article.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Rule 96: the article inside the predicate keeps only *on the*, and the predicate word takes the supplied *shall be*, discontinuously under rule 15 — the shape of rule 96's `τῆς παρακλήσεως` → *of the* / *are ye … comfort*. Giving *shall be* to the substantival article τό with *what* is the competing reading; rule 53's principle that a supplied verb goes to the predicate rather than the subject rules it out.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Verbless clause with an adjectival (interrogative) predicate: rule 53 gives the supplied copula to the predicate itself, headed on *What*, the word realizing the lexeme. Rule 63's subject-pronoun exception is not in play, the subject being the noun phrase ἡ ζωὴ ὑμῶν and the predicate not a noun phrase.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Rule 20: the genitive pronoun ὑμῶν is present and free to carry the English possessive — rule 76's availability test is satisfied, ὑμῶν being spent on nothing else — so the article realizes nothing.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The genitive pronoun carries the possessive under rule 20.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Noun standing bare, its determiner slot taken by the possessive.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Postpositive conjunction aligned to the English *For*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Rule 9: the expressed finite verb takes its subject pronoun and the copula, headed on *are*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Anarthrous Greek: rule 51's second arm makes the supplied *a* an ordinary rule 7 helper on the noun it determines. Rule 31's closing clause agrees, an article that follows its noun leaving the determiner on the noun and supplying one there when the noun is anarthrous.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Rule 31: the article follows an expressed head noun that already carries its own determiner (*a vapor*), so the supplied relativizer is the participle's helper and this article realizes nothing. Rule 90 does not reach it, saying in terms that it blesses no unit in which a head noun is expressed.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rule 31: the attributive participle rendered as a finite relative clause keeps the relativizer as its helper, headed on the lexical verb.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t020",
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Rule 36: the English preposition governing the phrase realizes the Greek preposition.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Substantival adjective with no expressed noun: rule 58's substantival clause gives it the supplied determiner, and rule 17's generic-noun clause keeps the head on the adjective, *time* being the empty completion (cf. *all things* heading on *All*). Rule 91's test agrees, the corpus spending *little* on ὀλίγος and never *time*.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t023",
+        "t024",
+        "t025"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Adverb aligned to *then*; the English reorders it after *and*, which rule 15 permits.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t027"
+      ],
+      "target_head": "t027"
+    },
+    {
+      "note": "The conjunction takes the English *and* it writes; rule 2 keeps the adverb's own word on the adverb. Rules 88 and 98 are not in question, the conjunction being expressed rather than supplied.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t026"
+      ],
+      "target_head": "t026"
+    },
+    {
+      "note": "The phrasal *vanisheth away* is the verb's own particle, headed on the verb word that glosses the lexeme under rule 91.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t028",
+        "t029"
+      ],
+      "target_head": "t028"
+    }
+  ],
+  "ref": "JAS.4.14",
+  "review_notes": [
+    "Reviewed against the contract and returned unchanged; no unit was altered.",
+    "Partition verified by enumeration: all 20 source IDs (s001-s020) and all 29 target IDs (t001-t029) appear exactly once, and no ID is invented.",
+    "Every aligned unit has nonempty source and target arrays with both heads inside their arrays; the two unrepresented units (s008, s014) are source-only with a valid source head, empty target and null target head. There are no added or noncompositional units.",
+    "The one materially contested split is s005/s006: *shall be* rides with the predicate word αὔριον under rules 53 and 96 rather than with the substantival article τό. Rule 53 forbids reading the supplied verb off the subject side, and rule 96 bars the determiner-carrying τῆς from being the carrier, leaving αὔριον with the discontinuous *shall be … morrow* under rule 15 — the shape of rule 96's τῆς παρακλήσεως → *of the* / *are ye … comfort*. The competing reading, τό → *what shall be*, is named in that unit's note.",
+    "s001 keeps only *whereas* and s003 keeps *ye know*: rule 9 gives the subject to the inflected verb, and the relative already has the word that introduces its English clause under rule 40's principle. Reading οἵτινες → *whereas ye* remains defensible and the note says so.",
+    "The two unrepresented articles rest on different grounds and were checked separately. s008 empties under rule 20 with rule 76's availability test satisfied, ὑμῶν carrying nothing but *your*. s014 empties under rule 31 because ἀτμίς is an expressed head noun and the participle φαινομένη carries the supplied relativizer; rule 90 says in terms that it blesses no unit with an expressed head noun, so it does not compete.",
+    "Variants: v019, v022 and v023 are underdetermined and resolved to r00-base, and v020 and v021 are selected to r00-base. None carries a FALLBACK EXCLUDED BY EVIDENCE mark, so rule 97 is not engaged and no English word here is unlicensed. Rule 12 was respected — no textual decision was reopened inside the alignment."
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "ref": "EPH.5.26",
+  "alignments": [
+    {
+      "source": ["s001"],
+      "source_head": "s001",
+      "target": ["t001"],
+      "target_head": "t001",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s002"],
+      "source_head": "s002",
+      "target": ["t005"],
+      "target_head": "t005",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s003"],
+      "source_head": "s003",
+      "target": ["t002", "t003", "t004"],
+      "target_head": "t004",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Subject and auxiliary are helpers on the inflected verb; head on the lexical verb."
+    },
+    {
+      "source": ["s004"],
+      "source_head": "s004",
+      "target": ["t006", "t007", "t008"],
+      "target_head": "t007",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The participle's object is unexpressed in Greek; the supplied second *it* is its helper."
+    },
+    {
+      "source": ["s005"],
+      "source_head": "s005",
+      "target": ["t009", "t010"],
+      "target_head": "t010",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Dative article carries the case preposition: *by the* headed on *the*."
+    },
+    {
+      "source": ["s006"],
+      "source_head": "s006",
+      "target": ["t011"],
+      "target_head": "t011",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s007"],
+      "source_head": "s007",
+      "target": [],
+      "target_head": null,
+      "status": "unrepresented",
+      "confidence": "high",
+      "note": "ASV has no *the* before *water*, so the genitive article has no English realization."
+    },
+    {
+      "source": ["s008"],
+      "source_head": "s008",
+      "target": ["t012", "t013"],
+      "target_head": "t013",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "*of* is the genitive helper on the noun."
+    },
+    {
+      "source": ["s009"],
+      "source_head": "s009",
+      "target": ["t014"],
+      "target_head": "t014",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s010"],
+      "source_head": "s010",
+      "target": ["t015", "t016"],
+      "target_head": "t016",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Greek is anarthrous; the supplied English article is a helper on the noun."
+    }
+  ],
+  "review_notes": []
+}

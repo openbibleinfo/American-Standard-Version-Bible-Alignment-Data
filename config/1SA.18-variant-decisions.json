@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "chapter": "1SA.18",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1SA.18.1.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'Jonathan loved him' renders a 3ms verb with 3ms object. The qere gives that plene; the ketiv ויאהבו is readable as the same form with a defectively written suffix. The English does not distinguish the spellings, and no note is mapped here."
+    },
+    {
+      "unit_id": "WLC.1SA.18.6.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'singing' matches the qere לשיר directly, but the ketiv לשור is readable as a variant spelling of the same infinitive 'to sing'. The English cannot separate the two orthographies; both verse notes are alternative_rendering and touch other words."
+    },
+    {
+      "unit_id": "WLC.1SA.18.7.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'his thousands' is plural, as the qere באלפיו spells it; the ketiv באלפו is the routine defective writing of the same plural suffix (ו for יו), not a distinct singular the English would exclude. The only note is alternative_rendering on 'sang one to another'."
+    },
+    {
+      "unit_id": "WLC.1SA.18.9.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'eyed' renders the participle 'eyeing' that the qere עוין spells plene; the ketiv עון is readable as the same participle written defectively. The English wording does not distinguish them and no note is mapped to this unit."
+    }
+  ]
+}

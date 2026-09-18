@@ -1,0 +1,133 @@
+{
+  "alignments": [
+    {
+      "note": "Verb with its subject pronoun and phrasal complement; the head stays on the lexical verb (rules 17, 44).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Substantival adjective completed by a supplied generic noun; head on the lexeme-bearing *mighty* (rule 31).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The negative is rendered by *past*, which is what English spends on the negation here.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The noun of searching is rendered by *finding out*; head on the lexeme word (rule 24). The margin's *without inquisition* was read and set aside (rule 38).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Waw takes the written *And*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Finite verb.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Substantival adjective.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Multi-word English preposition; head on the token carrying the lexeme (rule 24), discontinuous around the possessive.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Suffix as possessive.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Both the preposition and the head noun are supplied in a clause whose Hebrew writes neither, so the whole phrase is added (rule 33); the ASV italics corroborate (rule 7).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    }
+  ],
+  "ref": "JOB.34.24",
+  "review_notes": [
+    "לֹא־חֵקֶר was split between *past* and *finding out* under rule 2 rather than fused, since each English piece is independently owned."
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "chapter": "2PE.3",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.2PE.3.3.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'in the last days' with the note 'Greek in the last of the days' renders the phrase ep' eschaton/eschatou ton hemeron identically either way; the singular/plural form of the substantive is invisible in the English."
+    },
+    {
+      "unit_id": "SBLGNT.2PE.3.3.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'mockers shall come with mockery' renders en empaigmone explicitly; the omission would leave 'with mockery' untranslated."
+    },
+    {
+      "unit_id": "SBLGNT.2PE.3.7.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'by the same word' renders the intensive/identifying auto(i) (to auto logo); the genitive autou would give 'by his word', which the ASV does not print."
+    },
+    {
+      "unit_id": "SBLGNT.2PE.3.9.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'The Lord' is the ordinary English rendering of kyrios with or without the Greek article; nothing in the verse or its notes distinguishes the articular from the anarthrous reading."
+    },
+    {
+      "unit_id": "SBLGNT.2PE.3.9.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'is longsuffering to you-ward' renders the second-person hymas; hemas would require 'to us-ward'."
+    },
+    {
+      "unit_id": "SBLGNT.2PE.3.10.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'the day of the Lord' supplies the English definite article as normal for a definite genitive construction, so it does not show whether the Greek printed the article before hemera."
+    },
+    {
+      "unit_id": "SBLGNT.2PE.3.10.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'will come as a thief' has no rendering of en nykti; the longer reading would give 'as a thief in the night'."
+    },
+    {
+      "unit_id": "SBLGNT.2PE.3.10.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'the elements shall be dissolved' is the same English for the singular or plural verb with the neuter plural subject stoicheia; Greek verb number is not visible in the translation."
+    },
+    {
+      "unit_id": "SBLGNT.2PE.3.10.v009",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text 'the earth and the works that are therein shall be burned up' renders katakaesetai; the ASV note 'The most ancient manuscripts read discovered' explicitly relegates heurethesetai to the margin, confirming katakaesetai as the text translated."
+    },
+    {
+      "unit_id": "SBLGNT.2PE.3.11.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Seeing that these things are thus all to be dissolved' renders houtos with 'thus'; the inferential oun would give 'therefore' and leave 'thus' unaccounted for."
+    },
+    {
+      "unit_id": "SBLGNT.2PE.3.15.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'according to the wisdom given to him' fixes the English order regardless of whether the Greek printed dotheisan auto or auto dotheisan; this is a word-order variant with no effect on the rendering."
+    },
+    {
+      "unit_id": "SBLGNT.2PE.3.16.v012",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'in all his epistles' supplies a possessive rather than an article, and English requires a determiner here either way, so the presence or absence of tais is not distinguished."
+    },
+    {
+      "unit_id": "SBLGNT.2PE.3.16.v013",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'wherein are some things hard to be understood' is equally ambiguous as to antecedent: the feminine hais (the epistles) and the masculine/neuter hois (the things spoken of) both yield 'wherein'."
+    },
+    {
+      "unit_id": "SBLGNT.2PE.3.18.v014",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV prints 'Amen.' at the close of the verse, rendering amen; the omission would end at 'both now and for ever'."
+    }
+  ]
+}

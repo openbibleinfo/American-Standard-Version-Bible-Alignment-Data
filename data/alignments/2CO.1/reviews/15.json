@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "0c75e02f2b2ab3e47844614715a541a9ad77eba7bb4fd2e38273f122f0d937a1",
+  "contract_version": "nt-greek-verse-v58",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed against the contract and the token table: every s### and t### is partitioned exactly once, all heads are members of their arrays, and the unit boundaries are unchanged from the accepted alignment. Only s012's confidence was corrected.",
+    "s003 stays unrepresented under rule 38: ταύτῃ is attributive and already occupies the English determiner slot, so the article realizes nothing and cannot anchor the case preposition. Rule 21's determinerless case therefore puts in on the noun s004 rather than on the article.",
+    "s011/s012 follow rule 58 without qualification — the supplied a determines the noun phrase, so it rides with χάριν and δευτέραν stays bare. Rule 58 forbids reading a supplied determiner off English word order, which is the only thing an a-on-second reading could rest on, so the previous medium was hedging against a settled line (rule 84) and is raised to high. The remaining uncertainty the old note recorded — the margin's Or, grace — is a lexical-gloss question that changes no unit boundary or head, so it is not a rule 16 competing analysis; it is kept in the note as information.",
+    "s013 is not a rule 73 light-verb collapse: ἔχω + χάρις is spelled out as two English words (have, benefit), which is rule 73's own rule 2 contrast, so the pair splits and the supplied ye/might ride with the finite verb.",
+    "χάριν is tagged N-ASF and governed by σχῆτε with δευτέραν agreeing, so rule 46's postposition frame is not in question anywhere in this verse."
+  ],
+  "ref": "2CO.1.15",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

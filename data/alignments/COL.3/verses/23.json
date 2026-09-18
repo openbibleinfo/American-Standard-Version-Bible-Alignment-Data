@@ -1,0 +1,134 @@
+{
+  "alignments": [
+    {
+      "note": "Relative compressed with the generalizing ἐάν into a single '-soever' word, one aligned unit (rules 50, 72). SBLGNT.COL.3.23.v021 selected r00-base.",
+      "source": [
+        "s001",
+        "s002"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Subjunctive with supplied subject, headed on the verb (rules 7, 9).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "One English word for the whole prepositional phrase, answering to neither token separately: nothing spells ἐκ, and the corpus glosses ψυχή 'soul' and 'life', never 'heart' — the ASV's own note ('Greek from the soul') is what shows the rendering is not compositional (rules 45, 93). Head on the governed word. Splitting 'heartily' across the two, or reading 'heart-' as a gloss of ψυχῆς and aligning under rule 35, remains the competing reading.",
+      "source": [
+        "s004",
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "noncompositional",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Imperative.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Comparative adverb.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The ASV writes a determiner for the noun, so the article takes it and the case preposition rides along, headed on 'the' (rules 17, 21).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Noun, left bare by rule 21.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Connective.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Ordinary negative; no negative indefinite follows.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Determinerless dative: the case preposition stays with the noun (rule 21).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "COL.3.23",
+  "review_notes": [
+    "The two datives are decided by the ASV's phrasing: 'unto the' anchors on the article at s008, while the anarthrous s012 keeps 'unto' on the noun (rules 21, 24).",
+    "ἐκ ψυχῆς read as noncompositional under rule 45, with the competing rule 35 reading recorded."
+  ]
+}

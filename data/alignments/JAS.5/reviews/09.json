@@ -1,0 +1,17 @@
+{
+  "alignment_sha256": "3c4d88a0e314aa9062ceb1b014190b938fa37d7be5f6bd89201b41910400a655",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed against nt-greek-verse-v65; the accepted alignment is returned unchanged. All 15 source ids and all 18 target ids are partitioned exactly once, and every unit is aligned, with no unrepresented, added or noncompositional units.",
+    "The one materially contestable unit is the s006/s007 pair. Rule 39 makes 'hina me' one noncompositional unit where the ASV renders it by a single word such as 'lest'; here the ASV writes 'that ye be not judged', two separate English words each answering to a source token, so rule 39's own test (whether some part of the English answers to a source token) splits them under rule 2 rather than joining them. Rule 94 states the same precondition from the other side for a prepositional pair: one unit only where the ASV wrote one English word. The joined reading remains the competing analysis and is named in the s007 note.",
+    "The head on 'another' for 'allelon' is settled rather than a judgment call: rule 83 records thirty corpus units on the 'allos'-word against four on 'one', none of the four giving head reasoning, and rule 17 forbids choosing 'one' merely because it stands first. The discontinuous 'one ... another' around 'against' is rule 15's ordinary case, with the preposition keeping its own English word under rule 36.",
+    "'kritheite' takes its supplied 'ye' and passive 'be' inside its own unit under rules 7 and 9 and heads on 'judged'. Rule 74 is not in question, no infinitive standing, and rule 85 is not, no supplied complementizer standing over a non-finite complement -- the 'that' here answers to an expressed 'hina' and is aligned under rule 40.",
+    "Both articles take a bare 'the' under rule 19. Neither is a candidate for rule 21's 'of the' shape, since 'pro' is expressed and realizes the genitive itself, and neither is emptied by rules 20, 38, 47, 49 or 57, no possessive, demonstrative, interposed genitive or English possessive-'s standing in either phrase.",
+    "Variant SBLGNT.JAS.5.9.v006 is underdetermined over s003-s005 and resolves to r00-base, which is compatible with the ASV's 'brethren ... one against another'. No FALLBACK EXCLUDED mark is present, so rule 97 is not in question and rule 12 forbids revisiting the textual decision inside the alignment file.",
+    "No chapter-convention question arises from this verse: nothing here departs from a reading its neighbours took, so there is nothing to record in the JAS.5 conventions log on its account."
+  ],
+  "ref": "JAS.5.9",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

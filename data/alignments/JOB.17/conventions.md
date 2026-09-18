@@ -1,0 +1,7 @@
+# Job 17 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **JOB.17.9** — Anarthrous substantival adjectives, including one in construct on a following noun (טֳהָר־יָדַיִם → 'he that hath clean hands'), take the ASV's supplied 'the', 'men', 'a ... man' or 'he that' into their own unit under rule 46 (17.8, 17.9, 17.10). A supplied verb of having that recasts the construct relation ('hath') is the only added word; rule 2's טוֹב־עַיִן 'He that hath' precedent applies only where a written הוּא takes the 'He' and the phrase is a predicate.
+- **JOB.17.16** — Where the ASV recasts a colon and supplies an English subject pronoun, the pronoun goes with a finite Hebrew verb the ASV keeps as the English predicate even across a number mismatch ('It shall go down' for 3fp תֵּרַדְנָה, rule 17), and is added where the English predicate answers to a noun the ASV has verbalized and the Hebrew finite verb is dropped ('they spit' for תֹּפֶת ... אֶהְיֶה, 17.6, with אֶהְיֶה unrepresented).
+- **JOB.17.10** — A fronted nominal with no marker and no preposition on it leaves the ASV's 'as for' added under rule 16 (17.10 כֻּלָּם, 17.15 תִקְוָתִי); an appositional 'Even' before a phrase with neither marker nor waw is added on the same terms (17.11), while the waw of 17.5 takes its own 'Even' under rule 14.

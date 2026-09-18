@@ -1,0 +1,25 @@
+{
+  "chapter": "PSA.84",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Title formulae: לַמְנַצֵּחַ → 'the Chief Musician' is one unit on the participle headed on Musician (the class noun; Chief is the defensible competing head); עַל in 'set to the Gittith' takes the whole fixed 'set to' and heads on the relational 'to', with the article and Gittith each taking their own word. Recorded so a later reader does not re-litigate the head choices in the title."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 17 candidate lemmas: every multi-treatment bucket is licensed by context (predicate vs adjunct בְּ in v5; vocative vs non-vocative יהוה in v8/v11; rectum vs bare אֱלֹהִים in v10/v3; thy/thine orthography in v1/v3; dedicatory For vs 'withhold from' לְ in v0/v11). No construction is analysed two ways.",
+    "Read the dump for added units the table cannot see: v3 'her', v6 'it' (supplied objects, rule 44), v7 'Every one of them' (supplied lexical subject, rules 17/25) and v5 'to Zion' are all added and nothing comparable is folded into a host elsewhere.",
+    "Participle handling is consistent with the morphology present: v4 anarthrous construct participle takes 'they that' (rule 46); v11 article takes 'them that' (rule 41); v12 attributive participle keeps 'that' (rule 41); v6 עֹבְרֵי → 'Passing'.",
+    "BSB disagreements (v5 possessive לְ silenced by the 'whose' recasting, rule 40; v8 two paragogic he, rule 32) are documented convention differences, not errors.",
+    "v10 'I had rather' stays with בָּחַרְתִּי (its whole lexeme) and 'than' alone with מִן; rule 24's degree-adverb case does not reach a word without which the verb has no rendering.",
+    "Nothing general learned; no promotions or amendments."
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "alignments": [
+    {
+      "note": "δέ → But.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Name.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "καί → and.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Article → the.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Participle rendered finite.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Rule 88: the juncture introducing the finite verb is its helper.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Corrected: impersonal δεῖ is rendered by the bare modal must. Rule 50 already lets a token stand on a bare modal auxiliary, and δεῖ has no personal subject of its own — its Greek subject is the infinitive clause.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Corrected: rule 74 — a supplied subject of a Greek infinitive is a rule 7 helper on the infinitive, not on the finite verb governing it, and rule 74's own examples place it against English contiguity. The logical subject of πειθαρχεῖν is unexpressed in the Greek and supplied by the ASV as We, so the unit is the discontinuous We … obey under rule 15, headed on the lexical obey. Reading We must as δεῖ's own unit under rule 9 remains defensible, but rule 9's licence is for a verb's own subject.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Noun; the ASV writes no preposition for the dative.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Adverb → rather.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "ἤ → than.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Noun; the ASV writes no preposition for the dative.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "ACT.5.29",
+  "review_notes": [
+    "Corrected the placement of the supplied We: the accepted alignment gave We must to δεῖ, but δεῖ is impersonal and We is the unexpressed subject of the infinitive, which rule 74 assigns to the infinitive in terms. Rule 85 narrows rule 74 only for the complementizer and leaves the supplied-subject holding intact.",
+    "θεῷ and ἀνθρώποις both stand bare, the ASV writing no preposition for either dative.",
+    "All 13 source and 15 target IDs partitioned exactly once."
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "dff3b80434b84c2a79ffbfa91ddc724e7d73a35467b94bbc0f78f4b96329f0e0",
+  "contract_version": "ot-hebrew-verse-v95",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 29 source and 40 target IDs partitioned exactly once, plus one added target unit.",
+    "burn it (t021) is correctly added: the verse's one object marker (s015) stands on הַכֹּל and is already spent there, and וְהִקְטִיר carries no marker and no suffix, so the supplied object pronoun answers to no morpheme (rule 44). Contrast LEV.1.17, where אֹתוֹ is written and its suffix takes the pronoun.",
+    "The bracketed article in בַּמָּיִם is unrepresented under rules 12 and 29.",
+    "הוּא takes only its own it and the copula joins the predicate עֹלָה under rule 20.",
+    "אִשֶּׁה is headed on fire with the competing head on offering named in the unit note, matching LEV.1.9 and LEV.1.17."
+  ],
+  "ref": "LEV.1.13",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

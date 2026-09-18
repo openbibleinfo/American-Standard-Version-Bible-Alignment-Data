@@ -1,0 +1,151 @@
+{
+  "alignments": [
+    {
+      "note": "Subordinating `כִּי` rendered by the written *For* at the head of the clause.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb with its subject pronoun and auxiliary, headed on the lexical verb under rules 17 and 24.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Construct noun; no article morpheme stands in the chain, so the *the* is supplied on the construct under rule 29.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Nomen rectum with the chain's relational *of* under rule 19, discontinuous around the possessive under rule 25.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Pronominal suffix realized by the possessive *thy* under rule 18.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Predicate of a verbless clause; the construction-supplied copula with its modal auxiliary (*shalt ... be*) joins the predicate under rule 20, discontinuous around the pronoun under rule 25, and the unit heads on the word carrying the lexeme.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t013"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Pronominal suffix on `אַשְׁרֵי`, realized by the subject pronoun *thou*; the subject takes only its own English while the copula joins the predicate, under rules 18 and 20.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Conjunction of the consecutive form rendered by the written *and* under rule 14; the verb takes the verb.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Corrected. MACULA tags this token `Vqq3ms`, a finite weqatal verb, and rule 39 makes the morphology what to read, so the clause is not verbless. Under rule 17 the finite verb takes its subject pronoun, its auxiliary and its main verb together, the *it* being the impersonal subject realizing the verb's own 3ms person and number rather than a supplied dummy — which is also rule 44's ruling on an impersonally recast finite verb. The head is the lexical predicate *well* under rule 24. The previously accepted reading treated `טוֹב` as a predicate adjective of a verbless clause and marked *it* `added` under rule 20; that was set aside because rule 20's cleft-or-impersonal-*it* sentence governs a clause with no verb standing to be recast, and here a finite verb is written.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016",
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Preposition rendered by the written *with* under rule 11; the finite verb `טוֹב` carries the predication, so rules 40 and 49 do not arise.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Pronominal suffix realized by the object pronoun *thee* under rule 18.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    }
+  ],
+  "ref": "PSA.128.2",
+  "review_notes": [
+    "Corrected: the supplied `added` unit for *it* was removed and *it shall be well* placed whole on `טוֹב` (s009), which the packet tags `Vqq3ms` — a finite weqatal verb, not a predicate adjective. Rule 17 gives such a verb its subject pronoun, auxiliary and main verb in one unit headed on the lexical predicate.",
+    "The competing reading, which was the accepted one, takes `טוֹב` as the adjectival predicate of a verbless clause, gives *shall be* to it under rule 20 and marks the expletive *it* `added`. It was set aside on rule 39: the morphology and lemma are correctly paired and say the token is a verb, and rule 20's `added` ruling for an impersonal *it* is expressly limited to a clause with no verb to be recast.",
+    "The clause order is inverted against the source: `כִּי` and the verb open the English while the construct chain `יְגִיעַ כַּפֶּיךָ` follows, which rule 25 allows."
+  ]
+}

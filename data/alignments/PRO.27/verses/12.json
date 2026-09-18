@@ -1,0 +1,131 @@
+{
+  "alignments": [
+    {
+      "note": "Substantival adjective with a supplied generic noun and indefinite article; rule 24 prefers the substantive over the generic English noun.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Verb keeps its own word.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "No article morpheme is present, so the supplied *the* joins the noun (rule 15).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Italic *and*: no conjunction morpheme stands between the two verbs, so no morpheme licenses the coordinator (rule 14's closing sentences).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Niphal; the reflexive *himself* realizes the verb's own voice and stays with it (rule 44).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Italic *But*: the second line is juxtaposed with no conjunction in it, so the connective is supplied (rule 14).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Anarthrous substantival adjective takes the supplied *the* (rule 46), headed on the lexeme word.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "*pass on* is the verb with its phrasal particle; the head stays on the verb (rule 44).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Third italic *and*: again no conjunction morpheme stands in the clause.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "*suffer for it* is the ASV's whole rendering of the Niphal 'are punished'; dropping *for it* leaves *suffer*, which does not write the lexeme.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017",
+        "t018"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "PRO.27.12",
+  "review_notes": [
+    "Competing reading for t017-t018: marking *for it* added under rule 44's supplied-object clause; taken the other way because the bare *suffer* does not carry נֶעֱנָשׁוּ's sense and the phrase is one rendering rather than a supplied object beside a complete one.",
+    "All three of the ASV's connectives here are italic and answer to no waw; the count of conjunctions against connectives (rule 42's method) leaves the English side in surplus three times."
+  ]
+}

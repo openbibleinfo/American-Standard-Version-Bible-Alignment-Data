@@ -1,0 +1,196 @@
+{
+  "alignments": [
+    {
+      "note": "Negative purpose particle rendered by the clause-introducer *lest*. Rule 59's joining case does not apply: `τις` is a plain indefinite the ASV renders non-negatively as *any*, so under rule 69 the negator keeps its own English word and the indefinite stands separately. The supplied existential copula *there be* is not part of this unit; see the note on `πόρνος`.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Plain indefinite rendered *any*, carrying no negation of its own (rule 69).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Verbless Greek clause; the ASV supplies the existential frame *there be*, which rides with the predicate noun under rules 53 and 63, discontinuously across the intervening *any* under rule 15. Rule 53's subject-pronoun exception is scoped to a pronoun standing as subject, and *any* here is a determiner on this noun rather than a standalone pronoun. Attaching *there be* to `μή` as part of a supplied clause frame remains defensible, but rule 53 refuses to read a supplied copula off English word order, so it is given to the predicate.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Disjunctive conjunction.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Anarthrous substantival adjective expanded with the generic noun *person*; rule 17's generic-noun clause and rule 66's operational test keep the head on the adjective, *person* being the empty completion.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Comparative adverb; no correlative `καί` stands, so rule 82 is not in question.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Anarthrous proper name.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Relative pronoun with no supplied antecedent or nominal, so rule 77 does not arise.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Expressed preposition realized by *for*. The ASV spreads the phrase over separate words answering to each token, so rule 94's single-word precondition is not met and the ordinary split applies.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Numeral *one*, kept separate from its noun under rule 26.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "One Greek noun rendered by the phrase *mess of meat*. Under rules 66 and 91 the head is the word that glosses the lexeme: `βρῶσις` is food/meat, and *mess* with its partitive *of* is the supplied portion word completing the English expression. Heading on *mess* as the phrase's formal English noun is what rule 17 forbids.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Finite aorist middle indicative.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "The English determiner slot is occupied by the possessive *his own*, which the reflexive `ἑαυτοῦ` licenses, so the article realizes nothing under rule 20. Variant SBLGNT.HEB.12.16.v009 selected r00-base, which covers s015, so a source word is present and available to take the possessive.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Reflexive genitive rendered *his own*; both words belong to this token, *own* being the reflexive force rather than a separate source word. Rule 47's `ἴδιος` is not in play — no such adjective is expressed here.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Head noun standing bare, its determiner having gone to the reflexive under rule 20.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    }
+  ],
+  "ref": "HEB.12.16",
+  "review_notes": [
+    "All 15 source and 20 target ids are partitioned exactly once.",
+    "Main judgment call: placement of the supplied existential *there be*. Given to the predicate noun `πόρνος` under rules 53 and 63; attaching it to `μή` is the competing reading and is named in that unit's note.",
+    "`μή` + `τις` are kept as two units rather than joined, because the ASV renders the indefinite non-negatively as *any* (rule 69), not as *nothing*/*no man* (rules 41, 59).",
+    "`βρώσεως` heads on *meat* rather than the formal English noun *mess*, per rules 66, 91 and 17.",
+    "The article s013 is `unrepresented` under rule 20, the reflexive `ἑαυτοῦ` carrying *his own*; the selected variant covers s015, so the licensing token is present."
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chapter": "2KI.10",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2KI.10.23"
+  ],
+  "rejected": {},
+  "conventions": [
+    "לְבַד with a pronominal suffix rendered by the single word only or alone (with no separate pronoun written) is one fused unit of all three morphemes, headed on בַּד: the suffix's sense is inside the word (rules 22, 30) and it is not left unrepresented under rule 40. Corpus precedent: לְבַדּוֹ → only in 27 units.",
+    "The place name Beth-eked (בֵּית עֵקֶד, two or three Np tokens) is read as a construct chain: the בֵּית token takes the supplied the together with any preposition or copula the clause supplies (was at the house 10.12; of the house 10.14), the עֵקֶד token takes shearing, and in 10.12 the הָרֹעִים token (article unsegmented) takes of the shepherds. The margin house of gathering is read and set aside (rule 38)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 36 verses end to end against the 81-lemma candidate table. Every difference in the waw, article, לְ, אֵת, אֶל, בְּ and בַּיִת groups is licensed by what the ASV wrote: connectives are read off the English (Now/Then/So/Thus/But/for/even/also/seeing/If/so that/And when), the article on Baal is unrepresented in all eleven places because the ASV never writes the Baal, presentative frames and apodosis waws (10.7, 10.9, 10.25) divide identically, אִישׁ + אַל → none fuses identically in 10.19 and 10.25, and the two divre-ha-yamim-shaped fusions (10.33 eastward, 10.34 chronicles) both leave the rectum's article outside the unit.",
+    "Added-unit check across the dump: supplied object pronouns (10.3, 10.7, 10.15, 10.19, 10.20, 10.25) are added wherever no object morpheme stands and go to the suffix wherever one does (10.11, 10.22); appositional even/to wit (10.1, 10.7, 10.14, 10.29) are added where no marker stands on the phrase and the waw takes even in 10.33; supplied object nouns (the sons of 10.1, the children 10.5) are added in both verses. No verse folds what another marks added.",
+    "One genuine inconsistency, patched: 2KI.10.23 left the suffix of לְבַדָּם unrepresented beside לְבַד → only. The corpus reads לְבַדּוֹ → only as one three-morpheme unit in 27 places (1KI.12.20, 1KI.14.13 among them); the ASV's only restricts the very referent the suffix names, so the suffix's sense is inside the fused word and rule 22's closing paragraph and rule 30 fuse it rather than leaving it as an unrendered occurrence. Rule 40's ethical-dative sentence does not reach it, since לְבַד is not a dative on a verb.",
+    "BSB disagreements: the R (לְ of לֵאמֹר, dative לְ before a bare pronoun), Td (article on Baal, Gilead, Bashan, and agreement articles), C (unrendered waws), To (object markers), Sh (paragogic he) and the doubled מְאֹד of 10.4 are all documented convention differences and are not errors. 10.15 יֵשׁ unrepresented after הֲ takes Is is what rules 20 and 50 direct for a fronted copula in an interrogative existential clause; the competing reading (Is on יֵשׁ, particle unrepresented by inversion) is named in the verse. 10.23 ם is the one BSB flag that was a real error and is corrected above.",
+    "Reviewed the two units the verse passes hedged: 10.24 bachuts → without (three morphemes, indivisible under rule 30) and 10.26 בֵּית → that were in the house (rule 19 relational recasting, competing reading that were added). Both stand. No contract promotion: the לְבַד fusion is already what rule 30 and rule 22 say, and the corpus carries it; recorded as a convention instead."
+  ]
+}

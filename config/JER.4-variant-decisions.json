@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "chapter": "JER.4",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JER.4.5.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the imperative asyndetically inside the quoted command: 'and say, Blow ye the trumpet in the land'. The ketiv ותקעו carries a conjunction, which the ASV would show as 'and blow ye'; the verse elsewhere renders every waw it has ('and publish', 'and say', 'and let us go'), so the missing 'and' before 'Blow ye' distinguishes the unprefixed qere תִּקְעוּ."
+    },
+    {
+      "unit_id": "WLC.JER.4.19.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV's text renders a verb of writhing pain -- 'My anguish, my anguish! I am pained at my very heart' -- which is the ketiv אחולה (root חיל). The qere אוֹחִילָה 'I will wait' is what the mapped textual_variant note relegates to the margin: 'Another reading is, I will wait patiently'. Text and note together put the ketiv in the ASV's line and the qere in its margin."
+    },
+    {
+      "unit_id": "WLC.JER.4.19.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV reads 'because thou hast heard, O my soul' -- a second feminine singular addressed to the soul, which is the qere שָׁמַעַתְּ. But the ketiv שמעתי differs only by the final yod of the archaic 2fs perfect ending and can be read as the same 'thou hast heard'; the English therefore does not exclude it. The one note bearing on the alternative, 'Or, as otherwise read, my soul heareth', is classed alternative_rendering and decides nothing. Both readings retained; the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.JER.4.30.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV reads 'And thou, when thou art made desolate' -- second feminine singular, matching the qere וְאַתְּ. The ketiv ואתי is the same 2fs pronoun written with the archaic final yod, so it yields the identical English 'and thou' and the ASV wording cannot distinguish the two. The verse's only note is a hebrew_gloss ('Hebrew rendest.') on a different word. Both readings retained; the qere base fallback carries the projection."
+    }
+  ]
+}

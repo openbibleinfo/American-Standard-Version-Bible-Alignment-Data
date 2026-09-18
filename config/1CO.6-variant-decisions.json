@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "chapter": "1CO.6",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.1CO.6.2.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV opens the verse \"Or know ye not that the saints shall judge the world?\" The initial \"Or\" renders the disjunctive particle; the omitting reading leaves nothing for it."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.6.5.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "\"cannot there be found among you one wise man\" fixes English word order regardless of the Greek order, and \"one\" is an ordinary rendering of both the simple negative adjective and the emphatic phrase. The mapped note is an alternative_rendering about the interrogative construction and cannot decide a reading."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.6.5.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "\"to decide between his brethren\" must pluralise for the English \"between\" whichever Greek stands, so the plural does not show the doubled genitive; no note is mapped that would distinguish it."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.6.7.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV renders the particle cluster with the single word \"Nay\", which serves the reading with the inferential particle and the reading without it alike; the mapped note is an alternative_rendering about \"a defect/loss to you\"."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.6.8.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "\"and that your brethren\" is the standard English for both the singular demonstrative and the idiomatic plural, which is likewise rendered \"and that\"; the English shows no number here."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.6.9.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Both readings differ only in the order of the two nouns, and English \"the kingdom of God\" admits no other order; nothing in the verse distinguishes them."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.6.10.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV lists \"nor thieves, nor covetous\" in that sequence, matching the base order of the two nouns; the transposed reading would give covetous before thieves."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.6.10.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV renders every member of the list with the same \"nor\", so the choice between the simple negative and the correlative negative leaves no trace in the English."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.6.10.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The negation of \"shall inherit the kingdom of God\" is carried by the preceding series of \"nor\" clauses either way, so the added negative before the verb is not visible in the ASV."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.6.11.v010",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads \"in the name of the Lord Jesus Christ\": it has \"Christ\", which the bare-name reading lacks, and no \"our\" with the Lord's name, which the longest reading would require (\"our Lord Jesus Christ\")."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.6.16.v011",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV opens \"Or know ye not that he that is joined to a harlot is one body?\" — the initial \"Or\" renders the disjunctive particle the other reading omits."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.6.20.v012",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV ends the verse and the chapter at \"glorify God therefore in your body\", with no rendering of the longer reading's \"and in your spirit, which are God's\"."
+    }
+  ]
+}

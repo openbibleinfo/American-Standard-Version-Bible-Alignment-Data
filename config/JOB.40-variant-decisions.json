@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "JOB.40",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JOB.40.6.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The qere/ketiv difference is orthographic only: both readings are the preposition min plus se'arah, and the ASV renders 'out of the whirlwind' with no note attached. Nothing in the English distinguishes the written form from the read form, so the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.JOB.40.17.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The ASV reads 'The sinews of his thighs are knit together' with a plural 'thighs'. That renders the qere plural pachadav ('his thighs'); the ketiv pachado is singular ('his thigh') and would not yield the plural. The English wording therefore selects the qere."
+    }
+  ]
+}

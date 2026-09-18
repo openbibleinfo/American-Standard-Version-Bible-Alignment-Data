@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "chapter": "2TI.3",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.2TI.3.6.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "αἰχμαλωτίζοντες and αἰχμαλωτεύοντες are synonymous present participles of the same sense; ASV 'take captive' renders either identically and no note is mapped here. Base fallback retained."
+    },
+    {
+      "unit_id": "SBLGNT.2TI.3.10.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the verb as a simple past, 'thou didst follow', where its practice is to render a Greek perfect with the English present perfect — as it does twice in v14 of this same chapter, 'hast learned and hast been assured of'. The aorist παρηκολούθησάς is what 'didst follow' represents; the perfect παρηκολούθηκάς would have given 'hast followed'. The only note here is classed alternative_rendering ('Or, stedfastness') and bears on μακροθυμίᾳ/ὑπομονῇ wording, not on this verb."
+    },
+    {
+      "unit_id": "SBLGNT.2TI.3.12.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is word order only, ζῆν εὐσεβῶς against εὐσεβῶς ζῆν, with identical lexical content. English 'live godly' follows normal English verb-adverb order and cannot witness the Greek order; no note is mapped. Base fallback retained."
+    },
+    {
+      "unit_id": "SBLGNT.2TI.3.14.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The ASV note on this clause, 'Greek what persons', is a greek_gloss reporting the underlying form as plural. τίνων is the plural interrogative; τίνος is singular and would have been glossed 'what person'. The note explicitly mapped to this unit therefore distinguishes the plural reading."
+    },
+    {
+      "unit_id": "SBLGNT.2TI.3.15.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is the presence of the article τά before ἱερὰ γράμματα. ASV's 'the sacred writings' supplies the definite article as English idiom requires for this noun phrase whether or not the Greek is articular, and the article is not italicized as a supply; no note is mapped. Base fallback retained."
+    },
+    {
+      "unit_id": "SBLGNT.2TI.3.16.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἐλεγμόν and ἔλεγχον are alternative nominal forms of the same root with the same sense; ASV 'for reproof' renders either. Both notes on the verse are classed alternative_rendering — one on the syntax of θεόπνευστος, one offering 'discipline' for παιδείαν — and neither bears on this word or decides a reading. Base fallback retained."
+    }
+  ]
+}

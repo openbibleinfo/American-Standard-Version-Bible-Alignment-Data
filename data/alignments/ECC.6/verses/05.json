@@ -1,0 +1,158 @@
+{
+  "alignments": [
+    {
+      "note": "The particle גַּם takes the connective adverb the ASV writes for it, *moreover*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb with its subject pronoun and auxiliary under rule 17; headed on the lexical verb *seen* by rule 24. Unit is discontinuous around the negative's *not* under rule 25.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The negative takes its own written *not*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "No article morpheme is segmented on שֶׁמֶשׁ, so the supplied *the* determines the nominal expression and joins the noun's unit under rule 15; it is never the head.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Waw plus לֹא rendered by the single word *nor*, which carries both the coordination and the negation: one unit under rules 30 and 35, headed on the negative.",
+      "source": [
+        "s005",
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The verb keeps its lexical rendering; the auxiliary *hath* of the first clause is not repeated here.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "No object morpheme stands in the clause — יָדָע is written bare — so the supplied object pronoun *it* answers to nothing and is `added` under rules 44 and 30; it does not join the verb merely by standing beside it. The margin's *Or, neither had any knowledge* was read and set aside under rule 38.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "The demonstrative takes its own *this*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Verbless possessive clause: the possessive לְ is what makes it possessive and carries the supplied *hath* under rule 43; the demonstrative keeps only its own word. The margin's *Or, it is better with this than with the other* was read and set aside under rule 38.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "The possessed noun keeps only its own English word.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Comparative מִן rendered by the two-word English comparative *rather than*, one rendering of which no morpheme owns a part (rule 30's one-rendering reading); headed on *than*, the word carrying the comparative relation, under rule 24. Heading on *rather* was the competing reading and was not taken.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "The second demonstrative is rendered contrastively as *the other*; the supplied determiner joins that nominal expression under rule 15 and the head stays on the word carrying the lexeme.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "ECC.6.5",
+  "review_notes": [
+    "Both marginal notes were read and set aside under rule 38; the printed text governs.",
+    "*it* at t010 is the only `added` unit: the Hebrew writes no object suffix on יָדָע.",
+    "גַּם is aligned to *moreover* rather than treated as an unrendered particle, since the ASV writes a connective adverb in its slot."
+  ]
+}

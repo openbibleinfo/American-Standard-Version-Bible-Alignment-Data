@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "chapter": "ISA.10",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.ISA.10.6.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's 'to tread them down' and the Hebrew gloss 'to make them a treading down' do not distinguish the qere spelling וּלְשׂוּמוֹ from the ketiv ולשימו; both readings remain compatible, so the documented qere base remains the fallback."
+    },
+    {
+      "unit_id": "WLC.ISA.10.13.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's 'their treasures' does not distinguish the qere וַעֲתוּדוֹתֵיהֶם from the ketiv ועתידתיהם, and the note 'the inhabitants' is classed alternative_rendering and therefore cannot decide the textual reading; both remain compatible and the qere base remains the fallback."
+    },
+    {
+      "unit_id": "WLC.ISA.10.32.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'the daughter of Zion,' selecting בַּת (r00-base); the mapped textual_variant note explicitly identifies 'house' as another reading, which is the ketiv alternative rather than the wording rendered by ASV."
+    }
+  ]
+}

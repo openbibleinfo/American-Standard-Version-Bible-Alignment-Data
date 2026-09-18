@@ -1,0 +1,158 @@
+{
+  "alignments": [
+    {
+      "note": "",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Rule 9: the supplied subject rides with the finite verb, headed on the lexical verb.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Rule 65's English-side test: the ASV writes *also* for the intensifying καί.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Rule 102's contrast: the Greek is anarthrous, so no article competes and the supplied *psalm* is a rule 7 helper on the substantival adjective, which keeps the head under rule 17's generic-noun clause.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Rule 15 permits the discontinuity around the negative.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Rule 102: the article's complement is a substantival adjective with no expressed head noun, so the nominal the ASV supplies is the article's own and rule 17's generic-noun clause does not reach it, being scoped to anarthrous Greek. Rule 20's displacement empties only the determiner slot — σου takes *thy* — and rule 54's οἱ ἡμέτεροι -> *our people* keeps the supplied nominal on the article even so. Reading the article as wholly unrepresented and *One* as the adjective's own completion is the competing analysis.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Rule 20: the genitive pronoun takes the English possessive.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Rule 102 leaves the substantival adjective bare where an article stands to take the supplied nominal, as τὸν πτωχόν -> *the … man* and *poor* does, and as this chapter's τὰ ὅσια -> *the … blessings* and τοὺς πρώτους -> *the … men* do at ACT.13.34 and ACT.13.50.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Rule 61: the infinitival marker belongs to its own verb.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "ACT.13.35",
+  "review_notes": [
+    "Corrected τὸν ὅσιόν σου: the accepted reading left the article unrepresented under rule 20 and gave the whole *Holy One* to the adjective under rule 17. Rule 102 scopes rule 17's generic-noun clause to anarthrous Greek, and rule 54 says in terms that the article still recovers a supplied nominal where a possessive has taken the determiner slot. The article now takes *One* and the adjective a bare *Holy*, which is how ACT.13.34 and ACT.13.50 already read the same shape.",
+    "The verse's anarthrous ἑτέρῳ -> *another psalm* is unchanged and is rule 102's contrast standing in the same verse: there no article competes, so the adjective keeps the supplied noun and the head."
+  ]
+}

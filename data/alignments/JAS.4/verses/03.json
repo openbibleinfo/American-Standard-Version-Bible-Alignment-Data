@@ -1,0 +1,172 @@
+{
+  "alignments": [
+    {
+      "note": "Inflected verb takes its supplied subject pronoun as a rule 7/9 helper; head on the lexical verb *ask* rather than on the subject (rule 17).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Expressed conjunction rendered *and*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Ordinary negative aligned to *not*. No negative indefinite stands in the clause, so rules 41 and 59 are not in question, and no quantifier stands with it, so rule 87 is not either.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Finite verb rendered *receive*; the negation is its own unit on οὐ, and the ASV's postposed *not* is only English word order.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Causal conjunction rendered *because*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Adverb rendered by the single word *amiss*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Middle finite verb with its supplied subject pronoun as a rule 7/9 helper; head on the lexical verb *ask* under rule 17.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Purpose ἵνα realized by the word introducing its English clause, here *that* (rule 40); the modal *may* stays with the subjunctive under rule 9.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Preposition governing the prepositional phrase realized by *in* (rule 36), not absorbed into the verb.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "The genitive pronoun ὑμῶν stands free and takes the supplied possessive *your*, so the article's determiner slot is displaced under rule 20 proper. Rule 20's second arm (the article itself taking the possessive, as in `ἐν τῇ καρδίᾳ` → *in my heart*) does not apply, because another source word is present to take it; rule 76's availability test would give the article *your* only if ὑμῶν had been spent on some other syntactic role, and it has not.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun rendered *pleasures*; the dative case is realized by the expressed ἐν, so no case preposition rides here.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Genitive pronoun rendered by the possessive *your* (rule 20).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Subjunctive with supplied subject *ye* and modal *may* as rule 7/9 helpers. The supplied object *it* is a pronoun of the kind rule 7 names, and rule 74's contrast clause keeps a supplied object with the verb that requires it in English — δαπανάω is the only verb in the clause. Rule 103 does not make it `added`: no source token has already spent its English on *it*, and rule 103's own contrast is a resumptive pronoun folded onto its licensor (3JN.1.13). Rule 11 keeps the ASV's italics evidence rather than a verdict. Head on the lexical verb *spend*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t013",
+        "t014"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "JAS.4.3",
+  "review_notes": [
+    "Reviewed unchanged: the accepted alignment is correct on every unit; only two unit notes were expanded to record the competing readings.",
+    "Partition verified: all 13 source ids (s001-s013) and all 17 target ids (t001-t017) appear exactly once. Every `aligned` unit has nonempty arrays with both heads inside them; the single `unrepresented` unit (s010) has an empty target and a null target head.",
+    "The contested unit is the article ταῖς. Rule 20's first arm empties it because ὑμῶν stands free and unspent and takes *your*; the competing reading — aligning ταῖς to *your* under rule 20's second arm, with ὑμῶν left elsewhere — is unavailable, since the second arm applies only where no other source word is present to take the possessive. Rule 76's availability test would reach the article only if the ASV had already spent ὑμῶν on some other role (an object, a nominative subject), which it has not.",
+    "The supplied *it* (t014, ASV italic) was the other reading worth checking. It is kept as a rule 7 helper on δαπανήσητε rather than marked `added`: rule 103 governs supplied lexical content whose source token is already realized elsewhere in the verse, and here no source token is spent on it at all, while rule 103 names a resumptive pronoun as the case that folds. Rule 74's supplied-object clause puts it on the verb that requires it in English, and δαπανάω is the only candidate.",
+    "Discontinuity in the s013 unit (t011-t014 with t015-t017 intervening for ἐν/ὑμῶν/ἡδοναῖς) is licensed by rule 15; no unrelated intervening token is absorbed, since the prepositional phrase is split cleanly across s009, s011 and s012.",
+    "Heads follow rule 17 throughout: *ask*, *ask* and *spend* rather than the supplied subject pronouns or the modal *may*."
+  ]
+}

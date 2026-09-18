@@ -1,0 +1,161 @@
+{
+  "alignments": [
+    {
+      "note": "",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Ordinary negative aligned to *not*; rule 96 keeps the supplied subject and copula off the negator, the test being which nominal the clause predicates of the other and never which word is negative.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Verbless clause with no subject expressed: rule 68's first arm puts the supplied subject and copula on the predicate, and the substantival article is the predicate's nominal, carrying its case preposition under rules 21 and 32. Discontinuous under rule 15. Leaving *it is* on the negator, as 9:8's earlier reading and the corpus's cleft units over finite clauses do, remains the competing reading; putting it on the participle does not, the copula being predicated of *him* and not of the relative clause.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Participle carries the relativizer (rule 32).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Substantival article supplies the pronoun; the case preposition rides along (rules 21, 32).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Participle carries the relativizer (rule 32).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "This article governs the expressed head noun θεοῦ, which the ASV gives no determiner; rule 21's determinerless clause leaves it empty and keeps *of* with the noun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Attributive participle rendered as a finite relative clause: the relativizer and auxiliary are its helpers (rule 31), and rule 17 heads the support-verb phrase on *mercy*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "ROM.9.16",
+  "review_notes": [
+    "Reconciliation patch: *it* and *is* move from οὐ to the substantival article that realizes the predicate's nominal; the negator keeps a bare *not*.",
+    "Rule 96's observation that no unit aligns an article to a supplied subject pronoun it does not realize is scoped to a determiner-carrying article; an article that itself realizes a pronoun is the contrast that same rule names, alongside rules 22, 31, 32, 89 and 90.",
+    "The first two articles are substantival and take *him*; the third governs the expressed θεοῦ, so rule 31 rather than rule 32 applies and the relativizer goes to the participle."
+  ]
+}

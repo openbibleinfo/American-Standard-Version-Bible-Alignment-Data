@@ -1,0 +1,243 @@
+{
+  "alignments": [
+    {
+      "note": "Waw rendered by the coordinating *and* (rule 14).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Explicit subject pronoun takes only its own English word; the clause is verbless, so the supplied verbal frame goes to the predicate (rule 20).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The clause is verbless with a prepositional predicate, `בְּ` + `חֳלָיִים`; the ASV recasts it possessively as *shalt have*, so the preposition that makes the clause possessive carries the supplied *have* together with its modal auxiliary (rules 43 and 49), headed on *have*. No `הָיָה` and no existential particle stands in the clause. Competing reading: taking *shalt have* as rule 20's construction-supplied copula on `חֳלָיִים`; rejected because rule 43 assigns a *have* to the morpheme that makes the clause possessive, which here is the predicate preposition.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The predicate noun keeps its own English word; ASV's singular *sickness* for the Hebrew plural is a translation choice and does not affect the alignment.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Attributive adjective; the ASV fronts it before the noun.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Preposition rendered *by* (rule 11); its object `מַחֲלֵה` keeps its own English word, so the pair does not fuse under rule 30.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Construct noun takes only its own word; the chain's relational *of* belongs to the rectum (rule 19).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Nomen rectum of `מַחֲלֵה מֵעֶיךָ`, taking the chain's *of* with its own noun and headed on the noun (rules 19 and 24); discontinuous around the possessive under rule 25.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Pronominal suffix rendered by the possessive *thy* (rule 18).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Temporal `עַד` rendered *until*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Finite verb rendered by the phrasal verb *fall out*; the particle completes the lexeme of `יָצָא` and stays with the verb, headed on the lexical verb (rule 44). Discontinuous from its subject, which precedes it in the English.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Subject noun of the `עַד` clause, keeping its own word.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Pronominal suffix rendered by the possessive *thy* (rule 18).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Causal `מִן` rendered by the fixed English phrase *by reason of*, headed on the content word the phrase turns on rather than on either connective (rule 24).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018",
+        "t019"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Article takes the written *the* (rules 12 and 15).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Noun keeps its own word.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "First member of the distributive `יָמִים עַל־יָמִים`; each occurrence carries its own preposition-free English noun, so each morpheme takes the word written for it (rules 2 and 22).",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "`עַל` rendered by the distributive connective *by* standing between the two members (rule 11).",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Second occurrence of `יָמִים`, rendered by the second *day*; nothing is left unrendered, so rule 22's unrepresented-occurrence sentence does not arise.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    }
+  ],
+  "ref": "2CH.21.15",
+  "review_notes": [
+    "The ASV marginal note *Or, year after year* was read and set aside; the printed text is what is aligned (rule 38).",
+    "`בָּחֳלָיִים` is preposition plus noun with no article morpheme segmented; the `בְּ` carries the recast *shalt have* under rules 43 and 49, and the noun keeps *sickness*.",
+    "Both `מֵעִים` occurrences and both `יָמִים` occurrences are rendered separately by the ASV, so no occurrence is marked unrepresented."
+  ]
+}

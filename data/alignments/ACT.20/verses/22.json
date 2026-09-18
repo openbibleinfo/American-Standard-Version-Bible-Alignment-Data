@@ -1,0 +1,207 @@
+{
+  "alignments": [
+    {
+      "note": "Connective καί to And.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "νῦν to now.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Presentative ἰδού to behold.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Expressed nominative pronoun to I; the finite verb keeps only its own word.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "πορεύομαι to go, its subject already written by the expressed ἐγώ.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Perfect passive participle to bound; the ASV reorders it after the verb, which rule 15 permits.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Dative article taking the English determiner with its case preposition riding along (rule 21), headed on the under rule 17.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "πνεῦμα to spirit, bare behind its article.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "εἰς to unto (rule 36).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Name to name.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Ordinary negative μή to not; no negative indefinite stands, so rules 41 and 59 are not in question.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Participle to knowing.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Substantival article taking its determiner and the supplied nominal things; rule 22 heads it on the nominal word and not on the determiner, and the participle keeps the relativizer.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Future participle rendered as a finite relative clause; the relativizer that and the auxiliary shall are rule 7 and rule 9 helpers on it, head on the lexical befall.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Dative pronoun to me, the verb's complement.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "ἐν αὐτῇ rendered by the single word there, which spells the locative of the preposition and the pronominal reference together, exactly as ἐν αὐτῷ → therein does under rules 35 and 81; aligned rather than noncompositional because part of the English answers to each token, and headed on the pronominal. Reading there as answering to αὐτῇ alone and leaving ἐν unrepresented remains defensible, but rule 36 empties a preposition only where English realizes it nowhere, and the locative sense is realized here.",
+      "source": [
+        "s012",
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    }
+  ],
+  "ref": "ACT.20.22",
+  "review_notes": [
+    "No unrepresented and no added units: every source token has an English realization and every target token a licensing source token.",
+    "The compound unit s012+s013 is the one materially contested choice; the note names the competing reading (bare pronoun plus unrepresented preposition).",
+    "Variants SBLGNT.ACT.20.22.v028 (s004, s005) and v029 (s015) are underdetermined to r00-base, and the base reading is what the ASV translates in each case, so rule 97 is not engaged and no new textual decision is made."
+  ]
+}

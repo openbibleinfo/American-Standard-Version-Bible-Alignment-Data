@@ -1,0 +1,26 @@
+{
+  "chapter": "PSA.38",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "כָּל־הַיּוֹם rendered 'all the day long' (vv.6, 12): 'long' is read as part of the ASV's fixed rendering of the noun and joins יוֹם's unit, headed on 'day'; כֹּל takes 'all' and the article 'the'. Marking 'long' added was the alternative and is named in both notes.",
+    "עַד־מְאֹד rendered by a single English adverb ('greatly' v.6, 'sore' v.8) fuses as one unit under rule 30, headed on מְאֹד, which carries the lexeme; עַד is not marked unrepresented beside it.",
+    "In the vocative pairings אֲדֹנָי אֱלֹהָי → 'O Lord my God' (v.15) and אֲדֹנָי תְּשׁוּעָתִי → 'O Lord my salvation' (v.22), the single written 'my' stands before the second noun and answers to that noun's own suffix; the suffix of the title אֲדֹנָי is unrepresented under rule 57, as it is in the bare 'Lord' of v.9. The 'O' joins אֲדֹנָ under rule 36."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 20 candidate groups end to end. Every multi-treatment bucket is licensed by the ASV's own wording: suffixes take my/me/mine/thee/thine as written; waw takes Neither/And/But/Yea/also as written (rules 14, 35, 51); מִן takes from/for/by reason of/too…for by context (rule 24); כְּ takes the copula only in the verbless colon of v.13 (rule 49); אֲדֹנָי takes O only where the ASV writes it; אֲנִי is resumed once in v.13 under rule 25 and stands alone in v.17.",
+    "Added units read together across the dump: supplied 'and' between asyndetic predicates is added in vv.5, 6 and 19 alike; 'As for' over a bare fronted nominal is added in v.10 (rule 16) with the unrendered waw unrepresented, alternative named in the note; italic 'for me' in v.12 is one added unit; supplied relative over a finite clause after a written substantive is added in v.13 while the written אֲשֶׁר of v.14 takes its 'that'. No hidden split.",
+    "Recurring judgments agree with themselves: כָּל־הַיּוֹם → 'all the day long' keeps 'long' with יוֹם in vv.6 and 12; עַד־מְאֹד fuses to one adverb ('greatly', 'sore') in vv.6 and 8; the אֲדֹנָי suffix is unrepresented in vv.9, 15 and 22 with the single 'my' of 'O Lord my God/salvation' answering to the following noun's own suffix.",
+    "BSB disagreements (6) are all documented convention differences, none a genuine error: עַל in v.2 silenced by object promotion (rule 40); the three title suffixes (rule 57); the waw of v.10 for which the ASV writes no connective; the Sh-tagged he of חוּשָׁה in v.22 (rule 32 — the tag is paragogic, not Sd).",
+    "No contract lesson generalises beyond what the rules already say; no promotions or amendments."
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "alignments": [
+    {
+      "note": "Emphatic subject pronoun realized by the ASV's Thou.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb; its person is already carried by the expressed pronoun, so no helper rides here under rule 9.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The ASV writes an English complementizer for this hoti, so rule 43's test — the presence of an English word, not the reported-versus-recitative distinction — aligns it in the ordinary way.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Predicate numeral, discontinuous under rule 15: the ASV writes God is one for the projection's heis estin ho theos. The nouns are not crossed — heis is the predicate and theos the subject in both languages.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Expressed copula; nothing is supplied here, so rules 53, 63 and 96 are not in question.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Article governing theos with no English determiner in the ASV's God is one, so rule 23 decides it. Rule 21 would need an English the to anchor and none is written; no possessive, demonstrative, indefinite or address word competes for the slot under rules 20, 51, 60 and 89. Rule 13 forbids bundling it with theos merely because they form one noun phrase.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Head noun standing bare, its article unrepresented.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Adverb; the ASV reorders it after the verb, permitted by rule 15.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Inflected verb with its supplied subject pronoun as a rule 7 helper; rule 9 heads on the lexical verb doest rather than the pronoun.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Adjunctive kai realized by also. Rule 65's English-side test for an intensifying kai makes it its own aligned unit, and the ASV's postposing of the word is rule 15's discontinuity. No preceding kathos or hos stands here, so rule 82's correlative case is not in question.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Article surfacing as the under rule 19.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Transparent article-plus-noun pair split under rule 26.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Finite verb; the bracketed [that] in the projection's gloss has no ASV counterpart and nothing is supplied for it.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Expressed coordinating conjunction between two finite verbs, aligned in the ordinary way and untouched by rules 88 and 98.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Finite verb sharing the subject of s013.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "JAS.2.19",
+  "review_notes": [
+    "Reviewed and returned unchanged in substance; only unit notes were expanded to name the rules a later reader would check.",
+    "Every s### and t### id is partitioned exactly once; no ids invented. Target coverage checked token by token: t001-t015 each appear in exactly one unit.",
+    "s004/s005/s007 are discontinuous against the projection's order because the ASV writes God is one for heis estin ho theos; rule 15 permits this, no intervening unrelated token was absorbed, and rule 25 is satisfied since the ASV's rendering matches the ordinary glosses rather than contradicting them.",
+    "s006 is the one unit where a materially different reading is available: a reader could bundle the article with theos as a single article-plus-noun unit, but rule 13 forbids grouping an unrepresented article with its noun for convenience, and rule 23 covers an article before theos that the ASV leaves bare.",
+    "SBLGNT.JAS.2.19.v021 is underdetermined and carries no FALLBACK EXCLUDED BY EVIDENCE mark, and its base fallback remains compatible with the ASV, so rule 97 is not in play and nothing is added on textual grounds. The ASV's marginal there is one God is a note about the same four tokens, not a different token inventory."
+  ]
+}

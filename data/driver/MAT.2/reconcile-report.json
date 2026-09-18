@@ -1,0 +1,31 @@
+{
+  "chapter": "MAT.2",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "μάγος → 'Wise men' is one unit headed on 'Wise' (2:1, 2:7, 2:16 twice): 'men' is the generic completion and 'Wise' carries the lexeme, as rule 66's πλεονέκτης → 'covetous man' does. παιδίον → 'young child' heads the other way, on 'child' (2:8, 2:9, 2:11, 2:13 twice, 2:14, 2:20 twice, 2:21), because there the English noun glosses the lexeme and 'young' is the modifier; and παῖδας → 'male children' (2:16) heads on 'children' for the same reason. Ask which English word glosses the Greek lexeme, not which is the phrase's formal head.",
+    "ἀκριβόω (2:7 'and learned … exactly', 2:16 'he had exactly learned') is one unit with 'exactly' inside it, discontinuously at 2:7 under rule 15, headed on 'learned'. The lexeme occurs nowhere else in the corpus, so rule 91's operational query returns nothing and rule 104's neighbouring class returns only the adverb ἀκριβῶς, which 2:8 aligns separately to 'exactly'. Heading instead on 'exactly', treating -όω as rule 66's verbalizing suffix and 'learned' as its realization, remains defensible; both verses were taken the same way.",
+    "χρηματίζω → 'being warned of God' (2:12, 2:22): the ASV's italicized 'of God' completes this token's own English, the lexeme meaning to be divinely instructed, so it is folded here under rule 103 and not marked added, following ACT.10.22. Rule 11 makes the italics evidence rather than a verdict.",
+    "τὸ ῥηθέν is decided by the count of English words the ASV wrote, not by the construction, which is identical in all three places. At 2:15 and 2:23 the ASV writes only 'which', which is pronoun and relativizer at once and is the article's under rule 90, the participle keeping 'was spoken'. At 2:17 it writes 'that which', so rule 32's ordinary split applies: 'that' to the article, 'which was spoken' to the participle."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v120",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 38 candidate lemma groups and then the full verse dump end to end, since the table is keyed by source lemma and cannot see this chapter's four rule 37 tokens or its two folded supplied phrases. No construction is analysed two ways without the source or the ASV licensing the difference, so patches is empty.",
+    "τὸ ῥηθέν (2:15, 2:17, 2:23) is the closest thing to a split and is not one: 2:15 and 2:23 give the single written word 'which' to the article under rule 90, while 2:17 writes 'that which', so rule 32's ordinary split applies with 'that' on the article and 'which was spoken' on the participle. Rule 90 states that limit in its own text, so this is the ASV's phrasing rather than two analyses.",
+    "Preverb handling: 2:6 writes both 'forth' and 'out of', so the preverb and the expressed ἐκ each take their own word; 2:21 writes only 'into', so it belongs to εἰς and εἰσῆλθεν keeps a bare 'came'. Rule 106's count test decides both, and the two verses agree in method.",
+    "Object prepositions: 'of' (2:6), 'with' (2:10) and 'for' (2:18) stay inside the verb because those objects are accusative; 'over' rides with the genitive Ἰουδαίας at 2:22. Rule 106 divides on exactly that line, so the difference is licensed by the source.",
+    "Other groups checked and cleared: ἀνατολή (anarthrous at 2:1 puts the supplied 'the' on the noun under rule 58, articular at 2:2 and 2:9 puts it on the article); ἀκούσας (supplied object at 2:3, where ὁ βασιλεὺς Ἡρῴδης is expressed, against supplied subject at 2:22 — opposite arms of rule 74); the three genitive absolutes at 2:1, 2:13 and 2:19, all split the same way; παραλαμβάνω, ἐγείρω, παιδίον, μάγος, κύριος and every article bucket, each uniform once the ASV's own wording is accounted for.",
+    "Added-unit blind spot checked against the dump rather than the table: the two 'saying' additions (2:1 t026, 2:19 t020) pair with the two unrepresented λέγ- tokens (2:2 s001, 2:20 s001) under rule 37, and the supplied 'of God' is folded onto χρηματίζω in both 2:12 and 2:22 under rule 103. Both pairs are internally consistent.",
+    "BSB: five disagreements, none a genuine error. λέγοντες (2:2) and λέγων (2:20) are the rule 37 versification the contract says will be reported and is not a correction. δι᾽ (2:12) is realized nowhere in the ASV's 'another way', which is rule 36's condition for leaving a preposition empty. τῷ (2:19) is an article before a name for which the ASV writes no determiner, so rule 21 keeps 'to' on Ἰωσήφ, exactly as 2:13 reads it. τὴν (2:20) is emptied by the prenominal possessor 'young child's' under rule 57, the inner τοῦ taking the 'the'. No accepted edge was changed.",
+    "One head in the chapter rests on no precedent: ἀκριβόω (2:7, 2:16) occurs nowhere else in the corpus, so rule 91's query returns nothing and rule 104's neighbouring-class query returns only the adverb ἀκριβῶς. Both verses head 'learned … exactly' on 'learned', consistently; heading on 'exactly' under rule 66's denominal clause (ἱκανώσαντι → 'made meet' on 'meet') remains defensible. Recorded as a convention rather than changed, since the evidence does not decide it and the two verses agree.",
+    "No promotions and no amendments. Everything this chapter met is already decided in the contract's own terms: rule 50 names ἕως ἄν → 'till'; rule 21 already puts a support frame's licensed 'of' inside the verb (2:6 ποιμανεῖ → 'shall be shepherd of'); rule 90 already limits itself to a single written word; and rule 89 already generalises the supplied-determiner argument to any slot in front of the noun that no other source token competes for, which is what carries τὸν → 'what' at 2:7. That last unit is hedged in its own note under rule 16 and is the only place a later reader might want corpus evidence (LEMMA=ὁ TARGET='^what'); it would move one edge and settles nothing else, so I did not spend the evidence round on it."
+  ]
+}

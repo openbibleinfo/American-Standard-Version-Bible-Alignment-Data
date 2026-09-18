@@ -1,0 +1,217 @@
+{
+  "alignments": [
+    {
+      "note": "Rule 14: waw → *And*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Wayyiqtol verb → *said*; the explicit subject noun follows separately.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Divine name → *Jehovah*; the ASV fronts it before the verb, and the unit is discontinuous under rule 25.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Rule 30: the ASV renders the demonstrative adverb by the intensified expression *Even thus*, of which no other morpheme owns a part; dropping *Even* diminishes only the expression as a whole. Competing reading: mark *Even* `added` under rule 30's reserve clause; I took the shared unit because no other morpheme in the clause stands beside it.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Rule 17: the auxiliary joins the verb, headed on *eat*; the unit is discontinuous around the explicit subject under rule 25.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Rule 29: no article morpheme is present in the chain, so the construct takes the supplied *the*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Rule 19: the relational *of* belongs to the rectum, headed on *Israel*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Rule 16: the ASV writes the object bare (*eat their bread*).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun → *bread*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Rule 18: suffix → *their*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Adjective predicate → *unclean*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Preposition → *among*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Rule 12: the assimilated article is a real token and takes the ASV's *the*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Noun → *nations*.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Rule 30 fusion across the intervening clause (rule 35): the single English word *whither* carries both the relative and the locative adverb, so nothing is left over to mark. Headed on `שָׁם`, the morpheme carrying the locative lexeme; the competing reading heads it on the relative `אֲשֶׁר`.",
+      "source": [
+        "s015",
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Rule 17: subject pronoun and auxiliary join the verb, headed on *drive*.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020",
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Rule 18: object suffix → *them*.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    }
+  ],
+  "ref": "EZK.4.13",
+  "review_notes": [
+    "`אֲשֶׁר ... שָׁם` is fused into the single word *whither* under rules 30 and 35 rather than aligning the relative and marking `שָׁם` unrepresented under rule 22, since the English word carries both morphemes' sense."
+  ]
+}

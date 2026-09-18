@@ -1,0 +1,5 @@
+# Psalms 147 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- The chapter's hymnic participle series is allocated three ways, and what the source writes decides which. Where the participle carries an article, that article takes whatever word the ASV writes in its place under rule 41 — *He* at 147.3, 147.14, 147.15 and 147.16, *Who* at 147.8 (three times) — and the participle keeps only the verb. Where the participle is anarthrous and no subject noun stands in the clause, the supplied *He* realizes the participle's own subject and joins its unit, headed on the lexical verb, as at 147.4, 147.6b, 147.9, 147.17 and 147.19; it is not `added` and it is not a unit of its own. Where an explicit subject noun stands, that noun takes the English subject and the ASV supplies no pronoun, as at 147.2, 147.6a and 147.11. Read the article and the explicit subject before supplying anything, since the ASV's *He* is identical in all three shapes.

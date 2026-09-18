@@ -1,0 +1,133 @@
+{
+  "alignments": [
+    {
+      "note": "הִנֵּה → 'behold'.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Verbless clause: the supplied copula joins the predicate adjective (rule 20); the comparative inflection of 'wiser' is part of the adjective's own English.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Explicit subject pronoun takes only its own English (rule 20).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Comparative מִן → 'than' (rule 11).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Proper name.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "כֹּל … לֹא is rendered by the single negative quantifier 'no', which carries both the universal and the negation, so the two morphemes share one unit across the intervening סָתוּם under rules 30 and 35. Competing reading: give 'no' to כֹּל alone and mark לֹא unrepresented (or the reverse); I took the fusion because neither morpheme's sense is left over. Source head on the negative, following rule 35's heading of 'Nor'.",
+      "source": [
+        "s006",
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The passive participle is the clause's nominal anchor; the presentative 'there is' is supplied by the construction and joins it under rule 20's second sentence. No אַיִן is present, so rule 50 does not reach this.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Finite verb recast as a passive 'is hidden'; the 'from' is the preposition the English verb needs to reach the suffixed object and belongs to the verb's rendering (rule 44's closing clause), the object noun/pronoun keeping its own word.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013",
+        "t014"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Object suffix takes the pronoun (rule 18).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "The ASV supplies a relative to subordinate a finite clause juxtaposed to its antecedent; no relative morpheme, article or conjunction stands in the Hebrew to license it, so it is added under rules 55 and 30 (rule 46's supplied relative governs a headless clause, which this is not).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    }
+  ],
+  "ref": "EZK.28.3",
+  "review_notes": [
+    "Variant WLC.EZK.28.3.v001 is underdetermined and resolved to r00-base over s004/s005; the fallback is still among the readings the ASV permits, so it is not a rule 53 case and no new textual decision was made here.",
+    "The main judgment is the כֹּל … לֹא fusion to 'no'; the competing readings are named in that unit's note."
+  ]
+}

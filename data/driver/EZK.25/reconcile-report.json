@@ -1,0 +1,31 @@
+{
+  "chapter": "EZK.25",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The divine title אֲדֹנָי יְהוִה (9 occurrences) is aligned as three units throughout: the ASV's supplied 'the' goes on the construct אֲדֹנָי together with 'Lord' (rule 29), the 1cs suffix is unrepresented because the ASV writes no possessive for it, and יְהוִה takes 'Jehovah'. Where the title is itself the rectum of a further construct — EZK.25.3 'Hear the word of the Lord Jehovah' — אֲדֹנָי additionally takes the relational 'of' and the second written 'the' under rules 19 and 29, the first 'the' standing on דְּבַר. The corpus's competing noncompositional reading, which fuses אֲדֹנָי with its suffix into 'the Lord' (11 units, Isaiah), was not followed; the aligned reading matches the corpus's dominant 140 units.",
+    "יַעַן rendered 'Because that' (EZK.25.8, EZK.25.12) is one compound subordinator fused into the particle's single unit under rule 30, headed on 'Because'. It is not 'Because' beside an added 'that' under rule 55: a conjunction does stand in the clause, the two English words are contiguous, and dropping 'that' diminishes only the expression as a whole. Where the ASV writes 'Because' alone (25.3, 25.6, 25.15) the particle takes just that word.",
+    "In the idiom שְׁאָט בְּנֶפֶשׁ (EZK.25.6 'with all the despite of thy soul', EZK.25.15 'with despite of soul') the בְּ is what the ASV renders 'of', and נֶפֶשׁ keeps only 'soul'. The 'of' is not a construct relation to be placed by rule 19 — no construct chain is written there — and the preposition is the only morpheme standing before 'soul'."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v76",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 34 candidate lemma groups and read the 17-verse dump end to end for splits the table cannot see (it is keyed by source lemma, so the chapter's two added units appear in no group). No construction is analysed two ways: every multi-treatment bucket is a difference the ASV licenses.",
+    "הוּא Sp1cs before Np: the lone aligned 'my' in EZK.25.14 is the suffix of עַמִּי ('my people Israel'), not a title suffix. All nine אֲדֹנָי suffixes (25.3 twice, 6, 8, 12, 13, 14, 15, 16) are unrepresented, uniformly.",
+    "הוּא Sp2ms before R: EZK.25.6's unrepresented ךָ is the second coordinated infinitive's subject, the ASV writing 'thou' once for both (rule 22); the rendered occurrence is the first, beside which the written pronoun stands.",
+    "וְ before Vqq1cs: EZK.25.13 s008 is unrepresented because the ASV writes no connective before 'I will stretch out', while the other five in that bucket each have an 'and' written. 25.13 s027's 'even' is rule 14's open list, not a second analysis.",
+    "Directive ה: unrepresented before a bare 'Kiriathaim' (25.9) and aligned to 'unto' before 'Dedan' (25.13) — rule 32 read off the ASV, correctly differentiated.",
+    "לְ: the two unrepresented prepositions in 25.5 are the double-object recasting 'make Rabbah a stable' (rules 21, 40); 25.4 and 25.10 write 'for a possession', so there the לְ takes the word, and 25.12's takes the written 'against'.",
+    "יַעַן: 'Because that' (25.8, 25.12) against 'Because' alone (25.3, 25.6, 25.15). Both verses that write the pair fuse it identically under rule 30; recorded as a convention because rule 55 is the live competing reading.",
+    "The two added units — 'thy' (25.6) and 'to go' (25.10) — have no counterpart elsewhere that was folded into a licensing morpheme. The supplied 'the's of 25.6 ('with the feet', 'the despite') go to their nouns under rule 15, which is a different rule rather than a different analysis of the same thing.",
+    "BSB: none of the eight disagreement classes is a genuine error. לֵאמֹר's לֵ is rule 27; the two 25.5 לְ's are rule 21's recasting clause, which the contract already names as the usual prophetic BSB divergence; אֵת (25.5) is rule 16; the nine Sp1cs are the אֲדֹנָי suffixes, which the ASV's bare 'the Lord' leaves unrendered and which the corpus's dominant treatment (140 aligned אֲדֹנָי → 'the Lord' on the construct alone) agrees with; 25.6's ךָ is rule 22; 25.9's ה is rule 32; 25.13's waw has no connective written for it. Every one is BSB attaching a morpheme to its host phrase.",
+    "No promotion. The Because-that fusion is already settled by rule 30's 'one English rendering, not one English token' together with rule 55's contiguity test, so a rule for it would only add a cross-reference. The one judgment the contract does not reach is EZK.25.9's 'which are on', where a bare prepositional phrase is recast as a relative clause and the supplied 'which are' joins the preposition's unit under rule 49 instead of the 'which' going added under rule 55; it occurs once, the corpus material supplied carries no precedent for it, and the verse note already names the competing reading, so the contract is left alone. That is the case to promote if a later chapter meets it again."
+  ]
+}

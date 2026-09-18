@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "chapter": "NEH.13",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.NEH.13.23.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Ketiv אשדודיות and qere אַשְׁדֳּדִיּוֹת differ only in orthography (plene vs. defective spelling of the same gentilic plural); ASV 'women of Ashdod' renders either identically. The only note on the verse is a hebrew_gloss on 'had married', not mapped to this unit. Base qere fallback retained."
+    },
+    {
+      "unit_id": "WLC.NEH.13.23.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Ketiv עמוניות and qere עַמֳּנִיּוֹת differ only in orthography (plene vs. defective spelling of the same gentilic plural); ASV 'of Ammon' renders either identically. The only note on the verse is a hebrew_gloss on 'had married', not mapped to this unit. Base qere fallback retained."
+    }
+  ]
+}

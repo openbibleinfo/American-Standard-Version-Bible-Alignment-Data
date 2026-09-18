@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "chapter": "1TI.6",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.1TI.6.5.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 6:5 ends at 'supposing that godliness is a way of gain.' with no rendering of the RP addition 'Ἀφίστασο ἀπὸ τῶν τοιούτων' ('from such withdraw thyself'), and no note supplies it; the absent imperative clause distinguishes the base reading."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.6.7.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 6:7 reads 'for we brought nothing into the world, for neither can we carry anything out' with nothing answering to RP's δῆλον ('it is manifest/certain that'); the missing predicate distinguishes bare ὅτι."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.6.11.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is only the presence of the Greek article before θεοῦ; ASV 'O man of God' renders anarthrous and articular genitive identically, and the sole note on the verse is classed alternative_rendering, so nothing in the English distinguishes the readings. Base fallback carries the projection."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.6.11.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV renders the final virtue simply 'meekness', which serves πραϋπαθίαν and πρᾳότητα alike; the verse's 'Or, stedfastness' note is classed alternative_rendering and attaches to the English of 'patience', so it cannot decide a reading."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.6.13.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'who giveth life to all things' is an equally natural rendering of ζῳογονοῦντος and ζωοποιοῦντος; the margin 'Or, preserveth all things alive' is classed alternative_rendering and by policy speaks to English wording rather than to the Greek reading, so the unit stays underdetermined."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.6.17.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'have their hope set on the uncertainty of riches' renders ἐπί and ἐν τῷ alike as 'on'; the verse's only note ('Or, age') is alternative_rendering and bears on 'this present world', not on this preposition."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.6.17.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 6:17 reads 'but on God, who giveth us richly all things' with no 'living' answering to RP's added τῷ ζῶντι; the absent adjective distinguishes the base reading."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.6.19.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'lay hold on the life which is life indeed' renders ὄντως ('indeed'); RP's αἰωνίου would give 'eternal life', which the ASV does not read here."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.6.21.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV closes 'Grace be with you.' — plural 'you', where ASV renders a singular σοῦ as 'thee' — and prints no 'Amen' for RP's Ἀμήν; both features distinguish μεθ᾽ ὑμῶν."
+    }
+  ]
+}

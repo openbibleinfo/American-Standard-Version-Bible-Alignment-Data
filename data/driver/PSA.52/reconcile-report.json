@@ -1,0 +1,25 @@
+{
+  "chapter": "PSA.52",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Verse boundary drawn differently (rule 54): the ASV closes the heading with the Doeg clause ('when Doeg the Edomite came ... house of Ahimelech') that WLC carries at the head of the next verse. PSA.52.0 holds that English as one added unit with a null head; PSA.52.1 holds the eighteen Hebrew morphemes (s001-s018, בְּבוֹא ... אֲחִימֶלֶךְ) each as its own unrepresented unit. Nothing is missing from either verse and nothing is folded across the boundary.",
+    "In both cola 'pluck thee out of thy tent' and 'root thee out of the land', the 'out of' is read as the compound rendering of the written מִן (headed on out, rule 24), and the verbs נָסַח and שָׁרַשׁ take bare pluck / root. The competing reading, out as the verb's phrasal particle with only of on the preposition, was rejected consistently in both cola."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 18 candidate lemmas against their contexts; none is a split. Every difference is licensed by the source: הוּא Thy/thee/thy by possessive vs object role; וְ also/and/But/unrepresented by what the ASV wrote (52.6 also under rule 51; 52.1 waws unrepresented under rule 54); לְ of (authorial lamed, 52.0) vs unrepresented (52.1 rule 54) vs for (52.5, 52.9); עוֹלָם 'for ever' in 52.8 (bare adverbial accusative, rule 33) vs bare 'ever' in 52.9 where a written לְ takes the for; כְּ Like vs 'am like' (prepositional predicate, rule 49); טוֹב good vs 'it is good' (verbless predicate, rule 20); הַוָּה 'very wickedness' (plural intensive, rule 31) vs 'wickedness'; לָשׁוֹן tongue vs vocative 'O thou tongue' (rule 36).",
+    "Read the dump end to end for added units the table cannot see: 52.3 And, 52.7 And (asyndetic cola, rule 14), 52.7 'this is' and 'that' (rule 20 cleft frame; rule 55 relative over a juxtaposed finite clause with a written antecedent), 52.5 thy (no suffix on ohel, rule 18), 52.6 it and saying, 52.9 it (rule 44 supplied objects; rule 20 supplied verb), 52.8 'as for' (rule 16's fronted-phrase limit, headed on as). Each is consistent with how the same construction is treated elsewhere in the chapter.",
+    "Rule 54 verse-boundary case checked both ways: the Doeg heading clause is one added unit with null head in PSA.52.0 and eighteen unrepresented units (s001-s018) in PSA.52.1, each side's review_notes naming the other. Correct and complete.",
+    "The one 3-morpheme unit (52.1 kol-ha-yom → 'endureth continually') is a rule 30 fusion with the article inside it, matching the corpus's kol-ha-yamim → 'for ever' units; the italic endureth is the construction's copula (rule 20's 'endureth for ever' test: a bare 'is' says what the Hebrew says).",
+    "BSB: 99/99 agree; nothing to report. Two chapter conventions recorded; no promotions or amendments — everything this chapter did is already stated in rules 14, 16, 20, 30, 33, 44, 49 and 54."
+  ]
+}

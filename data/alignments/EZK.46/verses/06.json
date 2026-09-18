@@ -1,0 +1,203 @@
+{
+  "alignments": [
+    {
+      "note": "Waw → And.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Preposition bə → on.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Construct yôm; the ASV writes a *the* before the construct and another before the rectum's phrase, so this one is the supplied article (rule 29).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Article on ḥōdeš takes the *the* standing before its own word (rule 29).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Rectum with its relational *of* (rule 19); its lexeme is rendered by the two-word *new moon*, headed on the noun (rule 31). The competing reading heads on *new*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Predicate nominal of the verbless clause; the presentative frame *it shall be* joins the predicate (rule 20), and the English indefinite article belongs to the noun (rule 15).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011",
+        "t012",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "ben bāqār is a fixed expression the ASV renders by the single English word *young*, so the two morphemes share one unit headed on the morpheme carrying the lexeme (rule 30). Dropping *young* diminishes the expression as a whole rather than either morpheme's own rendering, which is rule 30's subtraction test. The competing reading gives *young* to ben alone and marks bāqār unrepresented; rule 30 disallows that shape for a fixed expression rendered by one English word, exactly as ʾiššāh zônāh → *harlot's* is one unit.",
+      "source": [
+        "s007",
+        "s008"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "tāmîm → without blemish, headed on the word whose loss loses the lexeme (rule 31).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Waw → and.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Numeral → six.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Noun → lambs.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Waw → and.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Noun with the English indefinite article, which belongs to the noun (rule 15).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "tāmîm → without blemish.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t026",
+        "t027"
+      ],
+      "target_head": "t027"
+    },
+    {
+      "note": "Imperfect of hāyāh with its subject pronoun and auxiliary (rule 17).",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t023",
+        "t024",
+        "t025"
+      ],
+      "target_head": "t025"
+    }
+  ],
+  "ref": "EZK.46.6",
+  "review_notes": [
+    "Corrected the treatment of par ben-bāqār → *a young bullock*. The accepted alignment rendered ben by *young* and marked bāqār unrepresented; rule 30 rules that a fixed multi-word Hebrew expression the ASV renders with one English word is one unit headed on the lexeme carrier, 'rather than one rendered morpheme beside others marked unrepresented'. ben and bāqār now share one unit on *young*, headed on ben.",
+    "par keeps *bullock* with the clause's presentative copula frame under rule 20; the two *the*s of 'on the day of the new moon' are read by rule 29's count.",
+    "All 16 source and 27 target ids partitioned exactly once across 15 units."
+  ]
+}

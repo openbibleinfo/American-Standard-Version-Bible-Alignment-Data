@@ -1,0 +1,230 @@
+{
+  "ref": "1PE.5.9",
+  "alignments": [
+    {
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Rule 20's second arm: no source word stands inside this article's own noun phrase to take the supplied possessive, so the article is what 'your' realizes, with the case preposition riding along under rule 21. The hymon later in the verse belongs to adelphoteti and never reaches this phrase's determiner slot - JHN.7.30 writes both arms in one verse for exactly this reason (rules 20, 76). Rule 51's supplied-determiner-as-helper clause is scoped to anarthrous Greek and rule 57 excludes it here. The ASV margin 'Or, the' confirms the article is what 'your' realizes."
+    },
+    {
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The supplied complementizer goes to the infinitive it expands under rule 85, not to the governing participle."
+    },
+    {
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "target": [],
+      "target_head": null,
+      "status": "unrepresented",
+      "confidence": "high",
+      "note": "The ASV writes no 'of the' for the partitive genitive's article; rule 23."
+    },
+    {
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Rule 31: an article preceding its noun with a prepositional-phrase modifier keeps the supplied relativizer, no verb standing in the modifier to carry it. The determiner slot is already occupied by 'your' from the genitive pronoun hymon, so only 'who' is left to the article - EPH.2.17's tois -> 'that' is the same mechanism, its note reading 'here the pronoun is already supplied by hymin, so only that remains for the article', and that verse writes the unreduced arm alongside it."
+    },
+    {
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "A prepositional phrase has no verb to carry the supplied copula, so 'are in' rides with the preposition; rules 31 and 53."
+    },
+    {
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "target": [
+        "t014",
+        "t016"
+      ],
+      "target_head": "t016",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The dative case preposition stays with the noun, discontinuously across the possessive, under rules 20 and 15."
+    },
+    {
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "target": [
+        "t008",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The infinitive is expanded into a finite clause; the supplied complementizer and the auxiliary are its helpers under rules 85 and 9, headed on the lexical verb."
+    }
+  ],
+  "review_notes": []
+}

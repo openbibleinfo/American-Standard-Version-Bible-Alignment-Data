@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "EZK.7",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.EZK.7.2.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 7:2 reads 'upon the four corners of the land'. The qere absolute ארבע and the ketiv construct ארבעת are both rendered by English 'the four corners' — the distinction is one of Hebrew bound form, which English number-plus-noun cannot show, and there is no ASV note mapped to this unit. Nothing in the wording excludes either reading; the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.EZK.7.21.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 7:21 reads 'and they shall profane it', a plural subject taken up from 'the strangers' and 'the wicked of the earth'. The qere וְחִלְּלֽוּהוּ carries the plural ו before the object suffix; the ketiv consonants וחללה lack it and support only a singular verb with suffix. The plural English verb is the qere reading."
+    }
+  ]
+}

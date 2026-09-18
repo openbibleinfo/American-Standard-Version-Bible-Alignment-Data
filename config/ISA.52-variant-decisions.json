@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "chapter": "ISA.52",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.ISA.52.2.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's main text, 'loose thyself from the bonds of thy neck,' renders the qere's feminine singular imperative; the mapped textual-variant note explicitly assigns the passive reading 'the bonds of thy neck are loosed' only as another reading."
+    },
+    {
+      "unit_id": "WLC.ISA.52.5.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'what do I here' distinguishes the qere מַה לִּי ('what [is] to me/here') from the ketiv מי לי ('who [is] for me')."
+    },
+    {
+      "unit_id": "WLC.ISA.52.5.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'they that rule over them' expresses the pronominal object 'over them,' distinguishing the qere מֹשְׁלָיו from the ketiv משלו."
+    }
+  ]
+}

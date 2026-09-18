@@ -1,0 +1,208 @@
+{
+  "alignments": [
+    {
+      "note": "Conjunction waw → *And* (rule 14).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "גַּם → *also*; the ASV writes it postpositively, so the unit is discontinuous from the pronoun's rendering (rule 25).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The fronted independent pronoun is rendered by the whole expression *as for me*, which realizes that pronoun and nothing else; headed on the pronoun *me* that directly carries it (rule 24).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Negative לֹא → *not*; the ASV writes the modal as a separate word, so nothing is indivisible here (rule 35).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Verb with its auxiliary (rule 17), discontinuous around the negative (rule 25), headed on the lexical *spare*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Noun *eye*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "1cs suffix → *mine* (rule 18).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Waw plus the negative fused into the single English *neither* (rule 35), headed on the negative. The ASV writes no answering *nor*, so this is rule 35's fusion rather than rule 14's correlative pair.",
+      "source": [
+        "s008",
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Verb rendered by the light verb *have* plus its complement, with the subject pronoun and modal (rules 17, 44); headed on *pity*, since *have* alone has anything.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013",
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Noun *way*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "3mp suffix → *their* (rule 18).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Preposition בְּ → *upon*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Noun *head*.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "3mp suffix → *their* (rule 18); MACULA's glosses on s014/s015 are distributed in reverse order and are a display defect (rule 39).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "No conjunction stands in this clause — it opens with the fronted object דַּרְכָּם — so no morpheme licenses the ASV's *but*, and it is its own added unit (rules 30, 51). It is not folded into the verb, for the reason rule 51 gives about a supplied *also*: the word is written beside that rendering rather than inside it.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Verb with its subject pronoun and modal (rule 17), headed on the lexical *bring*.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "EZK.9.10",
+  "review_notes": [
+    "The clause-initial *but* (t016) is added: the Hebrew clause has no waw or other conjunction, which rule 51's second half makes the deciding test.",
+    "s003 takes the whole *as for me*; the pronoun is fronted and no other morpheme answers to those words, while גַּם keeps its own postposed *also*."
+  ]
+}

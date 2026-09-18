@@ -1,0 +1,29 @@
+{
+  "chapter": "1CO.9",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "`εὐαγγελίζομαι` is rendered *preach the gospel* and the whole phrase belongs to that one verb token (9:16 twice, 9:18). At 9:18 `τὸ εὐαγγέλιον` also stands as a separate object and takes its own *the gospel*, so the same two English words answer to different tokens in one verse. Rule 103's test is licensing and not recurrence, and neither occurrence is `added`.",
+    "Interrogative `μή` opening the rhetorical questions of 9:4, 9:5, 9:8 and 9:9 is `unrepresented` throughout under rule 44, the ASV marking each by inversion alone. At 9:9 the inversion is the cleft *Is it … that*, and that frame is the impersonal `μέλει`'s own English rather than a supplied interrogative word, so it does not bring the particle back under rule 44's second arm.",
+    "An article governing a substantival adjective or quantifier takes the supplied generic nominal even where the ASV writes no determiner, with the case preposition riding along, and leaves the adjective or quantifier bare: `τὰ πνευματικά` -> *things* / *spiritual* and `τὰ σαρκικά` -> *things* / *carnal* at 9:11, `τὰ ἱερά` -> *things* / *sacred* at 9:13, `τοῖς πᾶσιν` -> *to … men* / *all* at 9:22. Anarthrous Greek is the contrast and keeps the nominal on the quantifier itself, `πάντα` -> *all things* at 9:12, 9:22 and 9:23 and `πάντων` -> *all men* at 9:19, and 9:22 writes both halves in one verse.",
+    "Two supplied English words in this chapter are `added` and every other one folds. 9:10's italic *to thresh* is `added` because `ἀλοῶν` is already spent on *thresheth* (rule 103), and 9:13's italic *and* is `added` because it seams two finite clauses the Greek left asyndetic and neither is a participle converted to a finite clause (rule 98, not rule 88). Where a supplied word instead completes a token's own unfinished English it folds: *the corn* on `ἀλοῶντα` at 9:9, *men* on `πάντων` at 9:19, *in the games* on `ἀγωνιζόμενος` and *do it* on `ἐκεῖνοι` at 9:25, *this* on `τῆς` at 9:12 and *it were* on `καλόν` at 9:15. Rule 11 keeps the italics from deciding either way."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v83",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 51 candidate lemma groups and read the full dump end to end for the splits the table is blind to (supplied English marked `added` in one verse and folded in another). No construction is analysed two ways without something in the source licensing the difference, so no patches.",
+    "Article plus substantival adjective or quantifier: 9:11 (twice), 9:13 and 9:22 all give the supplied nominal (*things*, *men*) and any case preposition to the article and leave the adjective or quantifier bare, while the anarthrous quantifiers at 9:12, 9:19, 9:22, 9:23 and 9:25 keep the nominal themselves. 9:22 writes both halves in one verse, so it reads like a split and is exactly rule 102's contrast.",
+    "Supplied predicate in a clause with no predicate: 9:12 `ἡμεῖς` -> *do we* and 9:25 `ἐκεῖνοι` -> *they do it* are parallel and both put the supplied verb on the subject under rules 56 and 68. Not a split.",
+    "`οὕτως` takes *Even so* headed on *so* at 9:14 and 9:24 and a bare *so* at 9:15 and 9:26 where the ASV writes no correlative; `καί` is `unrepresented` at 9:14 under rule 100 and takes *even* at 9:5 under rule 82's bare-*even* clause, where no *so* competes. `ἵνα` -> *to* at 9:25 against *that* elsewhere is rule 40's own case.",
+    "BSB disagreements: none is a genuine error. The five PRT-N are four interrogative `μή` (9:4, 9:5, 9:8, 9:9) under rule 44 and one redundant `οὐ` (9:15) under rule 41, and both rules say in terms that the report is not a correction. 9:12 `τοῦ` before `Χριστοῦ` has no English determiner to anchor, so rule 23 empties it and rule 21 leaves *of* on the name. 9:14 `καί` is rule 100. No accepted edge was changed.",
+    "Both `added` units survive review: 9:10 *to thresh* (rule 103, `ἀλοῶν` already spent on *thresheth*) and 9:13 *and* (rule 98, an asyndetic seam between two like clauses, neither a participle converted to a finite clause, so rule 88 does not reach it). Every other supplied word in the chapter has an unspent licensing token and folds.",
+    "Hedged edges left standing, each naming its competing reading in its own note: the `κατά` frame head at 9:8 (rule 67's standing division for a proper preposition), `εἰς` -> *so as* headed on *so* at 9:18 (heading on *as* as the complementizer is defensible), `πάντως` -> *by all means* at 9:22, `μή` -> *to forbear* at 9:6, `οὐκ` -> *nothing* at 9:16, and the supplied *of the* on `ἀπόστολοι` at 9:5."
+  ]
+}

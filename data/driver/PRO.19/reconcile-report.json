@@ -1,0 +1,28 @@
+{
+  "chapter": "PRO.19",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "`אַף כִּי` is aligned as one fused unit under rule 30, the particle and the conjunction sharing the single fixed English expression the ASV writes for the pair, of which neither morpheme owns a part. The source head is `אַף`, the governing first morpheme, under rule 23's sentence on a pair of particles in which neither carries content the other lacks; the target head is the content word the expression turns on by rule 31's subtraction, which is the comparative word. PRO.19.7 reads *How much more* headed on *more* and PRO.19.10 reads *Much less* headed on *less*; the two verses were decided independently on their own English and agree."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v177",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 38 candidate lemma groups. Every bucket with more than one treatment is the ASV writing different English for one morpheme in different contexts, which the source licenses; none is one construction analysed two ways.",
+    "`אַף כִּי` occurs twice (PRO.19.7 *How much more*, PRO.19.10 *Much less*) and is fused under rule 30 in both, source head on `אַף` under rule 23, target head on the comparative word by rule 31's subtraction. Consistent, and recorded as a convention so a later reader need not re-derive it.",
+    "`לְ` before an infinitive construct: PRO.19.27 aligns two written *to*s; PRO.19.8 marks it `unrepresented` because the ASV writes only the modal *shall*, which rules 48 and 52 give the verb. That is rule 52's own test — ask whether a word is written — not a split. The waw's *And*/*But* alternation is likewise rule 14's open list read off the ASV.",
+    "Audited copula placement across PRO.19.1, 2, 6, 10, 11, 12, 13, 14, 21, 22, 23, 26. The construction-supplied copula goes to a nominal or adjectival predicate wherever the Hebrew writes one, and to the preposition wherever the prepositional phrase is itself the predicate (rule 49's first sentence and its closing paragraph). PRO.19.12 writes both shapes in one verse — `נַהַם` is a predicate noun with `כַּכְּפִיר` attributive to it, while `כְטַל` is a bare prepositional predicate — and is right in each colon. PRO.19.21's presentative *There are* joins the predicate while PRO.19.11's anticipatory *it* is `added`, which is rule 20's own distinction.",
+    "Audited every supplied English preposition. Where the English predicate reaches its own bare object or complement through the word, it joins the predicate's unit (19.4 *separated from*, 19.11 *slow to*, 19.15 *casteth into*, 19.16 *careless of*, 19.17 *hath pity upon*, 19.26 *doeth violence to*, 19.28 *mocketh at*); where the word states what a bare nominal contributes and the verb's object lies elsewhere or the verb is passive, it joins the noun (19.7 *with words*, 19.23 *with evil*). The line is rules 44 and 33's, and the chapter holds it everywhere.",
+    "Read the dump end to end for `added` splits, since the candidate table is blind to them. Supplied determiners, antecedent-plus-relative phrases and generic nouns expanding a substantive are folded into the morpheme that licenses them in every verse; supplied coordinators (19.7, 19.16, 19.24, 19.25, 19.26), possessives (19.2, 19.26 twice), object pronouns (19.7, 19.19 twice), 19.11's anticipatory *it*, 19.2's subordinator and 19.27's *Only* are `added` in every verse. No supplied word is folded in one place and marked `added` in another.",
+    "The one boundary the chapter exercises repeatedly is between a supplied verb inside the recasting of a single written nominal, which joins that nominal's unit under rule 46's closing paragraph (19.6 *him that giveth*, 19.22 *That which maketh ... to be desired*, 19.25 *one that hath understanding*), and a supplied relative clause with no source nominal behind it, which is `added` (19.23 *that hath it*). Both are correctly applied; each verse's note carries the reasoning.",
+    "PRO.19.5 and PRO.19.9 are a near-duplicate couplet aligned independently and agreeing wherever the ASV agrees, differing only at the final verb, where the ASV itself differs.",
+    "BSB: none of the five disagreements is an error. All are the documented convention difference in which BSB attaches a morpheme the ASV spends no English word on — an assimilated article the ASV renders indefinitely (19.6), a `לְ` before an infinitive left to the modal (19.8), a dative `לְ` rendered as a bare indirect object (19.17), a `לְ` whose object the ASV promotes to a direct object (19.25), and an apodosis waw for which the ASV writes no connective (19.19). Rules 29, 40 and 52 dispose of each; no edge was changed."
+  ]
+}

@@ -1,0 +1,6 @@
+# Colossians 1 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- A Greek compound word rendered by two English words each of which glosses one of its elements heads on the core, and for a compound verb the core is the verbal element: karpophoreo -> bearing fruit heads on bearing at COL.1.6 and COL.1.10, and eirenopoiesas -> having made peace heads on made at COL.1.20, where the reconciliation pass corrected a head on peace. The contrast in this chapter is a verb whose English complement carries the whole lexical sense because no part of the English verb glosses the lexeme - gnorisai -> to make known on known (COL.1.27), aitoumenoi -> make request on request (COL.1.9), and the denominal causative ikanosanti -> made ... meet on meet (COL.1.12).
+- In aph' hes hemeras -> since the day (COL.1.6, COL.1.9) the relative pronoun takes the English 'the', occupying the determiner slot of the noun it governs, and hemeras stands bare. The competing reading - 'the' as a rule 7 helper on the noun with the relative left unrepresented - is named in both units' notes; the chapter takes the relative throughout.

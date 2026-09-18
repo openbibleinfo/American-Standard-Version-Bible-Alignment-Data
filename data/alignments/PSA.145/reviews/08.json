@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "24f43e3c51151a23c136607e0e93400393410d71e35ca05862e55980916f585c",
+  "contract_version": "ot-hebrew-verse-v201",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "Corrected a one-place shift in the source ids of the second, third and fourth units: the token table has s002 = וְ, s003 = רַחוּם, s004 = יהוה, so 'and', 'merciful' and 'Jehovah' were each attached to the wrong morpheme even though the unit notes described the intended assignments.",
+    "Reallocated the 'of' of 'of great lovingkindness' from חֶסֶד to גְדָל: since the ASV renders the chain attributively (rule 28) it writes no relation between the two nouns, and the 'of' stands before the phrase's opening word as the supplied word stating what the bare nominal contributes (rule 33). The rule 19 reading is named in that unit's note under rule 8.",
+    "'Slow to anger' keeps its 'to' on אַפַּיִם, where the ASV does write the chain's relation between the two nouns."
+  ],
+  "ref": "PSA.145.8",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,235 @@
+{
+  "alignments": [
+    {
+      "note": "Impersonal *It* opening the verbless clause. Rule 20 excludes a cleft or impersonal *it* from the construction-supplied frame (only a presentative *there* joins it), so no morpheme licenses this word and it is `added`; the copula *is* beside it goes to the prepositional predicate under rule 49.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Prohibitive `אַל` takes the written *not*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The `לְ` heads the prepositional predicate of a verbless clause, so under rule 49 it takes the construction-supplied copula *is* along with its own *for*, headed on the preposition. Unit discontinuous around the `אַל`'s *not* under rule 25.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Article assimilated into the pointed preposition and supplied as its own token by MACULA (rule 12). The ASV writes no *the* for the phrase, so it is `unrepresented` under rule 29.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "`מֶלֶךְ` plural → *kings*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Vocative proper name; the supplied *O* joins the noun's own unit under rule 36 and is not `added`. Headed on the name, which carries the lexeme.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Second prohibitive `אַל` → *not*; the repetition is written in both languages, so rule 22 does not reach it.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Second impersonal *it*, `added` on the same ground as t001 (rule 20).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Second `לְ` heading the prepositional predicate takes the supplied copula *is* with its own *for* under rule 49, discontinuous around *not* under rule 25.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Assimilated article token with no written *the* in the ASV (rules 12 and 29).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "`מֶלֶךְ` plural → *kings*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Bare infinitive construct with no preposition before it, so the English infinitive marker *to* belongs to the infinitive's own unit under rule 52's closing paragraph, headed on the lexical verb.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "`יַיִן` → *wine*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "The waw takes the connective the ASV wrote for it (rule 14). *Nor* here rests on a negative gapped from the preceding lines rather than on a written `לֹא`/`אַל` in this clause, so under rule 35 the single word goes to the waw, which is the only morpheme actually present.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "`לְ` → *for*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "`רוֹזְנִים` → *princes*.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "The italicized *to say* supplies a lexical verb for a line whose Hebrew writes none; rule 34's gapping clause covers only the copula, and a supplied lexical verb is `added` under rule 20's supplied-lexical-verb clause. The ASV italic corroborates without deciding it (rule 7).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Interrogative `אֵי` is the predicate of the verbless clause, so it takes the construction-supplied copula *is* along with its own *Where*, exactly as rule 20 gives the *is* of `מִי הָאִישׁ הַלָּזֶה` → *What man is this* to `מִי`. Headed on the wh-word carrying the lexeme.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "One substantive rendered by a two-word English phrase (rule 31). Headed on *strong*, since *drink* alone is any drink and is the generic the ASV supplies to complete the phrase; the competing reading heads on *drink* as the class noun, and that alternative is defensible if *drink* is read as realizing the lexeme with *strong* a specifier.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t023",
+        "t024"
+      ],
+      "target_head": "t023"
+    }
+  ],
+  "ref": "PRO.31.4",
+  "review_notes": [
+    "The marginal note (*Another reading is, to desire strong drink*) was read and set aside under rule 38: the printed text governs, so the italic *to say* is what is aligned.",
+    "Variant WLC.PRO.31.4.v001 resolved to r00-base, which supplies s015 `אֵי`; the projection is taken as given under rule 9.",
+    "The two *It is* frames are divided as rule 49 plus rule 20 direct: the copula joins the `לְ` heading the prepositional predicate and the impersonal *It* is `added`. The competing reading takes *It is* as a single supplied frame on the preposition; that was rejected because rule 20 names a cleft or impersonal *it* as licensed by no morpheme."
+  ]
+}

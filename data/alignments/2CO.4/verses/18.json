@@ -1,0 +1,24 @@
+{
+  "ref": "2CO.4.18",
+  "alignments": [
+    {"source": ["s001"], "source_head": "s001", "target": ["t004"], "target_head": "t004", "status": "aligned", "confidence": "high", "note": "Ordinary negative on the participle; rule 44 does not apply."},
+    {"source": ["s002"], "source_head": "s002", "target": ["t001", "t003"], "target_head": "t003", "status": "aligned", "confidence": "high", "note": "Genitive-absolute participle recast as a finite clause; the supplied subordinator 'while' is a rule 7/86 helper on the participle that licenses it."},
+    {"source": ["s003"], "source_head": "s003", "target": ["t002"], "target_head": "t002", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s004"], "source_head": "s004", "target": ["t005", "t006", "t007"], "target_head": "t007", "status": "aligned", "confidence": "medium", "note": "Substantival article before a participle, taking the nominal expression under rules 22 and 32 and headed on the nominal word. The supplied *at* stays with the article on the strength of PHP.2.4, which is this exact shape — σκοπέω with coordinate substantival τὰ objects and the preposition repeated on each member, resolved on the articles at high — and because the verb has no workable target for it: the ASV writes *at* twice, once per object across ἀλλά, and rule 15 forbids absorbing that span into σκοπούντων, which no corpus verb unit does. Medium is real: the contrary line puts the particle on the verb (JHN.4.35 *look on*, REV.18.9 and REV.18.18 *look upon*, the last deciding this very question against the article), and rule 21's licence is for a case preposition, which an accusative direct object does not need. Note this is not the same construction as 4.9 *smitten down* or 4.10 *bearing about*, where the particle governs nothing and renders the verb's own prefix."},
+    {"source": ["s005"], "source_head": "s005", "target": ["t008", "t009", "t010"], "target_head": "t010", "status": "aligned", "confidence": "high", "note": "Rule 32: the participle carries the relativizer and copula."},
+    {"source": ["s006"], "source_head": "s006", "target": ["t011"], "target_head": "t011", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s007"], "source_head": "s007", "target": ["t012", "t013", "t014"], "target_head": "t014", "status": "aligned", "confidence": "medium", "note": "As s004, including its confidence and its reasons."},
+    {"source": ["s008"], "source_head": "s008", "target": ["t017"], "target_head": "t017", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s009"], "source_head": "s009", "target": ["t015", "t016", "t018"], "target_head": "t018", "status": "aligned", "confidence": "high", "note": "Discontinuous under rule 15; the negative keeps its own word."},
+    {"source": ["s010"], "source_head": "s010", "target": ["t020", "t021"], "target_head": "t021", "status": "aligned", "confidence": "high", "note": "Rules 32 and 22."},
+    {"source": ["s011"], "source_head": "s011", "target": ["t019"], "target_head": "t019", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s012"], "source_head": "s012", "target": ["t022", "t023", "t024"], "target_head": "t024", "status": "aligned", "confidence": "high", "note": "Rules 32 and 22, as s010."},
+    {"source": ["s013"], "source_head": "s013", "target": ["t025", "t026"], "target_head": "t026", "status": "aligned", "confidence": "high", "note": "Rule 53: the supplied copula is the predicate adjective's helper."},
+    {"source": ["s014"], "source_head": "s014", "target": ["t028", "t029"], "target_head": "t029", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s015"], "source_head": "s015", "target": ["t027"], "target_head": "t027", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s016"], "source_head": "s016", "target": ["t032"], "target_head": "t032", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s017"], "source_head": "s017", "target": ["t030", "t031", "t033"], "target_head": "t033", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s018"], "source_head": "s018", "target": ["t034", "t035"], "target_head": "t035", "status": "aligned", "confidence": "high", "note": "Rule 53."}
+  ],
+  "review_notes": []
+}

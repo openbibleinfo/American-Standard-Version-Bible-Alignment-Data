@@ -1,0 +1,210 @@
+{
+  "alignments": [
+    {
+      "note": "Article to 'the'.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "No English determiner is written for 'of ignorance', so the article anchors nothing (rules 21, 23).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive noun with its case preposition (rule 21).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The ASV writes no word for the correlative μέν; marking the correlation elsewhere is not writing it (rule 70).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Inferential particle.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Article before the divine name with no English determiner (rule 23).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun subject.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Circumstantial participle converted into a coordinate finite clause, rendered by the finite 'overlooked'; rule 88 puts the juncture the conversion requires on the finite verb it introduces and never on the participle it follows.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "The nominalizing article of the adverbial τὰ νῦν contributes no part of the English 'now', which answers wholly to the adverb (rules 23, 61, 93).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Adverb 'now'.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Main finite verb with its English subject; the supplied juncture 'but' is a rule 7 helper on the finite verb it introduces, exactly as rule 88's ταρταρώσας παρέδωκεν → 'cast them down to hell, and committed them' puts the juncture on the main verb after a participle converted into a finite clause. Discontinuous around 'now' under rule 15. Marking 'but' added under rule 86 remains defensible, but rule 88 refuses that where a participle stands in the clause to license the juncture.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "No English determiner is written for 'men', so the article anchors nothing (rules 21, 23).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Infinitive expanded into a finite clause; the supplied complementizer, subject and modal are its helpers (rules 7, 85), discontinuous under rule 15.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014",
+        "t015",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Quantifier.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Adverb.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "ACT.17.30",
+  "review_notes": [
+    "Corrected the placement of 'but'. The accepted alignment gave it to the article of the adverbial τὰ νῦν, but an article contributes no part of such a fused adverbial expression (rule 93's principle), and 'now' answers wholly to νῦν. The verse is rule 88's shape — a circumstantial participle (ὑπεριδών) converted into a coordinate finite clause with the juncture standing before the main finite verb — so 'but' is a helper on παραγγέλλει, as rule 88's own ταρταρώσας παρέδωκεν precedent has it.",
+    "Marking 'but' added under rule 86 was considered and rejected: rule 86's test is whether a source token licenses the word, and rule 88 names a participle standing in the same clause as exactly such a token. The competing reading is recorded in the verb's note.",
+    "μέν remains unrepresented under rule 70; the correlation it marks is not a word the ASV wrote for the particle."
+  ]
+}

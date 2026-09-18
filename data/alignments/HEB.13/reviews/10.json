@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "6921433658f68f7a1d4581abafdf879a358983a5cc18f659cd286be73645a240",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: all 12 source ids and all 15 target ids appear exactly once across the 11 units; every head is a member of its own array.",
+    "`ἐξ οὗ` → *whereof* is correctly one `aligned` unit headed on the relative: rule 35's test is met (*where-* answers to the pronoun, *-of* to the preposition), so rule 45's `noncompositional` is excluded.",
+    "The `οἱ` / `λατρεύοντες` split is right. The ASV writes two English pieces for the pair (*they* … *that serve*), so rule 90's one-word relaxation does not apply and rule 32 governs, giving the article the bare pronoun and the participle the relativizer plus verb, discontinuously under rule 15. Rule 32 forbids in terms the one-unit *they that* reading.",
+    "`οὐκ` → *no* is correct and not `unrepresented`: rules 41 and 59 empty a negator only before a second **negative** word, and `ἐξουσίαν` is a plain noun that keeps its own *right*. Rule 39's joining test also fails, the ASV writing two English words rather than one.",
+    "`ἔχουσιν` / `ἐξουσίαν` correctly splits rather than forming a rule 73 light-verb unit: rule 73 is scoped to where the ASV collapses the pair into a single English verb, and here both elements are spelt out.",
+    "Heads follow rule 17 throughout — lexical verbs over supplied subjects and infinitival markers (*have*, *eat*, *serve*), the noun over its supplied indefinite (*altar*), and the pronominal in the portmanteau."
+  ],
+  "ref": "HEB.13.10",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

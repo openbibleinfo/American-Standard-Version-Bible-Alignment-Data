@@ -1,0 +1,28 @@
+{
+  "chapter": "MAT.8",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Where the ASV renders one Greek word by a frame of the shape sick of the X or possessed with X, the head is the noun that glosses the lexeme and never the supplied participle or adjective: παραλυτικός → sick of the palsy on palsy (8:6), πυρέσσουσαν → sick of a fever on fever (8:14), and δαιμονίζομαι → possessed with demons on demons (8:16, 8:28, 8:33). δαιμονίζομαι is a denominal -ίζω verb formed on δαίμων, so the supplied possessed answers to no element of it while demons is the root gloss, which is how rules 66, 91 and 104 read ξενίζω → think it strange and φλογίζω → setteth on fire. Heading on sick or possessed remains defensible and each unit's note says so.",
+    "προσέρχομαι's English complement is placed by whether the Greek expresses a dative, not by the English. Where it does, the dative takes the case preposition under rule 106 and the verb keeps only its verb word: προσῆλθεν αὐτῷ → there came and unto him (8:5), as προσήνεγκαν αὐτῷ → they brought and unto him (8:16). Where it does not, the supplied to him answers to no token and is a rule 7 helper inside the verb's own unit: προσελθών → there came to him (8:2) and προσελθόντες → they came to him (8:25), the αὐτῷ of 8:2 and the αὐτόν of 8:25 being already spent on the following verb's object and so unavailable under rule 76."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v112",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 53 multi-treatment lemma groups, then read the 34 verse dumps end to end for `added` units, which the table cannot see. No cross-verse split found: verdict no-change, with two conventions recorded.",
+    "Article (ὁ, 84 occurrences, the largest group) divides by rule 21 and not by drift. It takes the determiner with the case preposition riding along where the ASV writes one (8:12 of the, 8:13 unto the, 8:20 of the, 8:21 of the, 8:28 of the), and stands unrepresented with the preposition on the noun where the ASV writes none (8:11 of heaven, 8:12 of teeth, 8:20 of man, 8:29 of God, 8:31 of swine). 8:11 'of heaven' against 8:20 'of the heaven' is the ASV varying its own English on one construction, analysed identically — rule 24's habit, not two analyses. Articles before names are unrepresented in all nine instances. Rule 20 displacement (8:6, 8:8, 8:9, 8:14, 8:15, 8:17 s011, 8:21, 8:23, 8:34) is kept apart from rule 20's second arm, where no possessor word stands and the article takes the supplied possessive itself (8:3 s003 his, 8:17 s016 our, 8:20 s024 his); 8:3 and 8:17 each write both halves in one verse, which shows the test was applied rather than a habit followed.",
+    "προσέρχομαι (4 occurrences, 3 treatments) is the strongest-looking candidate and is licensed by the source. 8:5 and 8:16 express a dative, which takes the case preposition under rule 106's dative arm while the verb keeps its own verb word. 8:2 and 8:25 express no dative for the motion verb — the αὐτῷ of 8:2 is προσεκύνει's object and the αὐτόν of 8:25 is ἤγειραν's, both already spent under rule 76 — so the supplied 'to him' answers to no token and rides inside the verb's unit as a rule 7 helper. Recorded as a convention.",
+    "Preverb particles are uniform across 8:1, 8:11, 8:12, 8:16, 8:31, 8:32, 8:33 and 8:34: the particle rides inside the compound verb's unit, headed on the verb word. The apparent exceptions are rule 106's own arms — 8:5 and 8:23 give the whole English to the expressed εἰς and leave the verb bare, and 8:28 writes 'forth' for the preverb in addition to a complete 'out of' for ἐκ, which is rule 106's addition clause. One construction, one analysis.",
+    "δαιμονίζομαι heads on 'demons' in all three occurrences (8:16, 8:28, 8:33), and the same frame-head test governs παραλυτικός → sick of the palsy on 'palsy' (8:6) and πυρέσσουσαν → sick of a fever on 'fever' (8:14). Recorded as a convention, since rule 91's operational test is a query on the lemma and the corpus has no δαιμονίζομαι unit to query — this chapter is the first.",
+    "BSB disagreements: none is a genuine error. 8:11 τῶν and 8:16 τούς are decided by the ASV's English under rules 23 and 80 — the ASV writes no determiner for 'heaven' and lets πάντας carry the one word standing for the quantifier–article pair — and 8:14 καί has no English word at all between the two participles. All three are the documented convention difference; no accepted edge was touched.",
+    "Both `added` units re-checked and neither is foldable. 8:20 'have*' is a resumed verb whose licensing token ἔχουσιν is already spent on t008 (rule 103, which names a resumed verb explicitly). 8:13 'so' is a supplied correlative that no token licenses: ὡς has spent its own 'as', and rules 82 and 100 give a correlative 'so' to an answering καί or οὕτως, neither of which stands in the verse. Rule 82's closing sentence, about a comparative with no answering καί keeping 'even as' whole, reaches a word inside the comparative's own phrase and not one introducing the apodosis.",
+    "One head a later reader may want to revisit, left as accepted: 8:22 ἑαυτῶν → 'their own' heads on 'own'. The corpus heads αὐτοῦ → 'his own' on 'his' in 12 units, but that is a different lemma with a supplied 'own', whereas ἑαυτῶν carries the reflexive force lexically. The unit's note already records the competing reading under rule 16, so no patch; a corpus pull on LEMMA=ἑαυτοῦ would settle it if the question recurs."
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "alignments": [
+    {
+      "note": "Construct noun *children*. The ASV writes a single *the* for the chain and it stands at the phrase's left edge; under rule 29 that *the* belongs to the rectum's article, so nothing is supplied here and this unit takes only its own word.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Article on the rectum hā-rāmāh takes the *the* the ASV writes for the chain, English fronting it to the phrase's left edge while rendering the rectum anarthrously — rule 29's `כּוּר הַבַּרְזֶל` → *the furnace of iron* case. The accepted alignment marked this article `unrepresented` and treated the *the* as supplied on the construct, but rule 29 allows `unrepresented` only where the ASV writes no *the* for the phrase at all, as in *these cities*, and it writes one here; a present article morpheme takes the English *the* before a supplied one does. Competing reading: treat the article as lexicalized in the toponym; I did not take it, because the rule's condition is what the ASV writes, not whether the article is idiomatic to the name.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "*of* belongs to the nomen rectum (rule 19).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Conjunction (rule 14).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Proper name.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Numeral.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Numeral.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Numeral.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Waw between the same pair of numerals as the English *and* (rule 42).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Numeral.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    }
+  ],
+  "ref": "EZR.2.26",
+  "review_notes": [
+    "Corrected the disposal of the article hā on the rectum: the accepted alignment marked it `unrepresented` and gave the ASV's *The* to the construct as a supplied one. Rule 29's fronting clause governs — the rectum carries an article, the ASV renders the rectum anarthrously, and the single *the* it writes for the chain is fronted to the left edge — and rule 29 permits `unrepresented` only where no *the* is written for the phrase at all."
+  ]
+}

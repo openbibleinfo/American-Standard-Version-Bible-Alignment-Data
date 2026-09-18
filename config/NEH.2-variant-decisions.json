@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "chapter": "NEH.2",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.NEH.2.13.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'the walls of Jerusalem, which were broken down' renders either reading: the qere's two words (pronoun + participle, 'they [were] broken down') read as a relative clause in English, and the ketiv's single word with the article functioning as a relative ('the broken-down ones') yields the same 'which were broken down'. No italicized supply and no textual note on the verse; the English does not settle it, so the qere base fallback carries the projection."
+    }
+  ]
+}

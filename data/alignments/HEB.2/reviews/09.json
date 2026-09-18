@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "cfc9dc9ea6bba3960d680a07a9d0713c8546f79397570c9d450a86199d652f8a",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: all 25 source and all 41 target ids used exactly once, with one `added` unit for *even\\**.",
+    "*even\\** is `added` rather than folded: rule 105's fold arm is confined to a token that realizes part of the English — an expressed preposition realizing its own case — and here the appositive is carried by a bare proper name, which realizes nothing of *even*. Folding it onto `Ἰησοῦν` as a rule 7 helper remains the competing reading.",
+    "`τόν` → *him* / `ἠλαττωμένον` → *who hath been made … lower* is rule 32's ordinary split, the ASV writing two words so that rule 90's single-word case does not arise; the head is *lower* as the meaning-bearing complement.",
+    "`τοῦ` before `θανάτου` is `unrepresented` under rule 23, the ASV supplying no determiner, and *of* stays with the noun under rule 21's determinerless clause.",
+    "`χάριτι` is the reading SBLGNT.HEB.2.9.v005 selected; rule 12 forbids revisiting it."
+  ],
+  "ref": "HEB.2.9",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

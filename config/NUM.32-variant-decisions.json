@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "chapter": "NUM.32",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.NUM.32.7.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere תְנִיאוּן and ketiv תנואון differ only in the orthography of the same hiphil of נוא (aleph/vav order and the mater yod); both yield the identical sense. ASV 'wherefore discourage ye the heart of the children of Israel' renders that verb either way, and NUM.32.7 carries no italicized supply or mapped textual note bearing on it, so the English does not distinguish the readings. Base fallback (qere) carries the projection."
+    }
+  ]
+}

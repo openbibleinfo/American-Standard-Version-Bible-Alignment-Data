@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "chapter": "PRO.30",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PRO.30.10.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 30:10 reads 'his master'. Qere אֲדֹנָ֑יו and ketiv אדנו differ only as plural-of-majesty against singular suffix, and both are rendered by a singular English 'his master'; the ASV carries no note here. Nothing in the English distinguishes the readings, so the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.PRO.30.18.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 30:18 reads 'Yea, four which I know not'. Qere וְ֝אַרְבָּעָ֗ה and ketiv וארבע differ only in the gender form of the numeral 'four'; English numerals carry no gender, so both yield 'four' and no ASV note is mapped here. Underdetermined, with the qere base fallback retained."
+    }
+  ]
+}

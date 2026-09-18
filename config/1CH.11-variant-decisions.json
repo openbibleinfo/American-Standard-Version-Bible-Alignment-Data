@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "chapter": "1CH.11",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1CH.11.11.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV renders 'the chief of the thirty,' which distinguishes ketiv השלושים from qere השלישים; the mapped textual-variant note gives 'captains' as the other reading."
+    },
+    {
+      "unit_id": "WLC.1CH.11.17.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'David longed' does not distinguish the qere ויתאיו from the ketiv ויתאו, and no mapped textual note decides between them; retain the documented base fallback."
+    },
+    {
+      "unit_id": "WLC.1CH.11.20.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'and had a name among the three' renders qere ולו ('and to him') and distinguishes it from ketiv ולא ('and not'); the Hebrew-gloss notes concern names and 'slain,' not this unit."
+    },
+    {
+      "unit_id": "WLC.1CH.11.44.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV names 'Jeiel,' distinguishing qere ויעיאל from ketiv ויעואל; no mapped note supplies contrary textual evidence."
+    }
+  ]
+}

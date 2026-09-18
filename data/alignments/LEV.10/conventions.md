@@ -1,0 +1,9 @@
+# Leviticus 10 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- A possessive or belonging לְ standing in the predicate of הָיָה לְ fuses with the English possessive or genitive word that carries both the relation and the possessor's lexeme (rule 49's closing clause), and is not marked unrepresented under rule 40. LEV.10.15 aligns לְךָ → thine headed on the suffix and לְבָנֶיךָ → sons' headed on the noun, the suffix keeping its own thy; coordinated members of one predicate are read alike.
+- Sacrificial nouns the ASV renders by an English offering phrase keep the generic word offering(s) inside the source noun's own unit and head on the word carrying the lexeme (rule 31): חַטָּאת → sin offering on sin (vv. 16, 17, 19), עֹלָה → burnt offering on burnt (v. 19), מִנְחָה → meal offering on meal (v. 12), שֶׁלֶם → peace offerings on peace (v. 14), תְּנוּפָה → wave offering on wave (v. 15). offering is never the head and is never added.
+- אִשֶּׁה is rendered by the whole phrase the offerings made by fire, headed on fire, with a supplied the joining that unit where no article morpheme stands (vv. 12, 13, 15). In vv. 12 and 13 the unit is discontinuous around of Jehovah, which belongs to the following name under rule 19. The competing head offerings is named in each unit's note.
+- Qal קָרַב → draw near, drew near heads on near, which carries the lexeme under rule 44's subtraction (vv. 4, 5); the competing head draw is named in each note. Hiphil קָרַב is rendered by the single offered (vv. 1, 19) and raises no head question.
+- כַּאֲשֶׁר is fused as as under rule 30 and headed on the comparative preposition כְּ (vv. 5, 15, 18); the competing reading heads on the relative אֲשֶׁר and is named in each unit's note.

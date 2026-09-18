@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "chapter": "1SA.21",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1SA.21.11.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere/ketiv is orthographic: ketiv באלפו is the defective spelling of the same 3ms suffix on a plural that the qere writes plene (בַּאֲלָפָ֔יו). ASV 'his thousands' is the reading both forms yield; nothing in the wording or notes distinguishes them, so the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.1SA.21.11.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere/ketiv is orthographic: ketiv ברבבתו is the defective spelling of the same 3ms suffix on a plural that the qere writes plene (בְּרִבְבֹתָֽיו). ASV 'his ten thousands' fits both forms equally; no wording or note distinguishes them, so the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.1SA.21.13.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere/ketiv is orthographic: ketiv ויתו and qere וַיְתָיו֙ are spellings of the same wayyiqtol of תוה. ASV 'scrabbled' (note 'Or, made marks' is alternative_rendering and concerns only the English gloss) renders the verb either way; nothing distinguishes the forms, so the qere base fallback carries the projection."
+    }
+  ]
+}

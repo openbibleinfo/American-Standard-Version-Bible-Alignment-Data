@@ -1,0 +1,348 @@
+{
+  "alignments": [
+    {
+      "note": "ASV renders the adversative conjunction as 'Yea'; the marginal 'But some one will say' is an alternative rendering and not the projected text.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Future indicative with its auxiliary; rule 9 heads on the lexical verb 'say'.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Anarthrous indefinite rendered 'a man'; the supplied determiner is a rule 7/51 helper on the word it determines, and 'man' is the nominal word the indefinite is realized by, so it takes the head. The competing head is 'a', on the analogy of rule 69's 'any man' headed on 'any'; rejected because 'a' is the determiner English syntax requires for the count noun rather than a gloss of the lexeme, and rules 22 and 77 keep such a head on the nominal word and never the determiner.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Emphatic subject pronoun.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Anarthrous object noun.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Finite verb, subject already realized by the expressed pronoun s004.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Crasis under rule 55: one source token spelling conjunction and pronoun together, headed on the pronominal. Not noncompositional, since both English words answer to elements of the token.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Anarthrous plural noun.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Finite verb; the subject 'I' belongs to the crasis token s007.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Aorist imperative.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Dative pronoun as indirect object.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Rule 20: the genitive pronoun s014 is free and takes the supplied possessive 'thy', so the article realizes nothing.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Head noun, its determiner slot occupied by the possessive on s014.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Genitive pronoun realized by 'thy' under rule 20.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Improper preposition (rule 42). The governed noun gets no determiner from its article — the possessive 'thy' occupies that slot — so rule 21 forbids leaving a bare 'from' on the article and the supplied preposition stays with the adverb, as in 'near to Salim'. Rule 71 heads such a frame on the word rendering the adverb itself, here 'apart', matching the corpus's single-word 'without', 'apart', 'separate' for this lexeme.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Rule 20/23: the free genitive s018 takes 'thy', leaving the article with no English realization.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Governed genitive noun. Variant v018 selected r01, which supplies s017–s018.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Genitive pronoun realized by the possessive 'thy'; ASV italics are evidence only (rule 11), and rule 20 makes this the pronoun's own word.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Second crasis, headed on the pronominal under rule 55.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Dative pronoun as indirect object; discontinuous from its verb under rule 15.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t028"
+      ],
+      "target_head": "t028"
+    },
+    {
+      "note": "Future indicative with auxiliary, headed on the lexical verb (rule 9).",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t026",
+        "t027"
+      ],
+      "target_head": "t027"
+    },
+    {
+      "note": "Preposition realized by 'by' (rule 36).",
+      "source": [
+        "s022"
+      ],
+      "source_head": "s022",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Rule 20: the free genitive s025 takes the supplied 'my', so the article realizes nothing.",
+      "source": [
+        "s023"
+      ],
+      "source_head": "s023",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Governed genitive noun; the case preposition belongs to the expressed Greek preposition s022.",
+      "source": [
+        "s024"
+      ],
+      "source_head": "s024",
+      "status": "aligned",
+      "target": [
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "note": "Genitive pronoun realized by 'my'.",
+      "source": [
+        "s025"
+      ],
+      "source_head": "s025",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Rule 20: the possessive slot is taken by the free genitive s028.",
+      "source": [
+        "s026"
+      ],
+      "source_head": "s026",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Object noun. Variant v020 selected r01, which supplies s027–s028.",
+      "source": [
+        "s027"
+      ],
+      "source_head": "s027",
+      "status": "aligned",
+      "target": [
+        "t030"
+      ],
+      "target_head": "t030"
+    },
+    {
+      "note": "Genitive pronoun realized by 'my'; the ASV's italics are evidence, not a verdict (rule 11).",
+      "source": [
+        "s028"
+      ],
+      "source_head": "s028",
+      "status": "aligned",
+      "target": [
+        "t029"
+      ],
+      "target_head": "t029"
+    }
+  ],
+  "ref": "JAS.2.18",
+  "review_notes": [
+    "Returned unchanged: re-checked independently and found nothing to correct. All 28 s### and all 30 t### ids are partitioned exactly once; no ids invented; every aligned unit has nonempty arrays with both heads inside them, and every unrepresented unit is source-only with a null target head.",
+    "Four articles (s012, s016, s023, s026) are all unrepresented under rule 20: in each case a genitive pronoun stands free to take the supplied possessive, and rule 76's availability test is satisfied — none of s014, s018, s025, s028 is spent on any other role, each realizing only its possessive.",
+    "s015 χωρίς takes 'apart from' whole, headed on 'apart'. The competing reading gives 'from' to the article s016 under rules 21/42; rejected because the ASV writes no determiner for that noun ('thy works', not 'the works'), so the article has no 'the' to anchor and rule 21 forbids a bare 'from' on it. Rule 42's 'near to Salim' is the model, and rule 71 keeps the head on the adverb's own word rather than on the leading preposition.",
+    "s003 τις → 'a man' is headed on 'man'. The competing head is 'a', by analogy with rule 69's 'any man' headed on 'any'; that precedent is scoped to a negative-polarity indefinite whose 'any' carries the clause's negation, whereas here 'a' is only the determiner the count noun requires, and rules 22 and 77 keep the head on the nominal word and never on the determiner. Materially different but documented in the unit note per rule 16.",
+    "Both crasis tokens (s007, s019) are aligned under rule 55 and headed on the pronominal, not noncompositional: each English pair spells out both elements of the one source token. The second is discontinuous only in that its clause is reordered, not in its own tokens.",
+    "Variant selections were taken from the packet as given (rule 12); no unit carries a FALLBACK EXCLUDED BY EVIDENCE mark, so rule 97 is not in play and nothing here is 'added'.",
+    "No rule 37 case: the whole of this verse's Greek is translated within it, and no English is orphaned."
+  ]
+}

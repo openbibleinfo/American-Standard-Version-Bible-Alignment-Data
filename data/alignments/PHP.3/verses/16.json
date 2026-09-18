@@ -1,0 +1,89 @@
+{
+  "alignments": [
+    {
+      "note": "",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Preposition and relative pronoun fused into the portmanteau *whereunto* (rule 35).",
+      "source": [
+        "s002",
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The case preposition and the supplied demonstrative determiner ride with the article (rules 21, 60), and the supplied nominal completing the elliptical phrase is the article's too, headed on it (rules 102, 103; rule 60's closing clause, τῆς μελλούσης → *that hour which* heading on *hour*). The unit is discontinuous across the pronoun's own word (rule 15). This is not rule 97's excluded-reading case: the ASV's own text lacked κανόνι, which is why the word is italicized, and the selected reading SBLGNT.PHP.3.16.v010 r00-base agrees with it; rule 11 makes the italics evidence rather than a verdict. Marking *rule* `added` under rule 5 remains defensible, but rule 103 folds a supplied nominal standing inside a phrase a Greek article governs.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The identity pronoun keeps its own bare word, as at 3:1 (rules 60, 102).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Imperatival infinitive rendered as *let us walk*; the supplied subject and auxiliary are rule 7 and rule 9 helpers on the verb.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    }
+  ],
+  "ref": "PHP.3.16",
+  "review_notes": [
+    "The `added` unit is removed and its target joins the article's unit, whose head moves from the determiner to the supplied nominal (rule 102).",
+    "This is not rule 97: the ASV italicizes *rule* because the ASV's own text lacked κανόνι, and SBLGNT.PHP.3.16.v010 selected r00-base, which agrees with it, so no reading the ASV translated has been excluded.",
+    "αὐτῷ keeps a bare *same*, as at 3:1, and the case preposition still rides with the article's determiner (rule 21)."
+  ]
+}

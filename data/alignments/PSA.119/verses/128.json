@@ -1,0 +1,116 @@
+{
+  "ref": "PSA.119.128",
+  "alignments": [
+    {
+      "source": ["s001", "s002"],
+      "source_head": "s002",
+      "target": ["t001"],
+      "target_head": "t001",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Fixed expression `al-ken` rendered by one English word (rule 30); headed on the adverb that carries the lexeme."
+    },
+    {
+      "source": ["s003"],
+      "source_head": "s003",
+      "target": ["t004"],
+      "target_head": "t004",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [],
+      "source_head": null,
+      "target": ["t005"],
+      "target_head": "t005",
+      "status": "added",
+      "confidence": "high",
+      "note": "No pronominal suffix on `piqqudei`; the ASV supplies `thy`."
+    },
+    {
+      "source": ["s004"],
+      "source_head": "s004",
+      "target": ["t006"],
+      "target_head": "t006",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s005"],
+      "source_head": "s005",
+      "target": ["t007", "t008", "t009"],
+      "target_head": "t008",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Nomen rectum of the construct chain; the ASV recasts `of` as `concerning` and expands the substantive with `things`, so the head stays on `all` (rules 19, 31)."
+    },
+    {
+      "source": ["s006"],
+      "source_head": "s006",
+      "target": ["t002", "t003", "t010", "t011", "t012"],
+      "target_head": "t012",
+      "status": "aligned",
+      "confidence": "medium",
+      "note": "Declarative piel of `yashar` rendered periphrastically `I esteem ... to be right`; subject pronoun and the small clause belong to the verb (rule 17). Heading on `right` follows the lexeme (rule 24); heading on `esteem`, the finite English predicate, is defensible."
+    },
+    {
+      "source": ["s007"],
+      "source_head": "s007",
+      "target": ["t016"],
+      "target_head": "t016",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s009"],
+      "source_head": "s009",
+      "target": ["t017"],
+      "target_head": "t017",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Construct chain rendered attributively, `false way` rather than `way of falsehood` (rule 28)."
+    },
+    {
+      "source": ["s008"],
+      "source_head": "s008",
+      "target": ["t018"],
+      "target_head": "t018",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [],
+      "source_head": null,
+      "target": ["t013"],
+      "target_head": "t013",
+      "status": "added",
+      "confidence": "high",
+      "note": "No waw before `sane'ti`; the ASV supplies the connective for the parallel line."
+    },
+    {
+      "source": ["s010"],
+      "source_head": "s010",
+      "target": ["t014", "t015"],
+      "target_head": "t015",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [],
+      "source_head": null,
+      "target": ["t019", "t020"],
+      "target_head": "t019",
+      "status": "added",
+      "confidence": "high",
+      "note": "Acrostic stanza heading for Pe, printed by the ASV at the close of the Ayin stanza; no source token licenses it."
+    }
+  ],
+  "review_notes": [
+    "The acrostic letter heading that the ASV prints at each stanza boundary (here `Pe`, with its Hebrew letter) has no counterpart in the source and is marked `added` as a single unit. This recurs at every eighth verse of PSA.119."
+  ]
+}

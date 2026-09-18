@@ -1,0 +1,29 @@
+{
+  "chapter": "JOS.20",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "בְּיַד fuses with its preposition where the ASV writes one word for the pair (JOS.20.2, *by Moses*) and splits where it writes a word for each (JOS.20.9, *by the hand of the avenger of blood*). The two treatments are rule 30's one-rendering condition read off the ASV, not a chapter split; do not regularise them in either direction.",
+    "בִּ + בְּלִי + דַעַת → *unawares* (JOS.20.3, JOS.20.5) is one three-morpheme unit headed on the negative בְּלִי, heading on דַעַת being the competing reading named in each unit's note; בִּ + שְׁגָגָה → *unwittingly* (JOS.20.3, JOS.20.9) is one two-morpheme unit headed on the noun. The *and* the ASV writes between the two adverbs in JOS.20.3 answers to no conjunction morpheme in the clause and is `added`, the ASV italic corroborating but not deciding it.",
+    "In JOS.20.5 the single English *he* of *because he smote his neighbor unawares, and hated him not beforetime* is given to the finite הִכָּה as its subject pronoun under rule 17, and the postposed explicit הוּא of the coordinated participial clause, for which the ASV writes no second subject, is `unrepresented` under rule 22. Giving the *he* to the written pronoun instead was the competing reading; BSB represents that morpheme, and this is the documented difference rather than an error."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v164",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 25 candidate lemma groups and read the nine verse dumps end to end for the splits the lemma table is blind to. The chapter's one `added` unit (JOS.20.3 t009 *and*) has no counterpart elsewhere: no other verse supplies a coordinator between juxtaposed phrases, so there is no verse folding one in.",
+    "בְּיַד is the only candidate that is one construction analysed twice: fused in JOS.20.2 (*by Moses*, one English word for the pair) and split in JOS.20.9 (*by the hand of the avenger*, a word for each). That is rule 30's one-rendering condition read off the ASV, and both units already say so. Not a split; no patch.",
+    "בִּבְלִי־דָעַת → *unawares* is one three-morpheme unit headed on the negative in both JOS.20.3 and JOS.20.5, with דַעַת named as the competing head in each; בִּשְׁגָגָה → *unwittingly* is one two-morpheme unit headed on the noun in both JOS.20.3 and JOS.20.9. Consistent.",
+    "The five demonstrative phrases (JOS.20.4 *those cities*, *that city*; JOS.20.6 *that city*, *those days*, *the city* ... *that city*) all give the written determiner to the demonstrative pronoun and leave both the noun's article and the agreement article unrepresented, as rule 41 directs for הַמָּקוֹם הַהוּא. Uniform.",
+    "Article placement in construct chains is uniform: the rectum's article takes the written *the* wherever the rectum carries no determiner of its own (עָרֵי הַמִּקְלָט, גֹּאֵל הַדָּם three times, and the attributively rendered עָרֵי הַמּוּעָדָה under rule 28), and the construct takes a supplied *the* where the ASV writes a second — including the two-level יַד גֹּאֵל הַדָּם of JOS.20.9, which divides exactly as rule 29's לְבַב כָּל בְּנֵי הָאָדָם does.",
+    "Differences the source licenses rather than splits: הַ → *that* in JOS.20.9 is an attributive article on גָּר (rule 41), not the case of הַ → *the* on the substantival participles of JOS.20.5-6; רוֹצֵחַ takes a supplied *the* into its own unit in JOS.20.3 because no article is present (rule 46), while הָרֹצֵחַ in JOS.20.5-6 has one to take it; the dative לְ is unrepresented in JOS.20.2, 4, 5 and *unto* in JOS.20.3, where the ASV writes the word.",
+    "BSB: all 14 disagreements are documented convention differences and none is a genuine error — object markers (rule 16), the לֵאמֹר lamed and bare-indirect-object datives (rules 27, 40), the six articles left unrepresented beside a written demonstrative (rule 41), and the postposed הוּא of JOS.20.5, which is discussed in the third convention below.",
+    "Two single-verse judgments were left standing with their alternatives already named in the unit notes: JOS.20.6's אֲשֶׁר ... מִשָּׁם → *from whence* as one resumptive unit under rules 22 and 30, and JOS.20.8's לְ after the fused מֵעֵבֶר → *beyond*, marked unrepresented under rule 40. Each occurs once, so neither is cross-verse evidence and neither was promoted."
+  ]
+}

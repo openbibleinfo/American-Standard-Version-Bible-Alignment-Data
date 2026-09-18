@@ -1,0 +1,33 @@
+{
+  "chapter": "EZK.38",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The divine title 'adoNAI YHWH -> *the Lord Jehovah*: no article morpheme stands in the title, so the ASV's supplied *the* belongs to 'adoNAI as the nominal expression it determines (rule 15); the title's Sp1cs suffix is its own `unrepresented` unit, the ASV spending no separate word on it; and YHWH takes *Jehovah*. So read in EZK.38.3, 10, 14, 17, 18, 21. BSB attaches the suffix, which is the documented convention difference behind the Sp1cs x 6 line in the validation report and not a correction.",
+    "In ba-YOM ha-HU' -> *in that day* and ba-yaMIM ha-HEM -> *in those days*, the written demonstrative pronoun hu'/hem is what the ASV's single determiner realizes, and BOTH article morphemes are `unrepresented`: the article assimilated into the pointed preposition and the agreement article standing on the demonstrative. Rule 41's limit - a determiner goes to the article only where no other morpheme licenses it - is met here by the written pronoun, exactly as a pronominal suffix meets it there, and rule 29's closing sentence then disposes of the articles as it does for he-'aRIM ha-'ELleh -> *these cities*. So read in EZK.38.10, 14, 17, 18, 19. This is the chapter's largest single source of Td disagreement with BSB, which represents the articles.",
+    "la-BEtah -> *securely* meets rule 30's one-English-word condition: the preposition and the noun share one unit, headed on the lexeme-bearing noun, rather than the le- being marked `unrepresented` beside it. Dropping the English word diminishes only the expression as a whole and no morpheme owns a part of it. So read in EZK.38.8, 11, 14.",
+    "EZK.38.9's 'oTAKH, which MACULA tags To, is read as the comitative 'et (H854) and takes the ASV's *with*. The chapter writes the same formula three times - we-'ammim rabbim 'itTAKH / 'oTAKH, *and many peoples with thee* - and vv. 6 and 15 carry the R-tagged preposition, so the tag is what varies and not the construction. Rule 16's subtraction test reaches the same result independently, since dropping *with* leaves the suffix holding *thee* and nothing else in the clause diminished, and the corpus records To-tagged 'et aligned to *with* (EZK.2.6). Do not read the To tag alone as forcing `unrepresented` where the ASV has written a comitative word."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v84",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 52 candidate lemma groups plus the verse dump end to end. No cross-verse split found, so patches is empty.",
+    "Presentative HAYAH: vv. 10 and 18 keep the frame's *that* on the verb because the apodosis writes no waw of its own; v. 16 hands it to the apodosis waw of wahaVI'oTIkha. That is rule 45's own three-way division applied correctly, not two analyses of one construction. v. 19's *there shall be* is existential (rule 21) and is a different shape again.",
+    "Temporal BE-: vv. 14 and 16 give *when* to a preposition standing directly on an infinitive construct (rule 52); v. 18's be-YOM bo' Gog spends a single English word on preposition and construct noun together, so rule 30 fuses them. Rule 52's rider is explicitly conditioned on the ASV writing a second temporal word besides, which v. 18 does not, so the contract as written already decides this and the difference is licensed by the source.",
+    "Articles: every bracketed [ha] follows rule 12 mechanically - aligned in v. 20 (*to the ground*), unrepresented in vv. 9, 10, 14, 16, 17, 18, 19 where the ASV writes *a* or a demonstrative instead. Construct chains split consistently too: two written *the*s means nothing is fronted and each morpheme takes the one standing before its own word (vv. 12, 20); a single written *the* goes to the rectum's article, fronted (vv. 8, 16).",
+    "kullam is split kol -> *all* / suffix -> *of them* in all six occurrences (vv. 4 twice, 5, 8, 11, 15), per rule 19's ruling against an *all of* treatment.",
+    "Rule 31 heads run in both directions and are coherent: *waste places*, *steep places*, *creeping things*, *uttermost parts* head on the attributive because the Hebrew lexeme is the attribute; *young lions*, *unwalled villages* head on the noun because the Hebrew lexeme already names the thing. That is the bamah / tannin pair of worked examples used as rule 31 contemplates. v. 4's *full armor* heading on *full* is the one arguable member and its note names the competing reading.",
+    "v. 9 'oTAKH is aligned to *with* while every other To in the chapter is unrepresented. This is not a split: vv. 6 and 15 write the identical formula we-'ammim rabbim 'iTTAKH with the R-tagged H854 preposition and the chapter reads all three the same way. Corpus agrees (EZK.2.6 has a To-tagged 'et aligned to *are with*).",
+    "All six added units were checked against the rule that names each shape: v. 6 *even* (rule 16's limit - the clause's one marker stands on kol-'agappaw, which the ASV renders bare), v. 12 *now* and v. 17 *many* (supplied italics answering to no morpheme), v. 14 *it* (rule 44's unsupported object pronoun), v. 19 *and* (rule 14's closing sentences, two juxtaposed prepositional phrases with no waw between them), v. 22 *great*. All hold.",
+    "v. 22's *great* is the closest call in the chapter: if 'elgaVISH is taken to carry largeness inherently, *great hailstones* would be one rendering of which no morpheme owns a part and would fuse whole under rule 30. The verse pass took the other reading and its note names the competing head. It is inside the defensible range and is a single-verse judgment, so I left it; a later reader meeting the phrase elsewhere should know both readings are live.",
+    "BSB: none of the 19 disagreements is a genuine error. The four R (vv. 1, 7, 8) are le'MOR's le- plus two resultative and ethical-dative le-, which rule 21 names as the standard prophets-book divergence. The six Sp1cs are the 'adoNAI suffix, the six Td are the ba-yom ha-hu' articles, the two To are ordinary object markers, and EZK.38.11 hem is a suffix the ASV's *having neither ... nor* recasting leaves nothing to say. Every one is documented convention. I changed no accepted edge.",
+    "Conventions: four recorded. Promotions and amendments: none. Everything this chapter met was already decided by rules 12, 16, 29, 30, 41, 44, 45 and 52 as they stand, and a further restatement would only crowd the contract."
+  ]
+}

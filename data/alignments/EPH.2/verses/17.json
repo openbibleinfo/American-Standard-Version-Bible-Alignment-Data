@@ -1,0 +1,17 @@
+{
+  "ref": "EPH.2.17",
+  "alignments": [
+    {"source": ["s001"], "source_head": "s001", "target": ["t001"], "target_head": "t001", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s002"], "source_head": "s002", "target": ["t002", "t003"], "target_head": "t003", "status": "aligned", "confidence": "medium", "note": "The nominative participle is rendered as a finite clause; the supplied subject *he* is taken as its helper under rule 7, though it could be argued to belong to the finite εὐηγγελίσατο."},
+    {"source": ["s003"], "source_head": "s003", "target": ["t004", "t005"], "target_head": "t005", "status": "aligned", "confidence": "high", "note": "The juncture *and* between the two coordinated English finite verbs has no Greek counterpart but is obligatory once the participle becomes finite, so it is a helper on the verb it introduces (rule 29)."},
+    {"source": ["s004"], "source_head": "s004", "target": ["t006"], "target_head": "t006", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s005"], "source_head": "s005", "target": ["t007", "t008"], "target_head": "t008", "status": "aligned", "confidence": "high", "note": "*to* realizes the dative."},
+    {"source": ["s006"], "source_head": "s006", "target": ["t009"], "target_head": "t009", "status": "aligned", "confidence": "medium", "note": "Substantival article with an adverb, not a participle, so rule 32's contrast case applies: the article carries the relativizer and the copula goes with the complement. Here the pronoun is already supplied by ὑμῖν, so only *that* remains for the article."},
+    {"source": ["s007"], "source_head": "s007", "target": ["t010", "t011", "t012"], "target_head": "t011", "status": "aligned", "confidence": "high", "note": "The supplied copula *were* belongs to the adverbial complement; *off* is the adverb's own particle."},
+    {"source": ["s008"], "source_head": "s008", "target": ["t013"], "target_head": "t013", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s009"], "source_head": "s009", "target": ["t014"], "target_head": "t014", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s010"], "source_head": "s010", "target": ["t015", "t016", "t017"], "target_head": "t016", "status": "aligned", "confidence": "medium", "note": "Parallel to s006, but with no antecedent supplied elsewhere the article carries the pronoun *them* and the relativizer *that*, plus the dative helper *to*."},
+    {"source": ["s011"], "source_head": "s011", "target": ["t018", "t019"], "target_head": "t019", "status": "aligned", "confidence": "high", "note": "The supplied copula *were* belongs to the adverbial complement, as with s007."}
+  ],
+  "review_notes": []
+}

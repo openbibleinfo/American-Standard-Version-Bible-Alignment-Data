@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "18f10bc91b189d632dd6c70f64c6c51261b031ee5a1c74469e82971d86ed819d",
+  "contract_version": "ot-hebrew-verse-v170",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "`כָּל־יְמֵי` is marked `noncompositional` because *for as long as* spends nothing on either morpheme in particular; the source head is `יְמֵי`, the one morpheme whose lexeme is written among the English words (*long*), so rule 6's first-token fallback does not reach it. `כֹּל` is the competing anchor.",
+    "*threescore and ten* is kept whole with `שִׁבְעִים`; no waw stands between two Hebrew numerals there (rule 42).",
+    "`שָׁבָתָה` → *it kept sabbath* is headed on the complement under rule 44, *kept* alone naming nothing of the lexeme."
+  ],
+  "ref": "2CH.36.21",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

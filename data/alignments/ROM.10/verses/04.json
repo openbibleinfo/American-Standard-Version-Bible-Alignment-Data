@@ -1,0 +1,122 @@
+{
+  "alignments": [
+    {
+      "note": "Verbless clause with a lexical-noun subject, so rule 63 puts the supplied copula on the predicate nominal; the anarthrous noun's supplied determiner is a rule 7 helper on it (rule 51). Discontinuity is licensed by rule 15.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "γάρ → *For*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Anarthrous genitive; the supplied *the* and the case preposition both ride with the noun, no article standing to anchor them (rules 21, 51).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Subject name, bare.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "εἰς → *unto*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "δικαιοσύνην → *righteousness*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "The ASV writes a second English word for the article, so rule 80's ordinary split applies: *every* to the quantifier, *one* to the article. The dative's case preposition rides with the quantifier, which is itself dative; giving *to* to the article instead remains defensible, but the article's word here is a nominal rather than a determiner, so rule 21's anchor is absent.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Substantival article supplying the nominal *one* (rules 22, 80).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "The participle carries the relativizer (rule 32), headed on the verb.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "ROM.10.4",
+  "review_notes": [
+    "The predicate noun takes the supplied *is* because the subject is a lexical noun, not a pronoun (rule 63)."
+  ]
+}

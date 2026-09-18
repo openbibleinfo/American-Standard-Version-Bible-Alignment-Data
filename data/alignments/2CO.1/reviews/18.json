@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "1d04b63fca65f70762c8fc8861ac0738bab5868a04e50b3df47f0a5f6db240ec",
+  "contract_version": "nt-greek-verse-v58",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "Reviewed and kept the accepted alignment's units, heads and statuses unchanged; every s### and t### id is partitioned exactly once, t001-t014 all used.",
+    "One note was corrected rather than any alignment: the πιστός unit's note claimed rule 15 discontinuity, but t004 is and t005 faithful are contiguous. What rule 15 licenses here is only the reordering of the predicate behind the subject, the Greek putting πιστός first.",
+    "s005 ὅτι → as is the only medium unit and the note now records why the competing reading loses. Rule 86 marks a supplied clause-introducer added only where no conjunction stands anywhere in the verse; ὅτι stands at the very junction the English as joins, so rule 86's condition fails and rule 40 gives it the word. The reading that leaves ὅτι unrepresented (its own clause, our word toward you is not yea and nay, is introduced by nothing) and marks as added is still defensible, which is what the hedge records.",
+    "Two supplied-or-expressed is tokens are kept distinct: t004 is the copula rules 53 and 63 give to the predicate adjective πιστός against the ASV's word order, and t010 is the expressed ἔστιν of the main clause.",
+    "Three articles are unrepresented for three different reasons, and none of them is a convenience grouping under rule 13: s003 by rule 23 (bare God), s006 by rule 20 (the free genitive ἡμῶν takes our), s009 by rule 31 (prepositional modifier with no supplied relative clause).",
+    "A reference comparison will report s003, s006 and s009 as disagreements if it expects an article to surface; each is licensed by a named rule above, and that report would not be a correction."
+  ],
+  "ref": "2CO.1.18",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

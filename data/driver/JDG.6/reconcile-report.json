@@ -1,0 +1,30 @@
+{
+  "chapter": "JDG.6",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "JDG.6.28"
+  ],
+  "rejected": {},
+  "conventions": [
+    "A verb rendered by a lexical English verb completed by a particle or an adverb heads on that verb and never on the particle or adverb: `שָׁכַם` → *arose early*, *rose up early*; `זָעַק` niphal → *was gathered together*; `עָלָה` → *came up*; `יָצָא` → *brought forth*; `שָׁלַח` → *put forth*. The English verb there is not a bleached light verb, and the adverb alone names nothing. Rule 44's light-verb head is the other case and is decided by whether the English verb writes the source verb's own event: `מוּת` hophal → *let him be put to death* heads on *death*, `נָסָה` → *make trial* on *trial*, `דָּלַל` → *was brought very low* on *low*, `עָשָׂה` → *made ready* on *ready*.",
+    "The entreaty particle `נָא` takes whatever the ASV writes for it and no more. Where the ASV writes the full formula the particle takes it whole — *I pray thee* at JDG.6.18 and JDG.6.39, headed on *pray* under rule 30 — and where a bare *now* is all that is written, that word is the particle's own aligned unit, at JDG.6.17 and JDG.6.39, and is never `added` nor folded into the imperative standing beside it.",
+    "The Hebrew positive existential `יֵשׁ` takes whatever overt finite frame the ASV writes for it, as rule 50 directs for the Aramaic `אִיתַי`: `וְיֵשׁ יְהוָה עִמָּנוּ` → *if Jehovah is with us* gives *is* to the particle while the waw takes the *if*, and `אִם־יֶשְׁךָ מוֹשִׁיעַ` → *If thou wilt save* gives *wilt* to the particle, *thou* to its suffix under rule 18, and *save* to the participial predicate. This is recorded for this chapter only. The corpus's Hebrew `יֵשׁ` units were not examined, and a `יֵשׁ` clause made possessive by a `לְ` is rule 43's, not this one's."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v176",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 73 candidate groups and the dump end to end, including the 12 `added` units the lemma table is blind to (6.2, 6.11, 6.17 twice, 6.18, 6.19 twice, 6.20, 6.27 twice, 6.31, 6.37).",
+    "One real split, invisible to the table because each `שָׁכַם` occurrence sits in its own morph bucket: JDG.6.28 `וַיַּשְׁכִּימוּ` → *arose early* is headed on *early*, while JDG.6.38 `וַיַּשְׁכֵּם` → *rose up early* is headed on *rose*. Same lemma, same Hiphil, same verb-plus-adverb rendering, and both verses' own notes assert head-on-the-lexical-verb, so 6.28's head contradicts its own stated reasoning. Patched 6.28 to head t008 *arose*, matching 6.38 and the chapter's fifteen other verb-plus-particle/adverb units (`עָלָה` → *came up*, `יָצָא` → *brought forth*, `שָׁלַח` → *put forth*, `זָעַק` niphal → *was gathered together*). Rule 44's light-verb heads on complements — *put to death*, *make trial*, *was brought very low*, *made ready* — are the other side of the same rule and were left alone, the English verb there being bleached.",
+    "Checked and not splits: the two identical `אֲשֶׁר לְאָבִיךָ` of 6.25, rendered once *thy father's* (relative unrepresented, `לְ`+`אָב` fused as the English genitive under rule 49) and once *that thy father hath* (relative takes *that*, `לְ` takes *hath* under rule 43) — the ASV renders the same Hebrew two ways and each analysis follows the words written; `הַ X הַ זֶּה/הוּא`, where 6.25 writes two determiners (*the same night*) so article and demonstrative take one each, while 6.24, 6.26, 6.29, 6.32 and 6.40 write one and the demonstrative takes it with both articles unrepresented, which is rule 41's count rather than a preference; and the `הָיָה` frames, where 6.3 folds *so* into *And so it was* because no `כֵן` stands there while 6.38 and 6.40 give *so* to a written `כֵן` under rule 11, the apodosis *that* going to the apodosis waw throughout (6.3, 6.8, 6.25, 6.27).",
+    "Also checked and left: `מִזֶּה` → *hence* headed on the preposition beside `לָמָּה`/`בַּמָּה` headed on the interrogative (rule 23's two clauses — a content-bearing wh-morpheme against a tie between two particles, and each note names the alternative); the lone `אֵת` → *upon* at 6.34 against 36 unrepresented markers, which is rule 16's verb-reaching preposition since the ASV recast *clothed itself with* as *came upon*; the count of written *the*s in every construct chain (6.4, 6.10, 6.20, 6.21, 6.25, 6.26, 6.27, 6.28, 6.30, 6.36, 6.39), which is uniform; the `לְבַד` fusion with its unrepresented suffix at 6.37, 6.39 and 6.40, which is identical in all three; and the 3-morpheme `כִּי עַל כֵּן` → *forasmuch as* at 6.22, which stands as one rendering under rule 30.",
+    "No BSB disagreement is a genuine error. Every family is a documented convention difference: dative and purpose lameds the ASV leaves unstated (rule 40), object markers (rule 16), paragogic *he* and *nun* (rule 32), the 23 articles the ASV writes no *the* for (rules 29, 41), the lexicalized `אֲדֹנָי` suffix at 6.15 and 6.22 (rule 57), the `לְבַדָּהּ` suffixes, and the three waws at 6.3, 6.28 and 6.29 for which the ASV writes no connective. Nothing was changed to improve the rate.",
+    "Three conventions recorded: the head rule this chapter's split settled, the bare *now* rendering of `נָא`, and the Hebrew positive existential `יֵשׁ`, which rule 50 covers only for the Aramaic `אִיתַי`.",
+    "No promotion. The `יֵשׁ` judgment was the only candidate that generalises, and a rule giving it the finite frame would collide with rule 43 over a `יֵשׁ` + `לְ` possessive clause; the corpus for that lemma was not in the packet, so it is recorded as a chapter convention with its scope stated rather than written into the contract."
+  ]
+}

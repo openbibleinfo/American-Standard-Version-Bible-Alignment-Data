@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "chapter": "NEH.7",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.NEH.7.3.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'And I said unto them', a first-person singular consecutive imperfect matching the qere וָאֹמַר; the ketiv ויאמר would give third-person 'And he said', which the ASV does not render."
+    },
+    {
+      "unit_id": "WLC.NEH.7.52.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text reads 'Nephushesim', transliterating the ketiv נפושסים with u in the second syllable; the mapped textual_variant note 'Another reading is, Nephishesim' relegates the qere נְפִישְׁסִים to the margin."
+    }
+  ]
+}

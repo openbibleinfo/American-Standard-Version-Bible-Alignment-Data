@@ -1,0 +1,158 @@
+{
+  "alignments": [
+    {
+      "note": "Passive imperative rendered by copula plus predicate word; rule 17 heads on the lexical predicate *subject* rather than the auxiliary *Be*, as it heads `was given` on *given*. Rule 91's operational test agrees: the corpus spends *subject* on the `ὑποτάσσ-` lexeme and *be* on nothing of its own.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Inferential conjunction on *therefore*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The ASV gives *God* no determiner, so the article has no English *the* to anchor: rule 23's case, and rule 21 forbids leaving a bare *unto* on it, so the case preposition stays with the noun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Dative noun with its case preposition, exactly rule 21's determinerless `τῷ θεῷ` → *to God* pattern, here *unto God*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Postpositive `δέ` on *but*; the ASV places it clause-initially, which rule 15 permits. Rule 70's `μέν` question does not arise, no correlative particle standing here.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Aorist imperative on *resist*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Article realized as *the* under rule 19. Unlike s003 the ASV writes a determiner here, so the article has one to anchor; the dative is a bare object of *resist* and no case preposition is in question.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Substantivized `διάβολος` on *devil*; split from its article under rule 26, the pair being a compositionally transparent token-for-token correspondence.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Expressed conjunction on *and*. Rules 88 and 98 do not bear on it: the Greek writes the coordination itself.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Future indicative with its inflection-licensed subject pronoun and auxiliary under rules 7 and 9; rule 9 heads on the lexical verb *flee*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Rule 36: the English preposition governing the phrase realizes `ἀπό`, not the verb, even though *flee from* reads as phrasal.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Pronoun object of the preposition on *you*, split from `ἀφ᾽` under rule 2.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "JAS.4.7",
+  "review_notes": [
+    "Reviewed the accepted alignment unit by unit and returned it unchanged; only the notes were tightened to name the tests actually relied on.",
+    "Every s### and t### id is partitioned exactly once; no ids invented. All twelve source tokens and all fifteen target tokens are accounted for, and each aligned unit's heads are members of their own arrays.",
+    "s003 is the only unrepresented unit and the verse's only real judgment call. The competing reading gives it a bare *unto* with *God* standing alone, but rule 21 forbids a bare case preposition on an article the ASV gave no determiner and names this very collocation — `τῷ θεῷ` → *to God*, one unit on the noun — so rule 23 supplies the status. The verse's other article, s007, keeps its *the* under rule 19, which is the contrast rule 21 draws.",
+    "s011/s012 kept separate rather than merged: the ASV spreads the phrase over *from* and *you*, so rule 94's single-English-word precondition for a compound prepositional unit is not met and rules 35 and 45 are not in question.",
+    "Units are listed in target order, which puts s006 (*but*) before s005 (*resist*); the Greek order is the reverse and rule 15 permits it."
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "alignments": [
+    {
+      "confidence": "high",
+      "note": "χάρις → Grace.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "confidence": "high",
+      "note": "Dative pronoun; the supplied case preposition to rides with it as a rule 7 helper on the pattern of rule 21, no article being present to carry it. Head on the pronoun.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "confidence": "high",
+      "note": "Coordinating καί → and.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "confidence": "high",
+      "note": "εἰρήνη → peace.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "confidence": "high",
+      "note": "ἀπό → from, the English preposition governing the following genitives under rule 36.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "confidence": "high",
+      "note": "θεοῦ → God; anarthrous, and the ASV supplies no determiner.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "confidence": "high",
+      "note": "Genitive pronoun realized by the possessive our. No article governs πατρός in the projection, so rule 20's displacement question does not arise and the possessive is simply this word's own English.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "confidence": "high",
+      "note": "πατρός → Father, standing bare; the possessive belongs to ἡμῶν and the two are independently recoverable under rule 26.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "confidence": "high",
+      "note": "Second coordinating καί → and.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "confidence": "high",
+      "note": "κυρίου is anarthrous, so no article competes for the determiner slot and the supplied the is an ordinary rule 7 helper on the noun it determines, as rule 51's anarthrous clause requires. Head on Lord under rule 17.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "confidence": "high",
+      "note": "Separately recoverable name, split from Χριστοῦ under rules 26 and 28.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "confidence": "high",
+      "note": "Χριστοῦ → Christ, its own unit.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "2CO.1.2",
+  "review_notes": [
+    "Reviewed and returned unchanged: every s### and t### id is partitioned exactly once, all twelve units are aligned with both heads inside their arrays, and no unrepresented or added unit is warranted.",
+    "The projection supplies no article tokens at all in this verse, so the article rules (19-23, 51, 57, 60) never engage. Both supplied English determiners — our before Father and the before Lord — fall under rule 51's anarthrous clause: our is ἡμῶν's own possessive, and the is a rule 7 helper on κυρίου headed on Lord under rule 17.",
+    "s007/s008 are kept split rather than bundled as a phrase: our answers to ἡμῶν and Father to πατρός, each independently recoverable under rule 26. The interlinear bracket \"[the] Father\" is a gloss convention, not an article token, and rule 12 forbids reading a textual decision into it.",
+    "Ἰησοῦ and Χριστοῦ stay separate units rather than sharing one head, per rules 17 and 28.",
+    "The supplied to before you rides with ὑμῖν as the dative's case preposition; no article stands in this verse for rule 21 to hand it to, and rule 36 keeps from on ἀπό rather than on any noun."
+  ]
+}

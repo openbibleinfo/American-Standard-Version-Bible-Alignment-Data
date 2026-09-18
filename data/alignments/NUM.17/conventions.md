@@ -1,0 +1,6 @@
+# Numbers 17 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Every compound preposition opening with מִן that the ASV renders by one English word is fused under rule 30 rather than split with one member unrepresented — מֵאֵת → of twice in v2, מֵעַל → from in v5, מֵעַל → against in v10 — and every one heads on the מִן, whichever preposition the ASV happened to write. v10 originally headed on עַל and was corrected in reconciliation. Where the ASV writes a second English word the fusion does not apply and the parts are split, as מִלִּפְנֵי → from before is in v9.
+- The chapter's distributive doublings are rendered once, and the count is read off what the Hebrew writes. מַטֶּה מַטֶּה in v2 has no אֶחָד beside it, so its two tokens carry rods and one; the fully repeated מַטֶּה לְנָשִׂיא אֶחָד of v6 leaves its second occurrence's four tokens unrepresented under rule 22. The supplied distributive each or every is placed on the noun it stands before under rule 15 — אָב in v2, נָשִׂיא in v6, אִישׁ in vv2 and 9 — and is never read as the rendering of the doubled מַטֶּה.

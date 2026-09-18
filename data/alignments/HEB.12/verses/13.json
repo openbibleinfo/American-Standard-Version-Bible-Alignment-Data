@@ -1,0 +1,198 @@
+{
+  "alignments": [
+    {
+      "note": "Coordinating conjunction rendered by the verse-opening *and*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Imperative rendered by the bare *make*. Rule 17's *make straight* head on *straight* does not apply, since the Greek expresses the adjective separately as s003 and rule 2 leaves each its own word.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Predicate/resultative adjective rendered by *straight*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Anarthrous plural noun rendered by the bare *paths*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Rule 20: the genitive pronoun s007 is free and takes the English possessive *your*, so the article's determiner slot is occupied and it realizes nothing. The dative's case preposition *for* therefore stays with the noun under rule 21's determinerless clause, which forbids leaving a bare *for* on the article.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The noun takes the discontinuous *for … feet*, the supplied preposition realizing the dative case per rule 21; rule 15 permits the discontinuity across the possessive.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Genitive pronoun rendered by the possessive *your*, displacing the article's determiner under rule 20.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Purpose conjunction realized by the word introducing its English clause, the first *that* (rule 40).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Substantival article with an adjectival complement and no participle following, so rule 22 rather than rule 32 applies: it takes the whole *that which*. Rule 77 records that a substantival article rendered *that which* heads on *that* in all nine corpus units.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The substantival article's complement is an adjective, and the Greek clause is verbless, so the supplied copula *is* rides with the adjectival predicate under rule 53, headed on the lexical *lame*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Ordinary negative rendered by *not*; no negative indefinite stands with it, so rules 41 and 59 are not in question.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "The passive subjunctive takes its auxiliary *be* and the whole English idiom *turned out of the way*, headed on the lexical *turned* under rules 9 and 17. *out of the way* is this verb's own English expression rather than a preposition phrase answering to any source token; the alternative_rendering note's *put out of joint* is the same shape. Rule 15 permits the discontinuity across the intervening *not*, which is s009's.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t015",
+        "t016",
+        "t017",
+        "t018",
+        "t019"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Adversative conjunction rendered *but*.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Comparative adverb rendered *rather*.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Passive subjunctive with its auxiliary; rule 9 heads on the lexical *healed*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t022",
+        "t023"
+      ],
+      "target_head": "t023"
+    }
+  ],
+  "ref": "HEB.12.13",
+  "review_notes": [
+    "Every s### and t### is partitioned exactly once; t001–t023 and s001–s015 all accounted for.",
+    "s005 is the only unrepresented unit. A reference comparison may report it as a disagreement, but rule 20 is explicit: the free genitive s007 takes *your*, so the article realizes nothing and the case preposition *for* rides with the noun under rule 21 rather than being left as a bare *for* on the article.",
+    "The competing reading for s012 would split *out of the way* off as a separate locative unit, but no source token answers to it — it is part of the ASV's rendering of ἐκτρέπομαι, as the verse's own alternative_rendering *put out of joint* shows.",
+    "Variant SBLGNT.HEB.12.13.v006 is underdetermined over s004 and carries no FALLBACK EXCLUDED mark, so rule 97 does not apply and no textual decision is made here (rule 12)."
+  ]
+}

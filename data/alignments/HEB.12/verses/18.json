@@ -1,0 +1,179 @@
+{
+  "alignments": [
+    {
+      "note": "Postpositive γάρ realized by the verse-opening For.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Ordinary negative aligned to not. No negative indefinite stands in the clause, so rules 41 and 59 are not in question.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Inflected perfect takes its supplied subject and auxiliary under rules 7 and 9, discontinuous around not under rule 15; head on the lexical come rather than on ye or are. The English unto is not folded here: no Greek preposition is expressed, and the parallel unto blackness at t019 shows it is the dative's case preposition riding with the dative word under rule 21.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Anarthrous substantival dative participle. The case preposition unto rides with it under rule 21's determinerless clause, and the supplied nominal a mount plus the relativizer and copula that might be are rule 7 helpers on the participle, exactly as a supplied nominal completes a substantival article under rules 22 and 49; rule 11 keeps the ASV's italics from making them added. Head on touched under rule 17, the word glossing ψηλαφάω. Materially different reading: a mount is referential content drawn from the Exodus scene rather than a generic completion like things or part, so marking t007 t008 added under rule 5 and leaving s004 unto that might be touched remains defensible; I fold because the substantival participle is a source token licensing a nominal head, which is rule 86's test.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t008",
+        "t009",
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Expressed conjunction joining the two coordinate participles.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Second coordinate participle rendered as a finite relative clause; the relativizer that is its helper under rules 7 and 31. No article stands here for rule 31's second-attributive case to arise.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Dative of means; with realizes the case and rides with the noun under rule 21, the ASV supplying no determiner for the article-less noun to anchor.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Expressed conjunction.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Dative governed by προσεληλύθατε; unto realizes the case and stays with the noun under rule 21. Rule 25: the ASV renders γνόφος blackness and ζόφος darkness in this order, so I follow its own rendering rather than crossing the nouns on the packet glosses.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Expressed conjunction.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "ASV gives this dative a bare darkness, the unto of t019 not being repeated; nothing else in the phrase answers to it.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Expressed conjunction.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Final dative in the series, rendered by a bare noun.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    }
+  ],
+  "ref": "HEB.12.18",
+  "review_notes": [
+    "Both variant units (v010 covering s004, v011 covering s011) are underdetermined with the fallback still among the compatible readings and carry no FALLBACK EXCLUDED mark, so rule 97 is not in play and no textual decision is made inside the file (rule 12).",
+    "The one genuinely open question is a mount (t007 t008): folded onto the substantival participle as a supplied nominal under rules 7, 11 and 22, with the added reading named in that unit's note.",
+    "The three unto/with tokens are all dative case prepositions riding with their nouns under rule 21; none is given to the verb, since no Greek preposition is expressed for rule 36 to place.",
+    "γνόφος/ζόφος are aligned in the ASV's own order (blackness / darkness) per rule 25 rather than on the packet's glosses.",
+    "All 13 source and 24 target ids partitioned exactly once."
+  ]
+}

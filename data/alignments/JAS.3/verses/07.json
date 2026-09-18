@@ -1,0 +1,219 @@
+{
+ "alignments": [
+  {
+   "note": "Postpositive γάρ realized by the verse-opening For.",
+   "source": [
+    "s002"
+   ],
+   "source_head": "s002",
+   "status": "aligned",
+   "target": [
+    "t001"
+   ],
+   "target_head": "t001"
+  },
+  {
+   "note": "Universal πᾶσα → every; no article or negator stands with it, so rules 80 and 87 are not in question.",
+   "source": [
+    "s001"
+   ],
+   "source_head": "s001",
+   "status": "aligned",
+   "target": [
+    "t002"
+   ],
+   "target_head": "t002"
+  },
+  {
+   "note": "φύσις → kind, the ASV's gloss here (marginal note: Greek nature).",
+   "source": [
+    "s003"
+   ],
+   "source_head": "s003",
+   "status": "aligned",
+   "target": [
+    "t003"
+   ],
+   "target_head": "t003"
+  },
+  {
+   "note": "Genitive noun rendered of + noun; rule 17 heads on the noun and rule 21's case preposition rides along, no article standing. The of governs the coordinated πετεινῶν as well and stays on the first genitive under rule 2.",
+   "source": [
+    "s004"
+   ],
+   "source_head": "s004",
+   "status": "aligned",
+   "target": [
+    "t004",
+    "t005"
+   ],
+   "target_head": "t005"
+  },
+  {
+   "note": "Correlative τε of the τε … καί pair: the ASV writes a single and for the pair and no both, so nothing answers to the particle (rule 23; rule 65's English-side test for a correlative particle, as rule 70 applies it to μέν). Giving the and to τε and emptying καί is the mirror reading; the corpus puts the written word on the ordinary conjunction. The corpus decides a `τε … καί` pair the same way and cites no other: 2CO.12.12 empties `τε` because the following `καί` already takes the one written *and*, and REV.19.18 does both within one verse, emptying the `τε` that has no English while giving *both* to the one that does. The mirror reading has no corpus unit. Note the corpus lemma is the accented `τέ`; a query on `τε` returns nothing and is a false negative.",
+   "source": [
+    "s005"
+   ],
+   "source_head": "s005",
+   "status": "unrepresented",
+   "target": [],
+   "target_head": null
+  },
+  {
+   "note": "καί → and, the one conjunction word the ASV writes for τε … καί.",
+   "source": [
+    "s006"
+   ],
+   "source_head": "s006",
+   "status": "aligned",
+   "target": [
+    "t006"
+   ],
+   "target_head": "t006"
+  },
+  {
+   "note": "πετεινῶν → birds; the ASV gives this genitive no of of its own, the earlier of at t004 governing both, so the noun stands alone.",
+   "source": [
+    "s007"
+   ],
+   "source_head": "s007",
+   "status": "aligned",
+   "target": [
+    "t007"
+   ],
+   "target_head": "t007"
+  },
+  {
+   "note": "One Greek noun rendered by modifier + noun, headed on *creeping*. Rule 66 asks whether the English noun glosses the lexeme or is a supplied generic completion, and rule 91 makes that test operational: the corpus never spends a bare *things* on this word, and where it renders a single creeping-thing substantive by this very English phrase it heads the modifier every time — `רֶמֶשׂ` → *creeping things* at 1KI.4.33, GEN.1.24 and GEN.6.7 and → *creeping thing* at GEN.1.26 and GEN.6.20, five units to none, 1KI.4.33 saying in terms that *creeping* carries the lexeme and *things* is the generic noun supplied. Corrected from a head on *things*, which rested on an analogy to `ζῷον` → *living creature* and `κτίσμα` → *created thing*; that analogy fails rule 91's own test, because the corpus spends bare *creature(s)* and *thing* on those lexemes and so their English noun is a real gloss, whereas *things* here is not. `ἑρπετόν` occurs nowhere in the corpus outside this verse and `ἕρπω` nowhere at all, so no lemma query is available and the phrase query is what decides. This also brings the unit into step with the same chapter's `μεγάλα` → *great things* headed on *great* at JAS.3.5 (rule 24). The case preposition *of* rides with the noun under rule 21, no article standing, and it governs the coordinated `ἐναλίων` as well.",
+   "source": [
+    "s008"
+   ],
+   "source_head": "s008",
+   "status": "aligned",
+   "target": [
+    "t008",
+    "t009",
+    "t010"
+   ],
+   "target_head": "t009"
+  },
+  {
+   "note": "Second correlative τε, empty for the same reason as s005: the ASV writes only and for the pair. Same precedent as s005: 2CO.12.12 and REV.19.18.",
+   "source": [
+    "s009"
+   ],
+   "source_head": "s009",
+   "status": "unrepresented",
+   "target": [],
+   "target_head": null
+  },
+  {
+   "note": "καί → and.",
+   "source": [
+    "s010"
+   ],
+   "source_head": "s010",
+   "status": "aligned",
+   "target": [
+    "t011"
+   ],
+   "target_head": "t011"
+  },
+  {
+   "note": "Anarthrous substantival adjective: no Greek article competes, so the supplied *things* and its determiner are rule 7 helpers on the adjective (rules 51, 58, 102). Rule 17's generic-noun clause keeps the head on *sea*, the word realizing the `ἐνάλιος` lexeme, rather than on the completion *things*. `ἐνάλιος` occurs nowhere in the corpus, in either testament, so the reading rests on the rule text and on the nearest shape precedent, `ἄραφος` → *without seam* headed on *seam* at JHN.19.23. The source's part of speech is not what decides this: rule 66 extends rule 17's test to a noun rather than opposing it, which is why s008 now heads on *creeping* on the same reasoning.",
+   "source": [
+    "s011"
+   ],
+   "source_head": "s011",
+   "status": "aligned",
+   "target": [
+    "t012",
+    "t013",
+    "t014",
+    "t015"
+   ],
+   "target_head": "t015"
+  },
+  {
+   "note": "Present passive with its auxiliary; rule 9 heads on the lexical verb tamed.",
+   "source": [
+    "s012"
+   ],
+   "source_head": "s012",
+   "status": "aligned",
+   "target": [
+    "t016",
+    "t017"
+   ],
+   "target_head": "t017"
+  },
+  {
+   "note": "Expressed καί joining the two verbs → and.",
+   "source": [
+    "s013"
+   ],
+   "source_head": "s013",
+   "status": "aligned",
+   "target": [
+    "t018"
+   ],
+   "target_head": "t018"
+  },
+  {
+   "note": "Perfect passive with its auxiliaries; rule 9 heads on tamed.",
+   "source": [
+    "s014"
+   ],
+   "source_head": "s014",
+   "status": "aligned",
+   "target": [
+    "t019",
+    "t020",
+    "t021"
+   ],
+   "target_head": "t021"
+  },
+  {
+   "note": "The ASV gives the dative phrase no determiner, so the article has no the to anchor and the case preposition stays with the noun (rules 21, 23).",
+   "source": [
+    "s015"
+   ],
+   "source_head": "s015",
+   "status": "unrepresented",
+   "target": [],
+   "target_head": null
+  },
+  {
+   "note": "The ASV compresses `φύσει ἀνθρωπίνῃ` into the single word *mankind*, whose parts answer to both lexemes — *kind* to `φύσις` (as at t003) and *man-* to `ἀνθρωπίνῃ` — so rule 39's test keeps the pair one `aligned` unit rather than `noncompositional`; rule 21 gives the case preposition *by* to this unit, no article being available to carry it, as rule 21's own worked `τῇ προσευχῇ` → *by prayer* does at PHP.4.6. The corpus builds such a unit elsewhere and not only for prepositions: `πάντας αἰῶνας` → *evermore* at JUD.1.25 is the same adjective-plus-noun shape headed on the noun, and `ληνὸν οἴνου` → *winepress* at REV.19.15 the same parts-answer test. Source head on the noun `φύσει` under rule 10's syntactic head and target head on *mankind* under rule 17; REV.9.20 spends the whole of *mankind* on `ἀνθρώπων`, which is why rule 10's syntactic head rather than a lexical one settles it, 1PE.2.13 spending only *man* on `ἀνθρώπινος` and EPH.2.3, GAL.2.15 and GAL.4.8 spending *nature* on `φύσις`. Splitting — `φύσει` taking *by mankind* and `ἀνθρωπίνῃ` left `unrepresented` — remains defensible, as REV.19.15 and 2PE.3.18 concede for their own second tokens; what is unavailable is sharing *mankind* between two units, the ledger forbidding a target token in more than one.",
+   "source": [
+    "s016",
+    "s018"
+   ],
+   "source_head": "s016",
+   "status": "aligned",
+   "target": [
+    "t022",
+    "t023"
+   ],
+   "target_head": "t023"
+  },
+  {
+   "note": "Second attributive article of τῇ φύσει τῇ ἀνθρωπίνῃ, which English realizes nowhere (rule 23).",
+   "source": [
+    "s017"
+   ],
+   "source_head": "s017",
+   "status": "unrepresented",
+   "target": [],
+   "target_head": null
+  }
+ ],
+ "ref": "JAS.3.7",
+ "review_notes": [
+  "One change from the accepted alignment: s008 ἑρπετῶν → of creeping things now heads on t010 things rather than t009 creeping. The accepted note distinguished ἑρπετόν from κτίσμα by decomposing the Greek — \"that noun's own lexeme is thing-created whereas ἑρπετόν's is the creeping\" — but that distinction does not survive inspection, since κτίσμα's sense-bearing element is equally the creating and rule 66 still heads it on thing. Rules 91 and 99 replace the compositional argument with what the corpus spends on the lexeme, and the two nearest listed precedents in both English shape and Greek formation, ζῷον → living creature and κτίσμα → created thing, both head on the entity noun.",
+  "That change rests on analogy alone: neither ἑρπετόν nor any ἑρπ- word occurs elsewhere in the finalized corpus, so rule 91's lemma query has nothing to return. A head on creeping on the analogy of πλεονέκτης → covetous man remains defensible and a later reader with a wider corpus should re-run the query before treating this as settled.",
+  "s008 and s011 now head differently — things versus sea — and that is deliberate, not an inconsistency. s008 is N-GPN and falls under rule 66; s011 is A-GPN, a substantival adjective whose own English word is in the sea, so rule 17's generic-noun clause keeps the head off the supplied things.",
+  "Everything else stands as accepted. Both τε particles are unrepresented because the ASV writes a single and for each τε … καί pair; giving the and to τε and emptying καί is the mirror reading, but rules 65 and 70's English-side test puts the written word on the ordinary conjunction. A reference comparison will report both as disagreements.",
+  "s016 + s018 form the verse's only many-to-one unit, forced by the ASV's portmanteau mankind: one English token cannot be partitioned. It stays aligned rather than noncompositional because -kind answers to φύσις and man- to ἀνθρωπίνῃ under rule 39's test, and it carries the case preposition by because the ASV supplies no determiner for either article to anchor (rules 21, 23)."
+ ]
+}

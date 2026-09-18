@@ -1,0 +1,140 @@
+{
+  "alignments": [
+    {
+      "note": "Anarthrous dative participle rendered as a finite relative clause with a supplied antecedent pronoun. No Greek article stands here, so rules 31/32 do not divide anything: the supplied *To him* and the relativizer *that* are rule 7 helpers on the participle, *To* realizing the dative case under rule 21's reasoning. Rule 17 heads the unit on the lexical verb *knoweth* rather than on the pronoun or relativizer. The discontinuity across t003 is licensed by rule 15 and absorbs nothing.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Inferential conjunction on its own English word.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "No conjunction and no preposition governs the infinitive, so the infinitival *to* is rule 7's ordinary helper on its verb (rules 40 and 61), and the unit heads on the lexical verb.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Anarthrous adjective as object of the infinitive; the ASV supplies no determiner, so the adjective stands alone on its own word. Split from the infinitive under rule 2 since both English realizations are independently recoverable.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Coordinating conjunction joining the two participles, realized by *and*. An expressed Greek conjunction, so rules 88 and 98 on a supplied juncture are not in question.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The participle takes the supplied object pronoun *it*, which resumes the preceding infinitive phrase. Rule 103 names a resumptive pronoun as its contrast case, rule 7 listing pronouns among the helpers that belong to the word licensing them; rule 74's supplied-object clause then fixes where it goes, keeping it on the verb that requires it in English. Two competing readings: `added` lexical resumption under rule 103, rejected because *it* is a pronoun and not full lexical content; or folding *it* onto s003/s004 on the shape of 3JN.1.13's *them* on `Πολλά`, rejected because there the antecedent was a single expressed word taking a discontinuous second realization, whereas here the antecedent is the whole phrase `καλὸν ποιεῖν` and any single carrier would be arbitrary.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Ordinary negative with the participle, aligned to *not*. Rules 41 and 59 do not apply: no negative indefinite stands in the clause for the negation to be spelt into. The crossed order against t010/t011 is English word order only.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Resumptive dative pronoun; the case preposition *to* rides with it under rule 21's reasoning, headed on the pronoun. Distinct from the participle's own supplied *To him* at t001/t002, which the ASV writes separately.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "The expressed copula takes the supplied dummy subject *it* as a rule 7/9 helper, headed on the verb rather than the subject. Rules 53, 63 and 96 are not in question, the Greek verb being expressed rather than supplied.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Anarthrous predicate noun on its own word. The copula is expressed in Greek, so nothing supplied needs carrying here and the noun stands alone.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "JAS.4.17",
+  "review_notes": [
+    "Kept the accepted alignment unchanged in structure and heads; the only edit is an expanded note on s007 recording the two competing readings and why each was rejected, per rule 16.",
+    "All 10 source ids and all 17 target ids are partitioned exactly once. Every unit is `aligned`; there are no unrepresented, added or noncompositional units, and no verse in this projection is orphaned across a versification seam (rules 37, 97 not in play).",
+    "s007 is the one materially contestable unit. *it* has three defensible homes: on the participle as a supplied object (taken), `added` under rule 103, or folded onto the antecedent s003/s004 on the shape of 3JN.1.13. Rule 74 states in terms that a supplied object stays with the verb that requires it in English, and rule 103 names a resumptive pronoun as its own contrast case, so the taken reading rests on two explicit contract statements rather than on analogy.",
+    "s001 has no Greek article, so rule 32's split of a substantival article from its participle is not triggered and rule 90 does not bear on it; the supplied antecedent pronoun and the relativizer both stay with the participle as rule 7 helpers, headed on *knoweth* under rule 17.",
+    "The two English *to him* phrases are not a double realization of one token: t001/t002 is the participle's supplied antecedent with the dative case preposition riding along, and t013/t014 is the resumptive `αὐτῷ`. Rule 103's repeated-lexical-content test does not reach them, both being pronouns the ASV writes for distinct source tokens.",
+    "s010 keeps the supplied dummy *it* because the Greek copula is expressed; the supplied-copula chain of rules 53/62/63/68/96 governs only verbless clauses and has no application here, so `ἁμαρτία` correctly stands bare on t017."
+  ]
+}

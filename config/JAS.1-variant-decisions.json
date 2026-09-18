@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "chapter": "JAS.1",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.JAS.1.5.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'and upbraideth not' renders the negated participle without showing which negative particle stood in the exemplar; me and ouk are rendered identically here and no note is mapped to this unit."
+    },
+    {
+      "unit_id": "SBLGNT.JAS.1.12.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV supplies an explicit subject, 'which the Lord promised to them that love him'. The base reading leaves epeggeilato without a stated subject; only the longer reading with ho kyrios puts 'the Lord' in the Greek that the ASV renders."
+    },
+    {
+      "unit_id": "SBLGNT.JAS.1.19.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV opens 'Ye know this, my beloved brethren', a finite verb of knowing, and its note offers only 'Or, Know ye' — both the text and the note render Iste (indicative or imperative). Hoste would yield an inferential 'Wherefore', which the ASV does not have."
+    },
+    {
+      "unit_id": "SBLGNT.JAS.1.19.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV marks the break with 'But let every man be swift to hear', an adversative connective rendering de; the reading that omits the particle leaves nothing for 'But' to render."
+    },
+    {
+      "unit_id": "SBLGNT.JAS.1.20.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'worketh not the righteousness of God' fits ergazetai and the compound katergazetai alike, and the negative particle differs only by elision; nothing in the English or in a mapped note distinguishes them."
+    },
+    {
+      "unit_id": "SBLGNT.JAS.1.22.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The candidates differ only in the order of akroatai and monon; ASV 'and not hearers only' follows English word order and cannot show which Greek order the translators had."
+    },
+    {
+      "unit_id": "SBLGNT.JAS.1.25.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The longer reading adds a resumptive houtos before ouk, which English need not render since the clause already has 'he that looketh' as its subject and the ASV's later 'this man shall be blessed' answers the houtos both readings share. The English leaves the added pronoun undetermined."
+    },
+    {
+      "unit_id": "SBLGNT.JAS.1.26.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'If any man thinketh himself to be religious' with no 'among you'. The longer reading adds en hymin, a substantive prepositional phrase the ASV renders wherever it stands; its absence from the English shows the shorter reading was before the translators. The mapped note is an alternative_rendering ('Or, seemeth to be') about the verb and does not bear on this unit."
+    },
+    {
+      "unit_id": "SBLGNT.JAS.1.26.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'his tongue' renders autou and heautou alike; English has no separate form for the reflexive possessive, and the only mapped note is an alternative_rendering about 'seemeth to be'."
+    },
+    {
+      "unit_id": "SBLGNT.JAS.1.26.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'deceiveth his heart' renders autou and heautou alike; English has no separate form for the reflexive possessive, and the only mapped note is an alternative_rendering about 'seemeth to be'."
+    },
+    {
+      "unit_id": "SBLGNT.JAS.1.27.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The candidates differ only in the presence of the article with theo; ASV 'before our God and Father' supplies a possessive and gives no evidence of the Greek article either way."
+    }
+  ]
+}

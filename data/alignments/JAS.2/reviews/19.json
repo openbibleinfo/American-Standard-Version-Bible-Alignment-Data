@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "dc2a7a447369d89817b98ba913546050bf80fa13ed8a99f5c54d7495967eda13",
+  "contract_version": "nt-greek-verse-v62",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed and returned unchanged in substance; only unit notes were expanded to name the rules a later reader would check.",
+    "Every s### and t### id is partitioned exactly once; no ids invented. Target coverage checked token by token: t001-t015 each appear in exactly one unit.",
+    "s004/s005/s007 are discontinuous against the projection's order because the ASV writes God is one for heis estin ho theos; rule 15 permits this, no intervening unrelated token was absorbed, and rule 25 is satisfied since the ASV's rendering matches the ordinary glosses rather than contradicting them.",
+    "s006 is the one unit where a materially different reading is available: a reader could bundle the article with theos as a single article-plus-noun unit, but rule 13 forbids grouping an unrepresented article with its noun for convenience, and rule 23 covers an article before theos that the ASV leaves bare.",
+    "SBLGNT.JAS.2.19.v021 is underdetermined and carries no FALLBACK EXCLUDED BY EVIDENCE mark, and its base fallback remains compatible with the ASV, so rule 97 is not in play and nothing is added on textual grounds. The ASV's marginal there is one God is a note about the same four tokens, not a different token inventory."
+  ],
+  "ref": "JAS.2.19",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

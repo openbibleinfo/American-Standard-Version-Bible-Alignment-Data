@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "chapter": "NAM.2",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.NAM.2.5.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's nominal wording 'in their march' directly renders the qere/base בַּהֲלִיכָתָם ('in their going/march'), distinguishing it from the ketiv reading."
+    }
+  ]
+}

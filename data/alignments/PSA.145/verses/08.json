@@ -1,0 +1,121 @@
+{
+  "alignments": [
+    {
+      "note": "Adjectival predicate of the verbless clause takes the construction-supplied copula (rule 20); head on the word carrying the predicate's lexeme (rule 24).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The waw takes the 'and' written for it (rule 14). The accepted alignment gave this morpheme the divine name: its source ids for this and the two following units were shifted one place against the token table, so that the waw held 'Jehovah', רַחוּם held 'and' and יהוה held 'merciful'.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "רַחוּם rendered 'merciful'; the second of the two coordinated predicate adjectives, the copula having gone to the first under rule 20.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The divine name is the clause's explicit subject and takes only its own English word under rule 20, the copula joining the predicate.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "אֶרֶךְ rendered 'Slow'; the copula of this colon is gapped and the ASV writes none, so nothing is placed under rule 34.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Nomen rectum of אֶרֶךְ אַפַּיִם takes the chain's relation, which the ASV recasts as 'to' (rule 19); head on the noun.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Waw rendered 'and' (rule 14).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The ASV renders גְדָל־חָסֶד attributively as 'great lovingkindness' (rule 28), so no English word states the relation between the two nouns and rule 19 has nothing to place; the 'of' written before the phrase states what this bare nominal contributes to the clause and goes to the word it stands before, the noun opening the phrase (rule 33), and is never the head. The competing reading takes the 'of' as the chain's displaced relation and gives it to חֶסֶד under rule 19, as the accepted alignment did.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "חֶסֶד keeps its own word, rendered attributively under the construct chain's English recasting (rule 28).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    }
+  ],
+  "ref": "PSA.145.8",
+  "review_notes": [
+    "Corrected a one-place shift in the source ids of the second, third and fourth units: the token table has s002 = וְ, s003 = רַחוּם, s004 = יהוה, so 'and', 'merciful' and 'Jehovah' were each attached to the wrong morpheme even though the unit notes described the intended assignments.",
+    "Reallocated the 'of' of 'of great lovingkindness' from חֶסֶד to גְדָל: since the ASV renders the chain attributively (rule 28) it writes no relation between the two nouns, and the 'of' stands before the phrase's opening word as the supplied word stating what the bare nominal contributes (rule 33). The rule 19 reading is named in that unit's note under rule 8.",
+    "'Slow to anger' keeps its 'to' on אַפַּיִם, where the ASV does write the chain's relation between the two nouns."
+  ]
+}

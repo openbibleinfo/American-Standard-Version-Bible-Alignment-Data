@@ -1,0 +1,7 @@
+# Psalms 57 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- The refrain of v.5 and v.11 is aligned identically: imperative takes 'Be thou exalted', Sh paragogic he unrepresented, vocative takes 'O God', and the second עַל takes the whole volitive frame 'Let ... be above' as the prepositional predicate (rule 49). The only difference is the article morpheme on שָּׁמַיִם in v.5, which takes the written 'the' there; in v.11 no article stands and the 'the' is supplied on the noun (rule 15).
+- English phrasal particles in this chapter — 'up' in 'Awake up' (v.8), 'forth' in 'send forth' (v.3), 'down' in 'is bowed down' (v.6) — are read as part of the verb's rendering under rule 44 and kept in the verb's unit; none states a direction or result the Hebrew clause lacks, so none is marked added. The verse notes name the added reading as the competitor.
+- Where the ASV reaches a verbal object suffix through a supplied preposition — 'Be merciful unto me' (v.1, twice), 'give thanks unto thee' and 'sing praises unto thee' (v.9) — the 'unto' joins the verb's unit and the suffix keeps only its pronoun (rule 44's suffix clause); the light-verb phrases head on their complement (merciful, thanks, praises).

@@ -1,0 +1,12 @@
+{
+  "alignment_sha256": "a6bff5de30c01dac283c77406633422346b56071cffa8e9dd1a025b03486a863",
+  "contract_version": "ot-hebrew-verse-v28",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "The packet header counts (23 source / 26 target) disagree with the token table, which lists s001-s022 and t001-t027; the alignment partitions the listed ids exactly, so the header line is the defective part.",
+    "mē-ʾên is rendered by the single word *without* (rule 30) and heads on the negation (rule 50)."
+  ],
+  "ref": "JER.51.29",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

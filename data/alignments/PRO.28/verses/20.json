@@ -1,0 +1,138 @@
+{
+  "alignments": [
+    {
+      "note": "Construct noun אִישׁ with its indefinite article, discontinuous around the attributive.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Construct chain rendered attributively (rule 28): the nomen rectum supplies *faithful*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Construct predicate adjective רַב recast as the verb *shall abound*; the first noun's unit takes only its own English word (rule 19).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Nomen rectum of רַב־בְּרָכוֹת. The ASV recasts the construct relation with *with*, and that relational expression belongs to the rectum under rule 19, exactly as *in his ways* does for עִקֵּשׁ דְּרָכַיִם at 28.6 and 28.18. Subtraction decides it: dropping *with* leaves the relation between the two nouns unstated while *shall abound* still fully renders רַב. The competing reading takes *with* as the English predicate's valency word under rules 33 and 44, but that clause governs a bare complement noun with no construct marking, which is what 28.19's *plenty of bread* and 28.23's *flattereth with the tongue* are; here MACULA tags רַב `Aamsc` with בְּרָכוֹת absolute.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Waw rendered *But* (rule 14).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Anarthrous participle with the supplied *he that* (rule 46), rendered by a light verb plus complement; head on *haste* (rule 44).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "לְ before an infinitive construct takes the written *to* (rule 52).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Infinitive rendered *be rich*; head on the lexeme.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Negative לֹא → *not*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Niphal verb with auxiliaries, discontinuous around the negative (rule 25); head on the lexical predicate.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "PRO.28.20",
+  "review_notes": [
+    "Corrected: the *with* of *shall abound with blessings* moved from רַב to בְּרָכוֹת. רַב is tagged construct with בְּרָכוֹת as its nomen rectum, so rule 19's recast relational expression belongs to the rectum; the chapter reads the same shape that way at 28.6, 28.18 and 28.25, while its valency assignments (28.7, 28.19, 28.21, 28.23) all stand on absolute participles or verbs with bare objects.",
+    "Everything else in the verse was left as accepted."
+  ]
+}

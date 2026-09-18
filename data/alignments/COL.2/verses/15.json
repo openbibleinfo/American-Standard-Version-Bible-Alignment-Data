@@ -1,0 +1,163 @@
+{
+  "alignments": [
+    {
+      "note": "Aorist middle participle rendered by the periphrastic *having despoiled*; the auxiliary is a rule 9 helper and the head stands on the lexical participle *despoiled*. The ASV margin's *having put off from himself* is not the text rendered.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Article realized by *the* under rule 19.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Split from its article under rules 13 and 26; the pair is a compositionally transparent noun phrase.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Coordinating conjunction on its own English word.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Second article realized by its own *the* under rule 19.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Noun stands alone, its article having taken the determiner.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "The finite verb is rendered by the support-verb frame *he made a show of them*: the supplied subject *he* and the auxiliary ride inside the unit under rules 7 and 9, and the frame's own supplied noun *show* is what licenses the *of*, so that preposition stays inside the verb's unit under rule 21's support-frame clause. The Greek expresses no object token here, so the resumptive *them* is a rule 7 helper on the verb rather than a second realization of the accusatives; rule 103 names a resumptive pronoun as exactly the contrast to an `added` lexical repeat. Rule 17 heads the frame on the meaning-bearing complement *show* and not on the auxiliary *made*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010",
+        "t011",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Preposition and its noun rendered by the single English word *openly*, so they form one unit under rule 94's single-word test. Rule 39's test keeps it `aligned` rather than `noncompositional`: *open-* answers to `παρρησίᾳ`, and rule 45's `noncompositional` wants a word answering to neither token. Head on the governed noun under rule 45. Reading the pair as `noncompositional` on the ground that nothing spells `ἐν` remains defensible; so does treating `ἐν` as pleonastic under rule 34, but that rule is scoped to a preposition governing an adverb and `παρρησίᾳ` is a noun.",
+      "source": [
+        "s008",
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "`θριαμβεύω` governs a bare accusative, which English realizes with no preposition, so the *over* is the verb's own phrasal government and stays inside its unit under rule 106's accusative arm; rule 36 leaves it there because no Greek preposition is expressed for it to answer to. Head on the verb word.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Accusative object keeps a bare pronoun, its English preposition having ridden with the verb under rule 106.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "The ASV writes two separate English words for this prepositional phrase, so rule 94 forbids a compound unit and rule 2 splits it; the preposition takes *in*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Governed pronoun on its own *it*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "COL.2.15",
+  "review_notes": [
+    "Every s### and t### id is partitioned exactly once.",
+    "s007 is the verse's main judgment call: the supplied *of* and the resumptive *them* both ride inside the support-verb frame, the first under rule 21's support-frame clause and the second under rule 7 as rule 103 names it. The Greek expresses no object of `ἐδειγμάτισεν`, so nothing else licenses *them*.",
+    "s008+s009 → *openly* is taken as `aligned` on rule 39's test rather than `noncompositional`; the competing reading is named in the unit note.",
+    "s010's *over* is kept with the verb because `θριαμβεύω`'s object is accusative, the case rule 106 says English realizes with no preposition; s012 is a separate expressed preposition and is aligned to its own word."
+  ]
+}

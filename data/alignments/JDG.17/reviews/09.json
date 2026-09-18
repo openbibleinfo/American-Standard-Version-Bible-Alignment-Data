@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "de6a161dd00377521092a7b150b738b3371657a8f92241191e8f9e7ca1146a71",
+  "contract_version": "ot-hebrew-verse-v186",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition checked: twenty-six source ids and thirty-two target ids each covered exactly once.",
+    "Large-source-unit candidate `מֵ` + `אַיִן` → *Whence* retained: the one word carries both the ablative relation and the interrogative, and it heads on `אַיִן`, which carries the wh-lexeme, exactly as rule 22 heads `אֵי־זֶה` on `אֵי`. Rule 23's first-morpheme fallback governs only where no morpheme carries content the others lack, which is not this pair.",
+    "Large-source-unit candidate `בַּ` + `אֲשֶׁר` → *where* retained, headed on the relative.",
+    "`אָנֹכִי` takes only its own *I* while the copula and indefinite article join the predicate `לֵוִי`, which is rule 20's division where an explicit subject stands beside a predicate morpheme."
+  ],
+  "ref": "JDG.17.9",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

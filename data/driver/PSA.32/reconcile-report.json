@@ -1,0 +1,24 @@
+{
+  "chapter": "PSA.32",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "סָבַב rendered 'compass ... about' keeps 'about' inside the verb's unit, discontinuous around the object (vv.7, 10): 'compass' alone writes the encircling, so the particle restates what the verb writes rather than supplying a direction the Hebrew never wrote, and rule 44 marks a particle surplus only where both of its conditions hold."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Cross-verse table read end to end: every multi-treatment bucket is licensed by the source or the ASV. הוּא Sp1cs→Tj is a possessive on a noun (v5 'my') beside an object suffix on a verb (v7 'me'); לְ R→Np is the authorial lamed of the superscription (v1 'of') beside a dative (v5 'unto'); חַטָּאת in v5 is the object noun ('sin') and then a rectum ('of sin'); אַיִן is a plain existential in v2 ('there is no', rule 50) and a possessive recasting in v9 ('have no', rule 43).",
+    "The `added` units were checked against the folded ones, since the table cannot see them: supplied object pronouns are `added` in both v8 ('counsel thee') and v9 ('hold them in') under rule 44; supplied relatives are folded only where rule 46 licenses them (v6 'that is godly', v11 'ye that are upright' on anarthrous substantives) and `added` where a written antecedent stands before a clause (v9 'which have no understanding', rule 55). אַשְׁרֵי takes 'Blessed is' in both v1 and v2; סָבַב keeps 'about' with the verb in both v7 and v10; the vocative 'ye' goes to the noun in v11 (ASV punctuates 'rejoice, ye righteous') and to the imperative in v9 ('Be ye not'), which is rule 36's adjacency test in each case.",
+    "BSB disagreements are both convention: v5 עֲלֵי is left bare by 'confess my transgressions' and v7 לִ by the possessive 'my hiding place' (rule 40). Neither is an error.",
+    "Least settled unit, left as accepted and noted in the verse: v9 בְּ → 'must be' where the ASV writes no preposition for the predicate בְּמֶתֶג־וָרֶסֶן. Rule 49's opening sentence and rule 20's 'a preposition that is itself the predicate carries the copula' support it; rule 49's closing rider reaches only a preposition the ASV rendered or fused into a genitive, so the contract has a gap here, but one verse with no corpus precedent shown is not grounds to amend it.",
+    "The two repeated notes ('construct noun takes the supplied the', 'supplied the belongs to the noun') restate rules 29 and 15 and need no convention."
+  ]
+}

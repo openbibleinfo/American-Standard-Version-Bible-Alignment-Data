@@ -1,0 +1,17 @@
+{
+  "alignment_sha256": "4794da01bb59ece373dd7e456d13f0640414f72205f7c7eacd05609327df3ab5",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: all 20 source ids and all 31 target ids appear exactly once across the 19 units; every head is a member of its own array.",
+    "Three anarthrous datives (s001 διδαχαῖς, s009 χάριτι, s014 βρώμασιν) correctly keep their supplied *by* under rule 21's determinerless clause; no article stands to anchor a determiner, so the case preposition rides with the noun and the head is the noun.",
+    "s007 καλόν → *it is good* is exactly rule 68's named corpus unit — the clause expresses no subject, so the predicate adjective carries both the supplied subject and copula.",
+    "s010's *that* is correctly on the infinitive under rule 85 rather than on καλόν; rule 74's aside is scoped to a supplied subject and does not arise.",
+    "s015+s016 → *wherein* stays `aligned` under rules 35 and 81: *where-* answers to the relative and *-in* to ἐν, so rule 45's noncompositional test (an English word answering to neither token) is not met.",
+    "s019/s020 split follows rule 32's `oἱ κατοικοῦντες` → *they that dwell* precedent exactly; the ASV writes two English words, so rule 90's single-word relaxation is not in question, and the reflexive *themselves* is an English-idiom helper on the participle.",
+    "Heads on lexical verbs (t003 *carried*, t018 *established*, t031 *profited*, t027 *occupied*) satisfy rule 17's preference over auxiliaries; no light-verb or generic-completion case under rules 66, 91 or 104 arises here."
+  ],
+  "ref": "HEB.13.9",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

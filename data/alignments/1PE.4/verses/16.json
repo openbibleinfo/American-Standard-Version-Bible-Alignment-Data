@@ -1,0 +1,21 @@
+{
+  "ref": "1PE.4.16",
+  "alignments": [
+    {"source": ["s002"], "source_head": "s002", "target": ["t001"], "target_head": "t001", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s001"], "source_head": "s001", "target": ["t002"], "target_head": "t002", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": [], "source_head": null, "target": ["t003", "t004", "t005"], "target_head": "t005", "status": "added", "confidence": "high", "note": "The Greek clause is verbless and elliptical, carrying over the verb of v.15; no token in this verse licenses the supplied subject and predicate, so rule 86 marks them added. Head on the lexical verb."},
+    {"source": ["s003"], "source_head": "s003", "target": ["t006"], "target_head": "t006", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s004"], "source_head": "s004", "target": ["t007", "t008"], "target_head": "t008", "status": "aligned", "confidence": "high", "note": "Anarthrous Greek noun, so the supplied indefinite is an ordinary rule 51 helper on the word it determines."},
+    {"source": ["s006"], "source_head": "s006", "target": ["t009", "t010", "t012", "t013"], "target_head": "t013", "status": "aligned", "confidence": "high", "note": "Imperative auxiliary, subject and copula are rule 9 helpers on the verb; discontinuous around the negative under rule 15. Head on the lexical predicate."},
+    {"source": ["s005"], "source_head": "s005", "target": ["t011"], "target_head": "t011", "status": "aligned", "confidence": "high", "note": "Ordinary negative, aligned to not."},
+    {"source": ["s008"], "source_head": "s008", "target": ["t014"], "target_head": "t014", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s007"], "source_head": "s007", "target": ["t015", "t016", "t017"], "target_head": "t017", "status": "aligned", "confidence": "high", "note": "Imperative auxiliary and subject are rule 9 helpers; head on the lexical verb."},
+    {"source": ["s009"], "source_head": "s009", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "The ASV gives God no determiner, so the article has nothing to anchor (rule 23)."},
+    {"source": ["s010"], "source_head": "s010", "target": ["t018"], "target_head": "t018", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s011"], "source_head": "s011", "target": ["t019"], "target_head": "t019", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s012"], "source_head": "s012", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "The attributive demonstrative supplies the English determiner, so the article realizes nothing (rule 38)."},
+    {"source": ["s014"], "source_head": "s014", "target": ["t020"], "target_head": "t020", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s013"], "source_head": "s013", "target": ["t021"], "target_head": "t021", "status": "aligned", "confidence": "high", "note": ""}
+  ],
+  "review_notes": []
+}

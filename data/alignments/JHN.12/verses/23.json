@@ -1,0 +1,21 @@
+{
+  "ref": "JHN.12.23",
+  "alignments": [
+    {"source": ["s001"], "source_head": "s001", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "Article before a name has no English realization (rule 23)."},
+    {"source": ["s002"], "source_head": "s002", "target": ["t001"], "target_head": "t001", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s003"], "source_head": "s003", "target": ["t002"], "target_head": "t002", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s004"], "source_head": "s004", "target": ["t003"], "target_head": "t003", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s005"], "source_head": "s005", "target": ["t004"], "target_head": "t004", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s006"], "source_head": "s006", "target": ["t005"], "target_head": "t005", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s007"], "source_head": "s007", "target": ["t008", "t009"], "target_head": "t009", "status": "aligned", "confidence": "high", "note": "Copula is a helper on the lexical verb (rules 9, 17)."},
+    {"source": ["s008"], "source_head": "s008", "target": ["t006"], "target_head": "t006", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s009"], "source_head": "s009", "target": ["t007"], "target_head": "t007", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s010"], "source_head": "s010", "target": ["t010"], "target_head": "t010", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s011"], "source_head": "s011", "target": ["t015", "t016", "t017"], "target_head": "t017", "status": "aligned", "confidence": "high", "note": "Modal and copula are helpers on the lexical verb (rules 9, 17)."},
+    {"source": ["s012"], "source_head": "s012", "target": ["t011"], "target_head": "t011", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s013"], "source_head": "s013", "target": ["t012"], "target_head": "t012", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s014"], "source_head": "s014", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "ASV gives the noun no determiner, so the article anchors no 'the' and the case preposition stays with the noun (rules 21, 23)."},
+    {"source": ["s015"], "source_head": "s015", "target": ["t013", "t014"], "target_head": "t014", "status": "aligned", "confidence": "high", "note": "Case preposition 'of' rides with the noun (rules 17, 21)."}
+  ],
+  "review_notes": []
+}

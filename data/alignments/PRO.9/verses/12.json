@@ -1,0 +1,145 @@
+{
+  "alignments": [
+    {
+      "note": "אם takes the *If*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Subject pronoun and copular auxiliary with the verb, rule 17.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Second finite verb, rule 17.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Suffix, rule 18.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The ASV recasts this waw's clause as a conditional and writes a coordinator and a subordinator together at its left edge; both words are the one connective's rendering under rule 55, headed on the coordinator.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Rule 17.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Preposition and its noun rendered by one English adverb; rule 30's one-rendering condition is met and the pair fuses, headed on the noun carrying the lexeme.",
+      "source": [
+        "s008",
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "The ASV writes no separate pronoun for the suffix: the *thou* of *thou alone shalt bear* is the finite verb's subject under rule 17. The competing reading gives that *thou* to the suffix and leaves the verb its auxiliaries alone.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Subject pronoun and auxiliary with the verb; discontinuous around *alone* under rule 25.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "The Hebrew writes no object for תשא, so the supplied object pronoun answers to no morpheme, rule 44.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    }
+  ],
+  "ref": "PRO.9.12",
+  "review_notes": [
+    "The second colon's *And if* is one rendering of the waw under rule 55 rather than a supplied subordinator beside it."
+  ]
+}

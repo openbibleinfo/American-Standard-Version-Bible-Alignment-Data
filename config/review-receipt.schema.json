@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["ref", "status", "alignment_sha256", "contract_version", "notes"],
+  "properties": {
+    "ref": {"type": "string"},
+    "status": {"const": "reviewed"},
+    "alignment_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+    "contract_version": {"type": "string"},
+    "reviewed_by": {"type": "string"},
+    "notes": {"type": "array", "items": {"type": "string"}}
+  }
+}

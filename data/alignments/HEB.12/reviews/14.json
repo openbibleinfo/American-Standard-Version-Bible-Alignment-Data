@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "b38180c08745517ee28ab9782ae06d16ebd4df363520f92f5a789c8f873cc26b",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: s001-s013 and t001-t017 each appear exactly once; all thirteen units are `aligned` with nonempty arrays and heads that are members of their arrays.",
+    "s002 `διώκετε` → *Follow after*: `Εἰρήνην` is a bare accusative object with no Greek preposition governing it, so rule 36 does not pull *after* off the verb; rule 91 keeps the head on *Follow*, the word that glosses the lexeme. s001's postposed *peace* is licensed by rule 15.",
+    "s004 `πάντων` → *all men* is anarthrous and substantival, so rule 58's substantival clause and rule 17's generic-noun clause both hold the head on *all*, exactly as rule 17's `all things` → *All* has it; rule 102's article-governed case does not arise.",
+    "s010 `οὐδείς` → *no man* is the only negator in the clause, so rules 41, 59 and 69 raise no question of emptying or joining; rule 17 heads on *no* and not on the supplied *man*, which is rule 69's head-on-*any* reasoning for a negatively rendered indefinite.",
+    "s009/s008 split is right under rule 94: a compound prepositional unit requires a single English word, and *without which* is two words each answering to a token. Rule 71's closing clause makes the single-word `χωρίς` → *without* its own head, and rule 101 is not engaged since the ASV supplies no determiner and no trailing preposition."
+  ],
+  "ref": "HEB.12.14",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

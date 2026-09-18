@@ -1,0 +1,152 @@
+{
+  "alignments": [
+    {
+      "note": "Construct noun with the supplied *the* under rule 29; the rectum is rendered indefinitely.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Nomen rectum with the chain's *of* under rule 19; the indefinite article is the noun's own under rule 15.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The Hebrew clause is `נַהַם כַּכְּפִיר אֵימַת מֶלֶךְ`: the predicate is the noun `נַהַם` and `כַּכְּפִיר` is an adjunct modifying it, so the construction-supplied copula joins this nominal under rule 20 and rule 49's closing paragraph, which reserves the copula for a preposition that is itself the predicate and directs that the Hebrew, not the English word order, decide which side is the predicate. The *the* is this noun's supplied determiner (rules 15, 29), since the ASV writes *a* before the article's own word. Discontinuous around *as* under rule 25. The competing reading, taken by the earlier alignment, gives *is as* to the `כְּ` under rule 49's first sentence.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Comparative preposition taking the written *as*; it heads an adjunct within the predicate rather than the predicate itself, so it takes no copula (rule 49).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Article assimilated into the pointed preposition. The ASV writes *a lion* before the article's own word, so nothing is fronted and the phrase's single *the* is not this morpheme's: rule 29's paragraph on a rectum rendered indefinitely marks the article `unrepresented` and gives the supplied *the* to the noun standing at the phrase's left edge. Rule 12's *align it when the ASV has one* is read with rule 29's count of which word each *the* stands before.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The noun the ASV construes as the dependent of *roaring*, taking the supplied *of* that states its contribution and its own indefinite article (rules 33, 15). The `כְּ` already holds an English word of its own and is not a home for the *of* (rule 52's count).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Anarthrous participle taking the supplied *He that* under rule 46; *provoketh ... to anger* is the verb's whole rendering, headed on the lexical verb, discontinuous around the object pronoun under rule 25.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014",
+        "t015",
+        "t017",
+        "t018"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Object suffix taking the pronoun written for it (rule 18).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "The supplied *against* reaches the verb's own bare object and belongs to the verb's unit (rule 44).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Emphatic possessive *his own* belongs whole to the suffix (rule 18).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Noun rendered *life*; the marginal Hebrew gloss *soul* was read and set aside under rule 38.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    }
+  ],
+  "ref": "PRO.20.2",
+  "review_notes": [
+    "Corrected twice against the earlier alignment. (1) The copula moves from the `כְּ` to `נַהַם`: the Hebrew predicate is the noun and the comparative phrase modifies it, which is exactly the adjunct case rule 49's closing paragraph carves out. (2) The assimilated article becomes `unrepresented` and the written *the* becomes `נַהַם`'s supplied determiner, because the ASV writes *a lion* before the article's own word and rule 29 forbids fronting where the rectum carries a determiner of its own.",
+    "Both marginal notes (*Or, angereth himself against him*; *Hebrew soul*) were read and set aside; the printed text governs (rule 38)."
+  ]
+}

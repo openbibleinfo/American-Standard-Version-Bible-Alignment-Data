@@ -1,0 +1,7 @@
+# 2 John 1 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **2JN.1.8** — A relative pronoun expanded by a supplied word heads on whichever word carries the content: on the relativizer where the supplied word is a bare antecedent (2JN.1.5 'that which' → which), and on the nominal where it is a generic noun (2JN.1.8 'the things which' → things). Rule 22's head-on-the-nominal is scoped to a substantival article and does not by itself reach a relative pronoun.
+- **2JN.1.7** — Supplied English with no source token to license it is its own added unit — the appositional 'even' of 2JN.1.7, the resumed 'write them' of 2JN.1.12 whose γράφειν is already realized. Supplied English that some token does license stays folded: 'certain of' on partitive ἐκ (2JN.1.4), 'your' on the anarthrous οἰκίαν (2JN.1.10). The test is whether a present token licenses it, not whether the ASV italicized it.
+- **2JN.1.9** — πᾶς + substantival article + participle follows the ASV's own wording: where a separate pronoun is written the article takes it (2JN.1.1 'all they that know'), and where the ASV writes one solid quantifier the article is unrepresented, πᾶς having taken the only word there is (2JN.1.9 'Whosoever'). Recorded medium in v9 because JHN.11.26 and JHN.12.46 join the pair instead.

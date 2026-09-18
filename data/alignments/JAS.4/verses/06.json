@@ -1,0 +1,184 @@
+{
+  "alignments": [
+    {
+      "note": "Adversative δέ rendered by clause-initial *But*; ASV word order puts it first though δέ is postpositive.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Inflected verb with its supplied subject pronoun under rule 9; head on the lexical verb *giveth*, not on *he*, per rule 17.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Comparative μείζονα rendered by the single word *more* modifying *grace*; split from the noun under rule 26 since both realizations are independently recoverable.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Bare noun to bare noun.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Inferential conjunction to *Wherefore*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The 3sg verb licenses a subject slot English must fill, and the ASV fills it with the italicized *the scripture*; rule 9 lets the inflected verb take subject and verb together in one unit, and rule 11 keeps the italics evidence rather than a verdict. Head on the lexical verb *saith*. The competing reading marks *the scripture* `added` under rules 5 and 103, since a full lexical noun is not on rule 7's helper list; I took the rule 9 reading because rule 103's scope condition is not met — no source token has been spent on that English, whereas rule 103 governs a repetition of content already realized in the verse — and rule 68 likewise keeps a wholly supplied subject inside the unit of the token that licenses it.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The ASV writes a bare *God* with no determiner, so the article has no English realization: rule 23. Not rule 19, since no *the* stands for it to take.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun to noun.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Finite verb to finite verb.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Anarthrous substantival adjective: no article competes, so the supplied determiner is rule 51's helper on the word it determines and rule 58's substantival clause keeps it with the adjective, as `νεκρῶν` → *the dead*. Head on *proud*, the nominal word.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Second δέ to *but*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Verb to verb; the English subject is carried over from the previous clause and no separate word answers to this token beyond *giveth*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Noun to noun.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Anarthrous substantival dative adjective: rule 58 gives it the supplied determiner itself and rules 21 and 36 let the case preposition *to* ride along, no article being present to anchor it. Head on *humble*. Discontinuous relative to the source order, which rule 15 permits.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "JAS.4.6",
+  "review_notes": [
+    "Reviewed and returned unchanged: I found nothing to correct. Every s### and t### id is partitioned exactly once — 14 source and 19 target tokens — and the only source-only unit is the article s007.",
+    "The verse's one real judgment call is the italicized supplied subject *the scripture* at s006. I kept it inside λέγει's unit and extended the note to say why rule 103 does not reach it: rule 103 is scoped in terms to supplied lexical content whose source token is **already realized elsewhere in the verse**, and no source token here has been spent on *scripture*. Rule 9 licenses an inflected verb to take an English subject, and its wording is not restricted to pronoun subjects. The `added` reading under rule 5 remains defensible — the corpus precedents for a wholly supplied subject riding with its licensing token (rules 9, 68, 74) are all pronouns, and none is a full lexical noun — so a later reader has both readings named.",
+    "Both anarthrous substantival adjectives, ὑπερηφάνοις (s009) and ταπεινοῖς (s011), keep their supplied determiners under rule 58's substantival clause and head on the adjective, analysed alike within the verse per rule 24. No Greek article stands before either, so rule 21's article-carries-the-case-preposition case is not in question and *to* stays with s011.",
+    "The article s007 is `unrepresented` because the ASV writes no determiner for θεός. Rules 51 and 60 do not apply — the ASV supplies neither an indefinite nor a demonstrative here — and no possessive or demonstrative competes for the slot, so rule 23 is the plain case. A reference comparison reporting it as a disagreement is not a correction.",
+    "μείζονα is split from χάριν under rule 26 rather than bundled as *more grace*: *more* and *grace* are independently recoverable token pairs. The greek_gloss note (*a greater grace*) records the ASV's redistribution of the comparative but does not change the token correspondence."
+  ]
+}

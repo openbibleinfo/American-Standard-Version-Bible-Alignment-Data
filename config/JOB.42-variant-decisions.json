@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "chapter": "JOB.42",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JOB.42.2.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders a first-person singular perfect, \"I know that thou canst do all things\", matching the qere ידעתי (1cs). The ketiv ידעת would be second masculine singular, \"thou knowest\", which the ASV does not render: the verse's only second-person verb is \"thou canst do\", and the knowing is Job's."
+    },
+    {
+      "unit_id": "WLC.JOB.42.10.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere שבות and ketiv שבית are orthographic variants of the same noun, both rendered \"the captivity\". ASV \"turned the captivity of Job\" is equally the translation of either, and no ASV note is mapped here, so the base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.JOB.42.11.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere אחיותיו and ketiv אחיתיו differ only in plene versus defective spelling of the same feminine plural with 3ms suffix, \"his sisters\". ASV \"and all his sisters\" reflects both identically. The verse's only note is a hebrew_gloss on \"a piece of money\" (kesitah) and is not mapped to this unit."
+    },
+    {
+      "unit_id": "WLC.JOB.42.16.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere ויראה and ketiv וירא are the full and apocopated spellings of the same wayyiqtol of ראה, \"and he saw\". ASV \"and saw his sons, and his sons' sons\" renders that verb without distinguishing the form, and no ASV note is mapped here."
+    }
+  ]
+}

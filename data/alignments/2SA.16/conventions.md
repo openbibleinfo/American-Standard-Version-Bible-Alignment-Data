@@ -1,0 +1,7 @@
+# 2 Samuel 16 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **2SA.16.4** — A predicate לְ + pronominal suffix that the ASV renders by an independent possessive ('thine', 'his') fuses under rule 49's fused-genitive paragraph, headed on the suffix; the copula joins the fused unit where the clause is verbless (16.4 'thine is') and goes to הָיָה where that verb is written (16.18 'his will I be'). Rule 21's unrepresented לְ is reserved for a recasting that leaves the לְ-phrase no English word at all.
+- **2SA.16.19** — לִפְנֵי rendered 'in the presence of' / 'in … presence' (three times in 16.19) and לְעֵינֵי rendered 'in the sight of' (16.22) are split under rule 2: the ASV spends 'in' on the preposition and 'presence'/'sight' on the noun's own lexeme, which is rule 30's 'to meet' shape rather than its 'before' fusion. The supplied 'the' goes to the construct noun and the 'of' to the rectum; a possessive rectum ('thy father's') leaves the noun bare 'presence'.
+- **2SA.16.3** — A subject pronoun the ASV supplies before a participial predicate in a verbless clause ('he abideth' 16.3, 'he came out' 16.5) is given to the nominal written earlier in the verse that it resumes (rule 25), not to the participle and not marked added; the participle keeps only its lexical verb and, where written, the presentative 'there' (16.5 'there came out').

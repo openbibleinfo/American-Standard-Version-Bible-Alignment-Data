@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "chapter": "1KI.1",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1KI.1.27.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "Qere עַבְדְּךָ is singular (Ncmsc/Sp2ms), ketiv עבדיך plural (Ncmpc/Sp2ms), same lemma 5650 and 2ms suffix. ASV reads \"thou hast not showed unto thy servants\" — plural — and carries the mapped note 1KI.1.27.n01 \"Another reading is, servant\", which names the qere singular as the alternative. Main text and note together select the ketiv."
+    },
+    {
+      "unit_id": "WLC.1KI.1.37.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere יִהְיֶה is Vqi3ms and ketiv יהי Vqj3ms, the same lemma 1961 in imperfect versus jussive. ASV \"even so be he with Solomon\" renders either — the volitive sense is already carried by the כֵּן clause — and there is no note. Retain the base."
+    },
+    {
+      "unit_id": "WLC.1KI.1.47.v003",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "Qere אֱלֹהִים is anarthrous and unsuffixed (Ncmpa); ketiv אלהיך carries the 2ms suffix (Ncmpc/Sp2ms). ASV reads \"Thy God make the name of Solomon better than thy name\" with the mapped note 1KI.1.47.n01 \"Another reading omits Thy.\" The possessive in the main text is the suffix, so the ketiv is selected and the qere is the noted alternative."
+    }
+  ]
+}

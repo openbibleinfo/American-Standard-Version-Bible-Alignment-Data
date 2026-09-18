@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "chapter": "ROM.5",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.ROM.5.1.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text reads the indicative: 'we have peace with God'. The hortatory subjunctive echomen ('let us have') is carried instead by the mapped textual_variant note, 'Many ancient authorities read let us have', which the ASV prints as a margin against its adopted text. Text follows the base indicative."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.5.3.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders a finite main verb, 'but we also rejoice in our tribulations', which the participle kauchomenoi ('rejoicing') cannot supply as the sentence's only verb; the finite kauchometha does. The 'Or, let us also rejoice' note is classed alternative_rendering and concerns the indicative/subjunctive reading of the same finite form, so it does not bear on the participle."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.5.6.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV opens 'For while we were yet weak', rendering both the causal gar ('For') and eti ('yet'). The alternative Ei ge is conditional-concessive ('if indeed') and supplies neither the causal connective nor 'yet'; no ASV note offers such a reading."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.5.6.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The single 'yet' in 'while we were yet weak' answers the clause-initial eti of unit v003; this second, resumptive eti before 'in due season' has no separate English exponent, and the ASV wording is identical whether it is present or omitted. No ASV note is mapped here, so the base reading carries the projection."
+    }
+  ]
+}

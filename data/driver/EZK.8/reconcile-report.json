@@ -1,0 +1,31 @@
+{
+  "chapter": "EZK.8",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Where the numeral echad follows an indefinite noun and the ASV renders the pair with a single indefinite article - `hor echad` -> `a hole` (8.7), `petach echad` -> `a door` (8.8) - the numeral is the morpheme that `a` answers to and takes it, leaving the noun its own word alone. Rule 15's clause about an indefinite article belonging to the noun governs a phrase with no numeral present, and is not a reason to mark echad unrepresented. Both verses record the competing reading in their notes.",
+    "The adverb od is aligned to whatever the ASV spends on its additive sense, and `other` is part of that rendering rather than an `added` word: `od tashuv tireh toevot gedolot` -> `yet other great abominations` gives `yet other` to od, headed on `yet` (8.6, 8.13), while 8.15 writes only `yet` and od takes only that. Nothing else in those clauses answers to `other`; the repetition auxiliary shuv already has `again` and the adjective gedolot its own word.",
+    "Where sham stands in the clause, the ASV's `there` is its rendering and not a presentative dummy, whatever frame the English builds around it: `hayah sham kevod` -> `the glory ... was there` (8.4) and `ve-hinneh sham ha-nashim yoshvot` -> `behold there sat the women` (8.14) give `there` to sham and leave the copula to the predicate and the verb to the participle. Rule 17's dummy `there`, which joins the verb's unit, governs only a clause with no locative adverb in it - as at 8.11, `there stood before them seventy men`, where no sham is written. Read whether sham is present before treating a `there` as supplied."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v66",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 51 candidate groups and then the full dump end to end, since the table is keyed by source lemma and so is blind to this chapter's four `added` units. No genuine cross-verse split found: every multi-treatment bucket is the ASV rendering one morpheme differently in a different context, and in each case the source or the written English licenses the difference.",
+    "Interrogative he - unrepresented at 8.6 (`seest thou`, question marked by inversion alone) and aligned to the fronted auxiliary at 8.12, 8.15 and 8.17 (`Hast`, `Is`). Rule 17 states exactly this division, so the difference is licensed and not a split.",
+    "Waw before hinneh - unrepresented at 8.7 and 8.8, aligned to `and` at 8.2, 8.4, 8.10, 8.16, 8.17. Checked the ASV of 8.7 and 8.8 directly: in both, the one written connective stands at the left edge of the preceding clause (`and when I looked`, `and when I had digged`) and nothing is written before `behold`, so the second waw has nothing to take. The three BSB waw rows are this same case.",
+    "Directive he - takes `toward`/`to` at 8.3, 8.5, 8.16, and is unrepresented at 8.14 only, where el has already taken the `toward`. That is rule 32's own closing sentence, not a chapter inconsistency.",
+    "The object marker is unrepresented eleven times and aligned once, to the `for` of `weeping for Tammuz` at 8.14. That passes rule 16's subtraction test - drop `for` and only the object relation is diminished - and it is the chapter's single rule 16 exception, correctly isolated.",
+    "Article placement inside construct chains (8.1, 8.2, 8.3, 8.5, 8.6, 8.7, 8.9, 8.11, 8.14, 8.16) was checked chain by chain. The outcomes differ but the method does not: the ASV's `the`s are counted against the present article morphemes, a present article takes a written `the` before a supplied one does, and an agreement or coordinated article goes unrepresented under rule 47. 8.3 and 8.5 hold the same semel ha-qinah phrase and differ only because 8.5 writes `this` for ha-zeh and no `the` at all.",
+    "The four `added` units - `as` at 8.1, `even` at 8.6, and the italic `this` at 8.15 and 8.17 - were read against the clauses that would license them. 8.1's clause opens with an explicit pronoun and holds no conjunction, so rule 55 marks the supplied `as`; 8.6's clause holds no object marker at all, so rule 16 marks the appositional `even`; both `this` are supplied objects with no source morpheme. The chapter's contrasting cases (the `and when` pairs at 8.7 and 8.8 and `and though` at 8.18) are one waw's single rendering under rule 55, and they head on the coordinator uniformly.",
+    "Copula placement is uniform: it goes to the predicate and never to a written subject - `was there` on sham at 8.4, `was toward` on el at 8.14, `at the door ... were` on petach at 8.16.",
+    "BSB disagreements: none is a genuine error. Td x 7 and To x 5 are the documented convention difference (BSB attaches the article to its noun and the object marker to its object). The three waw rows and the 8.14 Sd row are the licensed-absence cases above. The two bein rows are rule 26 as written; savib at 8.10 is rule 22's single rendering of a repetition; la at 8.16 is rule 40, the object having been promoted to a bare direct object of `worshipping`; the 8.6 he and the lexicalized Adonai suffix at 8.1 are correct as they stand. No accepted edge was changed.",
+    "Three conventions recorded (the numeral echad taking the indefinite `a`, the `yet other` reading of od, and the priority of a written sham over a presentative dummy). No promotion: the one judgment that would generalise is the sham ruling, and the precedent packet carries no sham table, so I left it chapter-scoped rather than widen rule 17 on evidence I was not shown."
+  ]
+}

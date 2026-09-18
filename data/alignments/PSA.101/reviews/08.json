@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "2c1765e016431c4a9b7ffdfa473c122d5adbfb9333c0003255a1cc8c2e359feb",
+  "contract_version": "ot-hebrew-verse-v217",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "ASV reorders the object and the 'from' phrase in the second colon; units follow the Hebrew phrases.",
+    "Large-source-unit candidate לַבְּקָרִים → 'Morning by morning' reviewed and retained: the distributive expression is one rendering of preposition, assimilated article and plural noun, the 'by' standing inside it (rules 14, 30); it is aligned rather than noncompositional because 'Morning' writes the noun's own lexeme (rule 6).",
+    "Scoped LS01 correction independently confirmed; evidence: data/audits/retrospective-new-chapters-2026-09-12/receipts/PSA.101.8.json. Original full-review coverage is carried forward only for unchanged content. The scoped assessment and independent confirmation cover the changed candidate units and their notes; no new full-verse review is claimed. Original reviewer, date fields and contract provenance are preserved; original receipt: data/audits/retrospective-new-chapters-2026-09-12/before/PSA.101.8/review.json."
+  ],
+  "ref": "PSA.101.8",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

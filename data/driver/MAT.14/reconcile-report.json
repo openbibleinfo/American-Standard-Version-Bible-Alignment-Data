@@ -1,0 +1,31 @@
+{
+  "chapter": "MAT.14",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "`κατ᾽ ἰδίαν` is one `noncompositional` unit under rule 45, taking the whole English *apart* and headed on `ἰδίαν`. Neither the preposition nor the possessive adjective is separately recoverable in that single word, and rule 47 does not reach it because no head noun is governed. Read 14:13 and 14:23 alike.",
+    "An English phrasal particle that answers to no Greek preverb is a rule 7 helper riding inside its verb's own unit, and never heads it - exactly as rule 106's preverb particle does. So *up* of `ἦραν` → *took up* at 14:12 and 14:20, `αἴρω` being uncompounded; *out* of `ἔκραξαν`/`ἔκραξεν` → *cried out* at 14:26 and 14:30; *over* of `περισσεῦον` → *remained over* at 14:20; and *down* of `ἀνακλιθῆναι` → *to sit down* at 14:19, where the preverb `ἀνα-` is not what *down* glosses. Do not mark such a particle `added`, and say in the note either that the verb is uncompounded or that the particle does not gloss its preverb.",
+    "Where the Greek copula is **expressed**, the ASV's supplied expletive *it* is that copula's own rule 7 helper and rule 68's supplied-subject clause does not arise, rule 68 speaking of a verbless clause: `ἐστιν` → *It is* at 14:26, `εἰμι` → *it is* at 14:27, `εἶ` → *it be* at 14:28, and `ἔξεστίν` → *It is … lawful* at 14:4. An expressed copula likewise keeps its subject pronoun (`ἦν` → *he was* at 14:23, `εἶ` → *thou art* at 14:33) and leaves an expressed predicate adjective bare (14:15, 14:23, 14:24). Do not hand the supplied *it* to the predicate noun.",
+    "At 14:17 the ASV renders `Οὐκ ἔχομεν … εἰ μή` as *We have here but*, writing no English negative word at all. The whole *but* answers to the `εἰ μή` pair as one `noncompositional` unit headed on `εἰ` under rule 39, and `οὐκ` is left its own `unrepresented` unit under rule 23. Rules 41 and 59 are not the licence, `εἰ μή` being a particle cluster rather than a negative indefinite. A reference comparison will report the empty `οὐκ` as a disagreement, and that report is not a correction."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v98",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read the full verse dump end to end rather than relying on the lemma table, since the table is keyed by source lemma and is blind to `added` units. This chapter has no `added` unit anywhere (514 aligned, 5 noncompositional, 30 unrepresented, 549 total), so no add-versus-fold split can be hiding behind a clean table.",
+    "No cross-verse split found; patches is empty. The loudest candidate was `κρατήσας τὸν Ἰωάννην` -> laid hold on John (14:3), keeping the phrasal 'on' inside the verb, against `ἐπελάβετο αὐτοῦ` -> took hold of him (14:31), giving 'of' to the pronoun. That is rule 106's own accusative/oblique division, not a split: an accusative has no case for an English preposition to realize, and rule 106 names ἐπιλαμβάνομαι in terms on the oblique side. Both notes name their arm.",
+    "`οὐ` is aligned at 14:4 (not) and 14:16 (no) and unrepresented at 14:17. The difference is in the ASV, which writes no negative word at 14:17 (We have here but five loaves), the whole 'but' answering to the `εἰ μή` pair under rule 39. A reference comparison will report that empty `οὐκ` as a disagreement and that report is not a correction; recorded as a convention.",
+    "Article dispositions are uniform. 'of the'/'to the' rides with the article wherever the ASV writes a determiner (14:11, 14:19 twice, 14:20, 14:24, 14:25); the case preposition stays with the noun wherever the determiner is absent or displaced (14:1, 14:2, 14:6, 14:8, 14:11, 14:33, 14:35, 14:36). Rule 38 empties the article at 14:1 and twice at 14:35; rule 20's second arm gives it 'his' at 14:9 and 14:31; rule 23 empties it before every name. Substantival articles split from a following participle at 14:8, 14:20, 14:21 and 14:35, and keep 'they ... that' whole at 14:33 where a prepositional phrase follows instead, which is rule 32's own contrast.",
+    "Preverb particles read alike across 14:8, 14:14, 14:15, 14:16, 14:19, 14:22, 14:23, 14:29, 14:31, 14:32 and 14:34: inside the verb's unit, headed on the verb word, with ἀπό, εἰς and ἐκ taking their own English word wherever the ASV wrote one in addition (14:29, 14:32). ἀπολύω reads identically at 14:15, 14:22 and 14:23; κατ' ἰδίαν identically at 14:13 and 14:23; ὀψίας identically at 14:15 and 14:23.",
+    "Light-verb pairs are split wherever the ASV spells both elements out (14:16 have/need, 14:35 were/sick) and never collapsed under rule 73. 14:35's own review note already concedes the rule 73 reading, so the choice is on the record.",
+    "BSB: all six disagreements are articles the ASV leaves empty under rules 20, 23 and 38 (14:2 τοῖς displaced by αὐτοῦ; 14:6 τοῦ before Ἡρῴδου written with 's; 14:11 τῇ displaced by αὐτῆς; 14:28 ὁ before Πέτρος; 14:35 τὴν displaced by ἐκείνην; 14:36 τοῦ displaced by αὐτοῦ). Every one is the documented convention difference. None is a genuine error, and no accepted edge was changed.",
+    "One note-level imprecision, deliberately not patched: 14:35 s019 cites rule 90, whose one-English-word arm does not literally apply, the ASV writing 'that' for the article and 'were' for the participle with κακῶς taking 'sick'. The ordinary rule 32 split reaches the identical edges and the identical head, so there is nothing to correct in the alignment and a full-verse patch would change no partition.",
+    "Promotions and amendments are both empty. The two things this chapter decided that the contract does not name by lexeme - a phrasal particle answering to no preverb, and `ἕως οὗ` joined into one aligned unit - are already reached by rules 7 and 17 and by rules 94 and 39 respectively, and the corpus supplied here covers neither. Both are logged as chapter conventions instead of promoted."
+  ]
+}

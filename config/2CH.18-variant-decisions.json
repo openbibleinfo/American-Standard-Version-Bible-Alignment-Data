@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "2CH.18",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2CH.18.8.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'Micaiah' is a proper-name transliteration that fits either the qere spelling (mikayehu) or the ketiv (mikahu); the English does not distinguish the two orthographies, and the only note (alternative_rendering, 'Or, eunuch') concerns 'officer', not this word. Base qere fallback retained."
+    },
+    {
+      "unit_id": "WLC.2CH.18.33.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Turn thy hand' renders a singular noun, matching the qere yadekha (thy hand); the ketiv yadeykha is plural (thy hands), which the ASV does not render. Neither note on the verse (hebrew_gloss 'in his simplicity'; alternative_rendering on the armor) bears on this word."
+    }
+  ]
+}

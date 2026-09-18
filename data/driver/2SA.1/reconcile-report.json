@@ -1,0 +1,26 @@
+{
+  "chapter": "2SA.1",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "naar → 'young man' / 'young men' heads on the class noun (man/men) throughout the chapter (1.5, 1.6, 1.13, 1.15), reading rule 31's tie by the ASV's own use of 'man' alone for words of the same class; 'young' is the alternative head and is named in each note.",
+    "ey mi-zeh ('from where') is read as rule 22's ey-zeh compound with the min between them: where the ASV writes 'From whence' (1.3) the min takes 'From' as its own unit and ey+zeh share the discontinuous 'whence', headed on ey; where the ASV writes only 'Whence' (1.13) all three morphemes share that one word, still headed on ey, and as the verbless clause's predicate the unit also takes the copula 'art' under rule 20."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 27 verses end to end against the candidate table. Every multi-treatment bucket is licensed by the ASV's own wording: waw takes whatever connective is written (And/and/that/when/So/Then/with/neither/so that) and is unrepresented only where the ASV opens bare (2SA.1.2 s001, 1.6 s015 before 'behold', 1.7 apodosis); the dative le after higgid/amar is unrepresented where the ASV writes 'told him'/'tell me' and takes 'unto' where it writes 'said unto' (1.3, 1.8); el after amar is unrepresented only at 1.8 'answered him'.",
+    "The recurring constructions are analysed one way throughout: ha-maggid lo → 'that told him' (article takes the relative, le silenced, suffix 'him') in 1.5, 1.6, 1.13; naar → 'young man/men' headed on man in 1.5, 1.6, 1.13, 1.15; gibborim → 'the mighty' under rule 46 in 1.19, 1.21, 1.22, 1.25, 1.27; bamah → 'high places' headed on high in 1.19, 1.25; halal → 'is slain' with the copula in 1.19, 1.25; supplied 'the' on construct nouns and fronted/arthrous article handling under rule 29 in 1.1, 1.3, 1.6, 1.18, 1.20, 1.25; vocatives take Ye/O in 1.19, 1.21, 1.24.",
+    "ey mi-zeh (1.3, 1.13) is one construction read by what the ASV wrote: 'From whence' splits the min off to take 'From' with ey+zeh fused as 'whence' discontinuously; 'Whence art thou' fuses all three into the one word and takes the copula as the clause's predicate. Not a split. The wayehi frames (1.1, 1.2) follow rule 45: the apodosis 'that' goes to the apodosis waw in both 1.2 frames; 1.1 writes no 'that'.",
+    "Both mi-zeh/ey readings, the et → 'of' at 1.1 (marker attaching the object to the nominalised infinitive 'slaughter'), and 'is ... in' on the be at 1.9 with 'whole' on kol all carry notes naming the alternative, as rule 8 asks.",
+    "BSB disagreements: 8 articles (toponym/predicate/temporal articles the ASV renders bare), 8 prepositions (silenced datives and el/le the ASV recasts), and two waws the ASV leaves unwritten (1.6 before 'behold', 1.7 apodosis). All are documented convention differences; none is an error.",
+    "No patches, no promotions, no amendments. Two conventions recorded: the naar head choice and the ey mi-zeh reading."
+  ]
+}

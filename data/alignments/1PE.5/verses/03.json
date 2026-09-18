@@ -1,0 +1,143 @@
+{
+  "ref": "1PE.5.3",
+  "alignments": [
+    {
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t003",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The compound verb is rendered by the English phrasal idiom 'lording it over'; the pleonastic 'it' and the particle 'over' are helpers on the verb under rule 7, no Greek preposition being expressed for rule 36 to place them on. 2CO.11.19's 'ye bear with the foolish' is the same shape - phrasal verb, articular genitive complement - and keeps the particle on the verb, as PHP.3.2 and JUD.1.21 do; the corpus renders no article 'over'."
+    },
+    {
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Article realized as 'the' under rule 19; the governed genitive carries no case preposition of its own here, 'over' belonging to the verb's idiom, so the article takes a bare 'the' as at 2CO.11.19, JUD.1.21 and TIT.2.13. Rule 21 is not reached: 'over' is not an English case marker for a genitive."
+    },
+    {
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "target": [
+        "t007",
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t007",
+      "status": "aligned",
+      "confidence": "medium",
+      "note": "The ASV expands the single noun into 'charge allotted to you'; the supplied participle and its complement are rule 7 helpers on the noun, none of it italicized. Head on 'charge' as the noun realizing the lexeme, following GAL.4.2's prothesmias -> 'day appointed' headed on 'day'. Medium because rule 91's operational test cannot settle it: the corpus spends neither word on kler-, whose one unit is JHN.19.24 -> 'lots', so 'allotted' remains defensible under rule 66."
+    },
+    {
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t012",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The reflexive 'yourselves' is supplied by the middle participle itself and is its helper under rule 7."
+    },
+    {
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Rule 21: the case preposition 'to' rides with the article, headed on 'the', and the noun stands alone."
+    },
+    {
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    }
+  ],
+  "review_notes": []
+}

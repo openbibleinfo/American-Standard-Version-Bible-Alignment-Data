@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "chapter": "PRO.16",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PRO.16.19.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'with the poor', which renders the ketiv עניים (from עָנִי, poor/afflicted), not the qere עֲנָוִים (from עָנָו, meek/humble). The qere sense is relegated to the margin: the note 'Or, meek' is classed alternative_rendering and does not itself decide, but the choice of 'poor' in the text over 'meek' matches the ketiv's lemma and is the distinguishing wording."
+    },
+    {
+      "unit_id": "WLC.PRO.16.27.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'And in his lips there is as a scorching fire' — plural 'lips', matching the ketiv שפתיו (dual/plural with suffix) rather than the singular qere שְׂפָת֗וֹ 'his lip'. Grammatical number is visible in the English and ASV renders it here; the only note on the verse ('Hebrew diggeth', hebrew_gloss) concerns the verb and is silent on this unit."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "chapter": "2SA.15",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Possessive *have* over an עִם the ASV has already rendered *with*: nothing in the clause makes it possessive (rule 43), so the word is `added` where no interrogative stands (15.36 הִנֵּה עִמָּם → *they have there with them*, *have* added, suffix realized twice as *they … them*); where הֲ stands and the ASV fronts the word as the question auxiliary, the particle takes it under rule 17 (15.35 הֲלוֹא עִמְּךָ → *hast thou not … with thee*, *hast* on הֲ, suffix *thou … thee*). Rule 43's closing sentence keeps the *have* off the particle only where a possessive morpheme is there to hold it.",
+    "כָּל־דָּבָר rendered by a single English indefinite (*anything* 15.11, *everything* 15.36) fuses under rule 30 and heads on כֹּל as the governing construct (rule 23); דָּבָר is the competing head and is named in the note. Where the ASV writes a word for each (15.35 *what thing soever*), rule 2 splits them and כָּל … אֲשֶׁר takes the discontinuous *what … soever*."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 37 verses end to end against the candidate table and the added-unit inventory (22 units). Every bucket that shows two treatments is licensed by a difference in the ASV or the Hebrew: waw takes the connective written for it (and/then/So/but/also/seeing/as/for/therefore/moreover) and is unrepresented only where the ASV opens the clause bare (15.5, 15.25, 15.32 apodoses; 15.12, 15.14 auxiliary-verb pairs; 15.20, 15.30, 15.34); the הָיָה frame keeps its *that* where it stands inside the frame ahead of *when* (15.2, 15.5, 15.32) and hands it to the apodosis waw where the ASV writes it at the apodosis head (15.1, 15.7), exactly as rule 45 divides them.",
+    "Recurring constructions are internally consistent: עַל־יַד → beside (15.2, 15.18); בְּרַגְלֵי → after fused under rule 30 (15.16, 15.17, 15.18); hiphil שׁוּב keeps its again/back particle with the verb (15.8, 15.20, 15.25, 15.29); the article of a multi-level chain whose innermost rectum is anarthrous is fronted one level (15.24 twice, 15.25, 15.29); כָּל־דָּבָר → anything/everything fused and headed on כֹּל (15.11, 15.36); the relative with resumptive שָׁם fuses to one word (15.21 *what*, 15.32 *where*); the suffix of a possessive לוֹ inside a relative clause whose subject the ASV supplies from the antecedent is unrepresented (15.2, 15.4).",
+    "The one pair that looks like a split but is not: 15.35 gives the fronted *hast* of הֲלוֹא עִמְּךָ to the interrogative particle, while 15.36 marks the *have* of הִנֵּה עִמָּם `added`. In both the עִם has already spent *with*, so rule 43 leaves the *have* with no possessive morpheme; in 15.35 the הֲ then takes it as the fronted question auxiliary under rule 17 (the *do* of הֲלוֹא לֶאֱמוּנָה), and in 15.36 no particle stands and the word is unlicensed. Recorded as a convention.",
+    "Added units marked in one verse are not folded elsewhere: *even* (15.12) has no marker on its phrase where 15.21's *even* has a כִּי; *when* and *as* are added only where no בְּ, אֲשֶׁר, כַּאֲשֶׁר or waw stands (15.30, 15.32) and go to those morphemes where one does; *with* in 15.32 subordinates a circumstantial clause (participle + subject) where 15.23's *with* stands before a bare manner accusative under rule 33.",
+    "BSB disagreements (40): all convention differences — silenced dative and לֵאמֹר לְ (R×17), articles the ASV renders by *a* or nothing (Td×7), unrendered waws (C×8), object markers (To×4), the לוֹ suffixes of 15.2/15.4, the unrendered second אַתָּה of 15.19 and the הוּא of 15.30 whose clause the ASV writes without *he*. None is a genuine error; no edge changed.",
+    "Judgment calls carried with notes and left standing: 15.15 *ready to do* added rather than given to the כְּ that takes the copula; 15.36 *son* ×2 added under rule 40's closing sentence rather than joined to the לְ-name possessive under rule 31's elliptical-head sentence — both readings are defensible and the chapter is consistent with itself. Variants 15.8 v001 and 15.20 v002 underdetermined with base retained; 15.28 v003 qere *fords* selected. No promotion or amendment: nothing here generalises beyond what rules 17, 43 and 45 already yield."
+  ]
+}

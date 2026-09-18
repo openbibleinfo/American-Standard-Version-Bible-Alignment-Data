@@ -1,0 +1,29 @@
+{
+  "chapter": "PSA.57",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The refrain of v.5 and v.11 is aligned identically: imperative takes 'Be thou exalted', Sh paragogic he unrepresented, vocative takes 'O God', and the second עַל takes the whole volitive frame 'Let ... be above' as the prepositional predicate (rule 49). The only difference is the article morpheme on שָּׁמַיִם in v.5, which takes the written 'the' there; in v.11 no article stands and the 'the' is supplied on the noun (rule 15).",
+    "English phrasal particles in this chapter — 'up' in 'Awake up' (v.8), 'forth' in 'send forth' (v.3), 'down' in 'is bowed down' (v.6) — are read as part of the verb's rendering under rule 44 and kept in the verb's unit; none states a direction or result the Hebrew clause lacks, so none is marked added. The verse notes name the added reading as the competitor.",
+    "Where the ASV reaches a verbal object suffix through a supplied preposition — 'Be merciful unto me' (v.1, twice), 'give thanks unto thee' and 'sing praises unto thee' (v.9) — the 'unto' joins the verb's unit and the suffix keeps only its pronoun (rule 44's suffix clause); the light-verb phrases head on their complement (merciful, thanks, praises)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 14 candidate groups and the full dump end to end, including the six added units the lemma table cannot see. No cross-verse split found.",
+    "Every candidate is an ASV rendering difference the source licenses: suffix case (me/my/whose/their), waw connectives (Yea/And/and), preposition renderings (in/among/into/when; For/Unto/of), and the article on שָׁמַיִם present in v.5 but absent in v.11, which correctly moves the written 'the' from the article to a supplied one on the noun.",
+    "The refrain (v.5 = v.11), the paired חָנֵּנִי imperatives (v.1), the paired נָכוֹן predicates (v.7), the verb+suffix reached through a supplied 'unto' (v.1, v.9), the three construct nouns taking a supplied 'the' (v.1, v.4, v.6), and the four Sh paragogic he tokens (v.5, v.8, v.11) are each treated identically wherever they recur.",
+    "בְּתוֹךְ fused as 'is among' (v.4) beside בְתוֹכָהּ split as 'into the midst thereof' (v.6) is rule 30's one-rendering condition met in one verse and unmet in the other, not a split.",
+    "Phrasal particles are handled one way throughout: 'up' (v.8), 'forth' (v.3) and 'down' (v.6) all stay with the verb under rule 44; none is marked added. Each verse note names the competing reading.",
+    "BSB disagreements: the four Sh tokens are the documented paragogic-he convention (rule 32); v.8 article on the vocative נֵּבֶל is unrepresented because the ASV writes no 'O' (rule 36); v.9 suffix of אֲדֹנָי is rule 57's lexicalized suffix. None is an error.",
+    "v.9 בַּל־אֻמִּים: MACULA segments the negative particle where the ASV reads 'among the nations'; no variant unit is recorded, so the verse pass aligned as printed under rule 53's closing paragraph and said so. Left as is; no textual decision belongs here.",
+    "No promotion or amendment: nothing this chapter did is beyond the contract as written, and the corpus precedent shown adds no new pattern."
+  ]
+}

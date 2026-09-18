@@ -1,0 +1,6 @@
+# 2 Samuel 12 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Phrasal particles in this chapter are read verb by verb under rule 44's subtraction: hiphil קוּם → 'raise up' (12.11, 12.17), hiphil שׁוּב → 'bring back' (12.23), בּוֹא → 'went in' (12.16, 12.24), אָסַף → 'gather(ed) together' (12.28, 12.29), hiphil עָבַר → 'put away' (12.13) and piel חָיָה → 'nourished up' (12.3) all keep the particle with the verb because the bare English verb does not write the lexeme's completion; none is marked added. The 'up' of 'nourished up' is the least certain of these and its alternative is recorded in the verse note.
+- Where the ASV reorders or subordinates a clause the Hebrew opens with a waw (12.18 'if we tell him', 12.19 'But when', 12.20 'and when'), the waw takes the connective or pair the ASV writes at that clause's left edge under rules 14 and 55, however far the ASV has moved the clause; only a waw for which the ASV writes no connective at all (the bare apodoses of 12.8, 12.19, 12.20 and the second waw of 12.16's לָן/שָׁכַב pair) is unrepresented.

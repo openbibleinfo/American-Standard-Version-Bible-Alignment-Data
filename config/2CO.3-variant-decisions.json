@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "chapter": "2CO.3",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.2CO.3.1.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Orthographic/morphological variation of the same present infinitive (συνιστάνειν / συνιστᾶν); ASV 'to commend ourselves' renders either identically and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.3.1.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the second clause as a disjunctive question, 'or need we, as do some, epistles of commendation', which is ἢ; the RP conditional Εἰ ('if we need') would have produced a conditional clause, not 'or'."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.3.1.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV has one 'of commendation' governing both phrases, 'epistles of commendation to you or from you'; English would not repeat the adjective for the RP second συστατικῶν, so the wording does not distinguish the readings and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.3.5.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only: both readings contain the same words (ἀφ᾽ ἑαυτῶν ἱκανοί ἐσμεν), and English clause order in 'we are sufficient of ourselves' is fixed by English syntax, not by the Greek sequence."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.3.5.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Orthographic variation of the same reflexive pronoun (αὑτῶν / ἑαυτῶν); ASV 'as from ourselves' renders either identically."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.3.7.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The ASV note 'Greek in letters.' glosses 'written' with a plural noun, matching the dative plural γράμμασιν; the Treg singular γράμματι would have been glossed 'in letter'."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.3.7.v007",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "The ASV note 'Greek in.' glosses 'engraven on stones', stating that the Greek word behind 'on' is the preposition 'in'; that presupposes ἐν λίθοις, which only the RP reading supplies — the base has the bare dative λίθοις with no preposition to gloss."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.3.9.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text 'the ministration of condemnation hath glory' renders the dative τῇ διακονίᾳ (glory belonging to the ministration), and the mapped textual_variant note assigns the nominative construction, 'the ministration of condemnation is glory' (ἡ διακονία), to 'many ancient authorities' — i.e. to the reading the ASV did not follow."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.3.9.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'exceed in glory' renders either the bare dative δόξῃ or RP's ἐν δόξῃ; English requires 'in' for the dative of respect regardless, and the verse's only mapped note concerns v008."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.3.10.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Orthographic variation of the same preposition (εἵνεκεν / ἕνεκεν); ASV 'by reason of' renders either identically."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.3.13.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'a veil upon his face' renders the simple αὐτοῦ and the reflexive ἑαυτοῦ alike, since English 'his' with a coreferential subject is unmarked; both notes are alternative_rendering and do not bear on the pronoun."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.3.14.v012",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'until this very day' must supply the noun 'day' for RP's τῆς σήμερον as well as for the fuller τῆς σήμερον ἡμέρας; 'very' is emphasis, not evidence of a second Greek word, and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.3.14.v013",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text reads 'it not being revealed to them that it is done away in Christ' — the conjunction ὅτι introducing the content clause. The relative ὅ τι would give 'which is done away', which the ASV prints only in the margin as an alternative_rendering ('which veil is done away'), not in the text."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.3.15.v014",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'whensoever Moses is read' renders the indefinite temporal clause ἡνίκα ἂν ἀναγινώσκηται with ἄν plus subjunctive; the RP indicative ἀναγινώσκεται without ἄν would give a definite 'when Moses is read'. The same 'whensoever' answers ἄν plus subjunctive in the next verse."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.3.16.v015",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Both readings are ἄν with the subjunctive, differing only in whether the particle is written ἐὰν or elided δ[ὲ] ἂν; ASV 'But whensoever it shall turn' renders either identically, and the sole note is alternative_rendering about the unexpressed subject."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.3.17.v016",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'where the Spirit of the Lord is, there is liberty' does not settle ἐκεῖ: English idiom supplies the correlative 'there' after a 'where' clause and needs 'is' for the verbless Greek clause, so the base reading yields the same wording. The 'there' is not italicized as a supply and no note is mapped here."
+    }
+  ]
+}

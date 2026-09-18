@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "PSA.59",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PSA.59.10.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 59:10 reads 'My God with his lovingkindness will meet me': the third-person suffix 'his lovingkindness' renders the ketiv חסדו, not the qere חַסְדִּי ('my lovingkindness', as in the KJV's 'the God of my mercy'). The verse's only note (alternative_rendering, on 'mine enemies') concerns English wording elsewhere and does not bear on this unit."
+    },
+    {
+      "unit_id": "WLC.PSA.59.15.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 59:15 'They shall wander up and down for food' is an intransitive rendering that fits both the qere hiphil יְנִיע֣וּן and the ketiv qal ינועון; no italicized supply or mapped textual note distinguishes them, so the qere base fallback carries the projection."
+    }
+  ]
+}

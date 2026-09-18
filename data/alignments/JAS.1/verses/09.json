@@ -1,0 +1,131 @@
+{
+ "alignments": [
+  {
+   "note": "Adversative δέ rendered by the clause-initial But.",
+   "source": [
+    "s002"
+   ],
+   "source_head": "s002",
+   "status": "aligned",
+   "target": [
+    "t001"
+   ],
+   "target_head": "t001"
+  },
+  {
+   "note": "Third-person imperative rendered periphrastically; the auxiliary let is an inflection-licensed helper under rules 7 and 9, and rule 17 heads the discontinuous unit on the lexical verb glory rather than on the auxiliary. Rule 15 permits the discontinuity across the intervening subject phrase.",
+   "source": [
+    "s001"
+   ],
+   "source_head": "s001",
+   "status": "aligned",
+   "target": [
+    "t002",
+    "t008"
+   ],
+   "target_head": "t008"
+  },
+  {
+   "note": "Article before its expressed head noun surfaces as the (rule 19).",
+   "source": [
+    "s003"
+   ],
+   "source_head": "s003",
+   "status": "aligned",
+   "target": [
+    "t003"
+   ],
+   "target_head": "t003"
+  },
+  {
+   "note": "Recoverable token pair under rule 26; the article stands as its own unit.",
+   "source": [
+    "s004"
+   ],
+   "source_head": "s004",
+   "status": "aligned",
+   "target": [
+    "t004"
+   ],
+   "target_head": "t004"
+  },
+  {
+   "note": "Second attributive article before ταπεινός has no English realization; rule 23. The ASV writes no relative clause here, so rule 31's carve-out for an article following its noun does not apply and the determiner stays on ἀδελφός with s003; rule 26 forbids bundling the article with the adjective for convenience.",
+   "source": [
+    "s005"
+   ],
+   "source_head": "s005",
+   "status": "unrepresented",
+   "target": [],
+   "target_head": null
+  },
+  {
+   "note": "One Greek adjective rendered by the whole English phrase *of low degree*. The *of* is not a case preposition here — `ταπεινός` is nominative and no Greek preposition governs it — but part of the fixed English adjectival idiom, so it is a rule 7 helper on the word that licenses it and rule 27 forbids splitting it off. Rule 91's test heads the unit on *low*: the corpus spends the `ταπειν-` word on this lexeme in every one of its units — `ταπεινός` → *lowly* twice and *humble*, `ταπεινόω` → *humbled*, *abased*, *humble* and *abasing*, `ταπείνωσις` → *humiliation* at PHP.3.21 — and spends *degree* in none. *degree* is the generic completion rule 17 refuses to head on merely because it is the phrase's formal noun, on the pattern of `πλεονέκτης` → *covetous man*. Rules 84 and 91 make an unbroken corpus a settled head, so this is not a rule 16 hedging case.",
+   "source": [
+    "s006"
+   ],
+   "source_head": "s006",
+   "status": "aligned",
+   "target": [
+    "t005",
+    "t006",
+    "t007"
+   ],
+   "target_head": "t006"
+  },
+  {
+   "note": "Preposition governing the prepositional phrase takes its own English in (rule 36).",
+   "source": [
+    "s007"
+   ],
+   "source_head": "s007",
+   "status": "aligned",
+   "target": [
+    "t009"
+   ],
+   "target_head": "t009"
+  },
+  {
+   "note": "Article displaced by the possessive his, which the genitive αὐτοῦ carries; rule 20 proper, since a source word is present and unspent to take the possessive (rule 76).",
+   "source": [
+    "s008"
+   ],
+   "source_head": "s008",
+   "status": "unrepresented",
+   "target": [],
+   "target_head": null
+  },
+  {
+   "note": "Genitive pronoun realized by the possessive his; τῷ ὕψει αὐτοῦ → his high estate is rule 20's τοῦ θελήματος αὐτοῦ → of his will.",
+   "source": [
+    "s010"
+   ],
+   "source_head": "s010",
+   "status": "aligned",
+   "target": [
+    "t010"
+   ],
+   "target_head": "t010"
+  },
+  {
+   "note": "One Greek noun rendered by an adjective-plus-noun phrase. Rule 91's test heads it on *high*: the corpus spends the `ὑψ-` word on this lexeme in every one of its units — EPH.4.8 `ὕψος` → the bare *high*, headed there, and EPH.3.18 and REV.21.16 → *height* — and spends *estate* in none. *estate* is a generic completion of the kind rule 17 refuses to head on merely because it is the phrase's formal noun. The verse builds the same contrast on the other side, *low degree* against *high estate*, where the paired adjectives carry the sense and the nouns are the parallel completions. Rules 84 and 91 make an unbroken corpus a settled head, so this is not a rule 16 hedging case.",
+   "source": [
+    "s009"
+   ],
+   "source_head": "s009",
+   "status": "aligned",
+   "target": [
+    "t011",
+    "t012"
+   ],
+   "target_head": "t011"
+  }
+ ],
+ "ref": "JAS.1.9",
+ "review_notes": [
+  "Every s### and t### id is partitioned exactly once: ten source units covering s001-s010, and t001-t012 each in exactly one target array. Every head is a member of its own array.",
+  "The unit boundaries and statuses of the accepted alignment are all correct and are returned unchanged. The one correction is to the note on s006, which cited rules 21 and 36 for the of in of low degree. Neither applies: ταπεινός is A-NSM, so there is no genitive or dative case for of to realize under rule 21, and rule 36 is about an English preposition that governs a prepositional phrase answering to an expressed Greek preposition, of which there is none here. The of is part of the English idiom of low degree and is a rule 7 helper on the adjective that licenses it. The token grouping the old note reached is right; only its licence was wrong, and a later reader following that citation would have mis-analysed the next anarthrous adjective phrase it met.",
+  "Both articles are unrepresented for different reasons, and the two should not be read as one pattern: s005 under rule 23 as a second attributive article with no English word (rule 31 is not in play, the ASV supplying no relative clause), s008 under rule 20 as displaced by the possessive his that αΓΉτοῦ carries. Neither was bundled with its noun.",
+  "The two head choices worth a later reader's attention are s006 (low over degree) and s009 (high over estate). Both follow rule 17's generic-completion clause and rule 66's gloss-versus-completion test, and both notes name the competing reading under rule 16. Rule 91 would settle them from what the corpus already spends on ταπεινός and ὕψος; that query was not available here, so the notes argue from the verse's own low/high antithesis instead, and a chapter with corpus access should check the lemma glosses before treating these as precedent."
+ ]
+}

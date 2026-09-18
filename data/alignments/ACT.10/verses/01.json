@@ -1,0 +1,180 @@
+{
+  "alignments": [
+    {
+      "note": "Existential frame: the supplied 'there was' introduces the subject noun. Rule 63's predicate-carrier reading (putting 'there was' on the predicate nominal ἑκατοντάρχης) remains defensible, but the ASV's 'there was' is existential rather than a linking copula, so it is taken as the subject noun's helper under rule 7; the supplied indefinite 'a' is an ordinary rule 51 helper on the anarthrous noun.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "δέ → Now.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "τις → certain.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "ἐν → in.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Caesarea.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Dative of respect rendered 'by name'; the case preposition rides with the noun under rule 21's determinerless clause.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Cornelius.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Anarthrous predicate noun with rule 51's supplied indefinite as a helper.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Expressed preposition ἐκ takes 'of'.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "σπείρης is anarthrous and its article follows it, so under rule 31 the determiner stays on the noun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Postposed attributive article before the participle; the ASV supplies no relativizer for it, and the noun has already taken the determiner under rule 31, so nothing is left for it (rule 23).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "καλουμένης → called.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Substantival adjective with the supplied determiner under rule 58's substantival clause; head on the adjective.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "The italicized second 'band' repeats a noun whose source token σπείρης is already spent on t016, so it is added under rules 5 and 103. Reading it as a discontinuous second realization of σπείρης under rule 15 remains defensible.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    }
+  ],
+  "ref": "ACT.10.1",
+  "review_notes": [
+    "The supplied existential 'there was' is the one materially contested unit; rule 63 would place it on ἑκατοντάρχης instead.",
+    "t020 'band' is handled by rule 103 (repeated lexical content whose source is already realized)."
+  ]
+}

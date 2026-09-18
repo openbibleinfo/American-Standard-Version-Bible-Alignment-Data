@@ -1,0 +1,5 @@
+# Proverbs 6 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **PRO.6.7** — In a negated verbless possessive clause ('eyn + le- + suffix), the possessive preposition carries the ASV's word of having and 'ayin takes only the negation word: PRO.6.7 gives 'having' to the le- under rule 43's verbless-clause sentence and 'no' to 'ayin under rule 50, which heads it on the negation. Rule 43's sentence giving the 'have' to a present hayah does not extend to 'ayin, which is a particle of nonexistence and not a verb; the division is rule 48's, where a present negative morpheme takes the negation word while the other morpheme keeps the rest. The resumptive suffix on that preposition is the unrendered occurrence under rules 22 and 43, because the written relative already carries the resumption and no subject pronoun stands beside it. BSB represents that suffix; the difference is conventional and was not treated as an error.

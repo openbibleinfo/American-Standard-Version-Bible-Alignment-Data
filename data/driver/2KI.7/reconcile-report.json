@@ -1,0 +1,29 @@
+{
+  "chapter": "2KI.7",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Price formula (7.1, 7.16, 7.18): סְאָה/סָאתַיִם are tagged absolute, so סֹלֶת and שְׂעֹרִים are appositional and take the supplied 'of' under rule 33, not rule 19. The copula belongs to הָיָה where it is written (7.16 'was', 7.18 'shall be') and to the בְּשֶׁקֶל predicate where it is not (7.1 'shall be for', rule 49); the ASV's 'sold' names an event the Hebrew never writes and is added in every verse (rule 20).",
+    "רָמַס + object (7.17 vs 7.20): the supplied 'upon' of 'trod upon him' goes to the verb where the object is a bare verbal suffix (7.17 יִּרְמְסֻהוּ, rule 44) and to the object marker where one stands (7.20 יִּרְמְסוּ אֹתוֹ, rule 16 first family). The two verses differ because the Hebrew does, not the analysis.",
+    "Reciprocal idiom 'one to another' (7.3, 7.6, 7.9): אִישׁ → one, רֵעַ/אָח → another, the possessive suffix unrepresented; the ASV writes no possessive for it.",
+    "7.4 apodosis waws before מָתְנוּ: 'we die also' gives also to the waw (rule 51); 'we shall but die' reads but as restrictive 'only', not a connective, so it is added and the waw unrepresented. The competing reading (but to the waw) is named in the note."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 55 candidate lemmas end to end, plus the added units the table cannot see. Every difference is licensed by the ASV's English or by a morpheme present in one verse and absent in the other; no construction is analysed two ways on the same evidence.",
+    "The one pair that looks like a split is not one: 7.17 יִּרְמְסֻהוּ → 'trod upon' gives the supplied upon to the verb (rule 44, object is a bare verbal suffix) while 7.20 יִּרְמְסוּ אֹתוֹ gives it to the object marker (rule 16 first family); the marker's presence is what rule 44's own limit turns on.",
+    "The price formula (7.1, 7.16, 7.18) is consistent: סְאָה/סָאתַיִם are tagged absolute so the appositional סֹלֶת/שְׂעֹרִים take a supplied 'of' under rule 33 not 19; the copula goes to הָיָה where written (7.16 was, 7.18 shall be) and to the בְּ predicate where not (7.1 shall be for, rule 49); 'sold' is added in 7.1 and 7.16 alike.",
+    "7.4 treats the two apodosis waws before מָתְנוּ differently on principle: 'we die also' gives also to the waw (rule 51, settled), while 'we shall but die' reads but as the restrictive adverb 'only' (the sense rule 56 gives a minimizing but), which no morpheme carries, so it is added and the waw unrepresented; the note names the competing reading.",
+    "'and when' (7.5, 7.8) is headed on the coordinator throughout, and 'the man of God' (7.2, 7.17, 7.18, 7.19) fronts the the onto the rectum's article throughout.",
+    "BSB disagreements are all documented convention differences: object markers, לֵאמֹר, dative/possessive לְ the ASV leaves bare, agreement and demonstrative-displaced articles, apodosis waws the ASV opens bare, the lexicalized suffix of אֲדֹנָי, and the suffixes of רֵעֵהוּ/אָחִיו in 'one to another'. None is an error.",
+    "Nothing here generalises beyond what the contract already says; no promotion or amendment."
+  ]
+}

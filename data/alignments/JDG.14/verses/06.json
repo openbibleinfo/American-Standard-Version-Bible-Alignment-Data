@@ -1,0 +1,396 @@
+{
+  "alignments": [
+    {
+      "note": "Waw of the consecutive form takes the ASV's connective under rule 14.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Construct noun with no article morpheme present, so the ASV's *the* is supplied onto it under rule 29.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Nomen rectum carries the relational *of* under rule 19, headed on the name.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "`צָלַח` is rendered *came mightily*; headed on the lexical predicate *came* under rule 24. The competing reading heads on *mightily* under rule 44's light-verb test, since *came* alone is any coming; taken as a full lexical verb rather than a light verb.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Preposition takes its own English word.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Pronominal suffix takes the object pronoun under rule 18.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Waw takes the written *and* under rule 14.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Finite verb with its subject pronoun under rule 17, headed on the lexical verb.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Object suffix takes the object pronoun under rule 18.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Comparative preposition takes the written *as*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Infinitive construct after `כְּ`; the supplied subject pronoun and modal belong to the infinitive under rules 48 and 52, while the preposition keeps only *as*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016",
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Article morpheme with no *the* written for the phrase — the ASV renders *a kid* — so `unrepresented` under rule 29.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The indefinite article belongs to the noun that licenses it under rule 15.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Waw takes the written *and*.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Supplied possessive recasting of an existential clause. Rule 43's count finds no morpheme to carry the *have*: no `הָיָה`, no possessive preposition (the `בְּ` is spent on *in*), no unspent suffix (the suffix is spent on *his*), and no verb the *have* renders — the same shape as `אוֹ תְבַלֻּל בְּעֵינוֹ` → *or that hath a blemish in his eye*. The supplied subject *he* stands with it as one unit under rule 2. The competing reading gives *had* to the existential `אַיִן` as rule 50's frame, but that rule places a supplied dummy, not a referential subject.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t022",
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "One English word for the indefinite `מְאוּמָה` and the existential negative, exactly the `לֹא־יִדְבַּק בְּיָדְךָ מְאוּמָה` → *nought* case of rule 35; headed on the negative, which is what distinguishes *nothing* from *aught*.",
+      "source": [
+        "s015",
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Preposition takes its own word.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "note": "Suffix takes the possessive pronoun under rule 18.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t026"
+      ],
+      "target_head": "t026"
+    },
+    {
+      "note": "Noun takes its own word.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t027"
+      ],
+      "target_head": "t027"
+    },
+    {
+      "note": "Waw rendered by the adversative *but*, which rule 14's open list covers.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t028"
+      ],
+      "target_head": "t028"
+    },
+    {
+      "note": "Negative takes the written *not*; the unit is discontinuous from the verb under rule 25.",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t031"
+      ],
+      "target_head": "t031"
+    },
+    {
+      "note": "Finite verb with its subject pronoun under rule 17.",
+      "source": [
+        "s022"
+      ],
+      "source_head": "s022",
+      "status": "aligned",
+      "target": [
+        "t029",
+        "t030"
+      ],
+      "target_head": "t030"
+    },
+    {
+      "note": "Dative `לְ` rendered as a bare English indirect object — *told not his father* — so `unrepresented` under rule 40.",
+      "source": [
+        "s023"
+      ],
+      "source_head": "s023",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Suffix takes the possessive under rule 18.",
+      "source": [
+        "s025"
+      ],
+      "source_head": "s025",
+      "status": "aligned",
+      "target": [
+        "t032"
+      ],
+      "target_head": "t032"
+    },
+    {
+      "note": "Noun takes its own word.",
+      "source": [
+        "s024"
+      ],
+      "source_head": "s024",
+      "status": "aligned",
+      "target": [
+        "t033"
+      ],
+      "target_head": "t033"
+    },
+    {
+      "note": "Waw rendered by *or* under rule 14's open list of connectives.",
+      "source": [
+        "s026"
+      ],
+      "source_head": "s026",
+      "status": "aligned",
+      "target": [
+        "t034"
+      ],
+      "target_head": "t034"
+    },
+    {
+      "note": "Second dative `לְ` likewise left with no English word under rule 40.",
+      "source": [
+        "s027"
+      ],
+      "source_head": "s027",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Suffix takes the possessive under rule 18.",
+      "source": [
+        "s029"
+      ],
+      "source_head": "s029",
+      "status": "aligned",
+      "target": [
+        "t035"
+      ],
+      "target_head": "t035"
+    },
+    {
+      "note": "Noun takes its own word.",
+      "source": [
+        "s028"
+      ],
+      "source_head": "s028",
+      "status": "aligned",
+      "target": [
+        "t036"
+      ],
+      "target_head": "t036"
+    },
+    {
+      "note": "Object marker with no English word spent on the object relation, which is rule 16's ordinary ruling.",
+      "source": [
+        "s030"
+      ],
+      "source_head": "s030",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Headless relative rendered by *what*; the relative morpheme is written, so rule 46's first rider gives it the word.",
+      "source": [
+        "s031"
+      ],
+      "source_head": "s031",
+      "status": "aligned",
+      "target": [
+        "t037"
+      ],
+      "target_head": "t037"
+    },
+    {
+      "note": "Finite verb with its subject pronoun and auxiliary under rule 17, headed on the lexical verb.",
+      "source": [
+        "s032"
+      ],
+      "source_head": "s032",
+      "status": "aligned",
+      "target": [
+        "t038",
+        "t039",
+        "t040"
+      ],
+      "target_head": "t040"
+    }
+  ],
+  "ref": "JDG.14.6",
+  "review_notes": [
+    "The supplied *he had* of the third colon is the verse's one contested unit: rule 43's count leaves it unlicensed because the `בְּ` and its suffix are both already spent on *in his hand*, while rule 50 would offer it to the existential `אַיִן`. Recorded as `added` with the competing reading named in the unit's note.",
+    "`מְאוּמָה` and `אֵין` are fused on the single *nothing* under rule 35 rather than split with one member `unrepresented`."
+  ]
+}

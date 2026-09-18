@@ -1,0 +1,33 @@
+{
+  "chapter": "2KI.11",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2KI.11.2",
+    "2KI.11.4",
+    "2KI.11.9",
+    "2KI.11.10",
+    "2KI.11.15",
+    "2KI.11.18",
+    "2KI.11.19"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Construct chain with an arthrous rectum the ASV renders with no determiner while writing one 'the' before the construct — שָׂרֵי הַמֵּאוֹת → 'the captains over/of hundreds' (vv. 4, 9, 10, 15, 19), בַּת הַמֶּלֶךְ יוֹרָם → 'the daughter of king Joram' (v. 2), בֵּית/כֹּהֵן הַבַּעַל → 'the house/priest of Baal' (v. 18), זֶרַע הַמַּמְלָכָה → 'the seed royal' (v. 1): the 'the' is fronted from the rectum's article, which takes it, and the construct keeps its bare noun (rule 29). The verse passes supplied it on the construct and left the article unrepresented in seven verses; reconciliation reversed them. Where the ASV writes a 'the' before the rectum's own word as well (עַם הָאָרֶץ → 'the people of the land') or recasts as a possessive ('the king's house/son/sons'), the count is arthrous or possessive and no fronting arises.",
+    "Participial and finite בּוֹא / יָצָא rendered 'come in', 'cometh in', 'go out', 'goeth out', 'go forth', 'brought out', 'Have ... forth' (vv. 5, 7, 8, 9, 12, 15) keep the particle with the verb under rule 44 as completing the entering/exiting lexeme; the competing reading that marks the particle added was rejected throughout."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 43 candidate lemmas. Nearly every bucket difference is ASV-licensed: connectives (But/Then/So/also/Now when/And when/so that), prepositions (about/within/to/by), unrendered apodosis waws, possessive recastings, participial 'in/out/forth' particles, and the 'a third part' / 'a covenant' articles are all consistent across verses.",
+    "One real split, on rule 29's fronting sentence: a construct chain whose arthrous rectum the ASV renders with no determiner while writing a single 'the' before the construct. Verse 1 (זֶרַע הַמַּמְלָכָה → 'the seed royal') gave the fronted 'the' to the rectum's article; verses 2 (בַּת הַמֶּלֶךְ יוֹרָם → 'the daughter of king Joram'), 4/9/10/15/19 (שָׂרֵי הַמֵּאוֹת → 'the captains over/of hundreds') and 18 (בֵּית/כֹּהֵן הַבַּעַל → 'the house/priest of Baal') supplied it on the construct and left the present article unrepresented, which rule 29 forbids in terms ('would leave a present article morpheme holding nothing while a written the went to a supplied reading'), and its proper-name rider covers הַבַּעַל exactly as בְּנֵי הָרָמָה. Patched seven verses; the construct keeps its bare noun and the article takes the 'the'. Nothing else in those verses changed.",
+    "BSB disagreements: the C, To, Sn and R rows are convention (apodosis waws, object markers, paragogic nun, silenced prepositions, repeated בֵּין). Of the 14 Td rows, 8 were genuine errors and are fixed by the patches (11.2 s005, 11.4 s013, 11.9 s004, 11.10 s007, 11.15 s008, 11.18 s008 and s026, 11.19 s005); the remaining 6 are correct (agreement article 11.4 s005; 'a third part' 11.5/11.6; 'shields' and 'king David's' 11.10; 'a covenant' 11.17).",
+    "Left as aligned but noted: 11.15 unit 20 fuses אֶל־מִבֵּית לַ into the one word 'between'; the competing reading leaves אֶל unrepresented under rule 40 and fuses only מִבֵּית לְ. Both are defensible and the verse note records the choice. 11.10's 'had been king David's' fuses לְ with the name across 'king'; the note names the alternative.",
+    "No promotion or amendment: the chapter taught nothing the contract lacks, and the errors were failures to apply rule 29 as written."
+  ]
+}

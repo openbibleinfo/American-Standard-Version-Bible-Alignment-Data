@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "b56d745d0ae6a26f20c4d295d59023ba71380ce6e039a8c926bba53ad03dc254",
+  "contract_version": "ot-hebrew-verse-v133",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 28 source and 41 target ids are partitioned exactly once.",
+    "The 'that city' determiner is placed on the demonstrative pronoun הִוא, leaving both articles unrepresented, on the model of rule 41's `שֵׁם הַמָּקוֹם הַהוּא` → 'the name of that place'.",
+    "t034 'and' is added: the second אֲשֶׁר clause is asyndetic in the Hebrew, so rule 14's closing sentence applies.",
+    "The resumptive suffix on בָּהּ is unrepresented under rule 22 because the ASV writes 'which ... with' — the relative and the stranded preposition each hold their own word and nothing is left for the suffix."
+  ],
+  "ref": "DEU.21.3",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "bd25edb5ca7be787681bcfa5936279e7e46f28b28b6614969d15ffb437a428c6",
+  "contract_version": "ot-hebrew-verse-v159",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: 37 source and 35 target tokens each covered once.",
+    "Flagged large-source unit (אֲשֶׁר + בְּ + suffix → *whereon*) accounted for morpheme by morpheme and retained: the suffix is 3fs and resumes the antecedent הָאָרֶץ, so the one English word carries the relation and the resumption together, rule 30's condition is met, and rule 22 forbids marking the suffix `unrepresented` beside it. Headed on the relative; contiguity is not the condition.",
+    "אִם לֹא → *Surely* fuses under rule 30 and heads on the first token: the word writes neither morpheme's lexeme, so rule 6's fallback and rule 23's pair-of-particles clause agree on אִם. Rule 23's negation-heads clause does not reach it, since *Surely* carries no negation.",
+    "עַד־עוֹלָם is split under rule 2 — *for* to the preposition, *ever* to the noun — because each morpheme has an English word of its own.",
+    "הָיָה carries *shall be* and the resultative לְ before נַחֲלָה is left `unrepresented` (rule 21); the day phrase's two articles are both `unrepresented` beside the demonstrative's written *that* (rules 41, 47)."
+  ],
+  "ref": "JOS.14.9",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

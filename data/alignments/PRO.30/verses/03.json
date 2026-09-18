@@ -1,0 +1,112 @@
+{
+  "alignments": [
+    {
+      "note": "Waw to *And*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Negative to *not*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Finite verb with its subject pronoun and auxiliary under rule 17; discontinuous around *not*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Object noun.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Waw fused with the gapped negation as *Neither* under rule 35; only the waw is written, so only it is aligned.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Construct noun with supplied *the* under rule 29.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Substantival adjective with the *of* of rule 19 and the supplied *the … One* of rules 46 and 31; headed on the lexeme-bearing *Holy*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013",
+        "t014",
+        "t015"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "The finite verb is itself rendered by the possessive *have* under rule 43's clause on a verb the ASV renders by that word, with the subject pronoun kept under rule 17.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t008"
+    }
+  ],
+  "ref": "PRO.30.3",
+  "review_notes": [
+    "The margin's *Or, That I should have the knowledge* was read and set aside under rule 38.",
+    "An alternative reading would leave אֵדָע with *have I* on rule 17 alone; rule 43's subtraction test gives the same array either way."
+  ]
+}

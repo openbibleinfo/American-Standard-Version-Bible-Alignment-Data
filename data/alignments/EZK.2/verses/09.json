@@ -1,0 +1,174 @@
+{
+  "alignments": [
+    {
+      "note": "The ASV recasts this waw's own clause as a temporal subordinate and writes the coordinator and the subordinator together at its left edge, so *And when* is one rendering of the one waw (rules 14, 55); the corpus aligns a waw to *and when* in 27 units, EXO.12.13 וְרָאִיתִי → *And when I see the blood* being the same shape. Headed on *And*, which is what the waw itself is; the corpus heads eleven of those units on *when* instead, and that is the competing reading. The reading this replaces marked *when* `added` by counting one conjunction against two English connectives, which rule 55 now excludes where the two words stand together with nothing between them.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Verb with its subject pronoun, headed on looked (rules 17, 24).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The ASV writes no connective for this waw, only behold; the verse's single written And belongs to s001, whose unit also carries the subordinating when (rule 14).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Presentative particle takes behold.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Noun takes hand; the indefinite a belongs to it (rule 15).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Passive participle takes was put forth with the construction's copula (rule 20); forth is a phrasal particle rather than a complement, so the head stays on the verb (rule 44).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Preposition takes unto.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Suffix takes me (rule 18).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Waw takes and (rule 14).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Second presentative particle takes lo.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "therein fuses the preposition and its suffix in one English word (rule 30), and the verbless clause with a prepositional predicate takes its supplied copula on that unit (rule 49). Headed on the fused word; the source head is the preposition, which carries the relation.",
+      "source": [
+        "s011",
+        "s012"
+      ],
+      "source_head": "s011",
+      "status": "noncompositional",
+      "target": [
+        "t020",
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Construct noun takes roll with its indefinite article (rules 19, 15).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Nomen rectum takes of a book, headed on book (rules 19, 24).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "EZK.2.9",
+  "review_notes": [
+    "And when is one waw's rendering: the coordinator and the subordinator stand together at the left edge of the clause whose waw it is, with no other morpheme's English between them. That contiguity is what distinguishes it from rule 55's own counter-example, where הִנֵּה's behold stands between the waw's and and the supplied if.",
+    "Headed on And; the corpus heads eleven of its twenty-seven and when units on when, and that alternative is named in the unit's note under rule 8.",
+    "The second waw (s003) remains unrepresented: the ASV writes and before lo for s009 and nothing at all before behold."
+  ]
+}

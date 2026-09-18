@@ -1,0 +1,183 @@
+{
+  "alignments": [
+    {
+      "note": "δέ → 'and'.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Improper preposition rendered by a single English word, so no supplied frame is in question and that word is the head (rule 71).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "αὐτῆς → 'it'.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Χερουβίν → 'cherubim'.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Anarthrous genitive with its case preposition; no determiner stands for an article to anchor (rule 21).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "κατασκιάζοντα → 'overshadowing'.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Article → 'the'.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "One Greek noun rendered by 'mercy seat'. The ASV's own gloss is 'the propitiatory', so the ἱλασ- root is what 'mercy' answers to and 'seat' is the locus completion, exactly as ἀρχιερεύς → 'high priest' heads on the root word (rules 17, 66). Heading on 'seat' remains defensible if 'seat' is read as glossing ἱλαστήριον.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "περί realized by the English preposition governing the relative phrase (rule 36).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Relative pronoun expanded with the generic noun 'things', which is the nominal it substantivizes and takes the head (rule 77).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "'cannot' spells the negation and the modal solid, so rule 39's test keeps the pair aligned. The supplied 'we' is not this unit's: ἔστιν is impersonal and 3rd singular, and rule 74 makes an infinitive's supplied subject a helper on the infinitive rather than on the finite verb governing it.",
+      "source": [
+        "s011",
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "νῦν → 'now'.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Greek leaves the infinitive's subject unexpressed and English must write one, so 'we' is λέγειν's rule 7 helper (rule 74), discontinuously under rule 15, exactly as δοκεῖτε … ἔχειν → 'ye think that … ye have' gives the second 'ye' to the infinitive. Keeping 'we' with οὐκ ἔστιν on the ground that it is the English modal's subject remains the competing reading, but rule 74 decides it by which verb the supplied word is an argument of.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "κατὰ μέρος rendered by the single word 'severally', which answers to neither token separately (rule 45), exactly as καθ᾿ ἕνα → 'severally' is recorded.",
+      "source": [
+        "s015",
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "noncompositional",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    }
+  ],
+  "ref": "HEB.9.5",
+  "review_notes": [
+    "Corrected: the supplied 'we' moved from the οὐκ ἔστιν unit to λέγειν under rule 74, which places an infinitive's supplied subject on the infinitive and not on the finite verb governing it. The impersonal 3rd-singular ἔστιν cannot license a 1st-plural pronoun.",
+    "s008 headed on 'mercy' under rule 66's generic-completion test, on the ἀρχιερεύς analogy that the root element takes the head; the competing head 'seat' is named in the unit note."
+  ]
+}

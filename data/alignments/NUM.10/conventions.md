@@ -1,0 +1,8 @@
+# Numbers 10 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Where the ASV renders a verb by the English idiom *take one's journey* (נָסַע at vv.5, 6, 13), the possessive belongs to that verb's own unit and is not `added`: the idiom requires it and it tracks the verb's own subject, exactly as rule 44 keeps a reflexive that renders the verb's voice. Rule 18's closing sentence, which leaves a supplied possessive `added`, governs an emphatic possessive standing on a noun the clause writes for itself, not a determiner inside a light verb's complement. The unit still heads on the complement (*journey*) under rule 44.
+- The Hiphil of רוּעַ rendered *sound an alarm* (vv.7, 9) is read as a light verb plus complement under rule 44 and headed on *alarm*; the competing reading, which takes *sound* for the lexical verb, is named in each unit's note. Both occurrences in the chapter follow the first.
+- בָּ + assimilated article + רִאשֹׁנָה is one fused unit headed on the adjective where the ASV writes a single *first* (v.13), and three units where it writes *in the first place* (v.14). Rule 30's one-English-word condition is read per occurrence, so the two verses are not two treatments of one construction; ISA.60.9 aligns the same phrase as one Rd+Td+Aafsa unit.
+- A compound proper name that MACULA segments into two source tokens of one lemma — צוּרִישַׁדָּי (v.19), פְּדָהצוּר (v.23) — is one unit under rule 30, since the ASV writes one word for it. It carries the construct chain's *of* under rule 19 and takes its first token as the source anchor.

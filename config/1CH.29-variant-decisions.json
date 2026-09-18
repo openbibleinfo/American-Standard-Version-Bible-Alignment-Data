@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "chapter": "1CH.29",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1CH.29.16.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere הוא and ketiv היא differ only in the gender of the third-person pronoun; both render as the same English copula in 'all this store ... cometh of thy hand, and is all thine own'. The ASV supplies no gendered pronoun for this word and carries no note at 1CH.29.16, so nothing in the English distinguishes the readings. Base fallback (qere, which MACULA projects) carries the projection."
+    }
+  ]
+}

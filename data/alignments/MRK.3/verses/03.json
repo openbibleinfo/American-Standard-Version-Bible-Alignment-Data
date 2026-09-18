@@ -1,0 +1,153 @@
+{
+  "alignments": [
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Head on the lexical verb (rule 9).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Case preposition rides with the article, headed on *the* (rules 17, 21).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Head noun.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Second attributive article governing an expressed head noun; the participle carries the supplied relativizer, so the article realizes nothing (rules 23, 31).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "No genitive pronoun competes, so the article is what *his* realizes (rule 20, second arm).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Participle rendered as a finite relative clause; *that* is its helper (rule 31).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Predicate adjective.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Imperative rendered *Stand*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "εἰς … μέσον → the single word *forth*, which answers to neither token separately, so rules 45 and 94 make the pair one unit headed on the governed word. The competing reading gives *Stand forth* whole to Ἔγειρε and leaves all three tokens of εἰς τὸ μέσον unrepresented; I took this one because *forth* renders the directional phrase and not the verb's own sense (the projection's gloss is *Arise into the midst*).",
+      "source": [
+        "s011",
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "noncompositional",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "A noncompositional unit never absorbs an intervening article, which contributes no part of the fused English word (rule 93).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    }
+  ],
+  "ref": "MRK.3.3",
+  "review_notes": [
+    "The ASV compresses Ἔγειρε εἰς τὸ μέσον into *Stand forth*; I split it as *Stand* plus a noncompositional εἰς/μέσον, with τό unrepresented under rule 93.",
+    "τὴν χεῖρα → *his hand* takes the possessive on the article under rule 20's second arm."
+  ]
+}

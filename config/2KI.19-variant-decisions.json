@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "chapter": "2KI.19",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2KI.19.23.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders 'With the multitude of my chariots am I come up', which is the qere b-rob rikbi ('with the abundance of my chariots'); the ketiv b-rekeb rikbi would give 'with the driving/chariotry of my chariots', and the ASV margin marks exactly that as the other reading ('According to another reading, driving'), confirming the ketiv is the marginal alternative and the qere is what the text renders. The remaining note on this verse is an alternative_rendering ('Or, cypress') about fir-trees and bears on no reading here."
+    },
+    {
+      "unit_id": "WLC.2KI.19.31.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text reads 'the zeal of Jehovah shall perform this' with no 'of hosts', i.e. it lacks tseva'ot and so follows the ketiv omission; the ASV note explicitly maps the qere to the margin ('According to another reading, Jehovah of hosts: and so in Isa. 37:32'), so the word stands outside the rendered text."
+    },
+    {
+      "unit_id": "WLC.2KI.19.37.v003",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text reads 'that Adrammelech and Sharezer smote him with the sword' with no apposition 'his sons', so banaiw is absent from what it rendered: the ketiv omission. The ASV note assigns the qere to the margin ('According to another reading, Adrammelech and Sharezer his sons (and so in Isa. 37:38)')."
+    }
+  ]
+}

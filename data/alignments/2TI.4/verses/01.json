@@ -1,0 +1,264 @@
+{
+  "alignments": [
+    {
+      "note": "Inflected verb takes subject *I* and the supplied object *thee* as rule 7/9 helpers; head on the lexical verb *charge*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Improper preposition with a complex frame. Rule 95 classes ἐνώπιον improper despite its PREP tag, and rule 71 heads the frame on its lexical noun *sight*. The ASV gives the governed noun no determiner, so under rule 101 the trailing *of* stays with the adverb (the REV.14.10 shape) and the article anchors nothing.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "No English determiner for *God*; rule 23. The *of* rides with ἐνώπιον's frame rather than with this article, since rule 21 forbids a bare *of* on a determinerless article.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun to noun.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Coordinating conjunction.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Repeated case preposition *of* rides with the noun (rule 21, determinerless); head on the name. Split from Ἰησοῦ under rule 28.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Separately recoverable name, split from Χριστοῦ under rules 17 and 28.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Substantival article before a participle rendered by the single word *who*; rule 90 gives that word to the article as pronoun-and-relativizer at once, the participle keeping its own verb.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "μέλλω + infinitive is rendered as the English future; the auxiliary *shall* is what answers to the participle.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Complementary infinitive to the lexical verb.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Anarthrous substantival participle; rule 51's anarthrous clause makes the supplied *the* an ordinary rule 7 helper on the word it determines, headed on *living*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Coordinating conjunction.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Anarthrous substantival adjective takes its own supplied determiner; rule 58's νεκρῶν → *the dead*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Coordinating conjunction.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "αὐτοῦ occupies the English determiner slot with *his*, so the article realizes nothing (rule 20).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Discontinuous under rule 15. The case preposition *by* stays with the noun because the article carries no determiner to anchor it (rule 21, determinerless clause).",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t022",
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Genitive pronoun rendered by the possessive.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Coordinating conjunction.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "note": "Displaced by the possessive *his* on αὐτοῦ; rule 20.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun to noun.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t027"
+      ],
+      "target_head": "t027"
+    },
+    {
+      "note": "Genitive pronoun rendered by the possessive.",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t026"
+      ],
+      "target_head": "t026"
+    }
+  ],
+  "ref": "2TI.4.1",
+  "review_notes": [
+    "ἐνώπιον is treated as an improper preposition under rule 95 (lexeme, not morph tag), so the frame *in the sight of* is one unit headed on *sight* per rule 71, with rule 101 keeping the trailing *of* on it because the ASV supplies no determiner for *God*.",
+    "The accusative-of-adjuration τὴν ἐπιφάνειαν αὐτοῦ takes *by* on the noun rather than on the article, since αὐτοῦ has already emptied the article under rule 20."
+  ]
+}

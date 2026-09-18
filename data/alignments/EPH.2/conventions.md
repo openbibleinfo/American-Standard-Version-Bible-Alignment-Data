@@ -1,0 +1,6 @@
+# Ephesians 2 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **EPH.2.14** — The ASV's verse division does not match this edition's Greek versification at the 14/15 boundary: the Greek of 'in his flesh the enmity' (ἐν τῇ σαρκὶ αὐτοῦ, τὴν ἔχθραν) sits in the verse 14 source projection, while the ASV renders that clause at the head of verse 15. Because a verse is adjudicated atomically, those source tokens are unrepresented in 14 and the corresponding English is added in 15. Both verses were reviewed and tell the same story about the boundary; neither is an alignment error, and the two sides must not be 'fixed' independently.
+- **EPH.2.18** — Article + ἀμφότερ- (2:14 τὰ ἀμφότερα, 2:16 τοὺς ἀμφοτέρους, 2:18 οἱ ἀμφότεροι): the substantival article takes the English pronoun the ASV supplies for it (them, we) and nothing more, or is unrepresented when the ASV supplies none; ἀμφότερ- always keeps the bare 'both'. The three verses differ in output only because the ASV gives them different material.

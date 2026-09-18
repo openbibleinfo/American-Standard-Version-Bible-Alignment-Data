@@ -1,0 +1,27 @@
+{
+  "chapter": "1SA.24",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "אֲשֶׁר rendered by the compound complementizer *how that* (אֵת אֲשֶׁר after a verb of seeing or declaring, v10 and v18) is one unit on the relative headed on *how*; *that* is the competing head and is named in each note.",
+    "Where יָצָא is rendered *went out* or *is come out* and a מִן follows, the *out* is the verb's lexeme-completing particle under rule 44 and the מִן takes only *of* (v8); where the verb already writes its whole lexeme — קוּם → *rose up*, יָצָא → *cometh forth* — the מִן takes *out of* whole, headed on *out* (v7, v13, v15, v21).",
+    "אֲשֶׁר לְ + proper name rendered as a single English genitive (*Saul's*, v4 and v5) is one three-morpheme unit headed on the name under rules 29 and 49; the article on the noun the possessive stands before is `unrepresented` (v4)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 22 verses end to end against the 48-lemma candidate table. Every bucket that shows two treatments is the ASV rendering the same morpheme differently (his/him, to/unto, in/into, and/but/then/also/therefore/whereas/wherefore/though), or a different construction the coarse signature put in one bucket. No construction is analysed two ways with nothing in the source to license the difference.",
+    "Checked the recurring constructions specifically: אֲשֶׁר לְ + name → one genitive unit headed on the name (v4, v5); הַיּוֹם הַזֶּה with both articles unrepresented beside the demonstrative (v6, v10, v16, v19) against הַיּוֹם → *this day* where no demonstrative stands (v18) and הַיּוֹם → *to day* fused (v10); בֵּין…וּבֵין (v12, v15); presentative וַיְהִי with the apodosis *that* on the apodosis waw (v1, v5, v16); מְשִׁיחַ יְהוָה הוּא with the copula on the predicate noun (v6, v10); the two אֲשֶׁר → *how that* units both headed on *how* (v10, v18). All consistent.",
+    "The four `added` units (v8 *his*, v10 *me*, v10 *mine eye*, v18 *when*) each answer to no morpheme and no other verse folds a comparable word into a neighbour: the dummy *it* of v1 *it was told* and the *some* of v10 *some bade* are subject pronouns of impersonal verbs under rule 17, not lexical supplies.",
+    "v8 *went out of the cave* divides *out* to יָצָא and *of* to מִן, while v7 *rose up out of the cave* and v13 *Out of the wicked cometh forth* give מִן *out of*. That is rule 44's subtraction (*went* alone does not write the exiting; *rose* and *cometh forth* already do) and not a split; recorded as a convention so a later reader does not reopen it.",
+    "BSB disagreements are all documented convention differences: unrendered apodosis and relative-recast waws (rule 14/17), agreement and possessive-displaced articles (rule 41), paragogic he (rule 32), לֵאמֹר and dative לְ, repeated בֵּין, the suffix of חָלִילָה לִּי for which the ASV writes no pronoun, and the suffix of אֶל־בֵּיתוֹ → *home*. None is an error.",
+    "Two hedged single-verse choices stand with their alternatives named in the notes: v14 אֶחָד → *a* (rule 11 priority over rule 15's supplied *a*) and v10 אָמַר → *some bade*. Neither recurs in the chapter and neither is evidence for a general rule, so no promotion or amendment."
+  ]
+}

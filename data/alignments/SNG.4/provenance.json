@@ -1,0 +1,23 @@
+{
+  "artifact_hashes": {
+    "review_receipts_sha256": "35c8c8af6d097b6413b1ef373429bc64166f17551b57e12b9baa86d9456ee638",
+    "source_lock_entries_sha256": "7cedc38af232d421808ad90e5d1d520a4eaa6f4f19fc3ed3f311908647a308aa",
+    "variant_decisions_sha256": "759e710d5abc61b7a0f99321fd4da823c33aaa498f9cd71bf3230ebe6e0a7906",
+    "verse_divisions_sha256": "absent",
+    "verse_responses_sha256": "f2d03c0c6033511b0e3191e49387fc4f2bd778bb14ff9171f3f8aed9f15ad316"
+  },
+  "chapter": "SNG.4",
+  "contract": {
+    "sha256": "cf1d1a8c6799589e9b35cf38acd59f7252bd535525dc4adeb502da3296607d8e",
+    "version": "ot-hebrew-verse-v126"
+  },
+  "created_at": "2026-09-04T22:41:53.441392+00:00",
+  "models": {
+    "alignment": "gpt-6-astra (codex-astra, packed=all)",
+    "reconciliation": "gpt-6-astra (codex-astra)",
+    "review_context": "gpt-6-astra (codex-astra, packed=all)"
+  },
+  "omissions": [],
+  "repository_revision": "fe9ca0b1308e723e72309a23889e736652e1b59f",
+  "testament": "OT"
+}

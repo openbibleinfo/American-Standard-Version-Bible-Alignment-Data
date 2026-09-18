@@ -1,0 +1,17 @@
+{
+  "alignment_sha256": "21561542027562f726c18d69148f9e69a1223312d545c6c0a6a30c220d2d94d6",
+  "contract_version": "nt-greek-verse-v58",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed the accepted alignment; kept its unit boundaries and all heads. The only change is a fuller note on s017 naming *journey* as the live competing head alongside *set*.",
+    "Every s### and t### is partitioned exactly once: s001-s020 with s019 `unrepresented`, and t001-t027 all placed.",
+    "Both infinitives keep their own *to* under rule 61's no-preposition clause: neither is governed by a preposition or a conjunction, so rule 40 is not in play and the marker is an ordinary rule 7 helper.",
+    "s017 is the only multiword unit. *on my journey* is supplied English for the single lexeme προπέμπω; the possessor is the unexpressed first-person subject, so ὑμῶν (s016, the agent) cannot take *my* and rule 11 keeps the supplied words from being `added`.",
+    "s017's head is the one open question. Rule 17's resultative clause selects *forward* over the light *set*; *journey* is the other defensible reading, since the ASV's other renderings of προπέμπω (*bring on one's way*, *set forward on his journey*) retain the noun where they do not retain *forward*. Rule 91 would settle this from what the corpus spends on προπέμπω, but no such row is in the packet, hence `medium`.",
+    "s019 is `unrepresented` under rule 23 rather than grouped with s020: the ASV writes no determiner for Judaea, and rule 21 explicitly refuses a bare *unto* on an article, so nothing is left for it.",
+    "Three prepositions here (s002, s012, s015) sit next to verbs English could read as phrasal; rule 36 keeps the English preposition on each of them in every case."
+  ],
+  "ref": "2CO.1.16",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

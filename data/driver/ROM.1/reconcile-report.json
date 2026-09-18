@@ -1,0 +1,29 @@
+{
+  "chapter": "ROM.1",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Where the ASV supplies 'to be' between kletos and a predicate nominal, the supplied copula rides with the nominal and kletos keeps a bare 'called': ROM.1.1 gives 'to be an apostle' to apostolos, ROM.1.6 gives 'to be Jesus' to Iesou, and ROM.1.7 gives 'to be saints' to hagiois. Rule 53's noun-phrase clause does not reach these, no verbless clause and no subject standing in the phrase, so the placement is a chapter judgment. Placing 'to be' on kletos remains defensible and is named in each unit's note.",
+    "For te ... kai this chapter counts the English connective words the ASV wrote at the juncture, and 'and also' counts as two: ROM.1.16 gives 'and' to te and 'also' to kai, as ROM.1.27 does across the intervening 'likewise'. Where the ASV writes one word the kai takes it and te is unrepresented under rule 70, as at ROM.1.20; and at ROM.1.26, where no kai answers, the single 'for' answers to the expressed gar and te is likewise empty. Reading 'and also' as one connective on kai, with te unrepresented, remains defensible and is named at ROM.1.16."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v108",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 52 candidate lemma groups and read the dump end to end for splits the table cannot see (it is keyed by source lemma, so it is blind to the chapter's two `added` units). No construction is analysed two ways without something in the source or in the ASV's own wording to license the difference. No patches.",
+    "te/kai is the group worth naming. The chapter applies one test throughout: count the English connective words the ASV wrote at the juncture. Two words, each particle keeps one (1.12 and 1.14 both/and; 1.16 and 1.27 and/also). One word, it is the kai's and te is unrepresented (1.20). At 1.26 te has no answering kai and the single 'for' answers to the expressed gar, so te is empty there too. Internally consistent; whether 'and also' counts as two words is the chapter's most contestable call, named in the note at 1.16 and now in the log.",
+    "kathos at 1.13 ('even' to the answering kai, bare 'as' to the comparative) against 1.28 ('And' to the leading connective, 'even as' whole on kathos) is not a split: the kai at 1.28 precedes kathos as a sentence connective and answers nothing. Rule 82 draws that contrast itself and forbids deciding it from how the comparative was rendered where a different word stood.",
+    "Supplied 'even' is folded onto the anarthrous name at 1.4 and marked `added` at 1.20. That reads like a split from the English side and is not one: rule 105 decides by carrier class, an anarthrous name folding and an articular noun phrase not, and says in terms that a chapter writing both need not match them. 1.20's unit has no source token, so no candidate group could have surfaced it.",
+    "Other groups checked and cleared: eis to + infinitive is one analysis at 1.11 ('to the end', headed on 'to') and 1.20 ('that'), the article empty both times (rules 24, 61); articles before participles divide by whether the article precedes or follows an expressed head noun (1.4 against 1.3 and 1.18) and by how many English words the ASV wrote for the pair (1.7 against 1.16 and 1.32); supplied determiners go to the noun and never the attributive adjective throughout (1.2, 1.4, 1.28) and to the article wherever one stands (1.17, 1.23); the para- preverb keeps 'up' inside the verb at 1.24, 1.26 and 1.28; 'of' with a genitive stays on the noun wherever the ASV writes no determiner (1.10, 1.19, 1.25, 1.32) and on the article wherever it does (1.20, 1.23, 1.27).",
+    "The 1.9/1.10 versification is handled on both sides as rule 37 requires: 1.9 carries the `added` 'always in my prayers' naming 1.10, and 1.10's five orphaned tokens each name 1.9.",
+    "BSB: none of the 14 disagreements is an error. Four are the 1.9/1.10 versification tokens, which rule 37 says a comparison will report and that report is not a correction. Nine are articles emptied under rules 20 (1.9, 1.24 ton, 1.27), 31 (1.3, 1.18), 61 (1.24 tou), 93 (1.13), 30 (1.25) and 49 (1.32). One is te at 1.26 under rule 70. All are the documented convention difference; nothing here should be changed to move the rate.",
+    "Two verse-local readings remain genuinely contestable and are already noted where they stand, so I left them: 1.28 joins ouk edokimasan as one aligned unit on 'refused' (rule 39's test applied to a suppletive rather than transparent English word), and 1.20 heads poiema on 'things' by analogy with rule 66's ktisma. Neither recurs in the chapter, so neither is a consistency question.",
+    "No promotion. The only recurring underdetermined point is whether 'and also' is one connective or two, and the corpus cuts both ways on it: kai alone takes 'and also' as a single unit in five units, which is not evidence for splitting when te stands and not evidence against it either. A rule written on two local units and no corpus support would be the weak rule the brief warns about, so this is logged as a convention instead."
+  ]
+}

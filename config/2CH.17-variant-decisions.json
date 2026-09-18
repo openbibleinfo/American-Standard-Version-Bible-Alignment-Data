@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "chapter": "2CH.17",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2CH.17.8.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Shemiramoth' transliterates the qere consonant order sh-m-y-r-m-t (yod before resh); the ketiv ושמרימות (sh-m-r-y-m-t, yod after resh) would yield 'Shemrimoth'. The ASV's spelling matches the qere."
+    }
+  ]
+}

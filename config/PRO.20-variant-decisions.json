@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "chapter": "PRO.20",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PRO.20.4.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere and ketiv differ only in the conjunctive waw; both read 'he shall ask/beg in harvest'. ASV's 'Therefore he shall beg in harvest' opens the clause with a discourse connective that the ASV also supplies in its margin ('Or, Therefore when he seeketh in harvest'), so 'Therefore' is the translators' English link and not a rendering that requires the waw. The one note here is classed alternative_rendering and concerns the English wording of the clause, not the reading. Nothing in the verse distinguishes the two; base fallback (qere) carries the projection."
+    },
+    {
+      "unit_id": "WLC.PRO.20.16.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV renders the plural 'that is surety for foreigners', matching the ketiv נכרים (masculine plural), and its mapped textual_variant note relegates the qere to the margin: 'Another reading is, a foreign woman' — i.e. נָכְרִיָּה, the feminine singular base candidate, is what the ASV declined in the text. Text and note together put the ketiv in the ASV's line."
+    },
+    {
+      "unit_id": "WLC.PRO.20.20.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "בֶּאֱשׁוּן and באישון are orthographic variants of the same word for the pupil/black of darkness; they carry no difference in sense. ASV 'shall be put out in blackness of darkness' renders either identically, and the verse carries no note. Base fallback (qere) carries the projection."
+    },
+    {
+      "unit_id": "WLC.PRO.20.21.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'An inheritance may be gotten hastily at the beginning' — 'hastily' is the sense of the qere מְבֹהֶלֶת (root בהל, to hasten). The ketiv מבחלת is from בחל, greed or loathing, which would yield 'gotten greedily' or 'loathed'; the ASV shows no trace of that sense in the text and gives no note offering it. The wording distinguishes the qere."
+    },
+    {
+      "unit_id": "WLC.PRO.20.30.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The candidates differ as noun (תַּמְרוּק, a cleansing/scouring) against verb (תמריק, scours away), with the same lexical sense of cleansing in both. ASV 'Stripes that wound cleanse away evil' is an English finite verb, which renders a predicate noun in construct as readily as a finite Hebrew verb, so the clause does not discriminate the forms. No note attaches to the verse. Base fallback (qere) carries the projection."
+    }
+  ]
+}

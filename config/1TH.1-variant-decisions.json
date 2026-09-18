@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "chapter": "1TH.1",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.1TH.1.1.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 1:1 ends the salutation at \"Grace to you and peace.\" with nothing rendering ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ; the longer reading r01 would require \"from God our Father and the Lord Jesus Christ\", which the ASV does not print, italicized or otherwise."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.1.2.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 1:2 reads \"making mention of you in our prayers\". The earlier \"for you all\" already renders περὶ πάντων ὑμῶν, so the unitalicized \"of you\" attached to \"making mention\" answers to a second ὑμῶν with μνείαν; the base reading leaves it unaccounted for."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.1.4.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is the presence or absence of the article with θεοῦ. ASV 1:4 \"beloved of God\" is the same English either way — Greek article before a proper divine name is not rendered — so nothing in the wording and no mapped note distinguishes the readings."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.1.5.v004",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 1:5 repeats the preposition through the series: \"in power, and in the Holy Spirit, and in much assurance\". Each conjoined member carries its own \"in\", which answers to καὶ ἐν rather than bare καὶ. The verse's two notes are alternative_rendering and a greek_gloss and bear on English wording, not on this reading."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.1.5.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 1:5 prints \"in\" before every member of the series (\"in power, and in the Holy Spirit, and in much assurance\"), with no member left to share a preposition; the reading that omits ἐν would leave one of those \"in\"s unrepresented. The verse's notes are alternative_rendering and a greek_gloss and do not touch the reading."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.1.7.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 1:7 reads \"ye became an ensample\", singular, against the plural τύπους of r01, which the ASV would render \"ensamples\"."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.1.7.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 1:7 writes \"in Macedonia and in Achaia\", repeating the preposition before the second name; the reading that omits ἐν leaves the second \"in\" without a warrant."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.1.8.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 1:8 writes \"not only in Macedonia and Achaia\", with no preposition before Achaia; r01's ἐν τῇ would surface as \"and in Achaia\"."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.1.8.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 1:8 has \"not only ... but in every place\" with no \"also\"; r01's ἀλλὰ καὶ would be rendered \"but also in every place\"."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.1.8.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is only the order of ἔχειν and ἡμᾶς within the infinitive clause. ASV 1:8 \"we need not to speak anything\" restructures the clause into English word order and cannot show which Greek order stood behind it; no mapped note addresses it."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.1.10.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἐκ and ἀπὸ are both rendered \"from\" in ASV 1:10 (\"from heaven\" / \"from the dead\"); the English preposition does not distinguish them and there is no note on the verse."
+    }
+  ]
+}

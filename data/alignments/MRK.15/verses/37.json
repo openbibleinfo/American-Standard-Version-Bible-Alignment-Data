@@ -1,0 +1,96 @@
+{
+  "alignments": [
+    {
+      "note": "Article before the name Ἰησοῦς; the ASV writes no determiner for it (rule 23).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Connective δέ rendered by the verse-opening And.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Name on its own English word, split from its article under rule 26.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Circumstantial participle converted to a finite verb; it keeps only uttered, the supplied juncture and going to the following finite verb under rule 88.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Both φωνήν and μεγάλην are anarthrous, so the supplied determiner a belongs to the noun and the phrase is discontinuous under rules 58 and 15.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Attributive adjective on its own English word, the determiner having gone to the noun under rule 58.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The supplied juncture and is a rule 7/29 helper on the finite verb it introduces (rule 88). Head on ghost as the meaning-bearing complement of the support verb gave up under rule 17; heading on gave remains defensible, but gave carries no part of ἐκπνέω's own sense.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    }
+  ],
+  "ref": "MRK.15.37",
+  "review_notes": [
+    "s001 left unrepresented per rule 23 (article before a name); a reference comparison reporting it is not a correction.",
+    "The whole of t007–t011 is kept on ἐξέπνευσεν rather than splitting the juncture off as added, since a participle-to-finite conversion stands in the same clause (rules 88, 98)."
+  ]
+}

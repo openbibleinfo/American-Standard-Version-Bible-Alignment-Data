@@ -1,0 +1,80 @@
+{
+  "schema_version": 2,
+  "chapter": "1KI.20",
+  "policy": "One Hebrew verse's words fill two different ASV places here. Read both texts, find the Hebrew word the second part begins at, and record its 1-based position within the Hebrew verse together with its consonants. The targets and the notes beside them are derived from the versification table; only the position is a judgment. The build checks the position and the consonants against each other and refuses the chapter until every entry is resolved.",
+  "divisions": [
+    {
+      "source_verse": 3,
+      "status": "resolved",
+      "first_target": "1KI.20.2",
+      "first_target_is": "the tail of ASV 1KI.20.2",
+      "second_target": "1KI.20.3",
+      "second_target_is": "the whole of ASV 1KI.20.3",
+      "second_begins_at_word": 7,
+      "second_begins_with": "כספך",
+      "evidence": "ASV 1 Kings 20:2 renders the whole of Hebrew verse 2 and then words 1-6 of Hebrew verse 3 (וַיֹּאמֶר ל֗וֹ כֹּה אָמַר בֶּן הֲדַד) as “and said unto him, Thus saith Ben-hadad,” ASV 20:3 begins at word 7, כַּסְפְּךָ֥, rendered “Thy silver and thy gold is mine; thy wives also and thy children, even the goodliest, are mine.” The two ASV verses account for all fifteen words of Hebrew 3 with no overlap.",
+      "hebrew_words": [
+        {
+          "word": 1,
+          "text": "וַ/יֹּ֣אמֶר"
+        },
+        {
+          "word": 2,
+          "text": "ל֗/וֹ"
+        },
+        {
+          "word": 3,
+          "text": "כֹּ֚ה"
+        },
+        {
+          "word": 4,
+          "text": "אָמַ֣ר"
+        },
+        {
+          "word": 5,
+          "text": "בֶּן"
+        },
+        {
+          "word": 6,
+          "text": "הֲדַ֔ד"
+        },
+        {
+          "word": 7,
+          "text": "כַּסְפְּ/ךָ֥"
+        },
+        {
+          "word": 8,
+          "text": "וּֽ/זְהָבְ/ךָ֖"
+        },
+        {
+          "word": 9,
+          "text": "לִֽ/י"
+        },
+        {
+          "word": 10,
+          "text": "ה֑וּא"
+        },
+        {
+          "word": 11,
+          "text": "וְ/נָשֶׁ֧י/ךָ"
+        },
+        {
+          "word": 12,
+          "text": "וּ/בָנֶ֛י/ךָ"
+        },
+        {
+          "word": 13,
+          "text": "הַ/טּוֹבִ֖ים"
+        },
+        {
+          "word": 14,
+          "text": "לִ/י"
+        },
+        {
+          "word": 15,
+          "text": "הֵֽם"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "alignments": [
+    {
+      "note": "",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "One adverb rendered by the supplied frame *in … manner*; the head is *like*, the word carrying the lexeme's similarity sense, *manner* being the frame's generic completion exactly as rule 99 treats *manner of*. Corrected at reconciliation from *manner*: the corpus heads this English string on *like* in ten of its thirteen units and on *manner* in three, and heads this same lemma on *like* at 1TI.5.25. A head on *manner* remains defensible and is what LUK.22.20 and MRK.14.31 took, both conceding *like* in their own notes.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Verbless clause with an adjectival predicate: the supplied *must be* is a rule 53 helper on the adjective, and rule 11 keeps the ASV's italics from making it `added`.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Compound adjective rendered by a compound; head on the governing element *tongued*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Bare dative with no determiner: the case preposition *to* rides with the noun under rule 21's determinerless clause, discontinuously under rule 15. Reading *given to* as one phrasal unit on the participle is the competing analysis, refused because rule 36 keeps a governing English preposition off the verb.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "One compound adjective rendered *greedy of filthy lucre*: *filthy* glosses αἰσχρο- and *lucre* κερδ-, while *greedy of* is the supplied frame answering to neither element separately, so rule 17 heads on the compound's own head element, *lucre*. This is the reading 1TI.3.2's φιλόξενον → *given to hospitality* takes, heading on the glossed element as TIT.1.8 and 1PE.4.9 do. TIT.1.7 heads this identical English on *greedy*, in the corpus's one other unit of this lemma and with no head reasoning recorded; that reading remains defensible and the divergence is entered in the chapter's conventions.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018",
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    }
+  ],
+  "ref": "1TI.3.8",
+  "review_notes": [
+    "Every s### and t### partitioned exactly once; the patch changes two target heads and two notes and moves no edge.",
+    "ὡσαύτως is analysed identically here and at 1TI.3.11 under rule 24, now on *like* in both.",
+    "Both μή particles stand with plain adjectives and nouns, not with negative indefinites, so rules 41 and 59 are not in question."
+  ]
+}

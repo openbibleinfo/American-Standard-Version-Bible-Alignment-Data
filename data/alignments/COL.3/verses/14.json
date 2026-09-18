@@ -1,0 +1,151 @@
+{
+  "alignments": [
+    {
+      "note": "Preposition.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Quantifier.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Connective particle rendered 'and', fronted in English (rule 15).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Substantival demonstrative expanded with the generic noun 'things'; the demonstrative stays the head (rule 17).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The supplied imperative has no licensing token in this verse: ἀγάπην's English ('love') is complete and no verb is expressed here, the governing imperative standing back at 3:12. Rule 103's licensing test therefore makes it `added` rather than a rule 7 helper. Folding it onto s006 remains defensible if the ellipsis is read as part of that noun's English.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The ASV writes no determiner for 'love' (rule 23).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Relative pronoun; SBLGNT.COL.3.14.v007 is underdetermined (r00-base, r01) and the English is indifferent.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Expressed copula.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Anarthrous predicate noun with supplied determiner as helper (rule 51).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "No English determiner for 'perfectness' (rules 21, 23).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Case preposition rides with the determinerless noun (rule 21).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "COL.3.14",
+  "review_notes": [
+    "ἐπὶ πᾶσιν τούτοις is an adjunct rather than a predicate, so rule 62 does not put the supplied verb on the preposition; the verb is marked `added` under rules 5 and 103 with the competing reading noted.",
+    "The article at s005 is emptied by the ASV's bare 'love', not by any displacing possessive."
+  ]
+}

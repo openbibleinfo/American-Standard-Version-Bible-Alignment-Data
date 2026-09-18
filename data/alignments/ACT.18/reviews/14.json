@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "4aecadf2f42158daff554e090beaafb3175d9eba3492ebfe2b11014e82907c54",
+  "contract_version": "nt-greek-verse-v83",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "The accepted alignment folded the supplied 'that' into ἀνεσχόμην's unit. Rule 85 does not reach it — the Greek verb is a finite indicative and the sentence's main verb, not a non-finite complement expanded into a finite clause — so rule 86's test applies and no source token licenses the word.",
+    "ἄν is aligned to 'would' under rule 50; leaving it unrepresented would be a correction against the corpus.",
+    "τι takes the indefinite determiner 'a' as its own unit; folding it into ἀδίκημα's phrase and marking τι unrepresented remains defensible, but rule 2 prefers the split.",
+    "κατά is unrepresented because the ASV turns κατὰ λόγον into the subject 'reason' and writes no word for the preposition."
+  ],
+  "ref": "ACT.18.14",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

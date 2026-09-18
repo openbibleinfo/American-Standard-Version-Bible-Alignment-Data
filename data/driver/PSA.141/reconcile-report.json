@@ -1,0 +1,27 @@
+{
+  "chapter": "PSA.141",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Where the ASV renders a single connective or relational morpheme standing over a clause by two English words -- one realizing that morpheme's own lexeme and the other a bare subordinator the recast clause needs in English -- both words are that morpheme's one unit and neither is `added`, headed on the word that writes the lexeme. כְּמוֹ -> 'As when' (v7) and עַד -> 'Whilst that' (v10) are each read that way, headed on 'As' and 'Whilst'. This is rule 55's coordinator-plus-subordinator carve-out read by its own direction to take the connective that is there and not its lemma, extended here to a comparative particle and to a temporal preposition. The competing reading marks the second word `added` under rule 55's first sentence; it is named in each verse's notes and was set aside because a connective morpheme does stand over each clause, so the count rule 55 runs finds no surplus."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v204",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 10 cross-verse candidate groups, and read the dump end to end for the `added` units the lemma table cannot see. Every difference the table flags is licensed by what the ASV wrote, not by a difference in analysis; no verse is corrected.",
+    "Preposition + יְדֵי is the one construction the chapter analyses two ways, and it is not a split. PSA.141.6 בִידֵי־סֶלַע -> 'by the sides of the rock' divides, because the ASV writes 'by' for the preposition and 'sides' for the construct noun, so each morpheme has a rendering of its own and rule 2 splits them. PSA.141.9 מִידֵי פַח -> 'from the snare' fuses under rule 30, because one English word stands for the pair and nothing in the phrase writes יָד's lexeme; marking יָד unrepresented there is exactly what rule 30's closing prohibition forbids. That is rule 30's one-rendering test applied in both directions.",
+    "פֹּעֲלֵי אָוֶן in PSA.141.4 and PSA.141.9 is the table's other real pair, and is likewise ASV-licensed. In v4 the ASV writes the participle as a finite verb ('men that work iniquity'), so rule 19's own limit -- a participle written as an English verb is not a noun holding a construct relation -- leaves no 'of' to place and אָוֶן takes the bare object. In v9 the participle is the rectum of מֹקְשׁוֹת and is written as a noun ('of the workers of iniquity'), so rule 19 places both 'of's. The v4 note already records that a rule 46 substantival reading gives the same unit and the same head.",
+    "Supplied relatives and subordinators are counted consistently, which is where a clean table can still hide a split. PSA.141.4's 'that' joins the articleless attributive participle under rule 41 -- the participle follows its noun, no subject pronoun stands in the clause, and no coordinated finite clause hangs under it. PSA.141.7's 'when' and PSA.141.10's 'that' join כְּמוֹ and עַד as the second word of one rendering. PSA.141.9's 'which' is `added` because a written antecedent פַח stands beside a finite clause with no relative morpheme in it, which is rule 46's own excluded case sent on to rule 55. Nothing is folded into a licensing morpheme in one verse and marked `added` in another.",
+    "Two further groups checked and cleared: the four supplied comparative 'as' words (v2 twice, v5) all go to the bare nominal they stand before under rule 33, and the three supplied 'it's of v5 are consistently divided into an `added` pronoun plus a copula joining the predicate under rule 20, with the competing whole-frame reading named in the verse's notes.",
+    "BSB: all 7 disagreements are documented convention differences and none is a genuine error. Four are the paragogic/cohortative he on imperatives in v1 and v3, which rule 32 leaves unrepresented and BSB attaches to its host. עַל in v3 and בָּ in v7 are prepositions whose objects the ASV promotes to bare English objects ('Keep the door of my lips', 'cleaveth the earth'), unrepresented under rule 40, which the report itself names as the usual source of this disagreement. The v8 י is the lexicalized suffix of אֲדֹנָי, unrepresented under rule 57 across 250 corpus units. No accepted edge was changed.",
+    "Promotion declined. The chapter's one generalisable judgment is that כְּמוֹ -> 'As when' and עַד -> 'Whilst that' are each one rendering of one morpheme, which reaches past rule 55's coordinator-plus-subordinator shape to a comparative and to a temporal preposition. The corpus tables supplied cover neither lemma, so promoting on two in-chapter instances would fix a rule the precedent has not tested; it is recorded as a convention instead.",
+    "The four repeated review notes the validator lists (supplied 'the' on a construct under rule 29, twice phrased; finite verb with subject pronoun and auxiliary under rule 17; jussive frame under rule 17) are verbatim restatements of contract rules that already bind every verse, so none is recorded as a convention."
+  ]
+}

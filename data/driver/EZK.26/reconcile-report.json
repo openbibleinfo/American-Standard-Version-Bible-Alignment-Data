@@ -1,0 +1,28 @@
+{
+  "chapter": "EZK.26",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "מִשְׁטַח חֲרָמִים (vv. 5, 14) is divided with מִשְׁטָח taking the whole multi-word rendering 'a place for the spreading', headed on spreading (rule 31), and חֵרֶם taking 'of nets' (rule 19). The supplied 'place', 'for' and 'the' complete that one substantive's phrase and are not read as the construct relation, which the rectum's own 'of' already carries.",
+    "In נָתַן + לִצְחִיחַ סָלַע (vv. 4, 14) the resultative לְ is its own unrepresented unit (rules 21, 40): נָתַן is present and rendered 'make', and the ASV writes the complement bare. The chain is rendered attributively, so צְחִיחַ takes 'bare' (rule 28) and סֶלַע takes 'a rock' with its indefinite article (rule 15).",
+    "In the formula כִּי אֲנִי (יְהוָה) דִּבַּרְתִּי → 'for I [Jehovah] have spoken it' (vv. 5, 14) the object pronoun 'it' is added: no object morpheme stands in the clause, so under rule 44 it does not join the verb merely by standing inside its rendering.",
+    "In the divine title אֲדֹנָי יְהוִה (vv. 3, 5, 7, 14, 15, 19, 21) the ASV's 'the' before 'Lord' is a supplied article belonging to the nominal expression (rule 15), and the frozen 1cs suffix of אֲדֹנָי is its own unrepresented unit (rule 22). BSB represents that suffix; the divergence is conventional and is the largest single block of BSB disagreements in this chapter."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v78",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Cross-verse check: all 42 candidate lemma groups examined. Every multi-treatment bucket is a difference the ASV licenses, not a split — הוּא (possessive vs. object vs. subject pronoun by syntactic slot), וְ (And/and/Then/then/yea/yet/though/also, each the connective the ASV actually writes, rules 14 and 51), בְּ (in/with/against/into, and 'when' before an infinitive under rule 52), עַל (against/at/over/upon), לְ (to/of/on/every against the four unrepresented recastings), מִן (from/of/at/by/by reason of), and the verb lemmas נָתַן, יָשַׁב, יָרַד, הָיָה, whose buckets are one occurrence each and wholly ASV-driven.",
+    "Recurring formulas verified identical across the verses they touch: מִשְׁטַח חֲרָמִים → 'a place for the spreading of nets' (5, 14); נָתַן ... לִצְחִיחַ סָלַע → 'make ... a bare rock' with the resultative לְ unrepresented (4, 14); 'for I [Jehovah] have spoken it' with the supplied 'it' added (5, 14); rule 47's doubled article resolved onto the head noun's own article (17, 19); rule 52's temporal בְּ + infinitive divided preposition / verb / subject-suffix (10, 15, 19); anarthrous substantival participles taking a supplied 'them that' or 'that' (15, 17, 20); object markers unrepresented (4, 11, 16, 19) while אֵת H854 takes 'with' (20). No construction is analysed two ways.",
+    "The supplied-relative family looked like a split and is not one. v.2 marks 'that*' and 'now that' added under rule 55 because each subordinates a clause the Hebrew merely juxtaposes, while vv. 10, 17 and 20 fold 'wherein', 'that wast' and 'that are' into the attributive or substantive they expand (rules 41, 46). The test the chapter applied throughout is whether the frame makes a noun phrase out of one source word or subordinates one clause to another. v.2's italic 'was*' still goes to the predicate noun as rule 20's construction-supplied copula, so only the subordinator is added.",
+    "BSB: 17 disagreements, 16 of them documented convention differences and none an error — the five לְ (rules 27, 21, 40), the seven frozen אֲדֹנָי suffixes (rule 22), the two object markers (rule 16), and the two articles at EZK.26.17 s017 and EZK.26.19 s031, where rule 47 positively requires the single written 'the' to go to the head noun's own article and the agreement article to be unrepresented.",
+    "The one substantive BSB disagreement is EZK.26.9 מְחִי. The chapter marks it unrepresented and gives the whole 'battering engines' to קָבָל under rule 31; BSB represents it. The competing reading — מְחִי → 'battering', קָבָל → 'engines', which satisfies rule 2 and leaves nothing unrepresented — is genuinely defensible, and that unit's note names only the rejected rule-30 fusion, not this one. I left the accepted edge standing, because 'battering engine' is plausibly one English term for קָבָל with 'the blow of' dropped in the recast object, and an accepted edge is not changed to move a comparison figure. A later reader now has both readings recorded against that unit.",
+    "No promotion. The one general question the chapter raised is EZK.26.10 מְבוֹאֵי → 'men enter', where a Hebrew noun is recast as a finite clause and the ASV supplies a generic subject: rule 17's sentence would make 'men' added, rule 46's מִבְטַחַיִךְ rider would fold it into the noun's unit. The verse pass folded it in and named the alternative in its note. One occurrence, and no corpus rows for it, so a rule written off it would be a permanent generalisation from a single datum standing against rule 17's explicit wording."
+  ]
+}

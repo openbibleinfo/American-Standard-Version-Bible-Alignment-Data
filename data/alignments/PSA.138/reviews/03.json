@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "4184d51be3c13161d6a3a87193693c612b406653d83e27128b93412aaf46b3e3",
+  "contract_version": "ot-hebrew-verse-v206",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "The supplied 'that' is correctly `added`. MACULA tags יוֹם as absolute (Ncmsa), so no construct relation stands to carry the word under rule 19 or rule 52's `עֵת הִדְרִיכָהּ` division, and קָרָאתִי is a finite clause juxtaposed to a written antecedent, which rule 46 excludes in its own terms. Rule 55 governs and no morpheme licenses it.",
+    "The apodosis waw (s004) is `unrepresented`: the ASV opens 'thou answeredst me' bare, and the supplied 'that' stands ahead of the temporal clause rather than at the apodosis head, so rule 45's waw case does not reach it.",
+    "s001 בְּ is pointed with shewa and no article token is segmented; the gloss's bracketed '[the]' is a display artifact under rule 39, so the written 'the' is supplied and joins יוֹם under rule 15.",
+    "עֹז → 'with strength' is rule 33's adverbial accusative of manner, not rule 44: the verb's own object is the suffix s008, so no verb governs עֹז as its object and the supplied 'with' states what the bare nominal contributes. Head stays on 'strength'."
+  ],
+  "ref": "PSA.138.3",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

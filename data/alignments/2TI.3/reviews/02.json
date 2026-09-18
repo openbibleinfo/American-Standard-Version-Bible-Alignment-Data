@@ -1,0 +1,12 @@
+{
+  "alignment_sha256": "aa068754654f3a60ae02fc5dbb4c826b639ac45e6ebfe3cf58e2ecf571bba221",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Checked partition (all 13 s-IDs and all 18 t-IDs used exactly once), status legality, and every head. s001 heads on *be* not *shall* per rule 9; s003 is correctly `unrepresented` under rule 23, the ASV writing a bare *men* with no determiner (rules 51 and 60 do not reach it, no indefinite or demonstrative being supplied); s010 keeps *to* with the noun under rule 21's determinerless clause, no article standing to anchor it; s012 and s013 are single-word privatives, so rule 84's phrase case does not arise.",
+    "The φιλ- compounds (s005, s006) are the only contested heads. Rule 66's test is inconclusive here because neither English word is a generic completion: *lovers* glosses the φιλ- element and *self*/*money* gloss the second element, so rule 17's meaning-bearing-complement clause (scoped to support/light-verb renderings with an empty verb) does not select against *lovers*. That leaves a genuine tie, which rule 17 permits English syntax to break, giving *lovers*. The accepted notes already name the competing reading, satisfying rule 16. A later reader with corpus access should confirm against the φιλ- family — TIT.1.8 `φιλάγαθον` → *a lover of good* and `φιλόξενον` → *given to hospitality*, and 2TI.3.4's `φιλήδονοι`/`φιλόθεοι` → *lovers of pleasure*/*lovers of God* in this same chapter — and, if that run heads the second element, treat this verse as the one to bring into line rather than the reverse."
+  ],
+  "ref": "2TI.3.2",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

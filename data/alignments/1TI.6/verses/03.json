@@ -1,0 +1,256 @@
+{
+  "alignments": [
+    {
+      "note": "Conditional particle.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Indefinite pronoun rendered *any man*; rule 17's generic-noun clause heads on *any*, *man* being the supplied completion.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "One Greek compound verb rendered by a whole English verb phrase; head on *teacheth*, the word realizing the compound's verbal head -διδασκαλεῖ, with *a different doctrine* its supplied completion. Heading on *doctrine* remains defensible, since it too glosses the διδασκαλ- element, but rule 91's test puts the head on the word answering to the lexeme's own head element.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Finite verb rendered *consenteth*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Ordinary negative to *not*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Anarthrous dative; the case preposition *to* stays with the noun under rule 21's determinerless clause, discontinuously around the adjective under rule 15.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Attributive participle rendered by the bare adjective *sound* (ASV margin: Greek healthful).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Rule 105: the ASV's supplied appositional *even* is carried here by a substantival article (s009), and with that carrier it is its own `added` unit under rule 5; the article keeps only its own English words.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Substantival article standing after its noun and governing the following genitives; rule 22 gives it the supplied nominal *the words*, headed on the nominal word rather than on the determiner.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Article displaced by the possessive *our*, which belongs to ἡμῶν under rule 20.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rule 20: the case preposition *of* stays with the noun, discontinuously around the possessive under rule 15.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Genitive pronoun realized by the possessive *our*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Name, split from Χριστοῦ under rule 26.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Name.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Article preceding its head noun with a prepositional-phrase modifier the ASV recasts as a finite relative clause; rule 31 gives it the discontinuous *the … which* along with the case preposition *to* under rule 21, headed on *the*.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t023",
+        "t024",
+        "t026"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Head noun, left bare by rule 31 because its article precedes it.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "note": "Rule 31: a prepositional phrase has no verb to carry the supplied copula, so *is* goes with the preposition, headed on *according*.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t027",
+        "t028",
+        "t029"
+      ],
+      "target_head": "t028"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t030"
+      ],
+      "target_head": "t030"
+    }
+  ],
+  "ref": "1TI.6.3",
+  "review_notes": [
+    "The supplied *even* is `added` because its appositive is carried by a substantival article, which rule 105 settles that way against the preposition carrier's fold.",
+    "τοῖς follows its noun and heads the appositional phrase, so rule 22 rather than rule 31's preceding-article clause governs it."
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "alignments": [
+    {
+      "note": "Conditional particle to the word introducing the English clause (rule 40). Not rule 65's concessive cluster: no καί stands with it.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Postpositive δέ realized by the fronted *but*; rule 15 permits the reordering. Kept separate from εἰ under rule 2, the two particles having separate English words.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "One Greek verb expanded into the English phrase *have respect of persons*; the supplied subject *ye* and the light auxiliary *have* ride inside under rules 7 and 9, and the *of persons* completes the idiom rather than answering to any Greek preposition, so rule 36 is not in question. Rule 91 decides the head: it is the word the corpus spends on the προσωπολημπτ- lexeme, not the phrase's formal English head, and the ASV renders that family *respect of persons* throughout — the same wording rule 84 lists for the privative ἀπροσωπολήμπτως, where the noun after *without* is *respect*. A head on *persons* is the competing reading, πρόσωπον being the more direct gloss of the compound's first element; it is refused because rule 91 replaces that compositional argument with what the corpus spends on the lemma, and *respect* is the word carrying the sense of partiality. Rule 73 is not the case here, the Greek expressing one token rather than a verb-plus-noun pair.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Accusative object to its noun; rule 2 keeps it separate from the verb even though the ASV reorders.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Inflected verb with its supplied subject; rule 9 heads on the lexical verb, not the pronoun.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Passive participle with its periphrastic *being*; rule 9 heads on the participle. The participle keeps its own English clause and no juncture is supplied, so rules 88 and 98 are not in question.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Agentive preposition to *by* (rule 36). This is an expressed proper preposition rendered by a single word, not a complex frame, so rules 67 and 95 are not in question.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Article to *the* (rule 19); the preposition is expressed and takes its own word, so no case preposition rides with the article under rule 21.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Noun stands alone, the determiner having gone to its own article (rules 13 and 26).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Comparative adverb to *as*; no correlative καί follows, so rule 82 is not in question.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Predicate noun to *transgressors*; the Greek is anarthrous and the ASV supplies no determiner, so rule 58 has nothing to place.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "JAS.2.9",
+  "review_notes": [
+    "Reviewed; the accepted alignment stands unchanged. Only the notes were strengthened, chiefly on s003.",
+    "All 11 source and 17 target ids partitioned exactly once; every unit is aligned with nonempty arrays and heads drawn from their own arrays.",
+    "No unrepresented or added units are warranted: every source token has an English realization and every English token answers to a source token. Nothing is displaced into a neighbouring verse (rule 37) and the verse carries no fallback-exclusion mark (rule 97).",
+    "s003 is the only materially contested head. *respect* over *persons* is argued from rule 91's operational test rather than from rule 17's meaning-bearing clause alone; the note names the competing reading and why it is refused. If a chapter conventions log records JAS.2.1's προσωπολημψίαις → *respect of persons* headed otherwise, that unit governs and this one should be brought into line with it.",
+    "τοῦ νόμου was audited under rule 13 and split: the expressed ὑπό takes *by*, so the article takes a bare *the* and the noun stands alone rather than the article carrying a case preposition under rule 21.",
+    "s003's *of* is idiom-internal, not a case preposition and not a realization of any Greek preposition, so rule 36 does not pull it out of the unit."
+  ]
+}

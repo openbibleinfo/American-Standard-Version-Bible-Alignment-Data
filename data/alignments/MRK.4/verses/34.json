@@ -1,0 +1,173 @@
+{
+  "alignments": [
+    {
+      "note": "Postpositive rendered by the verse-opening *and*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Improper preposition rendered by a single English word; that word is the head, rule 71.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Supplied *a* on the anarthrous governed noun, rule 51.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Ordinary negative, discontinuous from its verb under rule 15.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Inverted subject rides with the verb.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Case preposition rides with the dative pronoun.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "κατ᾽ ἰδίαν rendered by the single word *privately*, which answers to neither token separately (rule 45); headed on the governed word. Joined rather than split: rule 93 decides the rule 34/45 divide from what the corpus spends on the governed word, and it spends an *own* word on ἴδιος in 54 of that lemma's 69 units and *private* once attributively at 2PE.1.20, but never *privately* for the bare adjective — so the preposition is inside the English word and rule 34's pleonastic case does not reach it. The corpus carries the phrase undivided in all nine of its units: `noncompositional` at GAL.2.2, MRK.7.33 and MRK.9.28, and → *apart* at LUK.9.10, MRK.6.31, MRK.6.32 and MRK.9.2. Reading it `aligned` on the ground that *private-* visibly carries the ἰδι- lexeme is the competing analysis and stands at LUK.10.23 and MAT.24.3; Mark's own five units are all `noncompositional`, so this follows them.",
+      "source": [
+        "s007",
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "noncompositional",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Postpositive rendered by *but*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Article emptied by the possessive adjective ἴδιος, which carries *his own*, rule 47.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "ἴδιος carries the supplied possessive, rule 47.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Case preposition rides with the noun, the article having no determiner to anchor; discontinuous under rule 15.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Supplied subject rides with the verb; head on the lexical verb.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Anarthrous substantival adjective with the generic *things*; head on the adjective, rule 17.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t018"
+    }
+  ],
+  "ref": "MRK.4.34",
+  "review_notes": [
+    "Corrected: κατ᾽ ἰδίαν (s007, s008) is now one `noncompositional` unit on *privately* (t011), headed on the governed word. The verse pass left κατ `unrepresented` under rules 34 and 93; that turned on *privately* being the ordinary gloss of ἴδιος, and it is not.",
+    "The precedent is nine corpus units of the phrase, none split, five of them in Mark: *apart* at MRK.6.31, MRK.6.32, MRK.9.2 and LUK.9.10, *privately* at MRK.7.33, MRK.9.28 and GAL.2.2 (`noncompositional`) and at LUK.10.23 and MAT.24.3 (`aligned`).",
+    "MRK.4.10's κατὰ μόνας → *alone* is deliberately not changed with this: `μόνος` takes *alone* in sixteen corpus units, so rule 34 splits it there. The chapter's convention log records the divide.",
+    "No other unit in the verse changes. τοῖς (s010) stays `unrepresented` under rule 47 despite the BSB disagreement, and the unit count falls from 14 to 13 with all fourteen source ids and all nineteen target ids still partitioned exactly once."
+  ]
+}

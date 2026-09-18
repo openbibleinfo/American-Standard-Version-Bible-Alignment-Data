@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "chapter": "DEU.5",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.DEU.5.10.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV DEU.5.10 reads 'them that love me and keep my commandments' — a first-person suffix matching the qere מִצְוֺתָי ('my commandments'), in a clause where God speaks in the first person ('love me'). The ketiv מצותו carries a third-person suffix ('his commandments'), which the ASV's 'my' excludes. The only note on the verse ('Or, a thousand generations') is an alternative_rendering touching 'thousands' and does not bear on this unit."
+    }
+  ]
+}

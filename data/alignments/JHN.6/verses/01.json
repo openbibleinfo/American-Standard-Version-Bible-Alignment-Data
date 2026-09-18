@@ -1,0 +1,123 @@
+{
+  "ref": "JHN.6.1",
+  "alignments": [
+    {
+      "source": ["s001"],
+      "source_head": "s001",
+      "target": ["t001"],
+      "target_head": "t001",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s002"],
+      "source_head": "s002",
+      "target": ["t002", "t003"],
+      "target_head": "t002",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Substantival demonstrative expanded with the generic noun *things*; head on *these* per rule 17."
+    },
+    {
+      "source": ["s003"],
+      "source_head": "s003",
+      "target": ["t005", "t006"],
+      "target_head": "t005",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s004"],
+      "source_head": "s004",
+      "target": [],
+      "target_head": null,
+      "status": "unrepresented",
+      "confidence": "high",
+      "note": "Article before a name has no English realization (rule 23)."
+    },
+    {
+      "source": ["s005"],
+      "source_head": "s005",
+      "target": ["t004"],
+      "target_head": "t004",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s006"],
+      "source_head": "s006",
+      "target": ["t007", "t008", "t009", "t010"],
+      "target_head": "t010",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The adverb is rendered by the whole phrase *to the other side*; head on the nominal *side*."
+    },
+    {
+      "source": ["s007"],
+      "source_head": "s007",
+      "target": ["t011", "t012"],
+      "target_head": "t012",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Genitive article carries its case preposition; *of the* headed on *the* (rule 21)."
+    },
+    {
+      "source": ["s008"],
+      "source_head": "s008",
+      "target": ["t013"],
+      "target_head": "t013",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s009"],
+      "source_head": "s009",
+      "target": [],
+      "target_head": null,
+      "status": "unrepresented",
+      "confidence": "high",
+      "note": "Article before a name has no English realization (rule 23)."
+    },
+    {
+      "source": ["s010"],
+      "source_head": "s010",
+      "target": ["t014", "t015"],
+      "target_head": "t015",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Source noun rendered by *of + noun*; head on the noun (rule 17)."
+    },
+    {
+      "source": ["s011"],
+      "source_head": "s011",
+      "target": [],
+      "target_head": null,
+      "status": "unrepresented",
+      "confidence": "medium",
+      "note": "Article before a name (rule 23). The appositional genitive is expanded by the ASV into a supplied clause; an analysis giving *which is* to this article on the analogy of rule 31 remains defensible."
+    },
+    {
+      "source": [],
+      "source_head": null,
+      "target": ["t016", "t017", "t018", "t019"],
+      "target_head": "t019",
+      "status": "added",
+      "confidence": "medium",
+      "note": "The ASV fills the Greek ellipsis with a supplied clause *which is the sea* (the last two words italicized); no source token licenses it."
+    },
+    {
+      "source": ["s012"],
+      "source_head": "s012",
+      "target": ["t020", "t021"],
+      "target_head": "t021",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Source noun rendered by *of + noun*; head on the noun (rule 17)."
+    }
+  ],
+  "review_notes": []
+}

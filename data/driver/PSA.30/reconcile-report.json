@@ -1,0 +1,24 @@
+{
+  "chapter": "PSA.30",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "זָמַר rendered 'sing praise' (30.4 imperative, 30.12 'may sing praise to') is one verb's rendering headed on 'sing', both words writing the lexeme on the terms rule 44 gives 'did work'; the supplied 'to' reaching the suffix object in 30.12 joins the verb. Heading on 'praise' as a light-verb complement is the competing reading and is the corpus majority (about 27 units to 7), so a later chapter should choose and name the other reading rather than treat either as settled."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Evidence round answered all four requests. PSA.31.22 reads וַאֲנִי אָמַרְתִּי → 'As for me I said' exactly as PSA.30.6 does (waw → 'As for', headed on 'As'), and the corpus aligns a waw to 'as for' in 9 units across 7 chapters, all headed on 'as'; the 8 corpus waws left unrepresented before a Pp1cs are all clauses for which the ASV wrote no connective at all, so they do not bear on 30.6. No change.",
+    "זָמַר → 'sing praise(s)': the corpus heads it on 'praise(s)' in roughly 27 units and on 'sing' in 7 (PSA.146.2, 147.1, 147.7, 149.3, 138.1, 61.8, 1CH.16.9). PSA.30.4 and 30.12 both head on 'sing' and each note names the competing head, so the chapter is internally consistent and the contract's rule 8 is satisfied. The corpus contradicts itself, so this is recorded as a chapter convention and not promoted.",
+    "Cross-verse table read end to end: every other candidate (suffix pronouns, לְ, בְּ, אֶל, יהוה with and without 'O', יָדָה, הָיָה, יָרַד with and without rule 48's modal, חָנַן, מִן) is the ASV rendering one word differently in different contexts, licensed by the source. 30.5's two 'is' copulas on בְּ and 30.9's 'is there in' on בְּ are one analysis (rule 49, PP predicate of a verbless clause with a bare nominal subject) applied three times. The four added units (30.0 italic second 'A Psalm', 30.5 restrictive 'but' and gapped 'cometh', 30.12 italic 'my') are each supplied words no morpheme licenses, and no verse folds the same word into a host elsewhere.",
+    "BSB disagreements: PSA.30.7 לְ unrepresented (ASV promotes 'my mountain' to direct object, rule 40) and PSA.30.8 lexicalized 1cs suffix of אֲדֹנָי unrepresented (rule 57) are both documented convention differences, not errors. 30.8's 'Jehovah' for אֲדֹנָי is aligned as printed under rule 53 with no variant unit recorded; correct.",
+    "Repeated notes flagged by the validator ('Vocative with supplied O (rule 36)', 'Light verb plus complement (rule 44)') restate contract rules and need no convention."
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "alignments": [
+    {
+      "note": "Disjunctive particle rendered by the verse-opening Or.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Inflected verb takes its supplied subject pronoun under rules 7 and 9; head on the lexical verb think, not on ye, per rule 17.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The ASV renders the clause as reported speech with an expressed complementizer, so rule 43's English-side test aligns the conjunction to that; it is unrepresented only where no English word answers to it.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Article surfaces as English the under rule 19.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Noun stands bare, its determiner having gone to its own article under rule 26's split.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Finite verb rendered by a single English verb.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "One Greek adverb rendered by the two-word English adverbial in vain; head on vain, the word that carries the lexeme, with in as its rule 7 helper, as rule 84 heads without blemish on blemish. The unit itself is contiguous; what rule 15 licenses here is the reordering, the ASV placing the adverbial after speaketh while the Greek places it before the subject.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The interrogative auxiliary Doth is the finite verb's own inflection-licensed helper under rule 9 — English do-support for the question — discontinuous from long under rule 15; head on the lexical verb long rather than the auxiliary, per rule 17. The competing reading would mark Doth added under rule 86, but that rule's test asks whether a source token licenses the word, and the finite ἐπιποθεῖ does; no interrogative particle stands here, so rules 44 and 64 are not in question.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Article surfaces as the under rule 19; rule 31's test finds an expressed head noun, so the article is not substantival and rule 22 is not in question.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Head noun stands bare, the determiner having gone to its own article.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Relative pronoun rendered by which, with no supplied antecedent or generic noun to weigh under rule 77.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Causative verb rendered by the periphrasis he made to dwell; the supplied subject and the causative auxiliary are rule 7 and 9 helpers inside the unit. Head on dwell, the meaning-bearing complement realizing the κατοικ- lexeme, as rule 17 heads make straight on straight and rule 91's operational test confirms — the corpus spends dwell on this stem, as rule 32's οἱ κατοικοῦντες → they that dwell does. made is the merely finite word rule 17 refuses. The selected r00-base κατῴκισεν is what the causative rendering answers to.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015",
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Preposition realized by its own English preposition under rule 36.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Pronoun rendered by us.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "The English preposition governing the phrase realizes the Greek preposition under rule 36, not the verb, even though long unto could be read as phrasal; rule 36 refuses that reading in terms. The ASV places the phrase after its verb, which rule 15 permits.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Governed noun stands on its own English word. Rules 45 and 94 do not apply: the ASV spreads the phrase over two words that each answer to a token, which rule 94 makes the precondition for a compound prepositional unit.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    }
+  ],
+  "ref": "JAS.4.5",
+  "review_notes": [
+    "Reviewed and left substantively unchanged: every s### and t### id is partitioned exactly once, every unit is aligned with nonempty arrays, and every head is a member of its own array.",
+    "Only note wording was corrected. The κενῶς unit had called itself discontinuous; its two target tokens are adjacent, and what rule 15 licenses there is the reordering against the Greek, not a discontinuity. The κατῴκισεν head on dwell now cites rule 91's corpus test (rule 32's οἱ κατοικοῦντες → they that dwell spends dwell on this stem) rather than resting on the rule 17 analogy alone, and the Doth unit now names rule 86 as the competing reading it rejects.",
+    "The ASV reorders heavily against the Greek: κενῶς follows speaketh, and Πρὸς φθόνον follows the verb it modifies. Rule 15 covers the discontinuity for ἐπιποθεῖ (Doth … long) and the reordering elsewhere; no unrelated intervening token was absorbed into either unit.",
+    "No unrepresented or added unit was needed. Doth is do-support licensed by the finite ἐπιποθεῖ under rule 9, not a supplied clause-introducer answering to nothing, so rule 86 does not reach it; and no interrogative particle stands in the verse, so rules 44 and 64 are not in question.",
+    "SBLGNT.JAS.4.5.v004 selected r00-base κατῴκισεν, covering s014, and carries no FALLBACK EXCLUDED mark, so rule 97 is not in question and rule 12 forbids revisiting it here. The marginal dwelleth in us of the textual_variant note is not the projection's reading, and the alternative_rendering notes (saith in vain; yearneth for even unto jealous envy) are not the ASV text being aligned."
+  ]
+}

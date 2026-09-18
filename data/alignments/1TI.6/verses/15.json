@@ -1,0 +1,217 @@
+{
+  "alignments": [
+    {
+      "note": "Relative pronoun.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Anarthrous dative of time; the supplied *in* realizes the case and stays with the noun under rule 21's determinerless clause, discontinuously around the possessive under rule 15.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Rule 47: anarthrous ἴδιος carries the supplied possessive *its own*, headed on *own*; no article competes here. ASV margin: *his*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Future indicative with its supplied subject and auxiliary under rule 9, headed on the lexical verb.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Rule 92: where the ASV recasts an appositional phrase with an expressed predicate noun as a finite relative clause, the article keeps only the determiner *the* and the noun carries the supplied relativizer and copula.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Adjective.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Adjective.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Expressed predicate noun carrying the supplied *who is* under rule 92, discontinuously under rule 15, headed on the noun.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Article to *the* under rule 19.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Article before the substantival participle; the ASV compresses the phrase into the bare noun *kings* with no determiner for the article to anchor, so rule 23 empties it and the case preposition stays with the participle under rule 21.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Substantival participle compressed into *of kings* (ASV margin: Greek them that reign as kings); the case preposition rides with it under rule 21's determinerless clause.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Article before the second substantival participle, emptied for the same reason as s012.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Substantival participle compressed into *of lords* (ASV margin: Greek them that rule as lords).",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t022",
+        "t023"
+      ],
+      "target_head": "t023"
+    }
+  ],
+  "ref": "1TI.6.15",
+  "review_notes": [
+    "The *who is* of t009–t010 goes to the expressed predicate noun δυνάστης under rule 92 rather than to the article, which keeps only its own *the*.",
+    "The two participial genitives are compressed into bare nouns, so their articles have no determiner to anchor and are `unrepresented` under rule 23; rule 90's single-word case does not reach them, the one English word being the participle's own lexical realization."
+  ]
+}

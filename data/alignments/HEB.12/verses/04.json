@@ -1,0 +1,106 @@
+{
+  "alignments": [
+    {
+      "note": "οὔπω is one adverb spelling negation plus 'yet'; the ASV writes both words for it, discontinuous from the verb's helpers under rule 15. Head on 'not', the negative being the element the lexeme is built on; heading on 'yet' as the distinctive -πω element is defensible but the negation carries the sense.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Inflected verb takes its supplied subject 'Ye' and auxiliary 'have' as rule 9 helpers, headed on the lexical verb 'resisted'.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "μέχρις rendered by the single preposition 'unto'.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Anarthrous genitive noun rendered by a bare 'blood'.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Circumstantial participle rendered by the bare participle 'striving'.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The English preposition governing the prepositional phrase realizes πρός under rule 36, not the participle it depends on.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The ASV gives 'sin' no determiner, so the article has no English 'the' to anchor and is unrepresented under rule 23; rule 21 forbids leaving a bare 'against' on it, so the case preposition stays with πρός.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun stands alone on 'sin'.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    }
+  ],
+  "ref": "HEB.12.4",
+  "review_notes": [
+    "All 8 source and 10 target ids partitioned exactly once.",
+    "Only judgment call flagged: the head of οὔπω ('not' vs 'yet'), noted in the unit."
+  ]
+}

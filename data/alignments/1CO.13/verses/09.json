@@ -1,0 +1,108 @@
+{
+  "alignments": [
+    {
+      "note": "Postpositive conjunction aligned to the ASV's clause-initial 'For'.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Inflected verb takes its English subject; head on the lexical verb rather than the subject (rules 9, 17).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The ASV writes two English words for ἐκ μέρους, so the pair splits under rules 2 and 94 rather than forming one unit; 'in' realizes the preposition.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Anarthrous noun to bare noun.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Connective to connective.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Inflected verb takes its English subject; head on the lexical verb (rules 9, 17).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Second ἐκ μέρους analysed exactly as the first, which is rule 24's habit.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Anarthrous noun to bare noun.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    }
+  ],
+  "ref": "1CO.13.9",
+  "review_notes": [
+    "ἐκ μέρους is split token by token both times: rule 94's precondition for a compound prepositional unit is a single English word, and the ASV writes 'in part'.",
+    "The two 'we' subjects are each their verb's own rule 9 helper, and the heads stand on 'know' and 'prophesy' rather than on the pronouns or on the fronted 'For'.",
+    "Variant SBLGNT.1CO.13.9.v009 selected r00-base covering γάρ, which the ASV translates as 'For'; no rule 97 question arises."
+  ]
+}

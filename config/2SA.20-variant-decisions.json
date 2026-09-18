@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "chapter": "2SA.20",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2SA.20.5.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'he tarried longer than the set time' renders a verb of delaying; qere וַיּוֹחֶר and ketiv וייחר are orthographic variants of the same sense and the English cannot distinguish them. Base qere fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.2SA.20.8.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'and thereon was a girdle' renders a prepositional phrase 'upon him/it'; qere וְעָלָיו and ketiv ועלו differ only in the spelling of the 3ms suffix and the English does not distinguish them. Base qere fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.2SA.20.14.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'and they were gathered together' renders niphal קהל, the qere וַיִּקָּהֲלוּ; the ketiv ויקלהו (a form of קלל, 'they made light of him') would require a different English sense. The ASV wording selects the qere."
+    },
+    {
+      "unit_id": "WLC.2SA.20.23.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text reads 'Cherethites', the qere הַכְּרֵתִי; the mapped textual_variant note 'Another reading is, Carites' explicitly names the ketiv הכרי as the reading not taken. The ASV wording plus the note select the qere."
+    },
+    {
+      "unit_id": "WLC.2SA.20.25.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Sheva' transliterates the qere וּשְׁוָא; the ketiv ושיא would yield 'Sheya'. The proper-name spelling selects the qere. The alternative_rendering note ('Or, secretary') concerns 'scribe' and does not bear on this unit."
+    }
+  ]
+}

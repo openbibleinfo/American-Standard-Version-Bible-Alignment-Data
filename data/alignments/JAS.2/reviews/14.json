@@ -1,0 +1,17 @@
+{
+  "alignment_sha256": "961ff5958238f1e56e132a93259949d7790f8ad6b7a6b00621cf7d19ed679934",
+  "contract_version": "nt-greek-verse-v62",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "Reviewed against the contract and returned unchanged; every unit's status, edges and head check out. Every s### and t### appears exactly once (19 source, 22 target).",
+    "s014 interrogative μή is the one unrepresented unit. Rule 44's test is the English: the ASV marks the question by inversion of the expressed δύναται, supplying no interrogative word, so nothing answers to the particle. Rule 64's μήτι → Can is the contrast, and it does not apply because can here is the expressed verb's own gloss rather than a supplied frame. The reference comparison's disagreement on this token is expected.",
+    "s002 ὄφελος carries the supplied doth it under the rule 53/62/68 chain: the clause is verbless, the Greek expresses no subject, and the predicate noun the ASV verbalizes is what is left to carry the supplied words. Head on profit under rule 17, the lexical word realizing ὄφελος; Τί keeps only What.",
+    "s016 ἡ is aligned to the supplied demonstrative that under rule 60 rather than left unrepresented. No Greek demonstrative competes for the determiner slot, so rules 38 and 49 are not in play; the alternative rule 23 reading is named in that unit's note.",
+    "s008 τις → a man is headed on man, following rule 62's placement of the whole phrase on the indefinite and rule 17's refusal to head a unit on a bare determiner. Rule 69's head on any is not counter-precedent: there any is a quantifier carrying the indefinite sense, whereas a is only the supplied article.",
+    "s009 ἔχειν → he hath keeps the supplied subject on the infinitive under rule 74, headed on the lexical verb under rule 9. No complementizer is supplied here, so rule 85 and rule 74's closing aside are not engaged.",
+    "Variant SBLGNT.JAS.2.14.v012 is underdetermined with the base among the compatible readings and carries no FALLBACK EXCLUDED mark, so rule 97 does not apply and no textual decision was made here (rule 12)."
+  ],
+  "ref": "JAS.2.14",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

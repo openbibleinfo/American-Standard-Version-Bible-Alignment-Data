@@ -1,0 +1,123 @@
+{
+  "ref": "EPH.5.11",
+  "alignments": [
+    {
+      "source": ["s001"],
+      "source_head": "s001",
+      "target": ["t001"],
+      "target_head": "t001",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s002"],
+      "source_head": "s002",
+      "target": ["t003"],
+      "target_head": "t003",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The prohibitive negative is realized by the ASV's no in have no fellowship."
+    },
+    {
+      "source": ["s003"],
+      "source_head": "s003",
+      "target": ["t002", "t004", "t005"],
+      "target_head": "t004",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Support-verb rendering: have and with are helpers under rules 7 and 9, and the head is the meaning-bearing complement fellowship per rule 17."
+    },
+    {
+      "source": ["s004"],
+      "source_head": "s004",
+      "target": ["t006"],
+      "target_head": "t006",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s005"],
+      "source_head": "s005",
+      "target": ["t008"],
+      "target_head": "t008",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s006"],
+      "source_head": "s006",
+      "target": [],
+      "target_head": null,
+      "status": "unrepresented",
+      "confidence": "high",
+      "note": "Second attributive article in the article-noun-article-adjective sequence has no English realization (rule 23)."
+    },
+    {
+      "source": ["s007"],
+      "source_head": "s007",
+      "target": ["t007"],
+      "target_head": "t007",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s008"],
+      "source_head": "s008",
+      "target": [],
+      "target_head": null,
+      "status": "unrepresented",
+      "confidence": "medium",
+      "note": "The ASV supplies no determiner before darkness, so the genitive article realizes nothing; of belongs to the noun it governs (rules 20 and 23). Rule 21 would apply only if the ASV had written of the darkness."
+    },
+    {
+      "source": ["s009"],
+      "source_head": "s009",
+      "target": ["t009", "t010"],
+      "target_head": "t010",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Genitive noun rendered as of + noun; head is the noun (rule 17)."
+    },
+    {
+      "source": ["s010"],
+      "source_head": "s010",
+      "target": ["t012"],
+      "target_head": "t012",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s011"],
+      "source_head": "s011",
+      "target": ["t011"],
+      "target_head": "t011",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s012"],
+      "source_head": "s012",
+      "target": ["t013"],
+      "target_head": "t013",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s013"],
+      "source_head": "s013",
+      "target": ["t014", "t015"],
+      "target_head": "t014",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The transitive verb licenses the supplied object pronoun them, which is a helper on the verb (rule 7)."
+    }
+  ],
+  "review_notes": []
+}

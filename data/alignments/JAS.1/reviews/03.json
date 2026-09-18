@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "c397c87f605d95f99d132e566f786dba15040a7e7ba4fcf2496882becbe7523a",
+  "contract_version": "nt-greek-verse-v61",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed unchanged: all 9 source and 9 target ids remain partitioned exactly once, every aligned unit has nonempty arrays with member heads, and the single unrepresented unit has a source head with an empty target and null target head.",
+    "The contested unit is s006/s007, and the accepted reading survives review. Rule 20's test is whether another source word is present to take the supplied possessive: s005 hymOn is present, is a genitive pronoun, and is spent on nothing but your, so it is available under rule 76 and rule 20 proper empties the article. Rule 21 would give of the to the article, but the ASV writes no the before faith, so there is no determiner for the article to anchor and rule 21's own closing clause forbids leaving a bare of on it. The alternative — of on the article as its case preposition with an empty target for the — is not available for the same reason.",
+    "That hymOn depends on dokimion in the Greek while the ASV writes its English beside faith does not change the analysis: rule 15 licenses the placement, the intervening token t005 of is assigned to s007 rather than absorbed, and no unrelated word is drawn in.",
+    "Rule 13's audit of the article-noun sequences finds nothing to change: to / dokimion splits into the / proving as independently recoverable tokens under rule 26, and tEs / pisteOs splits with the article empty rather than being bundled with its noun for convenience.",
+    "Head checks under rule 17: s007 takes faith rather than of, the source noun being rendered by of + noun; s008 takes the lexical worketh; every other unit is one-to-one and heads on its own token under rule 10.",
+    "s002 hoti is aligned rather than unrepresented because the ASV supplies that. Rule 43's test is the presence of an English word, not whether the clause is reported, and here a word answers to the conjunction."
+  ],
+  "ref": "JAS.1.3",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

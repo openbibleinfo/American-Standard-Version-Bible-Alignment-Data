@@ -1,0 +1,151 @@
+{
+  "alignments": [
+    {
+      "note": "Postpositive γάρ takes the ASV's clause-initial *for*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Ordinary negative οὐκ → *not*; no negative indefinite stands with it, so rules 41 and 59 are not in question.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Inflected verb takes its supplied subject and modal auxiliary under rules 7 and 9, headed on the lexical verb *endure* rather than on *they* or *could*, per rules 9 and 17.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Substantival article before a participle: rule 32 gives it the pronoun and nothing else, so it keeps *that* while the relativizer and copula ride with the participle. Rule 90 would apply only if the ASV had written a single word for the pair; it writes two.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Attributive participle rendered as a finite relative clause: *which* and *was* are rule 7 and 9 helpers on the participle, headed on the lexical *enjoined* under rule 17.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Crasis κἄν (καί + ἐάν) is one source word spelling a conjunction and a conditional particle, so it takes both English words as one aligned unit under rule 55. Rule 55 heads a crasis on the pronominal element; here the non-καί element is the conditional, so the head is *If*, the word introducing the clause under rule 40. Heading on *even* is the competing reading, but rule 82 refuses a head on *even* where another word realizes the clause-introducing element.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Anarthrous noun with a supplied indefinite determiner: rule 51's anarthrous clause makes *a* an ordinary rule 7 helper on the noun.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Aorist subjunctive rendered by the bare English verb.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Article surfaces as English *the* under rule 19; the genitive here takes no *of* in the ASV's phrasing, so nothing else rides with it.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Noun stands alone, its determiner having gone to the article under rule 21.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Future passive takes its supplied subject and both auxiliaries under rules 7 and 9, headed on the lexical participle *stoned* rather than on *shall* or *be*, per rules 9 and 17.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018",
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    }
+  ],
+  "ref": "HEB.12.20",
+  "review_notes": [
+    "All 11 source and all 20 target ids partitioned exactly once; no unrepresented or added units in this verse.",
+    "The article s004 is the only contested unit: rule 32 splits it from the participle, giving it *that* alone. Rule 90's single-word relaxation does not apply because the ASV writes *that which*, two words.",
+    "κἄν is treated as a crasis under rule 55 rather than as a rule 39 noncompositional particle cluster, since rule 39 is scoped to a particle fused with the negative μή and both English words here answer to source elements."
+  ]
+}

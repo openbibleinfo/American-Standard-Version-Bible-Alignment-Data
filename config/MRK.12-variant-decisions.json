@@ -1,0 +1,611 @@
+{
+  "schema_version": 1,
+  "chapter": "MRK.12",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.MRK.12.1.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'began to speak unto them in parables' renders either verb; λαλεῖν and λέγειν are both idiomatically 'speak' with ἐν παραβολαῖς, and no note bears on it."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.1.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only; English 'A man planted a vineyard' fixes subject-verb order regardless of the Greek sequence."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.2.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'of the fruits of the vineyard' — plural τῶν καρπῶν, not the singular τοῦ καρποῦ ('of the fruit')."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.3.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'And they took him' fits either connective: καί with an implicit subject and οἱ δέ both come into English as 'And they', the pronoun being required by English syntax."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.4.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV has only 'him they wounded in the head, and handled shamefully' — no rendering of λιθοβολήσαντες ('having stoned'), which the RP addition would require."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.4.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἐκεφαλίωσαν and ἐκεφαλαίωσαν are spelling variants of the same verb; both yield ASV 'wounded in the head'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.4.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'and handled shamefully' has no verb of sending, so the RP ἀπέστειλαν ἠτιμωμένον ('sent away shamefully handled') is excluded; ἠτίμασαν and ἠτίμησαν are alternative aorist forms of one verb and English cannot separate them."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.5.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 12:5 reads simply 'And he sent another' — no 'again' answering RP's added πάλιν (contrast 12:4, where ASV does render πάλιν as 'And again he sent')."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.5.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "οὕς μέν … οὕς δέ and τούς μέν … τούς δέ are equivalent correlatives; both give ASV 'beating some, and killing some'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.6.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'He had yet one, a beloved son: he sent him last' uses a finite verb plus a second clause, excluding RP's participial ἔχων with its added καί ('sent him also'); the base and r01 are the same wording and English cannot separate them."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.6.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only; ASV 'he sent him last unto them' is the natural English of either sequence."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.7.v012",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order and aorist spelling (εἶπαν/εἶπον) only; ASV 'said among themselves' is neutral."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.8.v013",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "The variants differ in word order and in whether the pronoun object is repeated; English requires 'him' with both verbs in 'killed him, and cast him forth' either way."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.9.v014",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'What therefore will the lord of the vineyard do?' — 'therefore' renders the οὖν that the base lacks."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.14.v015",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'And when they were come, they say unto him' fits καί or οἱ δέ alike; the English subject pronoun is required in either case."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.14.v016",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only; 'to give tribute unto Caesar' is fixed by English syntax."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.17.v017",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'And Jesus said unto them' with no rendering of ἀποκριθείς; the RP reading would give 'And Jesus answering said', a participle the ASV renders explicitly where it stands (cf. its practice elsewhere in this chapter)."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.17.v018",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'said unto them' renders the dative αὐτοῖς, which the WH reading omits."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.17.v019",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only; English 'Render unto Caesar the things that are Caesar's' must place the imperative first whichever Greek order stood."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.17.v020",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'they marvelled greatly at him' renders the intensive compound ἐξεθαύμαζον; the simple ἐθαύμαζον/ἐθαύμασαν would give only 'marvelled'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.18.v021",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Imperfect against aorist of the same verb; ASV 'and they asked him, saying' does not distinguish the aspects here."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.19.v022",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'and leave no child' — singular τέκνον, not the plural τέκνα of the Treg/RP reading."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.19.v023",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'should take his wife' supplies the possessive that English idiom requires for the articular τὴν γυναῖκα, so it does not show whether αὐτοῦ stood in the Greek."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.21.v024",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'and died, leaving no seed behind him' renders a negated participle (μὴ καταλιπών); the RP reading is a finite clause with emphatic subject, 'and neither did he himself leave seed'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.22.v025",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads only 'and the seven left no seed' — no rendering of RP's ἔλαβον αὐτήν ('the seven took her, and')."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.22.v026",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Adverbial ἔσχατον and predicative ἐσχάτη both come into English as 'Last of all'; the ASV wording does not show which stood."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.22.v027",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only; 'the woman also died' is the English of either sequence."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.23.v028",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'In the resurrection whose wife shall she be of them?' with no rendering of ὅταν ἀναστῶσιν ('when they shall rise')."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.24.v029",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Jesus said unto them' renders a bare verb of speaking; RP's καὶ ἀποκριθείς … εἶπεν would give 'And Jesus answering said', neither the 'And' nor the 'answering' appearing in the ASV."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.25.v030",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "γαμίζονται and γαμίσκονται are equivalent forms; both give ASV 'are given in marriage'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.25.v031",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Presence of the Greek article before ἄγγελοι; ASV 'as angels in heaven' does not register it."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.26.v032",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'how God spake unto him' renders πῶς or ὡς equally; both are standard as 'how' in this indirect clause."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.26.v033",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "The candidates differ only in the Greek articles before θεός; ASV's 'the God of Isaac, and the God of Jacob' supplies English articles required by the construction and does not register the Greek."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.27.v034",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Article before θεός only; ASV 'He is not the God of the dead' would read the same either way."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.27.v035",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'but of the living', carrying 'God' over by ellipsis as the base ἀλλὰ ζώντων does; the RP reading repeats θεός and would give 'but the God of the living'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.27.v036",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'ye do greatly err' has no 'therefore' answering the οὖν of the Treg/RP reading."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.28.v037",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'and knowing that he had answered them well' — εἰδώς ('knowing'), not ἰδών ('seeing')."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.28.v038",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only; 'he had answered them well' is fixed by English."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.28.v039",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only; ASV 'What commandment is the first of all?' is the English of either sequence."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.29.v040",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'Jesus answered' with no indirect object; the Treg and RP readings add αὐτῷ, which would give 'answered him'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.29.v041",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'The first is, Hear, O Israel' has no rendering of RP's πάντων τῶν ἐντολῶν ('the first of all the commandments')."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.30.v042",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Presence of the Greek article only; ASV 'with all thy heart' is unaffected."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.30.v043",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV ends 12:30 at 'with all thy strength' and begins 12:31 'The second is this' — no rendering of the added αὕτη πρώτη ἐντολή ('this is the first commandment')."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.31.v044",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'The second is this' contains nothing for ὁμοία ('like unto it') or for RP's leading καί."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.32.v045",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 12:32 opens 'And the scribe said unto him' and continues 'and there is none other but he' — the connective καί that WH omits is rendered."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.33.v046",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Presence of the Greek article only; ASV 'with all the heart' is unaffected."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.33.v047",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV lists three members — 'with all the heart, and with all the understanding, and with all the strength' — with no 'and with all the soul' for the Treg/RP addition."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.33.v048",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "περισσότερον and πλεῖον are synonymous comparatives; both give ASV 'is much more than'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.34.v049",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'when Jesus saw that he answered discreetly' collapses the proleptic αὐτόν into the subordinate clause, as English idiom does, so it cannot show whether the pronoun stood."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.35.v050",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only; 'the Christ is the son of David' is fixed by English."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.36.v051",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'David himself said in the Holy Spirit' has no 'for' answering the γάρ of the Treg/RP reading."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.36.v052",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Presence of the Greek articles only; ASV 'in the Holy Spirit' reads the same either way."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.36.v053",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'The Lord said unto my Lord' — the aorist εἶπεν; the historic present λέγει would be rendered 'saith', as the ASV consistently does elsewhere."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.36.v054",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Article before κύριος only; ASV 'The Lord said' is unaffected."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.36.v055",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "κάθου and κάθισον are both imperatives of sitting; ASV 'Sit thou on my right hand' does not distinguish them."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.36.v056",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV's text reads 'the footstool of thy feet' (ὑποπόδιον), and its note mapped here — 'Some ancient authorities read underneath thy feet' — assigns ὑποκάτω to the margin."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.37.v057",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'David himself calleth him Lord' has no 'therefore' answering RP's added οὖν."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.37.v058",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only; 'whence is he his son?' is fixed by English."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.38.v059",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'And in his teaching he said, Beware' has no indirect object, excluding RP's ἔλεγεν αὐτοῖς ('said unto them'); the base and r01 are the same wording and English cannot separate them."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.41.v060",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'And he sat down over against the treasury' with a pronoun subject; RP's added ὁ Ἰησοῦς would give the name, as the ASV renders it wherever it stands."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.41.v061",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "κατέναντι and ἀπέναντι are synonymous; both give ASV 'over against'."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.43.v062",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'and said unto them' renders the aorist εἶπεν; the historic present λέγει would be 'saith', the ASV's regular rendering."
+    },
+    {
+      "unit_id": "SBLGNT.MRK.12.43.v063",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'This poor widow cast in more than all' is a simple past for the aorist ἔβαλεν; the perfect βέβληκεν would be rendered 'hath cast in'."
+    }
+  ]
+}

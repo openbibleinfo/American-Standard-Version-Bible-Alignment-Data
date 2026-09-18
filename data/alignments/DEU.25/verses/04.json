@@ -1,0 +1,95 @@
+{
+  "alignments": [
+    {
+      "note": "לֹא → *not*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Verb with subject pronoun and auxiliary (rule 17), discontinuous around the negative (rule 25).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The supplied definite article belongs to the nominal expression it determines (rule 15).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Temporal בְּ + infinitive construct recast as a finite clause; the preposition takes the *when* (rule 52).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Infinitive with its phrasal particle; the head stays on the lexical verb (rule 44).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The suffix on an infinitive construct is its subject and takes the English subject pronoun (rule 18).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The italic *the grain* is an object the Hebrew does not write; no morpheme licenses it (rules 30, 44).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    }
+  ],
+  "ref": "DEU.25.4",
+  "review_notes": [
+    "The ASV italic on *the grain* corroborates the `added` reading without deciding it (rule 7)."
+  ]
+}

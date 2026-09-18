@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "chapter": "2KI.5",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2KI.5.9.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'with his horses' is plural, rendering the qere בסוסיו; the ketiv בסוסו is singular 'his horse', which the English wording excludes."
+    },
+    {
+      "unit_id": "WLC.2KI.5.12.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text reads 'Abanah', which is the ketiv אבנה; the mapped textual_variant note 'Another reading is, Amanah' names the qere אמנה as the alternative the ASV did not follow in its text."
+    },
+    {
+      "unit_id": "WLC.2KI.5.18.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'Jehovah pardon thy servant' carries no 'I pray thee'/'now', but the ASV does not always render the particle נא, so its absence does not exclude the ketiv; the qere omission is the base fallback."
+    },
+    {
+      "unit_id": "WLC.2KI.5.25.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'Whence comest thou' is the sense of both the qere מאין and the defectively written ketiv מאן; the variant is orthographic and the English cannot distinguish them, so the qere base fallback stands."
+    }
+  ]
+}

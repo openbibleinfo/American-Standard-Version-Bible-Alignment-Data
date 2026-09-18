@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "chapter": "DEU.7",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.DEU.7.9.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV DEU.7.9 renders a plural, 'keep his commandments', which matches the qere מִצְוֺתָ֖יו (plene plural with the yod of the plural suffix). The ketiv מצותו, written without that yod, reads as the singular 'his commandment'; the ASV's plural distinguishes the qere."
+    }
+  ]
+}

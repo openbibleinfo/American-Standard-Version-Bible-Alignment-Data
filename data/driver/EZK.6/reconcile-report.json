@@ -1,0 +1,29 @@
+{
+  "chapter": "EZK.6",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The formula אֲדֹנָי יְהוִה is rendered *the Lord Jehovah* throughout the chapter (6.3 twice, 6.11). The ASV writes no possessive, so the suffix on אֲדֹנָי is `unrepresented` under rule 22, and the *the* standing before *Lord* is a supplied article joining אֲדֹנָי under rule 29. In דְּבַר אֲדֹנָי יְהוִה -> *the word of the Lord Jehovah* (6.3) the chain holds two supplied *the*s: the construct דְּבַר takes the first and אֲדֹנָי the second together with the relational *of*. BSB aligns the suffix in all three places; that is its convention and not an error here.",
+    "A preposition prefixed to פָּנֶה or תָּוֶךְ is settled by counting the ASV's words rather than by the idiom. לִפְנֵי -> *before* (6.4, 6.5) and בְּתוֹךְ -> *among* (6.13) are one English rendering and fuse `noncompositional` under rule 30, headed on the lexeme-bearing morpheme; בְּתוֹךְ -> *in the midst of you* (6.7) and בִּפְנֵיהֶם -> *in their own sight* (6.9) spend a word on each morpheme, so rule 2 splits them and the preposition takes only its own *in*. The chapter reads אֶל־חִנָּם -> *in vain* (6.10) the same way, giving *in* to אֶל and *vain* to חִנָּם; fusing the pair as one adverbial rendering headed on חִנָּם is the competing reading, rejected because a word stands for each morpheme.",
+    "Where a relative clause carries a resumptive שָׁם and the ASV writes a single word for the pair - אֲשֶׁר ... שָׁם -> *whither* (6.9), *where* (6.13) - the relative takes that word and שָׁם is `unrepresented` under rule 22. The finite verb stands between the two morphemes in both verses, so rule 30's contiguity condition for a fused expression is unmet and they are not made one unit; reading *whither* as a rule 35 fusion carrying both morphemes' sense across the verb is the competing analysis. BSB aligns שָׁם in both places.",
+    "Where coordinated verbs share one written English auxiliary or modal, the first verb's unit takes it and each later verb takes only the English written for it: 6.6 *may be laid waste*(יֶחֶרְבוּ) ... *made desolate*(יֶאְשְׁמוּ) and *may be broken*(נִשְׁבְּרוּ) ... *cease*(נִשְׁבְּתוּ), 6.14 *I will stretch out*(נָטִיתִי) ... *make*(נָתַתִּי). The auxiliary cannot be partitioned twice, and giving it to the verb it stands before follows rules 42 and 47's counting of what the ASV actually wrote. A copula the construction supplies to a later predicate is a separate matter and stays with that predicate under rule 20, as at 6.12 s019 *is besieged*."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v66",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 33 candidate lemma groups and the full verse dump end to end. No construction is analysed two ways with nothing in the source or in the ASV to license the difference, so patches is empty.",
+    "Closest calls, all licensed by what the ASV writes: בְּתוֹךְ fused to *among* (6.13) but split into *in* / *the midst* / *of you* (6.7), which is rule 30's one-English-rendering condition met in one verse and unmet in the other, exactly as לִפְנֵי -> *before* (6.4, 6.5) stands against בִּפְנֵיהֶם -> *in their own sight* (6.9); the attributive article unrepresented at 6.9 s018, where the phrase's single determiner *their* is licensed by the suffix on לֵב under rule 41's proviso, but taking the written *which* at 6.9 s029; waw -> *Yet* (6.8) and *thus* (6.12) beside *and* elsewhere, both on rule 14's open list and both attested in the corpus (yet 87 units, thus 23).",
+    "Construct-chain *the*s are distributed the same way in every place that has them (6.1, 6.2, 6.3, 6.5, 6.7, 6.11, 6.13, 6.14): a supplied *the* goes to the construct it stands before, and where an article morpheme is present (6.13 s024) that article takes the *the* standing before its own word while the construct takes a supplied one. That is rule 29 read consistently, including across the three-level chain at 6.5.",
+    "The chapter has no `added` units, so I read the dump for supplies the lemma table cannot see: *even I* (6.3 s031), *a remnant* (6.8 s002), *in that* (6.8 s003), *how that* (6.9 s013). Each rests on a morpheme actually present in its clause, and each note names the competing reading under rule 8. Nothing is folded onto a neighbour to avoid an `added`.",
+    "BSB: none of the twelve disagreements is a genuine error. They are four documented convention families - the לְ of לֵאמֹר (rule 27); the possessive לְ left with no English by the *have* recasting at 6.8, which is the shape rule 43 states in its own text; the suffix of אֲדֹנָי, where the ASV writes *the Lord* and not *my Lord*; and the resumptive שָׁם at 6.9 and 6.13 (rule 22). The four Td cases are articles whose determiner another morpheme licenses (6.9 s018, 6.10 s014/s016, 6.12 s018), each decided by rule 41's or rule 47's counting. No accepted edge was changed to improve the aggregate.",
+    "Four conventions recorded, covering the אֲדֹנָי יְהוִה formula, the word-counting test for a preposition prefixed to פָּנֶה or תָּוֶךְ, the relative-plus-resumptive-שָׁם pair, and the shared English auxiliary.",
+    "No promotion. The one judgment here that the contract does not address is which of two coordinated verbs takes a single written auxiliary or modal (6.6 *may be* ... *cease* and *may be laid waste* ... *made desolate*, 6.14 *I will stretch out* ... *make*). The chapter answers 'the first' in every instance, which follows rules 42 and 47's counting logic, but the briefing carried no corpus evidence for it and a rule the corpus might contradict is worse than none. It is in the conventions log and is the candidate to revisit when precedent for it is in hand."
+  ]
+}

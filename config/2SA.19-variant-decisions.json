@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "chapter": "2SA.19",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2SA.19.6.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's conditional wording 'if Absalom had lived' distinguishes the qere לוּ ('if') from the ketiv לא ('not')."
+    },
+    {
+      "unit_id": "WLC.2SA.19.18.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'what he thought good' permits both בעיניו and בעינו; the two notes are alternative_rendering notes and therefore do not decide the textual reading."
+    },
+    {
+      "unit_id": "WLC.2SA.19.31.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'to conduct him over the Jordan' renders the qere הַיַּרְדֵּן as the object of crossing and distinguishes it from ketiv בירדן ('in/by the Jordan')."
+    },
+    {
+      "unit_id": "WLC.2SA.19.40.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'all the people of Judah brought the king over' uses the causative sense of qere הֶעֱבִירוּ, distinguishing it from ketiv ויעברו ('and they went over')."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "chapter": "1SA.5",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1SA.5.6.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV renders 'smote them with tumors', a sense both readings carry: the qere ba-techorim (swellings/emerods) and the ketiv ba-opholim (tumors/hemorrhoids) are synonymous here, so the English wording distinguishes neither. The attached note is classed alternative_rendering ('Or, plague boils. As read by the Jews emerods') and concerns English wording only, so it cannot decide the unit despite mentioning the Jewish reading tradition. Base fallback (qere) carries the projection."
+    },
+    {
+      "unit_id": "WLC.1SA.5.9.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'and tumors brake out upon them' translates a plural noun for swellings that fits the qere techorim and the ketiv opholim alike; no note is mapped to this unit and no italicized supply bears on it. Base fallback (qere) carries the projection."
+    },
+    {
+      "unit_id": "WLC.1SA.5.12.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'were smitten with the tumors' is a single definite plural noun that renders the qere ba-techorim and the ketiv ba-opholim identically; no ASV note is mapped to this unit. Base fallback (qere) carries the projection."
+    }
+  ]
+}

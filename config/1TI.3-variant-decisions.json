@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "chapter": "1TI.3",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.1TI.3.3.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 3:3 renders the qualifications as 'no brawler, no striker; but gentle, not contentious, no lover of money' — the adversative 'but gentle' follows 'no striker' directly, with no English equivalent of an added μὴ αἰσχροκερδῆ ('not greedy of filthy lucre', which the ASV does render where it stands at 3:8). 'No lover of money' translates ἀφιλάργυρον, present in both readings, so it does not account for the addition. The verse note is classed alternative_rendering and concerns the wording of πάροινον, not this unit."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.3.7.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 3:7 'Moreover he must have good testimony from them that are without' supplies 'he' because English requires an explicit subject for 'must have' rendering δεῖ plus infinitive; the pronoun is unitalicized and grammatically obligatory whether or not αὐτόν stood in the Greek. No ASV note is mapped here. Base fallback δὲ carries the projection."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.3.14.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 3:14 renders 'hoping to come unto thee shortly'. 'Shortly' serves equally for the adverbial ἐν τάχει and for the comparative-in-form τάχιον, which in Koine is regularly used with positive force; the English shows no comparative marking either way, and no note is mapped to this unit. Base fallback ἐν τάχει carries the projection."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.3.16.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 3:16 reads 'He who was manifested in the flesh', rendering the relative Ὃς and not θεὸς; the mapped ASV note makes the textual choice explicit — 'The word God, in place of He who, rests on no sufficient ancient evidence' — naming and rejecting the r01 reading. (The second note, 'Or, Gentiles', is an alternative_rendering on ἔθνεσιν and bears on nothing here.)"
+    }
+  ]
+}

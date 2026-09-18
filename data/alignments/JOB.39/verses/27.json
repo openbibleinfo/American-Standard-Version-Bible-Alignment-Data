@@ -1,0 +1,164 @@
+{
+  "alignments": [
+    {
+      "note": "The 'im opening the disjunctive question takes the fronted 'Is', which is both the question auxiliary rule 17 gives the particle and the clause's construction-supplied copula (rule 20's fronted-copula sentence).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The cleft's dummy 'it' answers to no morpheme; it is not a presentative frame, and its copula has gone to the interrogative particle, so it stands alone (rules 20, 30). The corpus reads an interrogative particle with 'is it' as one unit at EZK.20.3 and HAB.2.13, which is the competing reading; rule 20's own sentence marking a cleft 'it' added governs here and JOB.39.26 is aligned the same way.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The cleft relative stands over the finite clause yagbiah nasher, in which no subordinator is written, so no morpheme licenses it (rules 20, 55). Corrected from the accepted alignment, which gave it to the kiy of s008: that morpheme opens the following coordinated clause, not this one, and reaching across a clause boundary for a word written beside those renderings is what rule 16 forbids for a marker and rule 42 for a surplus 'and'. Aligned as JOB.39.26 aligns the identical cleft.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Preposition rendered 'at'; the ASV writes a word for each morpheme of 'al-piyka, so rule 2 splits rather than fusing under rule 30.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Construct noun rendered 'command'.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Suffix rendered by the possessive (rule 18).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Verb with its particle completing the mounting; the head stays on the lexical verb (rule 44).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Supplied determiner joins the noun (rule 15).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Waw rendered 'And' (rule 14).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "The kiy opens the second coordinated clause, which the ASV writes bare as 'And maketh her nest on high', spending its one connective on the waw beside it. Counting the clause's conjunctions against the ASV's subordinators as rules 14, 42 and 55 direct leaves this morpheme in surplus. Competing reading, named under rule 8: the verse's single 'that' is this morpheme's, fronted ahead of both clauses under rule 25; rejected because that word stands at the head of a clause the kiy does not reach, and because the identically clefted JOB.39.26 marks the same word added with no kiy anywhere in it.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Light verb plus complement, the elevation being what the hiphil names; head on the word carrying the lexeme (rule 44), discontinuous around the object under rule 25.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Suffix rendered by the possessive (rule 18).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "JOB.39.27",
+  "review_notes": [
+    "Corrected at reconciliation: the accepted alignment gave the verse's single 'that' to the written kiy of s008 as a fronted realization under rule 25. That morpheme stands at the head of the second coordinated clause, not the clefted one the English 'that' introduces, so the word is the cleft's own relative and added under rules 20 and 55, while the kiy, for which the ASV writes no word at its own clause's head, is unrepresented.",
+    "This aligns the verse with JOB.39.26, the matched half of the couplet, where the identical cleft frame - particle takes the fronted 'Is', dummy 'it' added, relative 'that' added - stands with no kiy in the Hebrew at all.",
+    "The dummy 'it' is left added under rule 20's sentence on a cleft or impersonal 'it', the copula having gone to the interrogative particle. The corpus's 'is it' units on an interrogative particle (EZK.20.3, HAB.2.13) are named as the competing reading in that unit's note."
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chapter": "2SA.17",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2SA.17.14"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Verse boundary: the ASV opens 17.28 with 'brought', which renders הִגִּישׁוּ standing in the middle of 17.29. Handled under rule 54: 'brought' is one added unit with a null target head in 17.28, and הִגִּישׁוּ is its own unrepresented unit in 17.29. Nothing is to be hunted for across the boundary.",
+    "Two-token place names segmented by MACULA (בְּאֵר שֶׁבַע → Beer sheba, עֵין רֹגֵל → En rogel, לֹא דְבָר → Lo debar) are one aligned unit each, headed on the first source token and the first English token.",
+    "A waw opening a verbless possessive or naming clause that the ASV recasts as a relative clause (וְלוֹ בְאֵר → 'who had a well', וּשְׁמוֹ יִתְרָא → 'whose name was Ithra') is unrepresented: the relative pronoun realizes the suffix under rule 18, and rule 17's waw-takes-which reading governs only a clause with a finite verb. Both verses name the competing reading in their notes."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 60 candidate groups against the verses. The waw, article, suffix, preposition and object-marker buckets are ASV context differences the source licenses (connective written vs. not, 'the' written vs. not, dative ל bare vs. 'unto'/'for'); the repeated constructions the chapter analysed the same way every time: 'And when' pairs on the waw (17.6, 17.20, 17.23), apodosis waw taking the frame's 'that' (17.9, 17.21, 17.27) or unrepresented where none is written (17.6, 17.20, 17.23), suffix outside a rule-30 fusion (לבדו → only 17.2, אל ביתו → home 17.23), relative realizing a suffix in a recast verbless clause with the waw unrepresented (17.18 'who had', 17.25 'whose name'), two-token place names as one unit (17.11, 17.17, 17.27), 'one of the' construct numerals as 'some' (17.9, 17.12).",
+    "One genuine error, in 2SA.17.14: עֲצַת אֲחִיתֹפֶל הַטּוֹבָה → 'the good counsel of Ahithophel' gave the phrase's single 'the' to the construct as a supplied one and left the attributive's article unrepresented. Rule 47 says explicitly that where the head noun is a construct that can take no article, the present article on the attributive takes the written 'the' before a supplied reading does. Patched: הַ (s024) → 'the', עֲצַת (s022) → 'counsel' alone.",
+    "BSB disagreements are all convention: suffixes standing outside a fused rendering that writes no pronoun (17.2, 17.23), a suffix left unrendered when the ASV writes one pronoun for two morphemes (17.5), the recast second בעיני (17.4), the repeated שמע rendered once (17.9), object markers (17.13, 17.18), גם with no word of its own beside the infinitive absolute's 'by all means' (17.16), and הגישו rendered at the head of 17.28 (rule 54 verse-boundary handling). None is an error.",
+    "No promotions or amendments: the chapter taught nothing the contract does not already say; the one correction applies rule 47 as written."
+  ]
+}

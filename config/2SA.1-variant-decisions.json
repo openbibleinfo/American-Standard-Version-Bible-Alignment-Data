@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "chapter": "2SA.1",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2SA.1.8.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'And I answered him' is first person, matching the qere 1cs form vaomar; the ketiv vayyomer would be 'and he said' (3ms), which the English excludes."
+    },
+    {
+      "unit_id": "WLC.2SA.1.11.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'his clothes, and rent them' is plural, matching the qere bivgadav (plural with suffix); the ketiv bevigdo 'his garment' is singular, which the English excludes."
+    },
+    {
+      "unit_id": "WLC.2SA.1.16.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'Thy blood' does not distinguish singular damekha (qere) from plural damekha (ketiv); English 'blood' is a mass noun that regularly renders Hebrew plural damim, and no ASV note is mapped to this unit. Base qere fallback retained."
+    }
+  ]
+}

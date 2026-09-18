@@ -1,0 +1,6 @@
+# Job 20 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Phrasal particles beside the chapter's many motion and disposal verbs (mount up, fly away, chased away, swallow down, vomit up, build up, rise up, flow away, laid up, strike through, taken away, draweth forth, keep still) are read as part of the verb's phrasal rendering under rule 44, since each restates a direction or result the verb itself writes; the one particle marked added is 'again' in 20.15, which states a repetition no morpheme writes. A later verse with 'build up' or 'swallow down' should follow this, not the bring-back exception.
+- 20.9: the ASV's 'see him' in the second colon is read as the second realization of the gapped שָׁזַף (rule 34's distributed verb, with the suffix realized twice under rule 18) rather than as an added lexical verb, because יָסַף there is the auxiliary 'continue' whose lexical complement the Hebrew gaps from the first colon; the auxiliary takes 'shall ... more' under rule 56. The competing reading (see him added) is named in the unit note.

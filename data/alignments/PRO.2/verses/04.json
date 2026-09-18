@@ -1,0 +1,154 @@
+{
+  "alignments": [
+    {
+      "note": "Conditional particle.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb with its subject pronoun (rule 17), headed on the lexical verb.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Object suffix rendered by the object pronoun (rule 18).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Comparative `כְּ` rendered *as*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Assimilated article supplied by MACULA (rule 12); the ASV writes *silver* anarthrously (rule 29).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun keeps its own word.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Waw rendered *And* (rule 14).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Finite verb; the ASV reaches its bare object suffix through the supplied *for*, which belongs to the verb's unit (rule 44), and writes that same word again over the elliptical comparative — *as* ***for*** *hid treasures* is *as [thou searchest] for hid treasures* — so the second occurrence joins this one discontinuous unit under rule 25. The competing reading gives *as for* to the `כְּ` as one rendering, but the ASV writes no comparative *as for* elsewhere and the second *for* answers to the verb's valency, which is what licensed the first.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t012"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Object suffix rendered by the object pronoun (rule 18).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Comparative `כְּ` rendered *as*, exactly as s004; the *for* standing after it is the verb's repeated valency preposition (rule 25) and not a second word for this morpheme.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Assimilated article with no written *the* (rules 12 and 29); MACULA's gloss *hidden* on this token contradicts its morphology and is a display defect (rule 39).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "`מַטְמֹן` rendered *hid treasures*; the head stays on *treasures*, which carries the lexeme (rule 31).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "PRO.2.4",
+  "review_notes": [
+    "Every source and target token is partitioned once.",
+    "Corrected at chapter reconciliation: t012 *for* was previously read as the second word of a `כְּ` → *as for* rendering. It is the supplied valency preposition of `תַּחְפְּשֶׂנָּה` (rule 44) written again over the elliptical comparative, so it joins that verb's discontinuous unit under rule 25, and both comparative `כְּ`s now take the *as* written for each. The competing reading is named in the verb's note.",
+    "The gloss distribution on s009/s010 is reversed in MACULA; the morphology (article + plural noun) is what was read (rule 39)."
+  ]
+}

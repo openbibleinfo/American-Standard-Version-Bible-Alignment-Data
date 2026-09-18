@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "838852e8dfae9023258ae4d2c89334780f16edc5ea1a2b7aaf18de764cd05062",
+  "contract_version": "ot-hebrew-verse-v217",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Large-source-unit check on בַּכֹּחַ → *is powerful*: בְּ carries the relation, the assimilated article the determination, כֹּחַ the lexeme, and the ASV writes one adjective for all three with no word spent on any one of them; rule 40's one-adverb fusion and rule 30's article clause apply, the copula joins under rule 20. Genuinely indivisible; retained, headed on the noun and on *powerful*.",
+    "Second colon splits because *majesty* is the noun's own word: *is full of* goes to the בְּ as a fixed relational phrase headed on *full* (rule 24), and the article is `unrepresented` (rule 12).",
+    "Scoped LS01 correction independently confirmed; evidence: data/audits/retrospective-new-chapters-2026-09-12/receipts/PSA.29.4.json. Original full-review coverage is carried forward only for unchanged content. The scoped assessment and independent confirmation cover the changed candidate units and their notes; no new full-verse review is claimed. Original reviewer, date fields and contract provenance are preserved; original receipt: data/audits/retrospective-new-chapters-2026-09-12/before/PSA.29.4/review.json."
+  ],
+  "ref": "PSA.29.4",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

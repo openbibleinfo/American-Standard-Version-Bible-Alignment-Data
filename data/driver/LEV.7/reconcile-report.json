@@ -1,0 +1,31 @@
+{
+  "chapter": "LEV.7",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "LEV.7.15",
+    "LEV.7.18",
+    "LEV.7.26"
+  ],
+  "rejected": {},
+  "conventions": [
+    "kol on the noun and lo on the verb, with one English negative word answering to the pair, are one discontinuous unit headed on the negative wherever the ASV spends a single word on them, whether that word stands alone (7.23, no fat) or before a generic the ASV supplies to expand the noun (7.26, no manner of blood). The generic and the chain's of belong to the noun, not to kol. This is rule 35's wekol-melakhah lo taasu case, and the chapter reads both of its occurrences that way after reconciliation.",
+    "isheh is rendered by the whole phrase (an) offering made by fire, which is one rendering of the lexeme headed on fire (rule 31), never split across its words: 7.5 and 7.25 take it bare, with the supplied for at 7.5 licensed by the adverbial accusative (rule 33), and at 7.30 and 7.35 the plural construct ishshey YHWH takes the offerings ... made by fire discontinuously around the rectum, which keeps of Jehovah.",
+    "In the entitlement formula lo yihyeh (7.7, 7.8, 7.9, 7.14, 7.33), hayah always takes the English shall be or shall have (rule 43) and the lamed is unrepresented unless the ASV writes a word for it, as the to of to himself at 7.8. The suffix takes an English subject pronoun only where the ASV writes one for it (he at 7.7); where the subject pronoun the ASV writes belongs to another morpheme - the substantival article's He that at 7.33 - or where the clause is recast as a genitive (the priest's at 7.9 and 7.14, which fuses the lamed with its noun under rule 49), the suffix is the unrendered resumptive under rule 22."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v136",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 52 candidate groups and the full verse dump end to end. Almost every multi-treatment bucket is the ASV rendering one word differently in different contexts (min as of / out of / from / among, waw as and / but / then / or / even / unrepresented, kol as every / any / all / each / whosoever, the article as the / that / He that / unrepresented), and in each of those the English the ASV wrote licenses the difference. Two things did not survive that test.",
+    "Real split, patched at LEV.7.26: kol plus lo in one clause. LEV.7.23 (kol-heleb ... lo tokhelu, 'Ye shall eat no fat') fuses the two morphemes on the single no, headed on the negative. LEV.7.26 (wekol-dam lo tokhelu, 'ye shall eat no manner of blood') instead gave no to lo, manner to kol, and of blood to dam. Rule 35 rules on this exact shape by name: wekol-melakhah lo taasu, 'shall do no manner of work', fuses the pair on no and leaves manner of work to the noun, headed on work. Nothing in the source distinguishes 7.26 from 7.23 or from rule 35's example, so 7.26 is brought into line: kol and lo share one discontinuous unit on no, headed on the negative, and dam takes manner of blood, headed on blood. The verse's two earlier corrections (the relational of on the rectum, the correlative whether ... or on the waw) are untouched and remain right.",
+    "Chapter-wide head deviation, patched at LEV.7.15 and LEV.7.18: min rendered any of was headed on of in both places. Rule 19 settles that string in terms - min-habasar giving any of the flesh as one unit on the min, headed on any - and the corpus corroborates with min rendered some of headed on some in 15 units. The chapter was self-consistent here, so this is not a split, but it is consistent against an explicit ruling. Both heads moved to any; no edges change and no other unit in either verse is touched.",
+    "BSB disagreements: none is a genuine error. The To x8, R x14, Sp3ms x5, C x5 and Td x8 groups are the documented convention differences - rule 16 leaves an unrendered object marker its own unrepresented unit, rule 40 silences a preposition whose relation the ASV states nowhere, rule 22 leaves a resumptive suffix unrendered beside a genitive already written, rule 29 leaves an article with no the written for it, and rule 14 leaves a waw the ASV writes no connective for. The two named Sp3fs suffixes are the same case (7.4 shall he take away, with no it written; 7.25 of which men offer, where min already holds the of and the suffix is the resumptive). The VNa at 7.18 is rule 56's last sentence: the ASV writes no distinct adverbial word for that infinitive absolute, whereas at 7.24 it writes in ... wise and the morpheme takes it.",
+    "Checked and left as accepted: the article-fronting counts across the twelve zebach hashshelamim / dam hashshelamim / besar hazzabach chains, which go both ways strictly by how many the's the ASV wrote (rule 29); the lo yihyeh entitlement formula at 7.7, 7.8, 7.9, 7.14 and 7.33; beyom plus infinitive construct at 7.16, 7.35, 7.36 and 7.38, which follows rule 52's own beyom heasoto example every time; isheh at 7.5, 7.25, 7.30 and 7.35; and the six added units, each of which answers to an explicit sentence (rules 16, 17, 18, 30, 44).",
+    "Hedged one-offs left alone because each is a single occurrence with its competing reading already named in the verse's notes: even on the fronting lamed at 7.8, thereof for the repeated basar at 7.19, having on the predicate preposition at 7.20, in ... wise split from no at 7.24, Whosoever it be split between kol and nephesh at 7.27, and minister in the priest's office at 7.35. None recurs, so none is a consistency question, and none is wrong enough to override an accepted edge."
+  ]
+}

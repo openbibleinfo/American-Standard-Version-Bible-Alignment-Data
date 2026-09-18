@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "JER.26",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JER.26.6.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'this house' does not distinguish the qere הזאת from the ketiv הזאתה; no mapped textual note decides the form, so both readings remain compatible and the base fallback is retained."
+    },
+    {
+      "unit_id": "WLC.JER.26.18.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "The ASV note explicitly says 'Hebrew Micaiah,' which distinguishes the ketiv מיכיה (Micaiah) from the qere מיכה (Micah) and selects r01."
+    }
+  ]
+}

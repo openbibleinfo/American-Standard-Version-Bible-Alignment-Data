@@ -1,0 +1,25 @@
+{
+  "chapter": "1CH.20",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "A waw opening a clause built on a suffixed noun (וְעֵץ חֲנִיתוֹ 20.5, וְאֶצְבְּעֹתָיו 20.6) that the ASV recasts as a *whose* relative clause: the suffix takes *whose* (rule 18) and the waw is `unrepresented` (rule 17), the ASV writing no connective. BSB represents both waws; this is a convention difference, not an error. Contrast 20.6 וַיְהִי → *where*, where the waw + finite verb has no pronoun for the relative to realize and the waw takes it."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 21 candidate lemmas. Every multi-treatment bucket is licensed by the ASV's own wording: waw → And/and/that/But/where/and when/∅ each follows the connective written (rules 14, 17, 45, 55); הַ → the/∅ follows whether a *the* stands before the article's own word (rules 12, 29); בְּ → at/in/with/by and לְ → at/unto are the ASV's prepositions; דָּוִד → David/David's/of David and אָח → the brother/brother follow the possessive-vs-of rendering (rule 29); נָכָה → smote/slew is lexical variation.",
+    "The one construction appearing in two verses with an interacting-rule analysis — waw + suffixed noun recast as a *whose* relative clause (20.5 עֵץ חֲנִיתוֹ, 20.6 אֶצְבְּעֹתָיו) — is treated identically in both: waw unrepresented, suffix → *whose*. Recorded as a convention.",
+    "Added units read end to end (to battle 20.1; set 20.2; them 20.3; on each hand / on each foot 20.6): none is folded into a licensing morpheme elsewhere in the chapter, so no hidden split.",
+    "BSB disagreements (5): articles on bare *kings* and *of iron*, the two waws whose clauses the ASV recasts as *whose* relatives, and the apodosis waw of 20.7 the ASV leaves unrendered after *And when*. All are documented convention differences; none is an error.",
+    "Verse-level judgments left as taken and already noted under rule 8: *were* on the first numeral of the 20.6 compound predicate (ASV writes it beside *four and twenty*); *set* in 20.2 marked added rather than folded into הָיָה; מֵעַל → *from off* split; חֵיל הַצָּבָא → *army* fused with article taking *the*; *led forth* keeping *forth* with נָהַג. Each is defensible and single-occurrence, so no chapter-level correction.",
+    "No promotion or amendment: nothing here generalises beyond what the contract already states, and the numeral-predicate copula question lacks corpus evidence to settle."
+  ]
+}

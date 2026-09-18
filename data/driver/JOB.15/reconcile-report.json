@@ -1,0 +1,26 @@
+{
+  "chapter": "JOB.15",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "JOB.15.19"
+  ],
+  "rejected": {},
+  "conventions": [
+    "A bare infinitive construct (no preposition) that the ASV recasts as a finite complement clause — שׁוּב → that he shall return — takes the complementizer, the supplied subject pronoun and the modal into the infinitive's own unit, on the footing rule 52 gives a bare infinitive its to and its for … to frame; the that is not marked added under rule 55, which governs a clause the Hebrew writes finite. Competing reading named in the unit's note."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 38 candidate lemmas end to end and read the eight added units against every verse. The pronoun, waw, article, negative and preposition buckets are ASV-driven differences the source licenses: JOB.15.9's two waws divide exactly as rule 17 directs (waw+finite verb takes the relative, waw+explicit pronoun leaves the relative to the pronoun); the assimilated articles take the where written and go unrepresented where not; the supplied relatives of JOB.15.7, 20 and 28 are all marked added on the same footing (finite clause juxtaposed to a written antecedent), while JOB.15.14's he that is born (rule 46), JOB.15.16's that drinketh (rule 41) and JOB.15.22's that he shall return (bare infinitive complement) are different constructions.",
+    "One real error, patched: JOB.15.19 marked the לְ of לְבַדָּם unrepresented beside בַד holding alone. Rule 30 forbids exactly that outcome for a preposition before a construct noun rendered by one English word, and the corpus fuses לְ+בַד as alone in 25 units; the two now share one unit headed on the construct noun, the suffix staying unrepresented as rule 30's suffix sentence directs.",
+    "Borderline but left standing, each with a note naming the alternative: JOB.15.2 gives the supplied with to the verb (direct object, rule 44) while JOB.15.28 gives in to the locative accusative (rule 33) — different verb types, not a split; JOB.15.11 keeps that is with the fused לָאַט as an attributive recasting rather than marking the relative added; JOB.15.20 leaves the resumptive הוּא unrepresented so that the lexeme word stays on רָשָׁע; JOB.15.10 leaves יָמִים unrepresented inside Much elder.",
+    "BSB disagreements are convention: unrendered prepositions under rule 40 (JOB.15.8, 17, 28), the rule 17 waw of JOB.15.9, the apodosis waw of JOB.15.17, the paragogic nun of JOB.15.12, the reflexive-dative suffix of JOB.15.28, and the resumptive pronouns of JOB.15.19 and 20. The JOB.15.19 לְ is the one BSB had right, and it is fixed on contract grounds rather than to move the score.",
+    "No promotion: the one general-looking case (a bare infinitive construct recast as a finite that-clause, JOB.15.22) has no corpus precedent in the packet and is recorded as a convention instead."
+  ]
+}

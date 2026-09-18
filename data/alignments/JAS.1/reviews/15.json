@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "a7d71019516007a08ade0e274c2e393cb92fd16acfdcb4fe6e55325f534efc5a",
+  "contract_version": "nt-greek-verse-v61",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed against the contract and returned unchanged: no unit's membership, status or head was altered. Two notes were expanded to cite the rules that were checked (s004 on rule 74's supplied subject, s008 on rule 88's expressed-conjunction carve-out, s011 on the particle precedent); no analysis changed.",
+    "Every s### and t### id is used exactly once; no ids invented. All twelve units are aligned with nonempty arrays and heads inside them, so rules 3-6 are satisfied and no unrepresented or added unit arises.",
+    "Both participles get identical treatment (when + supplied subject + auxiliary or copula on the participle) per rule 24, and both head on the lexical participle rather than on hath or is. Rule 86 licenses the supplied when in both: the participle is the source token carrying the subordination, so nothing here is added.",
+    "No article is left unrepresented: both ἡ tokens have an English the of their own, and no possessive or demonstrative competes for the slot, so rules 20, 38 and 49 do not reach this verse.",
+    "The one live head question is s011. bringeth was kept over forth because ἀποκυέω is glossed bring forth as a whole and bring is not an empty support verb of the make known / bear witness kind; the same lemma at JAS.1.18 should be headed on the verb word for consistency if that verse is aligned later.",
+    "δέ takes t010 and the second article takes t011 across the ASV's order; rule 15 covers the crossing and rule 26 keeps the article off its noun."
+  ],
+  "ref": "JAS.1.15",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

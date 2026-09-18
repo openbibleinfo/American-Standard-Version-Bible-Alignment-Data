@@ -1,0 +1,17 @@
+{
+  "alignment_sha256": "c41bf2d3c6e23e4233ecab95356793d7d37796eae36185053f1eddc61b56fe99",
+  "contract_version": "nt-greek-verse-v61",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed against the contract; the accepted alignment is correct and is returned unchanged. Only notes were expanded, with no change to any unit's tokens, heads or statuses.",
+    "All 12 source and 20 target ids partitioned exactly once; every aligned unit has nonempty arrays with both heads inside them.",
+    "s004 is the one unit with a materially different defensible reading: *in that* kept whole on ἐν rather than split as bare *in* plus *that* on the recast predicate. Rule 61's *before that* is the governing precedent and the note names the competing reading.",
+    "s005 is the sole unrepresented unit. The recast writes no determiner and no possessive, and αὐτοῦ is spent on the subject *he*, so neither rule 20 nor rule 76's second arm reaches it. A reference comparison may report it as a disagreement; that report is not a correction.",
+    "Heads checked separately from edges per rule 28: s006 heads on *low* rather than the auxiliary *made* (rules 17 and 91), s012 on *pass* rather than *shall* (rule 9), s010 and s011 on their nouns rather than the supplied determiners (rules 17 and 51).",
+    "s001/s003 were audited under rule 13 as an article–adjective sequence and split; rule 49's supplied-nominal case does not arise because the ASV supplies no generic noun in *the rich*.",
+    "Verse 9's καυχάσθω governs this clause, but both the Greek and the ASV leave the verb elided here, so rule 37 is not in question and no token is orphaned across the verse boundary."
+  ],
+  "ref": "JAS.1.10",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

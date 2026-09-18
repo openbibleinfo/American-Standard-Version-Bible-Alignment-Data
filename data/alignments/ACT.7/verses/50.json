@@ -1,0 +1,92 @@
+{
+  "alignments": [
+    {
+      "note": "Inflected verb with its interrogative auxiliary, discontinuous under rule 15; rule 9 heads on the lexical verb.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Rule 64: οὐχί carries content of its own and is aligned to not in the ordinary way.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Rule 20: μου displaces the determiner.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "μου → my.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "χείρ → hand.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "πάντα → all.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Rule 17's generic-noun clause: ταῦτα → these things heads on these.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t007"
+    }
+  ],
+  "ref": "ACT.7.50",
+  "review_notes": [
+    "Accepted unit was one whole-verse block; replaced with token-level units under rules 2 and 26."
+  ]
+}

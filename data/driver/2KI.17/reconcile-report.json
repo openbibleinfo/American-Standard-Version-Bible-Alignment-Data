@@ -1,0 +1,27 @@
+{
+  "chapter": "2KI.17",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2KI.17.33"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Periphrastic הָיָה with a participle, where the ASV collapses the pair into a single English finite verb, gives the lexical verb to the participle, which carries the lexeme under rule 24, and leaves הָיָה only the English subject pronoun realizing its own person and number under rule 17: הָיוּ יְרֵאִים אֶת־יְהוָה → *They feared Jehovah* gives *They* to הָיָה and *feared* to the participle (17.32, 17.33). Where the ASV writes no pronoun for it — because the clause writes an explicit subject noun (וַיִּהְיוּ הַגּוֹיִם הָאֵלֶּה יְרֵאִים → *So these nations feared*, 17.29, 17.41), because a waw standing in the clause has taken the English relative under rule 17 (וַיִּהְיוּ לָהֶם עֹשִׂים → *who sacrificed for them*, 17.25, 17.32), or because a second הָיָה in the same coordination is left unrendered (17.33, 17.41) — הָיָה is its own unrepresented unit under rule 22 and the participle still keeps the verb. Nine occurrences in this chapter; BSB attaches the English verb to הָיָה in six of them, so the disagreement is this judgment and not an error.",
+    "A pronominal suffix standing on a morpheme inside a fused expression is no part of the fusion, whatever kind of expression it is. Rule 30 states this for a preposition and its construct noun, and this chapter reads a verb-plus-noun idiom on the same terms: לְבַדּוֹ → *only* (17.18) and שָׂם שְׁמוֹ → *named* (17.34) each fuse the two morphemes the one English word carries and leave the suffix its own unrepresented unit, because neither word writes any person or number for it to take. Where the ASV does write a pronoun the suffix takes it under rule 18, as לְפָנָיו → *before him* does at 17.2. BSB attaches both suffixes to their host words."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v172",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "One real cross-verse split, patched. מִן with a resumptive שָׁם in a relative clause is split at 2KI.17.27 (*from* / *thence*) and fused at 2KI.17.33 (*from among*). The fusion fails rule 30's own subtraction test — *from* is what this chapter spends on מִן in eleven other units, so that morpheme owns a part of the rendering — and it is unstable in either direction: if *among* carries שָׁם's locative sense the pair must split, and if it does not, rule 30 forbids absorbing שָׁם into the fusion at all. 17.33 is patched to the split; the verse pass had already named this competing reading under rule 8.",
+    "Checked and found consistent, not split: the pro-verb reading of a gapped colon at 17.1, 17.4, 17.11 and 17.15, all four joining the written verb's discontinuous unit under rule 34 rather than standing added, the ASV italics notwithstanding; rule 29's determiner count across nine construct chains, including the corrected צְבָא הַשָּׁמַיִם at 17.16 where the one written *the* is fronted from the rectum's article, against the two-*the* chains at 17.8, 17.26, 17.27, 17.29, 17.32 and 17.33 where nothing is fronted; מִפְּנֵי fused at 17.11 and split at 17.8 and 17.20, and מֵעַל fused at 17.18, 17.21 and twice at 17.23, both tracking the ASV's word count as rule 30 directs; the directive he, fused at 17.24 and 17.27 and split at 17.6 and 17.23; כַּאֲשֶׁר, עַד אֲשֶׁר, כִּי אִם and waw-plus-לֹא; the object marker; the dative לְ under rule 40; the distributive גּוֹי גּוֹי at 17.29 against the split שָׁנָה בְשָׁנָה at 17.4; and all eight added units.",
+    "BSB: no genuine error among the 49 disagreements. Every one falls in a documented convention family — prepositions silenced by an ASV recasting (rule 40, 11 tokens), the object marker (rule 16, 7), articles under the determiner count of rules 29, 41 and 47 (19), the paragogic nun (rule 32) — or in the two families recorded as conventions below: the six periphrastic הָיָה tokens and the two pronominal suffixes standing outside a fusion (לְבַדּוֹ at 17.18, שְׁמוֹ at 17.34). Nothing here was changed to move the rate.",
+    "Flagged, not changed: 2KI.17.37 reads כָּל־הַיָּמִים → *for evermore* by fusing the two lexical morphemes and marking the separately segmented article unrepresented, on rule 30's explicit דִּבְרֵי הַיָּמִים → *chronicles* sentence. The corpus carries 8 units fusing all three morphemes as noncompositional headed on *ever*. One occurrence here, reasoned from binding contract text, so it stands; a chapter with more of them should settle which way the contract and the corpus are to be reconciled.",
+    "No promotion offered. The chapter's one generalisable finding is the periphrastic הָיָה plus participle (9 tokens, and 6 of the BSB disagreements), which would be an amendment to rule 21. The corpus dump omitted הָיָה entirely, so a later chapter should raise it with LEMMA=הָיָה NEXT=Vqrmpa in hand rather than have this pass write a rule it cannot check against 605 finished chapters. The judgment is recorded as a convention meanwhile."
+  ]
+}

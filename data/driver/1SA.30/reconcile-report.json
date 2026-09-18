@@ -1,0 +1,31 @@
+{
+  "chapter": "1SA.30",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "1SA.30.24"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Negative ranges 'neither X nor Y': where the range opens with מִן (מִן־הַקָּטֹן וְעַד־הַגָּדוֹל, מִשָּׁלָל וְעַד), the מִן takes the opening 'neither' as rule 14's מִן takes 'both', the waw takes 'nor', and the עַד is unrepresented; a waw standing before such a מִן is unrepresented. Where no מִן opens the member (וְעַד־בָּנִים וּבָנוֹת), the waw takes the 'neither' itself and the עַד is unrepresented. 30.2 'both small and great' follows the same division with 'both'/'and'.",
+    "The recipient list of 30.27–31 (לַאֲשֶׁר בְּ + place): לְ → 'to', אֲשֶׁר → 'them that' headed on 'that' (rule 46 rider), בְּ → 'were in' headed on 'in' (rule 49), the place name its own unit. Two-token toponyms (בֵּית אֵל, בּוֹר עָשָׁן) are aligned token by token to 'Beth'/'el', 'Bor'/'ashan'; the second token of רָמוֹת נֶגֶב takes 'of the South' as a construct rectum.",
+    "פִּגְּרוּ מֵעֲבֹר / מִלֶּכֶת recast as 'were so faint that they could not go over / follow': the verb takes 'were faint', the privative מִן takes 'so … that … not' headed on 'that' (rule 48), and the infinitive takes 'they could' with the lexical verb; in 30.21 the infinitive and its אַחֲרֵי fuse as 'follow' (rule 30).",
+    "A narrative clause the ASV opens 'And when …' (30.3, 30.12, 30.16, 30.21, 30.26) gives both words to the waw of that clause, headed on the coordinator (rule 55; 'when' is the corpus's competing head), and the apodosis waw that follows is unrepresented where the ASV writes no connective for it. The same 'that' at an apodosis head after וַיְהִי goes to the apodosis waw (30.1, 30.25, rule 45).",
+    "The lengthened imperatives הַגִּישָׁה and הִשָּׁבְעָה carry a he MACULA tags Sh (paragogic), not Sd: it is unrepresented under rule 32, and the 'hither'/'thither' of 'bring … hither', 'brought thither' joins the Hiphil of נָגַשׁ as the particle completing 'bring near' (rule 44). BSB represents the he; this is a tagging-driven convention difference.",
+    "A construct chain whose rectum the ASV writes as a possessive on the head noun beside the rectum's own relative rendering ('his share is that goeth down' for חֵלֶק הַיֹּרֵד) gives the possessive to the rectum's unit under rules 19 and 25, not to added under rule 18; where the rectum is a substantival participle the article keeps its 'that' (rule 41) and the possessive joins the participle."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 60 candidate lemmas end to end. Every multi-treatment bucket is licensed by the ASV's own wording: waw takes whichever connective is written (And/Then/So/But/for/even/also/that/who/where) and is unrepresented only before 'behold', at an unrendered apodosis head, or where a present מִן holds the correlative; articles are unrepresented only beside a demonstrative, an agreement adjective/ordinal, or where the ASV writes no 'the'; לְ/בְּ/עַד/אֵת follow rule 40 (bare him/them, לֵאמֹר, resultative, waw-answered range) or take the word written; אִישׁ 'any'/'men'/'a man'/'every man'/'the men' and the fused 'an Egyptian'/'an Amalekite' each follow the ASV's rendering.",
+    "One correction, 1SA.30.24: the two supplied 'his' of 'as his share is that goeth down … so shall his share be that tarrieth' were marked added under rule 18's closing sentence, but each is the construct relation of חֵלֶק הַיֹּרֵד / חֵלֶק הַיֹּשֵׁב written as a possessive on the head noun. Rule 19 gives the relational expression to the rectum and rule 25 says such a possessive is not added where the rectum is written; the possessive joins the participle's unit, headed on the lexeme word. Patched.",
+    "The `added` units the table cannot see were read together: 30.2 'and all'/'them', 30.8 'If'/'them'/'all', 30.16 'they', 30.20 'which'/'other', 30.22 'them'. Each answers to no morpheme; the contrasting cases (30.3 'it' resuming עִיר, 30.9 'where' on a present waw, 30.21 'whom' on the object suffix, 30.21 'to' on the object marker) all have a morpheme standing for the word, so there is no added-vs-folded split.",
+    "BSB disagreements: Td ×16, R ×17 and C ×7 are the documented convention differences (articles beside demonstratives/agreement, bare-object datives and range עַד, unrendered apodosis/behold waws). Sh ×2 (30.7, 30.15) are paragogic he on lengthened imperatives, unrepresented under rule 32. אֹת on suffixes (30.11, 30.23) is rule 16. ם of מָחֳרָתָם (30.17) is unrendered in 'the next day'. אִישׁ (30.10) is omitted by the ASV in 'two hundred stayed behind'. שָׁלוֹם (30.21) is absorbed into 'saluted' but held apart from the verb by the dative, so rule 30's contiguity condition fails. None is a genuine error.",
+    "Hedged units left standing with their notes: 30.4 'more' kept inside the אֵין unit as part of 'no more' (added was the alternative); 30.14 bare נֶגֶב takes 'upon' under rule 33's own בֵית־יְהוָה example, the written עַל standing only on the later members; 30.19 מִן takes 'neither' as the range's opening correlative, a waw before it going unrepresented. No promotion: the מִן → 'neither' reading has no corpus precedent shown and is recorded as a chapter convention only."
+  ]
+}

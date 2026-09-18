@@ -1,0 +1,113 @@
+{
+  "alignments": [
+    {
+      "note": "Finite verb with its subject pronoun, headed on the lexical verb.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "οὖν → therefore. SBLGNT.ROM.3.28.v011 selects r01, which carries οὖν; the ASV's note *Many ancient authorities read For we reckon* records the competing reading.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Rule 85: the supplied complementizer belongs to the infinitival complement the ASV expands into a finite clause; the copula auxiliary rides along, headed on the lexical verb. Discontinuous under rule 15.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Dative with its case preposition, headed on the noun (rule 21).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "The expressed accusative subject of the infinitive takes the English subject phrase, its supplied indefinite determiner riding as a helper (rules 74 and 51).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Improper preposition keeping its trailing English preposition: ἔργων is anarthrous, so no article stands to anchor the supplied determiner (rule 101).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Anarthrous noun with supplied determiner as a helper.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Anarthrous genitive with its case preposition and supplied determiner, headed on the noun; the ASV's margin records *works of law*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "ROM.3.28",
+  "review_notes": [
+    "SBLGNT.ROM.3.28.v012 is underdetermined over s003 and s004 and both readings carry those tokens, so no textual question arises in the alignment."
+  ]
+}

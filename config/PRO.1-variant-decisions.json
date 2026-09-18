@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "chapter": "PRO.1",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PRO.1.27.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Ketiv כשאוה and qere כְשׁוֹאָ֨ה are the same lexeme שׁוֹאָה with the consonants transposed, so both yield the ASV's 'as a storm' identically. The only note on PRO.1.27 is 'Or, desolation', classed alternative_rendering: it offers an English synonym for that same word and so cannot distinguish a reading. Nothing in the ASV wording excludes either candidate; the qere base fallback carries the projection."
+    }
+  ]
+}

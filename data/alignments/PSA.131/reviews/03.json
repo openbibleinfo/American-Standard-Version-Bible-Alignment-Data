@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "6aae4fcd480b156be5f19daeb3e86900c11dda6257370e9fe6bf693518aa969a",
+  "contract_version": "ot-hebrew-verse-v213",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Verified the partition: all 9 source ids and all 12 target ids are covered exactly once, with no unrepresented source token and no `added` target token.",
+    "The `מִן … עַד` range writes its second endpoint with a waw, and the ASV writes both a connective and a relational word, so the count rule 26 runs gives *and* to the waw and *for* to `עַד`; rule 14's `וְעַד־בְּהֵמָה` leaves `עַד` unrepresented only because a single *and* is written there for the pair.",
+    "`עַתָּה` → *this time forth* is one unit headed on *time* under rules 24 and 31, the supplied determiner and particle belonging to that one morpheme's rendering; the competing head *forth* is named in the unit note.",
+    "The supplied *O* joins the vocative `יִשְׂרָאֵל` under rule 36 and the imperative keeps only its own *hope*, no subject pronoun being written for either."
+  ],
+  "ref": "PSA.131.3",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

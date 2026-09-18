@@ -1,0 +1,32 @@
+{
+  "chapter": "2SA.13",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2SA.13.21"
+  ],
+  "rejected": {},
+  "conventions": [
+    "A clause-initial waw the ASV answers with a contiguous coordinator+subordinator pair (*and when*, *And when*, *But when*) takes both words as one unit headed on the coordinator (rule 55), whether the waw stands on a verb (13.5, 13.6, 13.11, 13.28) or on a fronted subject noun (13.21). The *while* of 13.30 is `added` because the *it came to pass* frame separates it from the waw's *And* (rule 45).",
+    "הַחוּצָה (13.17) and הַחוּץ (13.18) → *out* are one fused unit each, article included, headed on חוּץ; the *out* is the noun phrase's, not a particle of the hiphil verb (שִׁלְחוּ → *Put*, וַיֹּצֵא → *brought*).",
+    "אָבָה + לְ + infinitive rendered *would not V* (13.14, 13.16, 13.25): אָבָה takes *he would* with its subject pronoun, לֹא takes *not*, the לְ is `unrepresented` under rule 52, and the infinitive keeps the bare verb.",
+    "לְעֵינֵי + suffix → *in my/his sight* (13.5, 13.6, 13.8) splits: לְ takes *in*, עַיִן takes *sight*, the suffix its possessive. Where the ASV instead writes a single *to* for בְּעֵינֵי (13.2), the preposition and construct noun fuse under rule 30.",
+    "לְבַדּוֹ → *only* (13.32, 13.33): לְ and בַּד fuse, headed on בַּד; the suffix is its own `unrepresented` unit under rule 30's suffix sentence, never inside the fusion.",
+    "נַעַר rendered *young man* / *young men* (13.32, 13.34) heads on *young*, which carries the lexeme of youth, with *man*/*men* the supplied generic (rule 31); where the ASV writes *servant(s)* (13.17, 13.18, 13.28, 13.29) the single word is the head."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 39 verses end to end, including every `added` unit, against the 83-lemma candidate table.",
+    "One genuine split, patched: 2SA.13.21 gave the clause-initial waw *But* and marked *when* `added`, while 13.5, 13.6, 13.11 and 13.28 give the same coordinator+subordinator pair whole to the waw under rule 55. *But when king David heard* is that pair, contiguous at the left edge of the waw's own clause recast as subordinate; rule 51's 'waw already holding a connective' reasoning expressly excludes it. Now s001 → *But when*, headed on *But*.",
+    "13.30 *while* stays `added`: the *it came to pass* frame stands between it and the waw's *And*, which is rule 45's asyndetic temporal case, not rule 55's pair.",
+    "Every other candidate is the ASV rendering one word differently: apodosis waws uniformly unrepresented; recast *whose* clauses uniformly give the relative to the suffix and leave the waw nothing; לְבַדּוֹ → *only* uniformly keeps the suffix outside the fusion (13.32, 13.33); הַחוּצָה/הַחוּץ → *out* uniformly fuses the article (13.17, 13.18); אָבָה + לְ + infinitive → *would not V* uniform in 13.14, 13.16, 13.25; לְעֵינֵי → *in X sight* uniform in 13.5, 13.6, 13.8.",
+    "BSB disagreements are all documented convention differences (silenced datives and לֵאמֹר, unrendered apodosis and recast waws, articles beside demonstratives/possessives/*every*/bare nouns, object markers, the 13.25 *us* on the cohortative, the לְבַדּוֹ suffix). Two are ASV omissions rather than errors: נָא unrendered at 13.25 and the cognate בְּכִי at 13.36, where *sore* is spent on גָּדוֹל and the note names fusion as the alternative. No genuine error found; no edge changed for the score.",
+    "No promotions or amendments. Noted tension: 13.33 gives the לְ of לֵאמֹר the written *to* of *to think* under rule 52 against rule 27's flat wording; rule 27 describes the *saying* rendering and rule 52 already covers a written *to*, but without corpus counts on לֵאמֹר rendered with *to* an amendment was not safe."
+  ]
+}

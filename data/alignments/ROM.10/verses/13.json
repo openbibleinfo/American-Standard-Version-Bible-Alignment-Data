@@ -1,0 +1,109 @@
+{
+  "alignments": [
+    {
+      "note": "The ASV wrote one English word for πᾶς ὃς ἄν, and rule 50 records ὃς ἄν → *whosoever* as a single unit in which *who-* answers to the relative and *-soever* to the particle, leaving nothing for the quantifier. Joining all three tokens into one unit remains defensible; rule 2 argues against it.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "γάρ → *for*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Relative compressed with the modal particle into a single *-soever* word (rule 50).",
+      "source": [
+        "s003",
+        "s004"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The verb's object is the accusative τὸ ὄνομα, which English realizes with no preposition, so *upon* is the verb's own government (rule 106); headed on the lexical verb.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Article → *the* (rule 19).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "ὄνομα → *name*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Anarthrous genitive; the supplied determiner and the case preposition both ride with the noun, no article standing (rules 21, 51).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Future passive with auxiliaries, headed on the lexical verb (rule 9).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "ROM.10.13",
+  "review_notes": [
+    "Three source tokens face one English word: rule 50's ὃς ἄν → *whosoever* takes it and πᾶς is left unrepresented, with the competing whole-cluster reading named in the unit's note."
+  ]
+}

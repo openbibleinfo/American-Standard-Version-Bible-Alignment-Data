@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "chapter": "ISA.30",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.ISA.30.5.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the clause as 'They shall all be ashamed,' directly supporting the qere reading associated with shame rather than the ketiv alternative."
+    },
+    {
+      "unit_id": "WLC.ISA.30.32.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV explicitly has the plural 'with them,' distinguishing qere בם from singular feminine ketiv בה; the alternative-rendering note concerns English wording and does not decide the reading."
+    },
+    {
+      "unit_id": "WLC.ISA.30.33.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's neuter English pronoun 'it' does not distinguish the Hebrew feminine qere היא from masculine ketiv הוא, and no mapped textual-variant note decides between them; retain the qere base fallback."
+    }
+  ]
+}

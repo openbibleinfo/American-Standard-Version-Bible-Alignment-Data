@@ -1,0 +1,8 @@
+# 2 Samuel 8 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Tributary formula וַתְּהִי X לְדָוִד לַעֲבָדִים → *X became servants to David* (8.2, 8.6; 8.14 writes it without the לַ): הָיָה takes *became* (rule 21), the resultative לַ before עֲבָדִים is `unrepresented`, the dative לְ takes *to*, and the nation name takes the supplied *the* of its gentilic recasting (*the Moabites*, *the Syrians*, *the Edomites*). BSB attaches the לַ to its phrase; convention difference, not an error.
+- The asyndetic participial phrase נֹשְׂאֵי מִנְחָה that follows that formula → *and brought tribute* (8.2, 8.6): the participle takes *brought*, the noun *tribute*, and the supplied *and* is its own `added` unit under rule 14, since no waw stands before the participle.
+- וַיֹּשַׁע יְהוָה אֶת־דָּוִד בְּכֹל אֲשֶׁר הָלָךְ → *And Jehovah gave victory to David whithersoever he went* (8.6, 8.14): the light verb heads on *victory* (rule 44); the object marker takes the *to* the English phrase needs to reach its object (rule 16); בְּכֹל אֲשֶׁר fuses as *whithersoever* headed on כֹּל as the content-bearing morpheme (rules 30, 23), with the בְּ named as the competing head. Margin 'saved David' read and set aside.
+- הַמֶּלֶךְ דָּוִד → *king David* (8.8, 8.10, 8.11): the ASV writes no *the* for the title, so the article is its own `unrepresented` unit (rule 29). BSB represents it; convention difference.

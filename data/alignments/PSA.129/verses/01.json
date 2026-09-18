@@ -1,0 +1,159 @@
+{
+  "alignments": [
+    {
+      "note": "Construct noun of the superscription; the indefinite article belongs to the nominal expression under rule 15.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Article on the rectum; the ASV writes no *the* for the phrase, so the morpheme is unrepresented under rule 29.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Nomen rectum takes the chain's *of* under rule 19, headed on the noun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "One substantive rendered by a multi-word phrase: *time* is the generic the ASV supplies to complete the quantifier, so the head stays on *Many* under rule 31. The margin's *Or, Much* was read and set aside under rule 38.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Finite verb with its subject pronoun and auxiliary under rule 17, headed on the lexical verb.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Object suffix realized by *me* under rule 18.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "The ASV writes the ablative as the discontinuous circumposition *from ... up*; both words belong to the one preposition under rules 24 and 25, headed on *from*, which carries the relation. The competing reading marks *up* `added` under rule 30; I took the preposition's, since English writes *from my youth up* as one relational frame and no other morpheme answers to the word.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t015"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Noun of the prepositional phrase.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Possessive suffix under rule 18.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Jussive rendered by the volitive frame *Let ... say*; the framing word joins the verb's unit under rule 17, discontinuous around the subject and particle under rule 25, headed on the lexical verb.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Entreaty particle rendered by *now*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Proper name as subject of the jussive.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "PSA.129.1",
+  "review_notes": [
+    "The superscription is aligned as ordinary source text: `שִׁיר` takes the supplied *A* under rule 15 and the article on `מַעֲלוֹת` is unrepresented for want of a written *the*.",
+    "`מִן` is read as the discontinuous *from ... up*; the alternative leaving *up* `added` is named in that unit's note."
+  ]
+}

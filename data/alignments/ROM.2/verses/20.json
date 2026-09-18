@@ -1,0 +1,194 @@
+{
+  "alignments": [
+    {
+      "note": "Anarthrous noun; the supplied indefinite determiner is a rule 7 helper on the noun (rule 51's anarthrous clause). The ASV's margin offers *an instructor*, but the text reads *corrector*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Substantival adjective with no Greek article; under rule 58 it is the nominal word and takes the supplied determiner itself, the case preposition *of* riding along under rule 21.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Anarthrous noun with supplied indefinite determiner as a rule 7 helper.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Anarthrous genitive noun; *of* realizes the case and stays with the noun under rule 21's determinerless clause.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Participle rendered by a bare English participle.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Preposition realized by *in*; the phrase is fronted in the ASV ahead of the noun phrase it modifies.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Article realized by *the* under rule 19; the governed noun stands bare.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Accusative-of-place noun rendered by the bare noun.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Article governing an expressed noun, realized by *the* under rule 19.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Noun rendered by *form*; its determiner stands on the article in front of it.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "The ASV writes *of knowledge* with no determiner, so no English *the* stands for this article to anchor; it is unrepresented under rule 23 and the case preposition stays with the noun under rule 21's determinerless clause.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive noun with the case preposition *of* riding on the noun, its article being unrepresented.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Coordinating conjunction realized by *and*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Here the ASV does write a determiner, so the article takes *the* with the case preposition *of* riding along under rule 21, headed on *the*. Rule 24: the two genitives of this verse are rendered differently by the ASV, and each is analysed by what the ASV wrote for it. The repeated *of* is a rule 7 helper on the member it introduces under rule 103, not `added`.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Noun rendered by *truth*, bare, its determiner and case preposition standing on the article.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    }
+  ],
+  "ref": "ROM.2.20",
+  "review_notes": [
+    "All 15 source and 21 target ids partitioned exactly once.",
+    "The two parallel genitives τῆς γνώσεως and τῆς ἀληθείας are treated differently only because the ASV writes *of knowledge* and *of the truth*; rule 21 makes the presence of an English determiner the test, and rule 24 requires the same analysis be applied to both, which it is."
+  ]
+}

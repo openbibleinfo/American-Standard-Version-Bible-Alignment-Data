@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "chapter": "1CH.4",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1CH.4.7.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV renders the name as 'Izhar'; its mapped textual-variant note identifies 'Zohar' as another reading, distinguishing the ketiv r01 as the reading represented in the main text."
+    },
+    {
+      "unit_id": "WLC.1CH.4.20.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the name as 'Tilon', which distinguishes the qere/base reading r00-base from the ketiv alternative."
+    },
+    {
+      "unit_id": "WLC.1CH.4.41.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the people as 'the Meunim', which distinguishes the qere/base reading r00-base; the Hebrew-gloss note concerns 'destroyed them utterly' and does not map to this name."
+    }
+  ]
+}

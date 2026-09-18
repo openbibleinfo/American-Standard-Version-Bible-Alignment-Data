@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "chapter": "LAM.3",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.LAM.3.10.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 3:10 reads 'as a lion in secret places'. The qere ari and the ketiv aryeh are the two ordinary forms of the same noun 'lion' with the same sense and number; the English 'a lion' renders either identically and no ASV note is mapped here, so nothing in the ASV distinguishes them. Base fallback (qere) carries the projection."
+    },
+    {
+      "unit_id": "WLC.LAM.3.20.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 3:20 reads 'My soul hath them still in remembrance, and is bowed down within me' — an intransitive bowing of the soul itself, which is the qere we-tashoach (Qal of shuach, 'and is bowed down'). The ketiv wa-tasiach would give either 'and muses/meditates' (siach) or a causative 'bows [it] down'; the ASV renders neither, so its wording selects the qere."
+    },
+    {
+      "unit_id": "WLC.LAM.3.32.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 3:32 reads 'according to the multitude of his lovingkindnesses' — an explicit plural noun. The qere chasadaw is plural 'his lovingkindnesses'; the ketiv chasdo is singular 'his lovingkindness', which the ASV's plural excludes. The English number distinguishes the reading."
+    },
+    {
+      "unit_id": "WLC.LAM.3.39.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 3:39 reads 'a man for the punishment of his sins' — plural 'sins', matching the qere chata'aw against the singular ketiv chet'o 'his sin'. The mapped note 'Or, a man that is in his sins' is classed alternative_rendering and concerns the English construction only, but it also carries the plural; the ASV's plural noun selects the qere."
+    }
+  ]
+}

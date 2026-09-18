@@ -1,0 +1,12 @@
+{
+  "alignment_sha256": "0370df3393ec1b2433822676888908d9fb04a7de371445e08d059eeab7cc8636",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "Corrected the head of s010 οἵτινες → 'men who' from the relativizer to 'men'. Rule 77 splits on whether the supplied word has content of its own: its bare-antecedent list is wholly pronominal ('he whom', 'him whom', 'him of whom', 'that which'), while a supplied generic noun is the nominal the relative substantivizes and takes the head, fifteen corpus units to four. 'men' is a generic noun of the 'things' type, not a pronoun or determiner, so the earlier classification of it as a bare antecedent misapplied that test.",
+    "Edges are unchanged; only the target head of that one unit moved. s008 and s013 are the same root rendered twice and each keeps its own English."
+  ],
+  "ref": "MRK.15.7",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

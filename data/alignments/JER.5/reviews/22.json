@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "ff681878fce6730044daf1d6d0579b25d6cda34a3ada83a3742f6b991b3b0b1c",
+  "contract_version": "ot-hebrew-verse-v57",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 39 source and 55 target tokens are partitioned exactly once, with one `added` unit.",
+    "s001 הֲ is `unrepresented` because the ASV marks the first question by inversion alone, while s008 אִם takes the fronted *will* — the asymmetry is read off the ASV rather than imposed.",
+    "The concessive *though* at t035 is `added`: the waw of וַיִּתְגָּעֲשׁוּ already has the *and* written for it, so rule 55 applies and the subordinator may not be folded into the waw. The second colon's waw is a different case, being the only connective written for it.",
+    "*cannot* is kept undivided on the negative, following rule 48's ruling on the same fused word; מִפָּנַי is split because the ASV spends a word on each morpheme, so rule 30's one-rendering condition is unmet.",
+    "The ASV footnote 'Or, an everlasting ordinance which it cannot pass' offers an alternative construal of s021–s025 and does not change the alignment of the text as printed."
+  ],
+  "ref": "JER.5.22",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

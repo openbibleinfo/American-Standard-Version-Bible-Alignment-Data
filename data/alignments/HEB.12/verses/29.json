@@ -1,0 +1,92 @@
+{
+  "alignments": [
+    {
+      "note": "The ASV writes only \"for\" here, which answers to γάρ; no English word realizes the connective καί, so it is its own unrepresented unit under rule 23.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "γάρ → \"for\".",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The genitive pronoun ἡμῶν is present and free to carry the possessive \"our\", so rule 20 proper applies and the article realizes nothing.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "θεός → \"God\", bare, the determiner slot being taken by the possessive on ἡμῶν.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "ἡμῶν → \"our\" under rule 20.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Verbless clause with an expressed noun subject (ὁ θεός), so rule 63 gives the supplied copula to the predicate nominal rather than to the subject: πῦρ takes \"is a … fire\", discontinuously under rule 15, exactly as πνεῦμα ὁ θεός → \"God is a Spirit\" does. Headed on \"fire\", the word realizing the lexeme.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Attributive participle καταναλίσκον → \"consuming\", split from its noun under rule 26.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    }
+  ],
+  "ref": "HEB.12.29",
+  "review_notes": [
+    "All 7 source and 7 target ids partitioned exactly once.",
+    "καί is left unrepresented: the ASV's single \"for\" answers to γάρ, and no second connective word is written. A reference comparison may report this as a disagreement.",
+    "The copula placement follows rule 63 (noun subject → predicate nominal carries \"is\"), not the ASV's word order, which writes \"God is\" together."
+  ]
+}

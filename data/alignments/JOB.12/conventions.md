@@ -1,0 +1,7 @@
+# Job 12 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Surplus-particle line for this chapter's verbs of removal and leading: 'away' stays with sur hiphil (12.20 removeth, 12.24 taketh away), halak hiphil (12.17, 12.19 leadeth away) and laqach (12.20 taketh away), read as completing the removal the Hebrew verb writes in context; 'again' for niphal banah (12.14) and 'captive' for nachah hiphil (12.23) are added, because 'be built' and 'leadeth' already write the lexeme and nothing in the clause writes the repetition or the result. Competing reading for 12.20 laqach marks 'away' added.
+- A verbless presentative colon with a negative and no verb (12.24 lo-darekh → 'there is no way') puts the whole 'there is no' on lo, headed on no, by rule 50's reasoning for ayin; where the clause has a verb (12.14 'there can be no opening') the frame goes to the verb and lo keeps 'no', and where it has no negative (12.5 'there is contempt') the frame goes to the predicate noun under rule 20.
+- Gapped preposition in a parallel colon (12.12 ve'orekh yamim tevunah → 'And in length of days understanding'): the ASV's 'in' is a different word from the 'With' written for the first colon's beth, so it is not rule 25's repeated distribution; it goes to the bare nominal under rule 33.

@@ -1,0 +1,127 @@
+{
+  "alignments": [
+    {
+      "note": "Connective δέ rendered by the verse-opening And. Variant SBLGNT.JAS.3.18.v013 is underdetermined and the base reading, which carries δέ, is among the compatible readings, so no textual decision is made here (rule 12); the packet carries no FALLBACK EXCLUDED BY EVIDENCE mark, so rule 97 is not in question.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The Greek is anarthrous, so no article competes for the determiner slot and the supplied the is an ordinary rule 7/51 helper on the noun it determines; head on the noun.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Genitive noun rendered of + noun. No article stands to anchor a the, so the case preposition stays with the noun (rules 21, 23) and rule 17 heads on the noun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Passive indicative with its auxiliary; rule 9/17 choose the lexical verb sown over the auxiliary is.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Preposition realized by in (rule 36).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Dative noun; the preposition is expressed by ἐν, so the noun stands alone. Kept separate from the accusative εἰρήνην of s009 under rule 2, each English peace being independently recoverable.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Substantival article before a participle: rule 32 gives it the pronoun them and nothing else, the relativizer that staying with the participle. The dative's case preposition for rides with the article under rule 21, which gives the case preposition to whichever word takes the English determiner-slot word; rule 17 then heads the unit on the nominal them rather than on for. The competing reading would leave for with the participle, splitting a case marker from the word whose case it realizes. The ASV margin (Or, by) offers an alternative rendering of this same for and changes nothing in the alignment.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Attributive participle rendered as a finite relative clause; the relativizer that is a rule 7/31 helper on the participle, headed on the lexical verb make (rule 32's they that dwell shape).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Accusative object of the participle, rendered by the bare noun.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "JAS.3.18",
+  "review_notes": [
+    "Reviewed against the accepted alignment and left the unit structure and all heads unchanged; the only edit is to the s007 note, which cited rule 42 for the riding-along for. Rule 42 governs an improper preposition and none is expressed here, so the citation now rests on rule 21 alone.",
+    "Every s### and t### id is partitioned exactly once; no unit is empty on both sides, and every unit is aligned with both heads members of their arrays.",
+    "s007 τοῖς: taken under rule 32 (pronoun only, participle keeps that make) rather than rule 22 (whole them that on the article), because a participle follows. The competing reading would put t010-t012 on the article; rule 32 forbids it in terms.",
+    "s001 is anarthrous, so the supplied the is a rule 7 helper on the noun under rule 51's anarthrous clause, not evidence of an article to align and not an article to leave unrepresented.",
+    "s003 takes of + righteousness whole because no article stands to anchor a the; rule 21 forbids leaving a bare of on an article, and rule 23's determinerless case keeps the preposition on the noun.",
+    "Variant SBLGNT.JAS.3.18.v013 is underdetermined with r00-base among the compatible readings and carries no FALLBACK EXCLUDED BY EVIDENCE mark, so rule 97 does not apply and rule 12 bars revisiting the reading inside this file.",
+    "The two εἰρήνη tokens (s005 dative, s009 accusative) stay separate units under rule 2; the shared lexeme is no reason to join them."
+  ]
+}

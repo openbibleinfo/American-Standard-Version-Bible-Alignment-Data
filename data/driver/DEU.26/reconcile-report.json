@@ -1,0 +1,27 @@
+{
+  "chapter": "DEU.26",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The presentative wehayah frame opened in DEU.26.1 has its apodosis in DEU.26.2. DEU.26.1 writes no complementizer, so its hayah takes only \"it shall be\" and rule 45 has nothing to place there; the \"that\" opening DEU.26.2 belongs to that verse's own waw, which is rule 45's second shape. Nothing else in this chapter crosses a verse boundary.",
+    "Every BSB status disagreement in this chapter was reviewed and left standing. The twelve R disagreements are lamedhs the ASV's recasting leaves with no English word - the bare indirect object of \"giveth thee\" and \"given us\" (26.1, 26.2, 26.3, 26.9, 26.10, 26.15), the resultative before \"became\" and \"to be\" (26.5, 26.17, 26.18), and the three coordinated infinitival lamedhs of 26.17 for which only one \"that\" is written. The thirteen Td disagreements are articles the ASV renders by a demonstrative (26.3, 26.9, 26.16) or not at all (26.15 \"heaven\", 26.16 \"ordinances\", 26.19 \"nations\", the agreement article on the ordinal at 26.12). The Sh of 26.15 and the object marker of 26.16 go the same way. These are convention differences under rules 40, 52, 41, 47, 29, 32 and 16, not corrections, and the 94.8% figure is not to be improved by moving any of them."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v138",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 45 candidate lemma groups. Every multi-treatment bucket resolves either to a different English word the ASV actually wrote or to a different source morpheme standing in the phrase, so none is a split. The waw is aligned to and / And / that / then / therefore as written (26.2's that is the frame complementizer of rule 45, 26.12's then the apodosis connective of rule 14, 26.16's postposed therefore read as rule 51 reads a postposed also); every lamedh is aligned where a function word stands for its own relation and unrepresented where the recasting leaves none (rules 40, 52); bet, 'el and 'al follow the written preposition; min splits into from / out of / any of / thereof by what the ASV wrote.",
+    "The one phrase the chapter renders two ways is hayyom. In 26.3, 26.17 and 26.18 no demonstrative pronoun stands in the phrase, so the article itself takes the written this (rule 41); in 26.16 hayyom hazzeh writes a demonstrative, which takes This while the noun's article and the agreement article are both unrepresented (rules 41, 47) - the same count 26.9 runs for hammaqom hazzeh and ha'arets hazzo't and 26.16 for hachuqqim ha'elleh. The difference is licensed by the source and is not a split.",
+    "Read the dump end to end for the asymmetry the candidate table cannot see: a supplied word marked added in one verse and folded into a neighbour in another. The five added units are 26.2 it, 26.12 which and it, 26.13 them, 26.14 my. Each stands where no morpheme licenses it, and the same English words go to a present morpheme everywhere else in the chapter - the object pronouns to a verbal suffix at 26.4, 26.10, 26.13 and 26.16, and a supplied my to the article of habbayit at 26.13 under rule 41, against 26.14 where MACULA reads 'oni as an absolute noun with no suffix at all. Consistent in both directions.",
+    "Cross-verse construction: the presentative wehayah of 26.1 has its apodosis in 26.2. 26.1 writes no that, so its hayah takes only it shall be, and the that opening 26.2 goes to that verse's own waw under rule 45. Both verses were aligned on that reading and they agree; this is the only construction in the chapter that spans a verse boundary, and it is now in the log.",
+    "Recipient lists and construct chains were compared verse against verse: the tithe lists of 26.12 and 26.13 track the ASV word for word, including the extra waw 26.13 writes before laggēr; re'shit / peri / ha'adamah in 26.2 and 26.10 divide identically (rectum takes the chain's of, construct takes a supplied the, the one article takes the the standing before its own word), and 26.12's shenat hammaʿaser is the fronted case of rule 29 because the ASV renders the rectum anarthrously there. All four kaʾasher fusions head on the preposition and all five lipne fusions on panim, as rule 23 directs.",
+    "BSB: 27 status disagreements, none a genuine error. R x 12 across eight verses are the dative, resultative and infinitival lamedhs the ASV leaves with no word (rules 40, 21, 52); Td x 13 are articles the ASV renders by a demonstrative, or not at all (rules 41, 47, 29); the Sh of 26.15 is the paragogic he of rule 32, the down of Look down being the verb's phrasal particle under rule 44; the To of 26.16 is an unrendered object marker whose suffix takes them (rules 16, 18). All four are the documented convention differences, and no accepted edge was changed.",
+    "Most contestable single units, each already carrying its competing reading in the verse note and none of them a cross-verse inconsistency: the added which of 26.12 (the alternative reads which is as a construction-supplied relative frame on the appositional noun, on the analogy of rule 41, which however governs an adjective or participle); the being of 26.14 on the circumstantial bet; and few in number at 26.5. No promotion is offered on the strength of any of them - one occurrence apiece, no corpus precedent in the briefing, and a weak rule is paid for by every chapter after this one."
+  ]
+}

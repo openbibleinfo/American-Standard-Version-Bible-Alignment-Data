@@ -1,0 +1,191 @@
+{
+  "alignments": [
+    {
+      "note": "Adverb.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Causal particle.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Article to 'the'; rule 19.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Finite verb with its supplied subject; head on the lexical verb, discontinuous under rule 15.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The italicized 'and that' is a supplied coordinating frame at an asyndetic seam between two like constituents both rendered alike — the adverbs εὐτόνως → 'powerfully' and δημοσίᾳ → 'publicly' — and no source token carries the coordination. Rule 98 makes such a juncture added under rule 5, citing REV.15.6's juncture between adjectives by name, and rule 88's protection is scoped in terms to a circumstantial participle converted into a coordinate finite clause, which this is not. Folding the frame onto δημοσίᾳ as the expression the ASV builds for that adverb is the competing reading, but the adverb's own English is complete in 'publicly' and rule 103's licensing test leaves nothing for the frame to belong to.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Adverb.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Participle.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Article to 'the'; rule 19.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Infinitive expanded into a finite clause; the supplied complementizer belongs to the expanded non-finite complement under rule 85, discontinuous under rule 15.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Article to 'the'.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Name, fronted as the English subject; rule 15.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "ACT.18.28",
+  "review_notes": [
+    "The accepted alignment folded the italicized 'and that' onto δημοσίᾳ. Rule 98 settles this shape the other way: the seam is asyndetic and joins two adverbs both rendered as adverbs, so the supplied juncture is added, and its governing precedent 2CO.3.7 concedes nothing.",
+    "The frame is kept as one added unit rather than split, both words being unlicensed parts of a single supplied connective, as ACT.18.18's 'after this' is kept whole.",
+    "εἶναι takes 'that … was' under rule 85."
+  ]
+}

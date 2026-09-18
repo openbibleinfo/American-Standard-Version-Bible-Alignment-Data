@@ -1,0 +1,337 @@
+{
+  "schema_version": 1,
+  "chapter": "JHN.14",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.JHN.14.2.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders a causal connective before the last clause: 'I would have told you; for I go to prepare a place for you.' The omission leaves 'I go to prepare' asyndetic, with nothing for 'for' to render."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.3.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV opens the verse 'And if I go and prepare a place for you', rendering the connective the omission drops."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.3.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only; 'prepare a place for you' is the same English under either sequence of the pronoun and noun."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.4.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The ASV text reads 'ye know the way'; its textual note, 'Many ancient authorities read And whither I go ye know, and the way ye know', puts the longer reading (kai ten hodon oidate) in the margin, so the shorter reading stands in the text."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.5.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV begins Thomas's question with no connective: 'we know not whither thou goest; how know we the way?' The added kai would surface as 'and how'."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.5.v006",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'how know we the way?' with no modal. dunametha ... eidenai would give 'how can we know the way'; the plain indicative oidamen ten hodon is what the ASV renders."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.6.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "An article whose presence or absence the English does not show; ASV's nouns in 'the way, and the truth, and the life' are articular either way."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.7.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's 'If ye had known me' is a pluperfect in a contrary-to-fact protasis, rendering egnokeite, not the perfect egnokate ('if ye have known me')."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.7.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's 'ye would have known my Father also' is an unreal apodosis with an, which excludes the future gnosesthe ('ye shall know'); it does not distinguish an edeite from egnokeite an, both of which yield 'would have known'."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.7.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV runs on with a colon and no connective, 'my Father also: from henceforth ye know him'; the added kai would surface as 'and from henceforth'."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.7.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "English requires an object for these transitive verbs, so 'ye know him, and have seen him' is what the ASV would read whether or not the Greek pronoun is expressed."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.9.v012",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Case only: dative and accusative of duration both give ASV's 'so long time'."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.9.v013",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'how sayest thou, Show us the Father?' with no connective; the added kai would surface as 'and how sayest thou'."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.10.v014",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV distinguishes the two verbs: 'the words that I say unto you I speak not from myself.' 'say' renders lego against 'speak' for the following lalo; the lalo reading would put the same verb in both places."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.10.v015",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "An article the English does not show; ASV reads 'the Father' either way."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.10.v016",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'but the Father abiding in me doeth his works', with no resumptive pronoun; the added autos would surface as 'he doeth'."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.10.v017",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'doeth his works'; the possessive renders autou, which the omission lacks ('doeth the works')."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.11.v018",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV supplies the object in the second clause: 'or else believe me for the very works' sake.' The 'me' there renders the added moi."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.12.v019",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'because I go unto the Father', without the possessive that mou would give ('unto my Father')."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.14.v020",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "The ASV text reads 'If ye shall ask anything in my name' with no object, and its note 'Many ancient authorities add me' assigns me to the margin; the text therefore omits it."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.14.v021",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's 'that will I do' has both a fronted object and an expressed subject, but English needs an object for 'do' and a subject pronoun in either case, so it does not settle ego against touto."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.15.v022",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'ye will keep my commandments', a future indicative in the apodosis, not the imperative 'keep my commandments' that teresate would give."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.16.v023",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV reads 'that he may be with you for ever'; 'be' excludes mene ('that he may abide'), but does not distinguish the copula standing here from the same copula placed after 'for ever'."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.16.v024",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Placement only: 'that he may be with you for ever' reads identically whether the copula precedes or follows 'for ever'."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.17.v025",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "English requires an object for the verb, so ASV's 'neither knoweth him' stands whether or not the Greek pronoun is expressed."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.17.v026",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV sets the clause off with a colon and no adversative: 'neither knoweth him: ye know him'. The added de would surface as 'but ye know him'."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.17.v027",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'and shall be in you', a future rendering estai, not the present estin ('and is in you')."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.19.v028",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Active and middle futures of the same verb; both give ASV's 'ye shall live also'."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.20.v029",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only; 'ye shall know' is the same English under either sequence of verb and pronoun."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.22.v030",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'Lord, what is come to pass that thou wilt manifest thyself unto us', with no connective before the question; the added kai would surface as 'and what'."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.23.v031",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Middle against active of the same verb; ASV's 'make our abode with him' needs the possessive for the English idiom either way, so the voice is not shown."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.26.v032",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "English needs a subject pronoun for 'said' regardless, so ASV's 'all that I said unto you' does not show whether the emphatic ego stands in the Greek."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.28.v033",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's 'Ye heard how I said to you' renders a single verb of speaking after the connective and does not show a second one; the English cannot be traced to one reading rather than the other."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.28.v034",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'for the Father is greater than I', without the possessive that mou would give ('my Father')."
+    },
+    {
+      "unit_id": "SBLGNT.JHN.14.31.v035",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV's periphrasis 'as the Father gave me commandment' renders the noun-plus-verb entolen edoken; eneteilato would give the single verb 'commanded me'."
+    }
+  ]
+}

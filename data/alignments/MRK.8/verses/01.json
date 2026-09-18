@@ -1,0 +1,222 @@
+{
+  "alignments": [
+    {
+      "note": "Preposition to *In*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Attributive demonstrative takes the English determiner slot.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Rule 38: the demonstrative already occupies the determiner slot, so the article realizes nothing.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun to *days*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Genitive-absolute participle rendered as a finite clause; the supplied subordinator *when* and expletive subject are rule 7/86 helpers on the participle, which licenses the subordination.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Adverb to *again*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Attributive adjective to *great*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Rule 58: adjective and noun both anarthrous, so the supplied determiner *a* belongs to the noun, discontinuously under rule 15.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Conjunction to *and*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Rule 59: the negator stands with a plain indefinite carrying no negation of its own, so the single English word spells the negation into *no-* and the indefinite into *-thing* and the pair is one unit. Giving *nothing* to the indefinite alone and emptying the negator under rule 41 is the competing reading, but rule 41 requires a second negative word.",
+      "source": [
+        "s010",
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Participle rendered as a finite clause with supplied subject.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Subjunctive rendered by the infinitive; *to* is its own rule 7 helper, no conjunction governing the clause.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "προσκαλέομαι is *call unto him(self)*; the reflexive complement is part of the verb's own English expression.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018",
+        "t019",
+        "t020"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Rule 20 second arm: no genitive pronoun stands to take the supplied possessive, so the article is what *his* realizes.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Noun to *disciples*.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Rule 88: the participle is converted to a coordinate finite clause and the supplied juncture *and* is a helper on the finite verb it introduces.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t023",
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Dative pronoun with its case preposition.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t025",
+        "t026"
+      ],
+      "target_head": "t026"
+    }
+  ],
+  "ref": "MRK.8.1",
+  "review_notes": [
+    "The μή/τί pair is joined under rule 59's plain-indefinite arm; rule 41 would empty μή only if the second word were itself a negative.",
+    "Both supplied possessives and junctures are rule 7 helpers, not `added`."
+  ]
+}

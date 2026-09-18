@@ -1,0 +1,12 @@
+{
+  "alignment_sha256": "f4b9a56bd59bca264e1afbd51992e7f94d434bfc8f3bc434caf188cb25114315",
+  "contract_version": "ot-hebrew-verse-v217",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Large-source-unit check: yitav be'ene -> 'it pleased' is rule 40's contiguous fusion; retained, headed on the verb. The second be'ene is not contiguous with tov and is left unrepresented under rule 30's contiguity limit.",
+    "Scoped deferred investigation PARITY-119 independently resolved; evidence: data/audits/retrospective-deferred-2026-09-14/receipts/2SA.3.36.json. Original full-review coverage is carried forward only for exact unchanged units and metadata. Two fresh sessions independently agreed on the changed source/target ownership, heads and statuses. Unit notes come from the recorded assessment; their independent agreement is recorded separately. No new full-verse review or new historical review is claimed; original identity, dates and contract provenance are preserved."
+  ],
+  "ref": "2SA.3.36",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

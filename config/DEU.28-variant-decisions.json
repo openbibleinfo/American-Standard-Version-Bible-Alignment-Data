@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "DEU.28",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.DEU.28.27.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV renders 'and with the emerods', a single term for the same affliction that both readings name: qere ובטחרים (tumors/hemorrhoids) and ketiv ובעפלים (swellings/tumors) are synonymous euphemism pairs, so the English word cannot show which was before the translators. The only note here is classed alternative_rendering ('Or, tumors. Or, plague boils'), which concerns English wording and never decides a reading. No italicized supply bears on the choice. Underdetermined; the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.DEU.28.30.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'another man shall lie with her'. 'Lie with' is the plain lexical rendering of the qere ישכבנה (שכב, to lie down with); the ketiv ישגלנה (שגל) means to ravish or violate, which the ASV does not say, here or in a note. The two readings differ in English-visible force, not merely in spelling, and the ASV wording matches the qere, so the ASV distinguishes this reading. No mapped textual_variant note qualifies it."
+    }
+  ]
+}

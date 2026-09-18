@@ -1,0 +1,27 @@
+{
+  "chapter": "2SA.4",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The name Ish-bosheth arrives as two source tokens (אִישׁ + בֹּשֶׁת, tagged Np/Np or Ncmsc/Np). Throughout the chapter (4.5, 4.8 twice, 4.12) the pair is one rule 30 unit headed on the first token, and where the name is the rectum of a construct chain the chain's 'of' joins that same unit, headed on 'Ish'.",
+    "Where the ASV writes the name Ish-bosheth for a Hebrew that has only בֶּן־שָׁאוּל (4.1, 4.2), the name is its own added unit headed on 'Ish' under rule 17, and בֶּן and שָׁאוּל keep 'son' and 'Saul's' (rule 29 possessive recast). It is not folded onto either noun.",
+    "The chapter keeps every English phrasal particle with its verb under rule 44: 'took him up' (נשא, 4.4), 'take you away' (בער, 4.11) and 'hanged them up' (תלה, 4.12), the last read as the fixed English phrasal verb for hanging rather than a surplus direction; the supplied objects 'them' and 'it' in 4.12 are added, since the verbs carry no object suffix."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 38 candidate groups against the twelve verses. Every difference is one the ASV licenses: the waw table is ASV connectives (And/and, Now when, And when, as, that, Now, But) plus two apodosis waws the ASV leaves bare (4.1, 4.7) and the two unrendered waws of 4.10's participial recasting and 4.11's וְעַתָּה → 'now'; the article table is demonstrative/possessive/no-the cases (4.3, 4.8 'this day'; 4.7 'all night'; 4.5 'at noon'; 4.12 'his young men'); the בֵּן, מִן, לְ, אֶל, עַד and כִּי groups follow the English written.",
+    "Constructions that recur were checked for identical treatment and are consistent: the supplied name Ish-bosheth in 4.1 and 4.2 is `added` both times with 'Saul's son' left to בן־שאול; the two-token name אִישׁ בֹּשֶׁת (4.5, 4.8 ×2, 4.12) is fused under rule 30 headed on the first token with the rectum's 'of' inside the unit; 'the sons of Rimmon the Beerothite' (4.2, 4.5, 4.9) divides identically; the 'when ... , [apodosis]' frames of 4.1 and 4.7 both give the pair to the opening waw and leave the apodosis waw unrepresented; וְהוּא שֹׁכֵב in 4.5 and 4.7 gives 'as' to the waw and 'he' to the pronoun; 'was dead'/'is dead' (4.1, 4.10) both stay whole on the perfect; the phrasal particles of 'took him up' (4.4), 'take you away' (4.11) and 'hanged them up' (4.12) are all kept with the verb, and the supplied objects 'them'/'it' of 4.12 are added.",
+    "4.2 'that were captains' (appositive noun recast as a relative, kept with the noun) and 4.6 'as though they would have fetched' (circumstantial participle recast as an adverbial clause, subordinator added) are different constructions — a relative realizing an attributive relation versus an adverbial conjunction no morpheme carries — and not a split.",
+    "Single-verse judgments reviewed and left standing with their notes naming the alternative: 4.6 הֵנָּה read as the adverb 'thither' the ASV prints (rule 53 closing); 4.8 'hath avenged' fusing נתן + נקמות across the object on rule 35's reasoning; 4.10 'have' on the periphrastic הָיָה, 'was' on the predicate לְ under rule 49, 'thinking' as a noncompositional בְּעֵינָיו; 4.11 אַף → 'How much more' with 'when' on כִּי.",
+    "BSB disagreements (C ×5, Td ×6, R ×4, 4.9 אֶת, 4.10 הוּא, 4.10 cohortative ה) are all documented convention differences — unrendered connectives, articles beside demonstratives or absent the's, rule-40 datives and the unrendered comparative כ, the object marker, a subject pronoun the ASV's participial recasting drops, and a paragogic he. None is an error.",
+    "No promotions or amendments: nothing here generalises beyond the contract as written, and the two-token name segmentation is a data shape the pipeline models elsewhere."
+  ]
+}

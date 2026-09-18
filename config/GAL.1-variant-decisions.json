@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "chapter": "GAL.1",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.GAL.1.3.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text reads \"from God the Father, and our Lord Jesus Christ\", attaching hemon to kyriou (base). The mapped textual_variant note gives the alternative \"from God our Father, and the Lord Jesus Christ\" (r01) as the margin, so the ASV text renders the base order."
+    },
+    {
+      "unit_id": "SBLGNT.GAL.1.4.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "hyper and peri are both rendered \"for our sins\"; the ASV wording does not distinguish the prepositions and the only notes on the verse are alternative_rendering (age; God and our Father), which cannot decide a reading."
+    },
+    {
+      "unit_id": "SBLGNT.GAL.1.4.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "\"out of this present evil world\" renders either Greek word order identically; English attributive order is fixed and carries no witness to the position of enestotos. No textual_variant note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.GAL.1.8.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Present euangelizetai and aorist euangelisetai in this subjunctive clause are both rendered \"should preach\"; the ASV makes no aspectual distinction and no mapped note addresses it."
+    },
+    {
+      "unit_id": "SBLGNT.GAL.1.8.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text has \"should preach unto you any gospel\", rendering hymin; the mapped textual_variant note \"Some ancient authorities omit unto you\" places the omission (r01) in the margin, confirming the text follows the base."
+    },
+    {
+      "unit_id": "SBLGNT.GAL.1.10.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads \"if I were still pleasing men\" with no conjunction, while it does render the earlier gar (\"For am I now seeking\"); the added gar of r01 is unrepresented, so the text follows the base."
+    },
+    {
+      "unit_id": "SBLGNT.GAL.1.11.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV opens \"For I make known to you, brethren\" — \"For\" renders gar (base); de would give \"But/Now\". The connective is explicit in the English."
+    },
+    {
+      "unit_id": "SBLGNT.GAL.1.12.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the correlative pair \"For neither did I receive it from man, nor was I taught it\"; \"neither ... nor\" answers oute ... oute (base), whereas oude would give \"not even/nor\" without the first correlative member."
+    },
+    {
+      "unit_id": "SBLGNT.GAL.1.15.v009",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads \"when it was the good pleasure of God\", with an unitalicized subject God answering ho theos; the base lacks any such subject, so the text includes the addition."
+    },
+    {
+      "unit_id": "SBLGNT.GAL.1.18.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "\"after three years\" renders either order; English fixes numeral before noun and carries no witness to the Greek sequence, and no textual_variant note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.GAL.1.18.v011",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV names the man \"Cephas\", transliterating Kephan (base); Petron would be rendered \"Peter\". The proper name is decisive."
+    }
+  ]
+}

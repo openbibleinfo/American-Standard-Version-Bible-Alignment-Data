@@ -1,0 +1,147 @@
+{
+  "alignments": [
+    {
+      "note": "Particle rendered 'Even'.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Noun with its supplied indefinite article (rule 15).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Supplied subordinator for a clause with no conjunction morpheme in it; the participle is recast as a finite temporal clause and nothing licenses the word (rule 55).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Participle recast as a finite clause with its subject pronoun (rule 17); 'holdeth his peace' is the fixed English idiom the verb is rendered by and heads on the complement (rules 30 and 44).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The Niphal the Hebrew writes once is realized twice: the ASV rewrites its clause as the italic 'is esteemed' in the second colon, which joins this verb's one discontinuous unit headed on the first occurrence (rules 34 and 25).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t018",
+        "t019"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Predicate adjective rendered 'wise'.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Second supplied subordinator, on the same terms as the first: no conjunction morpheme stands in the clause (rule 55).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Participle recast as a finite clause with its subject pronoun (rule 17); the ASV resumes that same subject in the following colon, and both pronouns belong to this morpheme's discontinuous unit (rule 25).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014",
+        "t017"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Noun rendered 'lips'.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Pronominal suffix rendered by the possessive (rule 18).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Predicate participle rendered 'prudent'; the italic 'as' is the supplied word stating what this bare nominal contributes and joins its unit (rule 33). The margin's alternative construal was read and set aside (rule 38).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t020",
+        "t021"
+      ],
+      "target_head": "t021"
+    }
+  ],
+  "ref": "PRO.17.28",
+  "review_notes": [
+    "Both 'When's are added under rule 55; the Hebrew writes no conjunction in either participial clause.",
+    "The italic 'is esteemed' is the second realization of the one written yechashev under rule 34, not a supplied lexical verb."
+  ]
+}

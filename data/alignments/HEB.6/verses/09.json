@@ -1,0 +1,190 @@
+{
+  "alignments": [
+    {
+      "note": "Adversative particle.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Vocative adjective; the Greek is anarthrous and the ASV supplies no address word, so rule 89's article case does not arise.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Perfect passive with its subject and auxiliary; rule 9 heads on the lexical verb *persuaded*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Rule 49: the article's complement is a substantival adjective, so the supplied nominal *things* is the article's own; rule 102 heads the unit on the nominal.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Substantival comparative adjective standing bare behind its own article.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Rule 36: the English preposition governing the phrase is what realizes περί, so *of* is the preposition's own word.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Rule 2: the pronoun keeps its own English word. The accepted alignment gave *of you* whole to περί and left ὑμῶν `unrepresented`, which its own review note argued against; corrected here to the split rules 2 and 36 require.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Rule 103: the article τά has already spent its English on *things* at t007, so this repetition answers to no available token, ἐχόμενα keeping its own participial clause. Reading it as a discontinuous second realization of τά under rule 15 remains defensible.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Participle rendered as a finite relative clause; the supplied relativizer is its helper under rule 31.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Rule 65: the conditional particle takes whatever word introduces the concessive clause, here *though*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Rule 65: the intensifying καί is decided on its own English-side evidence, and the ASV writes no word for it.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Adverb; no correlative καί answers it, so rule 100 is not in question.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Finite verb with its subject pronoun, discontinuous around *thus* under rule 15.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t018"
+      ],
+      "target_head": "t018"
+    }
+  ],
+  "ref": "HEB.6.9",
+  "review_notes": [
+    "Corrected: περὶ ὑμῶν was aligned as *of you* whole on περί with ὑμῶν left `unrepresented`. Rules 2 and 36 split it — *of* on the preposition, *you* on the pronoun — and the accepted unit's own review note already argued for that split against what the alignment did.",
+    "The second *things* is `added` under rule 103, τά being already spent on *things* at t007; a discontinuous second realization under rule 15 remains defensible.",
+    "εἰ καί is split under rule 65 and not read as one concessive cluster: *though* to εἰ, nothing to καί."
+  ]
+}

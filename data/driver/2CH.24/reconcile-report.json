@@ -1,0 +1,26 @@
+{
+  "chapter": "2CH.24",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Periphrastic הָיָה + participle (וַיִּהְיוּ שֹׂכְרִים 24.12 → they hired; וַיִּהְיוּ מַעֲלִים 24.14 → they offered): the finite הָיָה takes the English subject pronoun and any auxiliary the ASV writes, the participle takes the lexical verb, and the pair is not fused. Alternative considered and rejected: fusing both morphemes into one unit under rule 30.",
+    "Hiphil בּוֹא rendered bring in / brought in (24.6, 24.9, 24.10) keeps the particle in with the verb's unit, headed on bring/brought, on the ground that coming-in is the lexeme of בּוֹא and the particle restates it rather than supplying a direction the Hebrew never wrote (rule 44's first phrasal-particle sentence, not its bring-back surplus case). The alternative, marking in added, was considered in each verse and rejected uniformly."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v216",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 27 verses end to end against the candidate table and the dump. No cross-verse split found: every two-way bucket is the ASV rendering one morpheme differently in different contexts (of/bare on names by construct position; the on הָאֱלֹהִים taken where the ASV fronts a the over an anarthrous rectum in 7, 9, 13, 27 and unrepresented where it writes bare God in 16, 20; לְ before an infinitive taking to where written and unrepresented where not, per rule 52).",
+    "Recurring constructions were checked for consistency and hold: the rule-45 frame (4, 11, 23) places the that by where the ASV wrote it; the age construction (1, 15) heads on old under rule 58; periphrastic הָיָה + participle (12, 14) gives the subject pronoun to הָיָה and the verb to the participle both times; hiphil בּוֹא → bring in / brought in (6, 9, 10) keeps the particle with the verb all three times; the same 'made an end' division (10, 14) puts subject and auxiliary on the infinitive.",
+    "The 'added' units (see that 24.5; it 24.5, 24.22 x2 with upon it; laid 24.9, 24.27; even 24.14; concerning 24.27) were read against the verses that fold comparable words in; none contradicts another verse — each answers to no morpheme, while the folded cases (whereof to the suffix in 14, of to the suffix in 7, that to the rectum in 9) each have a morpheme standing for the word.",
+    "BSB disagreements are all convention: unrendered object markers (rule 16), the apodosis waw of 24.11 left unrendered under rule 45, the relative waw of 24.14 whose 'whereof' went to the object suffix under rule 18 (alternative noted in the unit), articles the ASV wrote no the for, and prepositions the ASV silenced (rule 40). None is an error; no edge changed.",
+    "Judgment calls the verse passes flagged with alternatives (24.7 suffix → of; 24.8 אֶחָד → a; 24.14 whereof → suffix; 24.20 לָמָה head on מָה) were left as taken — each is defensible and the note names the competing reading, which is what rule 8 asks.",
+    "No promotion: the two chapter-wide judgments recorded below (periphrastic הָיָה; hiphil בּוֹא particle) are not backed by corpus precedent in this briefing, so they are logged as conventions rather than written into the contract."
+  ]
+}

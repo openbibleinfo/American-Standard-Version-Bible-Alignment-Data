@@ -1,0 +1,285 @@
+{
+  "alignments": [
+    {
+      "note": "Name to name.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Expressed copula; the clause is not verbless, so rules 53, 63 and 68 do not arise and the copula is not a supplied word to be placed.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Anarthrous Greek, so the supplied indefinite is an ordinary rule 7/51 helper on the noun it determines rather than an article's own determiner.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "One Greek adjective rendered by an English phrase. The head is the stem word *passions*: ὁμοιοπαθής is unattested in the corpus, so rule 104 sends the query to the neighbouring class, and a privative-or-prefixed compound heads on its root word there — εὐπειθής → *easy to be entreated* on *entreated*, εὐάρεστος → *well pleasing* on *pleasing* — while the παθ- family heads on the παθ- word (τῶν παθημάτων → *the sufferings*). *like* glosses ὁμοιο- and *of* is the case helper. Heading on *like* is the competing reading and would take the prefix over the stem, which rule 104's analogies refuse. The verse note's alternative *nature* is not the ASV text and is not aligned.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Dative pronoun governed by the adjective, with its supplied case preposition riding along under rule 21's determinerless clause; no article stands to anchor *with*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Expressed conjunction.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Inflected verb with its supplied subject pronoun; rule 9 heads on the lexical verb.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Cognate dative of manner (the verse note glosses it *with prayer*), which the ASV renders by the intensifying adverb *fervently*. Splitting it from the verb keeps rule 2's smallest defensible unit; rule 73's collapsed light-verb unit is not the case here, since προσεύχομαι is no verb of general sense and the ASV writes a separate English word for each element.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Nominalizing article of the articular infinitive, unrepresented under rules 61 and 23. Rule 61 hands the English clause-introducer to a governing preposition, and none is expressed here, so nothing falls to the article; rule 85 then puts the supplied complementizer *that* on the non-finite complement it introduces. Giving *that* to τοῦ by analogy with rule 61's preposition case is the competing reading, and rule 61 forecloses it by aligning the article only where the ASV writes a determiner of its own.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The ASV expands the infinitive into a finite clause; rule 85 gives the supplied complementizer *that* to the non-finite complement, and the supplied subject and modal ride with it under rules 7 and 9. Discontinuous around *not* under rule 15, headed on the lexical verb under rule 17.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015",
+        "t016",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Ordinary negative μή aligned to *not*; no negative indefinite stands, so rules 59 and 79 do not apply, and rule 44's interrogative particle is not in question.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Expressed conjunction.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Finite verb with its supplied subject pronoun, headed on the lexical verb.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t020",
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Ordinary negative aligned to *not*; no negative indefinite follows, so rule 41 does not empty it.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Preposition to preposition under rule 36.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Article to *the* under rule 19; the preposition is expressed and keeps its own word, so no case preposition rides with the article under rule 21.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Noun stands alone, its determiner taken by the article under rule 21.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "note": "Accusative of duration; the supplied case preposition *for* rides with the noun under rule 21's determinerless clause, since no article stands to anchor it, discontinuously around *three* under rule 15.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t026",
+        "t028"
+      ],
+      "target_head": "t028"
+    },
+    {
+      "note": "Numeral split from its noun under rule 26.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t027"
+      ],
+      "target_head": "t027"
+    },
+    {
+      "note": "Expressed conjunction joining the two duration phrases; rule 29's helper *and* is not in question here, since the Greek writes the conjunction.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t029"
+      ],
+      "target_head": "t029"
+    },
+    {
+      "note": "Numeral split from its noun under rule 26; the ASV puts it before the noun, and rule 15 permits the reordering.",
+      "source": [
+        "s022"
+      ],
+      "source_head": "s022",
+      "status": "aligned",
+      "target": [
+        "t030"
+      ],
+      "target_head": "t030"
+    },
+    {
+      "note": "Noun stands alone.",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t031"
+      ],
+      "target_head": "t031"
+    }
+  ],
+  "ref": "JAS.5.17",
+  "review_notes": [
+    "Reviewed and kept unchanged: all 22 units of the accepted alignment stand, with three notes enriched (s004's head, s009's competing reading, s022's reordering rule citation). No edges, statuses or heads were changed.",
+    "All 22 source and 31 target ids are partitioned exactly once; s009 is the only unrepresented unit and there are no added units.",
+    "s004 ὁμοιοπαθής → *of like passions* is the one head worth checking. The lexeme is unattested in the corpus, so rule 104 governs: the neighbouring-class query (compound prefix-plus-stem adjectives, and the παθ- root family) heads the stem word, giving *passions*. A head on *like* would take the prefix over the stem and is the reading rule 104's analogies refuse.",
+    "s007 προσευχῇ → *fervently* and s008 → *he prayed* stay split rather than joined. Rule 73 wants a verb of general sense collapsed by the ASV into a single English verb; προσεύχομαι carries its own lexical content and the ASV writes a separate word for each element, so rule 2 applies.",
+    "s009 τοῦ is unrepresented and the supplied *that* goes to the infinitive under rule 85. Rule 61 gives a clause-introducer to a governing preposition, and none is expressed here, so the article has nothing to take; the competing reading that τοῦ carries *that* as the nominalizer is named in the unit note.",
+    "*for* at t026 and *with* at t008 are both supplied case prepositions on determinerless phrases, so rule 21's determinerless clause keeps each with its own noun or pronoun rather than manufacturing an article-borne *for the* or *with the*."
+  ]
+}

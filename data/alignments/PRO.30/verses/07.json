@@ -1,0 +1,143 @@
+{
+  "alignments": [
+    {
+      "note": "Substantival numeral with the supplied generic *things*; head stays on the numeral under rule 31.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Verb with auxiliary and subject pronoun under rule 17.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "מֵאֵת rendered by the single *of*; the two prepositions share one unit headed on the governing morpheme under rule 23.",
+      "source": [
+        "s003",
+        "s004"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Suffix to *thee*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Prohibitive to *not*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Verb to *Deny*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The ASV writes a bare indirect object *me*, leaving the מִן nothing under rule 40.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Suffix to *me*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The italic *them* supplies an object the Hebrew does not write; no object morpheme stands in the clause, so it is added under rule 44.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "בְּטֶרֶם rendered by the single *before*; the pair shares one unit headed on the morpheme carrying the lexeme under rule 30.",
+      "source": [
+        "s010",
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Verb with subject pronoun.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "PRO.30.7",
+  "review_notes": [
+    "The italic *them* is marked added rather than folded into תִּמְנַע, since rule 44 reaches only an object some morpheme licenses.",
+    "מֵאִתָּךְ is read as one compound preposition unit plus its suffix rather than three separate renderings, since the ASV writes a single *of*."
+  ]
+}

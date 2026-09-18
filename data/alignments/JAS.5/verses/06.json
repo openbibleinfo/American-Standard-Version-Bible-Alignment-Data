@@ -1,0 +1,102 @@
+{
+  "alignments": [
+    {
+      "note": "Inflected finite verb takes its English subject and auxiliary as rule 7/9 helpers; head on the lexical verb *condemned* under rules 9 and 17.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Second asyndetic finite verb; the repeated *ye have* is its own inflection-licensed helper. Head on *killed* under rules 9 and 17. The ASV writes no juncture between the two verbs, punctuating the seam with a comma, so rules 88 and 98 do not arise.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Article governing a substantival adjective with no expressed head noun: rules 49 and 102 give the article both the determiner *the* and the supplied nominal *one*, headed on the supplied noun, leaving the adjective bare. Rule 17's generic-noun clause is the competing reading and rule 102 scopes it to anarthrous Greek, the corpus reading the articular shape the article's way twelve to none since rule 49 entered the contract.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The adjective keeps only its own English word, its determiner and supplied nominal having gone to the article under rule 102.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Ordinary negative aligned to *not*. No negative indefinite and no quantifier stand in the clause, so rules 41, 59 and 87 do not arise.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Finite verb with its supplied subject pronoun and periphrastic auxiliary *doth* as rule 7/9 helpers, discontinuous around *not* under rule 15; head on the lexical verb *resist* under rules 9 and 17.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Dative complement of the verb rendered by the bare object pronoun; no case preposition is written for it.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "JAS.5.6",
+  "review_notes": [
+    "Reviewed unchanged: every unit in the accepted alignment survives review. Notes were tightened on s002, s003, s005 and s007 to name the rules ruled out; no unit membership or head moved.",
+    "Every s### and t### id is partitioned exactly once; no ids invented.",
+    "The ASV markup on t009 *one* is evidence only (rule 11); it is analysed as the article's supplied nominal under rule 102 rather than `added`. Rule 102 records the corpus as unanimous on this shape, so per rule 84's line the head on *one* is not hedged.",
+    "The clause `οὐκ ἀντιτάσσεται ὑμῖν` is read as the ASV punctuates it, as a statement about the righteous one; nothing in the alignment turns on reading it as a question, and no interrogative particle stands for rules 44 or 64 to decide."
+  ]
+}

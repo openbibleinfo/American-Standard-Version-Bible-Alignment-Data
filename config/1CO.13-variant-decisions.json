@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "chapter": "1CO.13",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.1CO.13.2.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "κἂν is the crasis of καὶ ἐάν; ASV 'and if I have the gift of prophecy' renders either identically. No note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.13.2.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "Same crasis alternation at the second clause; ASV 'and if I have all faith' does not distinguish καὶ ἐάν from κἂν."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.13.2.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "μεθιστάναι and μεθιστάνειν are alternative present infinitive spellings of the same verb; ASV 'to remove mountains' renders both alike."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.13.3.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "Crasis alternation only; ASV 'And if I bestow all my goods' renders καὶ ἐάν and κἂν identically. The verse's textual note concerns καυχήσωμαι, not this unit."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.13.3.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "Crasis alternation at the second clause; ASV 'and if I give my body' does not distinguish the readings. The verse's note bears on the verb, not on this conjunction."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.13.3.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV text 'to be burned' renders καυθ-, and the mapped textual note 'Many ancient authorities read that I may glory' places καυχήσωμαι (r02) in the margin, so r02 is excluded from the text. Between καυθήσομαι (future indicative) and καυθήσωμαι (subjunctive) the English infinitive phrase decides nothing."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.13.4.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV repeats the subject: 'love envieth not; love vaunteth not itself', which requires the second ἡ ἀγάπη that r01 omits."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.13.8.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "πίπτει and the compound ἐκπίπτει are both covered by ASV 'never faileth'; the prefix leaves no trace in the English."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.13.9.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV opens the verse 'For we know in part', an inferential/causal connective rendering γάρ; δέ would give 'but/and' or nothing."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.13.10.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'but when that which is perfect is come, that which is in part shall be done away' with no correlative 'then'; τότε of r01 is unrepresented."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.13.11.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "The readings differ only in the position of ὡς νήπιος relative to its verbs; ASV 'I spake as a child, I felt as a child, I thought as a child' has the same three clauses under every arrangement."
+    },
+    {
+      "unit_id": "SBLGNT.1CO.13.11.v012",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV begins 'When I was a child' with no connective, but it routinely leaves a transitional δέ untranslated, so the absence does not exclude r01."
+    }
+  ]
+}

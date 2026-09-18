@@ -1,0 +1,191 @@
+{
+  "alignments": [
+    {
+      "note": "Inferential conjunction rendered *Wherefore*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Adverbial kai realized by *also*; the ASV's reordering after *Jesus* is permitted by rule 15.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Subject name.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Purpose hina realized by the word introducing the English clause, *that* (rule 40); the ASV writes the complementizer here rather than a bare infinitive.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Inflected subjunctive takes its supplied subject and modal auxiliary as rule 7/9 helpers, headed on the lexical verb *sanctify*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Instrumental dia → *through*; rule 36 keeps the preposition governing the phrase rather than folding it into the verb.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Rule 47: the attributive idios stands between the article and an expressed head noun (haimatos), so it carries the supplied possessive and the article realizes nothing.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rule 47: *his own* belongs to the possessive adjective, headed on *own*, exactly as `toi idiois andrasin` → *their own husbands*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Head noun standing bare after the possessive.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Article realized by *the* (rule 19).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Recoverable token pair with its article, split under rules 13 and 26.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Improper preposition rendered by the single word *without* (rule 42's single-word case); rule 84's contrast applies, the lexeme's own sense being *outside*, so the word is the gloss and heads itself. The governed article takes a bare *the* and no trailing preposition is written.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Article of the governed noun takes the English determiner (rules 19, 42).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Governed noun standing on its own word.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Main verb; the ASV places it after the fronted purpose clause, which rule 15 permits.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "HEB.13.12",
+  "review_notes": [
+    "All 15 source and 17 target ids partitioned exactly once.",
+    "s007/s008: the competing reading gives *his* to the article and *own* to the adjective, but rule 47 confines that to a substantival `idios` with no expressed head noun; here `haimatos` is expressed, so rule 20's displacement applies and the article is empty.",
+    "s012: ASV writes no supplied preposition after *without*, so rule 101 does not arise and the article anchors a bare *the* under rule 21."
+  ]
+}

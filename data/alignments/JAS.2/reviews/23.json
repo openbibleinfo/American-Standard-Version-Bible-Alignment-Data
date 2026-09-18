@@ -1,0 +1,17 @@
+{
+  "alignment_sha256": "65de5345cc85cf0963874cf469d621fabb2342cde656832160d6f70bbf6b56d3",
+  "contract_version": "nt-greek-verse-v62",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed against the contract and returned unchanged: all 20 source and 27 target ids are partitioned exactly once, every aligned unit has nonempty arrays with heads inside them, and both unrepresented units are source-only with null target heads.",
+    "s005 rechecked under rule 31's own test: the second article governs an expressed head noun (γραφή) and a participle follows, which is the τῷ θεῷ τῷ κτίσαντι → God who created shape, so the relativizer which belongs to λέγουσα and the article realizes nothing. Rule 90 does not reach it, saying in terms that it blesses no unit in which a head noun is expressed, and rule 31's preceding-article clause (τὴν ἐκ θεοῦ δικαιοσύνην) is the prepositional-phrase case, not this one.",
+    "s003 is the first article and precedes γραφή with nothing interposed, so it is the plain rule 19 the and rule 26 splits the noun off; rule 57's interposed-genitive case does not arise.",
+    "s010 stays unrepresented: the ASV writes believed God with no determiner, so nothing anchors the article, and rule 21 forbids leaving a bare case word on it. A reference comparison will report both s005 and s010 as disagreements; per rules 23 and 31 that report is not a correction.",
+    "s008 δέ is aligned to the quotation-initial And rather than left empty. The alternative would be to read the And as an ASV quotation-opening supplied word and mark δέ unrepresented, but rule 43's test is the English, and a word is present that answers to the conjunction, so it is aligned in the ordinary way.",
+    "s018/s019: φίλος θεοῦ is anarthrous throughout, so the supplied the is a rule 7 helper on φίλος under rule 51's anarthrous clause and of + God rides on θεοῦ headed on the noun under rules 17 and 21. Rule 58 is not in play, since φίλος is the substantival predicate noun rather than an attributive adjective over an expressed noun.",
+    "Both ASV Scripture citations in the verse notes (Gen. 15:6; Isa. 41:8, 2 Chr. 20:7) are quotation provenance only and bear on no alignment decision here; rule 37 is not in question, since every token's English stands in this verse."
+  ],
+  "ref": "JAS.2.23",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

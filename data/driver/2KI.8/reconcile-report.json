@@ -1,0 +1,23 @@
+{
+  "chapter": "2KI.8",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Compound proper names that MACULA segments as two Np tokens (בֶן־הֲדַד 8.7, 8.9; רָמֹת גִּלְעָד 8.28) are two units, each token taking the ASV's own half of the name (Ben / hadad, Ramoth / gilead); they are not fused under rule 30, since the ASV spends a word on each."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read every candidate group and the dump end to end. No construction is analysed two ways without a source difference to license it: every waw, article, ל, ב, את and מן treatment follows what the ASV wrote (rules 14, 15, 16, 29, 40, 52), the ויהי frames give their that to the apodosis waw wherever one is written (8.3, 8.5, 8.15) and leave the supplied as of the asyndetic circumstantial clause added (8.5) while the waw+verb clause of 8.6 takes And when (rules 45, 55), the two age formulas divide as rule 58 directs (was he on the written היה in 8.17, old was on בן in the verbless 8.26), and the gapped comparative did of 8.27 is the pro-verb of the one written עשה while 8.18's did answers to a written עשו (rule 34).",
+    "The seven added units (8.5 as, 8.11 upon him, 8.13 but, 8.14 that, 8.15 it x2, 8.16 then) are each answered by no morpheme and each verse names its competing reading. Two are judgment calls a later reader may weigh: 8.16 gives being to the verbless predicate and leaves then added beside an unrepresented circumstantial waw (rule 14 would allow the waw to take a connective then; the ASV's then here is a temporal adverb inside the participial phrase, so the pass read it as supplied); 8.13 gives that to the object marker on אתך whose small-clause object the ASV recasts as a that-clause (rule 16 subtraction), against the 8.14 that which is added because that verse writes bare direct speech with no marker. Neither is a cross-verse split.",
+    "BSB disagreements are all documented convention differences: the ל of לאמר (rule 27), datives recast as bare objects (rule 40), articles the ASV writes no the for (rules 15, 29, 41), object markers (rule 16), the second waw of the 8.11 verb pair rendered by one adverb (rule 56), the auxiliary ויהי before the participle in 8.21 held apart by the pronoun (rule 30 contiguity), the circumstantial waw of 8.16, the paragogic he of 8.4 (rule 32) and the trailing absolute שנה of the 8.25 regnal date (rule 22). None is an error; no edge changed.",
+    "The 3-morpheme unit in 8.19 (כל הימים -> alway) is rule 30's fused expression with the article inside, matching the corpus's seven such units. No rule generalises from this chapter: 8.11's שׂים rendered stedfastly and 8.13's marker rendered that are single-verse readings with no corpus count to carry a promotion."
+  ]
+}

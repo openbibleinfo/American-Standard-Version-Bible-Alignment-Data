@@ -1,0 +1,18 @@
+{
+  "ref": "2PE.2.6",
+  "alignments": [
+    {"source": ["s001"], "source_head": "s001", "target": ["t001"], "target_head": "t001", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s002"], "source_head": "s002", "target": ["t003", "t004"], "target_head": "t004", "status": "aligned", "confidence": "high", "note": "Anarthrous Greek noun with a supplied determiner: the determiner is a rule 7 helper on the noun it determines (rule 51)."},
+    {"source": ["s003"], "source_head": "s003", "target": ["t005", "t006"], "target_head": "t006", "status": "aligned", "confidence": "high", "note": "Case preposition rides with the noun; rule 17 heads a source noun rendered by of + noun on the noun."},
+    {"source": ["s004"], "source_head": "s004", "target": ["t007"], "target_head": "t007", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s005"], "source_head": "s005", "target": ["t008"], "target_head": "t008", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s006"], "source_head": "s006", "target": ["t002", "t009", "t010"], "target_head": "t010", "status": "aligned", "confidence": "medium", "note": "Denominal verb rendered by the discontinuous frame turning ... into ashes (rule 15). Rule 17's meaning-bearing complement heads it on ashes, the word realizing the lexeme; a head on turning remains defensible."},
+    {"source": ["s007"], "source_head": "s007", "target": ["t013", "t014", "t015"], "target_head": "t015", "status": "aligned", "confidence": "high", "note": "Case preposition and supplied determiner ride with the anarthrous noun (rules 21, 51)."},
+    {"source": ["s008"], "source_head": "s008", "target": ["t011", "t012"], "target_head": "t011", "status": "aligned", "confidence": "high", "note": "Supplied English object stays with the verb that requires it (rule 74)."},
+    {"source": ["s009"], "source_head": "s009", "target": ["t019", "t020"], "target_head": "t020", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s010"], "source_head": "s010", "target": ["t023", "t024", "t025"], "target_head": "t025", "status": "aligned", "confidence": "medium", "note": "The participle is rendered as a finite relative clause; relativizer and modal are helpers and rule 9 heads it on the lexical verb live. The ASV appears to follow a reading with the infinitive, so the split of live against ungodly between this token and s011 is defensible either way."},
+    {"source": ["s011"], "source_head": "s011", "target": ["t021", "t022", "t026"], "target_head": "t026", "status": "aligned", "confidence": "medium", "note": "Substantival adjective with its case preposition and supplied nominal, discontinuous around the relative clause under rule 15; rule 17 heads it on ungodly, the adjective's own English word, rather than on the supplied those."},
+    {"source": ["s012"], "source_head": "s012", "target": ["t016", "t017", "t018"], "target_head": "t017", "status": "aligned", "confidence": "high", "note": "Auxiliary and supplied object ride with the participle; rule 9 heads it on the lexical verb."}
+  ],
+  "review_notes": []
+}

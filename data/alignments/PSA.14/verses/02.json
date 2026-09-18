@@ -1,0 +1,215 @@
+{
+  "alignments": [
+    {
+      "confidence": "high",
+      "note": "Divine name rendered Jehovah.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "confidence": "high",
+      "note": "Hiphil of שׁקף; the ASV renders the single verb as looked down, so both English tokens share the unit and the finite lexical verb heads it.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "confidence": "high",
+      "note": "Prefixed preposition מִן → from.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "confidence": "high",
+      "note": "heaven.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "confidence": "high",
+      "note": "עַל → upon.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "confidence": "high",
+      "note": "בְּנֵי is construct and carries no article token; the supplied English the belongs to this noun's unit (rules 15, 29).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "confidence": "high",
+      "note": "Nomen rectum of the construct chain takes the English of (rule 19).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "confidence": "high",
+      "note": "The לְ of the infinitive construct is here actually rendered, as To; rule 27 concerns לֵאמֹר, where it is not.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "confidence": "high",
+      "note": "Infinitive construct רְאוֹת → see.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "confidence": "medium",
+      "note": "The interrogative הֲ under an indirect question surfaces as if; reading הֲיֵשׁ as one fused unit headed on יֵשׁ remains defensible.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "confidence": "medium",
+      "note": "Existential יֵשׁ takes the dummy subject there with its supplied copula (rule 21); heading on there instead of were is the competing analysis.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "confidence": "medium",
+      "note": "The substantival participle is expanded as any that did understand, headed on the word carrying the lexeme; any could alternatively be read as the predicate of יֵשׁ and joined to s011.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017",
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "confidence": "medium",
+      "note": "Substantival participle rendered That did seek after; after is taken as part of the English phrasal rendering of דרשׁ rather than as a realization of אֵת.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t020",
+        "t021",
+        "t022",
+        "t023"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "confidence": "medium",
+      "note": "Object marker with no English realization (rule 16); the competing analysis attaches after (t023) to it.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "אֱלֹהִים → God.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    }
+  ],
+  "ref": "PSA.14.2",
+  "review_notes": [
+    "Reviewed and left unchanged: every s### and t### is partitioned exactly once, all statuses have well-formed heads, and no unit merges morphemes that license separate English.",
+    "Checked the three points where the ledger could plausibly differ: (a) t016 any as predicate of יֵשׁ rather than part of the expanded participle, (b) t023 after as a realization of אֵת rather than of the phrasal seek after, (c) הֲיֵשׁ read as one fused interrogative-existential unit. Each is flagged medium in situ; the accepted analysis keeps the smaller defensible units and is retained.",
+    "Heads verified independently of unit edges per rule 24: looked over down, children over the, men over of, understand over any/that/did, seek over That/did/after.",
+    "s006 takes the supplied the without an article token because a construct noun cannot be articular (rules 15, 29); no added unit is warranted here.",
+    "s008 is aligned rather than unrepresented: unlike לֵאמֹר, this infinitival לְ is actually realized by To."
+  ]
+}

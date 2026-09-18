@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "chapter": "2CH.32",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2CH.32.21.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders a construct chain with a single possessive on the following noun: 'they that came forth from his own bowels', where 'his' modifies 'bowels' and the participle is bound to it. That matches the qere plural construct וּמִיצִיאֵי governing מֵעָיו. The ketiv ומיציאו carries its own 3ms suffix ('those that came forth from him'), which would leave the following 'bowels' as a second, appositional possessive the ASV does not show. The verse's only note is a hebrew_gloss on 'slew him' and does not bear on this unit."
+    }
+  ]
+}

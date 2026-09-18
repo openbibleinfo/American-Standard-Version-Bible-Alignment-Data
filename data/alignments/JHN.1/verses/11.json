@@ -1,0 +1,133 @@
+{
+  "alignments": [
+    {
+      "note": "Verb inflection supplies the English subject pronoun.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Substantival article before idios supplies the possessive: rule 54 reads ta idia -> *his own* as *his* to the article and *own* to the adjective, as rule 47 reads ek ton idion -> *of his own*. Corrected from unrepresented; BSB reports this article represented and here that report is right.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The adjective keeps its own word; idios cannot say whose, so the possessive is the article's.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "A substantival article whose complement is a predicate adjective keeps the antecedent pronoun and the relativizer together under rule 31 (Ho pistos -> *He that*). Corrected from a bare *they*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "The adjective keeps the supplied copula and its own word. *his* stays here rather than with the article because the article is already spent on *they that* (rule 76's availability test); a discontinuous *they that ... his* on the article under rule 15 remains defensible.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Verb.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Object pronoun.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Not.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "JHN.1.11",
+  "review_notes": [
+    "The two idios clauses divide by configuration, not by lexeme: substantival ta idia gives the article *his* (rules 47, 54), while the attributive ton adelphon ton idion at 1:41 leaves both articles empty (rule 47).",
+    "The ASV note (Greek his own things) bears on the gender of the first phrase, not on the article's status."
+  ]
+}

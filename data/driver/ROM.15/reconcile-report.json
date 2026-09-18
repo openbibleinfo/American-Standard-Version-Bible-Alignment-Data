@@ -1,0 +1,26 @@
+{
+  "chapter": "ROM.15",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "An expressed accusative subject of an infinitive is its own aligned unit on the English subject word, standing outside the infinitive's own unit: Christon -> Christ (15.8), hymas -> ye (15.13), me -> I (15.16, 15.19). Rule 74's fold is scoped in terms to a subject Greek leaves unexpressed, and this chapter writes none, so do not read the English nominative form as evidence that the accusative belongs inside the verb's unit.",
+    "A supplied demonstrative determiner and a supplied generic nominal go to the article where one stands and to the noun where the Greek is anarthrous, the modifier staying bare in both: ta polla -> these ... times on the article with a bare 'many' (15.22, rules 60, 102), against apo pollon eton -> these ... years on the noun with a bare 'many' (15.23, rules 51, 58). Where the article takes the nominal it also takes whatever English preposition the ASV writes in front of the phrase, headed on the nominal: 'of things' and 'things' at 15.27, and 'in things' at 15.17, where the article is an adverbial accusative whose own case no English preposition realizes under rule 106. That last placement is the chapter's one open call and its unit note names the competing reading, which puts the 'in' on pros."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-greek.md",
+    "version": "nt-greek-verse-v97",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 33 verses end to end against the 48 candidate groups. No cross-verse split found: every multi-treatment bucket resolves to a difference the source or the ASV's own phrasing licenses. Patches array is empty.",
+    "Checked closely, because these look like splits from inside a single verse: (a) the second attributive article, unrepresented at 15.15 before a participle but aligned to that/which at 15.26 and 15.31 before a prepositional phrase, which is rule 31's own participle-versus-verbless-modifier test written both ways in one chapter; (b) supplied 'these', article-carried at 15.22 (ta polla), noun-carried at 15.23 (apo pollon eton), demonstrative-carried at 15.23 (tois klimasi toutois), three carriers for three configurations under rules 38, 51, 60, 102; (c) the vocative address word, articular ta -> ye at 15.11, anarthrous ye on the noun at 15.10, none written at 15.30, which is rule 89's REV.18.20 shape inside one chapter; (d) kathos, a bare 'as' at 15.3 and 15.21 with no answering kai, 'even as' whole plus 'also' on the particle at 15.7, which is rule 82's also-arm; (e) autos, split at 15.14 because ego is expressed and joined as 'ye yourselves' where no hymeis stands (rule 107); (f) pases charas at 15.13 and pases gnoseos at 15.14, analysed identically with the case preposition on the noun and a bare quantifier.",
+    "The candidate table is keyed by source lemma and so is blind to added units, so the supplied English was read straight from the dump. Six decisions, one test: 'given' (15.8), 'already' (15.20), 'that' (15.31) and 'I have' (15.31) fold onto the token whose English they complete; 'I say' (15.25) is added because no token of the verse licenses it, and 'to them' (15.27) because autois is already spent on 'unto them' later in the same verse (rule 103). The line holds across the chapter and is not a split.",
+    "BSB disagreements: all three are documented convention differences and none is a genuine error. ROM.15.4 tes, the ASV writes 'through patience' with no determiner so the article anchors nothing (rules 21, 23). ROM.15.9 toi, the determiner slot is displaced by sou -> thy (rule 20). ROM.15.23 apo, the ASV renders apo pollon eton as the bare adverbial 'these many years' and writes no preposition word, so English realizes it nowhere (rule 36). No edge was changed to improve the rate.",
+    "Three units are defensible either way and each already names its competitor in its own note, so they were left as accepted: 15.17 'in things' kept inside the article's unit rather than given to pros; 15.19 pepleronekai -> 'have fully preached' headed on 'fully' rather than 'preached' (rule 91, the ASV's own margin glossing 'fulfilled'); 15.27 'to them' marked added rather than read as a discontinuous second realization of autois. 15.8 'given' folded onto epangelias rather than onto the genitive phrase is the fourth.",
+    "No promotion. The one genuine gap the chapter met is where the supplied 'in' goes in ta pros ton theon -> 'in things pertaining to God', an accusative having no case for a preposition to realize under rule 106; that is a single unit with no corpus support shown here, and a rule built on it would be paid for by every chapter after. Recorded as a convention with the competing reading named instead."
+  ]
+}

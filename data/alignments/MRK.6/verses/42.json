@@ -1,0 +1,72 @@
+{
+  "alignments": [
+    {
+      "note": "",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The verb keeps only its own lexical word; its English subject has gone to the expressed nominative quantifier, which is present and unspent.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The supplied *they* belongs to the expressed nominative quantifier, not to the verb. Rule 9's licence to give an inflected verb an English subject is for a subject Greek leaves unexpressed; here πάντες stands and is not spent elsewhere, so rule 76's availability test makes it the word the pronoun belongs to, and rule 7 keeps the helper with what licenses it. This is the same expansion of a substantival πᾶς that the chapter reads at 6:30 πάντα → *all things* and 6:41 πᾶσιν → *among them all*, and rule 17's generic-completion clause holds the head on the quantifier. Aligned as at 6:50, where the identical πάντες plus finite verb takes *they all* on the quantifier. Giving *they* to ἔφαγον under rule 9 is the competing reading; it was the chapter's own earlier one, and it forces the verb to straddle *all* discontinuously for no gain.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Inflected verb takes its auxiliary; head on the lexical verb (rule 9).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    }
+  ],
+  "ref": "MRK.6.42",
+  "review_notes": [
+    "Reconciled to MRK.6.50: the supplied *they* rides with the expressed nominative πάντες, headed on *all*.",
+    "The verb-headed reading is named in the unit's note as the competing one, per rule 16.",
+    "No source or target id changed membership apart from t002, which moved from ἔφαγον to πάντες."
+  ]
+}

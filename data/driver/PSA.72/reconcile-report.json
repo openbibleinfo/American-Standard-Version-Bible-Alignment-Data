@@ -1,0 +1,24 @@
+{
+  "chapter": "PSA.72",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The psalm twice recasts a prepositional phrase of duration as a temporal subordinate clause, and in both the whole recasting stays with the preposition. לִפְנֵי before a celestial body rendered 'so long as' (v5) or 'as long as' (v17) is one rule-30 unit on the לְ and the construct פָּנֶה, source head on פָּנֶה and target head on 'long' under rule 24; the ASV margin 'before the sun/moon' is read and set aside under rule 38. עִם־שָׁמֶשׁ → 'while the sun endureth' (v5) gives both 'while' and 'endureth' to עִם: the bare copula 'while the sun is' says what the Hebrew says, so 'endureth' is the continuance copula of rule 20's 'endureth for ever' reasoning and not a supplied lexical verb. The competing reading, 'endureth' as its own added unit, is named in the unit note."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 27 candidate lemma groups against the verses. Every multi-treatment bucket is the ASV rendering one word differently in context (waw 'also'/'And'; suffix 'him'/'his'/'that'/'thereof'; לְ 'for'/'to'/'before'/unrendered; כֹּל 'all'/'whole'; אֶרֶץ with and without 'of'/'the'; לִפְנֵי 'before'/'so long as'/'as long as'), and each difference is licensed by the English written. No construction is analysed two ways with nothing in the source to distinguish them.",
+    "Checked the table-blind cases too: the three `added` units (superscription 'A Psalm' in v1, supplied 'men' in v15 and v17) are all English no morpheme owns, and the chapter nowhere folds a comparable supplied subject into a verb. The relative-for-suffix reading of v12 ('the poor that hath no helper': suffix takes 'that', אַיִן takes 'hath no', לְ and waw unrepresented) matches rule 18's own 'men that have no helper' and rule 43's existential paragraph; the competing waw-takes-'that' reading is named in the note.",
+    "BSB disagreements (5): v1 dative לְ before a bare English indirect object (rule 40); v4 object-marking לְ before 'save the children' (rule 40); v14 second מִן where the ASV writes one 'from' for the coordinated pair (rule 22); v12 waw left unrendered because the suffix realizes the relative (rules 17/18); v18 suffix of לְבַדּוֹ inside 'only' (rule 40). All are documented convention differences; none is a genuine error.",
+    "Two hedged judgments stand as aligned and noted: v5 עִם־שָׁמֶשׁ → 'while the sun endureth' keeps 'endureth' with the preposition as the construction's continuance copula rather than marking it added, and v16 'they of the city shall flourish' gives 'they' to the verb's 3mp inflection. Both name the competing reading under rule 8; neither has a parallel elsewhere in the chapter that would make it a split.",
+    "Nothing here generalises beyond what rules 20, 30 and 46 already say; no promotion or amendment."
+  ]
+}

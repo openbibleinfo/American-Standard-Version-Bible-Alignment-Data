@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "396e97f3a2f85af9f26a5c0f964accc8ac90a448e8f42a0ce28ef27f187d444e",
+  "contract_version": "nt-greek-verse-v61",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed against nt-greek-verse-v61 and returned unchanged; no unit was altered.",
+    "Every s### and t### id is partitioned exactly once: 14 source ids across 14 units, 17 target ids across 13 aligned units and one empty target.",
+    "s001 stays unrepresented. Re-derived rather than inherited: the article governs ὑπομονή, whose English 'patience' carries no determiner, and the only supplied determiner in the verse ('its', t005) stands in the anarthrous ἔργον phrase. Rule 76's second arm needs an article standing over the possessed noun and rule 57 covers only an interposed genitive, so neither lets this article reach across. Rule 23 decides it.",
+    "'its' (t005) is a rule 58 supplied determiner on the anarthrous noun ἔργον, not an ASV addition; rule 11 makes the italics evidence only, and rule 86 is not in question because a source word is available to license the word. Rule 58's worked examples all use 'the', but its reasoning is rule 51's 'the word it determines', which does not turn on the determiner being definite. The competing reading, 'its perfect' together on τέλειον, is named in that unit's note.",
+    "ἐν μηδενί is split rather than joined: the ASV writes 'in nothing' as two words, so rule 94's single-word precondition for a compound prepositional unit is not met, and rule 36 gives 'in' to the preposition. No separate Greek negator stands with μηδενί, so rules 41, 59 and 69 never engage and nothing is emptied.",
+    "Both verb units head on the lexical verb under rule 17: 'have' over the auxiliary 'let' at s006, and 'be' over the supplied subject and modal 'ye may' at s008."
+  ],
+  "ref": "JAS.1.4",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

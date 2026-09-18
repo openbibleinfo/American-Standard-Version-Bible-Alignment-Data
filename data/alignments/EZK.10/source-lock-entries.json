@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "sources": {
+    "asv": {
+      "commit": "5c83ee265c75b3b1c056435eff622a875f1edc45",
+      "license": "Public domain",
+      "paths": [
+        "usx/01-GEN.usx",
+        "usx/11-1KI.usx",
+        "usx/19-PSA.usx",
+        "usx/23-ISA.usx",
+        "usx/43-JHN.usx",
+        "usx/49-EPH.usx",
+        "usx/66-REV.usx"
+      ],
+      "url": "https://github.com/openbibleinfo/American-Standard-Version-Bible.git"
+    },
+    "macula_hebrew": {
+      "commit": "47db250bd55d0d8577f2a94fba114ef16c35b23c",
+      "license": "See upstream repository",
+      "note": "Genesis 8 is a test fixture, not an aligned chapter: it holds the only ketiv/qere pair in Genesis, so the suite can check that MACULA omits exactly the ketiv words.",
+      "paths": [
+        "WLC/lowfat/01-Gen-001-lowfat.xml",
+        "WLC/lowfat/01-Gen-002-lowfat.xml",
+        "WLC/lowfat/01-Gen-008-lowfat.xml",
+        "WLC/lowfat/11-1Ki-018-lowfat.xml",
+        "WLC/lowfat/11-1Ki-020-lowfat.xml",
+        "WLC/lowfat/11-1Ki-022-lowfat.xml",
+        "WLC/lowfat/19-Psa-001-lowfat.xml",
+        "WLC/lowfat/19-Psa-002-lowfat.xml",
+        "WLC/lowfat/19-Psa-003-lowfat.xml",
+        "WLC/lowfat/19-Psa-004-lowfat.xml",
+        "WLC/lowfat/19-Psa-005-lowfat.xml",
+        "WLC/lowfat/19-Psa-006-lowfat.xml",
+        "WLC/lowfat/19-Psa-007-lowfat.xml",
+        "WLC/lowfat/19-Psa-008-lowfat.xml",
+        "WLC/lowfat/19-Psa-009-lowfat.xml",
+        "WLC/lowfat/19-Psa-010-lowfat.xml",
+        "WLC/lowfat/19-Psa-011-lowfat.xml",
+        "WLC/lowfat/19-Psa-012-lowfat.xml",
+        "WLC/lowfat/19-Psa-013-lowfat.xml",
+        "WLC/lowfat/23-Isa-063-lowfat.xml"
+      ],
+      "url": "https://github.com/Clear-Bible/macula-hebrew.git"
+    },
+    "oshb": {
+      "commit": "3d15126fb1ef74867fc1434be1942e837932691f",
+      "license": "CC BY 4.0",
+      "note": "VerseMap.xml is the versification authority: it catalogues where Hebrew verse numbering differs from the Western numbering the ASV inherits.",
+      "paths": [
+        "wlc/1Kgs.xml",
+        "wlc/Gen.xml",
+        "wlc/Isa.xml",
+        "wlc/Ps.xml",
+        "wlc/VerseMap.xml"
+      ],
+      "url": "https://github.com/openscriptures/morphhb.git"
+    }
+  }
+}

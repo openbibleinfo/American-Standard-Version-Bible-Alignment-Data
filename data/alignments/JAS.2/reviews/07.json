@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "ce6dc62965ba6cb4e9ae9bc970d1864e97cb90588815a68777a6265a705e14ff",
+  "contract_version": "nt-greek-verse-v62",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed against the contract and returned unchanged: all ten source ids and all twelve target ids are partitioned exactly once, every aligned unit has nonempty arrays with its heads inside them, and the single unrepresented unit (s007) is source-only with a valid source head and a null target head.",
+    "The ASV restructures ἐπικληθὲν ἐφ᾽ ὑμᾶς (\"which was called upon you\", cf. the packet's gloss note and Acts 15:17) into \"by which ye are called\". Each Greek token still has a distinct English realization — ἐπί → *by*, ὑμᾶς → *ye*, the participle → *are called* — so the phrase is split rather than treated as one broad or noncompositional unit (rules 2, 27).",
+    "s007 is left unrepresented rather than given *which*: rule 31's test is whether the article governs an expressed head noun, and ὄνομα is expressed, so the relativizer is the participle's helper. Rule 92 is not the contrast either, the modifier being a participle rather than an expressed appositional predicate noun. A reference comparison may report this article as a disagreement; that is not a correction.",
+    "The interrogative *Do* is treated as the verb's auxiliary, not as a supplied interrogative word answering to a particle — no interrogative particle stands in this verse (rules 44, 64 are not in question), and οὐκ is an ordinary negative with its own *not*. Rules 41, 59 and 69 are likewise not in question: no negative or plain indefinite stands with the negator.",
+    "βλασφημοῦσιν is rendered by a single English verb here, so rule 91's *speaking evil of* head question does not arise; head on *blaspheme* is the corpus's own word for the lexeme."
+  ],
+  "ref": "JAS.2.7",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

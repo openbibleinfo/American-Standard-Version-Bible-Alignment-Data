@@ -1,0 +1,20 @@
+{
+  "ref": "JHN.19.18",
+  "alignments": [
+    {"source": ["s001"], "source_head": "s001", "target": ["t001"], "target_head": "t001", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s003"], "source_head": "s003", "target": ["t002", "t003"], "target_head": "t003", "status": "aligned", "confidence": "high", "note": "Inflected verb takes its supplied English subject; head on the lexical verb."},
+    {"source": ["s002"], "source_head": "s002", "target": ["t004"], "target_head": "t004", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s004"], "source_head": "s004", "target": ["t005"], "target_head": "t005", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s005"], "source_head": "s005", "target": ["t006"], "target_head": "t006", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s006"], "source_head": "s006", "target": ["t007"], "target_head": "t007", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s008"], "source_head": "s008", "target": ["t008"], "target_head": "t008", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s007"], "source_head": "s007", "target": ["t009"], "target_head": "t009", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s009", "s010", "s011"], "source_head": "s009", "target": ["t010", "t011", "t012"], "target_head": "t012", "status": "noncompositional", "confidence": "medium", "note": "ASV renders the repeated adverb pair as one phrase; neither occurrence of the adverb nor the joining conjunction is separately recoverable, since 'either' spans both. Splitting 'on ... side' from 'either' remains defensible."},
+    {"source": [], "source_head": null, "target": ["t013"], "target_head": "t013", "status": "added", "confidence": "medium", "note": "Supplied distributive numeral (ASV italics); no source token answers to it."},
+    {"source": ["s013"], "source_head": "s013", "target": ["t014"], "target_head": "t014", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s014"], "source_head": "s014", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "Article before a name has no English realization (rule 23)."},
+    {"source": ["s015"], "source_head": "s015", "target": ["t015"], "target_head": "t015", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s012"], "source_head": "s012", "target": ["t016", "t017", "t018"], "target_head": "t018", "status": "aligned", "confidence": "high", "note": "Anarthrous Greek adjective; the supplied preposition and determiner are helpers on the word they realize."}
+  ],
+  "review_notes": []
+}

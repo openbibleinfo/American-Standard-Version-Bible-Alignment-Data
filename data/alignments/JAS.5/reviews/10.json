@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "21665170539b1df1b5ca8017f90df714410244162345c1c26645b96781cd6740",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed against the accepted alignment and returned unchanged; all 16 source and 20 target ids are partitioned exactly once and no unit's edges or head required correction. Notes on s002, s001 and s013 were expanded to record the reasoning a later reader would otherwise have to redo.",
+    "s001 'for an example': the only materially different reading is marking 'for' added. It was rejected under rule 86 — the accusative predicate noun stands in this verse and licenses the supplied preposition — and rule 36's principle keeps it on the nominal rather than on 'Take', so the verb is not read as phrasal.",
+    "s004 and s007 are unrepresented because the ASV writes 'of suffering' and 'of patience' with no determiner. Rule 21's determinerless clause forbids a bare 'of' on the article, so each case preposition stays on its noun; this is rule 21's own 'τῆς εἰρήνης' → 'of peace' shape and not rule 23 by convenience.",
+    "s016 κυρίου is anarthrous in the projection (the packet's gloss brackets the article), so 'of the Lord' is one unit headed on the noun rather than an article-plus-noun split. Nothing here contradicts s014, where an expressed article does take its own 'the'.",
+    "λάβετε + ὑπόδειγμα is not rule 73's collapsed light-verb pair: the ASV spells both elements out as 'Take' and 'an example', so rule 2 splits them like any other pair.",
+    "Variant v007 is selected to the base and covers s003; v008 (s013 ἐν) is underdetermined with the base still among the compatible readings, so it carries no FALLBACK EXCLUDED mark and rule 97 is not in play. No textual decision was made in this file per rule 12."
+  ],
+  "ref": "JAS.5.10",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

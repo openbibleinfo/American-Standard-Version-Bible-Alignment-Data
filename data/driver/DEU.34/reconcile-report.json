@@ -1,0 +1,27 @@
+{
+  "chapter": "DEU.34",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Compound preposition renderings in this chapter: the ASV's *over against* is one rendering no morpheme owns a part of, so `al-penei` (34.1) fuses under rule 30 with the verbless clause's copula joining the whole expression, headed on the construct noun and on *over*, and the single-morpheme `mul` (34.6) takes the same compound whole. `al-pi` (34.5) is split instead, because the ASV spends *according to* on the preposition and *the word* on the construct noun, so each morpheme has a rendering of its own; the head of the preposition's unit is *according*, not the connective *to*. Read which of the two shapes the ASV wrote before reaching for either outcome.",
+    "The age idiom `ben` + numeral + `shanah` (34.7, *Moses was a hundred and twenty years old when he died*) is divided with the construct `ben` taking both the construction-supplied copula and *old*, discontinuous around the numeral phrase (rules 20, 25), while each numeral keeps its own English, the *a* of *a hundred* belongs to the numeral rather than to the plural counted noun, and `shanah` keeps *years*. Neither *old* nor the copula is `added`, and neither belongs to `shanah`."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v139",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 12 verses end to end against the candidate table. No construction is analysed two ways without something in the source licensing the difference, so patches is empty.",
+    "Compound prepositions were the one real candidate. `al-penei` (34.1) fuses as *over against* under rule 30, while `al-pi` (34.5) splits into *according to* on the preposition and *the word* on the construct noun: in 34.5 each morpheme has a rendering of its own, in 34.1 neither owns a part of the compound. `mul` (34.6) is a single morpheme taking the same compound. Both *over against* units head on *over* (rule 24), and 34.1 heads its source on the construct (rule 23). Licensed, not a split.",
+    "Article counting is uniform: fronting onto the rectum's article where the rectum is rendered anarthrously (34.1 *the top of Pisgah*, 34.3 *the city of palm trees*); first article takes the phrase's single *the* in attributive phrases (34.2, 34.12); the demonstrative pronoun takes the one determiner with both articles unrepresented (34.6 *this day*); and a supplied *the* goes on the construct only where no article morpheme stands in the chain (34.1, 34.2, 34.5, 34.6, 34.8, 34.9, 34.11, 34.12). The two Td->Np treatments the table flags in 34.1 are that count run correctly: the article on Gilead gets nothing because the phrase's single *the* stands before the article of `ha-arets`.",
+    "The relative-plus-suffix pair is settled by reference, not by preference: 34.10 fuses `asher ... o` as *whom* because the suffix resumes the antecedent, while 34.11's suffix denotes Moses rather than the plural antecedent and so takes its own *him* (rule 22's closing paragraph). Both `arvot moav` phrases (34.1, 34.8) take a supplied *the* on the construct, and both appositional nominals carrying no preposition (34.1 *to the top*, 34.3 *of the valley*) take the supplied word under rule 33, whose own *to your mountain* example covers the directional case.",
+    "Object markers: two take the preposition through which the English verb reaches its object (*knoweth of* 34.6, *wept for* 34.8), the rest are unrepresented because the ASV writes those objects bare. The chapter's single `added` unit, the supplied *it* of *caused thee to see it* (34.4), is correct under rule 44 since the verb's one suffix is spent on *thee*. I checked every other supplied English word (copulas, presentative *there*, indefinite articles, subject pronouns, supplied *the*s) for the failure the lemma table is blind to, and found none folded into a morpheme that does not license it.",
+    "BSB: no genuine error. All three disagreement families are documented convention differences - six Td (BSB attaches every article to its noun, against rules 29/41/47), the `le` of `lemor` (rule 27), and the `et` of 34.6, whose pronoun the suffix carries (rule 16).",
+    "Two conventions recorded. No promotions: the chapter's non-obvious calls are all applications of rules already in the contract, and the one shape that might generalise - a relative fused with a resumptive verbal object suffix as *whom* - has no corpus counts in this briefing to carry it, so promoting it would rest on a single unit."
+  ]
+}

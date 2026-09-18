@@ -1,0 +1,6 @@
+# 1 Chronicles 17 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- ASV italics in this chapter were each decided on the Hebrew (rule 7), and the line fell as follows: *dwelleth* (v1) joins תַּחַת as rule 20's continuance copula on a prepositional predicate, since a bare *is under curtains* says what the Hebrew says; *as* (v10) joins the compound לְמִן → *as from* under rule 23, headed on the לְ; *these* (v19) is the article's under rule 41; *one* (v5) joins מִשְׁכָּן under rule 15; and *say* (v18), *to another* (v5) and *in his heart* (v25) are `added`. Each unit's note names the competing reading.
+- A generic English noun the ASV supplies to complete a Hebrew substantive joins that substantive's unit and is never the head: כֹל → *all places* (v6), גְּדוֹלִים → *great ones* (v8), גְּדֻלּוֹת → *great things* (v19), נֹרָאוֹת → *terrible things* closing the coordinated pair in v21, טוֹבָה → *good thing* (v26). The chapter extends the same reading to the stative verb תִּקְטַן → *was a small thing* (v17), keeping *a thing* with the verb headed on *small*, with *a thing* added as the named competitor.

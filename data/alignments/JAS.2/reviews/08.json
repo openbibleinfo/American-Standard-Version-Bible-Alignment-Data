@@ -1,0 +1,17 @@
+{
+  "alignment_sha256": "6cb561bd6114585273494214f6c50a93f595a9d97c4dbc733d809407951c905e",
+  "contract_version": "nt-greek-verse-v62",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed and kept unchanged in structure: all sixteen units of the accepted alignment stand. Only the notes on s006, s010 and s011 were extended to record the competing readings a later reader would otherwise have to re-derive.",
+    "Partition checked: every s### and t### id appears exactly once; 16 source and 21 target tokens.",
+    "The only unrepresented unit is s010 τόν, emptied by the free genitive σου under rule 20's proper case (and rule 76's availability test, σου spending nothing else). A reference comparison may report it as a disagreement; that report is not a correction.",
+    "κατά takes *according to* whole and τήν keeps a bare *the*. Reading *to* as the case preposition riding on the article under rule 21 is the defensible alternative, but *according to* is one English preposition and splitting it would leave *according* bare; the head stays on *according* as the meaning-bearing word under rule 17, not on *to* by analogy with rule 78's *for … sake*, which is a discontinuous wrap around a supplied noun and not this construction.",
+    "s003 νόμον carries the discontinuous *the … law* under rule 58 because both noun and adjective are anarthrous; the competing reading giving *the* to *royal* by word order is what rule 58 forbids.",
+    "τὸν πλησίον σου was audited separately as the verse's one genuinely open article: the article substantivizes an adverb, so rule 49's supplied-nominal case (`τὸ τρίτον` → *the part*) is the reading to rule out. It is ruled out because *neighbor* glosses πλησίον itself under rule 91 and the determiner slot is already occupied by σου, leaving the article nothing.",
+    "εἰ μέντοι is kept as two units. Rule 39's noncompositional cluster is scoped to a particle fused with the negative μή, and rule 65 decides an accompanying particle on its own English word; the ASV writes one here (*Howbeit*), so both are aligned."
+  ],
+  "ref": "JAS.2.8",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

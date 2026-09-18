@@ -1,0 +1,159 @@
+{
+  "alignments": [
+    {
+      "note": "Construct noun; the indefinite article belongs to the noun that licenses it (rule 15).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The ASV writes *a bag of money* with no *the* anywhere in the phrase, so the article on the rectum is unrendered (rule 29's last sentence); the single determiner is indefinite and stands before the construct's own word.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Nomen rectum takes the chain's *of* (rule 19).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Finite verb with its subject pronoun and auxiliary, headed on the lexical verb (rules 17 and 24).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "בְּ stands on the construct noun יָד and the ASV writes one English word for the pair, no word rendering יָד's own lexeme, so rule 30's one-rendering condition is met and the two share one unit headed on the construct noun. Rule 30 forbids marking that noun unrepresented beside a preposition holding the whole rendering, and the corpus fuses `בְּיַד` → *by* on the same terms; the suffix keeps only the *him* written for it (rule 18).",
+      "source": [
+        "s005",
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Suffix realized by the object pronoun (rule 18).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "לְ stands on the construct noun יוֹם and the ASV writes only *at* for the pair, spending no word on יוֹם's own lexeme, so the two fuse and head on the construct noun (rule 30), exactly as `לִפְנֵי` does before its own rectum. Marking יוֹם unrepresented under rule 22 was the competing reading, but that sentence governs an element the ASV has left unwritten rather than one whose sense stands inside a fused word, and rule 30 states the prohibition expressly. That a bare לְ is elsewhere rendered *at* does not defeat the condition.",
+      "source": [
+        "s008",
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Article on the rectum takes the written *the* (rule 29).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "כֶּסֶא rendered *full moon*. Head on *full* by rule 31's subtraction: *moon* alone is any moon, exactly as *place* alone is any place in `בָּמָה` → *high place*, so *moon* is the supplied generic and *full* carries the lexeme. Rule 31's class-noun tie-break does not reach it, since the ASV writes no bare *moon* for a same-class word in this verse or passage and never renders `כֶּסֶא` without *full*. Heading on *moon* was the competing reading.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Finite verb with its subject pronoun and modal (rule 17).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "בֵּיתוֹ rendered by the bare *home*.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "*home* carries no possessive, so the suffix is unrendered (rules 40 and 22).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    }
+  ],
+  "ref": "PRO.7.20",
+  "review_notes": [
+    "Two units corrected earlier, both on the same point: a preposition standing on a construct noun whose own lexeme the ASV writes no word for fuses with that noun under rule 30 and is headed on it, rather than leaving the noun unrepresented. בְּיָדוֹ → *with him* and לְיוֹם הַכֵּסֶא → *at the full moon* both divide that way; the suffix and the rectum keep their own English as before.",
+    "The determiner count is unchanged: the phrase's one determiner is the indefinite *a* standing before the construct's word, so the article on הַכֶּסֶף is unrepresented rather than fronted (rules 15 and 29).",
+    "Reconciliation moved the head of the כֶּסֶא unit from *moon* to *full*, matching the chapter's five other modifier-plus-generic substantives and rule 31's cited examples. No edge changed."
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "chapter": "PRO.18",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PRO.18.17.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'But his neighbor cometh and searcheth him out' renders the verb with a bare English present that fits either the qere waw-consecutive perfect (ובא) or the ketiv imperfect (יבא) in this gnomic proverb; both readings carry the same lexeme בוא and the same subject, and no ASV note is mapped to this unit, so the English distinguishes nothing."
+    },
+    {
+      "unit_id": "WLC.PRO.18.19.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'And such contentions are like the bars of a castle' renders a plural noun of strife that answers equally to the qere מדינים and the ketiv מדונים, alternate plural spellings of the same word; the only note on the verse is classed alternative_rendering ('Or, injured') and bears on the participle earlier in the line, not on this unit."
+    }
+  ]
+}

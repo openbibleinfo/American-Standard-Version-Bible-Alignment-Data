@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "f279bee89647ed603a52bb0dcfe7395db3a790bf65852d1507df56ee5b724591",
+  "contract_version": "nt-greek-verse-v63",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed unchanged: every unit of the accepted alignment survives review, with notes tightened to name the rules the competing readings rest on.",
+    "Partition verified: all 17 source ids and all 20 target ids appear exactly once. Every aligned unit has nonempty arrays with both heads members; the one `unrepresented` unit (s012) has an empty target and a null target head.",
+    "Two English *his* tokens against one Greek genitive pronoun is the verse's only real decision. t015 goes to s014 under rule 20 proper, which leaves s012 `unrepresented`; t012 goes to s009 under rule 76's availability reading, since s014 has been spent. The rejected alternative — s014 taking both possessives and s009 `unrepresented` — is named in s009's note. A reference comparison will report s009 as represented, and that report is not a correction.",
+    "Rule 76's `τοῖς δεσμοῖς μου` precedent was weighed for the competing reading and does not carry: there one word's English is split between an oblique realization and a possessive inside a single phrase, whereas here two determiner slots in two separate noun phrases are at stake.",
+    "s002 carries the supplied copula under rule 53's adjectival-predicate case, not the subject pronoun s001. Rule 63's noun-phrase exception and rule 68's demonstrative-subject case both turn on a noun-phrase predicate and do not reach an adjectival one.",
+    "No rule 37 versification split, no `FALLBACK EXCLUDED BY EVIDENCE` mark, and hence nothing `added` in this verse; every English helper here is licensed by a present source token."
+  ],
+  "ref": "JAS.3.13",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

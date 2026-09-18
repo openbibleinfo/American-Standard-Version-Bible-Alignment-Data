@@ -1,0 +1,108 @@
+{
+  "alignments": [
+    {
+      "note": "Construct quantifier rendered attributively (rule 28); it takes only its own word and the *of* of rule 19 is not written here.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Nomen rectum of the quantifying chain, rendered as the bare plural noun.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Finite verb with its English auxiliary; head on the lexical verb under rule 24.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Preposition and its own suffix fused in one pronominal adverb *thereon*, one unit under rules 22 and 30, headed on the preposition since no relative stands in the clause.",
+      "source": [
+        "s004",
+        "s005"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Explicit subject noun of the second line.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Finite verb; the following *it* is not part of its rendering, see the next unit.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Supplied object pronoun: no object marker or suffix stands on `יַבִּיט`, so under rule 44 the pronoun answers to no morpheme and is its own `added` unit rather than joining the verb.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "`מֵרָחוֹק` rendered by the single English adverbial *afar off*: subtraction leaves no morpheme owning *off* in particular, so rule 30's one-rendering condition is met and the pair shares a unit headed on the morpheme carrying the lexeme, with the target head on *afar* under rule 24. The competing reading gives *afar* to `מִן` and *off* to the adjective; rejected because *off* carries no distance lexeme of its own.",
+      "source": [
+        "s008",
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t009"
+    }
+  ],
+  "ref": "JOB.36.25",
+  "review_notes": [
+    "Nine source and ten target IDs each partitioned exactly once.",
+    "The only supplied English is the object pronoun *it* at t008, marked `added`; every other English word answers to a morpheme.",
+    "`מֵרָחוֹק` was read as a rule 30 fusion rather than split; the alternative split is named in that unit's note under rule 8."
+  ]
+}

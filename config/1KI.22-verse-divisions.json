@@ -1,0 +1,68 @@
+{
+  "schema_version": 2,
+  "chapter": "1KI.22",
+  "policy": "One Hebrew verse's words fill two different ASV places here. Read both texts, find the Hebrew word the second part begins at, and record its 1-based position within the Hebrew verse together with its consonants. The targets and the notes beside them are derived from the versification table; only the position is a judgment. The build checks the position and the consonants against each other and refuses the chapter until every entry is resolved.",
+  "divisions": [
+    {
+      "source_verse": 21,
+      "status": "resolved",
+      "first_target": "1KI.22.21",
+      "first_target_is": "the whole of ASV 1KI.22.21",
+      "second_target": "1KI.22.22",
+      "second_target_is": "the head of ASV 1KI.22.22",
+      "second_begins_at_word": 9,
+      "second_begins_with": "ויאמר",
+      "evidence": "ASV 1 Kings 22:21 renders words 1-8 of Hebrew verse 21 (וַיֵּצֵא ... אֲפַתֶּנּוּ) as “And there came forth a spirit, and stood before Jehovah, and said, I will entice him.” ASV 22:22 begins at word 9, וַיֹּ֧אמֶר, rendered “And Jehovah said unto him, Wherewith?”, and then continues with the whole of Hebrew verse 22. The two ASV verses account for all twelve words of Hebrew 21 with no overlap.",
+      "hebrew_words": [
+        {
+          "word": 1,
+          "text": "וַ/יֵּצֵ֣א"
+        },
+        {
+          "word": 2,
+          "text": "הָ/ר֗וּחַ"
+        },
+        {
+          "word": 3,
+          "text": "וַֽ/יַּעֲמֹד֙"
+        },
+        {
+          "word": 4,
+          "text": "לִ/פְנֵ֣י"
+        },
+        {
+          "word": 5,
+          "text": "יְהוָ֔ה"
+        },
+        {
+          "word": 6,
+          "text": "וַ/יֹּ֖אמֶר"
+        },
+        {
+          "word": 7,
+          "text": "אֲנִ֣י"
+        },
+        {
+          "word": 8,
+          "text": "אֲפַתֶּ֑/נּוּ"
+        },
+        {
+          "word": 9,
+          "text": "וַ/יֹּ֧אמֶר"
+        },
+        {
+          "word": 10,
+          "text": "יְהוָ֛ה"
+        },
+        {
+          "word": 11,
+          "text": "אֵלָ֖י/ו"
+        },
+        {
+          "word": 12,
+          "text": "בַּ/מָּֽה"
+        }
+      ]
+    }
+  ]
+}

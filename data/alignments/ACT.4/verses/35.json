@@ -1,0 +1,193 @@
+{
+  "alignments": [
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb with its supplied object pronoun, a rule 7 helper on the verb English requires it for (rule 74's object clause).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Preposition at.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Article emptied because the genitive rendered with the English possessive apostles' already occupies the determiner slot (rule 20).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Article to the, determining the possessor phrase.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Genitive noun rendered as the English possessor.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Connective δέ rendered and.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Finite verb rendered distribution was made; head on the noun carrying the διαδιδ- sense, was made being the empty support (rules 17, 91).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Dative adjective with its case preposition unto (rule 21).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Conjunction taking the lexical word of the English clause-introducer, according; the generalizing particle beside it takes the second word (rules 40, 50).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Generalizing ἄν aligned to the as of according as. Rule 50 holds that ἄν is aligned and that leaving it unrepresented is the recurring failure, and its spelled-out precedent ἃ … ἂν … ποιῇ → what things soever gives the relative its own word and the extra word to ἄν alone; this is that split for a conjunction. The competing reading keeps according as whole on καθότι and leaves ἄν empty, which rule 50 names as the failure and reports as a genuine correction.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Indefinite pronoun with its supplied generic completion one, headed on the indefinite (rule 17).",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Finite verb had; the ASV spells both elements of the ἔχω + noun pair out, so rule 2 splits them (rule 73's contrast).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Noun complement need.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "ACT.4.35",
+  "review_notes": [
+    "Corrected καθότι ἄν: the accepted alignment kept according as whole on καθότι and left ἄν unrepresented, citing rule 61's ban on splitting a clause-introducer. That ban is scoped to a preposition governing an articular infinitive and to the archaic that of before that, and does not reach a particle standing beside a conjunction. Rule 50 governs ἄν directly, calls an unrepresented ἄν the recurring failure, and is the one place the contract says the disagreement report is itself a correction.",
+    "The reading now follows rule 50's spelled-out precedent: the conjunction keeps its lexical word according and the particle takes as. The competing reading — that rule 82's evidence of καθώς → according as as one conjunction's whole English carries over to καθότι — is named in the unit's note.",
+    "τοὺς πόδας τῶν ἀποστόλων is unchanged: the article is unrepresented under rule 20 because the genitive rendered as the English possessor occupies the determiner slot, exactly as at 4:37."
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "chapter": "PSA.59",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Refrain (vv.6, 14): the identical Hebrew is aligned identically morpheme by morpheme; the jussive frame 'let them' the ASV writes in v.14 belongs to each verb under rule 17 and nothing else moves. לָעֶרֶב → 'at evening' leaves the assimilated article unrepresented and gives 'at' to the לְ, while לַבֹּקֶר → 'in the morning' (v.16) gives the assimilated article the written 'the'. יְסוֹבְבוּ → 'go round about' heads on round (competing head go).",
+    "מִשְׂגָּב → 'high tower' heads on high throughout the chapter (vv.9, 16, 17), high carrying the שׂגב lexeme under rule 31; the competing head is tower. Where it is the predicate of a verbless clause (vv.9, 17) the copula joins that unit under rule 20 and the 1cs suffix takes only 'my'; where it is the complement of הָיִיתָ with לִי (v.16) the לְ is unrepresented under rule 40 and the suffix takes 'my'."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked every cross-verse candidate against its context. The refrain in vv.6 and 14 is word-for-word identical Hebrew and is aligned identically morpheme by morpheme; the only difference (They return / let them return, they howl / let them howl) is the ASV's jussive frame, which rule 17 puts on the verb in both. The three מִשְׂגָּב units (vv.9, 16, 17) all head 'high tower' on high with the copula joining the predicate in vv.9 and 17; the three לְ + suffix datives recast as possessives (v.16 ×2) all leave the preposition unrepresented under rule 40. אֱלֹהֵי in v.10 ('My God', divergence from the construct projection named under rule 53) and in v.17 ('the God of my mercy') are different constructions, not a split.",
+    "Every `added` unit was read against the rest of the chapter: 'set to' and 'A Psalm' (v.0), 'my' before fault (v.4, no suffix), 'say they' (v.7), 'my desire' (v.10), 'and' between the two asyndetic nominals and 'which' over the asyndetic finite clause (v.12), and the two object pronouns on suffixless כַּלֵּה (v.13). None is folded into a licensing morpheme elsewhere in the chapter; where a suffix or waw is present the pronoun or connective goes to it in every verse.",
+    "All nine BSB disagreements are documented convention differences and none is an error: paragogic nun (vv.4, 7, 15) and paragogic he (vv.4, 5) under rule 32; the לְ of v.8 whose object the ASV promotes to the direct object of 'have in derision', the second מִן of v.12 for which the ASV writes one 'for', and the לִי of v.16 recast as 'my', all under rule 40; and the lexicalized 1cs suffix of אֲדֹנָי in v.11 under rule 57.",
+    "No contract promotion or amendment: the chapter's judgments (light-verb heads on the complement, vocative O with the noun, existential אַיִן with its suffix's pronoun, rule 53 divergence in v.10) are already written in the contract and the corpus agrees with each."
+  ]
+}

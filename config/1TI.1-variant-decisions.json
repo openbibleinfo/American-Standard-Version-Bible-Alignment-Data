@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "chapter": "1TI.1",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.1TI.1.1.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 1:1 reads 'an apostle of Christ Jesus', the order Χριστοῦ Ἰησοῦ; the transposed Ἰησοῦ Χριστοῦ would give 'Jesus Christ'."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.1.1.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 1:1 reads 'and Christ Jesus our hope': the order is Χριστοῦ Ἰησοῦ and there is no 'Lord', so the longer κυριόυ Ἰησοῦ Χριστοῦ is excluded on both counts."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.1.2.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 1:2 reads 'from God the Father and Christ Jesus our Lord'; 'our' attaches to Lord alone, with no 'our Father', so the added ἡμῶν after πατρὸς is not rendered."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.1.4.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 1:4 'which minister questionings' renders ἐκζητήσεις and the simplex ζητήσεις identically; the only note on the verse is an alternative_rendering about 'dispensation/stewardship' and does not touch this word."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.1.12.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 1:12 opens 'I thank him that enabled me' with no connective; the ASV renders sentence-initial καί, so the absence of 'And' points to Χάριν without καί. The verse's textual_variant note ('read enableth') concerns the participle's tense, not this conjunction."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.1.13.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 1:13 'though I was before a blasphemer' leaves the article's case invisible in English; τὸ πρότερον and τὸν πρότερον ὄντα yield the same rendering and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.1.16.v007",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 1:16 reads 'might Jesus Christ show forth', the order Ἰησοῦς Χριστός, against the base Χριστὸς Ἰησοῦς."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.1.16.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 1:16 'all his longsuffering' renders ἅπασαν and πᾶσαν alike; the ASV marks no intensive force for ἅπας here."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.1.17.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 1:17 reads 'the only God' with no 'wise'; the added σοφῷ would be rendered ('the only wise God'), and the verse's three notes are greek_gloss only."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.1.18.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 1:18 'that by them thou mayest war the good warfare' does not distinguish present στρατεύῃ from aorist στρατεύσῃ; English 'mayest war' serves either aspect."
+    }
+  ]
+}

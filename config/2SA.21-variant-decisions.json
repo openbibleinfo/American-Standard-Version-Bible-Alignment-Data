@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "chapter": "2SA.21",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2SA.21.4.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'neither is it for us to put any man to death' renders first-person plural לָנוּ (qere); ketiv לי would be 'for me'. The alternative_rendering note ('for us shalt thou') keeps 'us' and does not decide."
+    },
+    {
+      "unit_id": "WLC.2SA.21.6.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'let seven men of his sons be delivered unto us' is a passive that renders hophal יֻתַּן (qere) and niphal ינתן (ketiv) alike; no note is mapped. Base qere retained."
+    },
+    {
+      "unit_id": "WLC.2SA.21.9.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'they fell all seven together' renders 'the seven of them' שְׁבַעְתָּם (qere); ketiv שבעתים 'sevenfold' is not what the English says."
+    },
+    {
+      "unit_id": "WLC.2SA.21.9.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "וְהֵמָּה (qere) and והם (ketiv) are spelling forms of the same pronoun; ASV 'And they were put to death' renders either. Base qere retained."
+    },
+    {
+      "unit_id": "WLC.2SA.21.9.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'at the beginning of barley harvest' needs an English preposition whether the Hebrew has בִּתְחִלַּת (qere) or an adverbial construct תחלת (ketiv); the wording does not distinguish. Base qere retained."
+    },
+    {
+      "unit_id": "WLC.2SA.21.12.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "תְּלָאוּם (qere) and תלום (ketiv) are orthographic forms of the same verb 'hanged them'; ASV 'had hanged them' renders either. The 'broad place' note is alternative_rendering on a different word. Base qere retained."
+    },
+    {
+      "unit_id": "WLC.2SA.21.12.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The readings differ only in שָׁמָּה/שם and the presence of the article on פלשתים; ASV 'where the Philistines' uses the English definite article with the people-name regardless, so it does not distinguish. Base qere retained."
+    },
+    {
+      "unit_id": "WLC.2SA.21.16.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'and Ishbi-benob, who was of the sons of the giant' renders the proper name וְיִשְׁבִּי (qere); ketiv וישבו 'and they dwelt' has no counterpart in the English."
+    },
+    {
+      "unit_id": "WLC.2SA.21.20.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'a man of great stature' is compatible with both מָדוֹן (qere) and מדין (ketiv, 'measures', cf. 1 Chr 20:6 sense); the English chooses neither. The Raphah note is a hebrew_gloss on 'giant'. Base qere retained."
+    },
+    {
+      "unit_id": "WLC.2SA.21.21.v010",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'Jonathan the son of Shimei' transliterates the ketiv שמעי (Shimei); qere שִׁמְעָה would be 'Shimeah/Shimea'. The 'other' note contrasting 'In 1 Chr. 2:13; 20:7, Shimea' confirms the ASV text here is the ketiv form."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "chapter": "1SA.18",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "1SA.18.25"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Verb + bə'eyney: fused into the ASV's single verb only where the morphemes stand together — v. 8 ra' bə'eynaw → *displeased*, one unit headed on the verb, suffix keeping *him*. Where the subject stands between the verb and bə'eyney (vv. 20, 26 yashar ha-davar bə'eyney → *pleased* / *pleased ... well*), the verb alone holds the English and bə and eyney are each unrepresented, on rules 30 and 40's contiguity limit (gadal ... min → exceeded). Where bə'eyney stands under a predicate with no verb to fuse into, it fuses to the ASV's one word (v. 23 → *to*, headed on eyney); where the ASV writes *in the sight of* (v. 5) each morpheme takes its own word.",
+    "hithatten bammelekh → *be the king's son in law* (vv. 22, 23, 26, 27): bə is unrepresented (recast as possessive, rule 40), the assimilated article takes the *the* standing before the possessor's word (rule 29), melekh takes *king's*, and the verb's unit holds *be son in law* headed on *son*, discontinuous around the possessive. A preceding lə takes whatever the ASV writes for it (*to* v. 26, *that* v. 27) and the bare infinitive of v. 23 takes its own *to* (rule 52).",
+    "Periphrastic hayah + participle: where the ASV writes one finite verb for the pair and the subject stands between them (v. 9 → *eyed*, v. 14 → *behaved himself wisely*), the participle holds the verb and hayah is unrepresented rather than fused (rule 30 contiguity); where the ASV writes copula + noun (v. 29 → *was David's enemy*) hayah takes *was* and the participle the noun."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 55 candidate groups end to end and the dump for added units. Every multi-treatment bucket is licensed by the ASV's own wording or by an explicit contract ruling: waw takes whatever connective is written (rule 14); rule 45 frames give *that* to the apodosis waw in vv. 1, 6, 10, 19 and keep it on the verb in v. 30 where the apodosis is asyndetic; the periphrastic hayah + participle is unrepresented where one finite verb renders both (vv. 9, 14) and takes *was* where the ASV writes copula + noun (v. 29); mippney/milifney/me'im fuse or split exactly as the ASV writes one word or two (vv. 11, 12, 13, 15, 29).",
+    "The chapter's one contested construction is verb + bə'eyney. v. 8 (contiguous) fuses ra' + bə + eyney into *displeased*; vv. 20 and 26, where ha-davar stands between yashar and bə'eyney, keep *pleased* on the verb and leave bə and eyney unrepresented under the contiguity limit rules 30 and 40 set for a verb and its governed preposition (gadal ... min → exceeded). Consistent with the contract as written; recorded as a convention.",
+    "One patch, 1SA.18.25: the ASV writes *not* on eyn and *any* before *dowry*; rule 15 gives a supplied *any* under a negation to the bare noun it determines unless a morpheme licenses it, and eyn's negation is already spent on *not* (rule 50 heads it on the negation word). eyn → *not*; mohar → *any dowry* headed on *dowry*. No other edge changed.",
+    "BSB disagreements are all convention differences, none a genuine error: the Rd/Td/R counts are BSB attaching prepositions and articles to their hosts; v. 3 et is the object marker; vv. 9/14 hayah is the periphrastic auxiliary; vv. 15/26 waw is the unrendered apodosis waw under *And when*; vv. 20/26 eyney is the contiguity split above.",
+    "No promotion or amendment: the contiguity limit, rule 15's *any*, rule 29's possessor determiner and rule 45's apodosis *that* already say what this chapter applied."
+  ]
+}

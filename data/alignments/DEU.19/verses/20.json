@@ -1,0 +1,251 @@
+{
+  "alignments": [
+    {
+      "note": "Waw takes *And*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Substantival article takes the supplied pronoun and relative, headed on the pronoun (rule 41).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Participle keeps its own English.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Verb with auxiliary.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Waw takes *and*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Verb.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Waw takes *and*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Negative takes the *no* the ASV writes for it, discontinuous from its verb under rule 25; the quantifier עוֹד keeps its own *more*, so rule 35's fusion does not apply.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "The verb of repetition with its auxiliary, its iterative sense rendered *henceforth*; head on the word carrying that sense rather than on the auxiliary (rule 24).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "The recasting writes no function word for this לְ (rules 52, 40).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Infinitive rendered *commit*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "עוֹד takes *more*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "The comparative כְּ and the demonstrative are rendered by the single word *such*, which carries both the comparison and the deixis (rules 30, 35); the two morphemes genuinely tie for the head, so rule 23's syntactic head standing first is taken.",
+      "source": [
+        "s013",
+        "s019"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "The assimilated article takes the quantifying determiner *any* written in its place, standing where the phrase's *the* would stand (rule 41: `הַבֶּגֶד` → *any garment*). No other morpheme licenses that word — no כֹּל stands in the phrase and the demonstrative is already answered by *such* — and rule 15 gives a supplied *any* to the noun only where no determiner morpheme stands before the word it determines. Corrected from the accepted reading, which marked this article unrepresented and made *any* the whole rendering of דָּבָר.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Generic head noun דָּבָר with the attributive that names the class rendered by the one English word *evil*, which carries both senses; the pair shares a unit headed on the morpheme carrying the lexeme (rule 30's generic-noun sentence, `אִשָּׁה זוֹנָה` → *harlot's*, which forbids marking the generic unrepresented beside it). The competing reading leaves דָּבָר unrepresented and gives *evil* to רָע alone.",
+      "source": [
+        "s015",
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Agreement article on the attributive (rule 47).",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Agreement article on the demonstrative (rule 47).",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Construct noun with a supplied *the* (rule 29).",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Suffix as the rectum, rendered *of thee* and headed on the pronoun (rule 19).",
+      "source": [
+        "s022"
+      ],
+      "source_head": "s022",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022"
+      ],
+      "target_head": "t022"
+    }
+  ],
+  "ref": "DEU.19.20",
+  "review_notes": [
+    "Corrected in the phrase *any such evil*. The assimilated article of כַּדָּבָר is a determiner morpheme standing before the word it determines, so rule 41 gives it the quantifying *any* and rule 15's supplied-determiner sentence does not reach the noun; the accepted alignment had marked that article unrepresented and aligned דָּבָר to *any* on the premise that nothing else in the phrase licensed the word.",
+    "With *any* placed on the article, דָּבָר and רָע are read as rule 30's generic head noun plus class-naming attributive rendered by the one word *evil*, headed on רָע, rather than leaving the generic noun unrepresented beside it.",
+    "*no more* stays split between לֹא and עוֹד because the ASV writes a word for each (rule 35's limit), and the three remaining articles in the phrase are unrepresented under rules 29 and 47."
+  ]
+}

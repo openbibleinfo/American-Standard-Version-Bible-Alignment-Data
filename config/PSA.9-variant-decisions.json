@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "chapter": "PSA.9",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PSA.9.12.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere 6035 (meek) and ketiv 6041 (poor) are near-synonyms of one root. ASV reads 'the poor', and elsewhere it habitually renders 6035 as 'meek', which points to the ketiv; that habit was not verified across the corpus, so it is recorded as suggestive rather than decisive."
+    },
+    {
+      "unit_id": "WLC.PSA.9.18.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The same near-synonymous pair as PSA.9.12 with the readings reversed. ASV again reads 'the poor', here matching the qere, but on the same unverified habit, so it is left undetermined for consistency."
+    }
+  ]
+}

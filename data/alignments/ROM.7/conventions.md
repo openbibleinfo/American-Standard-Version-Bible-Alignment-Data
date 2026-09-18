@@ -1,0 +1,7 @@
+# Romans 7 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- The ASV writes a bare *sin* everywhere in this chapter, so every Greek article governing ἁμαρτία is `unrepresented` under rule 23 — 7:7, 7:8, 7:9, 7:11, 7:13 twice, 7:14, 7:17, 7:20, 7:23 — while every anarthrous νόμος takes the ASV's supplied *the* as its own rule 7/51 helper — 7:1, 7:7, 7:8, 7:9, 7:25 twice. The two patterns are the chapter's characteristic pairing and a reference comparison reports the empty articles as disagreements; that report is not a correction.
+- The parallel clefts of 7:17 and 7:20, οὐκέτι ἐγὼ κατεργάζομαι αὐτό → *it is no more I that do it*, keep the English cleft frame *it is* whole on οὐκέτι under rule 96's expressed-verb clause; ἐγώ takes a bare *I* as the cleft's focus and the verb keeps the relativizer *that*. Splitting *it is* off onto ἐγώ remains the competing reading, and both verses take the same one.
+- ROM.7.9/7.10 is a versification boundary under rule 37. The projection places ἐγὼ δὲ ἀπέθανον at the head of 7:10 and the ASV translates it at the end of 7:9 as *and I died*: that English is `added` in 7:9 and the three source tokens are `unrepresented` in 7:10, each side naming the other and neither reaching across.

@@ -1,0 +1,151 @@
+{
+  "alignments": [
+    {
+      "note": "Imperative keeps its own word.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Noun keeps its own word.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Suffix takes the possessive pronoun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The ASV renders כִּי by the relative *that* and rewrites it over the coordinated second clause; both occurrences are this morpheme's one discontinuous unit, headed on the first (rules 25, 55).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t015"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "*is surety for* is this verb's rendering: the preposition is supplied to reach the bare object (rule 44), and the italic second occurrence is the same written verb realized twice across the coordination (rules 25, 34). Head on the complement carrying the lexeme (rule 44).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007",
+        "t016",
+        "t017"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Indefinite *a* belongs to the noun.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Waw takes its *And*.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Written preposition בְּעַד takes the second *for*; that word is not a repetition of the verb's supplied preposition, since a morpheme stands here for it.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Substantival adjective with supplied generic noun and article; rule 31 heads on *foreign*, since *woman* alone is any woman.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020",
+        "t021"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "*hold in pledge* is a light verb with its complement; rule 44 heads on *pledge*, since *hold* alone holds anything. Unit discontinuous around the object pronoun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Object suffix takes its pronoun.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    }
+  ],
+  "ref": "PRO.27.13",
+  "review_notes": [
+    "The verse's second *for* (t018) answers to the written בְּעַד, so the ASV's two *for*s are not one distributed word: counting the phrase's prepositions against the ASV's function words leaves nothing in surplus.",
+    "Competing reading for t015: marking the second *that* added under rule 55; rejected because the one written כִּי governs both coordinated clauses and rule 55's closing paragraph keeps a rewritten subordinator with the morpheme the Hebrew wrote."
+  ]
+}

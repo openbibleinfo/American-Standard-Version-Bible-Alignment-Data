@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "chapter": "ISA.49",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.ISA.49.5.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's main text says 'Israel be gathered unto him,' matching the qere/base ל֣וֹ ('unto him'); the mapped textual-variant note explicitly identifies 'Israel is not gathered' as another reading, distinguishing the ketiv alternative from the ASV text."
+    },
+    {
+      "unit_id": "WLC.ISA.49.6.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's 'the preserved of Israel' does not distinguish the qere and ketiv spellings in this closed set, and the only mapped note is an alternative rendering about 'my salvation,' not a textual variant for this unit; both readings therefore remain compatible and the base fallback is retained."
+    },
+    {
+      "unit_id": "WLC.ISA.49.13.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV directly addresses the mountains with the plural imperative 'break forth into singing, O mountains,' distinguishing the qere/base imperative וּפִצְח֥וּ from the ketiv third-person form יפצחו."
+    }
+  ]
+}

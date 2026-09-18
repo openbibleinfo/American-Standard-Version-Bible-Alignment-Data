@@ -1,0 +1,124 @@
+{
+  "alignments": [
+    {
+      "note": "Causal כִּי rendered by the connective For (rule 14 read for a subordinating particle; the ASV's word is what the morpheme is rendered by).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Anarthrous substantival adjective: no article morpheme is present, so the supplied the joins the substantive's own unit under rule 46 and is not added. Head on the word carrying the lexeme (rule 31).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Finite verb with its auxiliary; head on the lexical verb (rules 17, 24).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Bare אֶרֶץ with no preposition and no object marker on it: the supplied in states what the adverbial accusative contributes and belongs to the noun (rule 33), and the supplied the determines the nominal expression (rule 15). The margin's Or, earth was read and set aside; the printed text governs (rule 38).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Waw taking the And written for it (rule 14).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Anarthrous substantival adjective with its supplied the, exactly as s002 (rule 46); head on perfect (rule 31).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Niphal finite verb with its auxiliary; head on the lexical verb (rules 17, 24).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Written preposition בְּ taking its own in (rule 11); unlike the first colon, a preposition morpheme stands here.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Pronominal suffix realized by the object pronoun it (rule 18).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "PRO.2.21",
+  "review_notes": [
+    "Both cola are parallel in Hebrew but differ morphologically: the first writes אֶרֶץ bare, so its in is the noun's under rule 33, while the second writes בְּ + suffix, each taking its own English word under rules 11 and 18.",
+    "Both supplied definite articles go to the substantival adjectives under rule 46 rather than being marked added; no article morpheme stands in either phrase.",
+    "ASV margin 'Or, earth' at אָרֶץ read and set aside under rule 38."
+  ]
+}

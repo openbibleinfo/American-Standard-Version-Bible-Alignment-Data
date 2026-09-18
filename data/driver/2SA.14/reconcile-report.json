@@ -1,0 +1,26 @@
+{
+  "chapter": "2SA.14",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Gentilic הַתְּקוֹעִית recast as 'of Tekoa': the gentilic takes 'of Tekoa' as its own unit, headed on Tekoa, and its article is unrepresented because the ASV writes no 'the' for it (14.4, 14.9).",
+    "Oath formula חַי־יְהוָה / חֵי־נַפְשְׁךָ followed by אִם: the adjective takes 'As … liveth' (rule 55) and the oath's אִם is what carries the negation the ASV writes for it — 'not' in 14.11, 'none' in 14.19 — so it is aligned to that word and not left unrepresented.",
+    "לֵאמֹר rendered 'to say' (rather than 'saying') gives the written 'to' to the לְ under rule 52's written-word sentence; rule 27's unrepresented לְ governs only the bare 'saying' rendering, which stands in the same verse (s010) and is marked that way.",
+    "Vocative אֲדֹנִי הַמֶּלֶךְ → 'My lord, O king': lord takes its own word with 'My' on the suffix, the article is unrepresented, and מֶלֶךְ takes 'O king' (14.9, 14.22); where the same phrase is not vocative ('my lord the king', 14.12, 14.15, 14.17, 14.18, 14.19) the article takes 'the' as usual."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read every candidate group and the six added units end to end. No construction is analysed two ways without the ASV licensing the difference: the rectum-vs-object contrasts (אָח, אָמָה, רֹאשׁ, מַלְאָךְ, אָדוֹן, שִׁפְחָה 'of X' vs bare) follow rule 19; the directive he takes to/unto/on as written (rule 32); the lexical waws (Now, So, Then, but, therefore, even, or, for, that, and when, and so) are all read off the ASV under rules 14 and 55; apodosis waws are unrepresented in every verse that has one (14.4, 10, 26, 32, 33); article + demonstrative, agreement articles, vocative 'O king' with its article unrepresented, the gentilic 'of Tekoa', the possessive recasting of construct chains, and the אֲדֹנִי הַמֶּלֶךְ formula are handled identically wherever they recur.",
+    "Single-verse judgments that carry a named competing reading and were left standing: 14.5 מַה־לָּךְ → What aileth thee (aileth on the predicate לְ); 14.10 יֹסִיף עוֹד → 'any more' fused; 14.19 existential אִשׁ → 'can'; 14.25 'for his beauty' kept whole on יָפֶה (the 'his' could instead resume Absalom under rule 25 or be added under rule 18's closing sentence); 14.31 אֲשֶׁר־לִי → 'my' fused on the predicate לְ under rule 49; 14.7 'and so' as a rule-55 pair. None is a cross-verse split, and each note already names the alternative.",
+    "BSB disagreements are all documented convention differences: articles, waws, object markers and silenced prepositions; the resumed object suffix of 14.6 (the ASV renders the object once via אֶת־הָאֶחָד); the dative לוֹ suffix of 14.33 (the ASV's 'himself' is the Hishtaphel's reflexive, not the dative); the repeated יָמִים and its לַ in 14.26 (rule 22 distributive repetition); the אֲנִי of 14.32 dissolved by the infinitival recasting; the deictic זֶה of 14.2 and the paragogic he of 14.4. None is a genuine error.",
+    "Conventions recorded for the four chapter-wide judgments that are not restatements of the contract. No promotions or amendments: the chapter taught nothing the contract lacks, and the one tension noticed (rule 27's categorical 'no realization' for לֵאמֹר against 14.32's written 'to say') is recorded as a convention rather than promoted, since no corpus evidence on לֵאמֹר → to say was supplied."
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "ref": "PSA.119.8",
+  "alignments": [
+    {
+      "source": ["s001"],
+      "source_head": "s001",
+      "target": [],
+      "target_head": null,
+      "status": "unrepresented",
+      "confidence": "high",
+      "note": "Direct-object marker with no English realization."
+    },
+    {
+      "source": ["s002"],
+      "source_head": "s002",
+      "target": ["t005"],
+      "target_head": "t005",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s003"],
+      "source_head": "s003",
+      "target": ["t004"],
+      "target_head": "t004",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s004"],
+      "source_head": "s004",
+      "target": ["t001", "t002", "t003"],
+      "target_head": "t003",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s005"],
+      "source_head": "s005",
+      "target": ["t009"],
+      "target_head": "t009",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [],
+      "source_head": null,
+      "target": ["t006"],
+      "target_head": "t006",
+      "status": "added",
+      "confidence": "medium",
+      "note": "Supplied interjection; attaching it to the vetitive particle is also defensible."
+    },
+    {
+      "source": ["s006"],
+      "source_head": "s006",
+      "target": ["t007"],
+      "target_head": "t007",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s007"],
+      "source_head": "s007",
+      "target": ["t008"],
+      "target_head": "t008",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s008", "s009"],
+      "source_head": "s009",
+      "target": ["t010"],
+      "target_head": "t010",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Fixed expression עַד־מְאֹד rendered by one English word."
+    },
+    {
+      "source": [],
+      "source_head": null,
+      "target": ["t011", "t012"],
+      "target_head": "t012",
+      "status": "added",
+      "confidence": "high",
+      "note": "Acrostic stanza heading for the following section; no source morpheme licenses it."
+    }
+  ],
+  "review_notes": [
+    "Convention: the acrostic stanza headings the ASV prints in Psalm 119 (here the letter and its name, ב Beth) are one target-only added unit headed on the letter's name. This recurs at every stanza boundary in the chapter."
+  ]
+}

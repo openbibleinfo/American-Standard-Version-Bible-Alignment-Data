@@ -1,0 +1,6 @@
+# 1 Thessalonians 5 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- A compound verb governing a bare dative or genitive is decided by whether the ASV writes an English verb word of its own for it. 1TH.5.3 ephistatai autois -> *cometh* / *upon them* gives the preposition to the governed dative under rule 106's case-government arm, *cometh* already rendering the verb. 1TH.5.12 proistamenous hymon -> *are over* / *you* keeps *over* inside the participle's unit and leaves the genitive a bare *you*, because *over* is the only word carrying the sense of proistemi and rule 17 forbids heading the unit on the copula *are*.
+- The hortatory *let us* frame rides with the subjunctive as a rule 7 and 9 helper - 1TH.5.6 katheudomen -> *let us ... sleep* and gregoromen -> *let us watch* - but where the Greek expresses the subject pronoun the *us* is that pronoun's and only *let* goes to the verb: 1TH.5.8 gives *us* to hemeis and the discontinuous *let ... be sober* to nephomen. A second coordinated subjunctive does not repeat the frame and keeps only its own *be*, as 1TH.5.6 nephomen -> *be sober* does.

@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "62bc0fe318fe21ad5e04fdd0f2b844fd2f12e0f7aa73070cb0343077ae00656e",
+  "contract_version": "ot-hebrew-verse-v214",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 14 source morphemes and 12 target tokens are partitioned exactly once.",
+    "`אֹזֶן` is `unrepresented`: *revealed* carries `גָּלָה`'s sense but not the noun's, so rule 30 forbids absorbing it, and the recast construct relation *unto* goes to the rectum `שְׁמוּאֵל` (rule 19).",
+    "*a day* gives the *a* to the numeral `אֶחָד`, the morpheme whose sense the word carries (rule 11), rather than leaving a written numeral `unrepresented`; the competing reading giving *a* to the noun under rule 15 is named in the unit note.",
+    "The margin's Hebrew gloss *uncovered the ear of Samuel* was read and set aside; the printed text governs (rule 38).",
+    "Scoped deferred investigation PARITY-129 independently resolved; evidence: data/audits/retrospective-deferred-2026-09-14/receipts/1SA.9.15.json. Original full-review coverage is carried forward only for exact unchanged units and metadata. Two fresh sessions independently agreed on the changed source/target ownership, heads and statuses. Unit notes come from the recorded assessment; their independent agreement is recorded separately. No new full-verse review or new historical review is claimed; original identity, dates and contract provenance are preserved."
+  ],
+  "ref": "1SA.9.15",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

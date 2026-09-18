@@ -1,0 +1,18 @@
+{
+  "alignment_sha256": "0822de2bec4431a507d8e6dc24d17dafc53e4c30a0f3e31ae5dc5a137cd19e35",
+  "contract_version": "nt-greek-verse-v58",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed and returned with the same units and heads as accepted; three rule citations were corrected without changing any edge, head, status or confidence.",
+    "Partition verified: every s001-s015 and every t001-t026 appears exactly once. No unrepresented or added unit is needed — the ASV realizes all fifteen source tokens, and the two supplied English words (*he*, *us* at the close) are helpers on the verb that licenses them under rules 7, 9 and 74, so rule 11 keeps them from being marked `added` mechanically.",
+    "s004: the governing rule is 58, not 51. Both the adjective τηλικούτου and the noun θανάτου are anarthrous and the ASV supplies one determiner for the phrase, so *a* belongs to the noun even though English idiom (*so great a death*) places it after the adjective. Rule 58's closing warning against reading a supplied determiner off English word order is exactly this configuration.",
+    "s012: this is an ordinary complementizer, not recitative ὅτι. The status is the same either way because rule 43's test is whether the ASV wrote an English word, and it wrote *that*; but the previous note's framing would mislead a reader who met a genuinely recitative ὅτι later in the chapter.",
+    "s011: rule 91 rather than rule 17 alone settles the head. The corpus spends *hope* on the ἐλπ- lexeme, so *set* is the genuinely empty support verb and *hope* is the gloss — the same shape as `μαρτυρέω` → *bear witness*. Recorded `high` on rule 84's line, since the corpus is not divided here.",
+    "s003 is the only materially divided unit. τηλικοῦτος fuses a deictic element with a magnitude element, and *so* against *great* is a real competing head rather than mere idiomaticity, so `medium` under rule 16.",
+    "s009: *on* is εἰς and not part of the support rendering. Rule 36 states this in terms — an English preposition governing a prepositional phrase realizes the Greek preposition even where English idiom makes the verb phrasal — so *set our hope* keeps its five tokens and *on whom* splits into preposition and relative.",
+    "The textual note about *set our hope; and still will he deliver us* is a reading question the prepared projection already settled (variant SBLGNT.2CO.1.10.v008 -> r00-base). Rule 12 forbids revisiting it in the alignment file, and nothing in this verse's analysis turns on it."
+  ],
+  "ref": "2CO.1.10",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

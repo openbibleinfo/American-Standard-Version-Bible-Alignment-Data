@@ -1,0 +1,31 @@
+{
+  "chapter": "NEH.3",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "NEH.3.25"
+  ],
+  "rejected": {},
+  "conventions": [
+    "עַל־יָד + suffix → 'next unto him/them', 'next to him/them': עַל and the construct יָד are one fused unit under rule 30, source head יָד, target head next; the suffix takes the pronoun as written, including the ASV's them for a singular suffix (margin 'Hebrew him' read and set aside). Fifteen occurrences, all alike.",
+    "The נֶגֶד family: bare נֶגֶד → 'over against', headed on against. מִנֶּגֶד and לְנֶגֶד are fused with their preposition as one 'over against' unit, source head on the governing preposition standing first (rule 23's two-preposition compound), with the competing reading (preposition unrepresented) named in the note. עַד־נֶגֶד → 'unto the place over against' gives unto to עַד, over against to נֶגֶד, and leaves 'the place' as one added unit (3.16, 3.26).",
+    "מִקְצוֹעַ → 'turning of the wall': the italic 'of the wall' is the ASV's completion of the substantive and joins the noun's unit headed on turning (rule 31). Where the noun stands bare in the Hebrew the supplied 'at' joins it too (rule 33, 3.19).",
+    "מִדָּה שֵׁנִית → 'another portion': שֵׁנִית takes another and מִדָּה portion, each its own unit; seven occurrences.",
+    "בֶּן before an arthrous plural class noun recast as 'one of the goldsmiths/perfumers': בֶּן takes one, the article its the, and the rectum 'of X' (3.8, 3.31).",
+    "A construct noun with an article-bearing attributive rendered prenominally under a single the — בֶּן־צָלָף הַשִּׁשִּׁי → 'the sixth son of Zalaph', בֵּית הַמֶּלֶךְ הָעֶלְיוֹן → 'the upper house of the king' — gives that the to the attributive's present article and leaves the construct bare (rule 47); 3.25 was corrected at reconciliation to match 3.30. The repair formula קֵרוּהוּ → 'laid the beams' is light verb plus complement headed on beams (rule 44), and every 'thereof' is the suffix's own."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 28 candidate lemmas. Nearly every difference is licensed by the ASV's own wording (thereof/of it/his own; even unto with and without a waw; the/of the on rectums by rule 29's count; to/unto/by for prepositions) or by the presence of an explicit pronoun (3.1 sanctified vs they sanctified).",
+    "One real split, corrected: a construct noun with an article-bearing attributive rendered prenominally under a single the. NEH.3.30 gives the the to the attributive's article (the sixth son of Zalaph, בֶּן bare) as rule 47 directs, but NEH.3.25 gave the the of 'the upper house of the king' to the construct בֵּית as a supplied one and left הָ on עֶלְיוֹן unrepresented. Patched 3.25 so the present article takes the the and בֵּית keeps bare house.",
+    "NEH.3.7 'that appertained to' on the belonging לְ is left as accepted: rule 49 places the relational verb on the לְ, the supplied relative realizes the attributive relation as rule 41 reads an articleless attributive, and the note already names the competing rule-55 reading. Single occurrence, no split.",
+    "BSB disagreements: the ten Td cases are agreement articles (הַכֹּהֵן הַגָּדוֹל, הַחוֹמָה הָרְחָבָה, etc.) and articles on toponyms (Mizpah, Ophel) the ASV writes no the for — documented convention, not errors. The NEH.3.10 waw is unrepresented because the ASV writes no connective before 'over against his house'; BSB writes 'and'. Not an error.",
+    "Six chapter-wide judgments recorded as conventions; no promotions or amendments — everything this chapter did is already in rules 23, 30, 31, 33, 44 and 47."
+  ]
+}

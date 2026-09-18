@@ -1,0 +1,17 @@
+{
+  "alignment_sha256": "027e830511209757e394e80b21353962447bd54cf26a66058af53b9e63b98694",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: all 14 s### and all 26 t### ids appear exactly once; every aligned unit has nonempty arrays with both heads inside them, and the single `added` unit (t013) has an empty source and null source head.",
+    "t013 *voice* is correctly `added` under rule 103 rather than folded onto s007 under rule 77: the supplied word is a repeated antecedent already spent on t009, not a generic nominal the relative substantivizes, and rule 103 names 2CO.3.7's repeated antecedent after a relativizer as the governing case. The required rule 15 concession is in the note.",
+    "s008/s009 split correctly under rule 32 (`οἱ ἀκούσαντες` → *they* / *that heard*, headed on the verb); no head noun is expressed, so rule 31 is not in play.",
+    "t018 *that* correctly placed on the expanded infinitive s012 rather than on the governing `παρῃτήσαντο` (rule 85, which rule 74's closing aside does not override).",
+    "s011 `μή` correctly kept `aligned` on *no*: rules 41/59 empty a negator only before a second negative word, and `λόγον` is a plain noun, while rule 39's joining test needs one English word rather than the ASV's *no word*. Rule 87 is a different construction (`πᾶς`) and does not reach this.",
+    "s002/s003 heads follow rule 17 (`of + noun` heads on the noun) and the supplied determiners follow rule 51's anarthrous clause, *the* determining *sound* and *a* determining *trumpet*; the two units are crossed rather than internally discontinuous, so the s003 note's appeal to rule 15 is looser than needed but harmless.",
+    "The s012 head is the one genuinely open choice: *more* carries the additive `προσ-` sense while *spoken* is the ASV's contextual verb, and rule 91's lemma query is unavailable here. The unit names the competing reading and takes *spoken* under rule 17's lexical-predicate clause, which is what rule 16 asks for; left unchanged rather than churned."
+  ],
+  "ref": "HEB.12.19",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

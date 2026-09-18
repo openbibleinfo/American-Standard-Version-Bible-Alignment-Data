@@ -1,0 +1,5 @@
+# Job 6 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **JOB.6.6** — In a disjunctive existential question, אִם takes the coordinator plus fronted auxiliary ('Or is'), while יֵשׁ retains the dummy 'there'.

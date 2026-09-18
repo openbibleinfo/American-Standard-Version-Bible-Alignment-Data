@@ -1,0 +1,138 @@
+{
+ "alignments": [
+  {
+   "note": "Causal conjunction; the ASV fronts the postpositive γάρ as the verse-opening 'for'.",
+   "source": [
+    "s002"
+   ],
+   "source_head": "s002",
+   "status": "aligned",
+   "target": [
+    "t001"
+   ],
+   "target_head": "t001"
+  },
+  {
+   "note": "Inflected verb takes its supplied English subject as a rule 7/9 helper; rule 9 heads on the lexical verb 'beholdeth' rather than on 'he'.",
+   "source": [
+    "s001"
+   ],
+   "source_head": "s001",
+   "status": "aligned",
+   "target": [
+    "t002",
+    "t003"
+   ],
+   "target_head": "t003"
+  },
+  {
+   "note": "Reflexive pronoun to 'himself'.",
+   "source": [
+    "s003"
+   ],
+   "source_head": "s003",
+   "status": "aligned",
+   "target": [
+    "t004"
+   ],
+   "target_head": "t004"
+  },
+  {
+   "note": "Expressed conjunction aligned in the ordinary way.",
+   "source": [
+    "s004"
+   ],
+   "source_head": "s004",
+   "status": "aligned",
+   "target": [
+    "t005"
+   ],
+   "target_head": "t005"
+  },
+  {
+   "note": "ἀπέρχομαι is glossed 'go away'; 'away' is the verb's own particle within that gloss, not an English preposition governing a phrase, so rule 36 does not bear on it and both words stay with the verb, headed on 'goeth'.",
+   "source": [
+    "s005"
+   ],
+   "source_head": "s005",
+   "status": "aligned",
+   "target": [
+    "t006",
+    "t007"
+   ],
+   "target_head": "t006"
+  },
+  {
+   "note": "Second expressed conjunction to the second 'and'; rule 2 keeps it separate from the adverb it precedes.",
+   "source": [
+    "s006"
+   ],
+   "source_head": "s006",
+   "status": "aligned",
+   "target": [
+    "t008"
+   ],
+   "target_head": "t008"
+  },
+  {
+   "note": "Adverb to 'straightway'.",
+   "source": [
+    "s007"
+   ],
+   "source_head": "s007",
+   "status": "aligned",
+   "target": [
+    "t009"
+   ],
+   "target_head": "t009"
+  },
+  {
+   "note": "Finite verb to 'forgetteth'; English carries the subject over from the preceding clause and writes no pronoun here, so nothing rides with this verb.",
+   "source": [
+    "s008"
+   ],
+   "source_head": "s008",
+   "status": "aligned",
+   "target": [
+    "t010"
+   ],
+   "target_head": "t010"
+  },
+  {
+   "note": "The correlative adjective *of what sort* is rendered by the whole frame *what manner of man*. Rule 91 makes the head the word the corpus already spends on this lexeme, and the corpus is unbroken: every interrogative or correlative adjective the ASV expands with *manner of* heads on *what* — 2PE.3.11 `ποταποὺς` → *what manner of persons*, the exact structural twin, and 1PE.1.11 `ποῖον`, JHN.12.33 and JHN.21.19 `ποίῳ`, JHN.18.32, 1JN.3.1 `ποταπήν` — six units on *what* and none on *manner*; `ὁποῖος` itself heads on the *what-* word at GAL.2.6, `ὁποῖοί` → *whatsoever*. *manner of man* is the frame and its generic completion, as *manner of persons* is at 2PE.3.11. Heading on *man* as the phrase's formal English noun is refused by rule 17, and heading on *manner* would rest on decomposing the Greek — that `ὁποῖος` adds a sortal element over a bare `τίς` — which is exactly the compositional argument rule 91 replaces with the query on the lemma. Rules 84 and 91 make an unbroken corpus a settled head, so this is not a rule 16 hedging case.",
+   "source": [
+    "s009"
+   ],
+   "source_head": "s009",
+   "status": "aligned",
+   "target": [
+    "t011",
+    "t012",
+    "t013",
+    "t014"
+   ],
+   "target_head": "t011"
+  },
+  {
+   "note": "Expressed copula with its supplied subject pronoun as a rule 7 helper, headed on the verb 'was' under rule 9. Rule 53 is not in question: the Greek expresses the copula, so nothing is supplied for a predicate to carry.",
+   "source": [
+    "s010"
+   ],
+   "source_head": "s010",
+   "status": "aligned",
+   "target": [
+    "t015",
+    "t016"
+   ],
+   "target_head": "t016"
+  }
+ ],
+ "ref": "JAS.1.24",
+ "review_notes": [
+  "Reviewed unchanged. All ten source IDs and all sixteen target IDs are partitioned exactly once; every unit is aligned, with no unrepresented, added or noncompositional units in this verse.",
+  "The only materially contested head is s009: 'manner' over 'man' and over 'what', argued in the unit note under rules 17 and 66.",
+  "'away' is kept with ἀπελήλυθεν rather than split off as a stranded particle: no Greek preposition stands separately in the clause for rule 36 to bear on, and 'go away' is the lexeme's own gloss.",
+  "κατενόησεν and ἦν each take their own supplied subject pronoun under rules 7 and 9, while ἐπελάθετο takes none, the ASV writing no pronoun for it.",
+  "Note wording on s005, s008, s009 and s010 expanded to name the rules ruled out; the units, statuses and heads are as accepted."
+ ]
+}

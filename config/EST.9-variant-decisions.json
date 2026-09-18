@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "chapter": "EST.9",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.EST.9.15.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV renders 'the Jews' but does not distinguish the qere and ketiv orthographic forms; no mapped textual note is present, so the base qere remains the fallback."
+    },
+    {
+      "unit_id": "WLC.EST.9.18.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV renders 'the Jews' but does not distinguish the qere and ketiv orthographic forms; no mapped textual note is present, so the base qere remains the fallback."
+    },
+    {
+      "unit_id": "WLC.EST.9.19.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV's 'Jews of the villages' and 'unwalled towns' permit both Hebrew forms, and no mapped textual note distinguishes them; the base qere therefore remains the fallback."
+    },
+    {
+      "unit_id": "WLC.EST.9.27.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV has the plural subject 'the Jews' with the plural predicate 'took upon them,' distinguishing the qere plural וקבלו from the ketiv singular וקבל."
+    }
+  ]
+}

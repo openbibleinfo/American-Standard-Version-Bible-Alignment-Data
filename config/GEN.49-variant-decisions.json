@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "chapter": "GEN.49",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.GEN.49.10.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV renders ‘Shiloh’ and supplies only alternative-rendering notes; neither the verse wording nor those non-textual notes distinguishes the qere שִׁילֹו from the ketiv שילה, so both readings remain compatible and the qere base remains the fallback."
+    },
+    {
+      "unit_id": "WLC.GEN.49.11.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV’s ‘his foal’ does not distinguish the qere עִירוֹ from the ketiv עירה; no mapped textual-variant note is given, so both readings remain compatible and the qere base remains the fallback."
+    },
+    {
+      "unit_id": "WLC.GEN.49.11.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV’s ‘his vesture’ does not distinguish the qere סוּתוֹ from the ketiv סותה; no mapped textual-variant note is given, so both readings remain compatible and the qere base remains the fallback."
+    }
+  ]
+}

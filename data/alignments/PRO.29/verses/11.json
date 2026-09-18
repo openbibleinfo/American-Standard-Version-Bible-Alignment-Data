@@ -1,0 +1,146 @@
+{
+  "alignments": [
+    {
+      "note": "כֹּל → *all*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "רוּחַ → *anger*; the margin's literal gloss *spirit* corroborates the identification without moving the unit (rule 38).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Suffix → *his*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Hiphil יוֹצִיא → *uttereth*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "כְּסִיל with its licensed indefinite article.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Waw rendered *But*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Substantival adjective completed by the generic *man*; headed on *wise* (rule 31).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Corrected. בְּאָחוֹר is rendered by the single English word *back*, which carries both the preposition's relation and the noun's lexeme, so the two share one unit under rule 30, headed on אָחוֹר, the morpheme carrying the lexeme (rule 23). Rule 40 does not reach it: its cases are ones where the ASV writes English for what the preposition governs and leaves only the relation unstated, and its subtraction test asks whether the noun as well as the relation has gone unsaid — dropping *back* loses both, since no second English word stands in the phrase. The prior alignment marked בְּ `unrepresented` beside a rendered אָחוֹר, which is the very shape rule 40's closing paragraph sends to rule 30 and which rule 22 forbids for a morpheme whose sense the ASV has written inside a fused word. PRO.29.14 fuses בֶּאֱמֶת → *faithfully* on the same terms.",
+      "source": [
+        "s008",
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "One written verb realized twice across the ASV's doubled rendering, *keepeth ... back and stilleth*; both belong to its one discontinuous unit (rule 25), headed on *stilleth*, which realizes שָׁבַח's lexeme most directly (rule 24). Heading on the first occurrence *keepeth* was the competing reading.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "The one object suffix is realized twice; both pronouns belong to its unit, headed on the first (rule 18).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t016"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "No conjunction morpheme stands between the two English verbs, so the coordinating *and* answers to no morpheme (rule 14's closing sentences).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "PRO.29.11",
+  "review_notes": [
+    "The one change fuses בְּ with אָחוֹר as a single aligned unit on *back*, replacing an `unrepresented` preposition beside a rendered noun. Every other unit stands as accepted, including the doubled verb reading and the twice-realized object suffix.",
+    "The competing reading, taken by the verse pass, treats *back* as אָחוֹר's own word and the preposition's relation as unstated. It is rule 40's ordinary case only where the noun keeps a word of its own alongside other English; here one word stands for the pair, which is rule 30's condition.",
+    "BSB represents this בְּ; the change agrees with it incidentally and rests on the chapter's own fusion practice."
+  ]
+}

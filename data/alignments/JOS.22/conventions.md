@@ -1,0 +1,6 @@
+# Joshua 22 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Waw standing immediately before a discourse adverb, with one English connective written for the pair: the adverb takes the word and the waw is `unrepresented`, because the word written writes the adverb's own lexeme and leaves the waw's bare coordination unstated. וְגַם → *Moreover* heads on גַּם at JOS.22.7 and וְאַךְ → *Howbeit* on אַךְ at JOS.22.19. Where the ASV writes two words for such a pair, rule 14 divides them as usual and both morphemes are rendered, as the two וְעַתָּה pairs of JOS.22.4 are — *And now* and *therefore now*.
+- In the recurring חֲצִי שֵׁבֶט / מַטֵּה מְנַשֶּׁה, the phrase's single written *the* follows MACULA's morphology and not the English. Where an article is segmented on מְנַשֶּׁה the article takes it and חֲצִי is bare (JOS.22.7, 9, 10, 11, 21); where no article morpheme stands in the chain the *the* is supplied on חֲצִי (JOS.22.1, 13, 15). The alternation within one chapter is the source's, not a split.

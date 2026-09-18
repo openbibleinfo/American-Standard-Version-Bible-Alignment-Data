@@ -1,0 +1,27 @@
+{
+  "chapter": "2SA.12",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2SA.12.18"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Phrasal particles in this chapter are read verb by verb under rule 44's subtraction: hiphil קוּם → 'raise up' (12.11, 12.17), hiphil שׁוּב → 'bring back' (12.23), בּוֹא → 'went in' (12.16, 12.24), אָסַף → 'gather(ed) together' (12.28, 12.29), hiphil עָבַר → 'put away' (12.13) and piel חָיָה → 'nourished up' (12.3) all keep the particle with the verb because the bare English verb does not write the lexeme's completion; none is marked added. The 'up' of 'nourished up' is the least certain of these and its alternative is recorded in the verse note.",
+    "Where the ASV reorders or subordinates a clause the Hebrew opens with a waw (12.18 'if we tell him', 12.19 'But when', 12.20 'and when'), the waw takes the connective or pair the ASV writes at that clause's left edge under rules 14 and 55, however far the ASV has moved the clause; only a waw for which the ASV writes no connective at all (the bare apodoses of 12.8, 12.19, 12.20 and the second waw of 12.16's לָן/שָׁכַב pair) is unrepresented."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 73 candidate groups against the verses. Nearly every multi-treatment bucket is the ASV rendering one morpheme differently in different contexts (waw → And/but/then/therefore/Now/that/whether; אֶל and לְ → unto/to/before/against; בְּ by its object), and the recurring constructions are consistent across the chapter: הַדָּבָר הַזֶּה leaves both articles unrepresented with זֶה taking 'this' (12.6, 12.12, 12.14, 12.21); apodosis waws the ASV leaves bare are unrepresented (12.8, 12.19, 12.20) while the one it renders takes 'that' (12.18); attributive articles on participles take the ASV's relative (12.4 ×2, 12.5, 12.14) and agreement articles are unrepresented; rectum articles are fronted only where the rectum is anarthrous (12.4, 12.26, 12.27) and keep their own 'the' where it is arthrous (12.28, 12.30); 'his own'/'thine own' goes to the suffix throughout; supplied object pronouns with no object morpheme are added (12.11, 12.12, 12.31); מֵת takes the copula with a written subject noun and 'He is' where none stands (12.18, 12.19, 12.21, 12.23); וְעַתָּה gives Now/now to עַתָּה and therefore/But to the waw (12.10, 12.23, 12.28).",
+    "One correction, in 2SA.12.18: the waw of וְאֵיךְ נֹאמַר אֵלָיו was marked unrepresented and the ASV's 'if' (which opens that clause's rendering, 'if we tell him that the child is dead') was marked added. A conjunction stands in that clause, so under rules 14 and 55 the waw takes the subordinator the ASV wrote for it; the corpus aligns a waw to 'if' in 22 units. The added 'that' over the asyndetic speech clause and the 'then' on the second waw are unchanged. BSB also represents this waw, which corroborates the fix.",
+    "BSB disagreements are all convention: dative/reflexive לְ left bare by the recasting (rule 40), articles the ASV writes no 'the' for, the oath כִּי and bare apodosis waws (rule 14), cohortative he (rule 32), the cognate accusative צוֹם of 'David fasted', the deictic זֶה after לָמָּה (rule 22), the object suffix of 'nourished up' for which the ASV writes no 'it', and the הֲ of a question the ASV marks by יָכֹל's own 'can' (rule 17). None is an error.",
+    "Judgment calls left standing and noted for a later reader: 'nourished up' (12.3) keeps its 'up' with piel חָיָה as the completive of rearing (marking it added was the alternative); 'too little' (12.8) keeps 'too' with the predicate; בֶן־מָוֶת → 'is worthy to die' and עָשָׂה רָעָה → 'will he vex himself' are noncompositional; 'set' after 'it was' in 12.30 is added as a supplied lexical verb.",
+    "No promotion: the chapter teaches nothing the contract does not already say."
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chapter": "LEV.9",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "ka'asher is fused to the ASV's single 'as' under rule 30 and headed on the preposition ke, which is the morpheme carrying that lexeme; the relative asher has no 'as' of its own. Taken so at 9.7, 9.10 and 9.21. Heading the fused unit on the relative was the competing reading and is rejected chapter-wide."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v99",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read the dump end to end and worked through all 36 candidate groups. No construction is analysed two ways without something in the source or in the ASV licensing the difference, so there are no patches. The ledger is clean: 529 units, every source and target id partitioned once, every head a member of its unit.",
+    "Construct chains. The chapter aligns the same chain two ways: 9.7 'the oblation of the people' (two written 'the's, the construct taking the supplied one and the rectum's article its own) against 9.15 'the people's oblation' (one 'the', standing before the rectum's own word, so the article takes it and the construct takes only 'oblation'). Rule 29's count decides each and both counts were taken correctly. Likewise 'the sons of Aaron' (9.9) against 'Aaron's sons' (9.12, 9.18), where the relation is written inside the genitive. Neither is a split.",
+    "Wording only, not an edge error, so not patched: the notes at 9.15 and 9.21 call the article's 'the' fronted, where in those two phrases it stands before the article's own word (rule 29's arthrous count). The assignment is the same either way. 9.18's 'the sacrifice of peace offerings' is a genuine fronting case and is described correctly.",
+    "The near-identical clauses at 9.12 and 9.18 (waw + sprinkled + suffix + upon the altar round about) are aligned differently: waw 'and' with the suffix taking 'it' at 9.12, an unrepresented waw with the suffix taking the relative 'which' at 9.18. The ASV recasts the second as a relative clause modifying 'the blood'; rule 17 leaves the waw nothing in such a recasting and rule 18 gives the relative to the pronominal morpheme it resumes. Licensed by the target, not a split. Everything else in the two clauses matches token for token.",
+    "The candidate table is blind to 'added' units, so the added/folded boundary was checked by hand. The eight are: supplied object pronouns at 9.2, 9.9, 9.13, 9.14, 9.17 and 9.24, all in clauses with no object morpheme (rule 44); the supplied complementizer 'that' at 9.6, whose clause writes no conjunction (rule 55); and the italic 'the inwards' at 9.19, an object supplied for 'covereth'. No comparable supplied word is folded into a neighbouring morpheme anywhere else in the chapter: every folded supply answers to a present morpheme (copulas onto the predicate at 9.6/9.8/9.15/9.18, 'there' onto the presentative verb at 9.24, subject pronouns onto their verbs, supplied 'the's onto construct nouns, 'for' onto the adverbial accusative at 9.21 under rule 33, 'both' onto the plural construct at 9.3 with the competing 'added' reading named in its note).",
+    "Function-morpheme handling is uniform where the ASV is uniform and follows the ASV where it is not: all 17 object markers unrepresented; the three assimilated articles that face a written 'the' take it and the two that face none are unrepresented (9.4 'with oil', 9.11 'with fire'); the directive he of ha-mizbechah takes the preposition the ASV writes for it at 9.10, 9.14 and 9.20 while the article and noun keep 'the altar'; both min of 9.10 and both of 9.19 take the word written for each; lipne/el-pne fuse to 'before' at 9.4, 9.5, 9.21, 9.24 while 9.24's separately written 'from' stays with min, and 9.17's single-word 'besides' fuses all three morphemes of milvad.",
+    "BSB: all 16 disagreements are documented convention differences and none is a genuine error, so nothing was changed. The five object markers and the five unrendered lamed (9.1's three bare-object lamed, 9.2's ethical dative, 9.3's le'mor) are the standing conventions of rules 16, 40 and 27. 9.1's agreement article is rule 47's first-article count for 'the eighth day'. 9.11's la after the fused 'without' is rule 40's own sabib la-mishkan case. 9.2's ben is left unwritten by 'a calf of the herd'. 9.13's suffix is left unwritten by 'piece by piece'. 9.18's and 9.24's waws are left nothing by the ASV's relative and apodosis recastings.",
+    "One convention recorded, on the head of the fused ka'asher, which recurs three times and which rule 30 leaves to be worked out. Nothing promoted: every construction this chapter met was decided by a rule already in force, and the two cases that stretched furthest (the distributive 'piece by piece' at 9.13 and the 'both' of the age formula at 9.3) are single occurrences the verse passes hedged, which is too thin to build a rule on."
+  ]
+}

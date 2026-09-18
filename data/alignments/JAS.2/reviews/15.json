@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "2cd73c446d9dd46f5631d99ca868d0324e04d1bc2f31fc131c5adc787085c245",
+  "contract_version": "nt-greek-verse-v62",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed and returned unchanged; the notes are expanded to name the rules and the competing readings, but no unit's ids, status or heads were altered.",
+    "Partition verified: s001-s011 and t001-t013 each appear exactly once.",
+    "s006 ὑπάρχωσιν is an expressed Greek verb, so *be* is aligned lexical material and not a supplied copula; rules 53, 63, 68 and 96 are not in play, and the predicate adjective γυμνοί keeps only *naked* under rule 2.",
+    "s008/s011 division of *in ... of*: *in* is a supplied helper on the participle (no Greek preposition is expressed anywhere in the clause, so rule 36 has nothing to realize), while *of* answers to the genitive of τροφῆς under rule 21. The alternative, reading *in lack of* as one frame on the participle, is defensible and is named in s008's note; it was rejected because rule 67's frames expand a Greek case or preposition and here the frame would expand a verb, and because rule 21 already assigns the genitive's *of* to the noun once the article carries no determiner.",
+    "s009 τῆς: rule 21's *of the* pattern requires an English determiner; none is written, so the article is unrepresented and *of* rides with τροφῆς. A reference comparison may report s009 as a disagreement; that is not a correction.",
+    "Both variant units (v013 on s001, v014 on s008) are underdetermined with the base among the compatible readings and carry no FALLBACK EXCLUDED mark, so rule 97 does not apply and no target token is `added`."
+  ],
+  "ref": "JAS.2.15",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "chapter": "2KI.23",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2KI.23.10.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the singular 'his son', matching the qere בֶן; the ketiv בני is plural ('his sons'), which the English does not reflect. The 'other'-class note ('According to another reading, son') is not a mapped textual_variant note and does not decide the unit; the wording alone does."
+    },
+    {
+      "unit_id": "WLC.2KI.23.33.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'that he might not reign in Jerusalem' renders the qere מִמְּלֹךְ (min + infinitive, 'from reigning'); the ketiv במלך ('when he reigned') is the reading the 'other'-class note relegates to the margin. The wording decides; the alternative_rendering note ('Or, fine') concerns 'tribute' and is irrelevant."
+    },
+    {
+      "unit_id": "WLC.2KI.23.36.v003",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV transliterates the mother's name as 'Zebidah', which reflects the ketiv זבידה (yod after the beth); the qere זְבוּדָּה would yield 'Zebuddah'. The ASV wording follows the ketiv here."
+    }
+  ]
+}

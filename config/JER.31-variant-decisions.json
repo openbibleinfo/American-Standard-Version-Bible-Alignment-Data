@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "chapter": "JER.31",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JER.31.21.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's 'the way by which thou wentest' addresses the feminine singular addressee and thus distinguishes the qere הָלָכְתְּ ('thou wentest') from ketiv הלכתי ('I went')."
+    },
+    {
+      "unit_id": "WLC.JER.31.38.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV explicitly renders 'the days come,' distinguishing the qere בָּאִים ('come/are coming') from the ketiv omission."
+    },
+    {
+      "unit_id": "WLC.JER.31.39.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV explicitly has 'the measuring line,' rendering the qere קָו ('line') and distinguishing it from ketiv קוה."
+    },
+    {
+      "unit_id": "WLC.JER.31.40.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV explicitly renders 'all the fields,' distinguishing the qere הַשְּׁדֵמוֹת ('the fields') from ketiv השרמות."
+    }
+  ]
+}

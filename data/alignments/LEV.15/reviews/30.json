@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "7b8f8cf3b84ad320ae3447f348212618308676ef9148ca25e1d9da6e18aae373",
+  "contract_version": "ot-hebrew-verse-v102",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "Corrected an off-by-one assignment in the accepted file: s003 (the article הַ) had been marked unrepresented with an object-marker note, s004 (כֹּהֵן) had been given t002 *the*, and s005 (the object marker אֶת) had been given t003 *priest*. The token table has s003 = הַ, s004 = כֹּהֵן, s005 = אֶת, so the article now takes *the*, the noun *priest*, and the object marker is the unrepresented one under rule 16.",
+    "Both object markers are unrepresented under rule 16; the ASV writes the objects bare.",
+    "Parallel to v.15: the two offering phrases take their supplied *for* under rule 33 and head on *sin* and *burnt* under rule 31.",
+    "Partition after correction: 26 source and 34 target tokens each used exactly once."
+  ],
+  "ref": "LEV.15.30",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

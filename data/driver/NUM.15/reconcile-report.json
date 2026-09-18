@@ -1,0 +1,27 @@
+{
+  "chapter": "NUM.15",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Determiners in this chapter's distributive phrases are counted morpheme by morpheme. Where a definite noun is followed by הָאֶחָד and the ASV writes a single distributive word for the whole phrase, the numeral takes it and every article in the phrase is unrepresented: לַכֶּבֶשׂ הָאֶחָד → for each lamb (v.5), לַשּׁוֹר הָאֶחָד and לָאַיִל הָאֶחָד → for each bullock, for each ram (v.11). Where the ASV writes a determiner and a numeral word, each morpheme takes the word written for it: לָאֶחָד → to every one (v.12) gives every to the assimilated article and one to אֶחָד. Where no numeral stands in the phrase the article takes the determiner, as הַכָּנָף → of each border (v.38) does. And לַשֶּׂה בַּכְּבָשִׂים → for each of the he lambs (v.11) gives each to שֶׂה, the single head of small cattle, leaving the assimilated article unrepresented: there the word names the animal rather than determining a noun the ASV has otherwise written, and giving it to the article under rule 41 would leave a lexical noun with no English at all.",
+    "בְּ or לְ plus שְׁגָגָה is carried by the single word unwittingly and is one unit throughout the chapter (vv.24, 26, 27, 28, 29). Where the clause writes a verb, that verb takes the English verb — נֶעֶשְׂתָה לִשְׁגָגָה → it be done unwittingly (v.24). Where it writes none, the construction's copula joins the fused unit under rules 20 and 49 while a supplied lexical verb standing beside it is its own added unit: כִּי לְכָל־הָעָם בִּשְׁגָגָה → it was done unwittingly (v.26) gives it was to בִּשְׁגָגָה and leaves done added.",
+    "A preposition the ASV supplies before a nominal that writes none joins that nominal's own unit under rule 33, and this chapter places it on the word carrying the English nominal head: on the noun where the noun does — הַקָּהָל → For the assembly (v.15), רֵאשִׁית → Of the first (v.20), עֹלָה → for a burnt offering (v.8), שְׁלֹשָׁה → of three (v.9) — and on a substantival article's supplied pronoun where that pronoun is the head, הָאֶזְרָח → for him that is home born (v.29), whose unit heads on him under rule 41 while אֶזְרָח keeps is home born. Giving that for to אֶזְרָח instead, discontinuous around him that, was the competing reading and is what rule 33's parenthetical 'the noun or numeral opening that phrase' would suggest; it was not taken because the article's pronoun, not the substantive, is the word the preposition stands before."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v114",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 65 candidate lemma groups and read the dump end to end for the added/folded asymmetries the table cannot see. Every multi-treatment bucket traces to a difference the morphology or the ASV's own wording licenses, so there are no patches.",
+    "Determiners were the one family worth working out in full, and the chapter applies a single count. הָאֶחָד phrases: v.5 לַכֶּבֶשׂ הָאֶחָד and v.11 לַשּׁוֹר/לָאַיִל הָאֶחָד write one distributive word, which goes to the numeral with both articles unrepresented; v.12 לָאֶחָד writes two (every one), so the assimilated article takes every and the numeral one; v.38 הַכָּנָף has no numeral in the phrase, so the article takes each. v.11 לַשֶּׂה gives each to the noun, because there the word names the single head of small cattle rather than determining a noun the ASV has otherwise written.",
+    "The recurring offering shapes are uniform in unit and head: אִשֵּׁה → an offering made by fire (head fire) in vv.3, 10, 13, 14, 25; רֵיחַ נִיחֹחַ split savor/sweet in six verses; עֹלָה, מִנְחָה, חַטָּאת, תְּרוּמָה all headed on the lexeme word; לִפְנֵי, בְּתוֹךְ, מִחוּץ, כַּאֲשֶׁר, בֶּן־בָּקָר fused under rule 30 wherever the ASV spends one word and split where it spends two (v.24 he goat, and young beside פַּר). The הָיָה frames follow rule 45 by what is written: v.19 keeps the frame's that with the verb because its apodosis has no waw, v.24 and v.39 hand it to the apodosis waw.",
+    "The four added units are each licensed by an absent morpheme, and no supplied word elsewhere was folded into a neighbour to avoid one: v.15 with you is italic where v.16 writes אִתְּכֶם and aligns it; v.26 done is a whole supplied verb in a clause whose Hebrew writes none, where v.24 writes נֶעֶשְׂתָה and gives it it be done; v.29 and v.30 both leave aught added.",
+    "BSB: all 42 disagreements are documented convention differences and none is a genuine error. To×8 is rule 16 (object markers), Td×12 is rules 29 and 47 (articles for which the ASV writes no the), R×15 plus the three לַ singles are rules 27, 40 and 52 (prepositions the ASV's recasting leaves unrendered, including לֵאמֹר and the לְ of מִחוּץ לַמַּחֲנֶה), 15.27 הּ and 15.39 הֶם are rule 22 resumptives, and 15.32 and 15.36 are waws the ASV leaves unrendered after subordinating or compressing their clause.",
+    "Three conventions recorded; no promotion. Rule 41's own 'only where no other morpheme licenses that determiner' already decides the numeral case, so the chapter's determiner count is logged rather than promoted as a rule."
+  ]
+}

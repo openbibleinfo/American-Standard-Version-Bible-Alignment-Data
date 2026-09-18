@@ -1,0 +1,17 @@
+{
+  "ref": "JHN.16.14",
+  "alignments": [
+    {"source": ["s001"], "source_head": "s001", "target": ["t001"], "target_head": "t001", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s002"], "source_head": "s002", "target": ["t004"], "target_head": "t004", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s003"], "source_head": "s003", "target": ["t002", "t003"], "target_head": "t003", "status": "aligned", "confidence": "high", "note": "Auxiliary rides with the finite verb; head on the lexical verb per rule 17."},
+    {"source": ["s004"], "source_head": "s004", "target": ["t005"], "target_head": "t005", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s005"], "source_head": "s005", "target": ["t009"], "target_head": "t009", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s006"], "source_head": "s006", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "Rule 54: the first-person possessive adjective carries the English possessive, so the article governing it realizes nothing."},
+    {"source": ["s007"], "source_head": "s007", "target": ["t010"], "target_head": "t010", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s008"], "source_head": "s008", "target": ["t006", "t007", "t008"], "target_head": "t008", "status": "aligned", "confidence": "high", "note": "Subject and auxiliary belong to the inflected verb; head on the lexical verb."},
+    {"source": ["s009"], "source_head": "s009", "target": ["t011"], "target_head": "t011", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s010"], "source_head": "s010", "target": ["t012", "t013", "t014"], "target_head": "t013", "status": "aligned", "confidence": "medium", "note": "The supplied object pronoun is an obligatory English complement of the transitive verb, so it is a rule 7 helper rather than `added` (rule 11)."},
+    {"source": ["s011"], "source_head": "s011", "target": ["t015", "t016"], "target_head": "t016", "status": "aligned", "confidence": "high", "note": "The case preposition rides with the dative pronoun."}
+  ],
+  "review_notes": []
+}

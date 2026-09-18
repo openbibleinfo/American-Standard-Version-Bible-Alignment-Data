@@ -1,0 +1,9 @@
+{
+  "alignment_sha256": "0c3310cfcb82a8ea5d0cfb835a4106e96ae2352bd5104d2c896d475e08549618",
+  "contract_version": "ot-hebrew-verse-v2",
+  "notes": [
+    "Checked full partition (all 39 s-IDs and 45 t-IDs used exactly once, no invented IDs), unit edges, and heads. The two construct chains differ only because the ASV wording differs: 'the yoke of oxen' has a single the, which realizes the sole Hebrew article s010 (definiteness of the chain), leaving s009 with only its own word per rule 19; 'the instruments of the oxen' has two, so s018 takes the adjacent t024 and the leftover supplied t021 joins the construct noun s017 per rule 29 rather than being marked added. Both are the same underlying rule applied to different English, so no harmonization needed. Also verified s008 et unrepresented, s022 article unrepresented under the possessive their, bracketed s027 aligned to t029, waw s031 as Then, and lexical heads (slew, boiled, eat, arose, oxen in both of+noun units)."
+  ],
+  "ref": "1KI.19.21",
+  "status": "reviewed"
+}

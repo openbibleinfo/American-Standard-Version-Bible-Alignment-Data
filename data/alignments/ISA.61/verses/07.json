@@ -1,0 +1,26 @@
+{
+  "ref": "ISA.61.7",
+  "alignments": [
+    {"source": ["s001"], "source_head": "s001", "target": ["t001", "t002"], "target_head": "t001", "status": "aligned", "confidence": "high", "note": "Multi-word English preposition; head on the lexeme-bearing *Instead* (rule 24)."},
+    {"source": ["s003"], "source_head": "s003", "target": ["t003"], "target_head": "t003", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s002"], "source_head": "s002", "target": ["t004"], "target_head": "t004", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s004"], "source_head": "s004", "target": ["t005", "t006", "t007", "t008"], "target_head": "t008", "status": "aligned", "confidence": "medium", "note": "Verbless clause: the supplied *ye shall have* joins the predicate noun under rule 20; no preposition or suffix on the possession makes the clause possessive, so rule 43 leaves the *have* here. Attaching *ye* to the 2mp suffix of s003 is defensible but that suffix already takes *your*."},
+    {"source": ["s005"], "source_head": "s005", "target": ["t009"], "target_head": "t009", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s006"], "source_head": "s006", "target": ["t010", "t011", "t012"], "target_head": "t012", "status": "aligned", "confidence": "high", "note": "Gapped תַּחַת: the supplied *instead of* joins the noun it governs (rule 34), never `added`."},
+    {"source": ["s007"], "source_head": "s007", "target": ["t013", "t014", "t015"], "target_head": "t015", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s008"], "source_head": "s008", "target": ["t016", "t018"], "target_head": "t018", "status": "aligned", "confidence": "high", "note": "The *in* supplied for the adverbial accusative belongs to the noun licensing it (rule 33)."},
+    {"source": ["s009"], "source_head": "s009", "target": ["t017"], "target_head": "t017", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s010", "s011"], "source_head": "s011", "target": ["t019"], "target_head": "t019", "status": "aligned", "confidence": "medium", "note": "לָכֵן fuses into one English word (rule 30); headed on the adverb כֵּן as the lexeme carrier rather than the preposition, though the briefing's gloss places *therefore* on the preposition."},
+    {"source": ["s012"], "source_head": "s012", "target": ["t020"], "target_head": "t020", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s014"], "source_head": "s014", "target": ["t021"], "target_head": "t021", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s013"], "source_head": "s013", "target": ["t022"], "target_head": "t022", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s016"], "source_head": "s016", "target": ["t023", "t024", "t025"], "target_head": "t025", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s015"], "source_head": "s015", "target": ["t026"], "target_head": "t026", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s018"], "source_head": "s018", "target": ["t027"], "target_head": "t027", "status": "aligned", "confidence": "high", "note": "Construct chain rendered attributively; follow the ASV (rule 28)."},
+    {"source": ["s017"], "source_head": "s017", "target": ["t028"], "target_head": "t028", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s019"], "source_head": "s019", "target": ["t029", "t030"], "target_head": "t030", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s020"], "source_head": "s020", "target": ["t031"], "target_head": "t031", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s021"], "source_head": "s021", "target": ["t032"], "target_head": "t032", "status": "aligned", "confidence": "high", "note": ""}
+  ],
+  "review_notes": []
+}

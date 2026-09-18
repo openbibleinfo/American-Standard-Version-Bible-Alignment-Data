@@ -1,0 +1,124 @@
+{
+  "alignments": [
+    {
+      "note": "",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Participle converted to a finite clause; the supplied subject rides with it.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The pronoun keeps only the English *him* of the clause it governs; the repeated *him*s belong to the verbs that require them in English.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Rule 88: the supplied juncture *and* rides with the finite verb it introduces, and the supplied object *him* is a rule 7 helper on that same verb, as `σταυρῶσαι` → *crucify him* at 27:31 and `ῥυσάσθω` → *let him deliver him* at 27:43 have it. Reading all three English *him*s as one discontinuous realization of `αὐτόν` under rule 15 remains defensible.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The supplied object *him* is a rule 7 helper on the verb that requires it, as on `ἀπήγαγον` above.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Rule 21 determinerless clause: the case preposition stays with the name.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "MAT.27.2",
+  "review_notes": [
+    "Reconciliation patch: the three English *him*s were redistributed to the verbs that require them, matching 27:29, 27:31, 27:34, 27:40, 27:41, 27:43, 27:47, 27:48 and 27:65.",
+    "The one-unit reading under rule 15 is named in the note on s004 and remains defensible; rule 103's resumptive-pronoun contrast (3JN.1.13) is the narrower case, where a fronted object is resumed in its own argument slot."
+  ]
+}

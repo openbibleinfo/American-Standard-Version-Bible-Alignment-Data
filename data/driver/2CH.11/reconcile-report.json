@@ -1,0 +1,27 @@
+{
+  "chapter": "2CH.11",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Two-token city names in the fortified-cities list (בֵּית לֶחֶם 11.6, בֵּית צוּר 11.7) are one aligned unit per name covering both source tokens and both English words, source head on the first token and target head on the first English word; the object marker before each name is its own unrepresented unit and each verse-initial waw takes only the connective the ASV writes for it (11.6 opens 'He built' and its waw is unrepresented)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v218",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 23 verses end to end against the 38-lemma candidate table; found no construction analysed two ways without a source-licensed difference.",
+    "Waw: every unrendered waw (11.1 apodosis, 11.6 clause head, 11.12 distributive repetition) is one the ASV writes no connective for; 'And when' (11.1), 'But', 'So', 'nor' (fused with לֹא, 11.4) each answer to what the ASV wrote (rules 14, 35, 55).",
+    "לְ: dative לְ + suffix before a bare 'him/them' is unrepresented in 11.15, 11.18, 11.19, 11.20, 11.23 alike; temporal לְ before bare 'three years' unrepresented twice in 11.17; 11.12 'belonged to him' keeps 'belonged' on the written הָיָה and 'to' on the לְ, which is the right division where a verb is written (rule 43/49 boundary); 11.22 'to be chief' on the resultative לְ (rule 49) and the second, unrendered לְ before 'even the prince' unrepresented with 'even' added under rule 16 — defensible and noted in the verse.",
+    "Articles: 11.2 rectum article takes the fronted 'the' (man of God) while constructs elsewhere take supplied 'the' (11.3, 11.16, 11.17, 11.18, 11.23); 11.4 'this thing' leaves both articles unrepresented (rule 41); 11.23 'every fortified city' leaves the rectum article unrepresented — all per rule 29 counts.",
+    "Construct chains: עָרֵי מְצֻרוֹת → 'fortified cities/city' attributive in 11.10 and 11.23; 11.1 עֹשֵׂה מִלְחָמָה → 'warriors' fused and headed on the construct (rule 23); 11.21 compound numeral 'eighteen' fused, headed on the first numeral.",
+    "Added units (5): 11.12 'he put', 11.18 'and', 11.22 'even' and 'he was minded', 11.23 'for them' — each answers to no morpheme and is one unit per office (rule 2). The 3-morpheme fusion לְהַרְבֵּה מְאֹד → 'exceeding' in 11.12 is contiguous and the one word carries both degree morphemes; the competing split is named in its note.",
+    "BSB disagreements are all convention: object markers, unrendered waws, assimilated/agreement articles, dative and temporal לְ, and the repeated עִיר of the distributive in 11.12 (rule 22). None is an error.",
+    "No rule learned that generalises; no promotions or amendments."
+  ]
+}

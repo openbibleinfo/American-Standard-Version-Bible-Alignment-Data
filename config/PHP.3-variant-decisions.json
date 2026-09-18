@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "chapter": "PHP.3",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.PHP.3.6.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'as touching zeal' renders the noun alone; the variation is only between the neuter accusative ζῆλος and the masculine accusative ζῆλον of the same word, which no English wording can distinguish. No ASV note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.3.8.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'Yea verily, and I count' is an emphatic particle rendering that suits either μενοῦνγε or μέν οὖν; the intensive γε has no separate English exponent here, and no note is mapped to this unit."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.3.8.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'do count them but refuse' leaves the copula unexpressed, which is the ordinary English for ἡγοῦμαι with a predicate accusative whether or not εἶναι stands in the text; the earlier 'to be loss' renders a different clause and does not settle this one."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.3.10.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variation is the Greek article on κοινωνίαν and on τῶν παθημάτων; ASV 'the fellowship of his sufferings' requires the English definite article regardless, so the wording distinguishes nothing. No note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.3.10.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "συμμορφιζόμενος and συμμορφούμενος are alternative present passive participles of the same verb with identical sense; ASV 'becoming conformed unto his death' renders either."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.3.11.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'the resurrection from the dead' carries an explicit prepositional phrase answering ἐκ νεκρῶν; the RP reading τῶν νεκρῶν is a bare genitive that ASV renders 'of the dead', not 'from the dead'."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.3.12.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r01",
+        "r02"
+      ],
+      "evidence": "ASV 'laid hold on by Christ Jesus' names both Christ and Jesus, which excludes the bare Χριστοῦ of r00-base; the article of r02 has no English exponent, so r01 and r02 both remain. The mapped note is an alternative_rendering about the verb and does not bear on the name."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.3.13.v008",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads 'I count not myself yet to have laid hold', and the mapped textual_variant note 'Many ancient authorities omit yet' reports that word as the disputed one — so the ASV text carried οὔπω and the omission is the noted alternative."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.3.14.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'unto the prize' renders either εἰς or ἐπί with the accusative of goal; English 'unto' does not separate them. The mapped note 'Or, upward' is an alternative_rendering touching ἄνω κλήσεως, not this unit."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.3.16.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The RP addition ends with a second infinitive clause τὸ αὐτὸ φρονεῖν, 'to mind the same thing', and ASV 3:16 has no such clause: it stops at 'by that same rule let us walk'. The English noun 'rule' is a supplied complement for the bare τῷ αὐτῷ, not a witness to κανόνι."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.3.21.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'that it may be conformed to the body of his glory' expands a predicative σύμμορφον into a result clause, which translators do whether or not εἰς τὸ γενέσθαι αὐτό stands in the text; the clause therefore does not attest the longer reading."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.3.21.v012",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "αὑτῷ, αὐτῷ and ἑαυτῷ differ only in accentuation and contraction of the same third-person reference; ASV 'unto himself' is the natural rendering of all three, since an editor's unaspirated αὐτῷ here is still read reflexively."
+    }
+  ]
+}

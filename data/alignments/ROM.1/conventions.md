@@ -1,0 +1,6 @@
+# Romans 1 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Where the ASV supplies 'to be' between kletos and a predicate nominal, the supplied copula rides with the nominal and kletos keeps a bare 'called': ROM.1.1 gives 'to be an apostle' to apostolos, ROM.1.6 gives 'to be Jesus' to Iesou, and ROM.1.7 gives 'to be saints' to hagiois. Rule 53's noun-phrase clause does not reach these, no verbless clause and no subject standing in the phrase, so the placement is a chapter judgment. Placing 'to be' on kletos remains defensible and is named in each unit's note.
+- For te ... kai this chapter counts the English connective words the ASV wrote at the juncture, and 'and also' counts as two: ROM.1.16 gives 'and' to te and 'also' to kai, as ROM.1.27 does across the intervening 'likewise'. Where the ASV writes one word the kai takes it and te is unrepresented under rule 70, as at ROM.1.20; and at ROM.1.26, where no kai answers, the single 'for' answers to the expressed gar and te is likewise empty. Reading 'and also' as one connective on kai, with te unrepresented, remains defensible and is named at ROM.1.16.

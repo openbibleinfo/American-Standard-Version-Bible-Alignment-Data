@@ -1,0 +1,26 @@
+{
+  "chapter": "DEU.20",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The exemption formula of vv. 5-8, מִי־הָאִישׁ אֲשֶׁר ... יֵלֵךְ וְיָשֹׁב לְבֵיתוֹ, is aligned the same way in all four verses. The interrogative מִי is the clause's predicate and takes the whole supplied frame *is there* - the construction's copula together with its presentative dummy under rule 20 - discontinuous around the subject noun, which keeps only *man*. The article on אִישׁ is `unrepresented`, since the ASV writes *What man* with no *the* (rule 29). And the dismissal apodosis puts the whole jussive frame *let him go* on the first verb, the coordinated יָשֹׁב taking the bare *return*, because the ASV writes the frame once (rules 22, 25)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v133",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 45 candidate lemma groups. Every bucket with two treatments traces to something the ASV wrote - battle/war for מִלְחָמָה, with/against for עִם, and/then/but/so/that for the waw, a written *the* or none for the article - so none is one construction analysed two ways with nothing in the source to license the difference. patches is empty.",
+    "Read the dump end to end for the asymmetry the lemma table cannot see, since it is keyed by source lemma and blind to `added` units. The chapter's only two added units are DEU.20.1 t015, the italic *and* before *a people* in a phrase holding no conjunction morpheme (rule 14), and DEU.20.14 t018, the appositional *even* before כָּל־שְׁלָלָהּ, which carries no object marker - the clause's one marker (s025) stands on the later שְׁלַל אֹיְבֶיךָ (rule 16). Every other supplied connective, determiner, copula and pronoun in the chapter answers to a written morpheme, and no verse folds a comparable supplied word into a neighbour to avoid an `added`.",
+    "All three cases of rule 45 occur in this chapter and are consistent: DEU.20.2 s009 and DEU.20.9 s012 put the frame's *that* on the apodosis waw; DEU.20.11 s012 keeps it on הָיָה because no waw opens that apodosis; DEU.20.13 s010 is `unrepresented` because the ASV opens *thou shalt smite* with no connective at all.",
+    "Resumptive pronouns agree across the chapter: DEU.20.15 s020 הֵנָּה and DEU.20.20 s022 הִוא are both `unrepresented` with the clause's copula on its predicate (rules 20, 22, 49), while DEU.20.20 s009 הוּא takes the *they* the ASV wrote. קָרַב heads on *nigh* in all three occurrences (20.2, 20.3, 20.10), and the two demonstrative-rectum chains (20.15, 20.16) are aligned identically, matching rule 41's שֵׁם הַמָּקוֹם הַהוּא ruling.",
+    "BSB: all 20 disagreements are documented convention differences and none is a genuine error - seven unrendered prepositions (לֵאמֹר's לְ under rule 27; the bare-object recastings of 20.10, 20.12, 20.16 and 20.19 under rule 40; the resultative לְ of 20.11 under rule 21; the wordless infinitive לְ of 20.8 under rule 52), nine unrendered articles under rules 29 and 41, the unrendered apodosis waw of 20.13, the resumptive הֵנָּה and הִוא, and the בַּ of 20.19's passive recasting. Nothing was changed to move the rate.",
+    "One convention recorded, for the four-verse exemption formula of vv. 5-8, which combines rules 20, 29 and 25 the same way each time. The other 64 repeated notes restate contract rules and are not logged.",
+    "No promotion. The one construction that looked like a candidate - 20.8's וְלֹא rendered by the single *lest* - is ordinary rule 35 fusion, and the corpus already aligns waw plus לֹא to *lest* in three units (DEU.1.42, LEV.19.29 and one more), so nothing general is left to write."
+  ]
+}

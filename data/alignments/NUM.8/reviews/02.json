@@ -1,0 +1,12 @@
+{
+  "alignment_sha256": "b3c6a5eb9d927f0eb33950e238a15ee67a6bae978cee5efe93ae16eb728c2418",
+  "contract_version": "ot-hebrew-verse-v111",
+  "notes": [
+    "Reconciliation by claude-code — corrected",
+    "mul penei was split into an aligned mul and an unrepresented penei under rule 22. Rule 22 reaches a repetition of the same element, and rule 30 states that it does not reach the parts of an idiom; the ASV spends exactly one English word on the pair, since the 'in' belongs to el and the 'of' to the rectum, so rule 30's one-English-word condition is met and the two morphemes share one unit. This also resolves the BSB disagreement on WLC.NUM.8.2.016.",
+    "Recorded head-only corrections from headword-candidates were applied on 2026-09-08T14:32:02.534003+00:00. Prior full-review coverage is carried forward for unchanged content; only the approved head delta and associated note explanations changed. Original review and alignment hash b64d6618c59b3c8f4c94f852e8bada68b9bcc0ae8fb075cfedc1b34698363481 are archived under data/audits/headword-candidates/before-application/. Strong-model pattern-assessment and application evidence: data/audits/headword-candidates/applications/NUM.8.2.json. No new full-verse review is claimed."
+  ],
+  "ref": "NUM.8.2",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

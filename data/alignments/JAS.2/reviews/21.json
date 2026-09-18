@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "f2ecc9d3f5a174ce9cd7de109d86c43279247577f4e9911f3fb88c85c796ba7e",
+  "contract_version": "nt-greek-verse-v62",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Alignment kept as accepted; the only change is to the s009 note, which cited rule 88 alongside rule 86. Rule 88 governs a supplied coordinating 'and' at a participle-to-finite seam, and no such juncture stands here, so the citation was dropped and the head reasoning made explicit.",
+    "Partition verified: s001–s016 and t001–t019 each appear exactly once, and both unrepresented units carry a valid source head with an empty target and null target head.",
+    "Both articles are unrepresented under rule 20 rather than aligned: ἡμῶν and αὐτοῦ are free genitive pronouns carrying nothing else, so rule 76's availability test does not reach them and neither article has a determiner left to take.",
+    "The competing reading for s009 would split 'in that' off as `added` under rule 86; rejected because a participle is exactly the token rule 86 names as licensing a supplied subordinator, so the whole frame stays with ἀνενέγκας.",
+    "'Was' is kept with ἐδικαιώθη rather than read as an interrogative supplied word: the passive requires the auxiliary, and rule 63 refuses to read a verb off inverted English word order. No interrogative particle stands in the source, so rules 44 and 64 are not in question and οὐκ is an ordinary negative on 'not'."
+  ],
+  "ref": "JAS.2.21",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "chapter": "1SA.9",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.1SA.9.1.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Orthographic only: qere מִבִּנְיָמִין (one word) and ketiv מבן ימין (written as two) name the same tribe, and ASV renders both alike as 'a man of Benjamin'. The verse's only note, 'Or, wealth', is classed alternative_rendering and attaches to the English of 'a mighty man of valor', not to this lemma, so nothing in the ASV distinguishes the readings."
+    },
+    {
+      "unit_id": "WLC.1SA.9.26.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere הַגָּגָה carries the directional he ('to the housetop'), ketiv הגג is the bare noun; ASV's 'Samuel called to Saul on the housetop' renders the locative sense with 'to' governing Saul, not the roof, and so is silent on whether the Hebrew marked direction. 1SA.9.26 carries no note mapped to this unit."
+    }
+  ]
+}

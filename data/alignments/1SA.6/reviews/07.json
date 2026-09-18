@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "2345470b3ec8724274f59f5187c72cd729661ad97e5ee0932ad7bdd2be92c226",
+  "contract_version": "ot-hebrew-verse-v208",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "Corrected two units. The source head of מֵאַחֲרֵי moves to the מִן: both morphemes are tagged R, so rule 23's compound-preposition sentence governs and the head is the one standing first, as it is for מֵעָלֵינוּ at 1SA.6.20.",
+    "The you of prepare you a new cart is now its own added unit: it is objective, not the nominative ye rule 17 would give the imperative, no dative morpheme stands in the Hebrew for it, and rule 36's adjacency sentence requires a vocative in the clause, which there is none.",
+    "Scoped deferred investigation PARITY-159 independently resolved; evidence: data/audits/retrospective-deferred-2026-09-14/receipts/1SA.6.7.json. Original full-review coverage is carried forward only for exact unchanged units and metadata. Two fresh sessions independently agreed on the changed source/target ownership, heads and statuses. Unit notes come from the recorded assessment; their independent agreement is recorded separately. No new full-verse review or new historical review is claimed; original identity, dates and contract provenance are preserved."
+  ],
+  "ref": "1SA.6.7",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

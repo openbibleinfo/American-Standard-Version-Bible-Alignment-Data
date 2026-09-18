@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "eef03d9ad128a7f502181bb974bc79b2f30d31cae715dbd3d357ae364176ed41",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Returned unchanged: the accepted alignment survives review. All 21 source ids and all 30 target ids are partitioned exactly once, and no unrepresented, added or noncompositional unit is needed anywhere in the verse.",
+    "The one genuinely contested edge is *for* at t009. It stays with `προσκαλέομαι` because rule 36 assigns an English preposition to the Greek preposition it realizes and none is expressed in this clause; the accusative object licenses no case preposition, so *for* is the phrasal verb's own particle, the same shape rule 36 records for *girt with*. The competing reading gives *for the* to `τούς`, but that would put a bare case preposition on an article whose determiner rule 21 already anchors, and it would be answering to nothing on the Greek side.",
+    "`ἐλαίῳ` keeps *with* under rule 21's determinerless clause; there is no Greek article in the phrase, so rule 23 is not in question and the note has been tightened to say so.",
+    "The two `αὐτόν` tokens stay split under rule 2: s013 is `ἐπί`'s object and s015 is the participle's, and the ASV writes a separate *him* for each.",
+    "Heads follow rule 17 throughout: *sick* over the supplied *Is*, *call* over *let*/*him*, *pray* over *let*/*them*, *the* over *of* in both genitive articles, and *oil* over *with*."
+  ],
+  "ref": "JAS.5.14",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "e9e0a66276e1b02314eb38ff9605b3e07ab0ece4b7d606958c207a7ed8d27dbd",
+  "contract_version": "ot-hebrew-verse-v66",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Eleven source and eighteen target tokens each partitioned once.",
+    "בְּתוֹךְ is split here: the ASV spends a separate word on each morpheme (in / the midst), so rule 30's one-English-rendering condition is unmet and rule 2 governs. Contrast EZK.6.13, where among fuses the same pair.",
+    "חָלָל is anarthrous, so the supplied the that makes it a noun phrase joins its own unit under rule 46, headed on the lexeme.",
+    "The suffix כֶם is the nomen rectum of תָּוֶךְ and takes of you under rules 18 and 19."
+  ],
+  "ref": "EZK.6.7",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

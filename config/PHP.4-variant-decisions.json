@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "chapter": "PHP.4",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.PHP.4.3.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is word order only (γνήσιε σύζυγε vs σύζυγε γνήσιε). ASV 'true yokefellow' must place the adjective before the noun in English regardless of the Greek order, and no note is mapped here (the only PHP.4.3 note is a greek_gloss on 'gospel'). Nothing in the English distinguishes the readings."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.4.13.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'in him that strengtheneth me' — a bare pronoun with no named subject. The r01 reading adds Χριστῷ, which the ASV would have rendered 'in Christ that strengtheneth me'; the translators do not leave an explicit Χριστῷ untranslated here, nor is 'him' italicized as a supply. The English positively excludes the addition."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.4.19.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "τὸ πλοῦτος and τὸν πλοῦτον are the neuter and masculine forms of the same noun in the same syntactic slot; the sense is identical. ASV 'according to his riches in glory' renders either form the same way, and no note is mapped to this unit. Gender alone leaves no trace in English."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.4.23.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV closes 'be with your spirit'. The base τοῦ πνεύματος ὑμῶν yields exactly that; the r01 reading πάντων ὑμῶν would yield 'with you all', with no noun to render as 'spirit'. The English word 'spirit' is present and unitalicized, so it translates a Greek noun the alternative does not contain."
+    },
+    {
+      "unit_id": "SBLGNT.PHP.4.23.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The ASV verse ends at 'be with your spirit' with nothing following ὑμῶν. The r01 reading appends Ἀμήν, which the ASV renders as 'Amen' where it stands in its text; that word is absent here, and no note is mapped to this unit. The English positively excludes the addition."
+    }
+  ]
+}

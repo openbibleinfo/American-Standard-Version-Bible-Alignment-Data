@@ -1,0 +1,121 @@
+{
+  "alignments": [
+    {
+      "note": "The genitive-absolute participle is nominalized as 'in the hearing'; the supplied preposition and determiner are rule 7 helpers, headed on the nominal word.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "δέ → And.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "παντός → all. The quantifier keeps only its own English word; the case preposition belongs to the article under rule 21, not to the word it happens to stand next to.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Rule 21: the genitive article takes 'of the', discontinuous around the preposed quantifier under rule 15. Corrected from a reading that left the article a bare 'the' and gave 'of' to πάντος; the chapter puts 'of the' on the genitive article at 20:10, 20:13, 20:15, 20:20, 20:26, 20:27, 20:36 and 20:39, and rule 57's principle is that an interposed word does not move the article's own English.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "λαοῦ → people.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Finite verb with supplied subject.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Rule 20: the genitive pronoun αὐτοῦ takes the determiner slot.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Dative with its case preposition, discontinuous around the possessive (rules 15, 21).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "αὐτοῦ → his.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    }
+  ],
+  "ref": "LUK.20.45",
+  "review_notes": [
+    "Corrected: 'of' (t005) moves from πάντος to τοῦ, which now carries the discontinuous 'of … the' headed on 'the'.",
+    "This makes all nine genitive articles in the chapter uniform under rule 21; the article's determiner is what anchors the case preposition, and rule 21's determinerless clause does not apply because the ASV writes 'the' here.",
+    "The dative article τοῖς is untouched and stays unrepresented under rule 20, so the BSB disagreement reported for this verse is unaffected."
+  ]
+}

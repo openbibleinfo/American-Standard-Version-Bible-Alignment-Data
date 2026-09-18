@@ -1,0 +1,178 @@
+{
+  "alignments": [
+    {
+      "note": "Ordinary conditional particle.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Rule 70: the ASV writes no word for the correlative particle. A reference comparison will report this as a disagreement; that is not a correction.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Inferential particle rendered then.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Rule 9: subject pronoun rides with the verb.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The noun of tribunals is recast as the infinitival to judge with the supplied generic object things. Both words are this noun's: the ASV's gloss note (Greek tribunals pertaining to) maps things onto the noun and pertaining to onto the adjective, and 1CO.6.2 renders the same noun to judge the … matters. Rule 58's reasoning keeps a supplied nominal with the expressed noun rather than with the attributive adjective beside it, and rule 66 heads on judge, things being the generic completion.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Attributive adjective rendered pertaining to this life. Rule 17's generic-noun clause is scoped to a substantival adjective and does not reach this one, κριτήρια standing expressed, so the supplied things belongs to that noun; 1CO.6.3, where the same adjective is substantival and no noun stands, keeps things in its own unit under that clause. Rule 66 heads on life, the word glossing the lexeme.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Interrogative auxiliary and subject ride with the verb under rule 9, and the supplied complement to judge completes what the seating verb says; discontinuous under rule 15. Rule 103's test is licensing and not recurrence, so this second to judge is a helper on καθίζετε and not added.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013",
+        "t014",
+        "t016",
+        "t017"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Demonstrative object rendered them.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Rule 90: substantival article before a participle with one English word for the pair takes the relativizer.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Participle rendered by the copula plus of no account; rule 17 heads on the meaning-bearing complement.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020",
+        "t021",
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Rule 19.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t025"
+      ],
+      "target_head": "t025"
+    }
+  ],
+  "ref": "1CO.6.4",
+  "review_notes": [
+    "Reading the clause as a question (ASV's main text) rather than the marginal imperative; the alignment is unaffected either way.",
+    "Reconciled with 1CO.6.2, the internal control: there the ASV gloss (Greek of the smallest tribunals) shows the supplied matters answering to κριτηρίων, and the same noun is recast as to judge in both verses.",
+    "1CO.6.3 is not touched by this: the adjective is substantival there, no noun is expressed, and it keeps things under rule 17's generic-noun clause. The presence of an expressed head noun is the test rules 22, 31, 47 and 58 already use.",
+    "Heads unchanged by the move: to judge things heads on judge under rule 66, matching 6:2, and pertaining to this life heads on life, matching 6:3."
+  ]
+}

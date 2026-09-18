@@ -1,0 +1,78 @@
+{
+  "ref": "EPH.5.1",
+  "alignments": [
+    {
+      "source": ["s001"],
+      "source_head": "s001",
+      "target": ["t001", "t002"],
+      "target_head": "t001",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Imperative with its supplied English subject pronoun as a helper (rules 7, 9); head on the lexical verb."
+    },
+    {
+      "source": ["s002"],
+      "source_head": "s002",
+      "target": ["t003"],
+      "target_head": "t003",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s003"],
+      "source_head": "s003",
+      "target": ["t004"],
+      "target_head": "t004",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s004"],
+      "source_head": "s004",
+      "target": [],
+      "target_head": null,
+      "status": "unrepresented",
+      "confidence": "high",
+      "note": "Article before a proper name with no English determiner (rule 23)."
+    },
+    {
+      "source": ["s005"],
+      "source_head": "s005",
+      "target": ["t005", "t006"],
+      "target_head": "t006",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Genitive noun rendered of + noun; of is the noun's helper and the head is the noun (rules 7, 17, 20)."
+    },
+    {
+      "source": ["s006"],
+      "source_head": "s006",
+      "target": ["t007"],
+      "target_head": "t007",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s007"],
+      "source_head": "s007",
+      "target": ["t009"],
+      "target_head": "t009",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s008"],
+      "source_head": "s008",
+      "target": ["t008"],
+      "target_head": "t008",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    }
+  ],
+  "review_notes": []
+}

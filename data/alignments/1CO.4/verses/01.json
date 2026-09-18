@@ -1,0 +1,149 @@
+{
+  "alignments": [
+    {
+      "note": "Adverb rendered *so*; discontinuous placement in the ASV does not affect the pairing (rule 15).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Third-person imperative: the auxiliary *Let* rides inside the verb's unit under rules 7 and 9, and the head is the lexical *account* under rule 17. The *of* is the support frame's own preposition, licensed by the supplied noun *account* and standing over an accusative object, so it stays with the verb exactly as rule 21's `οὐ λογίζεται τὸ κακόν` → *taketh not account of evil* has it.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Accusative object; the preposition in front of it belongs to the verb frame (rules 21 and 106), so the pronoun stands bare.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Anarthrous noun: the supplied indefinite is an ordinary rule 7 and rule 51 helper on the noun it determines.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Comparative adverb rendered *as*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The second *of* is the ASV's repetition of the support frame's preposition over the second complement, and rule 103 makes such a repeated function word a rule 7 helper on the member it introduces rather than `added`.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Genitive rendered *of + noun*; rule 17 heads on the noun.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Bare noun; the *of* in front of *ministers* has already been spent on s006.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Anarthrous genitive: the case preposition and the supplied determiner both ride with the noun, no article standing to anchor the *the* (rules 21 and 51).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Genitive rendered *of God*, headed on the noun (rule 17).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "1CO.4.1",
+  "review_notes": [
+    "Every s### and t### id is partitioned exactly once.",
+    "The two *of* tokens before *us* and before *ministers* are split between the verb frame and the second complement under rules 21 and 103; giving both to the verb as one discontinuous frame remains defensible."
+  ]
+}

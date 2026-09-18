@@ -1,0 +1,136 @@
+{
+  "alignments": [
+    {
+      "note": "Anarthrous Piel participle takes the supplied *He that* (rule 46); headed on *delicately*, the word carrying פָּנַק's lexeme, since *bringeth up* alone does not write the pampering (rule 31).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "מִן → *from*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "נֹעַר with the indefinite article it licenses.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "עֶבֶד → *servant*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Suffix → *his* (rule 18).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The ASV opens the apodosis with no connective, so this waw is unrendered (rule 14).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "אַחֲרִית rendered *at the last*, headed on the word carrying the lexeme (rule 31).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Corrected. The 3ms suffix on אַחֲרִית denotes the servant, and the ASV's recasting of *his end shall be* as *shall have him become* realizes that suffix by the pronoun *him*: rule 18 aligns a suffix to whatever English pronoun realizes it, and rule 30 reserves `added` for English no morpheme licenses at all. The prior alignment marked the suffix `unrepresented` and the pronoun `added`, which left a written morpheme holding nothing beside a pronoun that denotes exactly its referent.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "יִהְיֶה rendered *Shall have ... become*; headed on *become*, the word carrying the copular lexeme. Rule 43 does not send the *have* elsewhere, since no possessive preposition, suffix-of-possession or verb of allotment stands in the clause. Discontinuous around the suffix's *him* under rule 25.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "מָנוֹן with the indefinite article it licenses; the ASV's note that the word's meaning is doubtful does not move the unit (rule 38).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "PRO.29.21",
+  "review_notes": [
+    "The one change gives *him* to the suffix of אַחֲרִיתוֹ, dropping the prior `added` pronoun and `unrepresented` suffix. *Shall have ... become* remains the verb's own rendering."
+  ]
+}

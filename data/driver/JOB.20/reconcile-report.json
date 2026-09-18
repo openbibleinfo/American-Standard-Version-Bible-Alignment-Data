@@ -1,0 +1,28 @@
+{
+  "chapter": "JOB.20",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Phrasal particles beside the chapter's many motion and disposal verbs (mount up, fly away, chased away, swallow down, vomit up, build up, rise up, flow away, laid up, strike through, taken away, draweth forth, keep still) are read as part of the verb's phrasal rendering under rule 44, since each restates a direction or result the verb itself writes; the one particle marked added is 'again' in 20.15, which states a repetition no morpheme writes. A later verse with 'build up' or 'swallow down' should follow this, not the bring-back exception.",
+    "20.9: the ASV's 'see him' in the second colon is read as the second realization of the gapped שָׁזַף (rule 34's distributed verb, with the suffix realized twice under rule 18) rather than as an added lexical verb, because יָסַף there is the auxiliary 'continue' whose lexical complement the Hebrew gaps from the first colon; the auxiliary takes 'shall ... more' under rule 56. The competing reading (see him added) is named in the unit note."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 29 verses against the candidate table and the dump end to end. No cross-verse split found: every difference in the table is one the ASV's English licenses.",
+    "Phrasal particles are treated one way throughout: mount up (6), fly away / chased away (8), give back (10), lie down (11), keep still (13), swallowed down / vomit up (15), swallow down (18), taken away / build up (19), strike through (24), draweth forth (25), laid up (26), rise up (27), flow away (28) all stay with the verb under rule 44; only 'again' in 20.15 is added, because it states a repetition no morpheme writes. Consistent.",
+    "Supplied subject pronouns follow rule 25/17 consistently: the verbless second colon of 20.14 gives 'It' to the earlier לֶחֶם (rule 25), while the finite יֵרַע of 20.26 keeps 'It' as its own 3ms subject (rule 17, which rule 25 defers to for a finite verb). Not a split.",
+    "The second 'Though' of 20.12 is the one אִם's distributed realization (rule 25/55), and the 'Though' of 20.13 is added because that verse writes no אִם and rule 10 stops scope at the verse boundary. Consistent with the contract, and the two verse notes say so.",
+    "Apodosis connectives with no waw ('Yet' 20.7, 20.14; 'And' 20.24; 'and' 20.19) are all added; every waw the ASV renders takes its word (Then, Even, But, Yea, and). 20.9 s004 and 20.18 s010 are both unrendered waws — same treatment.",
+    "Recast suffixes (subject pronoun of a relative recasting) at 20.18, 20.20, 20.23 all go to the suffix under rule 18; 20.18 יָגָע, which has no suffix, keeps its supplied 'he' inside the rule-46 recasting. Consistent.",
+    "BSB disagreements (6): הֲ 20.4 (question by inversion alone, rule 17), suffix 20.8 (passive recasting writes no pronoun), waws 20.9 and 20.18 (no connective written), עַל 20.13 and לְ 20.22 (relation silenced by 'spare it' / 'he shall be in straits', rule 40). All documented convention differences; none is an error.",
+    "The seven repeated notes all restate contract rules (29, 15, 14, 18, 24, 44) and need no convention. Two chapter-wide judgments recorded below. No promotion or amendment: nothing here reached past the contract as written."
+  ]
+}

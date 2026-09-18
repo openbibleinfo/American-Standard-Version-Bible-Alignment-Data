@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "JER.33",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JER.33.8.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'all their iniquity' permits both the qere לְכָל and ketiv לכול; no mapped textual-variant note distinguishes them, so the documented qere base fallback is retained."
+    },
+    {
+      "unit_id": "WLC.JER.33.26.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'I will cause their captivity to return' explicitly uses causative wording, distinguishing qere אָשִׁיב from ketiv אשוב. The note 'return to their captivity' is classed alternative_rendering and therefore does not decide the textual reading."
+    }
+  ]
+}

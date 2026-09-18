@@ -1,0 +1,27 @@
+{
+  "chapter": "PSA.51",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "PSA.51.4"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Superscription boundary: the ASV prints the whole title in verse 0, but WLC carries its second clause (בְּבוֹא־אֵלָיו נָתָן הַנָּבִיא כַּאֲשֶׁר־בָּא אֶל־בַּת־שָׁבַע) at the head of the packet's PSA.51.1 (s001–s013). Verse 0 holds the English as one added unit with null head; verse 1 marks each of those thirteen morphemes unrepresented (rule 54's verse-boundary paragraph). Nothing is missing from either verse.",
+    "A supplied 'in' the ASV writes to reach the bare direct object of חָפֵץ or רָצָה ('delightest in sacrifice', 'delight in the sacrifices', 'hast pleasure in burnt offering') joins the verb under rule 44 (PSA.51.16, PSA.51.19); the colon-initial 'In' before the appositional עוֹלָה of PSA.51.19 was instead given to that bare nominal under rule 33, with rule 25's repeated-supplied-preposition reading (to the verb) named as the alternative."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked every candidate group. The suffix, waw, מִן, בְּ, לְ, הַ, אֶל and כְּ variation is ASV-driven (my/me/mine, in/unto/against, when/in/with) or the verse-0/verse-1 superscription boundary (PSA.51.1 s001–s013 unrepresented under rule 54, answering to the one added unit in PSA.51.0); none is a split.",
+    "One genuine error, patched: PSA.51.4 לְבַדְּךָ → 'thee only'. The verse pass left the second לְ unrepresented beside בַּד → only. Rule 30 fuses a preposition with its construct noun when one English word carries the pair and forbids marking the preposition unrepresented beside a noun holding the whole word; the corpus fuses לְבַדּ- → only/alone in ~50 units (R+Ncmsc, R+Ncmsc+Sp3ms). The suffix keeps its own 'thee'. This is also the one BSB disagreement that was a real error.",
+    "The other three BSB disagreements are convention: the Sh paragogic he of PSA.51.12 and PSA.51.18 (rule 32) and the lexicalized suffix of אֲדֹנָי in PSA.51.15 (rule 57).",
+    "Noted but left: PSA.51.19 gives the colon-initial 'In' before עוֹלָה to the appositional nominal under rule 33, while the verb's own 'in' reaching זִבְחֵי stays with תַּחְפֹּץ under rule 44 (as in PSA.51.16). Rule 25's repeated-supplied-preposition reading (both 'in's to the verb) was available; the difference between the verses is source-licensed, so no edge was changed.",
+    "No promotions or amendments: the corrected case is already rule 30's text."
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "alignments": [
+    {
+      "note": "Interjection to its one English word.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Discontinuous under rule 15: the subject pronoun and the finite verb are inflection-licensed helpers under rules 7 and 9. Rule 17's support-verb clause puts the head on the meaning-bearing complement *blessed* rather than on *call*, as `μαρτυρέω` → *bear witness* heads on *witness*; the corpus spends *blessed* on the `μακαρ-` family and *call* on `καλέω`, which is rule 91's operational test. A head on *call* is the competing reading and rests only on English syntax, which rule 17 forbids. *them* is not in this unit: it is the article's pronoun under rule 32.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Substantival article before a participle: rule 32 gives it the pronoun and nothing else, so *them* is the article's and *that endured* stays with the participle. Rule 90 does not reach this unit, the ASV writing two English words for the pair rather than one.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "The participle carries the supplied relativizer under rules 31 and 32; head on the verb word.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Subject and auxiliary ride with the finite verb under rules 7 and 9; head on the lexical verb under rule 9. The *of* is the verb's own: no Greek preposition is expressed in the clause and ὑπομονήν is a bare accusative, so rule 36 has nothing to assign it to — that rule places an English preposition on a Greek preposition where one stands, and its *hear of your state* example has an expressed περί. The corpus decides it on the lemma under rule 91's operational test and is 4–0 with none conceding: EPH.3.2 and GAL.1.13 → *ye have heard of*, EPH.1.15 → *having heard of*, 3JN.1.4 → *hear of*, all on ἀκούω. EPH.3.2 is this unit token for token — ἠκούσατε plus an accusative article plus an accusative noun — and puts *of* on the verb, leaving the article a bare *the*. Corrected from the reading that gave *of* to s005; JAS.5.7 *waiteth for* and JAS.5.14 *let him call for* now read the same way, which is rule 24.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Article to *the* under rule 19, split from its noun under rule 26, as EPH.3.2 has it. Rule 21 does not reach this unit: that rule carries a **case** preposition onto the article, and the Greek here is accusative with no genitive for a supplied *of* to answer to — the *of* is the English verb's own and stays with ἠκούσατε.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Noun stands alone under rule 21. The marginal *endurance* changes no alignment.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Rule 17: a source noun rendered *of + noun* heads on the noun.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Expressed conjunction to its own word.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Auxiliary is a rule 9 helper; head on the lexical verb.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Rule 19: article to *the*, split from its noun under rule 26.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Noun to its own word.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "The Greek genitive is anarthrous, so no article competes and the supplied *the* is an ordinary rule 7 helper on the noun under rule 51's anarthrous clause; the case preposition *of* rides with it and rule 17 heads a source noun rendered *of + noun* on the noun.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022",
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Rule 43's test is the English: the ASV supplies the clause-introducer *how that*, so the conjunction is aligned to it rather than left `unrepresented`. The whole two-word introducer stays undivided and heads on the complementizer *that*, rule 61 heading such a unit on the complementizer where no preposition is written and forbidding in terms the splitting of an archaic *that* off its introducer; giving *how* to nothing and *that* to `ὅτι` would split one introducer, and marking *how* `added` under rule 86 fails because a source token does license it.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t024",
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "note": "One Greek adjective rendered by an English phrase. Rule 66's test puts the head on *pity*, which glosses the `σπλαγχν-` root, while *full of* spells the `πολυ-` prefix — the same shape as rule 84's `ἀμώμου` → *without blemish* heading on *blemish*. The lemma is a hapax, so rule 104's query on the neighbouring class decides it, and it decides the same way: `εὐπειθής` → *easy to be entreated* heads on *entreated*, the stem word rather than the prefix's English, and the `σπλαγχν-` family carries the compassion word throughout. A head on *full* is the competing reading and rests only on English syntax, which rule 17 forbids.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t029",
+        "t030",
+        "t031"
+      ],
+      "target_head": "t031"
+    },
+    {
+      "note": "The copula is expressed here, so rules 53 and 63 are not in question; it takes its own word. It also serves *and merciful*, but nothing further in the English answers to it.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t028"
+      ],
+      "target_head": "t028"
+    },
+    {
+      "note": "Rule 19: article to *the*.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t026"
+      ],
+      "target_head": "t026"
+    },
+    {
+      "note": "Noun stands alone under rule 26.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t027"
+      ],
+      "target_head": "t027"
+    },
+    {
+      "note": "Coordinating conjunction to its own word.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t032"
+      ],
+      "target_head": "t032"
+    },
+    {
+      "note": "Predicate adjective to its one English word; the copula is `ἐστιν`'s and is not repeated in the English.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t033"
+      ],
+      "target_head": "t033"
+    }
+  ],
+  "ref": "JAS.5.11",
+  "review_notes": [
+    "Reviewed unchanged in structure: every s### and t### is partitioned exactly once, no unit is empty on both sides, and every head is a member of its own array. Two notes were enriched without changing any edge — s015 now cites rule 104's prefix-compound precedent, and s005 now addresses the accusative wrinkle behind the supplied *of*.",
+    "The two contested heads are s002 (*blessed* over *call*, rule 17's support-verb clause with rule 91's lemma query) and s015 (*pity* over *full*, rules 66, 84 and 104); both notes name the competing reading as rule 16 requires.",
+    "s015 is a hapax, so rule 91's lemma query returns nothing and rule 104 supplies the route: the `πολυ-` prefix's English is *full of* and the `σπλαγχν-` stem's is the compassion word, which is exactly `εὐπειθής` → *easy to be entreated* heading on *entreated* and not on *easy*.",
+    "`ὅτι` here introduces a clause the ASV renders with the supplied *how that*, so rule 43's `unrepresented` case does not apply — the test that rule states is the presence of an English word, and one is present. *how* is not `added` under rule 86 either, since a source token licenses the introducer.",
+    "The supplied *of* at t011 was checked against the reading that puts it on `ἠκούσατε` as a phrasal *hear of*. Rule 36 forbids that in terms, naming *hear of your state* among its examples, so the preposition rides with the article under rule 21. That the governed case is accusative rather than genitive does not move it: no Greek preposition is expressed, and the article is what carries the English determiner.",
+    "s003/s004 is rule 32's ordinary split, `οἱ κατοικοῦντες` → *they that dwell*, with *them* discontinuous from its participle under rule 15. Rule 90 does not reach it, blessing only the pair the ASV renders by one English word.",
+    "The anarthrous `κυρίου` at t021-t023 takes its supplied *the* under rule 51's anarthrous clause, whereas the articular `ὁ κύριος` splits into *the* / *Lord* under rules 19 and 26; the verse writes both, which is rule 24's habit and not two analyses.",
+    "All three variant units (v009, v010, v011) selected r00-base and none is marked FALLBACK EXCLUDED BY EVIDENCE, so rule 97 is not in question and no target token is `added`."
+  ]
+}

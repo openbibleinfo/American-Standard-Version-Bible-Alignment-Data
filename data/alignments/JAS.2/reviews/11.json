@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "e76413b4e232760d925fbc5c35d5323c66e1d30c1dcf65470a16c8e1d2820b38",
+  "contract_version": "nt-greek-verse-v62",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed and returned unchanged. Every s### and t### id is partitioned exactly once; no unrepresented or added units are needed, every source token having English in this verse.",
+    "s001/s003 follow rule 32 rather than rule 31: no head noun is expressed, so the article keeps only he and the participle keeps that said, headed on said.",
+    "The two 'commit adultery' units head on adultery under rule 17's support-verb clause and rule 91's operational test (commit carries no part of the μοιχεύω lexeme, as bear witness carries none of μαρτυρέω). A head on commit is the competing reading and is named in both units; it could rest only on English syntax, which rule 17 forbids.",
+    "The English do-support in Do not commit (t005) and dost not commit (t017) is licensed by the negation in English, but rule 9 places an auxiliary with the verb it belongs to, so both ride with their verbs and only not goes to μή/οὐ. That leaves s005, s009 and s013 discontinuous, which rule 15 permits and which absorbs no unrelated token.",
+    "s012 οὐ stays aligned: rules 41 and 59 empty a negator only where a negative indefinite follows that can carry the English negation alone, and none stands here.",
+    "s018 νόμου is anarthrous, so no article/noun split arises and the whole of of the law is one unit; rule 21's of the analysis applies only where a Greek article is present."
+  ],
+  "ref": "JAS.2.11",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

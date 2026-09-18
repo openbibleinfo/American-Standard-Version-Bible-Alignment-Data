@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "d33c496bef0b4649795aa6d65ecb0f067ead970b4e8354517704eb0154520a67",
+  "contract_version": "nt-greek-verse-v61",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed against nt-greek-verse-v61 and returned unchanged; no unit was altered.",
+    "All 12 source ids and all 14 target ids partitioned exactly once, and every head is a member of its own array.",
+    "The alternative_rendering note concerns the clause division with v.8 and does not change this verse's token inventory; no rule 37 orphaning is involved.",
+    "Competing reading considered and rejected for s001/s009: joining μή and τι into one unit under rule 59's test. That test wants a single English negative word spelling both elements; the ASV wrote not and anything as separate words, and anything is positive, so rule 69's reasoning keeps the negation on the negator as an ordinary aligned unit.",
+    "Competing reading considered and rejected for s010/s011: a rule 21 of+the unit on the article. Rule 21 is for an article carrying a case preposition where no Greek preposition is expressed; παρά is expressed and rule 36 assigns of to it, leaving the article a bare the."
+  ],
+  "ref": "JAS.1.7",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

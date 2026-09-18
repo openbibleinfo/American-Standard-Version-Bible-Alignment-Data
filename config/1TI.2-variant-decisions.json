@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "chapter": "1TI.2",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.1TI.2.3.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 2:3 begins \"This is good and acceptable\" with no inferential conjunction; the ASV renders γάρ as \"for\" where it stands, so the absence points to the base reading τοῦτο without γὰρ."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.2.7.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 2:7 has the bare parenthesis \"(I speak the truth, I lie not)\" with no \"in Christ\"; a rendered ἐν Χριστῷ would be visible in the English, so the base λέγω is read."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.2.8.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV \"without wrath and disputing\" uses an English mass noun that reflects neither singular διαλογισμοῦ nor plural διαλογισμῶν distinctly; the note \"Or, doubting\" is an alternative_rendering about English wording and cannot decide a reading."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.2.9.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "ASV \"In like manner, that women adorn themselves\" shows no article (English generic plural takes none, so τὰς is invisible) and no \"also\", but the ASV routinely leaves adjunctive καί after ὡσαύτως unrendered; nothing in the English excludes any of the three readings."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.2.9.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 2:9 reads \"not with braided hair, and gold or pearls or costly raiment\": the connective between braided hair and gold is \"and\" while the following two are \"or\", so the ASV renders καὶ here, not ἢ."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.2.9.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "χρυσίῳ and χρυσῷ are alike rendered \"gold\" in ASV 2:9; the English gives no purchase on the diminutive form."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.2.12.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is only the order of διδάσκειν and γυναικί; ASV \"But I permit not a woman to teach\" follows English syntax (object before infinitive) and would read the same either way."
+    },
+    {
+      "unit_id": "SBLGNT.1TI.2.14.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 2:14 renders the participle \"being beguiled\", the same word it uses for Adam's simplex ἠπατήθη; the compound ἐξαπατηθεῖσα and simplex ἀπατηθεῖσα are not distinguished in the English."
+    }
+  ]
+}

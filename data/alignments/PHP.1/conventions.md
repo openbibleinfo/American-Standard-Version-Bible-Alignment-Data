@@ -1,0 +1,7 @@
+# Philippians 1 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **PHP.1.17** — A substantival article rendered with an English determiner plus a nominal — the one, the other, the things — takes the whole expression and heads on the nominal word, never on the determiner. Where the correlative particle men or de has no English word of its own left, it is unrepresented (v16); where the ASV gives it one, it takes it (v15 indeed, v17 but).
+- **PHP.1.11** — A second attributive article whose modifier is a prepositional phrase keeps the supplied relativizer (which, that), and the supplied copula goes with the preposition. Rule 31's expressed-head-noun test leaves the article unrepresented only where a participle follows and can carry the relativizer itself; a prepositional phrase has no verb to carry it. Compare v12, where the substantival article keeps the things which and the supplied verb goes with kata.
+- **PHP.1.29** — Where hyper is rendered by the multiword English idiom on behalf of / in the behalf of, the closing of belongs to the idiom and stays in the preposition's unit, headed on behalf; the genitive noun keeps only its own word. The of is licensed by behalf, not by the genitive.

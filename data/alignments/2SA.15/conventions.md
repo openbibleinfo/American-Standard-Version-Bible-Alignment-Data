@@ -1,0 +1,6 @@
+# 2 Samuel 15 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **2SA.15.35** — Possessive *have* over an עִם the ASV has already rendered *with*: nothing in the clause makes it possessive (rule 43), so the word is `added` where no interrogative stands (15.36 הִנֵּה עִמָּם → *they have there with them*, *have* added, suffix realized twice as *they … them*); where הֲ stands and the ASV fronts the word as the question auxiliary, the particle takes it under rule 17 (15.35 הֲלוֹא עִמְּךָ → *hast thou not … with thee*, *hast* on הֲ, suffix *thou … thee*). Rule 43's closing sentence keeps the *have* off the particle only where a possessive morpheme is there to hold it.
+- **2SA.15.11** — כָּל־דָּבָר rendered by a single English indefinite (*anything* 15.11, *everything* 15.36) fuses under rule 30 and heads on כֹּל as the governing construct (rule 23); דָּבָר is the competing head and is named in the note. Where the ASV writes a word for each (15.35 *what thing soever*), rule 2 splits them and כָּל … אֲשֶׁר takes the discontinuous *what … soever*.

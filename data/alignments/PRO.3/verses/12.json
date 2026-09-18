@@ -1,0 +1,166 @@
+{
+  "alignments": [
+    {
+      "note": "ki -> For.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The marker standing on the relative object has no English of its own; the ASV writes 'whom' bare and spends no word on the object relation here (rule 16).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Written relative -> whom.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Verb -> loveth.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Divine name -> Jehovah.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Finite verb with its subject pronoun, headed on the lexical verb (rule 17).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "A conjunction morpheme stands immediately before the comparative preposition, so the two English words answer to the two morphemes: the waw takes the bare 'Even' (rules 14, 16).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Comparative preposition takes the relational word alone -> as (rule 16).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Noun with the indefinite article it licenses (rule 15).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Corrected: the marker stands on ben, and the English verb reaches that object through 'delighteth in', a preposition existing only to attach the object to the verb. That is rule 16's first family, and no other morpheme licenses 'in', so the marker takes it and heads on it. The earlier reading folded 'in' into a supplied 'in whom' unit, which rule 2 forbids where a source morpheme owns part of the run.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Noun with the supplied determiner it licenses (rule 15).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Finite verb with its subject pronoun, headed on the lexical verb (rule 17).",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Supplied relative over a finite clause juxtaposed to the written antecedent 'son'; no relative morpheme stands in the second colon, so nothing licenses it (rules 46, 55). Only 'whom' is supplied, since the preposition beside it is the object marker's.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "PRO.3.12",
+  "review_notes": [
+    "Corrected: 'in' moved from the added run onto the second object marker. Rule 16's first family gives the marker the preposition through which the English verb reaches its object ('delighteth in'), and rule 44's limit defers to a present marker; the leftover supplied relative 'whom' stands alone as the added unit.",
+    "The first colon's asher takes its own 'whom' and its marker is unrepresented, the ASV writing that object bare.",
+    "The waw takes the bare 'Even' and the comparative kaph takes 'as', counted as rule 16 directs where a conjunction stands before the preposition."
+  ]
+}

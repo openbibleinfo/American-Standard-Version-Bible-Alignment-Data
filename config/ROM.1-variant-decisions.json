@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "chapter": "ROM.1",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.ROM.1.1.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads \"a servant of Jesus Christ\", matching the order Ἰησοῦ Χριστοῦ; the base Χριστοῦ Ἰησοῦ would give \"Christ Jesus\". Word order is rendered here, so the English distinguishes the reading."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.1.8.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV \"I thank my God ... for you all\" renders either περὶ or ὑπὲρ identically. The only note is classed alternative_rendering (\"Or, because\"), which concerns English wording and cannot decide a reading. Base fallback περὶ carries the projection."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.1.16.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads \"not ashamed of the gospel:\" with no qualifier; the addition τοῦ χριστοῦ would require \"of the gospel of Christ\". The absence of substantive words the ASV elsewhere renders distinguishes the shorter reading."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.1.19.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is only the order of θεὸς and the postpositive γὰρ; ASV \"for God manifested it unto them\" is the same English under either, since γάρ must move to English clause-initial position regardless. No note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.1.24.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV \"Wherefore God gave them up\" shows no \"also\", but the ASV routinely leaves a connective καί after an inferential particle unrendered, so its absence does not distinguish Διὸ from Διὸ καὶ. No note is mapped here; base fallback Διὸ carries the projection."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.1.24.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV \"dishonored among themselves\" renders both αὐτοῖς and the reflexive ἑαυτοῖς as \"themselves\"; English has no form that separates them here, and no note is mapped to this unit."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.1.27.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἑαυτοῖς and αὑτοῖς are orthographic variants of the same reflexive pronoun; ASV \"receiving in themselves\" renders either without distinction, and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.1.29.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The ASV vice list runs \"all unrighteousness, wickedness, covetousness, maliciousness\" with no term for πορνείᾳ; the ASV renders that noun (\"fornication\") wherever it stands, so its absence distinguishes the shorter reading."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.1.31.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads \"covenant-breakers, without natural affection, unmerciful\" — three terms, with nothing answering to ἀσπόνδους (\"implacable\"). The added substantive is unrendered, which distinguishes the shorter reading."
+    }
+  ]
+}

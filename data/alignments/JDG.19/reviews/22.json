@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "c45eec0397607aa1a68e29b5c235b9514067757ffff043c56b7cce6a4ab9d2c6",
+  "contract_version": "ot-hebrew-verse-v190",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "Corrected the article count in ha'ish ba'al habbayit hazzaqen. Three article morphemes stand (on 'ish, bayit and zaqen) and the ASV writes three 'the's, but the accepted alignment gave the noun's article the 'the' before 'master' and gave the written 'the' of 'the old man' to the adjective's agreement article. Rule 47 rules the other way: where a noun and its attributive each carry an article and one 'the' is written for the phrase, the noun's article takes it and the agreement article is unrepresented. So s025 now takes t035, s030 is unrepresented, and ba'al — a construct, which can take no article — takes a supplied 'the' at t030 under rule 29.",
+    "The same division is what the chapter writes at JDG.19.23, where ha'ish ba'al habbayit gives the written 'the' to the article on 'ish and a supplied one to the construct ba'al.",
+    "The opening 'As' remains added: the Hebrew circumstantial clause has no conjunction morpheme in it (rule 55).",
+    "Partition rechecked after the change: all 45 source morphemes and all 52 target tokens are covered exactly once."
+  ],
+  "ref": "JDG.19.22",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

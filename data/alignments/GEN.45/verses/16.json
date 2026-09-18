@@ -1,0 +1,220 @@
+{
+  "alignments": [
+    {
+      "note": "The waw takes “And.”",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The article takes “the.”",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "ASV expands “sound” as “report thereof.”",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The passive verb takes its auxiliary, headed on the lexical verb.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The construct noun takes the supplied locative “in.”",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The construct relation is rendered possessively.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The לְ of לֵאמֹר has no English realization under rule 27.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The infinitive takes “saying.”",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "The finite verb takes its auxiliary, headed on the lexical verb.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "The noun takes “brethren.”",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "The construct relation is rendered possessively.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "The waw takes “and.”",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "The idiomatic verb is rendered discontinuously as “it pleased … well.”",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017",
+        "t019"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "The fixed experiencer expression “in the eyes of Pharaoh” is rendered by the single word “Pharaoh,” so rule 30's one-English-word condition is met with the preposition and the construct noun holding no English of their own. Head moved from the first token to the name, whose lexeme that word writes; rule 6's first-token fallback governs a fusion in which no morpheme's lexeme is written, which this is not.",
+      "source": [
+        "s014",
+        "s015",
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "noncompositional",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "The waw takes “and.”",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "The coordinated fixed expression “in the eyes of [his] servants” is rendered by “servants.” Head moved from the first token to עֲבָדָי, the morpheme whose lexeme that word writes, on the same ground as the unit above.",
+      "source": [
+        "s018",
+        "s019",
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "noncompositional",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "The suffix takes “his.”",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    }
+  ],
+  "ref": "GEN.45.16",
+  "review_notes": [
+    "Only the two source heads changed; the large-source-unit flags stand as heuristics, and both units remain indivisible because the single English word carries the whole expression."
+  ]
+}

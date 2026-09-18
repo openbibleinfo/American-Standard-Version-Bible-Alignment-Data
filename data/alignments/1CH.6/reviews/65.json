@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "7d67f9627c6b949f03a2ac190abd9cd9d95e2c26d2d3081b18bdfccc3609239a",
+  "contract_version": "ot-hebrew-verse-v17",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 30 source and 41 target ids partitioned once.",
+    "Both articles in הֶעָרִים הָאֵלֶּה are `unrepresented` because the ASV writes *these cities* with no *the* for the phrase at all — rule 29's final clause, and rule 47 does not apply since there is no English *the* to assign to a first article.",
+    "The object suffix of אֶתְהֶם is resumptive of אֲשֶׁר, which already takes *which*; keeping it as its own `unrepresented` unit rather than folding it in follows rule 22.",
+    "The three-level מַטֵּה בְנֵי PN chains carry no article morpheme, so both written *the*s are supplied on the constructs (rule 29)."
+  ],
+  "ref": "1CH.6.65",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

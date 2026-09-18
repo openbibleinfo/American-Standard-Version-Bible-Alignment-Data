@@ -1,0 +1,6 @@
+# 1 Chronicles 6 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- The city-and-suburbs formula וְאֶת־מִגְרָשֶׁיהָ → *with its suburbs*, in vv. 57–81: the waw takes *with* under rule 14, since the ASV does render the connective, just not as *and*; the אֵת is `unrepresented` under rule 16; and מִגְרָשׁ and its suffix are separate units, *suburbs* and *its*. Do not mark the waw `unrepresented` and *with* `added`. The same waw is rendered *also* where the ASV writes it postpositively after the preceding name (57, 67), under rule 51. מִגְרָשׁ has no unit anywhere in the corpus, so *suburbs* here is the precedent a later chapter will read.
+- תַּחַת in vv. 24 and 37 is tagged R (preposition) by MACULA but is the personal name Tahath in this genealogy, and is aligned to the ASV's *Tahath* — in v. 37 as a nomen rectum taking *of* under rule 19. Rule 38's bar on letting secondary evidence override direct analysis cuts both ways: the morphology tag is wrong about this token, and the surrounding בֶּן ... בֶּן chain is what shows it.

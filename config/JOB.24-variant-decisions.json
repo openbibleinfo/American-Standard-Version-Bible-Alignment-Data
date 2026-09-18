@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "chapter": "JOB.24",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JOB.24.1.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Ketiv וידעו and qere וְיֹדְעָיו differ only in the orthography of the 3ms suffix on the plural participle (defective ו- vs. plene יו-); both read 'those who know him'. ASV 'they that know him' renders that sense with no italicized supply and cannot separate the spellings. The only note is alternative_rendering (a different construal of the whole verse) and does not decide a reading. Base qere fallback retained."
+    },
+    {
+      "unit_id": "WLC.JOB.24.6.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Ketiv יקצירו (hiphil) and qere יִקְצוֹרוּ (qal) of קצר both yield 'they reap/cut'; ASV 'They cut their provender in the field' has no wording or italics that requires one stem over the other. The note 'Or, his' is alternative_rendering on the possessive of 'provender' and does not bear on this unit. Base qere fallback retained."
+    }
+  ]
+}

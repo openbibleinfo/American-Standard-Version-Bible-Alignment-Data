@@ -1,0 +1,26 @@
+{
+  "chapter": "2CH.10",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Where the ASV's English follows the 1 Kings 12 parallel against the WLC text of this chapter and the packet records no variant unit — 10.14 'My father' before 'made your yoke heavy' where WLC writes the 1cs אכביד, and 10.16 'when all Israel saw' where WLC writes no ראה — the surplus English is added with a rule-53 note naming the Kings reading, and the token the projection does carry (אכביד → 'made heavy') is aligned as printed. No token is marked unrepresented to answer for it and no textual decision is taken in the alignment.",
+    "The gapped second colon of 'my father chastised you with whips, but I will chastise you with scorpions' (10.11, 10.14) realizes the one written יסר twice: the italic 'will chastise' joins the verb's discontinuous unit and the italic 'you' joins the object suffix's under rules 34 and 25, neither being added; the waw of ואני takes 'but' and the pronoun its own 'I'."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v218",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 40 candidate groups against the verses. No construction is analysed two ways with nothing in the source to license the difference: the suffix, waw, article, preposition and verb variation is the ASV rendering one word differently in context (his/him/their; And/but/So/then/that; to/unto; the present/absent), and each unit takes what is written for it.",
+    "Recurring constructions are consistent across the chapter: 'king Rehoboam/king Solomon' leaves the article on מלך unrepresented (10.2, 6, 13, 18); 'old men'/'young men' head on old/young with men as the supplied generic (10.6, 8, 10, 13, 14); 'make ... lighter' heads on the complement in all three verses, the thou going to the verb in 10.4 and to the explicit אתה in 10.10; 'Come again' keeps again with שוב in 10.5 and 10.12; the gapped 'will chastise you' is the repeated realization of יסר and its suffix in both 10.11 and 10.14; demonstrative phrases leave both articles unrepresented (10.6, 7, 9, 19); attributive articles rendered by a relative take it (10.8, 10.17).",
+    "The two places where the ASV follows the 1 Kings 12 parallel against WLC Chronicles (10.14 'My father' for אכביד, 10.16 'when ... saw' with no ראה) are handled alike: no variant unit is recorded, so the English is added with a rule-53 note and the token the projection carries is aligned as printed.",
+    "BSB disagreements are all convention differences: the 16 articles are 'king X' titles, agreement articles beside a demonstrative or ordinal, and the article on אלהים; the 15 prepositions are the ל of לאמר, the partitive מן of 'make lighter', dative/resultative ל recast under rule 40, and the temporal ב of 'the third day'; the 3 object markers are rule 16; the 5 waws are two apodosis waws (10.16, 10.17), an asyndetic recasting (10.11), a reordering (10.5) and 'and he died' recast as 'to death' (10.18). None is an error.",
+    "Two hedged units are noted rather than patched: 10.5 gives 'after' to עוד ('yet three days' → 'after three days'), where rule 33 would instead put it on the numeral phrase and leave עוד unrepresented; 10.6 fuses היות ... חי → 'lived' across the subject suffix under rules 30/35, the competing reading leaving היות unrepresented. Both notes already name the alternative.",
+    "The large-source unit at 10.7 (כל־הימים → 'for ever') matches the seven corpus units rule 30 cites. Nothing here generalises beyond the contract; no promotions or amendments."
+  ]
+}

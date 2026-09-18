@@ -1,0 +1,32 @@
+{
+  "chapter": "EZR.4",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "EZR.4.10",
+    "EZR.4.17",
+    "EZR.4.20"
+  ],
+  "rejected": {},
+  "conventions": [
+    "The title בְּעֵל־טְעֵם → 'the chancellor' is one noncompositional unit (4.8, 4.9, 4.17): no English word writes either lexeme, so the first token בְּעֵל is the display anchor under rule 6, the target head is 'chancellor', and the supplied 'the' joins the unit under rule 15.",
+    "The province name עֲבַר־נַהֲרָה: עֲבַר (tagged Np) takes 'beyond' together with whatever the ASV supplies to expand it — the italic 'the country' under rule 31, and the 'of' of a preceding construct (שְׁאָר עֲבַר) under rule 19 — headed on 'beyond' (4.10, 4.17, 4.20); נַהֲרָה keeps 'River' and its determined ending the 'the'. Where a preposition stands before it (בַּעֲבַר, 4.16) the two fuse as one 'beyond' under rule 30, headed on עֲבַר, as the corpus fuses מֵעֵבֶר/בְּעֵבֶר in over forty units.",
+    "The epistolary closer וּכְעֶנֶת / וּכְעֶת → 'and so forth' (4.10, 4.11, 4.17): the waw takes 'and' and the adverb takes 'so forth' headed on 'forth'. The compound עַל־דְּנָה is fused whatever English it takes — 'therefore' (4.14), 'for which cause' (4.15), 'herein' (4.22) — with the source head on the governing עַל in every case under rule 23, since the English word written does not choose a source head.",
+    "Periphrastic הֲוָה + participle: the auxiliary is unrepresented where an explicit subject noun stands and the ASV writes a simple finite verb on the participle (4.4 וַיְהִי ... מְרַפִּים → 'weakened'); where the ASV writes a subject pronoun for it (4.24 וַהֲוָת בָּטְלָא → 'it ceased') that pronoun realizes the finite auxiliary's person and number under rule 17 and the participle takes the lexical verb."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Cross-verse: the 45-lemma table is almost entirely ASV-driven variation; every waw, Td, לְ, עַל and בְּ bucket that was treated two ways differs in the English written, not in the analysis. The determined-state ending is consistently 'the' where the ASV writes one, unrepresented beside a demonstrative, a possessive recasting, an indefinite article or an attributive rendering; בְּעֵל־טְעֵם → 'the chancellor' is the same noncompositional unit in 4.8, 4.9 and 4.17; עַל־דְּנָה is fused and headed on עַל in 4.14, 4.15 and 4.22 whatever English it takes.",
+    "One consistent-but-wrong treatment corrected across three verses: the supplied 'the country' (and the 'of' in 4.10 and 4.17) written for the province name עֲבַר־נַהֲרָה was marked `added` in 4.10, 4.17 and 4.20. עֲבַר is a written substantive the ASV renders by 'beyond', so the supplied generic joins its unit under rule 31 (the corpus does exactly this at 1KI.4.24, folding the italic 'the region' into עֵבֶר), and the 'of' in 4.10/4.17 is the construct relation שְׁאָר → עֲבַר, which rule 19 gives to the rectum. Patched all three; heads stay on 'beyond'. 4.11 ('the men beyond the River') and 4.16 (בַּעֲבַר fused as 'beyond', matching 33 corpus fusions) needed nothing.",
+    "EZR.4.8 חֲדָה left unrepresented with 'a' on the noun: corpus precedent is split (26 אֶחָד units take a/an, 25 leave it unrepresented; DAN.2.31 gives 'a' to חַד). Defensible either way and the note names the alternative; not changed, and the contradicting corpus is a reason not to promote.",
+    "'hurtful unto kings' is placed differently in 4.13 (finite verb + bare object: 'unto' is the verb's under rule 44) and 4.15 (construct participle rendered as an adjective: 'unto' is the rectum's under rule 19). The Hebrew constructions differ, so this is not a split.",
+    "BSB disagreements: all are convention (unrepresented object-marking לְ and אֵת, Td beside a demonstrative or possessive, periphrastic יְהִי in 4.4). 4.10 הִמּוֹ and 4.11 עֲלוֹהִי are genuinely unwritten in the ASV ('set in the city', 'sent unto Artaxerxes'). No genuine error.",
+    "No promotions or amendments: nothing this chapter taught is both general and uncontradicted by the corpus."
+  ]
+}

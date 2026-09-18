@@ -1,0 +1,137 @@
+{
+  "alignments": [
+    {
+      "note": "waw → Yet (rule 14).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "'shall hold on': the 'on' is the preposition the English verb needs to reach the bare object דַּרְכּוֹ and joins the verb (rule 44); discontinuous around the subject.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Anarthrous substantive with supplied 'the' (rule 46).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "suffix → his.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "way.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "waw → And.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Anarthrous adjective in construct used as the clause's subject substantive ('the clean of hands'); the ASV's supplied 'he that' makes it an English noun phrase and joins its unit under rule 46, headed on the lexeme 'clean', exactly as 'the righteous', 'the innocent' and 'a wise man' in this chapter. Discontinuous around the supplied 'hath'. Competing reading: 'he that hath' as one added unit on rule 2's טוֹב־עַיִן example; rejected because that example rests on a written הוּא taking 'He' and on a predicate phrase, and here no pronoun stands and rule 46 says the supplied pronoun and relative are never added.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Supplied verb of having recasting the construct relation 'clean of hands' as 'hath clean hands'; no הָיָה, existential, possessive preposition or suffix stands in the clause to carry it (rule 43), and it is not what טֳהָר's own lexeme names (rule 46 closing paragraph), so it is rule 20's supplied lexical verb.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Rectum; the ASV writes no 'of' for the recast chain.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "יֹסִיף אֹמֶץ 'will add strength' rendered 'shall wax stronger and stronger': the doubling writes the verb's increase and 'stronger' the noun's lexeme, and no split allocates 'wax' and the second 'stronger' non-arbitrarily (rule 6). Source head on the first token by the fallback, since both lexemes are written; the internal 'and' coordinates parts of one rendering (rule 14). Competing reading: s009 → 'shall wax' and s010 → 'stronger and stronger'.",
+      "source": [
+        "s009",
+        "s010"
+      ],
+      "source_head": "s009",
+      "status": "noncompositional",
+      "target": [
+        "t015",
+        "t016",
+        "t017",
+        "t018",
+        "t019"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "JOB.17.9",
+  "review_notes": [
+    "'he that' moved from added to the substantival adjective's unit under rule 46, matching the chapter's treatment of יְשָׁרִים, נָקִי, חָנֵף, צַדִּיק and חָכָם; 'hath' alone left added.",
+    "'wax stronger and stronger' read noncompositional; competing split named in the unit."
+  ]
+}

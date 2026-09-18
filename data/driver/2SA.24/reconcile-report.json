@@ -1,0 +1,27 @@
+{
+  "chapter": "2SA.24",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "goren is rendered by the two-word 'threshing floor' throughout the chapter (24.16, 24.18, 24.21, 24.24) and heads on 'threshing', since 'floor' alone is any floor (rule 31). morag rendered 'threshing instruments' and shelem rendered 'peace offerings' head the same way, on 'threshing' and on 'peace'.",
+    "na takes whatever the ASV writes for it and nothing more: the whole entreaty formula where one is written ('I beseech thee' at 24.10, 'I pray thee' at 24.17, rule 30), and a bare 'now' where that is all the ASV writes (24.2, 24.14). A written attah takes the 'now' itself wherever in the clause it stands (24.10, 24.13, 24.16), so count the clause's adverbs against the particles before placing one."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v214",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 67 lemma buckets in the candidate table and read the dump end to end for the added units the table is blind to. No construction is analysed two ways with nothing in the source to license the difference, so there are no patches.",
+    "Verified as ASV-licensed rather than split: the dative lamed with suffix in 24.13, unrepresented in 'told him' and 'unto' in 'said unto him', which is rule 40 reading the condition and not the lemma; the same preposition unrepresented in 24.12 'choose thee' against 'unto thee' in 24.13; and the two branches of rule 29, where 24.9 (mispar mifqad ha-am) counts three written 'the's onto an arthrous rectum while 24.16 (goren ha-Aravnah) fronts the article's own 'the' off an anarthrous one, and 24.18 gives its construct a supplied 'the' because no article morpheme stands in that phrase at all. 24.5 divides its two articles on the same count, one taking the 'the' before 'valley' and the one on ha-Gad unrepresented.",
+    "The three limit phrases agree: we-ad at 24.2 and twice at 24.15 each give the bare 'even' to the waw and the relational word to ad, which is rule 16's amended division. The shut, goren and olah families are uniform and uniformly headed, as are the three compound-preposition fusions me-im, me-et and me-al at 24.21, 24.24 and 24.25, each headed on the governing morpheme standing first (rule 23).",
+    "The four added units are consistent with each other and with the contract: the supplied object 'it' at 24.3, 24.12 and 24.24 stands in clauses with no object morpheme (rule 44), and the 'It' of 24.16 'It is enough' is the case rule 20 names when it says the ASV elsewhere writes 'enough' alone for rav. 24.4's object marker taking 'of' and the supplied 'of' on bare nominals at 24.13 and 24.24 are the two sides of rule 33's third limit, not two treatments of one construction.",
+    "BSB: no genuine error. All 21 disagreements are documented convention differences - six prepositions the ASV's recasting leaves nothing to say (rules 27, 40, 52), five waws with no connective written for them (three of them apodosis waws under an 'And when' or 'So when' pair, rules 14 and 55), six articles the ASV writes no 'the' for (rules 29, 36, 41), three determined prepositions whose objects the ASV promotes to direct objects (rule 40), and the resumptive hem of 24.3.",
+    "Two edges a later reader may want to look at again, both left as accepted. 24.3's doubled ka-hem is the chapter's one genuinely hedged allocation: the first particle takes 'how many soever', the second takes the supplied copula 'may be' as the clause's prepositional predicate, and the repeated pronoun is unrepresented under rule 22. BSB represents that pronoun, which corroborates the competing reading named in the verse note without deciding it. And 24.13's da rendered 'advise thee' keeps its pronoun inside the verb's unit as a reflexive under rule 44, though the Qal carries no reflexive voice or elative sense; the alternative is a fifth added unit. Neither is a cross-verse split, so neither is patched here.",
+    "Nothing in the chapter generalises. Every construction that recurred is already decided by a rule the contract states in its own terms, so promotions and amendments are empty."
+  ]
+}

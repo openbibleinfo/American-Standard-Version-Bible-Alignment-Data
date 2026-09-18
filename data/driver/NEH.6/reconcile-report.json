@@ -1,0 +1,28 @@
+{
+  "chapter": "NEH.6",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The vayehi frame of 6.1 has its apodosis at the head of 6.2. The frame's complementizer 'that' (ASV 6.2 t001) is aligned in 6.2 to that verse's opening waw under rule 45; 6.1's hayah takes only 'it came to pass'. 6.16 is the ordinary in-verse case and divides the same way.",
+    "ka-davar ha-zeh / ka-devarim ha-elleh (6.4, 6.5, 6.6, 6.7, 6.8): the ke takes the ASV's own preposition (after / in / according to) and is unrepresented where the recasting writes none (6.8 'such things as'); the assimilated article and the agreement article are both unrepresented unless the ASV writes a 'the' before the noun (6.4 'the same manner'); the noun takes sort / manner / words / things; the demonstrative takes whatever stands in the determiner slot — this, same, like, these, such — under rule 41. In 6.8 the correlative 'as' goes to asher, not to the ke.",
+    "Periphrastic hayu + participle (6.14, 6.19 twice): hayu takes the auxiliary or subject pronoun the ASV writes for the finite verb ('would have', 'they') and is its own unrepresented unit where it writes neither (6.19 'and reported'); the participle keeps the lexical verb phrase with any supplied preposition or complement ('put ... in fear', 'spake of', 'reported'). Where no hayah stands (6.9) the bare participle takes the whole 'would have made afraid'."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v218",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 46 candidate lemmas. Every multi-treatment bucket is ASV-driven: the waw takes whichever connective is written for it (Now/Then/that/so that/for/yea/with/But/therefore) or is unrepresented where none is (6.2 'Come, let us meet', 6.10 waw+pronoun recast as 'who', 6.11 'and live' recast as 'to save his life'); the article is unrepresented wherever a demonstrative or the ASV's recasting takes the determiner slot and takes 'the' wherever one is written; le is unrepresented before lemor, before bare indirect/direct objects and in the resultative/possessive recasts, and takes to/of/for/unto where a word is written.",
+    "The recurring phrase ka-davar ha-zeh / ka-devarim ha-elleh (6.4 x2, 6.5, 6.6, 6.7, 6.8) is analysed one way throughout: the preposition takes the ASV's own preposition (after/in/according to) or nothing (6.8), both articles are unrepresented unless a 'the' is written (6.4b), the noun takes sort/manner/words/things, and the demonstrative takes whatever determiner-slot word the ASV writes (this/same/like/these/such).",
+    "The vayehi frames of 6.1 and 6.16 are treated alike (rule 45): the apodosis waw takes 'that'. For 6.1 that waw stands at the head of 6.2 and the 'that' is aligned there; recorded as a convention since it crosses a verse boundary.",
+    "Periphrastic hayu + participle (6.14, 6.19 x2) is consistent: hayu takes the auxiliary or subject pronoun the ASV writes ('would have', 'they') and is unrepresented where it writes neither; the participle keeps the lexical verb. 6.9's 'would have made afraid' on the bare participle is not a split — no hayah stands there to take the auxiliary.",
+    "Added units checked end to end (though 6.1; one of 6.2; it / that 6.6; O God 6.9; matter 6.13; the month 6.15; thereof 6.16; to wife 6.18; And 6.19): each answers to no morpheme and no verse folds the same kind of supply into a neighbouring word.",
+    "BSB disagreements are all documented convention differences (Td agreement/demonstrative articles, le of lemor and bare datives, paragogic/cohortative he, object markers, unrendered waws and the 6.17 suffix the ASV drops in 'many letters'). None is an error. 6.8 ke unrepresented is a defensible choice over giving 'as' to ke and silencing asher; the note names the alternative.",
+    "No promotions: nothing this chapter taught generalises beyond rules 41, 45, 55 and 56 as they already stand."
+  ]
+}

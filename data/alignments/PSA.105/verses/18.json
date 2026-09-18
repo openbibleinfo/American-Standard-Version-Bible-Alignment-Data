@@ -1,0 +1,120 @@
+{
+  "alignments": [
+    {
+      "note": "",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The assimilated article has no separate English the.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The selected variant reads feet.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The suffix is realized by His.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The adverbial noun is expanded as 'in chains of iron': 'iron' retains its lexeme and is the target head, while the prepositional frame and generic 'chains' spell out its adverbial role. I chose this smallest-unit analysis over whole-clause fusion because the ASV preserves 'iron' as a separate lexical anchor.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "ASV recasts the finite verb 'came/entered' as the passive 'was laid.' I split the predicate from the explicit subject and adverbial complement rather than retaining the earlier whole-clause noncompositional unit.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "ASV indivisibly recasts 'his soul/person' as the subject pronoun 'He,' so the noun and suffix share one unit headed on the noun. I chose this over leaving 'He' inside the verb unit because the explicit source nominal supplies the subject.",
+      "source": [
+        "s009",
+        "s010"
+      ],
+      "source_head": "s009",
+      "status": "noncompositional",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    }
+  ],
+  "ref": "PSA.105.18",
+  "review_notes": [
+    "The selected WLC variant r01 supplies s005–s006; the ASV paraphrases the second colon rather than following the literal 'his soul entered into iron.'"
+  ]
+}

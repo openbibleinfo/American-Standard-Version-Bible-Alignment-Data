@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "chapter": "2CH.34",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2CH.34.5.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere מזבחותם and ketiv מזבחותים differ only in the plural-noun orthography before the suffix; both are 'their altars', which is exactly what ASV renders. No ASV note is mapped here, so nothing in the English distinguishes the two."
+    },
+    {
+      "unit_id": "WLC.2CH.34.6.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'in their ruins round about' renders the single word בחרבתיהם (חרבה, ruin), the qere. The ketiv בהר בתיהם is two words, 'in the mountain of their houses', which the ASV does not render anywhere in the verse. The footnote 'Or, as otherwise read, with their axes' is classed alternative_rendering and is only about vocalizing the same consonants, so it does not bear on the choice."
+    },
+    {
+      "unit_id": "WLC.2CH.34.9.v003",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV ends the verse 'and of the inhabitants of Jerusalem', which renders the ketiv וישבי ירושלם (ישבי, inhabitants of). The mapped textual_variant note 'Another reading is, and they returned to Jerusalem' gives the qere וישבו as the rejected alternative, confirming the ketiv stands in the ASV text."
+    },
+    {
+      "unit_id": "WLC.2CH.34.22.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere תקהת and ketiv תוקהת are the same name differing only by an internal mater lectionis; both transliterate as ASV's 'Tokhath'. The verse's notes concern the parallel names in 2 Kin. 22:14 and the gloss on Mishneh, none of them mapped to this unit."
+    },
+    {
+      "unit_id": "WLC.2CH.34.25.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere ויקטרו (piel) and ketiv ויקטירו (hiphil) are both rendered 'have burned incense' in English; the stem difference leaves no trace in ASV wording, and no note is mapped to this unit."
+    }
+  ]
+}

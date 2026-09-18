@@ -1,0 +1,28 @@
+{
+  "chapter": "2CH.36",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Regnal-age formula. In `בֶּן X שָׁנָה PN בְּמָלְכוֹ`, the construct `בֵּן` is the verbless clause's predicate and takes the construction-supplied copula together with *old* (rule 20), discontinuous around the numeral phrase under rule 25; `שָׁנָה` keeps its own *years*, the temporal `בְּ` takes *when* (rule 52), the infinitive keeps *began to reign*, and its suffix takes the subject pronoun *he* (rule 18). vv. 2, 5, 9, 11.",
+    "`אַחַת עֶשְׂרֵה` → *eleven* is one fused unit under rule 30, since no English word answers to either morpheme alone, headed on `אַחַת` under rule 23, neither morpheme carrying content the other lacks. Do not split it or mark the second numeral `unrepresented` under rule 22. vv. 5, 11.",
+    "`הַכֹּל` resuming a verb's object: the article takes whatever pronoun or demonstrative the ASV writes beside *all* — *them* at v.17, *these* at v.18 — under rule 41, and `כֹּל` takes only *all*. The article is not marked `unrepresented` and the extra word is not `added`."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v170",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 45 candidate lemma groups, plus the dump read end to end for `added` material the lemma table is blind to. No cross-verse split found; patches empty.",
+    "Article counting is the chapter's most repeated judgment (14 construct chains) and is uniform under rule 29: an arthrously rendered rectum (vv.1, 10, 14 twice, 18, 23) gives each morpheme the *the* standing before its own word; an anarthrously rendered one (vv.16, 19, 23) gives the article the phrase's single *the*; and the three-level chain of v.18 divides as rule 29's `לְבַב כָּל בְּנֵי הָאָדָם` does, the article's *the* landing before *house* while the outer construct takes a supplied one.",
+    "The regnal-age formula (vv.2, 5, 9, 11) and its temporal `בְּמָלְכוֹ` are divided identically four times, and `אַחַת עֶשְׂרֵה` is fused to *eleven* in both v.5 and v.11. Both are recorded as conventions: the log was empty, and a later verse pass reading it alone would otherwise rediscover them.",
+    "Waw connectives (*And/and/but/Therefore/who/so that*), `בְּ`, `לְ` + infinitive, `הָיָה`, `בּוֹא`, `נָתַן`, `שָׂרַף` and `חָמַל` vary only where the ASV varies; each difference is licensed by the English actually written. `בְּיַד` fuses at v.15 while `בְּיָדוֹ` (v.17) and `בְּפִי` (vv.21, 22) split, which is rule 30's one-rendering condition rather than an inconsistency.",
+    "Only two `added` units in the chapter, both wholly supplied lexical verbs under rule 20: *speaking* (v.12) and *put it* (v.22). No supplied word elsewhere was folded into a licensing morpheme — the *also*s of vv.7, 13 and 22 each answer to a written waw or `גַּם`, and every phrasal particle (vv.6, 19, 20, 22, 23) completes a lexeme the bare English verb does not write.",
+    "BSB: none of the fifteen disagreements is a genuine error. Three are `אֶת` under rule 16's majority ruling, nine are prepositions the ASV's recasting silences under rules 40 and 52 (including `לֵאמֹר` under rule 27), and three are articles for which the ASV writes no *the* (*king Nebuchadnezzar* v.10, *great and small* v.18). All are documented convention differences; nothing was changed to move the rate.",
+    "No promotion. The one gap found is rule 41's substantival article, whose text assumes a participle or adjective, where v.20 has it on a noun (`הַשְּׁאֵרִית` → *them that had escaped*). One occurrence, and the supplied corpus tables do not cover `הַ` on a common noun recast as a relative clause, so widening rule 41 on this evidence would make a guess permanent. The verse note already names the competing reading."
+  ]
+}

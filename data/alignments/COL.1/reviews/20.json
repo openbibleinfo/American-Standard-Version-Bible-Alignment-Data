@@ -1,0 +1,12 @@
+{
+  "alignment_sha256": "fa5f1f57cd17f774eba0f0b016d455f0871354b8bc17749ef0b9065c0566a47d",
+  "contract_version": "nt-greek-verse-v94",
+  "notes": [
+    "Reconciliation by claude-code — corrected",
+    "Head correction on s009. The chapter analysed the same construction two ways: a Greek compound verb whose two English words each gloss one of its elements was headed on the verbal core at COL.1.6 and COL.1.10 (karpophoreo -> bearing fruit) and on the incorporated nominal element here (eirenopoieo -> having made peace). Rule 66's compound arm heads the core, so s009 now heads on 'made' (t011). Edges are unchanged; only the target head and the unit's note move.",
+    "Bookkeeping repair 2026-09-07: preserved the existing reviewer and contract provenance after verifying that commit 7c97f0e66 changed only two explanatory notes, relocating the variant-unit attribution from s002 to s016. All source/target partitions, heads, and statuses are identical to the reviewed bytes a28d0f1eb7ae4f22633a47d60981f12c17f7dbd8df18853f1a99e13ffda9c6b4. Evidence: data/audits/corpus-qa-bookkeeping/COL.1.20.diff. No new linguistic review is claimed."
+  ],
+  "ref": "COL.1.20",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

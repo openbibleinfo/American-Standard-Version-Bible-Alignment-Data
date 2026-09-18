@@ -1,0 +1,17 @@
+{
+  "alignment_sha256": "fa4f69783ff24695d8f448ecd64848b2c4e16eca560070b93f630daa3c89ac85",
+  "contract_version": "nt-greek-verse-v61",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Returned unchanged: I re-derived every unit and found nothing to correct. All 17 source ids and all 23 target ids are partitioned exactly once, every aligned unit has nonempty arrays, and every head is a member of its own array.",
+    "s003/s005 is the decisive check and it is settled rather than contested: rule 74 states δοκεῖ … εἶναί τι → 'thinketh himself to be something' verbatim, giving a bare 'thinketh' to the finite verb and the supplied subject to the infinitive. No complementizer is supplied here, so rule 85 does not arise.",
+    "The one materially contested unit remains s014/s016. 'man’s' could in principle be read as a nominal supplied for the article under rule 22, but rule 49's contrast clause scopes that reading to an article whose complement is an adjective or participle; here ἡ governs the expressed noun θρησκεία, so it is attributive, not substantival, and the demonstrative takes the whole expression while the article is emptied by rules 20 and 38. Noted in both units.",
+    "Supplied helpers are placed by licensor rather than adjacency throughout: 'himself' on εἶναι (rule 74), 'while he' on χαλιναγωγῶν (rule 86 — a participle licenses a supplied subordinator, so nothing here is 'added'), 'is' on μάταιος (rules 53/63, the subject being the lexical noun θρησκεία).",
+    "Head choices checked against rule 91's operational test: 'thinketh' for δοκέω, 'bridleth' for χαλιναγωγέω, 'deceiveth' for ἀπατάω and 'vain' for μάταιος are each the word the corpus spends on that lexeme; 'any' over the supplied 'man' and 'this' over the supplied 'man’s' are rule 17's generic-completion clause.",
+    "No noncompositional units: no fused particle cluster, portmanteau or preposition-plus-complement stands in this verse.",
+    "Variants v009 and v010 are underdetermined with the base among the permitted readings and carry no FALLBACK EXCLUDED BY EVIDENCE mark, so rule 97 does not apply and no target token is 'added'."
+  ],
+  "ref": "JAS.1.26",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

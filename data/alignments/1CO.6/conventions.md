@@ -1,0 +1,6 @@
+# 1 Corinthians 6 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- κριτήριον (6:2, 6:4) is recast by the ASV as the infinitival *to judge* together with a supplied generic object noun — *matters* at 6:2, *things* at 6:4 — and both English words belong to κριτήριον, headed on *judge*. The attributive adjective beside it keeps only the words that render it: *smallest* at 6:2, *pertaining to this life* at 6:4. The ASV's gloss notes ('Greek of the smallest tribunals', 'Greek tribunals pertaining to') are what map the words onto the tokens. Substantival βιωτικά at 6:3 is the contrast and keeps *things that pertain to this life* whole, no noun standing to take the supplied nominal.
+- The ASV's discourse-opening *Nay* is given to the strong adversative where one stands and to the inferential particle where none does: 6:8 ἀλλά takes *Nay, but* whole, headed on *but*, and 6:7 οὖν takes the bare *Nay*, the correlative μέν standing unrepresented under rule 70 in both 6:4 and 6:7. Giving 6:7's *Nay* to μέν instead remains defensible and is recorded on that unit.

@@ -1,0 +1,9 @@
+beautifulsoup4==4.12.3
+
+# Only the batch path needs these, and only when it actually talks to a
+# provider. Every other target — preparing, rendering, validating, compiling,
+# and every finishing check — runs without them, so an interactive session
+# path stays available on a machine that has neither installed.
+anthropic>=0.116.0
+openai>=1.60.0
+google-genai>=2.18.0

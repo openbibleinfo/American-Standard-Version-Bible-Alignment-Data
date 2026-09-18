@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "a30e912b8699cc47e3aaee13f90006ea559590e795aaadfbaa332a3967394f86",
+  "contract_version": "nt-greek-verse-v64",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed against the token table and the contract; the accepted alignment is returned unchanged. All 27 source and 41 target ids are partitioned exactly once.",
+    "The four anarthrous `νόμου`/`νόμον` tokens (s014, s017, s020, s025) are analysed alike under rule 24: no Greek article stands to take a determiner, so the supplied *the* is a rule 7 helper on the noun under rule 51's anarthrous clause, and at s025 the case preposition *of* stays with the noun under rule 21's determinerless clause.",
+    "The phrasal *against* at s002, s006 and s013 is kept with the compound verb rather than with the governed genitive. Rule 83's corpus renderings `ἀλλήλοις` → *one to another* and `ἀλλήλων` → *one of another* put a case preposition inside the reciprocal's unit and make the competing reading — *one against another* whole on s003 — defensible; it is refused because s006 and s013 govern `ἀδελφοῦ` and `νόμου` rather than a reciprocal, where *against* can belong to nothing but the verb, and rule 24 requires the three `καταλαλέω` tokens to be analysed alike.",
+    "Heads for the three `καταλαλέω` units sit on the verb word (*Speak*, *speaketh*), not on *against*: rule 104's contrast case, `λαλέω` meaning *speak*, so the verb word glosses the lexeme and the particle only spells the `κατα-` prefix. Rule 84's privative shape is the mirror image and does not reach here, `against` translating a prefix rather than the lexeme.",
+    "s010 is the verse's single `unrepresented` unit, emptied by rule 20 because the free genitive `αὐτοῦ` takes the supplied possessive *his*. A reference comparison may report it as a disagreement; that report is not a correction.",
+    "s005/s006 take the ordinary rule 32 split (*He* / *that speaketh against*) because the ASV writes two English words; rule 90's one-word case does not arise, and no head noun is expressed, so rule 31 does not empty the article."
+  ],
+  "ref": "JAS.4.11",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

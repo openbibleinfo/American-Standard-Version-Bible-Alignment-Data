@@ -1,0 +1,184 @@
+{
+  "alignments": [
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "διὰ τοῦτο spread over words that answer to each token: rule 45's closing clause gives 'for ... cause' to the preposition, headed on the prepositional word (rule 46's contrast), and 'this' to the demonstrative.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t004"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Demonstrative.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Finite verb with its subject pronoun as a rule 7 helper; head on the lexical verb.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "The particle takes the word the ASV wrote for it (rule 65).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Conjunction.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Expressed copula with its supplied subject pronoun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "λειτουργός rendered 'ministers ... service'; the supplied 'service' completes this noun's own English expression and is folded onto it under rule 7, headed on 'ministers', the word that glosses the lexeme (rules 66 and 91). Discontinuous under rule 15.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t015"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Genitive rendered with the English possessive 'God's', the case preposition riding with it under rule 21; head on the possessor word.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Participle rendered by verb plus adverb; head on the verb word.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Preposition rendered 'upon'.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Intensive pronoun rendered by the single word 'very'; rule 107's two-word emphatic does not arise.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Demonstrative expanded with the generic noun 'thing'; rule 17 keeps the head on the demonstrative, as for 'ταῦτα' → 'these things'. Discontinuous under rule 15.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t021"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "ROM.13.6",
+  "review_notes": [
+    "No variant units in this verse.",
+    "s007/s009: giving the 'of' to λειτουργοί and leaving θεοῦ a bare \"God's\" remains defensible; I took rule 21, the 'of' answering to the genitive's own case."
+  ]
+}

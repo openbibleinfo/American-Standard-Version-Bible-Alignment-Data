@@ -1,0 +1,201 @@
+{
+  "alignments": [
+    {
+      "note": "Coordinating conjunction on the verse-opening *and*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Anarthrous dative noun; the supplied *the* is a rule 51/7 helper on the noun it determines, no Greek article competing. Discontinuous with s002's *of a trumpet* under rule 15 (ASV order reverses the Greek).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Genitive noun rendered *of + noun*; rule 17 heads on the noun, and the anarthrous *a* rides along as a rule 51 helper.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Second coordinating conjunction.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Anarthrous dative noun with supplied determiner, as at s003.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Genitive noun rendered *of words*, headed on the noun under rule 17.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Relative pronoun on *which*. The following *voice* is not its supplied nominal under rule 77 but a repetition of the antecedent already spent on t009, so rule 103 marks it `added` separately.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Repeated antecedent inside a finite relative rendering: `φωνῇ` is already realized at t009 (*the voice*), so this second *voice* has no source token left to license it and is `added` under rules 5 and 103, as 2CO.3.7 has it. Reading it as a discontinuous second realization of s005 under rule 15 remains defensible.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Substantival article before a participle: rule 32 gives it the pronoun *they* and nothing else.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Participle rendered as a finite relative clause; the relativizer *that* is its rule 7 helper under rules 31/32, headed on the verb.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Finite verb on *entreated*. The complementizer *that* goes to the expanded infinitival complement under rule 85, not to this governing verb.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Negator on *no*. `λόγον` is a plain noun, not a negative indefinite, so rules 41 and 59 do not empty the particle; the ASV writes two English words (*no* and *word*), so rule 39's joining test does not apply either and the pair splits under rule 2. Variant SBLGNT.HEB.12.19.v012 is underdetermined and the projection's r00-base reading is among those the English permits, so rule 97 is not in play.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Accusative noun on the bare *word*, the negation staying with s011.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Passive infinitive expanded into a finite clause: the supplied complementizer *that* belongs to it under rules 40 and 85, and *should be* are rule 7/9 helpers. Headed on the lexical verb *spoken*; heading on *more* is defensible, since *more* is what carries the additive `προσ-` sense while *spoken* is the ASV's contextual verb, but rule 17's lexical-predicate choice takes the verb word here. Discontinuous under rule 15.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t021",
+        "t022",
+        "t023",
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Dative pronoun with its case preposition; the ASV supplies no determiner, so rule 21's determinerless clause keeps *unto* on the pronoun.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t025",
+        "t026"
+      ],
+      "target_head": "t026"
+    }
+  ],
+  "ref": "HEB.12.19",
+  "review_notes": [
+    "Every s### and t### id partitioned exactly once; 14 source and 26 target tokens accounted for.",
+    "t013 (*voice*) is the only `added` unit, licensed by rule 103's repeated-antecedent case rather than rule 77's supplied-nominal case; the note concedes the rule 15 reading.",
+    "Heads reviewed separately from edges per rule 28: genitive `of + noun` units head on the noun (t006, t011), the participle heads on *heard* rather than the relativizer, and the expanded infinitive heads on *spoken* rather than the auxiliary.",
+    "s011 `μή` kept `aligned` on *no*: rules 41/59 empty a negator only before a second negative word, and `λόγον` is not one.",
+    "No new textual decisions made; the underdetermined variant carries no FALLBACK EXCLUDED mark, so rule 97 does not apply."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "chapter": "JOB.12",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Surplus-particle line for this chapter's verbs of removal and leading: 'away' stays with sur hiphil (12.20 removeth, 12.24 taketh away), halak hiphil (12.17, 12.19 leadeth away) and laqach (12.20 taketh away), read as completing the removal the Hebrew verb writes in context; 'again' for niphal banah (12.14) and 'captive' for nachah hiphil (12.23) are added, because 'be built' and 'leadeth' already write the lexeme and nothing in the clause writes the repetition or the result. Competing reading for 12.20 laqach marks 'away' added.",
+    "A verbless presentative colon with a negative and no verb (12.24 lo-darekh → 'there is no way') puts the whole 'there is no' on lo, headed on no, by rule 50's reasoning for ayin; where the clause has a verb (12.14 'there can be no opening') the frame goes to the verb and lo keeps 'no', and where it has no negative (12.5 'there is contempt') the frame goes to the predicate noun under rule 20.",
+    "Gapped preposition in a parallel colon (12.12 ve'orekh yamim tevunah → 'And in length of days understanding'): the ASV's 'in' is a different word from the 'With' written for the first colon's beth, so it is not rule 25's repeated distribution; it goes to the bare nominal under rule 33."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v218",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 25 verses end to end against the 24-lemma candidate table, including the five added units the table cannot see (12.4 'as one that is', 12.6 'abundantly', 12.14 'again', 12.23 'captive', 12.24 'where'). No construction is analysed two ways with nothing in the source to license the difference.",
+    "Waw: every treatment is read off the ASV's own connective (Then/and, And/Yea, Even as, Again, without fused with lo under rule 35); the 12.7 waw before ulam is the rule 14 one-word-for-a-pair case and goes unrepresented, not the fusion.",
+    "Presentative frames: 12.5 'there is contempt' sits on the predicate noun (no negative in the clause), 12.14 'there can be' on the finite verb with 'no' left to lo (rule 35 two-word case), 12.24 'there is no' on lo as the verbless clause's predicating negative (rule 50 reasoning). Each is licensed by what stands in its clause; the 12.24 tie with putting the frame on derekh is named in the unit note.",
+    "Surplus particles: 'again' (12.14 niphal banah) and 'captive' (12.23 nachah) are added because the bare English verb already writes the lexeme and nothing in the clause writes the repetition or result; 'down', 'up', 'out', 'away' (12.14, 12.15, 12.17, 12.19, 12.20, 12.22, 12.24) complete a lexeme the bare verb does not write and stay with the verb. 12.20 laqach → 'taketh away' is the borderline and is recorded as a convention.",
+    "Prepositional predicates (12.10, 12.12, 12.13, 12.16) take the copula on the preposition under rule 49; 12.16 'are his' fuses the lamed with its suffix under rule 49's genitive case, 12.13 'He hath' splits under rule 43 — both follow the ASV's rendering. 12.12 second colon gives the supplied 'in' to the bare nominal orekh under rule 33 rather than distributing the first colon's beth, because the ASV wrote a different word ('With' vs 'in') and rule 25's distribution wants a repeated one.",
+    "BSB disagreements: all ten are documented convention differences — object suffix left bare by 'he answered' (12.4), prepositions silenced by promotion or possessive recasting (12.6, 12.7, 12.11, 12.14, 12.15, 12.18, 12.23), and the waw of ve'ulam. None is an error.",
+    "No rule taught here generalises beyond what the contract already says; no promotions or amendments."
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "chapter": "1SA.31",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "1SA.31.9"
+  ],
+  "rejected": {},
+  "conventions": [
+    "The bare recipient of piel בִּשַּׂר ('carry the tidings unto X') is the verb's direct object, not a goal accusative: the supplied 'unto' joins the verb's unit under rule 44's supplied-preposition clause (head stays on 'tidings'), while a marker on a coordinated recipient takes its own 'to' under rule 16. Contrast v10's בֵּית עַשְׁתָּרוֹת, a locative accusative of שׂים, where 'in' is the noun's under rule 33.",
+    "Where the ASV writes a coordinator for גַּם standing with no waw before it (גַּם כָּל־אֲנָשָׁיו → 'and all his men'), the additive particle is the morpheme that licenses the word under rule 11 and takes it; it is not marked added under rule 14's asyndeton sentence. Where a waw does stand with גַּם, the waw takes the connective and גַּם takes the 'also'/'likewise' written for it, as in v5."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Cross-verse check: all 27 candidate lemmas read; every difference in treatment is licensed by the ASV's own wording (apodosis waws unrepresented in v5/v7/v12 and carrying the frame's 'that' in v8; 'And when' pairs headed on And in v5/v7/v11; article on Gilboa unrepresented in v1/v8 against a written 'the' for the Jordan in v7; directive he taking 'to' in v12 and silenced by the בְּ's 'in' in v13). No cross-verse split found.",
+    "One within-verse correction, 1SA.31.9: בַּשֵּׂר's bare recipient בֵּית עֲצַבֵּיהֶם is the verb's direct object (the coordinated אֶת־הָעָם is marked, and 1CH.10.9 writes אֶת on both), so the supplied 'unto' is the verb's under rule 44's supplied-preposition clause, not the noun's under rule 33; the marker on the second recipient keeps 'to' under rule 16. Patched; both prepositions now answer to the same object relation.",
+    "BSB disagreements: all convention. Td×6 is BSB attaching the article to its noun; v3 אֲנָשִׁים/בַּ/קָּשֶׁת is the ASV omitting 'men with the bow' outright; v4 בִ and v6 בַּ are ASV recastings that leave the preposition nothing (rule 40); v5/v7/v12 waws are apodosis connectives the ASV does not write; v13 Sd is the directive he beside a בְּ that took 'in'. No genuine error.",
+    "Repeated unit notes ('Rule 16', 'Rule 29', etc.) are restatements of contract rules and need no convention; two chapter judgments recorded. No promotion or amendment: the chapter teaches nothing the contract does not already say."
+  ]
+}

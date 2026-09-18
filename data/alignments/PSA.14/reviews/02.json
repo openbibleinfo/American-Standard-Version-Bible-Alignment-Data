@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "dd69c4689745a6aaf3794e335df64975b3197d6da21e0bdc5b9c07b0e75ed3d9",
+  "contract_version": "ot-hebrew-verse-v2",
+  "notes": [
+    "Independent review by claude-opus-5 — annotated",
+    "Reviewed and left unchanged: every s### and t### is partitioned exactly once, all statuses have well-formed heads, and no unit merges morphemes that license separate English.",
+    "Checked the three points where the ledger could plausibly differ: (a) t016 any as predicate of יֵשׁ rather than part of the expanded participle, (b) t023 after as a realization of אֵת rather than of the phrasal seek after, (c) הֲיֵשׁ read as one fused interrogative-existential unit. Each is flagged medium in situ; the accepted analysis keeps the smaller defensible units and is retained.",
+    "Heads verified independently of unit edges per rule 24: looked over down, children over the, men over of, understand over any/that/did, seek over That/did/after.",
+    "s006 takes the supplied the without an article token because a construct noun cannot be articular (rules 15, 29); no added unit is warranted here.",
+    "s008 is aligned rather than unrepresented: unlike לֵאמֹר, this infinitival לְ is actually realized by To."
+  ],
+  "ref": "PSA.14.2",
+  "status": "reviewed"
+}

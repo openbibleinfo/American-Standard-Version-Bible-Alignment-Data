@@ -1,0 +1,26 @@
+{
+  "chapter": "PSA.88",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Title: עַל → set to is one unit on the preposition headed on set (rule 24 fixed phrase); לְעַנּוֹת → Leannoth fuses the preposition and the infinitive as one transliterated rendering (rule 30). Margin 'for singing' read and set aside.",
+    "מִנֹּעַר → from my youth up: the fixed from … up belongs whole to the מִן, discontinuous under rule 25; the possessive my is added (no suffix). Marking up added was the competing reading and is named in the note."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 19 verses end to end against the candidate table and the dump. Every multi-treatment bucket is the ASV rendering one morpheme differently in different contexts (my/me/mine for the 1cs suffix; in/among/of/unrepresented for בְּ by what the ASV wrote; upon/over/unrepresented for עַל; laid/made for שִׁית; presence/face for פָּנֶה). None is a construction analysed two ways.",
+    "Checked the pairs most likely to hide a split: בְּכָל־יוֹם → daily (88.9, three morphemes fused under rules 22/30) against כָּל־הַיּוֹם → all the day long (88.17, each morpheme holding its own word) — both correct on their own English; הִרְחַקְתָּ → put far headed on far in 88.8 and 88.18 — consistent; construct-chain recta recast with a preposition (88.4 into the pit, 88.5 in the grave) — consistent under rule 19; the two explicit-pronoun clauses (88.13, 88.15) both give I to אֲנִי and leave the verb its auxiliary and lexical verb.",
+    "Read the eight added units as a set: and (88.1, 88.10), Or (88.11), And (88.18) for asyndetic cola; me (88.7) with no object suffix; my (88.15) with no suffix on נֹעַר; While (88.15) for an asyndetic clause; that (88.4) over a juxtaposed existential clause with no relative morpheme. Each answers to no morpheme, and none is folded elsewhere in a sister verse.",
+    "BSB disagreements (3): 88.1 בַ (ASV writes night bare, rule 40), 88.5 resumptive object suffix ם (Whom already carries the resumption, rule 22), 88.17 עָלַי (object promoted to bare me, rule 40). All three are documented convention differences; none is an error.",
+    "The one large-source unit, 88.9 daily, is a genuine one-word fusion of preposition, quantifier and noun and is correctly headed on יוֹם.",
+    "Two chapter judgments recorded as conventions: the title's set to headed on set with Leannoth fused, and from … up on the מִן of 88.15. No promotions or amendments: nothing here generalises beyond what the contract already says."
+  ]
+}

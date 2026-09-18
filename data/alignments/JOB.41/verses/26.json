@@ -1,0 +1,145 @@
+{
+  "alignments": [
+    {
+      "note": "Supplied conditional subordinator for a clause with no conjunction morpheme in it (rule 55).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Participle recast as a finite clause with an indefinite subject pronoun; the supplied 'at' reaches the verb's own object suffix and belongs to the verb's unit (rule 44).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Object suffix.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Instrumental accusative: the supplied 'with' and 'the' belong to the noun whose case-function licenses them (rules 15, 33).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Verb with its subject pronoun, discontinuous around 'cannot' (rules 17, 25).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Negative substantive fused with the supplied modal into 'cannot' (rule 35).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "No conjunction and no negative morpheme stands before `חֲנִית`; this 'Nor' answers to nothing (rules 14, 30).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Supplied article joins the noun it determines (rule 15).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Supplied article joins the noun (rule 15).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Waw fused with a gapped negative into 'nor' (rule 35).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Noun with a supplied article and specifier; head on the word carrying the lexeme (rules 15, 31). The ASV notes 'coat of mail' as an alternative rendering.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    }
+  ],
+  "ref": "JOB.41.26",
+  "review_notes": [
+    "Two 'nor's against one waw: the second is the waw's under rule 35 and the first is `added`, by rule 42's counting reasoning."
+  ]
+}

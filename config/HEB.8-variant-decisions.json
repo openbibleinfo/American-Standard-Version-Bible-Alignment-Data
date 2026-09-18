@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "chapter": "HEB.8",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.HEB.8.2.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'which the Lord pitched, not man' renders the negation but supplies no connective either way; the ASV routinely leaves a coordinating kai unrendered before a contrasting phrase, so the English does not distinguish ouk from kai ouk. No note is mapped here (the 'Or, holy things' note is an alternative_rendering about ton hagion). Base fallback carries the projection."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.8.4.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV opens the verse 'Now if he were on earth', the transitional rendering it gives oun; gar would have produced 'For', which is the ASV's regular equivalent for that particle. The English wording distinguishes the reading."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.8.4.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'seeing there are those who offer the gifts according to the law' with no noun subject; the added ton hiereon would have appeared as 'the priests that offer the gifts', a word the ASV supplies nowhere in the verse and does not italicize. The absence of 'priests' distinguishes the shorter reading."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.8.4.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Both readings differ only in the Greek article after the preposition kata, and the ASV renders 'according to the law' either way, since English requires the definite article with 'law' here. No mapped note addresses it. Base fallback carries the projection."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.8.6.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "nuni and nun are the same adverb, emphatic and plain, and the ASV's 'But now hath he obtained' translates either without distinction. No mapped note bears on it. Base fallback carries the projection."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.8.8.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The ASV text reads 'For finding fault with them, he saith', taking the pronoun as the accusative object of memphomenos; its mapped textual_variant note, 'Some ancient authorities read finding fault with it, he saith unto them', assigns the dative construction to the alternative it did not follow. Text and note together fix the accusative autous."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.8.11.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'From the least to the greatest of them', with a single possessive attached to the second member, matching the base where auton stands only after megalou. The added auton after mikrou would have given a possessive on both members ('from the least of them to the greatest of them'). The English wording distinguishes the shorter reading."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.8.12.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders only two members, 'merciful to their iniquities, And their sins will I remember no more'; the added kai ton anomion auton would have produced a third clause ('and their iniquities will I remember no more'), which the ASV does not print in text or note. The absence distinguishes the shorter reading."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "alignments": [
+    {
+      "note": "Adversative δέ rendered by the verse-opening But; the ASV's placement of the connective ahead of now is ordinary English word order, permitted under rule 15. Kept separate from νῦν rather than joined as a νῦν δέ idiom, since rule 2 prefers the smallest defensible unit and both words are independently recoverable.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Temporal adverb νῦν → now.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Inflected finite verb takes its supplied English subject pronoun under rules 7 and 9; rule 17 heads on the lexical verb glory, not on ye.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Preposition ἐν → in, realized by the English preposition governing the phrase (rule 36). Rule 21 does not arise: ἐν is expressed, so no case preposition is riding on the article.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Rule 20 proper: the genitive pronoun ὑμῶν stands free in the phrase and carries the English possessive your, so the article's determiner slot is displaced and it realizes nothing. Rule 76's availability test is satisfied — ὑμῶν has no other English role in this verse, so the second arm that would give the article the possessive does not apply.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "ἀλαζονείαις → vauntings, standing bare; the preposition is already on ἐν and the possessive on ὑμῶν.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Genitive pronoun rendered by the possessive your (rule 20).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Quantifier πᾶσα → all. Rule 87 does not apply: no negator stands in the clause, so there is nothing for the quantifier to join. Rule 80 is likewise out, no substantival article being present.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Attributive demonstrative τοιαύτη → such, modifying the expressed head noun καύχησις. The phrase is anarthrous, so rules 38 and 49 raise no question about an article; the ASV's fronting of such before glorying is permitted reordering under rule 15.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "καύχησις → glorying, the cognate noun to καυχᾶσθε → glory above. Split from πᾶσα and τοιαύτη under rule 26, all three English words being independently recoverable.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "The copula is expressed in Greek, so rules 53, 63 and 68 do not arise: ἐστιν is aligned to its own English is and the predicate adjective stands alone.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Predicate adjective πονηρά → evil; it takes no copula of its own because ἐστιν is expressed and has taken is.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    }
+  ],
+  "ref": "JAS.4.16",
+  "review_notes": [
+    "Returned unchanged: the accepted alignment partitions all 12 source and 12 target ids exactly once and I found no unit I would decide differently. Notes were expanded where the competing reading was worth naming for a later reader.",
+    "s005 is the only judgment call of any weight. The article is unrepresented under rule 20 proper because ὑμῶν is present and unspent and takes your. Rule 76's second arm would hand the article the possessive only if ὑμῶν had already been spent on some other English word; it has not.",
+    "s008/s010/s009 stay split rather than bundled as one noun phrase: rule 26 forbids merging a compositionally transparent phrase, and all three English words are independently recoverable. Rules 87 and 80 were both checked and neither reaches this clause — no negator, no substantival article.",
+    "Because ἐστιν is expressed, the whole supplied-copula chain (rules 53, 62, 63, 68, 96) is inapplicable; πονηρά takes only evil.",
+    "Heads follow rule 17: glory over ye for the finite verb, and the quantifier and demonstrative head themselves, no generic noun being supplied for either (so rule 17's generic-noun clause and rule 49 do not bear)."
+  ]
+}

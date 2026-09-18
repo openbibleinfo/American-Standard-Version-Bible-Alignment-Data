@@ -1,0 +1,6 @@
+# Jeremiah 10 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- מֵאֵין כָּמוֹךָ (vv. 6, 7): the ASV's 'There is none like unto thee' spends nothing on the מִן, so it is its own unrepresented unit under rule 40, while אַיִן carries the presentative dummy and the copula and heads on 'none' under rule 50, and כְּמוֹ takes 'like unto' headed on 'like' (rule 24). BSB represents the מִן in both verses; that is the documented convention difference and not a correction.
+- 'cannot' (v5, twice) is one English word fusing the negation with a modal English supplies for the imperfect, and it goes whole to לֹא while the verb keeps its subject pronoun and lexical verb ('they' + 'go'), as rule 48 already gives such a word to the privative מִן that carries the negation there. No verb of ability stands in either clause. Where the ASV instead writes the negation and the modal as separate words — v10's 'are not able to abide' for לֹא יָכִלוּ, whose verb is כּוּל and not יָכֹל — rule 2 splits them, לֹא takes only 'not', and the rest is the verb's under rule 44. The difference is read off the English the ASV wrote, not off the Hebrew's modality.

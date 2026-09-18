@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "33c39beb8e39d75f370369d2340e78436071e8d75e8924ce38d0547aa8f192bc",
+  "contract_version": "ot-hebrew-verse-v64",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: 17 units cover all 18 source (s015+s018 fused) and 22 target ids exactly once.",
+    "`אֲשֶׁר ... שָׁם` is fused into the single word *whither* under rules 30 and 35 rather than aligning the relative and marking `שָׁם` unrepresented under rule 22, since the English word carries both morphemes' sense; the head is on `שָׁם`, and the competing reading heads it on the relative.",
+    "*Even thus* is kept as one unit on `כָּכָה` under rule 30, no other morpheme standing beside it; the competing reading marks *Even* `added` under rule 30's reserve clause."
+  ],
+  "ref": "EZK.4.13",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

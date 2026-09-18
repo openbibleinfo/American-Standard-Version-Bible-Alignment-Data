@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "chapter": "2KI.7",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2KI.7.12.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Ketiv בהשדה writes the article after the preposition; qere בַשָּׂדֶה contracts it. Both mean 'in the field', which is exactly what ASV renders; no italic supply or textual note is mapped. Retain qere base fallback."
+    },
+    {
+      "unit_id": "WLC.2KI.7.13.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Ketiv ההמון carries an explicit article; qere הֲמוֹן is construct before יִשְׂרָאֵל. ASV 'all the multitude of Israel' is the same English for either; the only note (hebrew_gloss 'in it') concerns a different word. Retain qere base fallback."
+    },
+    {
+      "unit_id": "WLC.2KI.7.15.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Ketiv בהחפזם spells the infinitive with ה after the preposition; qere בְּחָפְזָם contracts. Both mean 'in their haste', which ASV renders without italics or a mapped note. Retain qere base fallback."
+    }
+  ]
+}

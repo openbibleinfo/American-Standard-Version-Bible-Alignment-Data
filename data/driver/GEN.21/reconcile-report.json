@@ -1,0 +1,36 @@
+{
+  "chapter": "GEN.21",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "GEN.21.2",
+    "GEN.21.16",
+    "GEN.21.17",
+    "GEN.21.28"
+  ],
+  "rejected": {
+    "GEN.21.13": "The fronted H853 marker legitimately carries the object-relation 'of'; the resumptive suffix is unrepresented because ASV writes no separate object pronoun.",
+    "GEN.21.23": "The paragogic he is correctly unrepresented.",
+    "GEN.21.29": "The source pronoun is resumptive and the explicit demonstrative supplies 'these'.",
+    "GEN.21.30": "The discourse conjunction and fronted H853 marker have no separate ASV rendering.",
+    "GEN.21.31": "The naming construction recasts the prepositional complement as a bare object."
+  },
+  "conventions": [
+    "In an arthrous construct chain, assign of to the nomen rectum and the to its article; do not assign of to the article.",
+    "A wholly supplied lexical verb in a verbless clause is added; a neighboring preposition with no English relation word remains unrepresented."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v39",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read the complete 647-unit chapter dump, the 61-lemma candidate table, all supplied-English constructions, and every named BSB disagreement through bounded read-only investigations.",
+    "Corrected four verses: aligned the reordered explicit subject Sarah directly in 21.2; restored rule 19/29 ownership of 'of' and 'the' in construct chains at 21.16 and 21.28; and made the wholly supplied lexical verb 'aileth' added while leaving its preposition unrepresented at 21.17.",
+    "The remaining candidate differences are licensed by Hebrew morphology, syntax, or differing ASV renderings. The named BSB disagreements other than Sarah are convention differences, not errors.",
+    "No contract promotion: the corrections are already governed by rules 19, 20, 25 and 29 of ot-hebrew-verse-v39. Two chapter conventions were recorded for the real consistency splits; repeated notes that merely restate the contract were not added.",
+    "After recompilation the chapter has 647 units covering all 651 source and 782 target tokens; all 34 review receipts name ot-hebrew-verse-v39, and the full finishing pipeline passed."
+  ]
+}

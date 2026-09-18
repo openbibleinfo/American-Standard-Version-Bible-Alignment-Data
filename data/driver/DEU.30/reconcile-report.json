@@ -1,0 +1,26 @@
+{
+  "chapter": "DEU.30",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "אֲשֶׁר … שָׁמָּה is aligned throughout this chapter as one three-morpheme unit rendered 'whither', headed on the relative under rule 22, however much of the clause stands between the two: DEU.30.1, DEU.30.3, DEU.30.16, DEU.30.18. Where such a clause also writes a verb of motion that the ASV renders with a phrasal particle — בָא שָׁמָּה → 'goest in' (30.16), לָבֹא שָׁמָּה → 'to go in' (30.18) — the 'in' is the English verb's own particle and stays with the verb under rule 44. It is not a second word written for the directive he, whose sense the fused 'whither' already carries. Rule 32 lists 'in' among the words a directive he may take, so both rules reach that English word; this chapter reads it as the verb's in every occurrence, and the competing reading is named in the review notes of DEU.30.18."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v139",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 35 candidate lemma groups. Every bucket with more than one treatment traces to a difference the source licenses, not to a split: שָׁמַע reads 'obey' where the ASV promotes the object of בְּ and 'hear' where it does not (30.2, 8, 10, 17, 20); שׁוּב reads 'return', 'turn', 'call ... to mind' and the auxiliary 'will again' as the ASV writes them (30.1, 2, 3, 5, 8, 9, 10); עַל reads 'upon', 'over', 'on', 'in' off the English; and לְ before an infinitive takes a written 'to', a written 'that', or nothing, exactly as rule 52's count directs (30.6, 9, 10, 12, 13, 14, 16, 18, 20).",
+    "The four אֲשֶׁר … שָׁמָּה clauses (30.1, 30.3, 30.16, 30.18) are aligned identically as one three-morpheme 'whither' fusion under rule 22, and 30.16 and 30.18 agree in giving the 'in' of 'goest in' / 'go in' to the English verb as a phrasal particle under rule 44 rather than to the directive he. That is the one place in the chapter where rule 32 and rule 44 both reach the same English word, so it is recorded in the conventions log.",
+    "The four שָׁמַע בְּקוֹל clauses (30.2, 30.8, 30.10, 30.20) all leave the בְּ unrepresented under rule 40, and the chapter's other rule-40 recastings agree: הִשְׁתַּחֲוָה לְ in 30.17, בָּחַר בְּ in 30.19, and לָתֵת לָהֶם in 30.20, which is rule 40's own תְּנָה לִּי case with the suffix taking 'them'.",
+    "The parallel rhetorical questions of 30.12 and 30.13 match morpheme for morpheme through 'make us to hear it, that we may do it', including the purpose waw taking the written 'that' in both and the object marker going unrepresented beside its suffix. The one difference — 30.12 puts the copula on בַ alone, 30.13 on the fused מֵעֵבֶר — is licensed: in 30.13 the preposition and construct noun share one English word under rule 30, so the copula joins that single unit under rule 49 rather than standing beside an unrepresented preposition.",
+    "The table is blind to `added` units, so I read the dump for supplied English folded into a licensing word. The three `added` units — 30.1 'them', 30.18 'your', 30.19 'that' — each answer to no morpheme (no object suffix on וַהֲשֵׁבֹתָ, no suffix on יָמִים, no conjunction in the clause 'that I have set'), and no comparable supplied word elsewhere in the chapter is folded into a neighbour: every supplied 'the' sits on a construct noun under rule 29, every supplied subject pronoun and modal sits on its own verb under rules 17 and 52, and every possessive in the chapter has a suffix behind it.",
+    "Determiner counts in demonstrative phrases were checked verse by verse and agree. הַדְּבָרִים הָאֵלֶּה (30.1), הָאָלוֹת הָאֵלֶּה (30.7) and הַמִּצְוָה הַזֹּאת (30.11) each write one English determiner, which the demonstrative takes, leaving both articles unrepresented; סֵפֶר הַתּוֹרָה הַזֶּה (30.10) writes two, so under rule 29's arthrous count the rectum's article takes the 'the' and only the agreement article is unrepresented.",
+    "BSB: all 30 disagreements are documented convention differences, none a genuine error. The Td × 16, To × 3 and Sn × 2 rows are the standard article, object-marker and paragogic-nun conventions; the R × 6 and Rd × 2 rows are the rule-40 recastings listed above; and the single Sp2ms row, DEU.30.1 ךָ of לְבָבֶךָ, is correct as unrepresented because the ASV writes 'to mind' with no possessive at all."
+  ]
+}

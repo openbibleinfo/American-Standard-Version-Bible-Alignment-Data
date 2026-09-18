@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "b1aa57d65574fa7ae979833d2c67e4364f67b4caa810e59a3aea8f570e9117ef",
+  "contract_version": "nt-greek-verse-v64",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed the accepted alignment and judged it correct; returned unchanged. The prior rejection was a partition failure in my own output, not a defect in the accepted alignment: s008 (καί) and t010 (*and*) had been dropped and are restored here as their own aligned unit.",
+    "Partition check: 20 units covering s001–s021 (s009+s010 joined) and t001–t023, each id exactly once; only s018 has an empty target.",
+    "οὐ δύνασθε is the contract's own rule 39 example and stays `aligned` as one unit on *cannot*, source head on δύνασθε; the competing reading — *not* to οὐ with nothing left for the modal — is unavailable because the ASV wrote one word, and rule 41 does not apply since no negative indefinite stands here.",
+    "The four second-person verbs whose English carries a supplied *ye* (ἐπιθυμεῖτε, φονεύετε, μάχεσθε, ἔχετε at s016) take that pronoun as a rule 7/9 helper and head on the lexical verb per rule 17. πολεμεῖτε gets no pronoun because the ASV writes none.",
+    "διὰ τὸ μὴ αἰτεῖσθαι ὑμᾶς is analysed under rule 61: *because* to διά as the whole clause-introducer, the nominalizing article `unrepresented`, and the expressed accusative subject ὑμᾶς on its own *ye* — rule 74 covers only a subject Greek leaves unexpressed.",
+    "No `added` unit is warranted: every English token has a source word licensing it."
+  ],
+  "ref": "JAS.4.2",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

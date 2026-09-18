@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "3cd8f24f6107c37484f9e2ed4eb0546238134edb5a50a7688dc4063135c0bc4e",
+  "contract_version": "ot-hebrew-verse-v68",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "Corrected one unit: כְּעֵין → *was like unto* is now a single fused unit over s027 and s028 rather than a כְּ unit carrying *like unto* beside an `unrepresented` עַיִן. Rule 30 states the whole expression is one unit headed on the morpheme carrying the lexeme, rather than one rendered morpheme beside others marked unrepresented, and its subtraction test shows no morpheme owns *unto*.",
+    "All other 28 units stand as accepted; partition re-verified after the merge: 30 source ids across 29 units and all 33 target ids used exactly once.",
+    "Two articles on *cherub* remain unrepresented because the ASV writes *one cherub* and *another cherub* with no *the* (rule 29).",
+    "Recorded head-only corrections from headword-candidates were applied on 2026-09-08T14:32:02.534003+00:00. Prior full-review coverage is carried forward for unchanged content; only the approved head delta and associated note explanations changed. Original review and alignment hash e4e62ed90479d648d0c1c7dbdfe5b0be47c1d330314755aff161843b10525bdb are archived under data/audits/headword-candidates/before-application/. Strong-model pattern-assessment and application evidence: data/audits/headword-candidates/applications/EZK.10.9.json. No new full-verse review is claimed."
+  ],
+  "ref": "EZK.10.9",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

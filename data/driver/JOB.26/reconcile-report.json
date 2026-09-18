@@ -1,0 +1,25 @@
+{
+  "chapter": "JOB.26",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The hymnic participles of vv.7–9 (נֹטֶה, תֹּלֶה, צֹרֵר, מְאַחֵז) carry no subject morpheme, and the divine referent is written in this chapter only as the suffix of נֶגְדּוֹ in v.6, which the ASV renders 'God'. Rule 10 keeps that nominal inside v.6, so the ASV's supplied 'He' is its own added unit in each of vv.7, 8 and 9 (rule 25's מֵקִים example), while the finite verbs of vv.10 and 12 take their 'He' under rule 17. The supplied 'And' before the second, asyndetic participle in vv.7 and 9 is likewise added under rule 14.",
+    "The rhetorical 'him that hath no wisdom' / 'him that is without power' / 'the arm that hath no strength' of vv.2–3 render לְלֹא + noun and a construct chain with לֹא + noun. The supplied antecedent and relative (with a supplied 'hath' where the ASV writes one) are one added unit under rule 2's נָצְרוּ דָעַת pattern; the dative לְ is unrepresented under rule 40; the negative takes the word the ASV writes for it ('no', or 'is without' with the construction copula under rule 20); and the noun keeps only its own word. The rule 46 headless-clause reading was considered and not taken, since the ASV wrote a lexical antecedent (him, the arm) rather than a bare noun-phrase frame."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 12 candidate lemmas. Every multi-treatment bucket is the ASV rendering one word differently (Then/and for waw in v.1; his/him/God/thereof/them for suffixes by referent and recasting; the waters vs of the waters by construct position; How/How How by the ASV's rewriting of the exclamative over both cola in v.2 but not v.3). No construction is analysed two ways with nothing in the source to license the difference.",
+    "Read the dump end to end for added units, which the table cannot see. The supplied subject He of the hymnic participles is added in vv.7, 8 and 9 alike; the finite verbs of vv.10 and 12 take their He under rule 17; the supplied And before the asyndetic second participle is added in both v.7 and v.9; the supplied antecedent-and-relative over לְלֹא + noun / noun + לֹא + noun is one added unit in v.2 (twice) and v.3, with the dative לְ unrepresented and the negative taking the word written for it (no / is without). All consistent.",
+    "BSB disagreements: לְ at 26.2 and 26.3 (dative left bare by the relative recasting, rule 40), לָ at 26.6 (possessive לְ silenced by 'hath no', rules 40/43) are documented convention differences. דָּבָר at 26.14 is a judgment call rather than an error: the ASV writes 'a whisper' for שֵׁמֶץ alone at Job 4:12, so 'whisper' is that noun's word, 'small' is its supplied modifier under rule 31, and no English word answers to 'of a word'; fusing the chain under rule 30 was the competing reading and is named in the note. No edge changed.",
+    "Two repeated notes: the participle-subject one is a chapter-wide judgment and is recorded as a convention below; 'Supplied the on the construct' merely restates rule 29 and is not recorded.",
+    "Nothing here generalises beyond what rules 2, 20, 25 and 40 already say; no promotions or amendments."
+  ]
+}

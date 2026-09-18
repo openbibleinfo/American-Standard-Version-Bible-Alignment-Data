@@ -1,0 +1,215 @@
+{
+  "alignments": [
+    {
+      "note": "",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Supplied copula rides with the verb's own English (rules 7, 9).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Case preposition rides with the pronoun (rule 21).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Determiner displaced by *your* on ὑμῶν (rule 20).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Genitive relative expanded by the generic noun *things*, which takes the head (rule 77); the *of* realizes the genitive's own case and rides with it, stranded at the end of the English clause and so discontinuous (rules 15, 21), as MAT.6.32 gives the same *of* to ἁπάντων. Reading the *of* as licensed by the English noun *need* and so belonging to χρείαν remains defensible, but rule 21's support-frame exception is scoped to a supplied frame noun over an accusative and does not reach an expressed noun with a genitive complement.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t016"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "The pair χρείαν ἔχετε spells both its elements out, so it splits like any other (rule 73); the noun keeps a bare *need*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Nominalizing article of the articular infinitive (rule 61).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Expressed subject of the infinitive takes the English subject word (rule 74).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    }
+  ],
+  "ref": "MAT.6.8",
+  "review_notes": [
+    "*of* moved from χρείαν to ὧν, reconciling this verse with MAT.6.32, where the identical *have need of* + genitive puts *of* on the genitive. Rule 21's genitive arm decides both; its support-frame exception wants a supplied frame noun over an accusative and neither condition holds here.",
+    "The head is unchanged: rule 77 keeps it on the supplied generic noun *things* rather than on the relativizer, and adding the stranded preposition to the unit does not bear on that choice.",
+    "χρείαν ἔχετε stays split under rule 73, the ASV spelling both elements out as *have* and *need*; the collapsed arm of that rule is not in question."
+  ]
+}

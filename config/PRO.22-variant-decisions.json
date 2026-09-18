@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "chapter": "PRO.22",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PRO.22.3.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'and hideth himself' renders a reflexive/passive 'hide' either way: the qere w-nistar and the defective ketiv wysrt (readable as wayyissater, niphal) yield the same English, and the only ASV note on the verse is a hebrew_gloss on 'suffer for it' at the end of the line, which does not touch this lemma. Nothing in the English distinguishes the perfect-with-waw from the imperfect-with-waw, so the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.PRO.22.8.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The two readings differ only in defective yiqtsar versus plene yiqtsor spelling of the same verb; ASV 'shall reap' is the same English for both. The verse's single note is classed alternative_rendering ('Or, vanity', on 'calamity') and by policy never decides a reading. Underdetermined; base qere retained."
+    },
+    {
+      "unit_id": "WLC.PRO.22.11.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text reads 'He that loveth pureness of heart', an abstract construct noun (tehor-lev, qere tehar) governed by 'loveth'; the ketiv tahor is the adjective 'pure', which the ASV prints only in the margin as the textual_variant note 'Another reading is, the pure of heart'. The note is explicitly mapped to this unit and classed textual_variant, and it names the ketiv as the reading not adopted, so the ASV rendered the qere in its text."
+    },
+    {
+      "unit_id": "WLC.PRO.22.14.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Defective yippal versus plene yippol of the same verb; ASV 'shall fall therein' renders either identically. The verse's only note is classed alternative_rendering ('Or, against whom Jehovah hath indignation') and concerns the preceding clause's English wording, not this lemma. Base qere retained."
+    },
+    {
+      "unit_id": "WLC.PRO.22.20.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text reads 'excellent things', which renders the qere shalishim; the ketiv shilshom means 'heretofore', and the ASV prints exactly that in the margin ('The word is doubtful. Another reading is, heretofore'), marking it as the reading it did not adopt. The English wording alone distinguishes the two, so the qere is selected."
+    },
+    {
+      "unit_id": "WLC.PRO.22.25.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'his ways' is plural, matching the qere orhotaw; but the ketiv 'rhtw is the yod-less writing of the same plural-with-suffix ending, a spelling regularly read as an archaic plural rather than a singular. The English therefore does not exclude the ketiv, and there is no ASV note on the verse. Base qere carries the projection."
+    }
+  ]
+}

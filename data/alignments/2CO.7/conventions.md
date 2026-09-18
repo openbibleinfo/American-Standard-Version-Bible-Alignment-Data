@@ -1,0 +1,7 @@
+# 2 Corinthians 7 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **2CO.7.11** — spoude rendered *earnest care* heads on *earnest*, not on *care*. The English noun is a supplied generic completion, not a gloss of the lexeme, which the corpus glosses *diligence* (JUD.1.3); rule 17 therefore takes the sense-bearing word, as EPH.5.5 heads *covetous man* on *covetous*. Applied at 2CO.7.11 and 2CO.7.12.
+- **2CO.7.8** — Concessive ei kai is two units, not one noncompositional cluster: the conditional takes whatever English word introduces the concessive clause (*though*, *although*), and kai is aligned where the ASV gives it a word (*but* in *though but for a season*) and unrepresented where it does not. Rule 39's cluster is scoped to a particle fused with the negative me; GAL.1.8, PHP.3.12 and PHP.2.17 all split. Applied to all four clusters at 2CO.7.8 and 2CO.7.12.
+- **2CO.7.10** — kata theon is analysed by what the ASV writes, not by the Greek: *after a godly sort* at 2CO.7.9 and 2CO.7.11 spreads the phrase over words answering to each token, so the ordinary two-unit analysis applies, while *godly* at 2CO.7.10 compresses it into one word and is one noncompositional unit headed on theon. Rule 35's aligned contrast needs the PREPOSITION spelled into the English word; *god-ly* does not do that, as GAL.2.2's *privately* does not.

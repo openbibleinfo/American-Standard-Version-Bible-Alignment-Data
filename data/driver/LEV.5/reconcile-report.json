@@ -1,0 +1,28 @@
+{
+  "chapter": "LEV.5",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The sin-formula relative takes the whole of the ASV's *where-* frame and heads on the *where-* word, whether or not the Hebrew writes the resumptive preposition and suffix. אשר יטמא בה → *wherewith he is unclean* (5.3) and אשר חטא עליה → *that wherein he hath sinned* (5.5) are three-morpheme fusions under rules 22 and 30; the bare אשר חטא of 5.7 and 5.11 takes *for that wherein* and the bare אשר שגג of 5.18 takes *wherein*, each on the relative alone, since no preposition or suffix stands there to share the word. Any supplied *for* or *that* introducing that clause joins the same unit under rule 46's rider and is never added. The unit sizes differ because the Hebrew differs; this is not a split.",
+    "Compound offering names are headed by rule 31's subtraction test and its tie-break, and the two do not fall the same way for every lexeme. חטאת → *a sin offering*, אשם → *a trespass offering* and עלה → *a burnt offering* head on the modifier (*sin*, *trespass*, *burnt*), which carries the lexeme; מנחה → *the meal offering* (5.13) and אשה → *the offerings of Jehovah made by fire* (5.12) head on *offering*/*offerings*, because there the noun is what realizes the lexeme and the modifier is the ASV's specifier. Do not regularize the second pair onto the modifier: the divergence is the tie-break working, and each of those two units names the competing reading.",
+    "Where the casuistic protasis writes more conditional morphemes than the ASV writes subordinators, the morpheme standing at the clause head, where the English word stands relative to the clause's other renderings, takes it, and the other is unrepresented under rule 22: ואם־נפש כי תחטא → *And if any one sin* (5.17) gives *if* to אם and leaves כי with nothing. Where a relative is the only subordinating morpheme in the protasis, that relative takes the *if*: נפש אשר תגע → *if any one touch* (5.2), a present morpheme taking its English before rule 55's added reading does."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v97",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 40 candidate groups and then the whole dump end to end, since the lemma table is blind to `added` units and this chapter has nine of them. No cross-verse split found; patches empty.",
+    "The multi-treatment buckets all resolve to the ASV's own wording or to a real source difference: the waw connectives (And / and / then / when / but / though / yet / But, plus the recast relative *who* at 5.8, where no explicit subject pronoun stands to claim it under rule 17); על over the same חטאתו as *for* (5.6), *as touching* (5.13) and *concerning* (5.18); מן as *from* (5.6) against *out of* (5.15, 5.18) before the same הצאן; את as *for* at 5.16 (rule 16's first family, *make restitution for*) against unrepresented at 5.8, where *offer* takes a bare object.",
+    "Two apparent splits checked and rejected. והוא is a mirror pair: 5.1 leaves the waw unrepresented and gives הוא its *he* (the ASV writes no connective before *he being a witness*), while 5.18 gives the waw *and* and leaves הוא unrepresented (*and knew it not* writes no subject pronoun). And the *where-* frames rest on three morphemes at 5.3 (אשר ... בה to *wherewith*) and 5.5 (אשר ... עליה to *that wherein*) but on אשר alone at 5.7, 5.11 and 5.18, where the Hebrew writes no resumptive preposition. Both differences are licensed by what is written, on rule 35's model of aligning what is actually there. Recorded as a convention so a later reader does not read the unit sizes as a split.",
+    "Added-vs-folded audit is clean. All seven supplied object pronouns with no object morpheme are `added` (5.1 *it*, 5.3 *of it*, 5.4 *of it*, 5.8 *it*, 5.12 *it*, 5.17 *it*, 5.18 *it*), and every clause that does write an object morpheme gives the pronoun to the suffix instead (5.8 *them*, 5.12 *it*, 5.16 *it*). Supplied a/an, supplied *the* on construct nouns, supplied copulas, supplied generics (*things*, *part*, *thing*, *offering*) and supplied relational words are placed alike in every verse that has them. 5.4's *his* and 5.13's *the remnant* are the chapter's only other added units, both correctly left added under rules 18 and 17.",
+    "The two self-corrections carried in the packet were verified against the rest of the chapter and both hold: 5.2's first בְ moved from rule 49 to rule 40 now reads like the verse's three other בְּ, and 5.12's את moved from rule 33 to rule 16's fourth family is the one place in the chapter where a marker stands on the very nominal the ASV demotes to a role phrase.",
+    "BSB: all 20 disagreements are the documented convention differences — object markers (5.8, 5.10), eleven prepositions the ASV's recasting silences, לאמר's ל (5.14), an article the ASV renders *a man* (5.4), two suffixes the ASV writes no pronoun for (5.16, 5.18), and the unwritten waw (5.1), כי (5.17), כל (5.17) and הוא (5.18). None is a genuine error and nothing was changed to move the 95.6% figure.",
+    "Promotions: none. The two candidates were which conditional conjunction takes a single English *if* when the protasis writes two (5.17), and rule 16's fourth family with the apposition running the other way (5.12). Each rests on one instance here with no corpus evidence behind it, so both are recorded as conventions rather than written into the contract."
+  ]
+}

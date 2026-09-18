@@ -1,0 +1,6 @@
+# Numbers 11 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Demonstrative noun phrase (NUM.11.3, 11, 12, 13, 14, 32, 34). Where a noun carries its own article, its attributive demonstrative carries an agreement article, and the ASV writes one determiner for the whole phrase - kol ha-ʿam ha-zzeh -> 'all this people', ha-yyom ha-huʾ -> 'that day', ha-maqom ha-huʾ -> 'that place' - the demonstrative morpheme (zeh, huʾ) takes the written this or that and both articles are unrepresented, under rule 41's limit and rule 47's count. The chapter does not fuse the agreement article into the demonstrative's unit; the corpus holds a few such fusions (ha huʾ -> 'these' at 1KI.10.10, ha ʾelleh -> 'those'), and that reading remains the competing one, but rule 47 governs an agreement article the ASV leaves unwritten and this chapter follows it throughout.
+- hodesh yamim -> 'a whole month' (NUM.11.20, 11.21). The chain is rendered attributively under rule 28: yamim takes 'whole', hodesh takes 'month', and the supplied indefinite 'a' joins hodesh's unit under rule 15. No 'of' is placed, and the trailing yamim is not marked unrepresented.

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "chapter": "JER.22",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JER.22.4.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the plural 'his servants,' distinguishing the qere plural from the ketiv singular 'his servant.'"
+    },
+    {
+      "unit_id": "WLC.JER.22.6.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV has the plural construction 'cities which are not inhabited,' distinguishing the qere plural נוֹשָׁבוּ from the ketiv feminine singular נושבה; the alternative-rendering note concerns 'unto' and does not decide this unit."
+    },
+    {
+      "unit_id": "WLC.JER.22.23.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV addresses a second-person feminine inhabitant ('O inhabitant ... thou'), reinforced by the Hebrew-gloss note 'inhabitress,' distinguishing qere יֹשַׁבְתְּ from ketiv first-person ישבתי."
+    },
+    {
+      "unit_id": "WLC.JER.22.23.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's second-person wording 'that makest thy nest' distinguishes qere מְקֻנַּנְתְּ from ketiv first-person מקננתי."
+    }
+  ]
+}

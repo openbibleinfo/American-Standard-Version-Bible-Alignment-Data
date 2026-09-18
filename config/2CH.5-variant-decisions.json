@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "chapter": "2CH.5",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2CH.5.12.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere/ketiv orthographic variant of the same hiphil participle of חצר (ketiv מחצררים with reduplicated resh); ASV 'sounding with trumpets' renders either spelling identically. No textual note on the verse."
+    },
+    {
+      "unit_id": "WLC.2CH.5.13.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere/ketiv orthographic variant of the same participle (ketiv למחצצרים with reduplicated tsade); ASV 'the trumpeters' renders either spelling identically. The verse's only note ('Or, for song') is alternative_rendering on a different word and does not decide a reading."
+    }
+  ]
+}

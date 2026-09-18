@@ -1,0 +1,223 @@
+{
+  "alignments": [
+    {
+      "note": "Explicit subject takes only its own English (rule 20).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Verbless clause: the construction-supplied copula joins the predicate noun (rule 20). The ASV italic on 'was' corroborates the supply but does not make it added (rule 7).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Divine name.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "One substantive rendered by a multi-word phrase; head on the lexeme-bearing 'first', since 'fruits' alone is any fruits (rule 31). The rectum carries a suffix and no article, so the 'the' is supplied on the construct (rule 29).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Nomen rectum with of (rules 19, 25).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Suffix (rule 18).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Quantifier.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Anarthrous participle used substantivally; the supplied relative joins its unit and the head stays on the lexeme (rule 46).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Object suffix (rule 18).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "אָשַׁם rendered by a light verb plus adjectival complement: 'shall be guilty' keeps the lexeme and 'shall be held' loses it, so rule 31's subtraction puts the head on 'guilty' under rule 44, as with בּוֹשׁ -> 'put to shame'. Rule 24's preference for the lexical predicate is about 'was gathered' and must not be read as a preference for the English verb; heading on 'held' is the reading corrected here.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017",
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Finite verb with auxiliary.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Preposition.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Suffix (rule 18).",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "The oracle formula noun is rendered verbally; the ASV writes no 'of', so rule 19 has nothing to place.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "note": "Divine name.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t026"
+      ],
+      "target_head": "t026"
+    }
+  ],
+  "ref": "JER.2.3",
+  "review_notes": [
+    "Corrected the target head of s011 from 'held' to 'guilty': 'be held guilty' is a light verb plus complement and rule 44's subtraction puts the lexeme of אָשַׁם in 'guilty'. This also brings the verse into line with the chapter's own reading of רָחֲקוּ -> 'are gone far' and יֶּהְבָּלוּ -> 'are become vain' in JER.2.5.",
+    "'first fruits' headed on 'first' by rule 31's subtraction test; unit edges unchanged.",
+    "All other units verified and retained unchanged; every s### and t### is partitioned exactly once."
+  ]
+}

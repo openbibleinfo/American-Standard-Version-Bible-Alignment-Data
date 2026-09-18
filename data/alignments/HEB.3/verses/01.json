@@ -1,0 +1,193 @@
+{
+  "alignments": [
+    {
+      "note": "Inferential adverb rendered *Wherefore*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Vocative adjective; anarthrous, so no article competes for a determiner.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Vocative noun.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Predicate adjective rendered by a bare noun.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Anarthrous noun rendered *of a … calling*; rule 58 puts the supplied determiner on the noun rather than on the adjective, and rule 21's case preposition rides with it. Discontinuous under rule 15.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Attributive adjective.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Imperative rendered by a bare English imperative.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Article to *the* under rule 19.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Coordinating conjunction.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Rule 66 names `ἀρχιερεύς` → *high priest* among the renderings whose English noun glosses the lexeme, so the head is *Priest*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Rule 20: the genitive `ἡμῶν` takes the English possessive *our*, so the article realizes nothing; the case preposition *of* stays with the noun.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun with its case preposition, discontinuous around the possessive under rule 15.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Genitive pronoun rendered by the possessive.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Name in apposition, with the supplied appositional *even* folded on as a rule 7 helper. Rule 105 decides such an *even* by the class of the token carrying the appositive and settles two classes only — an expressed preposition, which folds, and a substantival article, which cannot because rule 32 limits it to a pronoun. A bare anarthrous name is neither, and the corpus's one unit for that carrier folds: JHN.5.45 `Μωϋσῆς` → *even Moses*, `aligned` and headed on the name. Rule 11 keeps the ASV's italics from deciding it. Marking *even* its own `added` unit under rule 5 remains defensible if rule 105's enumeration is read as exhaustive.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "HEB.3.1",
+  "review_notes": [
+    "The one changed unit is the supplied *even*, folded onto `Ἰησοῦν` under rule 7 on JHN.5.45's precedent; rule 105's `added` reading is named in the unit's note and remains defensible.",
+    "`κλήσεως` keeps its supplied *a* under rule 58, the phrase being wholly anarthrous.",
+    "All 15 source and 19 target ids remain partitioned exactly once; the unit count falls from 16 to 15 with the `added` unit absorbed."
+  ]
+}

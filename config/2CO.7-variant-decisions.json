@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "chapter": "2CO.7",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.2CO.7.3.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only: πρὸς κατάκρισιν οὐ vs Οὐ πρὸς κατάκρισιν. ASV 'I say it not to condemn you' follows English order and renders the same words either way; no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.7.5.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Perfect ἔσχηκεν vs aorist ἔσχεν of the same verb. ASV 'our flesh had no relief' is a simple past that the ASV uses for both, and the narrative context fixes the sense; nothing in the English or the notes distinguishes the tense."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.7.8.v003",
+      "status": "selected",
+      "selected_reading": "r02",
+      "compatible_readings": [
+        "r02"
+      ],
+      "evidence": "ASV reads '(for I see that that epistle made you sorry' — a finite 'I see' introduced by 'for', i.e. βλέπω γὰρ. The mapped textual_variant note 'Some ancient authorities omit for' confirms the ASV text carries γάρ and that its absence is the variant, which excludes both the bare βλέπω and the participle βλέπων."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.7.10.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἐργάζεται vs the compound κατεργάζεται; ASV 'worketh' renders either, and it uses the same word for the simple verb in the second clause. The only note here is classed alternative_rendering (on the scope of 'unto salvation'), which is about English wording and cannot decide a reading."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.7.11.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Explicit accusative subject ὑμᾶς with λυπηθῆναι. English requires a subject for the infinitive clause either way, so ASV 'that ye were made sorry after a godly sort' is what an unexpressed subject supplied from context also yields; 'ye' is not italicized as a supply, but neither does it name an added pronoun."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.7.11.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Addition of ἐν before the dative τῷ πράγματι. ASV 'pure in the matter' needs the English preposition for a bare dative of respect just as much as for ἐν with the dative, so the wording does not distinguish the two."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.7.12.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἕνεκεν vs the orthographic variant εἵνεκεν of the same preposition. ASV 'for his cause that did the wrong' renders either spelling identically; a spelling difference cannot surface in English."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.7.12.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "οὐδέ vs ἀλλ᾽ οὐδέ. ASV 'nor for his cause that suffered the wrong' is the ordinary rendering of οὐδέ, but ἀλλ᾽ οὐδέ in a negative series is also idiomatically 'nor', so the absence of a separate 'but' does not settle whether ἀλλά stood in the text."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.7.12.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Same orthographic pair ἕνεκεν / εἵνεκεν at the second occurrence. ASV 'nor for his cause that suffered the wrong' is unaffected by the spelling, and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.7.12.v010",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "Third occurrence of the ἕνεκεν / εἵνεκεν spelling difference, with the base and r01 differing only in apparatus notation for the same word. ASV 'but that your earnest care for us might be made manifest' renders one preposition either way; nothing in the English or the notes chooses among them."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.7.13.v011",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'and in our comfort we joyed the more exceedingly' reads the first-person plural ἡμῶν; the RP second-person ὑμῶν would give 'your comfort', which the ASV does not have. The pronoun is rendered explicitly, so the English distinguishes the readings directly."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.7.14.v012",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'our glorying also which I made before Titus was found to be truth' turns ἐπὶ Τίτου into an attributive relative clause modifying 'glorying', which is what the repeated article ἡ marks. Without the article the phrase would attach adverbially ('we gloried before Titus'), and the relative is not italicized as a supply."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "11ebe9437d4140913a12e10a247e1efbca66316445c686377b4980246699fb11",
+  "contract_version": "ot-hebrew-verse-v208",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "Corrected the flagged three-morpheme unit לְבַדּוֹ → only. Rule 30 fuses the preposition with its construct noun where one English rendering carries the pair, but states in its own terms that a pronominal suffix on that construct noun is no part of the fusion: it takes whatever pronoun the ASV writes for it, or goes unrepresented where the ASV writes none. Here the him of serve him is the verbal object suffix s038, and nothing in only carries the 3ms reference, so s039+s040 align to only headed on בַּד and s041 is its own unrepresented unit.",
+    "The then of then put away answers to no conjunction morpheme: the Hebrew opens the apodosis with a bare imperative, so the word is added under rule 14 rather than folded into the verb.",
+    "מִתּוֹכְכֶם is split rather than fused because the ASV writes a word for each morpheme (from, among), which is the shape rule 30 names for מִקֶּרֶב → from among."
+  ],
+  "ref": "1SA.7.3",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,27 @@
+{
+  "chapter": "2KI.1",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "הֲמִבְּלִי אֵין אֱלֹהִים בְּיִשְׂרָאֵל → 'Is it because there is no God in Israel' (vv. 3, 6, 16): הַ takes the fronted copula Is (rules 17, 20); the cleft it is added, and the cleft that of vv. 3 and 6 is added too (rule 20); the privative מִן takes because (rule 48); the existential אֵין takes there is no, headed on no (rule 50); and בְּלִי, the second negative morpheme, is unrepresented, since the ASV writes one negation word and rule 50 keeps it with the existential. The competing reading, fusing מִבְּלִי → because, was set aside in every verse.",
+    "שַׂר הַחֲמִשִּׁים → 'the captain of fifty' (vv. 10, 13, 14): the phrase's single the is the rectum article's, fronted under rule 29 because fifty is rendered anarthrously; the construct keeps the bare captain(s). Where an agreement article on a following ordinal or adjective repeats it (הַשְּׁלִישִׁי v. 13, הָרִאשֹׁנִים v. 14) that article is unrepresented under rule 47. Where no article morpheme stands (שַׂר־חֲמִשִּׁים, vv. 9, 11, 13a) the ASV's a or the is supplied on שַׂר, and the a of 'a third fifty' goes to the substantival numeral (rule 15).",
+    "רֵדָה → 'Come down' (vv. 9, 11): the final he is the lengthened imperative's paragogic he, tagged Sh, and is its own unrepresented unit (rule 32 first sentence); down belongs to יָרַד's own rendering (rule 44), exactly as in the bare רֵד of v. 15. The MACULA gloss 'down' on the he is a display defect (rule 39), and BSB's aligning down to it is not followed.",
+    "הַמִּטָּה אֲשֶׁר־עָלִיתָ שָּׁם לֹא־תֵרֵד מִמֶּנָּה → 'Thou shalt not come down from the bed whither thou art gone up' (vv. 4, 6, 16): אֲשֶׁר and the resumptive שָׁם share whither (rule 22), מִן takes from, the fronted הַמִּטָּה takes its own the bed, and the resumptive suffix on מִמֶּנָּה is unrepresented because the ASV writes the noun itself after from and no pronoun (rule 22)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked every construction the chapter writes more than once: the three הֲמִבְּלִי אֵין אֱלֹהִים clauses (vv. 3, 6, 16), the three bed clauses (vv. 4, 6, 16), the five שַׂר (הַ)חֲמִשִּׁים phrases (vv. 9–14), the two וַיָּשָׁב וַיִּשְׁלַח → 'again he sent' (vv. 11, 13), the two lengthened imperatives רֵדָה (vv. 9, 11), the two יִקַר jussives → 'let … be precious' (vv. 13, 14), the four אִישׁ הָאֱלֹהִים vocatives, the five דָּרַשׁ בְּ → 'inquire of', and the three לִקְרַאת → 'to meet' splits. Each is analysed one way wherever it recurs.",
+    "Added units read end to end: the cleft 'it' of vv. 3, 6, 16 (added, no morpheme) against the 'it' of v. 5 (given to the written זֶה of מַה־זֶּה); the resuming 'he' of v. 7 (given to the written אִישׁ under rule 25) against the 'he' of v. 9 (added, the referent's only earlier realizations being suffixes already holding 'him') and the 'He' of v. 8 (added, no earlier nominal). Each difference is licensed by what the Hebrew writes, so none is a split.",
+    "Every candidate group in the lemma table is either context-driven (ASV word choice for אֶל, בְּ, דָבַר, אָמַר, שַׂר with and without article) or a recasting rule 40 silences (אֶל before 'answered him', 'told you', 'besought him'; לְ beside הָיָה's 'had').",
+    "BSB disagreements are all documented convention: object markers and unrendered articles (הָאֱלֹהִים in 'man of God', הַשָּׁמַיִם → 'heaven', agreement articles), rule 40 prepositions, the paragogic he of רֵדָה whose MACULA gloss 'down' is a display defect (rule 39), the surplus waws of וַיָּשָׁב וַ- and וְאִם, and בְּלִי left unrepresented because the clause's one negation word goes to the existential אֵין. None is a genuine error.",
+    "No patch. Three chapter-wide judgments recorded as conventions; nothing here generalises beyond the contract's existing rules 22, 29, 32, 39, 48 and 50, so no promotion or amendment."
+  ]
+}

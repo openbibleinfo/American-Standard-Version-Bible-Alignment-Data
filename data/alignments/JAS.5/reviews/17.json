@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "0bd9baa07301cb86d4f470a6521d1be49fcaeebc072a6ea02029ef92acb2e34a",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed and kept unchanged: all 22 units of the accepted alignment stand, with three notes enriched (s004's head, s009's competing reading, s022's reordering rule citation). No edges, statuses or heads were changed.",
+    "All 22 source and 31 target ids are partitioned exactly once; s009 is the only unrepresented unit and there are no added units.",
+    "s004 ὁμοιοπαθής → *of like passions* is the one head worth checking. The lexeme is unattested in the corpus, so rule 104 governs: the neighbouring-class query (compound prefix-plus-stem adjectives, and the παθ- root family) heads the stem word, giving *passions*. A head on *like* would take the prefix over the stem and is the reading rule 104's analogies refuse.",
+    "s007 προσευχῇ → *fervently* and s008 → *he prayed* stay split rather than joined. Rule 73 wants a verb of general sense collapsed by the ASV into a single English verb; προσεύχομαι carries its own lexical content and the ASV writes a separate word for each element, so rule 2 applies.",
+    "s009 τοῦ is unrepresented and the supplied *that* goes to the infinitive under rule 85. Rule 61 gives a clause-introducer to a governing preposition, and none is expressed here, so the article has nothing to take; the competing reading that τοῦ carries *that* as the nominalizer is named in the unit note.",
+    "*for* at t026 and *with* at t008 are both supplied case prepositions on determinerless phrases, so rule 21's determinerless clause keeps each with its own noun or pronoun rather than manufacturing an article-borne *for the* or *with the*."
+  ],
+  "ref": "JAS.5.17",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

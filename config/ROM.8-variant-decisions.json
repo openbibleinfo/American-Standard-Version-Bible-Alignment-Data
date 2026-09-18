@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "chapter": "ROM.8",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.ROM.8.1.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 8:1 ends at \"in Christ Jesus.\" with no rendering of \"who walk not after the flesh, but after the Spirit\"; the RP expansion r01 would have to appear in English and does not."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.8.2.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads \"made me free\", the first-person με of r01, not the second-person σε of the base."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.8.11.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The unit is only the article before Ἰησοῦν; ASV \"raised up Jesus from the dead\" renders the proper name identically whether the article stands or is omitted, and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.8.11.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV \"he that raised up Christ Jesus from the dead\" renders Ἰησοῦν, which only the base reading contains; r01 and r02 have Χριστὸν alone."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.8.11.v005",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV \"through his Spirit that dwelleth in you\" is the genitive διὰ τοῦ ἐνοικοῦντος of r01; the mapped textual note \"Many ancient authorities read because of\" records the accusative base reading as the rejected alternative."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.8.14.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01",
+        "r02"
+      ],
+      "evidence": "All three readings are the same three words in different order; ASV \"these are sons of God\" fixes English word order independently and cannot distinguish them."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.8.20.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἐφ᾽ and ἐπ᾽ are orthographic variants of one preposition; ASV \"in hope\" is the same either way, and the sole note here is classed alternative_rendering."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.8.23.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders both intensives — \"but ourselves also\" for καὶ αὐτοὶ before the participle and \"even we ourselves\" after it; the NIV omission r01 would leave only one."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.8.23.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἡμεῖς καὶ and καὶ ἡμεῖς differ only in the order of pronoun and conjunction; ASV \"even we ourselves groan within ourselves\" renders both words and settles neither order."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.8.24.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text reads \"for who hopeth for that which he seeth?\" — the personal τίς as subject; the mapped textual note \"Many ancient authorities read for what a man seeth, why doth he yet hope for?\" records τί / τί καί as the alternative the ASV did not print."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.8.26.v011",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV \"helpeth our infirmity\" is singular, the base τῇ ἀσθενείᾳ; the RP plural ταῖς ἀσθενείαις would give \"infirmities\"."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.8.26.v012",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The aorist subjunctive προσευξώμεθα and the future προσευξόμεθα alike underlie ASV's \"we know not how to pray as we ought\"."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.8.26.v013",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV \"maketh intercession for us\" can render the ὑπερ- of ὑπερεντυγχάνει alone as well as an explicit ὑπὲρ ἡμῶν; no italics or note marks the pronoun as added."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.8.28.v014",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text has \"all things work together for good\" with πάντα as subject and no expressed ὁ θεός; the mapped note \"Some ancient authorities read God worketh all things with them for good\" records r01 as the rejected reading."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.8.34.v015",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "κατακρινῶν and κατακρίνων differ only by accent; ASV's timeless relative clause \"who is he that condemneth?\" renders either participle, and the verse's only note is classed alternative_rendering."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.8.34.v016",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV \"It is Christ Jesus that died\" renders Ἰησοῦς alongside Χριστός; the base has Χριστός alone."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.8.34.v017",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV \"yea rather\" renders μᾶλλον δὲ as a unit; an added ascensive καί would be absorbed in the same English phrase, so the presence of r01's καί is not visible."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.8.34.v018",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV \"that was raised from the dead\" renders ἐκ νεκρῶν, which only r01 supplies; the base has ἐγερθείς unqualified."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.8.34.v019",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV \"who also maketh intercession for us\" renders καί with \"also\"; the WH omission r01 would leave no word for it."
+    },
+    {
+      "unit_id": "SBLGNT.ROM.8.38.v020",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV lists \"things present, nor things to come, nor powers\" — the base order ἐνεστῶτα / μέλλοντα / δυνάμεις; RP's r01 puts δυνάμεις first."
+    }
+  ]
+}

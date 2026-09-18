@@ -1,0 +1,182 @@
+{
+  "alignments": [
+    {
+      "note": "Connective δέ.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Rule 32 with rule 31's verbless-modifier carve-out: the first modifier is a prepositional phrase with no verb to carry a relativizer, so the article keeps *that* along with its pronoun; the case preposition rides under rule 21.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Rule 94: the ASV renders the prepositional phrase by the single word *factious* with a supplied copula riding along under rule 53; part of that word answers to ἐριθεία, so rule 39 keeps the unit aligned, headed on the governed noun. Unit SBLGNT.ROM.2.8.v002 is underdetermined on r00-base but the readings do not differ here.",
+      "source": [
+        "s003",
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Coordinating conjunction.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Alpha-privative verb: *not* answers to the privative prefix, headed on the root word *obey* under rules 66 and 84.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Rule 19.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Head noun.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Adversative δέ.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Coordinate participle rendered as a finite verb.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Rule 23: the ASV gives *unrighteousness* no determiner.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Governed noun.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Rules 53 and 68: the clause is verbless, so the supplied *shall be* rides with the nominal, headed on the noun. Unit SBLGNT.ROM.2.8.v003 selected r00-base, which covers this token.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Coordinating conjunction.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Coordinate noun.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "ROM.2.8",
+  "review_notes": [
+    "s003/s004 are joined under rule 94's single-English-word precondition; splitting *are* onto ἐξ and *factious* onto ἐριθείας is defensible but would leave the preposition a bare copula.",
+    "The ASV's italicized *shall be* is folded onto ὀργή under rule 11 rather than marked added."
+  ]
+}

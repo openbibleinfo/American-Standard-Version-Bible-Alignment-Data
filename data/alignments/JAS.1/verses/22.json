@@ -1,0 +1,137 @@
+{
+  "alignments": [
+    {
+      "note": "Adversative δέ realized by the verse-opening But.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Imperative with its supplied English subject pronoun under rule 9; rule 17 heads the unit on the lexical verb be rather than on the subject ye.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Predicate nominative rendered by the bare noun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "λόγου is anarthrous, so no article competes for the supplied the: under rule 51's closing clause the determiner is an ordinary rule 7 helper on the noun it determines, and the case preposition of stays with the noun under rule 21. Head on word per rule 17's of + noun clause. Rule 26 does not license splitting the off, since no source token stands to take it.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Coordinating καί realized by and.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Ordinary negative μή aligned to not. Rules 41 and 59 are not in question, no negative indefinite following, and rule 87 is not either, no πᾶς standing in the clause.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Predicate nominative rendered by the bare noun.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Adverbial μόνον realized by only.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Circumstantial participle rendered by the English participle deluding; the ASV supplies no juncture and no relativizer, so rules 88 and 31 bring nothing into the unit.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "The reflexive object is rendered by the emphatic three-word your own selves; the possessive and own are rule 7 helpers inside the reflexive's own English expression, not separable source correspondences, and rule 17 heads the unit on selves as the word realizing the reflexive lexeme, the same test rule 83 applies to ἀλλήλους → one another. Splitting your off as though some other token licensed it was the competing reading, but no other source word is present to take it; a head on your was the other, refused because your own is the emphatic expansion and -selves is what the corpus spends on ἑαυτοῦ.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "JAS.1.22",
+  "review_notes": [
+    "Reviewed against the accepted alignment and returned unchanged; the only edits are to notes, adding the rules considered and refused (26 at s004, 87 at s006, 88 and 31 at s009, 83 at s010). No unit's source array, target array or head moved.",
+    "All 10 source and 15 target ids are partitioned exactly once; every unit is aligned, with no unrepresented and no added units in this verse.",
+    "Variant SBLGNT.JAS.1.22.v006 is underdetermined over s007/s008 and the projection carries r00-base, which the English (hearers only) permits. It carries no FALLBACK EXCLUDED BY EVIDENCE mark, so rule 97 does not apply and rule 12 forbids reopening the textual question here.",
+    "λόγου carries no Greek article, so the supplied the is a rule 7 helper on the noun under rule 51's closing clause rather than an aligned article; rule 21 is not in play, there being no article to anchor the of.",
+    "s010 is the only unit where a materially different reading was weighed under rule 16, and both competing readings are named in its note."
+  ]
+}

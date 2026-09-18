@@ -1,0 +1,27 @@
+{
+  "chapter": "PSA.103",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Simile apodoses in this psalm are asyndetic: the 'So' opening the second colon of v11, v12 and v13 answers to no waw and is its own added unit under rule 14, while the 'so' of v15 is the written כֵּן and is aligned to it. Read the Hebrew for a conjunction before placing any 'So' in the chapter.",
+    "Where the ASV opens a כְּ simile with a two-word equative frame — 'As far as' in v12, 'Like as' in v13 — both English words belong to the single comparative כְּ (v12 discontinuous around 'far'), headed on 'as', on the terms rule 24 gives a comparative מִן rendered 'too … for'; the alternative of marking the second word added was considered and named in the v12 note.",
+    "v5 בַּטּוֹב → 'with good things': the supplied generic 'things' joins the substantival adjective under rules 31/46, headed on 'good', and the assimilated article is unrepresented because no 'the' is written; rule 41 was not reached because the ASV supplied a generic noun and not a pronoun-plus-relative."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 22 verses end to end against the 23-lemma candidate table; every multi-treatment bucket is the ASV rendering a morpheme differently in a different construction, and none is one construction analysed two ways.",
+    "Suffix pronouns (his/him/it/thereof/thine/thy), waw connectives (And/But/unrepresented), and prepositions (לְ of/unto/for/to/unrepresented; עַל toward/upon/unrepresented; בְּ with/in/over/unto) all follow what the ASV wrote: the unrepresented לְ of v3 and עַל of v10 and v13 sit under verbs whose English takes a bare object (forgiveth, rewarded, pitieth), the v20 לִ stands before a bare participle 'Hearkening' with no function word written, and the v17 waw of the מֵעוֹלָם וְעַד־עוֹלָם range has no connective written for it while the עַד takes its own 'to' (rules 26, 40).",
+    "The assimilated articles are consistent: 'the' where the ASV writes one (v5 'the eagle', v19 'the heavens'), unrepresented where it does not (v5 'with good things', v15 'as grass', v19 'over all'). v5's 'good things' keeps the supplied generic on the adjective under rules 31/46 rather than on the article, since rule 41 reaches a supplied pronoun and no 'the' is written; that was a considered choice and not a split.",
+    "The three simile apodoses (v11, v12, v13) each mark 'So' added because no waw stands in the apodosis, while v15's 'so' is the written כֵּן; both comparative frames written in two words ('As … as' in v12, 'Like as' in v13) go whole to the single כְּ. The vocative 'ye' of v20-22 goes to the noun it stands before in every verse (rule 36). The eight added units (A Psalm; So that; his anger; So ×3; his; As for) each answer to no morpheme and none is folded elsewhere in a sibling verse.",
+    "BSB disagreements: the six R tokens and the v17 waw are all documented convention differences under rules 26 and 40 (BSB attaches a silenced preposition to its phrase); none is an error and no edge was changed.",
+    "No contract promotion: the chapter taught nothing the contract does not already carry with corpus backing; the 'As … as' reading has six corpus units and one verse here, which is a convention rather than a rule."
+  ]
+}

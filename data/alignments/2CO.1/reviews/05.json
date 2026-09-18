@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "5f0ef813c133177f582a4e591e809e87e8671c4434ed14d30fb83cab6ddd066c",
+  "contract_version": "nt-greek-verse-v58",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed against the contract and returned unchanged. Partition verified: all 18 source and all 17 target IDs are used exactly once, and every head is a member of its own array.",
+    "Both περισσεύει tokens are separately aligned to their own English verbs, abound and aboundeth. The ASV reverses the order of the second clause (aboundeth through Christ for διὰ τοῦ Χριστοῦ περισσεύει), but rule 15 licenses that reordering without merging anything, and rule 26 forbids bundling the transparent pieces.",
+    "καθώς / οὕτως / καί: rule 82 keeps a bare as on καθώς, gives the correlative even so to the expressed οὕτως headed on so, and leaves the adjunctive καί its own also. Rule 82's correlative-καί arm is not in play here, being scoped to a καί answering καθώς where no οὕτως is expressed; with both adverb and conjunction expressed and both English words written, rule 2 splits them.",
+    "Both articles before Χριστοῦ are unrepresented under rule 23 (article before a name), and since the ASV supplies no determiner, rule 21's second half keeps the case preposition of with the noun rather than leaving a bare of on the article. Rule 57 is not in question: nothing is interposed between either article and its name.",
+    "ἡ before παράκλησις is unrepresented under rule 20 proper, not under rule 76's second arm: the genitive ἡμῶν is expressed and has been spent on nothing else, so it is the word the supplied our belongs to."
+  ],
+  "ref": "2CO.1.5",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

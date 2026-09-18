@@ -1,0 +1,194 @@
+{
+  "alignments": [
+    {
+      "confidence": "high",
+      "note": "Substantival article before a participle with no expressed head noun: rules 32 and 90 give it the single relativizer *who* and nothing else. Rule 31 does not apply, there being no head noun for the article to govern.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "confidence": "high",
+      "note": "Adjunctive/intensifying καί realized by *also*, its own aligned unit as rule 65 decides such a καί on the English alone.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "confidence": "high",
+      "note": "The participle keeps its own verb under rule 32; the relativizer stayed with the article.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "confidence": "high",
+      "note": "Accusative pronoun object rendered *us*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "confidence": "high",
+      "note": "Coordinating καί joining the two participles, realized by *and*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "confidence": "high",
+      "note": "Supplied English indirect object *us* is an argument of this verb, so rule 74's object clause keeps it with the verb that requires it; rule 11 keeps the ASV italics from making it `added`. Head on the lexical verb *gave* under rule 17.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "confidence": "high",
+      "note": "Article surfaces as *the* under rule 19.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "confidence": "high",
+      "note": "Noun stands alone, its determiner having gone to the article.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "confidence": "high",
+      "note": "Article carries the genitive's case preposition: *of the* is one unit headed on *the* under rules 21 and 17.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "confidence": "high",
+      "note": "Noun stands alone under rule 21, the *of* having ridden with the article.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "confidence": "high",
+      "note": "Expressed preposition realized by *in* under rule 36.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "confidence": "high",
+      "note": "Displaced by the possessive under rule 20 proper: ἡμῶν is expressed and free to take *our*, so the article realizes nothing. Rule 76 is not in play, the pronoun having been spent on no other English word.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "Noun takes *hearts*; its determiner slot is occupied by the possessive on ἡμῶν.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "confidence": "high",
+      "note": "Genitive pronoun rendered by the possessive *our* under rule 20.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "2CO.1.22",
+  "review_notes": [
+    "Reviewed unchanged: every source and target ID is partitioned exactly once (14 source, 15 target), and no head sits outside its own array.",
+    "s001 ὁ governs σφραγισάμενος with no expressed head noun, so rule 31 is out and rules 32/90 decide: one English word for the pair means the article takes the relativizer *who* and the participle keeps *sealed*. Rule 90 notes such an article will be reported as represented by a reference comparison, and that is not a correction.",
+    "t007 *us* carries ASV addition markup but is the indirect object δούς requires in English, so rule 74's object clause and rule 11 keep it inside the verb's unit rather than marking it `added`. Rule 74's `medium` hedges attach to units where an infinitive competes for the supplied word; no infinitive stands here, so this is recorded `high`.",
+    "s012/s014 divide under rule 20 proper rather than rule 76: ἡμῶν is expressed and its English is only the possessive, so it is the word *our* belongs to and ταῖς realizes nothing. Rule 76's availability test would matter only if the ASV had already spent that pronoun on some other role, as it has not.",
+    "The verse's expressed ἐν keeps *in* on itself under rule 36; the article beside it is emptied by the possessive, not by rule 21, so no bare *in the* unit arises."
+  ]
+}

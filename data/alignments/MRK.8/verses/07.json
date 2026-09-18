@@ -1,0 +1,150 @@
+{
+  "alignments": [
+    {
+      "note": "Conjunction to *And*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Imperfect with supplied subject.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Rule 58: the adjective and its expressed noun are both anarthrous, so the supplied determiner belongs to the noun and the adjective stands bare as *few*. Reading English *a few* as a fused quantifier and keeping *a* here is the competing analysis, on the model of rule 29's *a hundred*; rule 58 forbids reading a supplied determiner off the word order that puts it beside the adjective, and MRK.8.1 gives *a ... multitude* to the noun in the same shape.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Rule 58: the noun carries the supplied determiner, discontinuously around *few* under rule 15. Rule 66 keeps the head on *fishes*, which glosses the lexeme's root, *small* rendering the diminutive suffix.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Conjunction to *and*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Participle with its auxiliary.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Pronoun object.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Finite verb with supplied subject.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Infinitive *to set ... before them*; the particle and supplied object are the verb's own, discontinuous under rule 15.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015",
+        "t018",
+        "t019"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Substantival demonstrative to *these*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Intensifying καί realized by *also* (rule 65's English-side test).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "MRK.8.7",
+  "review_notes": [
+    "The competing reading is that English *a few* is a fused quantifier whose *a* is not the noun's determiner, on the model of rule 29's *a hundred*. It is named in the unit note. Rule 29 is scoped to a compound numeral idiom with the noun as a separate token, and rule 58's own reasoning - a determiner determines the noun phrase, an attributive adjective is only a modifier inside it - reaches a quantity adjective as readily as a quality one.",
+    "The head on ἰχθύδια stays *fishes* under rule 66: *fishes* glosses the lexeme's root and *small* renders the diminutive suffix, which is the same test 8.4 uses to head ἐρημίας on *desert* rather than on the generic *place*.",
+    "Partition rechecked: s001-s011 and t001-t019 each appear exactly once."
+  ]
+}

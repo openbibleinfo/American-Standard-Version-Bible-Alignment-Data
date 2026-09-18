@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "3e40b391d35c7f0babdabaa5cb15c0e4d70860e4186a3ee44797f8819762c3ad",
+  "contract_version": "nt-greek-verse-v78",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 13 source and 18 target ids are partitioned exactly once.",
+    "οὐ and χρείαν stay separate aligned units: the ASV writes *no need* in two words, χρεία is not a negative indefinite so rule 59's joining test does not reach it, and rule 73 does not collapse a pair the ASV spells out.",
+    "The supplied *that* stays with γράφεσθαι under rule 85 and the supplied subject *aught* under rule 74; ὑμῖν keeps its case preposition under rule 21."
+  ],
+  "ref": "1TH.5.1",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

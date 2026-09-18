@@ -1,0 +1,322 @@
+{
+  "alignments": [
+    {
+      "note": "Substantival article before a participle: rule 32 gives it the pronoun *he* and nothing else, the relativizer staying with the participle. Rule 90 is not in play, since the ASV writes two English words for the pair rather than one.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Adversative particle rendered *But*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The participle carries the supplied relativizer *that* as a rule 7 helper, per rule 32; head on the lexical verb under rule 17.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Rule 36: the English preposition governing the phrase realizes the Greek preposition.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Anarthrous noun with anarthrous attributive adjective and a supplied determiner: rule 58 gives the discontinuous *the … law* to the noun, the discontinuity licensed by rule 15.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Attributive adjective, bare *perfect* under rule 58.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "The article governs no expressed noun of its own (τὸν τῆς ἐλευθερίας), and the ASV renders it by the repeated *the law*; rule 22 gives the article the whole nominal expression with its determiner and heads it on the nominal word, never on the determiner. Rule 31's article-following-its-noun clause does not reach it, because that clause's test is whether the article governs an expressed head noun and none stands after it; the noun in front already has its own supplied determiner under rule 58. The competing reading marks the article `unrepresented` as a second attributive article under rule 23 and *law* `added`, but rule 86's test is whether a source token licenses the supplied word, and this article does, so rule 11 keeps the ASV's italics from deciding it.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "The ASV gives *liberty* no determiner, so under rules 21 and 23 the article anchors nothing and the case preposition stays with the noun.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive noun rendered *of + noun*; rule 17 heads on the noun.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Coordinating conjunction rendered *and*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "The supplied *so* carries the anaphoric persistence of παραμείνας (παρα-, continuing in what he looked into) and rides with the participle as a rule 7 helper; rule 11 keeps the ASV's markup from making it `added`, and rule 86 does not apply because a source token licenses it. The materially different alternative is to read *and so* as one connective and give *so* to καί (s010); I took the participle because *so* modifies the verb's manner rather than joining the clauses, and καί already has its own English word.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Ordinary negative aligned to *not*; ἀκροατής is not a negative indefinite, so rules 41 and 59 do not empty it.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Anarthrous noun with supplied indefinite determiner as a rule 51 helper on the word it determines.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Genitive of quality recast as a finite relative clause; no article stands in the phrase, so the noun itself carries the supplied relativizer as a rule 7 helper (rule 92's principle), headed on the verb that glosses the lexeme under rules 17 and 91.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t020",
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Participle of γίνομαι rendered *being*; its position before *not* is ordinary discontinuity under rule 15.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Adversative conjunction rendered *but*.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Anarthrous noun with supplied indefinite determiner under rule 51, parallel to the *a hearer* unit.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t023",
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Genitive complement recast as a finite relative clause, the relativizer riding with the verb that carries the sense, analysed exactly as ἐπιλησμονῆς above under rule 24.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t025",
+        "t026"
+      ],
+      "target_head": "t026"
+    },
+    {
+      "note": "Substantival demonstrative expanded with a generic noun; rule 17's generic-noun clause keeps the head on the demonstrative, as `ταῦτα` → *these things* does. No article governs it, so rule 49 is not in question.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t027",
+        "t028"
+      ],
+      "target_head": "t027"
+    },
+    {
+      "note": "Predicate adjective; the copula is expressed in Greek (s025), so no supplied-copula question arises under rules 53 or 68.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t031"
+      ],
+      "target_head": "t031"
+    },
+    {
+      "note": "Rule 36: the preposition governing the phrase takes the English preposition.",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t032"
+      ],
+      "target_head": "t032"
+    },
+    {
+      "note": "Rule 20: the genitive pronoun αὐτοῦ is free — rule 76's availability test finds it spent on nothing else — so it takes the possessive *his* and displaces the article's determiner.",
+      "source": [
+        "s022"
+      ],
+      "source_head": "s022",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun rendered *doing*.",
+      "source": [
+        "s023"
+      ],
+      "source_head": "s023",
+      "status": "aligned",
+      "target": [
+        "t034"
+      ],
+      "target_head": "t034"
+    },
+    {
+      "note": "Genitive pronoun realized by the possessive *his* under rule 20.",
+      "source": [
+        "s024"
+      ],
+      "source_head": "s024",
+      "status": "aligned",
+      "target": [
+        "t033"
+      ],
+      "target_head": "t033"
+    },
+    {
+      "note": "Future indicative of εἰμί with its auxiliary; rule 9 heads on the lexical verb *be* rather than on *shall*.",
+      "source": [
+        "s025"
+      ],
+      "source_head": "s025",
+      "status": "aligned",
+      "target": [
+        "t029",
+        "t030"
+      ],
+      "target_head": "t030"
+    }
+  ],
+  "ref": "JAS.1.25",
+  "review_notes": [
+    "Reviewed as accepted and returned unchanged in substance; only the s007 and s011 notes were expanded to name the competing readings rule 16 asks for.",
+    "Partition verified: all 25 source IDs and all 34 target IDs occur exactly once, every aligned unit has nonempty arrays with both heads inside them, and both unrepresented units (s008, s022) have a valid source head, an empty target and a null target head.",
+    "Variant SBLGNT.JAS.1.25.v007 is underdetermined and resolved to r00-base; it covers s012 (οὐκ), which the ASV realizes as *not*, so the base reading is compatible with the English and rule 12 forbids reopening it here. There is no FALLBACK EXCLUDED mark, so rule 97 is not in play and no target token is `added`.",
+    "s007 is the one materially contested unit. I read τόν as substantival — no head noun follows it, which is rule 31's own test — and gave it the ASV's repeated *the law* under rule 22's determiner clause, headed on the nominal word. The alternative is `unrepresented` under rule 23 as a second attributive article with *law* `added`; I rejected it because rule 86 makes the presence of a licensing source token the test for `added`, and this article is such a token. The competing reading is recorded in the unit's note.",
+    "s011's supplied *so* is the second judgment call. I kept it on παραμείνας as a rule 7 helper rather than on καί; the alternative reading of *and so* as one connective is now named in the note. It is not `added` either way, since a source token licenses it.",
+    "The two genitives rendered as finite relative clauses (s014 ἐπιλησμονῆς, s018 ἔργου) are analysed alike under rule 24, with the relativizer as a rule 7 helper on the verb. No article stands in either phrase, so rule 92's article-keeps-the-determiner clause does not divide them.",
+    "νόμον τέλειον is anarthrous on both words, so rule 58 puts the supplied discontinuous *the … law* on the noun and leaves the adjective a bare *perfect*; the second *the* belongs to the separate phrase τὸν τῆς ἐλευθερίας and not to the first.",
+    "The two articles are `unrepresented` for different reasons and should not be read as one pattern: τῆς (s008) because the ASV gives *liberty* no determiner at all (rules 21, 23), τῇ (s022) because the free genitive αὐτοῦ occupies the determiner slot (rule 20)."
+  ]
+}

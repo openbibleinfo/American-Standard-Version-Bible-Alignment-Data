@@ -1,0 +1,133 @@
+{
+  "alignments": [
+    {
+      "note": "Ordinary negative aligned to *not*. The interrogative auxiliary *Do* is the verb's own periphrastic auxiliary under rule 9 and rides with s003; giving *Do* to the negator was the competing reading, rejected because rule 17 forbids heading or hanging a unit on an auxiliary that the finite verb licenses. Rules 44 and 64 are not in question: οὐκ is a contentful negative the ASV writes out, not a question-marking particle.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Expressed subject pronoun.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Finite verb with its supplied interrogative auxiliary under rule 9, discontinuous across the subject pronoun under rule 15; head on the lexical verb, not the auxiliary (rule 17).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Article realized as *the* (rule 19).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Attributive adjective; the article beside it already carries the determiner (rule 58's closing clause).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Head noun, bare because the article takes the determiner.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Second attributive article governing an expressed head noun (ὄνομα), so under rules 23 and 31 it realizes nothing and the supplied relativizer belongs to the participle, which is the verb that carries the English relative clause. Rule 31's prepositional-phrase carve-out, and with it its preceding/following determiner test, does not reach a participial modifier.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Attributive participle recast as a finite relative clause: the relativizer *which* and the passive copula *are* are rule 7 and rule 9 helpers on the participle (rule 31), discontinuous across *ye* under rule 15. Head on the lexical verb *called*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "The English preposition governing the relative realizes the Greek preposition (rule 36), even though the ASV inverts the Greek's *called upon you* into *by which ye are called*. Leaving ἐπί unrepresented was the competing reading, rejected because rule 36 permits that only where English realizes the preposition nowhere, and *by* answers to it here.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The accusative object of ἐπί becomes the English passive subject *ye*; the token still realizes this pronoun and nothing else does.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    }
+  ],
+  "ref": "JAS.2.7",
+  "review_notes": [
+    "Reviewed against the contract and returned unchanged: all ten source ids and all twelve target ids are partitioned exactly once, every aligned unit has nonempty arrays with its heads inside them, and the single unrepresented unit (s007) is source-only with a valid source head and a null target head.",
+    "The ASV restructures ἐπικληθὲν ἐφ᾽ ὑμᾶς (\"which was called upon you\", cf. the packet's gloss note and Acts 15:17) into \"by which ye are called\". Each Greek token still has a distinct English realization — ἐπί → *by*, ὑμᾶς → *ye*, the participle → *are called* — so the phrase is split rather than treated as one broad or noncompositional unit (rules 2, 27).",
+    "s007 is left unrepresented rather than given *which*: rule 31's test is whether the article governs an expressed head noun, and ὄνομα is expressed, so the relativizer is the participle's helper. Rule 92 is not the contrast either, the modifier being a participle rather than an expressed appositional predicate noun. A reference comparison may report this article as a disagreement; that is not a correction.",
+    "The interrogative *Do* is treated as the verb's auxiliary, not as a supplied interrogative word answering to a particle — no interrogative particle stands in this verse (rules 44, 64 are not in question), and οὐκ is an ordinary negative with its own *not*. Rules 41, 59 and 69 are likewise not in question: no negative or plain indefinite stands with the negator.",
+    "βλασφημοῦσιν is rendered by a single English verb here, so rule 91's *speaking evil of* head question does not arise; head on *blaspheme* is the corpus's own word for the lexeme."
+  ]
+}

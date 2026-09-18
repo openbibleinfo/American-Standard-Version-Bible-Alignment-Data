@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "chapter": "2KI.12",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2KI.12.9.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'on the right side' renders either the qere mi-yamin ('from/at the right') or the ketiv be-yamin ('on the right'); the English preposition 'on' does not distinguish min from bet here, and there is no mapped textual note."
+    },
+    {
+      "unit_id": "WLC.2KI.12.11.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'into the hands of them that did the work' is plural 'hands', matching the qere plural construct yede; the ketiv singular yad would read 'into the hand of'. The hebrew_gloss note ('brought it forth') is about a different word and does not bear on this unit."
+    },
+    {
+      "unit_id": "WLC.2KI.12.11.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'that had the oversight of the house' renders either the qere hophal participle ('those appointed over') or the unpointed ketiv hpqdym (qal 'overseers' or passive 'appointed ones'); the English does not distinguish active from passive here, and the only note (hebrew_gloss) concerns other wording."
+    }
+  ]
+}

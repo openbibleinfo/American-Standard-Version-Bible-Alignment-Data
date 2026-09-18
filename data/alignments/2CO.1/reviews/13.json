@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "3afa8dadf601c4d20d4cbb783e3aaca78d0ebc6044da8bbb3904e281d6c8dd58",
+  "contract_version": "nt-greek-verse-v58",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed unchanged. Partition verified: s001-s018 and t001-t024 each appear exactly once, every aligned unit has nonempty arrays on both sides, and every head is a member of its own array.",
+    "ἀλλ᾽ ἤ → *than* is the one genuinely open unit. The single English word is ἤ's own ordinary gloss, so ἀλλά is left unrepresented rather than joined; but a single aligned unit over both particles headed on ἀλλά is defensible under rule 39's test read the other way. Both members recorded medium.",
+    "οὐ → *no* is kept separate from ἄλλα → *other things*. Rule 87 joins a negator to a quantifier only where the ASV writes the negation once as a single word; here it writes *no* and *other* separately, each answering to a token, so rule 2 splits them. Rules 41 and 59 are not in play at all, ἄλλα being no kind of negative.",
+    "ὅτι after ἐλπίζω is unrepresented under rule 43's English-side test, the ASV writing no complementizer. Rule 85 does not bear on it: no non-finite complement is expanded here, the ὅτι clause already being finite in Greek.",
+    "ἕως τέλους: no Greek article stands here, so the supplied *the* is a rule 51 helper on τέλους rather than anything ἕως carries; rule 42's *unto the* case needs an article to ride with. ἕως is rendered by one English word, so rule 71's improper-preposition frame head is not engaged.",
+    "t011 *ye* is spent on ἀναγινώσκετε, which is why ἐπιγινώσκετε (s012) is a bare *acknowledge* while the later ἐπιγνώσεσθε (s018) keeps its own supplied *ye will*."
+  ],
+  "ref": "2CO.1.13",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

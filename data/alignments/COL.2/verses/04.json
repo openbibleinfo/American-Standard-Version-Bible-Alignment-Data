@@ -1,0 +1,112 @@
+{
+  "alignments": [
+    {
+      "note": "Substantival demonstrative → This.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Finite verb with its supplied subject pronoun as a rule 7 helper, headed on the lexical verb.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "ἵνα → that (rule 40).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Negative indefinite → no one; rule 17's generic-noun clause heads on no rather than the supplied one.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Subjunctive with its modal auxiliary under rule 9, headed on the lexical verb.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Accusative object pronoun.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "ἐν → with.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "One Greek compound noun rendered by the phrase persuasiveness of speech, where each English word glosses one element: persuasiveness answers to πιθανο- and speech to -λογία. The head is the word answering to the nominal core, so it stands on speech. Rule 91's rows for this shape read it that way — καταλαλιάς → evil speakings heads on speakings and δυσφημίας → evil report on report — as this chapter does at COL.2.23, ἐθελοθρησκίᾳ → will worship heading on worship, and as rule 104's εὐπειθής → easy to be entreated and εὐάρεστος → well pleasing head their stem words. Rule 66's generic-completion arm is not the case here, since speech glosses a real element rather than completing the phrase, and rule 17 forbids the competing reading's only support, that persuasiveness stands first and is the English phrase's formal head. Heading on persuasiveness remains defensible, πιθανολογία being a hapax whose distinguishing sense sits in that element.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "COL.2.4",
+  "review_notes": [
+    "Only s008's target head changed, from t011 persuasiveness to t013 speech; its note now records the reasoning and names the competing reading. The other seven units are unchanged and were re-verified.",
+    "The partition still covers s001–s008 and t001–t013 exactly once, with no unrepresented and no added units.",
+    "Both textual units are unchanged: SBLGNT.COL.2.4.v006 is selected on r00-base covering s001 and v007 underdetermined on r00-base covering s004, and the ASV translates both, so rule 97 is not in play.",
+    "This brings the verse into line with COL.2.23 and is recorded as a chapter convention; rule 66 is amended to state the test the correction rests on."
+  ]
+}

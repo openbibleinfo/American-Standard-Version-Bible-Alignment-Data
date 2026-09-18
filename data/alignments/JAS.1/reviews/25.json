@@ -1,0 +1,18 @@
+{
+  "alignment_sha256": "935bfd0986f8094322f97b44e1e3c46d743f68afc41ff6de399e2d5d20a29eb7",
+  "contract_version": "nt-greek-verse-v61",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed as accepted and returned unchanged in substance; only the s007 and s011 notes were expanded to name the competing readings rule 16 asks for.",
+    "Partition verified: all 25 source IDs and all 34 target IDs occur exactly once, every aligned unit has nonempty arrays with both heads inside them, and both unrepresented units (s008, s022) have a valid source head, an empty target and a null target head.",
+    "Variant SBLGNT.JAS.1.25.v007 is underdetermined and resolved to r00-base; it covers s012 (οὐκ), which the ASV realizes as *not*, so the base reading is compatible with the English and rule 12 forbids reopening it here. There is no FALLBACK EXCLUDED mark, so rule 97 is not in play and no target token is `added`.",
+    "s007 is the one materially contested unit. I read τόν as substantival — no head noun follows it, which is rule 31's own test — and gave it the ASV's repeated *the law* under rule 22's determiner clause, headed on the nominal word. The alternative is `unrepresented` under rule 23 as a second attributive article with *law* `added`; I rejected it because rule 86 makes the presence of a licensing source token the test for `added`, and this article is such a token. The competing reading is recorded in the unit's note.",
+    "s011's supplied *so* is the second judgment call. I kept it on παραμείνας as a rule 7 helper rather than on καί; the alternative reading of *and so* as one connective is now named in the note. It is not `added` either way, since a source token licenses it.",
+    "The two genitives rendered as finite relative clauses (s014 ἐπιλησμονῆς, s018 ἔργου) are analysed alike under rule 24, with the relativizer as a rule 7 helper on the verb. No article stands in either phrase, so rule 92's article-keeps-the-determiner clause does not divide them.",
+    "νόμον τέλειον is anarthrous on both words, so rule 58 puts the supplied discontinuous *the … law* on the noun and leaves the adjective a bare *perfect*; the second *the* belongs to the separate phrase τὸν τῆς ἐλευθερίας and not to the first.",
+    "The two articles are `unrepresented` for different reasons and should not be read as one pattern: τῆς (s008) because the ASV gives *liberty* no determiner at all (rules 21, 23), τῇ (s022) because the free genitive αὐτοῦ occupies the determiner slot (rule 20)."
+  ],
+  "ref": "JAS.1.25",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

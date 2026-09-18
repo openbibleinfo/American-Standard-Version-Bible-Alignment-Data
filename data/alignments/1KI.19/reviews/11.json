@@ -1,0 +1,9 @@
+{
+  "alignment_sha256": "2080cc52a6502cf6e97d40cda41d9835605610224bfb9fda718b42c42de5a71e",
+  "contract_version": "ot-hebrew-verse-v2",
+  "notes": [
+    "Checked full source/target partition (43 s-IDs, 54 t-IDs each used once), unit edges, and heads against the token table. One correction: the two ASV-supplied adversative 'but' tokens (t035, t048) stand in asyndetic Hebrew clauses and were folded into the negatives s029/s039; per the chapter's 1KI.19.5 convention that a supplied coordinator answering to no Hebrew morpheme is 'added', each is now its own added unit and the negatives take only 'not'. Verified as correct: waw units, the two fixed lipne expressions headed on s010/s027, discontinuous 'a ... wind' (s017) and the fronted Jehovah tokens s033/s043, supplied 'the' on anarthrous s022/s025, 'brake in pieces' on s024, and the verbless-clause 'was' joining the prepositional predicates s030/s040."
+  ],
+  "ref": "1KI.19.11",
+  "status": "reviewed"
+}

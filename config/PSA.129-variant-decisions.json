@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "chapter": "PSA.129",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.PSA.129.3.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere לְמַעֲנִיתָם and ketiv למענותם are spellings of the same noun 'their furrows'; the ASV renders 'They made long their furrows' with no italics and no mapped textual note, so nothing in the English distinguishes the two orthographies. Both readings stay compatible and the qere base fallback carries the projection."
+    }
+  ]
+}

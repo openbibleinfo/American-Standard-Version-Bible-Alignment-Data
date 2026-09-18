@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "aff7ff854cee982257df65d67358088423add1d0ec50c2668596e616f4b05bfa",
+  "contract_version": "nt-greek-verse-v110",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "Corrected: the accepted alignment treated *they* as a supplied subject on ἐλθόντες under rule 74, but rule 74's supplied-subject arm reaches only a participial clause whose subject the Greek leaves unexpressed. Here the substantival article οἱ expresses it, so the subject word is that token's own aligned English and the participle keeps only *when … came*.",
+    "The article accordingly carries the discontinuous *they … that*, rule 32's contrast for an article whose modifier is a prepositional phrase with no verb to carry a relativizer, headed on *they* under rule 22.",
+    "This also brings the verse into line with MAT.20.10 and MAT.20.24, where the same participle-plus-expressed-subject frame leaves the participle only its subordinator and verb."
+  ],
+  "ref": "MAT.20.9",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

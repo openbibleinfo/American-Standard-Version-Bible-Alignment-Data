@@ -1,0 +1,109 @@
+{
+  "alignments": [
+    {
+      "note": "Interrogative μή, which English marks by inversion alone; no word answers to it (rule 44).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Greek light-verb pair ἔχει χάριν collapsed into the single English verb *thank* (rule 73); source head on the token the target head realizes, with the interrogative auxiliary and subject riding inside.",
+      "source": [
+        "s002",
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Article → *the*; the case preposition is absorbed by the English verb's direct object.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "ὅτι → *because*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Verb with supplied subject pronoun.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Substantival article before a participle taking a determiner plus the supplied nominal *things*, headed on the nominal (rules 22, 102).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Participle rendered as a finite relative clause; relativizer and copula are its helpers (rules 31, 32).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "LUK.17.9",
+  "review_notes": [
+    "The `unrepresented` interrogative μή is required by rule 44; a reference comparison reporting it is not a correction."
+  ]
+}

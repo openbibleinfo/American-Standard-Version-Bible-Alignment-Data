@@ -1,0 +1,180 @@
+{
+  "alignments": [
+    {
+      "note": "Postpositive δέ realized by the clause-initial But.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Inflected verb takes its supplied subject pronoun under rules 7 and 9; wilt is the lexical realization of θέλω here (the modal sense is the lexeme's own), not an auxiliary of know, which renders γνῶναι separately. Rule 17 therefore heads on wilt rather than on the pronoun.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Infinitive rendered by the bare complement verb; no infinitival to is written, so rule 61's helper clause has nothing to place.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Interjection ὦ realized by O.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Attributive vocative adjective κενέ rendered vain; split from its noun under rule 26.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Anarthrous vocative noun; the address word O belongs to the expressed interjection ὦ, so nothing else rides here (rule 89's helper clause has no work to do).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Complementizer written out by the ASV, so rule 43's test — the presence of an English word — leaves it aligned to that word.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The ASV writes bare faith with no determiner, so the article anchors nothing (rules 23 and 21).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Subject noun.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Improper preposition. The ASV gives the governed noun no determiner, so no article stands to anchor a case preposition (rule 21) and the supplied from stays where the ASV's phrasing puts it, exactly as ἐγγὺς τοῦ Σαλείμ → near to Salim keeps near to whole under rule 42. Head on apart, the word rendering the adverb itself: this is rule 71's ἐγγύς → nigh unto case, where the adverb has an English gloss of its own and the frame is not a supplied one, not rule 71's supplied-frame case that heads on a lexical noun. The competing readings are from on the article τῶν as case preposition, which rule 21 forbids as a bare from, and from on ἔργων under rule 21's determinerless clause; the latter is ruled out because an improper preposition is expressed here, and rule 42 settles that configuration by keeping the adverb's English phrase whole.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Second article likewise has no English determiner to take (rule 23).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Governed noun stands bare.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Expressed copula; the Greek clause is not verbless, so rules 53 and 63 do not arise and is stays on ἐστιν rather than riding with the predicate adjective.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Predicate adjective ἀργή → barren; the selected reading r00-base covers this token per the variant line.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "JAS.2.20",
+  "review_notes": [
+    "Reviewed and kept the accepted alignment's unit membership, statuses and heads unchanged. Every s### and t### id is partitioned exactly once (14 source, 14 target).",
+    "Two articles left unrepresented: the ASV supplies no determiner for either faith or works, so rule 21's anchor is absent and rule 23 decides both. No possessive, demonstrative or indefinite competes for the slot, so rules 20, 51 and 60 are not in play.",
+    "χωρίς keeps apart from whole, headed on apart. Two competing readings were weighed and are now named in the unit note rather than only the article one: (a) from to the article τῶν as case preposition under rules 21 and 42, refused because rule 42's determiner clause needs a determiner the ASV never supplied and rule 21 forbids a bare from on an article; (b) from to ἔργων under rule 21's determinerless clause, refused because that clause governs a bare case with no expressed preposition, whereas here an improper preposition is expressed and rule 42's ἐγγὺς τοῦ Σαλείμ → near to Salim precedent keeps the adverb's phrase whole. This is the only edit made to the accepted alignment, and it is note text only.",
+    "Head on apart, not on the frame's second word: rule 71 heads a supplied frame on its lexical noun (in the sight of → sight), but apart is itself the gloss of χωρίς, so this is that rule's ἐγγύς → nigh unto case. No noun stands inside the frame for the other reading to take.",
+    "θέλεις takes wilt thou and γνῶναι takes know separately: wilt is the lexical gloss of θέλω, not an auxiliary of the infinitive, so rule 9 does not pull the head onto know.",
+    "ἐστιν is expressed, so no copula is supplied and the verbless-clause chain (rules 53, 62, 63, 68, 96) is untouched. Likewise ὦ is expressed, so rule 89's supplied-address-word reasoning does not arise and ἄνθρωπε stands bare.",
+    "ὅτι is aligned rather than unrepresented because the ASV wrote that; rule 43's test is the presence of an English word, not whether the reported clause is recitative."
+  ]
+}

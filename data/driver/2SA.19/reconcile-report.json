@@ -1,0 +1,35 @@
+{
+  "chapter": "2SA.19",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2SA.19.10",
+    "2SA.19.13",
+    "2SA.19.28",
+    "2SA.19.35",
+    "2SA.19.42"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Status of rule-30 fusions. Where two or more source morphemes are rendered by a single English rendering, this chapter records the shared unit as `noncompositional`, not as a multi-source `aligned` unit: לָמָה -> why / wherefore (19.10, 19.11, 19.12, 19.25, 19.29, 19.35, 19.36, 19.42), לִפְנֵי -> before and in the presence of (19.8, 19.13, 19.17, 19.18), כַּאֲשֶׁר -> as (19.3), בֶּן־יְמִינִי -> Benjamite (19.16), חֲמֵשֶׁת עָשָׂר -> fifteen (19.17), מַה־לִּי -> What have ... to do with (19.22), וְאַל -> neither (19.19), עָלֶיהָ -> thereon (19.26), כִּי אִם -> but (19.28), אַחֲרֵי אֲשֶׁר -> forasmuch as (19.30), כֹּל אֲשֶׁר -> whatsoever (19.38), כָּל־הַיָּמִים -> continually (19.13). A single source morpheme rendered by several English words stays `aligned` — תַּחַת -> in the room of (19.13), עוֹד -> any more (19.28, 19.29, 19.35), מִן -> out of (19.9). This is a chapter convention and not a contract ruling: the corpus reads the same expressions both ways (לִפְנֵי -> before is 218 noncompositional against 143 aligned; וְ לֹא -> neither is 105 against 103), so a later chapter is free to settle it the other way, but must settle it once.",
+    "The בְּעֵינֵי X idiom. Where the ASV writes the idiom out — in thine eyes (19.27) — all three morphemes align: בְּ takes in, עַיִן takes eyes, the suffix takes the possessive. Where the ASV recasts it, the preposition and the noun both go `unrepresented` under rule 40 and the suffix takes whatever pronoun is written, including a subject pronoun: he thought good (19.18, suffix -> he), it had pleased thee well (19.6, suffix -> thee), shall seem good unto thee (19.37, 19.38, where בְּ takes the unto and only עַיִן is unrepresented). This accounts for four of the BSB disagreements, which read the noun as represented.",
+    "A lexical word the ASV supplies inside a recasting is its own `added` unit and is never folded into the morpheme whose rendering it stands beside: cost and gift (19.42), right (19.43), the heart of and saying (19.14), the purpose phrase to bring him (19.11), the appositional even before the age phrase (19.32), and the object pronouns it at 19.19 and 19.36, where no object morpheme stands in the clause. Nine such units, and the policy is what makes them consistent; the candidate table cannot see it, since an `added` unit has no source token.",
+    "The age formula בֶּן + numeral + שָׁנָה. The construct בֶּן is what the ASV renders by old, and it takes the clause's construction-supplied copula where the clause is verbless: fourscore years old (19.32), I am ... fourscore years old (19.35). The numeral and the counted noun keep their own English and the unit is discontinuous around them under rule 25. Do not mark בֶּן unrepresented and read old as construction-supplied."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v74",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 87 candidate groups and read the dump end to end, since the table is blind to `added` units and to a supplied word folded into a licensing morpheme.",
+    "Split 1 (five units, four verses): a rule-30 fusion of several morphemes into one English rendering is `noncompositional` in seventeen units across fifteen verses, but multi-source `aligned` in 19.13 (לְפָנַי -> before; כָּל־הַיָּמִים -> continually), 19.28 (כִּי אִם -> but) and 19.35 / 19.42 (לָמָּה -> wherefore). Nothing in the source licenses the difference: 19.35 and 19.42 are the same two morphemes and the same one English word as the five לָמָה units marked noncompositional, and 19.13's לְפָנַי is the same fusion as 19.8, 19.17 and 19.18. Each of the four aligned units' own notes cites rule 30 or rule 6, i.e. the fusion rules, which is the tell that the status was the slip and not the analysis. Normalized to the chapter majority, which is also the corpus's dominant treatment of compound prepositions.",
+    "Split 2 (one unit): הָשִׁיב -> bringing back heads on the particle in 19.10 and on the verb in 19.11, 19.12 and 19.43. Rule 44 is explicit that a phrasal particle is not a complement and the head stays on the verb, so 19.10's head moved to *bringing*. The unit's edges are unchanged, and every other phrasal-particle unit in the chapter (went over, came down, fell down, stolen away, go up, turn back again, conduct over, come over, brought over) already heads on its verb.",
+    "Checked and left alone: the בְּעֵינֵי idiom (recast in 19.6, 19.18, 19.37 and 19.38, written out in 19.27 — the ASV licenses each); the neither/nor/nor correlative of 19.24 against the lone fused neither of 19.19 (rules 14 and 35 respectively); הָיָה לְ in 19.2 against 19.22 and 19.35; the interrogative particle taking the fronted auxiliary in 19.13, 19.21, 19.22, 19.35 and 19.42 against rule 17's no-particle limit in 19.22's first clause; the age formula בֶּן + numeral + שָׁנָה in 19.32 and 19.35; and the nine `added` units, which are one coherent policy the table cannot see — a supplied lexical word is its own unit and is never folded into a neighbour.",
+    "BSB: no genuine error. The Rd, Td, R and Ncbdc runs are the documented convention difference, and the Ncbdc four are the עֵינֵי of the recast idiom above. Each itemized token is a reading its verse already argues: 19.7 לֵב (the ASV spends *comfortably* on the idiom, so rule 30's one-word condition fails and rule 2 splits it), 19.22 and 19.28 waw, 19.24 and 19.28 לֹא, the object markers at 19.24 and 19.33, 19.42 זֶּה, 19.43 the second suffix under rule 22.",
+    "One place I looked hard at and did not change: 19.3 לָבוֹא -> into, where the preposition takes *into* and the infinitive is unrepresented. Reading the pair as a rule-30 fusion is defensible and BSB reads the verb as represented, but it occurs once in the chapter, so it is a verse judgment rather than a split, and changing it would move an accepted edge on no cross-verse evidence.",
+    "No promotions. The corpus contradicts itself on exactly the question the fusion convention settles — לִפְנֵי -> before is 218 noncompositional against 143 aligned, and וְ לֹא -> neither is 105 against 103 — so a contract rule here would be worse than none."
+  ]
+}

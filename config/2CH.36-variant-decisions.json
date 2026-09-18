@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "chapter": "2CH.36",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2CH.36.17.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere כַּשְׂדִּים and ketiv כשדיים are purely orthographic variants (defective vs. plene yod) of the same plural gentilic, both rendered 'Chaldeans'. The ASV reads 'the king of the Chaldeans' with no note at 36:17, so nothing in the English distinguishes the spellings; the qere base fallback carries the projection."
+    }
+  ]
+}

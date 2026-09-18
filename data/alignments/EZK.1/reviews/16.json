@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "f83e28671cfcbf5e9e4636e20cb7d60816976625607bc33881060dc81b6a1fa0",
+  "contract_version": "ot-hebrew-verse-v62",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "Corrected one unit: the accepted alignment gave *as* to כַּ alone and marked אֲשֶׁר unrepresented under rule 22. כַּאֲשֶׁר is one Hebrew expression rendered by one English word, so rule 30 fuses the two morphemes into a single unit; rule 22 does not apply, אֲשֶׁר being neither repeated nor resumptive. The supplied copula rides with the fused prepositional predicate under rules 20 and 49, as rule 30 permits (לִפְנֵי → *was before*).",
+    "Everything else stands: partition now 30 source tokens across 27 units and 34 target tokens each used once; כְּעֵין fuses to *like unto* with its copula (rules 30, 49), and both articles on הָאוֹפַן are unrepresented because the ASV writes *a wheel* twice (rule 29).",
+    "יִהְיֶה keeps *it were*: the explicit subject הָאוֹפַן is rendered *a wheel*, so the English *it* is pleonastic and stays with the verb (rule 17)."
+  ],
+  "ref": "EZK.1.16",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

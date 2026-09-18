@@ -1,0 +1,7 @@
+# Hebrews 6 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Rule 37 pair across 6:4 and 6:6: the ASV renders Ἀδύνατον at the head of 6:4 as *it is impossible* inside 6:6. The Greek token is its own `unrepresented` unit at 6:4 and the English is `added` at 6:6; neither verse reaches across, and the BSB comparison reports the 6:4 token as a disagreement, which is not a correction.
+- Supplied English is folded or added by whether a source token is present *and unspent*, not by the ASV's italics. *then* (6:6) folds onto καί, which licenses it and is unspent; the second *things* (6:9) is `added` because τά has already spent its English on the first *things*; *a hope* (6:19) is `added` because ἐλπίδος stands and is already realized as *hope* at 6:18 and ἥν has its own *which*. Reading the last two as discontinuous second realizations under rule 15 remains defensible and is conceded in both unit notes.
+- The μακροθυμ- family heads on the *patience* word, not on the verbal completion: μακροθυμίας → *patience* (6:12) is what fixes μακροθυμήσας → *having patiently endured* on *patiently* (6:15) under rule 91's operational test. A head on *endured* is the competing reading and is named in that unit.

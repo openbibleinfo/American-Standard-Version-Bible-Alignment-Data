@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "chapter": "HEB.2",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.HEB.2.1.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only: both readings contain the same words (proseche_in he_mas), and English 'we ought to give the more earnest heed' cannot register Greek constituent order. No ASV note maps here."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.2.7.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV prints the longer text: 'And didst set him over the works of thy hands' renders kai kateste_sas auton epi ta erga to_n cheiro_n sou, and the mapped textual_variant note 'Many authorities omit And didst . . . hands' confirms the translators had the clause in their text and relegated its absence to the margin."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.2.8.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Word order only: to_ gar vs gar to_. 'For in that he subjected' reflects both alike, and no ASV note maps here."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.2.8.v004",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'in that he subjected all things unto him' has an unitalicized dative object 'unto him' answering auto_; the shorter reading leaves it unexpressed, so the English wording distinguishes the longer text."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.2.9.v005",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'that by the grace of God he should taste of death' renders chariti theou; cho_ris theou would read 'apart from God', which the ASV does not print even in the margin (its only note here is an alternative_rendering on 'a little lower')."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.2.14.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "The ASV's mapped gloss 'Greek blood and flesh' reports the order of the text the translators rendered, which is haimatos kai sarkos; the English 'flesh and blood' is the idiomatic inversion the note exists to flag, so the note, not the English, settles the unit."
+    }
+  ]
+}

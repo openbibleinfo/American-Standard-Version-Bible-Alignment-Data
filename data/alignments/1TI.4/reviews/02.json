@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "a4d1b81061f49086e257596fa7bae1904a17602b0eddc5fa9bd5edfd6ec1d597",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 7 source and 18 target IDs partition exactly once.",
+    "`τήν` is `unrepresented` under rule 47: `ἰδίαν` stands attributively between the article and an expressed head noun, so the possessive adjective carries *their own* and the article realizes nothing; the supplied *in* then stays with `συνείδησιν` under rule 21's determinerless clause, discontinuously under rule 15.",
+    "The head of `ψευδολόγων` was checked independently under rule 91: *men* is the generic completion and *speak* the word glossing the `-λογ-` element, matching `καταλαλιάς` → *evil speakings* on *speakings* and `δυσφημίας` → *evil report* on *report*, which head the speech word rather than the modifier.",
+    "*as with a hot iron* is kept whole on `κεκαυστηριασμένων`: no other source token licenses it, and rule 15 permits the discontinuity.",
+    "`ὑποκρίσει` is anarthrous, so the supplied *the* is an ordinary rule 7/51 helper on the noun rather than an article's determiner."
+  ],
+  "ref": "1TI.4.2",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

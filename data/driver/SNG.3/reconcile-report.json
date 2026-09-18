@@ -1,0 +1,30 @@
+{
+  "chapter": "SNG.3",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "סָבַב with a following בְּ is divided rather than read as an English phrasal verb: the verb takes *go* and the present preposition takes the written *about* (rule 11's priority of a present function morpheme over a supplied-word analysis). SNG.3.2 (אֲסוֹבְבָה בָעִיר) and SNG.3.3 (הַסֹּבְבִים בָּעִיר). The competing reading keeps *go about* whole on the verb and leaves the preposition unrepresented. Where the ASV instead spends no word on the preposition's own relation — רָאָה בְּ at SNG.3.11, *behold king Solomon* — that בְּ is `unrepresented` under rule 40; read what is written before dividing.",
+    "עַד + שֶׁ is one `aligned` unit under rule 30, headed on עַד as the morpheme carrying the temporal content (rule 23), whichever single English word the ASV writes for the pair: *When* and *Until* at SNG.3.4, *Until* at SNG.3.5. The corpus reads the same pair `aligned` at SNG.8.4 and `noncompositional` at SNG.4.6; this chapter takes the `aligned` reading throughout, and the contradiction in the corpus is why no rule was promoted.",
+    "In the refrain אֵת שֶׁאָהֲבָה נַפְשִׁי the relative שֶׁ takes the supplied antecedent with it — *him whom*, headed on *whom* (rule 46's first rider) — and the אֵת is `unrepresented` (rule 16). This holds even where a verb writing an object suffix of its own stands beside it: at SNG.3.1 the unsuffixed בִּקַּשְׁתִּי takes only *I sought* while the suffixed בִּקַּשְׁתִּיו takes *I sought him*, the two *him*s answering to different morphemes. Same division at SNG.3.2, SNG.3.3 and SNG.3.4.",
+    "In the adjuration formula at SNG.3.5 the oath אִם is what carries the ASV's negation: the first takes *That … not* in one discontinuous unit (rule 25), headed on *That*, and the second fuses with its waw into the single *nor* under rule 35, headed on the particle. Heading the first unit on *not* instead is defensible, the negation being what the particle contributes.",
+    "At SNG.3.7 the possessive שֶׁלִּשְׁלֹמֹה is divided: the לְ takes the written *of* (rule 49) and the relative שֶׁ is `unrepresented`, the ASV writing no relative, on the model of rule 49's אֲשֶׁר לַבָּיִת → *which belonged to the house*. The anticipatory suffix of מִטָּתוֹ is `unrepresented` under rule 22, the possession being written once. The competing reading fuses שֶׁ + לְ into the one *of* under rule 30, as the corpus does for שֶׁלִּי → *sake* at JON.1.12; BSB represents all three morphemes, by its own convention."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v139",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 21 candidate lemma groups and then read the dump end to end, since the table is keyed by source lemma and is blind to this chapter's six `added` units. No cross-verse split found; patches empty.",
+    "Article buckets are ASV counting, not analysis: SNG.3.9 הַמֶּלֶךְ שְׁלֹמֹה and SNG.3.11 בַּמֶּלֶךְ שְׁלֹמֹה agree with each other (no *the* written, both `unrepresented`), and בַּלֵּילוֹת differs only because the ASV writes *By night* at SNG.3.1 and *in the night* at SNG.3.8.",
+    "סָבַב + בְּ is analysed identically at SNG.3.2 and SNG.3.3: the verb takes *go*, the present preposition takes *about* under rule 11, each with the competing phrasal-verb reading named. SNG.3.11's בַּמֶּלֶךְ is `unrepresented` because the ASV writes no word for its relation (rule 40) — a difference the English licenses.",
+    "All three עַד שֶׁ pairs are one `aligned` unit headed on עַד (*When*, *Until*, *Until*); all four refrain relatives take the supplied antecedent as *him whom* headed on *whom*, and SNG.3.1 keeps that *him* distinct from the *him* of the suffixed בִּקַּשְׁתִּיו standing in the same verse.",
+    "Supplied English is treated alike throughout: the cleft *It* (SNG.3.4) and *it* (SNG.3.7) are both `added`; every construction-supplied copula goes to its predicate (SNG.3.4, 3.6, 3.7, 3.8, 3.10); the speech frames of SNG.3.2 and SNG.3.3 and the italic *and* and *hath* of SNG.3.8 are `added` because no morpheme is left unspent on rule 43's count, while SNG.3.5's italic *my* is placed on the article that licenses it under rule 41. Nothing supplied is folded in one verse and added in another.",
+    "BSB: no genuine error. The four אֵת rows are rule 16's documented convention difference; SNG.3.7 וֹ and שֶׁ, SNG.3.7 and SNG.3.11 לְ, SNG.3.9 הַ and SNG.3.11 בַּ are morphemes the ASV writes nothing for and BSB attaches to its phrase. Only SNG.3.7 שֶׁלִּשְׁלֹמֹה has a live competing reading (fusing שֶׁ + לְ into the one *of* under rule 30); it is recorded as a convention rather than changed, and no accepted edge was moved to improve the aggregate.",
+    "Five conventions recorded. The validation report's 20 repeated notes are mostly bare restatements of rules 14, 16, 18, 19 and 29 and are left unrecorded; what is logged is the handful of judgments with a named competing reading."
+  ]
+}

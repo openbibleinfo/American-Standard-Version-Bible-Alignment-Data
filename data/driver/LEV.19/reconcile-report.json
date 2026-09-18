@@ -1,0 +1,28 @@
+{
+  "chapter": "LEV.19",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "The chapter's closing refrain. Where the clause is the bare ani YHWH 'eloheykem, the name is the predicate and takes the construction-supplied copula (I am Jehovah your God), the explicit pronoun taking only its own I under rule 20; this is the reading in 19.3, 4, 10, 12, 14, 16, 18, 25, 28, 30, 31, 32, 34, 36 and 37. Where an adjectival predicate stands in the same clause, that predicate takes the copula instead and the name is left a bare Jehovah: 19.2's ki qadosh 'ani YHWH 'eloheykem is read I Jehovah your God (subject) am holy, with am on qadosh. Read which side is the predicate before placing the copula; the refrain's shape alone does not decide it. In every occurrence the construct 'elohey takes a bare God with no of, because the ASV writes a possessive for the suffix rather than an of-phrase (rule 18), and 19.12's shem 'eloheykha is the contrasting case where a written construct chain does put of on the rectum.",
+    "Rule 35 fusion is applied throughout this chapter by asking what the single English word carries, not by which connective lemma stands in the clause. Beyond the ordinary waw plus lo' rendered neither or nor, 19.29's we-lo' tizneh is read as one lest, which carries both the connective and the negation, and 19.20's 'o ... lo' nittan is read as one nor, which carries both the disjunction and the negation, on the reasoning rule 14 gives for reading 'o exactly as a waw and rule 35 gives for 'im lo' as for we-lo'. In each the competing reading was to give the word to the connective alone and mark the negative unrepresented; the fusion was preferred because the negation is what distinguishes lest from so and nor from or. Where the ASV instead writes a word for each morpheme, as at 19.17 and at 19.20's first clause, the pair is split; and where no coordinator stands at all, the negative carries neither by itself (19.16, 19.26).",
+    "At 19.23 kol 'ets ma'akhal is read all manner of trees for food with the whole quantifier phrase all manner of belonging to kol as one rendering, and 'ets keeping only trees. The competing reading, giving all to kol and manner of trees to the noun as a generic expanding it, is what rule 35's kol-mela'khah lo' ta'asu example produces, but that example is decided by the fusion having consumed kol's own English and left manner of nowhere else to go. Here kol keeps a written all, and English all manner of is a fixed quantifying expression of which no part modifies the noun's class, so nothing is transferred to the noun. Read whether the kol still holds an English word of its own before dividing such a phrase."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v105",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 57 candidate lemma groups and read the full dump end to end for the splits the candidate table cannot see (added units have no source token and appear in no group). No construction is analysed two ways without the source or the ASV licensing the difference, so no patches.",
+    "Article counting is consistent and morphology-driven: 19.6 aligns the ordinal's article to the written the because it is the phrase's only article morpheme, while 19.7, 19.24 and 19.25 mark the agreement article unrepresented because a first article already took the single the (rule 47). Same for the assimilated [ha] tokens: aligned at 19.7/10/24/25 where a the is written, unrepresented at 19.6/15/35 where none is.",
+    "Rule 35 fusions are read off the ASV, not off the morphemes: waw plus a negative fuses at 19.11, 19.13, 19.14, 19.15, 19.18, 19.19, 19.26, 19.27 and 19.28 where one English word is written, and splits at 19.17 where the ASV writes both and and not. A bare negative carries neither alone at 19.16 and 19.26 where no waw stands, and a bare waw carries nor at 19.31 where the negation is gapped. All correct as they stand.",
+    "The added audit is clean. The six added units (it 19.6, him 19.13, but 19.15, even 19.21, anything 19.26, them 19.31) each sit in a clause that writes no morpheme to carry the word, and every clause that does write one places the word on that morpheme (object suffixes at 19.5, 19.8, 19.10, 19.29, 19.33, 19.36, 19.37; the waw taking or at 19.35). Nothing is folded in one verse and supplied in another.",
+    "BSB: all 27 disagreements are the documented convention difference and none is a genuine error. Eleven are prepositions the ASV's recasting leaves with no English (rule 40) plus the lamed of le'mor (rule 27); six are agreement or assimilated articles (rules 29, 47); four are object markers written bare (rule 16); two are suffixes the ASV writes no possessive for (19.11 one to another, 19.22 the sin); two are waws the ASV does not render (19.20 relative recasting, 19.28 verse-initial); and two are the third and fourth in of 19.35, for which the ASV writes only two ins. No accepted edge was changed.",
+    "Two single-verse readings are contested but defensible and are now in the conventions log rather than left to be rediscovered: the all manner of division at 19.23, and the extension of rule 35's fusion to a non-waw connective at 19.20 and to lest at 19.29.",
+    "No promotions or amendments. The two extensions this chapter made are each a single occurrence whose reasoning the contract already supplies: rule 35 already fuses the non-waw ki 'im and 'im lo', and rule 41 already reads a determiner written in the article's place whatever the article stands on. A rule for either would add a cross-reference where no sentence needs correcting."
+  ]
+}

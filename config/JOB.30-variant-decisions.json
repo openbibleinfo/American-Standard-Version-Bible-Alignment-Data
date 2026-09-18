@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "chapter": "JOB.30",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JOB.30.11.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV renders \"he hath loosed his cord\" with the third-person suffix of the ketiv yitro (his cord), not the qere yitri (my cord); the verse note confirms the mapping by offering the qere as the alternative, \"According to another reading, my cord (or, bowstring).\""
+    },
+    {
+      "unit_id": "WLC.JOB.30.22.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV \"and thou dissolvest me in the storm\" renders neither consonantal form transparently: it matches neither the qere tushiyyah (sound wisdom, substance) nor the ketiv teshuwah, but derives \"storm\" from the context of the preceding wind. No note is mapped to this unit, so the English does not distinguish the readings and the qere base fallback carries the projection."
+    }
+  ]
+}

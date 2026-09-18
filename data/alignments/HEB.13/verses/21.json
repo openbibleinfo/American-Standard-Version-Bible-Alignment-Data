@@ -1,0 +1,374 @@
+{
+  "alignments": [
+    {
+      "note": "Resultative rendering: rule 17 heads on the meaning-bearing complement (`make straight` heads on `straight`), so `make ... perfect` heads on *perfect*. Discontinuous around the object pronoun under rule 15.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Object pronoun of the resultative verb, split off under rule 2.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Preposition realized by *in* under rule 36.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Universal quantifier rendered *every*; no negator stands with it, so rule 87 is not in question.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Substantival adjective expanded with a generic English noun; rule 17's generic-noun clause keeps the head on the adjective. The Greek is anarthrous, so rule 102 (article taking a supplied nominal) does not reach it and rule 51's anarthrous clause makes *thing* an ordinary rule 7 helper on `ἀγαθῷ`.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Preposition governing an articular infinitive takes the English clause-introducer under rule 61; here the ASV writes only the bare infinitival *to*, which is rule 24's habit against the same construction rendered *to the end that*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Nominalizing article of the articular infinitive, `unrepresented` under rules 61 and 23; the ASV writes no determiner of its own for it.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The infinitive keeps its own verb, the introducing *to* having gone to `εἰς` under rule 61.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Article displaced by the possessive under rule 20: the genitive `αὐτοῦ` is present and free to carry *his*, so the article realizes nothing.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Head noun, bare after rule 20 gave the possessive to the genitive pronoun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Genitive pronoun realized as the possessive determiner under rule 20; rule 76's availability test is satisfied, the pronoun carrying no other English word here.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Participle rendered by the bare English participle.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Preposition realized by *in* under rule 36.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Dative pronoun. The projection carries the base reading `ἡμῖν` at SBLGNT.HEB.13.21.v008, which the ASV's *in us* matches; the marginal *you* is not this file's decision under rule 12.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Substantival article before an adjective, no head noun expressed: rule 22 gives it *that which*, and rule 77 records that a substantival `τὸ` heads on *that* in all nine corpus units and on the relativizer in none. No participle follows, so rule 32 does not split it.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Adjectival predicate takes the supplied copula under rule 53 (`ὅμοια` → *were like*); giving *is* to the article was the competing reading, but rule 31 hands a copula to the article only where the modifier is a prepositional phrase with no word to carry it. Head on *pleasing* under rule 104: the `εὐ-` compounds head the stem word in all four units of `εὐάρεστος` → *well pleasing*.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t017",
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Improper preposition keeping the whole English frame that renders the adverb, discontinuous around the possessive under rule 15. Rule 71 settles the head on the frame's lexical noun — `ἐνώπιον` → *in the sight of* heads on *sight* at 2CO.7.12, 2CO.8.21 and the REV run — and rule 95 confirms `ἐνώπιον` is improper despite its PREP tag.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t020",
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Governed genitive pronoun realized by the possessive inside the frame; no article stands here for rule 21 to hand a case preposition to.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Proper preposition realized by *through*.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Split from `Χριστοῦ` under rules 17 and 26 rather than sharing one head.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Separately recoverable name, split under rule 26.",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "note": "Verbless clause whose subject is the noun `δόξα`, so rule 63 keeps the supplied copula off the subject and on the predicate; the dative relative is that predicate, and rule 53 gives it the copula as it gives *am in* to a prepositional predicate. The case preposition *to* rides along under rule 21. Head on *whom*, the word realizing the pronoun. Giving the copula to `δόξα` instead is the defensible alternative and is what JUD.1.25, PHP.4.20, REV.5.13 and REV.7.12 do, but in each of those the dative is a noun or an article that rule 21 has already loaded with a determiner and a case preposition, leaving the nominative the only free host; where a bare dative pronoun stands as it does here, GAL.1.5 — the verbatim twin, identical Greek and identical English — with EPH.3.21, 1PE.5.11 and 2PE.3.18 gives it the copula, and REV.1.6 is the lone unit the other way. Rule 53's own cited `ὧν ἡ δόξα ἐν τῇ αἰσχύνῃ αὐτῶν` → *whose glory is in their shame* confirms the analysis: `δόξα` is the subject and takes nothing, the copula going to whatever realizes the predicate.",
+      "source": [
+        "s022"
+      ],
+      "source_head": "s022",
+      "status": "aligned",
+      "target": [
+        "t026",
+        "t027",
+        "t028"
+      ],
+      "target_head": "t027"
+    },
+    {
+      "note": "Article realized by *the* under rule 19; nothing else competes for the determiner slot.",
+      "source": [
+        "s023"
+      ],
+      "source_head": "s023",
+      "status": "aligned",
+      "target": [
+        "t029"
+      ],
+      "target_head": "t029"
+    },
+    {
+      "note": "Subject noun, bare after the article took *the* and the predicate took the copula.",
+      "source": [
+        "s024"
+      ],
+      "source_head": "s024",
+      "status": "aligned",
+      "target": [
+        "t030"
+      ],
+      "target_head": "t030"
+    },
+    {
+      "note": "Rule 30's duration idiom: the ASV writes *for ever and ever* rather than compressing to *evermore*, so `εἰς` takes *for*.",
+      "source": [
+        "s025"
+      ],
+      "source_head": "s025",
+      "status": "aligned",
+      "target": [
+        "t031"
+      ],
+      "target_head": "t031"
+    },
+    {
+      "note": "Neither article of `εἰς τοὺς αἰῶνας τῶν αἰώνων` has a distinct English realization; rule 30 makes each its own `unrepresented` unit.",
+      "source": [
+        "s026"
+      ],
+      "source_head": "s026",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "First `αἰῶνας` takes *ever* under rule 30.",
+      "source": [
+        "s027"
+      ],
+      "source_head": "s027",
+      "status": "aligned",
+      "target": [
+        "t032"
+      ],
+      "target_head": "t032"
+    },
+    {
+      "note": "Second article of the duration idiom, `unrepresented` under rule 30. The projection carries r01 at SBLGNT.HEB.13.21.v009, which supplies `τῶν αἰώνων`; the ASV's *and ever* matches it.",
+      "source": [
+        "s028"
+      ],
+      "source_head": "s028",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Second `αἰώνων` takes *and ever* under rule 30, the juncture being an obligatory helper on the word it introduces as in rule 29 and not `added`.",
+      "source": [
+        "s029"
+      ],
+      "source_head": "s029",
+      "status": "aligned",
+      "target": [
+        "t033",
+        "t034"
+      ],
+      "target_head": "t034"
+    },
+    {
+      "note": "Transliterated Hebrew particle rendered *Amen*.",
+      "source": [
+        "s030"
+      ],
+      "source_head": "s030",
+      "status": "aligned",
+      "target": [
+        "t035"
+      ],
+      "target_head": "t035"
+    }
+  ],
+  "ref": "HEB.13.21",
+  "review_notes": [
+    "Every s### and t### appears exactly once; 30 source and 35 target IDs partitioned.",
+    "Four `unrepresented` units, all articles: s007 (articular infinitive, rule 61), s009 (displaced by `αὐτοῦ`, rule 20), s026 and s028 (duration idiom, rule 30). No preposition, particle or content word is left empty.",
+    "Heads reviewed separately from edges under rule 28: `make ... perfect` on *perfect* (rule 17), `good thing` on *good* (rule 17), `in his sight` on *sight* (rules 71 and 95), `well pleasing` on *pleasing* (rule 104), `that which` on *that* (rule 77).",
+    "The one materially contested unit is s016: *is* could have gone to the substantival article with *that which is*, but rule 31 confines that to a modifier with no verb to carry the copula, and rule 53 gives an adjectival predicate its own copula. Recorded in the note.",
+    "s022's copula placement follows rule 63 rather than English word order; the alternative of putting *be* on `δόξα` would make the subject carry it, which rule 63 refuses where the subject is a lexical noun.",
+    "Textual notes are not re-decided here under rule 12: v007 and v008 stand on the base and v009 on r01, all compatible with the ASV as printed, and neither margin (*work*, *you*) is FALLBACK EXCLUDED, so rule 97 is not in question."
+  ]
+}

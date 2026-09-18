@@ -1,0 +1,188 @@
+{
+  "alignments": [
+    {
+      "note": "The ASV writes a bare 'Love' with no determiner, so the article has no English realization (rules 23, 51).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun to noun.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "'suffereth long' renders the single compound verb; head on the verb word 'suffereth' rather than the adverbial 'long', as rule 106 heads a compound on its verbal root word. Heading on 'long' as the element answering to the μακρο- prefix remains defensible.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Supplied juncture at an asyndetic seam between two like constituents, both finite verbs rendered alike; no source token carries the coordination (rules 98, 5). The ASV italicizes it.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Copula is a rule 7/9 helper; head on the lexical predicate 'kind' (rule 17).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "No English determiner for this occurrence of 'love' (rule 23).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun to noun.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Ordinary negative aligned to 'not'; no negative indefinite stands to absorb it (rule 41 does not apply).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Verb to verb; the ASV's postposed 'not' belongs to οὐ.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "No English determiner for this occurrence of 'love' (rule 23).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun to noun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Ordinary negative aligned to 'not'.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "The reflexive 'itself' is the middle verb's own rule 7 helper and rides inside its unit, discontinuously across the intervening 'not' under rule 15; head on the lexical verb.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t013"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Ordinary negative aligned to 'not'.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "'is puffed up' renders the one passive verb; the copula is a rule 9 helper, 'up' realizes the preverbal φυσιο- idiom's particle, and the head is the lexical verb word 'puffed' (rules 17, 106). Discontinuity across 'not' is permitted by rule 15.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t016",
+        "t017"
+      ],
+      "target_head": "t016"
+    }
+  ],
+  "ref": "1CO.13.4",
+  "review_notes": [
+    "Three occurrences of the article before ἀγάπη are each their own unrepresented unit, the ASV giving 'love' no determiner anywhere in the verse (rule 23); they are not grouped with their nouns (rule 13).",
+    "The supplied 'and' at t004 is added under rule 98 rather than folded as a rule 88 juncture: no circumstantial participle is converted here, only two coordinate finite verbs at an asyndetic seam, which is 2CO.3.7's shape.",
+    "Each οὐ is aligned to its own 'not'; no negative indefinite stands in the verse, so rules 41 and 59 are not in question.",
+    "Variant SBLGNT.1CO.13.4.v007 selected r00-base, compatible with the ASV; no textual question arises under rules 12 and 97."
+  ]
+}

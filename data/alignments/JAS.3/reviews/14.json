@@ -1,0 +1,16 @@
+{
+  "alignment_sha256": "059bef5a96dceeefeef3b015b6549dba53f2dc83dd430eb0136d25a007d756bc",
+  "contract_version": "nt-greek-verse-v63",
+  "notes": [
+    "Independent review by claude-code — annotated",
+    "Reviewed against the contract and the token table; the accepted alignment stands unchanged. Notes on the two judgment units were expanded to name the competing readings and the rules that decide them, but no unit's ids, status or heads were altered.",
+    "Partition checked: all 18 source ids (s001–s018) and all 19 target ids (t001–t019) appear exactly once, and no id outside the table is used.",
+    "s009 is the only `unrepresented` unit. `ἐν τῇ καρδίᾳ ὑμῶν` → *in your heart* is rule 20 proper: the expressed genitive ὑμῶν is free — rule 76's availability test — so it takes *your* and the article realizes nothing. Rule 20's own `ἐν τῇ καρδίᾳ` → *in my heart* is the second arm, where no genitive pronoun stands, and it does not reach this verse. A reference comparison may report s009 as a disagreement; that report is not a correction.",
+    "The contested unit is s015, which carries the second *not* (t016). One Greek μή governs both coordinated imperatives and the ASV writes the negation twice; rule 40's repeated infinitival marker is the closest precedent and puts the repetition on the second verb as a rule 7 helper. The defensible alternative is a discontinuous s012 → [t013, t016] under rule 15, and the unit's note names it.",
+    "Heads reviewed separately under rule 28: s005 heads on *have* rather than the supplied *ye*, s013 on *glory* rather than on its negative, and s015 on *lie* rather than on the helper *not*.",
+    "No new textual decisions were made (rule 12); the packet carries no `FALLBACK EXCLUDED BY EVIDENCE` mark, so rule 97 is not in question, and nothing here is `added` or `noncompositional`."
+  ],
+  "ref": "JAS.3.14",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

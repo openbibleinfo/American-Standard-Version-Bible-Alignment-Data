@@ -1,0 +1,393 @@
+{
+  "alignments": [
+    {
+      "confidence": "high",
+      "note": "Name to name.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "confidence": "high",
+      "note": "Anarthrous noun, so no article competes for the determiner slot; the supplied indefinite is an ordinary rule 51/7 helper on the word it determines, headed on the noun.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "confidence": "high",
+      "note": "Genitive rendered of + noun; rule 17 heads on the noun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "confidence": "high",
+      "note": "Second name split separately under rules 26 and 28.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "confidence": "high",
+      "note": "Preposition to preposition.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "confidence": "high",
+      "note": "The Greek is anarthrous, so rule 51's second clause applies: the supplied the is a rule 7 helper on the noun it determines.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "confidence": "high",
+      "note": "Of + noun, headed on the noun under rule 17.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "confidence": "high",
+      "note": "Coordinating conjunction.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "confidence": "high",
+      "note": "Name to name.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 20's second arm: no genitive pronoun or other source word is present to take the supplied possessive, so the article is what our realizes. Rule 11 keeps the ASV markup from making it added.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "confidence": "high",
+      "note": "Noun stands alone once the article carries the possessive.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 21: the case preposition unto rides with the article, headed on the.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "confidence": "high",
+      "note": "Noun stands alone.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "confidence": "high",
+      "note": "The ASV gives God no determiner, so the article has no the to anchor; rule 23, and rule 21 forbids leaving a bare of on it.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "Determinerless English phrase, so the case preposition stays with the noun under rule 21, headed on the noun.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "confidence": "high",
+      "note": "Second attributive article governing the expressed head noun church, with a participle following: rule 31 gives the relativizer to the participle and leaves this article empty.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "Attributive participle rendered as a finite clause; which is the participle's helper under rules 7 and 31, and is realizes the copular lexeme itself, so it takes the head.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "confidence": "high",
+      "note": "Preposition to preposition.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "confidence": "high",
+      "note": "Place name.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "confidence": "high",
+      "note": "Preposition to preposition.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "confidence": "high",
+      "note": "Article to the under rule 19; the quantifier keeps its own word.",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t027"
+      ],
+      "target_head": "t027"
+    },
+    {
+      "confidence": "high",
+      "note": "Substantival adjective rendered by the noun saints.",
+      "source": [
+        "s022"
+      ],
+      "source_head": "s022",
+      "status": "aligned",
+      "target": [
+        "t028"
+      ],
+      "target_head": "t028"
+    },
+    {
+      "confidence": "high",
+      "note": "Quantifier reordered in front of the determiner; rule 26 keeps it separate from the article and rule 15 permits the reordering. No negator stands with it, so rule 87 is not in question.",
+      "source": [
+        "s023"
+      ],
+      "source_head": "s023",
+      "status": "aligned",
+      "target": [
+        "t026"
+      ],
+      "target_head": "t026"
+    },
+    {
+      "confidence": "high",
+      "note": "Second attributive article after the expressed head τοῖς ἁγίοις, which carries its own article and determiner; rule 31 leaves this one empty and puts that are on the participle. Rule 90 is not the case, since it blesses no unit in which a head is expressed.",
+      "source": [
+        "s024"
+      ],
+      "source_head": "s024",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "Participle as finite clause; the relativizer is its helper and are realizes the copular lexeme, so it takes the head.",
+      "source": [
+        "s025"
+      ],
+      "source_head": "s025",
+      "status": "aligned",
+      "target": [
+        "t029",
+        "t030"
+      ],
+      "target_head": "t030"
+    },
+    {
+      "confidence": "high",
+      "note": "Preposition to preposition.",
+      "source": [
+        "s026"
+      ],
+      "source_head": "s026",
+      "status": "aligned",
+      "target": [
+        "t031"
+      ],
+      "target_head": "t031"
+    },
+    {
+      "confidence": "high",
+      "note": "Adjective to adjective; the expressed article beside it keeps its own the, so rule 58's supplied-determiner case does not arise.",
+      "source": [
+        "s027"
+      ],
+      "source_head": "s027",
+      "status": "aligned",
+      "target": [
+        "t033"
+      ],
+      "target_head": "t033"
+    },
+    {
+      "confidence": "high",
+      "note": "Article to the under rule 19. The dative case is already realized by ἐν → in, so no case preposition rides with this article under rule 21.",
+      "source": [
+        "s028"
+      ],
+      "source_head": "s028",
+      "status": "aligned",
+      "target": [
+        "t032"
+      ],
+      "target_head": "t032"
+    },
+    {
+      "confidence": "medium",
+      "note": "The partitive of belongs to the English whole of idiom rather than answering to any Greek token, and rides with the name under rule 7, headed on the name per rule 17. Giving it to ὅλῃ instead, since whole is what licenses the partitive complement, remains defensible.",
+      "source": [
+        "s029"
+      ],
+      "source_head": "s029",
+      "status": "aligned",
+      "target": [
+        "t034",
+        "t035"
+      ],
+      "target_head": "t035"
+    }
+  ],
+  "ref": "2CO.1.1",
+  "review_notes": [
+    "Returned unchanged in substance: every s### and t### is partitioned exactly once, all aligned units have nonempty sides with member heads, and the three unrepresented units are source-only with null target heads.",
+    "The two supplied determiners in the verse are decided by whether a Greek article competes. s006 θελήματος is anarthrous, so the the is a rule 51 helper on the noun; s012 and s028 have expressed articles, so those articles take their the under rules 19 and 21. s014 is the third case: the ASV gives God no determiner at all, so rule 23 empties the article and rule 21 keeps the bare of on the noun.",
+    "s010 takes our under rule 20's second arm. The Greek expresses no genitive pronoun or other possessor for the supplied possessive to belong to, so the article is what it realizes, and rule 11 keeps the ASV's markup from forcing added.",
+    "Both second attributive articles (s016, s024) stand behind an expressed head — church and the articular substantive τοῖς ἁγίοις — so rule 31 and not rule 32 or rule 90 applies: each article is unrepresented and the relativizer plus copula go to its participle. Rule 90's own text disclaims any unit in which a head is expressed.",
+    "s021/s022/s023 split σὺν τοῖς ἁγίοις πᾶσιν into three recoverable pairs under rule 26, with all reordered in front of the determiner under rule 15. There is no negator in the clause, so rule 87's joining of πᾶς with a negation is not in question.",
+    "The one open judgment is s029. In the whole of Achaia the partitive of answers to no Greek token — the dative is already spent on ἐν → in — so it is a rule 7 helper, and the only question is whether ὅλῃ or Ἀχαΐᾳ licenses it. Recorded medium on the name; a future chapter reading it the other way should say so rather than treat this as settled."
+  ]
+}

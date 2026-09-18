@@ -1,0 +1,195 @@
+{
+  "alignments": [
+    {
+      "note": "Postpositive γάρ realized by the clause-initial For.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Ordinary conditional εἰ → if.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Inflected verb takes its English subject and auxiliary; rule 9 heads on the lexical verb become rather than on we or have.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "σύμφυτος is the word that licenses the supplied with him, its σύν- element carrying the association the ASV spells out; the pronoun is a rule 7 helper and rule 11 keeps the italics from making it added. Headed on united, the word glossing the lexeme. The ASV margin's Or, united with the likeness attaches the dative differently but writes the same English words, so it does not change the unit.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Dative article takes the English the with the case preposition in riding along under rule 21, headed on the.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Bare noun; its determiner and case preposition stand on the article.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Article displaced by the possessive under rule 20: the genitive αὐτοῦ is present and free to take his, so the determiner slot is occupied and the article realizes nothing.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive noun rendered of + noun; the of stays with the noun under rule 20 and rule 17 heads on death.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Genitive pronoun carries the English possessive his.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Future of εἰμί with its subject and modal auxiliary; headed on the verb word be rather than on we or shall.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "The ASV writes no but for the adversative ἀλλά, leaving only the also of καί; nothing answers to it, so rule 23 makes it its own unit. Stretching also across ἀλλὰ καί was rejected: rule 2 keeps the one English word on the particle it glosses.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "καί realized by also.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "The Greek second clause is bare ἀλλὰ καὶ τῆς ἀναστάσεως with no preposition, article or noun of likeness; the ASV repeats in the likeness from the first clause, and ὁμοιώματι is already spent on t011, so under rule 103 the repetition is added, the supplied preposition and determiner staying inside the unit. No Greek preposition governs two coordinate members here, so the repeated in is not rule 103's function-word contrast. Reading the three words as a discontinuous second realization of s005 and s006 under rule 15 remains defensible.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t019",
+        "t020",
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "No genitive pronoun stands in this clause, so nothing displaces the article and the supplied possessive his is what the article realizes under rule 20's second arm, with the case preposition of riding along under rule 21. Headed on his.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t022",
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Bare noun; its determiner and case preposition stand on the article.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    }
+  ],
+  "ref": "ROM.6.5",
+  "review_notes": [
+    "All 14 source and 24 target IDs partitioned exactly once.",
+    "The two his are analysed differently on purpose: αὐτοῦ is expressed in the first clause and empties its article under rule 20, while the second clause has no possessor token, so its article takes the supplied his.",
+    "ἀλλά left unrepresented and καί aligned to also, per rule 70's English-side test applied to the pair; a reference comparison will report the empty ἀλλά as a disagreement."
+  ]
+}

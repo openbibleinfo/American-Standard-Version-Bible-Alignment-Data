@@ -1,0 +1,6 @@
+# Ecclesiastes 9 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Comparative clauses: where the Hebrew writes the adjective (9.4, 9.16, 9.18), that adjective takes the construction-supplied copula together with *better* and the comparative preposition keeps only its own *than*. Where the Hebrew writes no adjective at all and the comparison rests on the preposition alone (9.17), the preposition is the clause's predicate and takes the whole supplied frame *are better than* under rule 49, headed on *than*; *better* is not `added` there, because dropping it leaves the preposition with no rendering. Heading such a unit on *better* is the named competing reading.
+- The focus particle used correlatively is a connective of its own for rule 14's purposes. Where the chapter writes the particle once per member (9.1 *whether ... or*, 9.6 *As well ... as ... and*), each occurrence takes only the English connective the ASV wrote for its own member, and no occurrence takes the pair; the reading that gives an opening correlative such as *whether* or *As well* to one particle and leaves the other `unrepresented` was rejected.

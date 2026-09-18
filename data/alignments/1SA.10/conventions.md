@@ -1,0 +1,7 @@
+# 1 Samuel 10 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- A waw whose own clause the ASV recasts as a subordinate one, writing *And when*, *and when* or *but when* contiguously at that clause's left edge (10.10, 10.13, 10.14, 10.21, 10.23), takes both words as one unit under rule 55 and is headed on the coordinator throughout this chapter; the corpus heads a minority of such units on *when*, which is the competing reading. A bare *when* the ASV separates from the *And* (10.11, where *And* belongs to the וַיְהִי waw) goes to the protasis waw alone.
+- `שָׁאַל לְ + suffix לְשָׁלוֹם` → *salute thee* (10.4): the one English verb goes to `שָׁאַל`, both `לְ`s are `unrepresented` under rule 40, and `שָׁלוֹם` is its own `unrepresented` unit. Rule 30 fusion is barred because the object `לְךָ` stands between the verb and `לְשָׁלוֹם`, and the corpus has no precedent for this idiom either way.
+- `צָלַח` → *come mightily* / *came mightily* (10.6, 10.10) is one unit headed on the verb, as in JDG.14.6, JDG.14.19 and JDG.15.14; heading on *mightily* under rule 44's light-verb test is the competing reading. `מֵעִם` → *from* (10.2, 10.9) fuses under rule 30 and heads on the governing `מִן` under rule 23, as `מֵאֵת` does.

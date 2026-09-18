@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "50d6cdf9545299a51276374b46caf217204b6f89197659d7cbb7614e41e2c52b",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 18 source and 25 target IDs partition exactly once; the two `added` units carry empty source arrays and null source heads as rule 5 requires.",
+    "The italicized *and* and *commanding* are two `added` units rather than one: rule 98 makes the asyndetic seam between two coordinated infinitives `added` (a second infinitive carries no coordination), while *commanding* is supplied lexical content whose only candidate licensor, `κωλυόντων`, is already spent on *forbidding* (rules 5, 103).",
+    "`εἰς` takes the *to* introducing the English purpose clause, with `μετάλημψιν` keeping *be received*: rule 61 gives the clause-introducer to a governing preposition, and rule 94 forbids one compound unit here since the ASV spreads the phrase over separate words.",
+    "`τοῖς πιστοῖς καὶ ἐπεγνωκόσι` splits under rules 21 and 32 — *by them* on the article headed on the pronoun, *that believe* on the recast adjective, *know* on the participle — and rule 90 is not in question, the ASV writing more than one English word for the article's pair.",
+    "`ὁ` before `θεός` is `unrepresented` under rule 23, the ASV writing no determiner."
+  ],
+  "ref": "1TI.4.3",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,12 @@
+{
+  "alignment_sha256": "d322fb028b1cc7f5a3da9f4063a69ea88e5957c4727011b27b5b57ea5464ccc8",
+  "contract_version": "ot-hebrew-verse-v192",
+  "notes": [
+    "Reconciliation by claude-code — corrected",
+    "The verse analysed the same construction as RUT.2.10 the other way. `מַכִּירֵךְ` → *he that did take knowledge of thee* gave the supplied *of* to the object suffix as a construct rectum under rule 19, while RUT.2.10's `לְהַכִּירֵנִי` → *that thou shouldest take knowledge of me* gives it to the verb under rule 44. The Hebrew writes a bare object suffix in both and the ASV wrote one English idiom for both, so the *of* is in both the preposition the light-verb phrase *take knowledge* needs to reach its object, and rule 44's own sentence on an object suffix reached through a supplied preposition governs. The *of* (t027) moves into the participle's unit, headed as before on the complement *knowledge*, and the suffix keeps only *thee*. No other unit changes.",
+    "Scoped deferred investigation PARITY-153 independently resolved; evidence: data/audits/retrospective-deferred-2026-09-14/receipts/RUT.2.19.json. Original full-review coverage is carried forward only for exact unchanged units and metadata. Two fresh sessions independently agreed on the changed source/target ownership, heads and statuses. Unit notes come from the recorded assessment; their independent agreement is recorded separately. No new full-verse review or new historical review is claimed; original identity, dates and contract provenance are preserved."
+  ],
+  "ref": "RUT.2.19",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

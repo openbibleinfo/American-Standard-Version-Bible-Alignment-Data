@@ -1,0 +1,154 @@
+{
+  "alignments": [
+    {
+      "note": "Postpositive γάρ → the verse-initial For.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Inflected verb with its supplied English subject pronoun as a helper (rules 7, 9); head on the lexical verb refreshed. The preverb ἀνα- has no separate English word here, so nothing is stranded under rule 106.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The first-person possessive adjective ἐμόν carries the English possessive, so this article's determiner slot is occupied and it realizes nothing (rules 20, 54).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "ἐμός names the possessor itself and takes my (rule 54).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Bare noun; its determiner slot is spent on the possessive.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Coordinating καί → and.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "The genitive pronoun ὑμῶν is present and free to take the English possessive, so rule 20 proper applies and this article realizes nothing; the absolute yours carries its own determiner and leaves the article nothing else.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive pronoun realized by the absolute possessive yours (rule 20).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Imperative with its supplied address pronoun ye as a rule 7 helper; head on the lexical verb acknowledge (rule 17).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "οὖν → therefore, its own unit (rule 70's refusal to join a connective to a neighbouring particle).",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "The ASV writes a separate antecedent pronoun them for this article. Rule 20 says displacement empties only the determiner slot, so a demonstrative that takes the determiner does not empty the article of an antecedent pronoun the ASV supplies for it, and rule 92 gives the article that pronoun while the following word keeps the relativizer and copula. Rule 32 is the same split for a participle.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Substantival demonstrative takes the whole expression the ASV builds for it, the supplied relativizer and copula riding with it (rules 49, 92), headed on such.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t012",
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "1CO.16.18",
+  "review_notes": [
+    "Every source and target ID is partitioned exactly once.",
+    "Both articles before the possessives are unrepresented under rules 54 and 20: ἐμόν is a possessive adjective naming its possessor, and ὑμῶν is a free genitive pronoun, so in each case another source word occupies the determiner slot.",
+    "s011/s012: the materially different alternative is rule 49 read strictly — article unrepresented and them that are such whole on the demonstrative. I took the antecedent-pronoun split because rule 20's own text names a supplied antecedent pronoun as something a displaced article still takes, and rule 92 places the relativizer and copula on the word predicated of."
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "ref": "2CO.5.3",
+  "alignments": [
+    {
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Conditional particle takes the word introducing the English clause (rule 40)."
+    },
+    {
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "target": [
+        "t002",
+        "t003",
+        "t004"
+      ],
+      "target_head": "t002",
+      "status": "aligned",
+      "confidence": "medium",
+      "note": "The emphatic particle is what the archaic intensifier 'so be that' answers to beyond the bare 'if'; rule 61 keeps the clause-introducer's 'that' undivided. EPH.3.2 and EPH.4.21 split ei ge identically, 'if' to the conditional and 'so be that' to the particle headed on 'so', both medium. Treating ei ge as one noncompositional unit remains defensible, which is the concession EPH.4.21 records."
+    },
+    {
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "target": [],
+      "target_head": null,
+      "status": "unrepresented",
+      "confidence": "high",
+      "note": "Intensifying kai with no English word of its own (rule 65)."
+    },
+    {
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Participial helper *being* rides with the participle (rule 7); head on the lexical verb."
+    },
+    {
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "target": [
+        "t007",
+        "t008",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Subject and auxiliaries ride with the inflected verb, headed on the lexical verb (rules 9, 17); discontinuous around *not* under rule 15."
+    }
+  ],
+  "review_notes": []
+}

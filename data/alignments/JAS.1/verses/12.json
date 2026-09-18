@@ -1,0 +1,261 @@
+{
+  "alignments": [
+    {
+      "note": "Verbless clause with an adjectival predicate and a nominal subject: rule 53 gives the supplied copula to the predicate adjective, as `ὅμοια` → *were like* does, and rule 63 refuses to read it off the ASV's word order merely because *Blessed is* stands together. Head on *Blessed*, the word glossing the lexeme.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "`ἀνήρ` is anarthrous, so no article competes for the determiner slot and the supplied *the* is an ordinary rule 7 helper on the word it determines, under rule 51's anarthrous clause.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Relative pronoun with an expressed antecedent, rendered by the archaic relativizer *that*. No nominal is supplied, so rule 77 does not arise.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Finite present indicative standing alone.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Anarthrous accusative object with no determiner supplied.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Causal `ὅτι` realized by the word introducing its English clause, *for*, under rule 40's principle. Not recitative and not a dropped complementizer, so rule 43 does not apply.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Circumstantial participle recast as a finite subordinate clause. Rule 86: a participle is a source token that licenses a supplied subordinator, so *when* is an ordinary rule 7 helper rather than `added`, and the supplied subject and auxiliary ride with it under rules 7 and 9. Head on *been*, the word realizing `γίνομαι`, not on the auxiliary *hath* (rule 17).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "`δόκιμος` is a predicate adjective of the participial clause — *having become approved* — so the copular material belongs to `γενόμενος` and *approved* stands alone. Split under rule 2, both pieces being independently recoverable. The competing reading takes English *hath been approved* as one passive verb phrase and puts *approved* with `γενόμενος`; that ignores that `δόκιμος` is a separate lexeme with its own English word, which rule 26 makes the reason to split.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Rule 9: the inflected future takes its English subject and auxiliary, headed on the lexical verb *receive* rather than on *shall*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Article surfacing as English *the* under rule 19; split from its noun under rule 26.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Head noun standing bare behind its own article.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "The ASV gives *life* no determiner, so this article has no *the* to anchor and is `unrepresented` under rule 23; rule 21 forbids leaving a bare *of* on it, so the case preposition stays with the noun, exactly as `τῆς εἰρήνης` → *of peace* does. The competing reading gives *of the* to the article, but no *the* is written.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive noun rendered *of + noun*, the case preposition riding along; rule 17 heads it on the noun.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Relative pronoun rendered *which*, its antecedent *crown* expressed, with no supplied nominal, so rule 77 does not arise.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "Article governing the expressed subject noun of the relative clause, surfacing as *the* under rule 19. The ASV italicizes *the Lord*, but the selected reading r01 of SBLGNT.JAS.1.12.v002 covers s016–s017, the packet carries no `FALLBACK EXCLUDED BY EVIDENCE` mark, and rule 11 makes the italics evidence rather than a verdict; rule 12 forbids re-deciding the text here.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Subject noun of the relative clause, split from its article under rule 26. A title rather than a name, and the ASV writes the determiner, so rule 23's article-before-a-name case does not apply.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Finite aorist standing alone; its subject is expressed by s016–s017, so no supplied subject rides here.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "note": "Substantival article before a participle: rule 32 gives it the pronoun and nothing else, so *them* is the article's and *that love* stays with the participle. The dative case preposition *to* rides with the article under rule 21, as it does in `ὡς τῷ κυρίῳ` → *as unto the Lord*. Rule 90 is not this case, the ASV writing more than one English word for the pair.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t025",
+        "t026"
+      ],
+      "target_head": "t026"
+    },
+    {
+      "note": "Participle carrying the supplied relativizer under rule 32 — the article governs no expressed head noun, which is rule 31's test — headed on the lexical verb *love*.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t027",
+        "t028"
+      ],
+      "target_head": "t028"
+    },
+    {
+      "note": "Accusative object pronoun of the participle.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t029"
+      ],
+      "target_head": "t029"
+    }
+  ],
+  "ref": "JAS.1.12",
+  "review_notes": [
+    "Kept the accepted alignment's units and heads unchanged; the only substantive edit is to s019's note, which cited rule 31 for the relativizer. Rule 31 is only the test (does the article govern an expressed head noun?); here it governs none, so the split and the relativizer's placement on the participle are rule 32's, and the note now says so. No id membership, status or head moved.",
+    "Partition verified: s001–s020 and t001–t029 each appear exactly once. Units are presented in target order, so s008 precedes s007 and s016–s017 precede s015.",
+    "s012 is the only `unrepresented` unit. A reference comparison will report it as a disagreement; rule 21's determinerless case (*of peace*, *by prayer*) decides it, since the ASV writes *of life* with no *the* for the article to anchor.",
+    "t022/t023 carry ASV addition markup. The variant line selects r01 of SBLGNT.JAS.1.12.v002, which covers s015–s017, and carries no `FALLBACK EXCLUDED BY EVIDENCE` mark, so rule 97 is not in play in either direction and rule 11 keeps *the Lord* aligned rather than `added`. Rule 12 bars reopening the textual question here even though the ASV's own base evidently lacked `ὁ κύριος`.",
+    "s007/s008 were split rather than bundled: *approved* recovers `δόκιμος` and *when he hath been* recovers `γενόμενος`. The competing reading — treating *hath been approved* as one English passive verb phrase on the participle — is recorded in the s007 note per rule 16.",
+    "*when* at t009 is a helper, not `added`: rule 86's test asks whether a source token licenses the subordinator, and the participle `γενόμενος` is such a token."
+  ]
+}

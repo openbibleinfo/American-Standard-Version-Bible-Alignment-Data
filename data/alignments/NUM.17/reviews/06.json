@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "1b800116c55513d07e70d1467dd14495eddd9c06fb9a4160fb646d4eca07b159",
+  "contract_version": "ot-hebrew-verse-v114",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "The added even is correct and is rule 16's own limiting case: the clause writes no marker on שְׁנֵים עָשָׂר מַטּוֹת, and rule 16 forbids reaching across the clause for a marker standing elsewhere.",
+    "The second מַטֶּה לְנָשִׂיא אֶחָד is rendered once, so its four tokens are unrepresented under rule 22; the first occurrence is the rendered one, which the English word order supports.",
+    "בְּתוֹךְ fuses to among under rule 30 and takes the verbless clause's supplied copula under rules 20 and 49, since the prepositional phrase is the predicate of וּמַטֵּה אַהֲרֹן בְּתוֹךְ מַטּוֹתָם.",
+    "Verified partition: all 35 source IDs and all 36 target IDs occur exactly once."
+  ],
+  "ref": "NUM.17.6",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

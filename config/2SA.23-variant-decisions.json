@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "chapter": "2SA.23",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2SA.23.8.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the word as a gentilic proper name, \"the Eznite\", which is the qere הָעֶצְנִי with its final yod; the ketiv העצנו ends in waw and yields no -ite form. The verse note is classed other and only remarks on the parallel in 1 Chr. 11:11 and the obscurity of the Hebrew, so the English wording alone decides."
+    },
+    {
+      "unit_id": "WLC.2SA.23.8.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere אֶחָת and ketiv אחד are the feminine and masculine of the same numeral \"one\"; ASV's \"at one time\" translates the numeral identically either way, since English \"one\" carries no gender. Nothing in the wording or the note (classed other, about 1 Chr. 11:11) distinguishes them, so the qere base fallback carries the projection."
+    },
+    {
+      "unit_id": "WLC.2SA.23.9.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere וְאַחֲרָיו and ketiv ואחרו are plene and defective spellings of the same phrase \"and after him\"; ASV's \"And after him\" renders either without distinction. The only note is a hebrew_gloss on a different word (\"Hebrew went up\"), so nothing selects a reading."
+    },
+    {
+      "unit_id": "WLC.2SA.23.9.v004",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV names the father \"Dodai\", transliterating the ketiv דדי; the qere דֹּדוֹ would give \"Dodo\". A proper name spelled out in the English text distinguishes the two readings directly."
+    },
+    {
+      "unit_id": "WLC.2SA.23.9.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere הַגִּבֹּרִים and ketiv גברים differ only in the article on \"mighty men\". ASV's definite \"the three mighty men with David\" takes its definiteness from the numeral phrase in English idiom and does not track a Hebrew article on the noun, so the wording does not distinguish the readings; the note is a hebrew_gloss on \"went up\"."
+    },
+    {
+      "unit_id": "WLC.2SA.23.13.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads \"And three of the thirty chief men went down\": the first numeral is \"three\", the qere שְׁלֹשָׁה, with \"the thirty\" following as a separate word. The ketiv שלשים would make the same word \"thirty\", which the English does not say."
+    },
+    {
+      "unit_id": "WLC.2SA.23.18.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads \"was chief of the three\", the qere הַשְּׁלֹשָׁה, the cardinal group of three; the ketiv השלשי is the ordinal/gentilic form and would not yield \"the three\". The English numeral decides it."
+    },
+    {
+      "unit_id": "WLC.2SA.23.20.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV's text reads \"the son of a valiant man\", i.e. אִישׁ־חַיִל, the qere חַיִל; the note (classed other) records the competing ketiv חי as a marginal alternative, \"According to another reading, Ish-hai\". A note that labels a reading as the other one confirms that the text before it renders the qere."
+    },
+    {
+      "unit_id": "WLC.2SA.23.20.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere הָאֲרִי and ketiv האריה are defective and plene spellings of the same noun \"the lion\"; ASV's \"slew a lion in the midst of a pit\" renders either identically. The verse note concerns the earlier Ish-hai reading, not this word."
+    },
+    {
+      "unit_id": "WLC.2SA.23.21.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the phrase with a head noun, \"an Egyptian, a goodly man\", i.e. אִישׁ (מַרְאֶה), the qere; the ketiv אשר is the relative particle and would give a clause (\"who was of goodly appearance\") rather than the noun \"man\" the English supplies."
+    },
+    {
+      "unit_id": "WLC.2SA.23.35.v011",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV's text spells the name \"Hezro\", which transliterates the ketiv חצרו; the qere חֶצְרַי would give \"Hezrai\", and ASV puts exactly that in the margin as \"Or, Hezrai\". The margin is classed alternative_rendering and does not itself decide, but the name in the text does."
+    },
+    {
+      "unit_id": "WLC.2SA.23.37.v012",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV's text reads the plural \"armorbearers to Joab\", the ketiv נשאי (plural construct); the note classed textual_variant states \"Another reading is, armorbearer\", the singular qere נֹשֵׂא, held off as the alternative. Text and mapped textual note agree on the ketiv."
+    }
+  ]
+}

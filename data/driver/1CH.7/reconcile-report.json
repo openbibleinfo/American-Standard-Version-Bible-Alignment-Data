@@ -1,0 +1,29 @@
+{
+  "chapter": "1CH.7",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Census totals: the construction-supplied copula goes on the predicate noun where the Hebrew writes one (7.40 מִסְפָּרָם אֲנָשִׁים ... → 'was ... men', discontinuous around the numerals) and otherwise on the first Hebrew numeral of the figure (7.2 'was twenty', 7.5 'were fourscore'); where the ASV instead writes 'were reckoned by genealogy' the 'were' is the infinitive's (7.7, 7.9).",
+    "The infinitive הִתְיַחְשָׂם → 'reckoned by genealogy' (with 'were' where the ASV writes it) is one unit on the infinitive in 7.5, 7.7, 7.9 and 7.40, discontinuous around 'in all' in 7.5; its subject suffix takes 'they' where the ASV writes a pronoun (7.7, 7.9) and is unrepresented where it writes none (7.5) or spends 'of them' on the suffix of מִסְפָּר instead (7.40).",
+    "Relative recastings: a present pronominal suffix takes the ASV's relative and the waw of its clause is unrepresented (7.15 'whose' on the suffix of אֲחֹתוֹ, 7.21 'whom' on the object suffix of הֲרָגוּם); a waw plus finite verb with no pronoun takes 'who' (7.24 וַתִּבֶן); an explicit הוּא takes 'who' with the copula on the predicate (7.31). The competing reading giving the relative to the waw is named in each verse note and was not taken.",
+    "בֵּית אָבוֹת chains: written in full after a construct 'heads' (7.7, 7.9, 7.40) בַּיִת takes 'of houses' and אָב the possessive 'fathers'; under a לְ that holds its own English (7.2 'of', 7.4 'after') בַּיִת takes bare 'houses'; the elliptical רָאשֵׁי הָאָבוֹת of 7.11 gives 'of fathers houses' to אָב (rule 31) and 'their' to the article (rule 41). The article of the full chain takes the 'the' standing before 'fathers' (7.40)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked the 47 candidate lemmas end to end. Every multi-treatment bucket is licensed by the ASV's own wording: waw takes and/And/also/with/who exactly as written (7.12, 7.24, 7.28); בֵּן takes the sons / were the sons / the children by what the ASV writes and whether the clause is verbless (rule 20); בַּת takes 'the towns' in 7.28 and bare 'towns' in 7.29 because the ASV writes 'the towns thereof' in one and 'its towns' in the other; לְ takes of/in/by/after/among/according to by rule 11 and is unrepresented only where the ASV writes nothing (7.15 second לְ, 7.15 לְ beside הָיָה 'had').",
+    "Relative recastings are one analysis throughout: a present suffix takes the relative (7.15 'whose' on the suffix of אֲחֹתוֹ, 7.21 'whom' on the object suffix of הֲרָגוּם) with the waw unrepresented; a waw plus a finite verb with no pronoun takes 'who' (7.24); an explicit הוּא takes 'who' (7.31). All four follow rules 17 and 18 and each verse note names the competing reading.",
+    "Census totals place the copula consistently: on the predicate noun where the Hebrew writes one (7.40 'was ... men'), otherwise on the first Hebrew numeral (7.2 'was twenty', 7.5 'were fourscore'); 7.7 and 7.9 give 'were' to the infinitive 'were reckoned by genealogy' as the ASV writes it. The 4-morpheme יָחַשׂ phrase is one unit in all four verses, its subject suffix taking 'they' only where the ASV writes a pronoun.",
+    "בֵּית אָבוֹת chains are consistent across their three Hebrew shapes: written in full (7.7, 7.9, 7.40) בַּיִת takes 'of houses' and אָב 'fathers'; under a לְ that holds its own word (7.2, 7.4) בַּיִת takes bare 'houses'; elliptical הָאָבוֹת (7.11) takes 'of fathers houses' on אָב with the article taking 'their' (rule 41).",
+    "The four added units (7.2 'to wit', 7.6 'The sons of', 7.21 'away', 7.40 'and') each answer to no morpheme and no verse folds the same kind of word into a neighbour elsewhere; the two 3-morpheme units in 7.28 ('eastward', 'westward') are rule 30 fusions of preposition, assimilated article and noun.",
+    "BSB disagreements: all ten are convention differences, none a genuine error. Object markers (7.21, 7.24, 7.32) are rule 16; infinitive subject suffixes the ASV writes no pronoun for (7.5, 7.40) and the second 'their' of 7.28 are rule 22/rule 18; 7.15's second לְ and its לִ beside הָיָה are rule 40/43; the waws of 7.15 and 7.21 are unrepresented because the relative went to the suffix.",
+    "No promotions or amendments: the chapter applies existing rules and teaches nothing the corpus does not already record."
+  ]
+}

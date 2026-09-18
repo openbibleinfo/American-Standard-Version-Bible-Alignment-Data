@@ -1,0 +1,205 @@
+{
+  "alignments": [
+    {
+      "note": "Aorist imperative rendered by copula-plus-participle *Be afflicted*; rules 9 and 17 put the head on the lexical word *afflicted* rather than the auxiliary *Be*. `ταλαιπωρέω` returns no corpus unit, so rule 104's neighbouring-class query decides it and points the same way: the root family spends its English on the lexical word, `ταλαίπωρος` → *wretched* at REV.3.17, and the supplied-copula frame heads its predicate throughout, as `ὑποτάγητε` → *be subject* does at 1PE.2.13 and 1PE.5.5. (An earlier form of this note also claimed *miseries* for the ταλαιπωρ- family; `ταλαιπωρία` has no corpus unit and that claim is withdrawn. The head is unaffected.)",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Coordinating conjunction realized by *and*.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Imperative rendered by bare *mourn*.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Coordinating conjunction realized by *and*.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Imperative rendered by bare *weep*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Rule 20 proper: the genitive pronoun ὑμῶν stands free in this phrase, so it is what the English possessive *your* belongs to and the article realizes nothing.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Noun takes bare *laughter*, its determiner slot occupied by the possessive on ὑμῶν.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Genitive pronoun rendered by the possessive *your*, displacing the article's determiner under rule 20.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Preposition of the resultative phrase rendered by *to*; rule 36 keeps it on the preposition rather than reading *turned to* as phrasal.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Anarthrous noun rendered by bare *mourning*.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Third-person imperative rendered periphrastically as *let … be turned*; the imperative auxiliary *let* and the copula are rule 7/9 helpers on the verb, discontinuous under rule 15, headed on the lexical *turned*. Rule 73's κόπους … μηδεὶς παρεχέτω → *let no man trouble me* is the precedent for keeping *let* inside the verb's own unit, and rule 17 forbids splitting it off merely because it is the finite word. The variant unit SBLGNT.JAS.4.9.v006 is underdetermined and its base fallback stands (rule 12).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Coordinating conjunction realized by *and*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Rule 20's second arm: no genitive pronoun stands in this coordinate phrase, so the article is not displaced and is what the supplied *your* realizes, exactly as τὴν ἀπολύτρωσιν → *our redemption* does; rule 11 keeps the ASV's supplied word from being marked `added`. The competing reading is to fold t015 onto s008 as a discontinuous second realization under rules 15 and 76, which stays defensible; I take the article reading because rule 76's not-spent clause covers one word's English split inside a single phrase (τοῖς δεσμοῖς μου → *for me in my bonds*), not a possessive repeated across a second coordinate noun phrase that has an article of its own standing free to take it.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Noun takes bare *joy*, the determiner having gone to the article.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Preposition rendered by *to* in the elliptical second clause, which borrows μετατραπήτω from the first; the ASV supplies no verb here, so nothing else is in question.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Anarthrous noun rendered by bare *heaviness*.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    }
+  ],
+  "ref": "JAS.4.9",
+  "review_notes": [
+    "Reviewed and returned unchanged in its units and heads. The only edit is to the s013 note, whose accepted text cited rule 103 as refusing the competing reading; rule 103's own contrast clause says a resumptive pronoun folds onto its source under rule 7, so that citation pointed the wrong way. The note now names the actual competitor (folding t015 onto s008 under rules 15 and 76) and says why the article reading was taken.",
+    "All 16 source and 18 target ids are partitioned exactly once.",
+    "The two articles are decided oppositely on rule 20's own test: s006 has a free genitive pronoun beside it and is `unrepresented`, while s013 has none in its coordinate phrase and takes the supplied *your*. A reference comparison may report s013 as a disagreement, and that report is not a correction.",
+    "The periphrastic *let … be turned* is kept as one discontinuous unit on s011 rather than splitting *let* off as a bare finite word, per rules 15, 17 and 73.",
+    "Both εἰς tokens keep their own *to* under rule 36; *turned to* is not read as phrasal."
+  ]
+}

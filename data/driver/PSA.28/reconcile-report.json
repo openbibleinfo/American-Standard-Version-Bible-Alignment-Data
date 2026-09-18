@@ -1,0 +1,24 @@
+{
+  "chapter": "PSA.28",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "Phrasal particles are kept with their verb throughout under rule 44: 'lift up' (28.2), 'Draw ... away' (28.3), 'break ... down' and 'build ... up' (28.5), 'bear ... up' (28.9), each discontinuous around its object under rule 25. 'build up' is read on the same footing as 'lift up' — the particle completes rather than adds to the lexeme — and not as a surplus completive; the added alternative is named in the 28.5 unit note. 'greatly rejoiceth' for עָלַז (28.7) is read the same way, the adverb completing 'exult'. In 28.1 'become like' is the Niphal מָשַׁל's own rendering (headed on 'like') and עִם is unrepresented; PSA.143.7 in the corpus gives 'like' to עִם for the identical phrase, so a later reader should know the chapter chose the verb."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked all 14 candidate lemmas verse by verse. Every difference is one the ASV licenses: suffix pronouns take the case the ASV writes (my/me/I, their/them); waws take And/and/but/Nor/also/therefore as written, with the 28.1 apodosis waw unrepresented because the ASV opens 'I become' bare (rule 14); אֶל is 'toward' in 28.2 and silenced in 28.5 where 'regard' promotes the object (rule 40); the dative lameds of 28.4 are unrepresented before bare 'Give them' and aligned where the ASV writes 'to them'; כְּ is 'according to' twice and 'after' once as printed.",
+    "Read the dump for added/folded splits the lemma table cannot see: 'A Psalm' and 'if' (28.1) are the only added units, and the phrasal particles are handled uniformly — 'lift up' (28.2), 'Draw ... away' (28.3), 'break ... down' and 'build ... up' (28.5), 'bear ... up' (28.9) all kept with the verb under rule 44, 'greatly rejoiceth' (28.7) kept with עָלַז on the same subtraction. Each contestable one names its competing reading; recorded the particle judgment as a convention since rule 44 leaves 'build up' to judgment.",
+    "One cross-chapter note, not a chapter split: 28.1 נִמְשַׁלְתִּי עִם־יוֹרְדֵי בוֹר is the same phrase as PSA.143.7, where the corpus gives 'like' to עִם. Here 'become like' is read as the Niphal's own light-verb rendering (likeness is the verb's lexeme, so dropping 'like' leaves the verb with nothing) and עִם is unrepresented under rule 40. Both are defensible; left as the verse pass took it, with this precedent flagged for a later reader.",
+    "BSB disagreements (waw 28.1; עִם 28.1; לָ 28.4 ×2, 28.8; אֶל 28.5 ×2; paragogic he 28.9; article of הָעוֹלָם 28.9) are all documented convention differences — rule 14 unrendered connective, rule 40 silenced prepositions, rule 32 paragogic he, rule 29 article with no written 'the' ('for ever' split as for/ever, matching the corpus's לְעוֹלָם → 'endureth for' + 'ever'). None is an error.",
+    "The five repeated notes the validator lists (Rule 17, Rule 19, rule 20 copula, rule 29 supplied 'the') restate contract rules and need no convention."
+  ]
+}

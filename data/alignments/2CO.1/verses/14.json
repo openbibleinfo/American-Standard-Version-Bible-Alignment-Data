@@ -1,0 +1,289 @@
+{
+  "alignments": [
+    {
+      "confidence": "high",
+      "note": "Comparative adverb rendered *as*.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "confidence": "high",
+      "note": "Intensifying καί realized by *also* (rules 55, 65). Rule 82 does not apply: it governs a καί answering a comparative with an English *so*, and the ASV writes none here.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "confidence": "high",
+      "note": "Inflected verb takes its subject and auxiliary as helpers (rules 7, 9); head on the lexical verb.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "confidence": "high",
+      "note": "Accusative object.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "confidence": "high",
+      "note": "Preposition realized by the English preposition heading the phrase (rule 36). Rule 94 forbids a compound unit here, the ASV writing two words; rule 34 does not apply, since *in* is a real preposition answering to ἀπό rather than the adverb's own particle.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "confidence": "high",
+      "note": "Anarthrous noun, no determiner supplied.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "confidence": "high",
+      "note": "Complementizer written out as *that*; rule 43's test is the English, and a word is present.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "confidence": "high",
+      "note": "Predicate noun; the Greek expresses ἐσμεν, so no copula is supplied in this clause.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "confidence": "high",
+      "note": "Genitive pronoun rendered by the possessive *your*; the Greek is anarthrous, so no article competes.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "confidence": "high",
+      "note": "Expressed copula with its supplied subject pronoun as a rule 7/9 helper; head on the verb.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "confidence": "high",
+      "note": "καθάπερ → *even as*, headed on *as*, the word the corpus spends on the comparative adverb; *even* is an intensifying helper (rules 7, 82).",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "confidence": "high",
+      "note": "Intensifying καί realized by *also*, exactly as at s002. Rule 82's correlative reading needs an English *so*, which the ASV does not write in this clause; rules 55 and 65 give the particle whatever word answers to it.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "confidence": "medium",
+      "note": "Bare subject pronoun of the verbless comparative. Rule 56's spelled-out arm (καθὼς ἡμεῖς ἕν → *even as we are one*) puts the supplied copula on the expressed predicate, not the subject; reading *ours* as a noun-phrase predicate under rule 53's exception would move *are* here, so the unit is hedged with s014.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "confidence": "medium",
+      "note": "Elliptical comparative with an expressed predicate token: the predicate carries the supplied copula (rules 53, 56), headed on *ours*. Rule 53's noun-phrase exception is doubtful here — its rationale is that an article-plus-noun predicate leaves nothing inside it for the copula, which a one-word *ours* does not do — but that reading stays defensible and would give *are* to ὑμεῖς.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "confidence": "high",
+      "note": "Expressed preposition realized by *in* (rule 36); the article therefore keeps a bare *the* rather than a rule 21 *in the* bundle.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "confidence": "high",
+      "note": "Article surfaces as *the* (rule 19).",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "confidence": "high",
+      "note": "Head noun of the prepositional phrase.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "confidence": "high",
+      "note": "Rule 20: the genitive ἡμῶν is free — its only English is *our* — so it takes the determiner slot, the article realizes nothing, and *of* stays with the noun, as in τοῦ θελήματος αὐτοῦ → *of his will*.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "confidence": "high",
+      "note": "Source noun rendered *of + noun*, headed on the noun (rule 17); the case preposition rides with it under rule 20, discontinuously across *our* under rule 15.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t023",
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "confidence": "high",
+      "note": "Genitive pronoun rendered by the possessive *our*.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t024"
+      ],
+      "target_head": "t024"
+    },
+    {
+      "confidence": "high",
+      "note": "Name split from κυρίου as separately recoverable (rules 17, 26).",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t026"
+      ],
+      "target_head": "t026"
+    }
+  ],
+  "ref": "2CO.1.14",
+  "review_notes": [
+    "Reviewed the accepted alignment; returned unchanged except for one confidence correction at s012. All 21 source and 26 target IDs remain partitioned exactly once.",
+    "s012 raised from medium to high. It is the same construction as s002 — comparative adverb followed by an intensifying καί that the ASV renders *also* — and s002 was recorded high, so the two should not differ. Rule 82's correlative reading requires an English *so*, which the ASV writes in neither clause, and the old note's alternative (*even also* as one split frame) is not available, *even* standing beside *as* as καθάπερ's own gloss.",
+    "s018 τοῦ is the only unrepresented unit and is correct: rule 20 displacement by a free ἡμῶν → *our*, matching the contract's τοῦ θελήματος αὐτοῦ → *of his will*, with *of* left on κυρίου. Rule 76's availability test is satisfied, ἡμῶν being spent on nothing else.",
+    "The verse's live question is the verbless comparative καθάπερ καὶ ὑμεῖς ἡμῶν → *even as ye also are ours*. I confirmed the supplied *are* on the predicate ἡμῶν: rule 56's spelled-out arm, καθὼς ἡμεῖς ἕν → *even as we are one*, is structurally identical, and rule 53's noun-phrase exception rests on an article-plus-noun predicate spelling itself out, which a single *ours* does not. s013 and s014 stay medium together, since the competing reading moves *are* between them.",
+    "ἀπὸ μέρους → *in part* correctly stays two units: rule 94 permits a compound prepositional unit only where the ASV writes a single English word, and rule 34's pleonastic case does not apply, *in* being a genuine English preposition answering to ἀπό under rule 36. Likewise ἐν τῇ ἡμέρᾳ splits into *in* and *the*, the Greek preposition being expressed."
+  ]
+}

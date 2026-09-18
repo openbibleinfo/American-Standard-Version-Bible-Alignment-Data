@@ -1,0 +1,31 @@
+{
+  "chapter": "2KI.25",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "ASV supplements drawn from the Jer 52 parallel with no variant unit recorded are read by what stands in the slot. Where no token stands there at all — the italic 'fourth' of 25.3, answering to Jer 52:6's הָרְבִיעִי — the word is its own `added` unit; it is not folded into חֹדֶשׁ as a helper. Where a token does stand and the construction it heads would itself license the word — 25.10 'were with the captain', whose 'with' answers to Jer 52:14's אֶת before the bare predicate רַב — the word stays on that token under rules 33 and 53, with the copula of the verbless relative joining it under rule 20 and a note naming the divergence.",
+    "In the measurement clauses שְׁמֹנֶה עֶשְׂרֵה אַמָּה קוֹמַת הָעַמּוּד → 'The height of the one pillar was eighteen cubits' and וְקוֹמַת הַכֹּתֶרֶת שָׁלֹשׁ אַמּוֹת → 'the height of the capital was three cubits', the numeral phrase is the predicate and the construction-supplied copula joins the counted noun אַמָּה in both cola, not the numeral; the compound numeral fuses to one word (rule 30) and keeps nothing else. Placement on the numeral is the competing reading.",
+    "דְּבַר־יוֹם בְּיוֹמוֹ → 'every day a portion' reads the repetition on rule 22's distributive terms although it is joined by בְּ rather than a waw: the first יוֹם takes 'every day' with the supplied determiner under rule 15, and the בְּ, the second יוֹם and its suffix are each their own `unrepresented` unit. The four morphemes are not fused under rule 30, for the reason rule 22 gives about a distributive noun the ASV spends a word on.",
+    "The topicalizing 'for' of 'and for his allowance' (וַאֲרֻחָתוֹ), standing before a fronted nominal that carries no marker and no preposition, is `added` on the terms rule 16 gives 'as for'; it is not placed on the noun under rule 33, since a nominal's fronting is not a case-function. The finite נִתְּנָה takes the presentative 'there was … given' under rule 17, so the appositional אֲרֻחַת keeps only 'a allowance'.",
+    "סָרִיס אֶחָד → 'an officer' gives the 'an' to אֶחָד, the numeral used as an indefinite marker being the morpheme whose sense that word carries (rule 11), and leaves the noun its bare 'officer'. The competing reading — אֶחָד unrepresented and 'an' on the noun under rule 15 — is named in the note; the chapter's other two אֶחָד are ordinary 'one'.",
+    "וַתָּבֹא הָעִיר בַּמָּצוֹר → 'So the city was besieged' gives the auxiliary 'was' to the finite verb and fuses the non-contiguous בַּמָּצוֹר — preposition, assimilated article and noun — to 'besieged' under rules 30 and 40, the article sharing the fused unit as in הַיּוֹם → 'to day'. The competing reading leaves the verb unrepresented with 'was besieged' whole on the phrase."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 66 candidate groups end to end. Every within-bucket difference is licensed by the ASV's own rendering or by a source difference the signature is too coarse to see (rectum article vs no article, waw present vs absent, construct vs absolute שָׁנָה, directive he vs bare toponym); no construction is analysed two ways.",
+    "Compound prepositions are consistent: מֵעַל → from/out of/above (25.5, 25.21, 25.28) and מֵאֵת → of (25.30) all head on the opening מִן (rule 23); מִפְּנֵי → of (25.26) and לִפְנֵי → before (25.29) both head on פָּנֶה (rule 30); לְעֵינָיו → before his eyes (25.7) is split because each morpheme has a word.",
+    "Date formulae are consistent across 25.1, 25.8, 25.25, 25.27: 'that' stays with הָיָה where the apodosis verb carries no waw (rule 45), agreement articles on ordinals/numerals are unrepresented (rules 41, 47), substantival day numerals take 'the … day' (rule 31), and the construct-headed figure of 25.8 leaves its trailing שָׁנָה unrepresented while the absolute figures of 25.2 and 25.27 render theirs (rule 22).",
+    "Article placement is consistent: rectum article fronted where the rectum is anarthrous (25.4, 25.13, 25.14, 25.19, 25.25), possessor's article takes the the of a possessive recasting (25.4, 25.9, 25.19), construct takes the supplied the where the rectum is arthrous or the chain attributive (25.3, 25.11, 25.18, 25.19, 25.23, 25.24, 25.28), and a supplied the on an articleless name goes to the name (25.4, 25.5, 25.10, 25.13, 25.26).",
+    "The six added units (25.3 fourth, 25.4 fled and the king, 25.22 as for, 25.29 Jehoiachin, 25.30 for) were checked against the dump: none of these words is folded into a neighbouring token elsewhere in the chapter. The two Jer 52 supplements (25.3 fourth; 25.10 with) differ in shape and are recorded as a convention rather than a split.",
+    "BSB disagreements are all documented convention differences: Td ×12 are agreement articles, articles on toponyms and articles the ASV writes no the for; To ×13 are object markers; the two waws (25.3, 25.23) are connectives the ASV leaves unwritten; 25.8 שָׁנָה is rule 22's construct-headed figure; the R ×5 are prepositions the recasting silences (rules 22, 40); 25.19 הוּא is rule 20's resuming pronoun; 25.30 יוֹם and its suffix are the repeated occurrence of a distributive. None is a genuine error.",
+    "No promotion or amendment: the two things this chapter might generalise (a distributive repetition joined by בְּ rather than a waw; אֶחָד as an indefinite marker taking 'an') rest on one verse each and no corpus precedent for them was supplied, so they are logged as conventions only."
+  ]
+}

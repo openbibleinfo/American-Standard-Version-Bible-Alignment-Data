@@ -1,0 +1,133 @@
+{
+  "alignments": [
+    {
+      "note": "",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Hiphil of חרשׁ 'silence' rendered as light verb + complement 'make ... hold their peace'; the idiom's possessive is part of the rendering and the head stays on peace (rule 44). No interrogative particle stands in the clause, so the fronted Should is the verb's own (rule 17).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t004",
+        "t006",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Coordinator and subordinator written together for one waw, 'And when' (rule 55); headed on the coordinator, competing head on when.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "The ASV writes no connective for the second waw (rule 14).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Existential אֵין takes the negation word 'no' and heads on it (rule 50), exactly as the אֵין of JOB.11.19 takes 'none'. The generic 'man' is the anarthrous participle's supplied noun phrase under rule 46, not part of the existential's rendering. Competing reading: 'no man' whole on אֵין as the equivalent of 'none'.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Anarthrous hiphil participle 'one who puts to shame' takes the generic 'man' the ASV supplies to make it a noun phrase (rule 46) together with its light-verb rendering 'make ... ashamed' and the auxiliary; head on the complement ashamed (rule 44). Discontinuous around the negation and the supplied object (rule 25).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t015",
+        "t016",
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Supplied object pronoun; no object morpheme is present (rule 44).",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "JOB.11.3",
+  "review_notes": [
+    "Split 'no man': the 'no' is אֵין's negation word (rule 50) and 'man' is the participle's supplied generic noun (rule 46), the smallest defensible allocation under rule 2 and consistent with JOB.11.19's אֵין → none beside its own participle."
+  ]
+}

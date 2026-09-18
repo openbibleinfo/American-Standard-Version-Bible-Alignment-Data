@@ -1,0 +1,161 @@
+{
+  "alignments": [
+    {
+      "note": "זָרַם 'sweep away as a flood' rendered by the whole verb phrase 'Thou carriest ... away as with a flood'; the subject pronoun is the verb's under rule 17, 'away' completes the sweeping (rule 44), and 'as with a flood' is the ASV's rendering of the verb's own flood lexeme rather than a supplied adjunct. Discontinuous around the object suffix's 'them' (rule 25). Headed on the lexical verb 'carriest' under rule 24; the competing head is 'flood', which writes the lexeme most literally (rule 44 light-verb reasoning).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t004",
+        "t005",
+        "t006",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Object suffix → 'them' (rule 18).",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Bare predicate noun שֵׁנָה construed as a comparison; the supplied 'as' is the noun's under rule 33 and the 'a' is its own under rule 15.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "יִהְיוּ 'they are', realized twice by the ASV across the two clauses it splits the line into ('they are as a sleep ... they are like grass'); under rule 34/25 the second 'they are' is the one written verb realized again, headed on the first occurrence. Competing reading: treat the second clause as verbless, giving 'are' to the כְּ under rule 49 and marking the second 'they' added under rule 25's finite-verb-inflection sentence.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t017",
+        "t018"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "בְּ → 'In'.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Assimilated article → 'the' (rule 12).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "בֹּקֶר → 'morning'.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Comparative כְּ → 'like'.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Assimilated article on חָצִיר; the ASV writes bare 'grass' with no 'the' (rule 12).",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "חָצִיר → 'grass'.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Relative 'which' supplied over a finite clause juxtaposed to the written antecedent 'grass'; no relative or waw stands in the Hebrew, so rule 55 marks it added.",
+      "source": [],
+      "source_head": null,
+      "status": "added",
+      "target": [
+        "t021"
+      ],
+      "target_head": "t021"
+    },
+    {
+      "note": "יַחֲלֹף 'sprouts up' → 'groweth up'; 'up' completes the lexeme of springing up (rule 44) and stays with the verb.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t022",
+        "t023"
+      ],
+      "target_head": "t022"
+    }
+  ],
+  "ref": "PSA.90.5",
+  "review_notes": [
+    "Second 'they are' read as the distributed realization of the one written יִהְיוּ (rule 34) rather than a supplied copula on כְּ with an added pronoun; the alternative is named in the unit note.",
+    "'as with a flood' kept inside the verb's unit as the ASV's rendering of זָרַם's own lexeme; head on 'carriest' with 'flood' as the competing head."
+  ]
+}

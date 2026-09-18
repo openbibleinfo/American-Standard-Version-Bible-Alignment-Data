@@ -1,0 +1,145 @@
+{
+  "alignments": [
+    {
+      "note": "",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Rule 92: the article stands before an expressed appositional predicate noun (Παῦλος), so that noun is the token left to carry the supplied relativizer and copula, and the article takes only the determiner or antecedent pronoun the ASV writes for it — here none, so rule 23 empties it. Rule 31's carve-out does not reach a predicate noun, and rule 90 is scoped to a participle.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Rule 65's English-side test: the ASV writes *also* for the intensifying καί.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Rule 92: the expressed predicate noun carries the supplied relativizer, copula and *called*; rule 15 permits the discontinuity around *also*, which is καί's. Reading *who* as the substantival article's own pronoun under rule 22 remains defensible.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Anarthrous genitive: rule 21's determinerless clause keeps the case preposition on the noun, and rule 58 puts the supplied determiner on the noun rather than the adjective.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010",
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "ἀτενίζω rendered by *fastened his eyes*; the verb word carries the lexeme's action and *eyes* is the supplied complement. Heading on *eyes* remains defensible.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014",
+        "t015"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    }
+  ],
+  "ref": "ACT.13.9",
+  "review_notes": [
+    "Corrected ὁ καὶ Παῦλος: the accepted reading gave *who* to the article and folded only *is … called* onto the name. Rule 92 governs an expressed appositional predicate noun recast as a finite relative clause — the noun carries the relativizer and copula, and the article keeps only a determiner or antecedent pronoun the ASV writes, of which there is none here."
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chapter": "2CH.30",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "2CH.30.24",
+    "2CH.30.3"
+  ],
+  "rejected": {},
+  "conventions": [
+    "The adverbial `לָרֹב` occurs three times in this chapter and its `לְ` takes an English word only where the ASV writes one for the preposition's own adverbial relation: 30.5 *in great numbers* gives it *in*, while 30.13 *a very great assembly* and 30.24 *a great number of priests* recast the phrase as a nominal quantifier and leave it `unrepresented` under rule 40. The partitive *of* of 30.24 is not the preposition's — it stands before `כֹהֲנִים`, a bare noun with no preposition and no marker on it, and is that noun's under rule 33. Contrast 30.22, where `לַיהוָה` → *of Jehovah* keeps the *of* on the `לְ`, which there governs the very name the word introduces.",
+    "Two of this chapter's recurring multi-word English phrases were decided by rule 31's subtraction and go the same way in every verse: `רֹב` → *great numbers*, *great*, *a great number* heads on *great* (30.5, 30.13, 30.24), and `מַצּוֹת` → *unleavened bread* heads on *unleavened* (30.13, 30.21). In both, rule 31's tie-breaker was considered and does not move the head: the ASV never writes a bare *number* for `רֹב` or a bare *bread* for `מַצָּה`, so the nouns are supplied generics rather than class nouns realizing the lexeme.",
+    "The ASV's verse division cuts the phrase `בְּעַד כָּל־לְבָבוֹ הֵכִין` in two: *pardon every one* closes 30.18 and *that setteth his heart* opens 30.19, while the Hebrew `כָּל` stands in 30.19. Each verse partitions only its own ids, so 30.18 marks the supplied *every one* `added` and 30.19 gives `כָּל` the relative *that* alone, which joins the substantive's unit under rule 46. Nothing is missing and nothing is to be hunted for in the neighbouring verse; `בְּעַד` is `unrepresented` in 30.18 under rule 40, the ASV letting *pardon* reach its object bare.",
+    "`מִן` before `יָד` is read by rule 30's one-rendering condition and so divides within this chapter: 30.6 `מִיַּד הַמֶּלֶךְ` → *from the king* fuses the preposition and the construct noun, because the ASV spends no word on *hand*, while 30.6 `מִכַּף מַלְכֵי אַשּׁוּר` → *out of the hand of the kings* and 30.16 `מִיַּד הַלְוִיִּם` → *of the hand of the Levites* are split, the ASV writing a word for each. This is not a split in the analysis; the count is read off the ASV in each verse."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v116",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 59 candidate groups and then the dump end to end, since the table is keyed by source lemma and is blind to the 13 `added` units this chapter carries.",
+    "Real split found: the adverbial `לָרֹב` is written three times and its `לְ` treated three ways. 30.5 *in great numbers* writes a preposition for the adverbial relation and 30.13 *a very great assembly* writes none, so those two are licensed by the ASV; 30.24 gave the `לְ` the partitive *of* of *a great number of priests*, which relates two English nouns and stands before `כֹהֲנִים`, a bare noun with no preposition and no object marker on it. Rule 33 puts such a supplied *of* on the word it stands before, and rule 40's subtraction shows that dropping it breaks the English quantifier rather than leaving the preposition's own relation unstated. Patched 30.24 to agree with 30.13: `לָ` `unrepresented`, `כֹהֲנִים` -> *of priests*.",
+    "The contrast that settles it is 30.22, where `לַיהוָה` -> *of Jehovah* is rightly kept on the `לְ`: there the preposition governs the very name the *of* introduces, which `לָרֹב` does not.",
+    "BSB: the `Td x 6` and `R x 11` blocks are the documented convention difference (BSB attaches function morphemes to their host phrase) and are not errors. Of the four singletons, 30.4 `עֵינֵי` (rule 22), 30.8 `כֶם` (no possessive written inside the fused *stiffnecked*) and 30.10 `יִּהְיוּ` (periphrastic `הָיָה` held apart from its participle by the subject noun, so rule 30's contiguity condition bars fusion) are correct as aligned.",
+    "One BSB item is a genuine error: 30.3 marked the `מַ` of `לְמַדַּי` `unrepresented` beside `דַּי` -> *sufficient number*. Rule 31 makes *number* the supplied generic, so no morpheme owns a part of that rendering and rule 30's one-rendering condition is met; that rule directs one unit rather than one rendered morpheme beside an unrepresented one. Patched 30.3 to fuse s018+s019, headed on `דַּי` and on *sufficient*.",
+    "Checked and found consistent, the difference being licensed by the ASV in each case: all 76 waws read off the translation (including the *even* of both `מִן … עַד` ranges under rules 14 and 26, and the `added` *but* at 30.8 where no conjunction stands); `מִיַּד` fuses at 30.6 where no *hand* is written and splits at 30.6b and 30.16 where one is; every article follows rule 29's arthrous/anarthrous count and rule 47's first-article count; the supplied appositional *even* is `added` at 30.18 and 30.27 where no marker stands, while a waw takes it where one does; supplied object pronouns are `added` at 30.5, 30.14 and 30.17 and aligned at 30.3 where a suffix is written; and the two `הֵרִים` clauses differ only because the ASV writes *for offerings* in one and not the other.",
+    "Nothing promoted. The 30.24 correction is rule 33 applied rather than a gap in it, and the 30.18/30.19 antecedent case is an artifact of the ASV's versification, which the pipeline resolves elsewhere; a rule for it would make that shape permanent."
+  ]
+}

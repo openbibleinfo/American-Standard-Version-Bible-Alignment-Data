@@ -1,0 +1,5 @@
+# 1 Kings 8 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- **1KI.8.51** — In a construct chain whose nomen rectum carries the article, the article morpheme takes the English 'the' the ASV writes for the chain, even when that 'the' is reordered to the left edge of the phrase and the rectum itself is rendered anarthrously ('the two tables of stone', 'the sacrifice of peace offerings', 'the furnace of iron', 'the heaven of heavens'). Rule 29's supplied 'the' on a construct noun is for the case where no article morpheme is present, or for a second English 'the' in a multi-level chain ('the hearts of all the children of men', 'the midst of the furnace of iron'); where English writes more than one 'the', the article takes the nearest one to its left and the outer construct nouns keep supplied ones. An article is unrepresented only when the ASV writes no 'the' for that phrase at all ('any man', 'all this prayer').

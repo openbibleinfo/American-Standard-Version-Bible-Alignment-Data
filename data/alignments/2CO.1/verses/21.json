@@ -1,0 +1,170 @@
+{
+  "alignments": [
+    {
+      "confidence": "high",
+      "note": "Postpositive δέ realized by the ASV's clause-initial Now.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "confidence": "high",
+      "note": "Substantival article before a participle: rule 32 gives it the pronoun he and nothing else, the ASV writing two English words for the pair, so rule 90's one-word case does not arise.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "confidence": "high",
+      "note": "The participle carries the supplied relativizer that under rules 7 and 32; head on the lexical verb under rule 17.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "confidence": "high",
+      "note": "Object pronoun of the participle.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "confidence": "high",
+      "note": "Preposition to preposition.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "confidence": "high",
+      "note": "Governed pronoun stands on its own English word (rule 2).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "confidence": "high",
+      "note": "εἰς rendered in; the preposition governing the phrase takes the English preposition under rule 36 rather than being absorbed into establisheth.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "confidence": "high",
+      "note": "Anarthrous name, no determiner supplied.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "confidence": "high",
+      "note": "Coordinating conjunction joining the two participles; expressed in Greek, so rule 88's supplied juncture is not in question.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "confidence": "high",
+      "note": "Second participle rendered by a bare past form under the shared he that; no separate helper is written for it.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "confidence": "high",
+      "note": "Second object pronoun, kept distinct from s004 under rule 2.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "confidence": "medium",
+      "note": "Verbless clause: the supplied copula rides with the predicate noun under rule 53's main principle, since rule 32 lets the substantival article supply the pronoun and nothing else. Rule 92's ὁ κύριός → he who is … Master at EPH.6.9 is the same configuration and puts the copula on the predicate noun. Rule 53's subject-pronoun exception for a noun-phrase predicate is the competing reading, which would give the discontinuous he … is to s001; rule 68 extends that exception to a substantival demonstrative, so extending it to a pronoun-supplying article stays defensible.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    }
+  ],
+  "ref": "2CO.1.21",
+  "review_notes": [
+    "Reviewed; returned unchanged apart from note wording. Partition checked: s001–s012 and t001–t014 each used exactly once, every head a member of its array.",
+    "s001/s003 split follows rule 32 (οἱ κατοικοῦντες → they that dwell), not rule 90, because the ASV writes two English words for the article-plus-participle pair.",
+    "s012's copula placement is the only genuinely contested unit; kept medium with the competing rule 53 reading named, and rule 92's EPH.6.9 precedent added as the support for the accepted reading.",
+    "εἰς → in kept on the preposition rather than absorbed into establisheth (rule 36).",
+    "καί is expressed, so and is aligned to s009 in the ordinary way; rule 88's supplied-juncture question does not arise, and χρίσας takes no second relativizer because the ASV writes none."
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "alignments": [
+    {
+      "note": "Expressed conjunction rendered And.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Participle converted to a finite clause; the supplied subject he is a rule 7 helper and the head is the lexical verb under rule 17.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "σινδών is anarthrous, so the supplied a is a rule 7/51 helper on the noun; linen cloth glosses the one lexeme and the noun is the head under rule 66.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Discontinuous phrasal rendering taking … down under rule 15; the particle down belongs to the English verb, not to a separate source token.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t010"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "One Greek pronoun realized twice: as the participle's object and again resumptively after wound. A resumptive pronoun folds onto its source word under rule 7, which rule 103 names as the contrast to added lexical repetition.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t012"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "The supplied juncture and introduces this clause after ἀγοράσας was converted to a finite verb, so it is a rule 88 helper on the finite verb it introduces, discontinuously under rule 15. Attaching it instead to the following participle καθελών is defensible on word order, but rule 88 places such a juncture on what it introduces.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "The dative case preposition in rides with the article that takes the English the, headed on the (rule 21).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Same lexeme as s003; the noun glosses it and heads the unit under rule 66, the determiner being the article's at s007.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t015",
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Expressed conjunction rendered and.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Finite verb on its own English word.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Accusative pronoun object.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    },
+    {
+      "note": "Expressed preposition rendered in.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Anarthrous noun, so the supplied indefinite a is an ordinary rule 7/51 helper on the noun it determines.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t021",
+        "t022"
+      ],
+      "target_head": "t022"
+    },
+    {
+      "note": "Relative pronoun rendered which, with no supplied nominal to compete (rule 77).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t023"
+      ],
+      "target_head": "t023"
+    },
+    {
+      "note": "Periphrastic imperfect of εἰμί with the perfect participle; the copula carries the English auxiliaries had been, headed on been as its own realization, and the participle keeps the lexical verb.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t024",
+        "t025"
+      ],
+      "target_head": "t025"
+    },
+    {
+      "note": "Perfect passive participle rendered by the lexical verb hewn, its auxiliaries belonging to the expressed ἦν.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t026"
+      ],
+      "target_head": "t026"
+    },
+    {
+      "note": "The two-word English preposition out of realizes ἐκ, headed on the prepositional word out.",
+      "source": [
+        "s017"
+      ],
+      "source_head": "s017",
+      "status": "aligned",
+      "target": [
+        "t027",
+        "t028"
+      ],
+      "target_head": "t027"
+    },
+    {
+      "note": "Anarthrous noun with a supplied indefinite helper under rules 7 and 51.",
+      "source": [
+        "s018"
+      ],
+      "source_head": "s018",
+      "status": "aligned",
+      "target": [
+        "t029",
+        "t030"
+      ],
+      "target_head": "t030"
+    },
+    {
+      "note": "Expressed conjunction rendered and.",
+      "source": [
+        "s019"
+      ],
+      "source_head": "s019",
+      "status": "aligned",
+      "target": [
+        "t031"
+      ],
+      "target_head": "t031"
+    },
+    {
+      "note": "Finite verb with its pronoun subject as a rule 7 helper, headed on the lexical verb under rule 17.",
+      "source": [
+        "s020"
+      ],
+      "source_head": "s020",
+      "status": "aligned",
+      "target": [
+        "t032",
+        "t033"
+      ],
+      "target_head": "t033"
+    },
+    {
+      "note": "Anarthrous noun with a supplied indefinite helper under rules 7 and 51.",
+      "source": [
+        "s021"
+      ],
+      "source_head": "s021",
+      "status": "aligned",
+      "target": [
+        "t034",
+        "t035"
+      ],
+      "target_head": "t035"
+    },
+    {
+      "note": "Expressed preposition rendered against.",
+      "source": [
+        "s022"
+      ],
+      "source_head": "s022",
+      "status": "aligned",
+      "target": [
+        "t036"
+      ],
+      "target_head": "t036"
+    },
+    {
+      "note": "Article rendered by the English the under rule 19; the accusative needs no case preposition here.",
+      "source": [
+        "s023"
+      ],
+      "source_head": "s023",
+      "status": "aligned",
+      "target": [
+        "t037"
+      ],
+      "target_head": "t037"
+    },
+    {
+      "note": "Noun on its own word, split from its article under rules 13 and 26.",
+      "source": [
+        "s024"
+      ],
+      "source_head": "s024",
+      "status": "aligned",
+      "target": [
+        "t038"
+      ],
+      "target_head": "t038"
+    },
+    {
+      "note": "Genitive article carrying its case preposition: of and the form one unit headed on the (rule 21).",
+      "source": [
+        "s025"
+      ],
+      "source_head": "s025",
+      "status": "aligned",
+      "target": [
+        "t039",
+        "t040"
+      ],
+      "target_head": "t040"
+    },
+    {
+      "note": "Noun stands alone, the case preposition having gone with the article.",
+      "source": [
+        "s026"
+      ],
+      "source_head": "s026",
+      "status": "aligned",
+      "target": [
+        "t041"
+      ],
+      "target_head": "t041"
+    }
+  ],
+  "ref": "MRK.15.46",
+  "review_notes": [
+    "The three underdetermined variant units (v054, v055, v056) leave the projection carrying a base reading the ASV permits; no fallback is marked excluded, so rule 97 does not apply and no textual decision is made here.",
+    "t012 him is folded onto s005 as a resumptive pronoun (rule 7 via rule 103) rather than marked added; reading it as a second discontinuous realization is the same analysis, and marking it added would be defensible only for supplied lexical content.",
+    "The supplied juncture t007 is placed on the finite verb it introduces (s006) per rule 88; placement on the following participle s004 is the competing reading and is named in that unit's note."
+  ]
+}

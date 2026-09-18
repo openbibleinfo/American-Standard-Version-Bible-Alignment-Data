@@ -1,0 +1,196 @@
+{
+  "alignments": [
+    {
+      "note": "Preposition rendered by *At*; the following article carries no determiner here (rule 21's determinerless clause does not arise, since the possessive is on μου).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Rule 20 proper: the genitive pronoun μου is present and free to take the supplied possessive *my*, so the article is displaced and realizes nothing.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Genitive pronoun rendered by the possessive *my*, which by rule 20 empties the article s002.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Superlative adjective to *first*; the determiner slot is already taken by *my*, so rule 58 does not arise.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Noun to *defence*, standing bare under its phrase's possessive.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Negative indefinite carrying the whole English negation; rule 17's generic-noun clause heads on *no* rather than the supplied *one*.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Dative of the person, realized by the possessive *my* inside the English idiom *took my part*. The competing reading joins μοι with παρεγένετο as one unit for the whole idiom; I split because *my* answers to the dative alone and rule 2 prefers the smallest defensible unit.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "The verb is rendered by the support-verb idiom *took … part*, discontinuous around the dative's *my* under rule 15. Rule 17 heads on the meaning-bearing complement *part* rather than the light verb *took*, as *bear witness* heads on *witness*.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Adversative conjunction to *but*.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Substantival quantifier to *all*; no negator stands with it, so rule 87 is not in question.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Finite verb to *forsook*.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Accusative pronoun object to *me*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Ordinary negative μή with the optative, rendered by *not*. Rule 44 is untouched, this being no interrogative particle, and no negative indefinite stands with it for rules 41 or 59.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Dative pronoun rendered by *to their*, the case preposition riding with the possessive under rules 21 and 36; the supplied noun *account* belongs to the verb's own idiom, not to the pronoun.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    },
+    {
+      "note": "Optative rendered by the periphrasis *may it be laid … account*, discontinuous around *not* and *to their* under rule 15. Rule 17 and rule 91 head on *account*: the corpus glosses λογίζομαι *reckon/account*, and *laid* is the light verb the English idiom supplies. Heading on *laid* remains defensible as the finite lexical word, but rule 17 forbids choosing a word merely because it is finite.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t014",
+        "t015",
+        "t017",
+        "t018",
+        "t021"
+      ],
+      "target_head": "t021"
+    }
+  ],
+  "ref": "2TI.4.16",
+  "review_notes": [
+    "Every s### and t### is partitioned exactly once; no IDs outside the supplied lists.",
+    "Only s002 is unrepresented (rule 20 displacement by μου); there are no added units.",
+    "Both variant units are underdetermined with the projected base among the compatible readings and carry no FALLBACK EXCLUDED mark, so rule 97 does not apply and no textual decision was made here.",
+    "Two heads flagged for review: s008 on *part* (support-verb complement) and s015 on *account* (lexeme gloss over the light verb *laid*)."
+  ]
+}

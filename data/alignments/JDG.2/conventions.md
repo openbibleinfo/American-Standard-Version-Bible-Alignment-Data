@@ -1,0 +1,5 @@
+# Judges 2 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Where a verb whose own lexeme carries a direction stands before min and the ASV writes both a directional particle and an ablative preposition, the particle answering to that verb's direction is the verb's and min takes what remains. JDG.2.1 gives 'up' to the hiphil of alah and 'out of' to min (I made you to go up out of Egypt); JDG.2.12 gives 'out' to the hiphil of yatsa and 'of' to min (who brought them out of the land of Egypt); JDG.2.15 gives 'out' to yatsa qal inside 'they went out'. Where no such verb stands, min takes 'out of' whole, headed on 'out' (2.16, 2.17, 2.18). The competing reading at 2.12, which gives 'out of' whole to min and leaves a bare 'brought' for the causative verb, is recorded in that verse's notes under rule 8.

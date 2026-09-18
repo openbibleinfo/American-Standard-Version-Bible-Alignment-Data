@@ -1,0 +1,6 @@
+# 2 Chronicles 10 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- Where the ASV's English follows the 1 Kings 12 parallel against the WLC text of this chapter and the packet records no variant unit — 10.14 'My father' before 'made your yoke heavy' where WLC writes the 1cs אכביד, and 10.16 'saw' in 'when all Israel saw' (the opening waw takes 'And when' under rule 55) where WLC writes no ראה — the surplus English is added with a rule-53 note naming the Kings reading, and the token the projection does carry (אכביד → 'made heavy') is aligned as printed. No token is marked unrepresented to answer for it and no textual decision is taken in the alignment.
+- The gapped second colon of 'my father chastised you with whips, but I will chastise you with scorpions' (10.11, 10.14) realizes the one written יסר twice: the italic 'will chastise' joins the verb's discontinuous unit and the italic 'you' joins the object suffix's under rules 34 and 25, neither being added; the waw of ואני takes 'but' and the pronoun its own 'I'.

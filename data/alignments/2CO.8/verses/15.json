@@ -1,0 +1,19 @@
+{
+  "ref": "2CO.8.15",
+  "alignments": [
+    {"source": ["s001"], "source_head": "s001", "target": ["t001"], "target_head": "t001", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s002"], "source_head": "s002", "target": ["t002", "t003", "t004"], "target_head": "t004", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s003"], "source_head": "s003", "target": ["t005", "t006", "t007"], "target_head": "t005", "status": "aligned", "confidence": "medium", "note": "Substantival article with no participle to carry the relativizer, so it keeps 'He that' (rule 22); the supplied 'gathered' has no other source word in the relative clause to belong to, though attaching it to the object phrase is defensible."},
+    {"source": ["s004"], "source_head": "s004", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "The ASV gives the substantivized adjective no determiner, so the article realizes nothing (rule 23)."},
+    {"source": ["s005"], "source_head": "s005", "target": ["t008"], "target_head": "t008", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s006"], "source_head": "s006", "target": ["t010"], "target_head": "t010", "status": "aligned", "confidence": "medium", "note": "The negation is realized in 'nothing'; no Greek indefinite stands with it, so rule 41 does not empty the negator."},
+    {"source": ["s007"], "source_head": "s007", "target": ["t009", "t011"], "target_head": "t011", "status": "aligned", "confidence": "high", "note": "Discontinuous 'had ... over' renders the verb; rule 17 heads on the meaning-bearing 'over'."},
+    {"source": ["s008"], "source_head": "s008", "target": ["t012"], "target_head": "t012", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s009"], "source_head": "s009", "target": ["t013", "t014", "t015"], "target_head": "t013", "status": "aligned", "confidence": "medium", "note": "As s003."},
+    {"source": ["s010"], "source_head": "s010", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "As s004 (rule 23)."},
+    {"source": ["s011"], "source_head": "s011", "target": ["t016"], "target_head": "t016", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s012"], "source_head": "s012", "target": ["t018"], "target_head": "t018", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s013"], "source_head": "s013", "target": ["t017", "t019"], "target_head": "t019", "status": "aligned", "confidence": "high", "note": "Light-verb rendering 'had lack' heads on 'lack' (rule 17)."}
+  ],
+  "review_notes": []
+}

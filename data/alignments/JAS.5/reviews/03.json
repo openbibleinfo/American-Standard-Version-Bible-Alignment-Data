@@ -1,0 +1,15 @@
+{
+  "alignment_sha256": "66b52fb1adbd1104ee4443589ee3a7c1681c7c5c1810303564febb09db7c0e6b",
+  "contract_version": "nt-greek-verse-v120",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: all 26 source ids and all 34 target ids are covered exactly once, no ids invented, every head a member of its array, and the four unrepresented units (s001, s005, s009, s018) have empty targets with null target heads.",
+    "Correcting a stale review note carried with the accepted alignment: it asserted that s005 takes the supplied *your* under rule 20's second arm, which contradicts the unit rows. As submitted, s003 carries both *Your* (t001) and *your* (t004) as one discontinuous realization of the single ὑμῶν under rule 15, and s005 is `unrepresented` under rule 20. The unit rows are correct and are returned as they stand; only the review note was wrong.",
+    "That reading is what the unit notes support and is the one to keep: rule 76 says a pronoun whose own English is merely split across a phrase has not been spent (τοῖς δεσμοῖς μου → *for me in my bonds*), and the seven cited corpus units where one genitive pronoun scopes over coordinated nouns with the possessive repeated all read it this way with the articles empty. The competing reading — the second *your* as the article's own under rule 20's second arm, on the model of rule 103's repeated function word going to the member it introduces — is named in the s005 note and remains defensible.",
+    "s023's head on t027 *laid* rather than t030 *treasure* rests on rule 91's operational test and on two corpus rows a later reader should confirm (2CO.12.14 θησαυρίζειν → a bare *lay up* with no object; 2CO.4.7 spending *treasure* on the unexpressed noun θησαυρός). If those rows do not hold, rule 104's neighbouring-class route would put the head back on *treasure*; the note already concedes that reading.",
+    "ἐν ἐσχάταις ἡμέραις is anarthrous throughout, so rule 58 gives the supplied *the* to the noun discontinuously (*the … days*) and leaves the adjective a bare *last*, which is rule 58's own worked shape. The marginal *Or, unto* touches only the gloss of εἰς at s012 and moves no boundary or head."
+  ],
+  "ref": "JAS.5.3",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

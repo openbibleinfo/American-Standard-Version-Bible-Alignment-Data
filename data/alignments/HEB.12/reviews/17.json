@@ -1,0 +1,20 @@
+{
+  "alignment_sha256": "771aa59211f09159c4c07a372ddc018d482908e915d7e8cd12b7c3ad89bcf4fd",
+  "contract_version": "nt-greek-verse-v65",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "Partition verified: all 20 source ids (s001-s020) and all 36 target ids (t001-t036) appear exactly once across the 21 units; no invented ids.",
+    "Status legality verified: the single non-aligned unit is the `added` t027-t029 (empty source, null source head, target head a member). No unrepresented or noncompositional units are claimed, and none is owed here.",
+    "οὐχ → *no* aligned rather than emptied is right: rules 41 and 59 empty a negator only before a second **negative** word, and τόπον is a plain noun. Rule 59's joining arm does not reach it either, since that arm wants a plain indefinite (τις/τι) fused into one English word; here the ASV writes *no* and *place* separately, so rule 2 splits them. Rule 87 is not in question, no πᾶς standing.",
+    "μετά + δακρύων correctly split under rule 94 (two English words, so no compound unit), with *with* on the preposition per rule 36 and the anarthrous noun keeping its own word.",
+    "The supplied *when* and *he* on θέλων are rule 7 helpers licensed by the participle under rule 86, not `added`; the discontinuity around t008 *afterward* is permitted by rule 15. Same for *he* on ἐκζητήσας around t033 *it*.",
+    "The `added` *in his father* is correctly not rule 37 (no neighbouring-verse Greek) and not rule 97 (no FALLBACK EXCLUDED mark in the packet); αὐτήν is already spent on t033, so rule 103's reasoning also points to `added`.",
+    "ὅτι is aligned to an expressed *that*, which is rule 43's own test (an English word is present), so the unrepresented arm is rightly not taken.",
+    "The head of the μετανοίας unit (*change* vs *mind*) is the one genuinely open choice. Rule 91's lemma query returns nothing usable here — the corpus glosses μετάνοια/μετανοέω as *repentance*/*repent*, neither English word — and both *change* and *mind* answer to an element of the compound, so rule 16 is satisfied by the note naming the competing reading. Left as accepted.",
+    "Minor wording only, not corrected because it changes nothing: the ἀπεδοκιμάσθη note calls the English *rejected* a participle; the head choice it records is right under rule 9 regardless.",
+    "The verse's alternative-rendering note (*no place of repentance* as one parenthesis) affects punctuation only and leaves the token-level alignment adopted here untouched."
+  ],
+  "ref": "HEB.12.17",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

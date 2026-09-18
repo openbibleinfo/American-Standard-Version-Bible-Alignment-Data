@@ -1,0 +1,28 @@
+{
+  "chapter": "PSA.22",
+  "verdict": "no-change",
+  "amendments": [],
+  "applied": [],
+  "rejected": {},
+  "conventions": [
+    "מִמֶּנּוּ is tagged Sp1cp by MACULA in 22.23 and 22.24 but the ASV writes him for both; the suffix takes the pronoun written for it (rule 18) and the tag is not read as evidence of a first-person rendering.",
+    "כָּאֲרִי → They pierced follows the versions against the pointed text and no variant unit is recorded in the packet, so it is aligned under rule 53 as printed: the noun אֲרִי carries They pierced, the כָּ and assimilated article are unrepresented, and no textual decision is taken inside the alignment file.",
+    "A subject pronoun the ASV supplies for a later verbless clause is given to the nominal written earlier in the verse that it resumes (22.1 thou → vocative אֵלִי; 22.28 he → יהוה), not marked added, with the added alternative named in the note (rule 25)."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v217",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Read all 32 verses end to end, including the eight `added` units the lemma table cannot see (22.1 so, and; 22.7 saying; 22.8 thyself; 22.9 when I was; 22.17 and; 22.30 next; 22.31 it). Every one answers to no morpheme and is placed on the same terms; no verse folds a comparable supplied word into a neighbour.",
+    "Candidate table: no split found. The suffix, waw, לְ, מִן, בְּ, כִּי and לֹא variation is the ASV rendering each morpheme differently in context (my/me, but/Yea/Even, of/unto/for, out of/since, seeing/that, no/cannot). Assimilated articles are unrepresented wherever the ASV writes no the (22.14, 22.15, 22.16) and take the written the where it does (22.28, 22.30), which is rule 12 applied uniformly. בְּתוֹךְ fuses to within in 22.14 and splits to In the midst in 22.22 because the ASV writes one word in one place and two in the other (rule 30).",
+    "The chapter twice gives a subject pronoun the ASV supplies for a later verbless clause to the nominal written earlier in the verse (22.1 thou → vocative אֵלִי; 22.28 he → יהוה), which is rule 25 applied the same way both times; both notes name the `added` alternative.",
+    "22.16 כָּאֲרִי → They pierced is the one textual divergence: no variant unit is recorded, so the noun carries the English as printed with the preposition and article unrepresented under rule 53, and no textual decision was taken. Left as aligned.",
+    "BSB disagreements (7): all convention differences, none an error. 22.7 לִי and בְ are silenced by the direct-object recasting (rule 40); 22.19/22.20 Sh are paragogic he on imperatives (rule 32; the 'haste' gloss on 22.19's he is a display defect under rule 39); 22.30 the אֲדֹנָי suffix is lexicalized (rule 57); 22.16 כָּ is the rule 53 divergence above. 22.14 מֵעָי under 'within me' is the only one with a live alternative — fusing בְּתוֹךְ מֵעָ into the one word within — but the accepted reading (within on בְּתוֹךְ, noun unrepresented, me on the suffix) is defensible and noted; not changed for the score.",
+    "Head choices with a named competing head (22.0 Chief Musician on Musician, 22.12 Strong bulls on bulls, 22.7 laugh to scorn on scorn) are recorded as rule 8 asks and are not cross-verse issues.",
+    "No promotion or amendment: the chapter taught nothing the contract does not already say."
+  ]
+}

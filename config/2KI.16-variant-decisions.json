@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "chapter": "2KI.16",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.2KI.16.6.v001",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV renders the subject as 'the Syrians came to Elath, and dwelt there', i.e. Arameans = the ketiv ארמים, not the qere אדומים 'Edomites'. The verse note classed other, 'According to another reading, Edomites', confirms the translators rendered the ketiv and relegated the qere to the margin."
+    },
+    {
+      "unit_id": "WLC.2KI.16.15.v002",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere ויצוה and ketiv ויצוהו differ only in a resumptive 3ms object suffix. ASV 'And king Ahaz commanded Urijah the priest, saying' expresses the object once by the noun, which is idiomatic English for either form; no italicized supply and no textual_variant note bears on it."
+    },
+    {
+      "unit_id": "WLC.2KI.16.17.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is the presence or absence of a conjunctive waw on the object marker. ASV 'cut off the panels of the bases, and removed the laver from off them' coordinates the clauses in English regardless of whether the Hebrew wrote את or ואת; nothing in the wording or notes distinguishes them."
+    },
+    {
+      "unit_id": "WLC.2KI.16.18.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere מוסך and ketiv מיסך are orthographic spellings of the same noun and yield the same sense, rendered 'the covered way for the sabbath'. Both verse notes are classed alternative_rendering ('Or, covered place'; 'Or, round') and concern English wording only, so they cannot decide a reading."
+    }
+  ]
+}

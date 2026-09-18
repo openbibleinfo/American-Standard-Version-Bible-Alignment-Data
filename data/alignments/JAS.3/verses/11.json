@@ -1,0 +1,167 @@
+{
+  "alignments": [
+    {
+      "note": "Interrogative μήτι expecting a negative answer. The ASV marks the question by inversion alone; the supplied *Doth* is the do-support auxiliary English inversion requires, carrying only the tense and agreement of βρύει, so it rides with the finite verb under rule 9, exactly as `μὴ πλείονα σημεῖα ποιήσει;` → *will he do more signs?* in rule 44. The competing reading takes *Doth* as a supplied interrogative word under rule 64 (`μήτι οὗτός ἐστιν ὁ χριστός;` → *Can this be the Christ?*); rejected because *Can* there is a modal the Greek never wrote, whereas *doth send* is only the periphrastic form of βρύει — rule 64's own carve-out for a word the clause would have required anyway. A reference comparison will report this token as a disagreement; rules 44 and 64 say that report is not a correction.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Article before its expressed noun, realized as *the* under rule 19.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "πηγή → *fountain*, split from its article under rule 26.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "ἐκ → *from*; the English preposition governing the phrase realizes the Greek preposition under rule 36, not the phrasal verb *send forth*, whose *forth* is its own particle.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Article takes the English determiner *the*; the case preposition is already realized by the expressed ἐκ, so rule 21's *of the* pattern does not arise and the article stands alone on *the*.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Identity adjective αὐτῆς → *same*. It does not empty the article: rule 20's displacement is for a possessive and rule 38's for a demonstrative, and αὐτός in attributive position is neither — *the same opening* keeps the article's own *the* under rule 19.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "ὀπῆς → *opening*, recoverable independently of its article under rule 26.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "βρύει → *Doth send forth*, discontinuous under rule 15 because the interrogative inversion fronts the auxiliary. Rules 9 and 17 head the unit on the lexical verb *send* rather than the auxiliary *Doth*; *forth* is the English verb's own particle, not a realization of ἐκ (rule 36).",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Article governing the substantival adjective γλυκύ. Rules 49 and 102 give the article the nominal the ASV supplies for it — here *water*, italicized in the ASV, which rule 11 makes evidence rather than a verdict — leaving the adjective bare. No determiner is written, so the article takes the supplied noun only, headed on it (rule 102: all corpus units of this shape head on the nominal, never on a determiner). Rule 17's generic-noun clause is not the contrast, being scoped to anarthrous Greek where no article stands to take the supplied word.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "γλυκύ → *sweet*, bare, its supplied nominal having gone to the article beside it under rule 102.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Coordinating καί → *and*.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Second substantival article. The ASV supplies no second nominal and no determiner for *bitter* — the elided *water* is not rewritten — so nothing is left for the article to realize and rule 23 makes it its own unit. This is not rule 102's case, which needs an English word the article can take; the asymmetry with s009 is the ASV's own.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "πικρόν → *bitter*, the substantival adjective standing alone.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "JAS.3.11",
+  "review_notes": [
+    "Reviewed and returned unchanged in substance; two notes were expanded (s001, s006, s009) to name the competing reading and the rule that excludes it, per rule 16. No unit's ids, status or heads were altered.",
+    "Partition checked: s001–s013 and t001–t013 each appear exactly once. s008 is the only multi-target unit (t001, t004, t005), discontinuous under rule 15.",
+    "s001 is the one genuinely contested unit. The question is whether *Doth* is a supplied interrogative word (rule 64, → aligned) or the do-support auxiliary English inversion requires of a lexical verb (rules 9 and 44, → unrepresented). Held to unrepresented: *Doth* carries nothing but βρύει's tense and agreement, the lexical verb standing nonfinite beside it, whereas rule 64's *Can* and *Can it be that* add modal or framing content the Greek never wrote. Rule 64's own carve-out — a copula the clause would have required anyway is not a supplied word — is the same reasoning. A reference comparison will report this token as a disagreement and that is not a correction.",
+    "s009/s012 asymmetry checked against rules 49 and 102: the first article takes the supplied *water* because a substantival adjective leaves nothing else to carry it, and the second is unrepresented because the ASV elides rather than repeats the noun. Rule 102's corpus is unanimous on heading such a unit on the nominal, so t011 is the head and not any determiner (none is written here in any case).",
+    "s006 checked for article-emptying: αὐτός in attributive position is an identity adjective, not a possessive (rule 20) or a demonstrative (rules 38, 49), so *the same opening* leaves the article its own *the* under rule 19 and αὐτῆς takes only *same*.",
+    "Heads reviewed separately from edges per rule 28: s008 on *send* rather than the fronted auxiliary, s004 on *from* rather than the verb's *forth* particle (rule 36), s009 on the supplied nominal."
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "alignments": [
+    {
+      "note": "Rule 61: a preposition governing an articular infinitive takes the whole English clause-introducer with the complementizer included, headed on the word realizing the preposition ('For that' on 'For'), exactly as 'πρὸ τοῦ … ἐλθεῖν' → 'before that … came' does. Giving 'that' to the article or to the expanded complement under rule 85 is the competing reading; rule 61 is the specific rule for a prepositional articular infinitive and forbids splitting the archaic complementizer off the introducer.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Rule 61: the nominalizing article of an articular infinitive has no English word answering to it; rule 23.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "The supplied modal 'ought' and the infinitival 'to' it licenses are rule 7/9 helpers on the infinitive, exactly as rule 61 leaves 'should be' to the infinitive while the preposition keeps 'to the end that'; rule 17 heads on the lexical verb 'say'.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Expressed accusative subject of the infinitive rendered 'ye'; rule 2 keeps it its own unit. Rule 74 does not bear on it, that rule governing a subject Greek leaves unexpressed.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Ordinary conditional 'ἐάν' → 'If'; rule 72's closing clause.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Rule 19: article surfacing as English 'the'.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Rule 26: transparent article+noun pair split into recoverable tokens.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "'θελήσῃ' rendered by the lexical 'will' (be willing), not by an auxiliary of another verb; rule 17's caution against choosing an auxiliary does not arise, 'will' being the clause's own predicate.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "First member of the correlative 'καὶ … καί', realized by 'both'. Rule 65's English-side test aligns a particle to whatever word the ASV writes for it, and rule 55 names 'both' as such a word for a 'καί'.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Rule 9: the inflected verb takes the subject 'we' and auxiliary 'shall' with the lexical verb as head; discontinuous under rule 15 across the intervening 'both', which stays its own unit. The subject and auxiliary are written once for both coordinate futures and ride with the first.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011",
+        "t012",
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Expressed coordinating conjunction 'and'; rules 88 and 98 do not arise, no juncture being supplied.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "The second coordinate verb keeps only 'do', the subject and auxiliary having been written once and assigned to 'ζήσομεν'.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Substantival demonstrative with no article in question; rule 38's closing clause.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Disjunctive particle 'or'.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Substantival demonstrative 'that'; rule 2 keeps it separate from 'τοῦτο'.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t019"
+      ],
+      "target_head": "t019"
+    }
+  ],
+  "ref": "JAS.4.15",
+  "review_notes": [
+    "Reviewed against the contract and left unchanged; only unit notes were sharpened (rule citations for s003, s004, s008, s009, s011). Every s### and t### id is partitioned exactly once, all fifteen units have heads inside their own arrays, and the single unrepresented unit (s002) has an empty target and a null target head.",
+    "ἀντὶ τοῦ λέγειν is analysed under rule 61: 'For that' whole on the preposition headed on 'For', the nominalizing article unrepresented, and the supplied modal plus infinitival 'to' with the verb. The competing readings are giving 'that' to the article, and giving it to the expanded complement under rule 85; rule 61 covers a prepositional articular infinitive by name, heads the introducer on the prepositional word, and refuses to split the archaic complementizer off it, so it controls over rule 85's finite-verb case.",
+    "'we shall' is written once for two coordinate futures and rides with ζήσομεν, leaving ποιήσομεν a bare 'do'. Assigning it instead to ποιήσομεν, or splitting it across both, remains defensible; the first verb is where the ASV writes it, and rule 15 covers the discontinuity around the intervening 'both'.",
+    "The first καί takes 'both' and the second 'and', which is the ASV's own correlative rendering. Reading the first καί as apodotic and leaving it unrepresented is not available here: rule 65's English-side test aligns a particle to the word the ASV writes, and 'both' is that word."
+  ]
+}

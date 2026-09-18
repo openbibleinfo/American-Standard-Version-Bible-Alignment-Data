@@ -1,0 +1,13 @@
+{
+  "alignment_sha256": "3c0c6ac5e6126ddd343ad1d6c3c1ed2e0738af630cc132145b73687cb4519181",
+  "contract_version": "ot-hebrew-verse-v17",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "The ASV's markup settles the hard choice: 'Joel' is italic and so supplied, while 'the second' is not, meaning the ASV construed the consonants of וַשְׁנִי as its rendering. Aligning s006 to 'the second' and marking 'Joel' added follows that evidence (rule 7).",
+    "The projection holds exactly one conjunction morpheme (s007) and the ASV writes exactly one 'and', so the two are aligned; the alternative of giving 'and the second' wholesale to s006 would leave a genuine conjunction unrepresented.",
+    "'first born' is one hyphenated English word split by the tokenizer, headed on 'first' under rule 31; the attributive article הַ takes its own 'the' under rule 15."
+  ],
+  "ref": "1CH.6.28",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

@@ -1,0 +1,142 @@
+{
+  "alignments": [
+    {
+      "note": "Negative particle to the postposed *not*; the ASV writes a separate word for it, so no fusion with the verb under rule 35 arises.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Finite verb to the lexical *roasteth* (rule 17). The margin's *Or, catcheth not his prey* was read and set aside under rule 38; the printed text governs.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Abstract noun *slackness* rendered as a personal substantive *The slothful man*. The supplied *the* determines the nominal expression under rule 15 and the generic *man* completes it under rule 31; head on *slothful*, whose loss loses the lexeme, since *man* alone is any man.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t001",
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "The noun *game/prey* is recast as an English head phrase with a relative clause, so the supplied *that which* and the verbal phrase *took in hunting* belong to the noun's own unit under rule 46's closing paragraph, no clause standing in the Hebrew for the relative to subordinate. Head on *hunting*, which carries the lexeme; the competing head is *took*, but *took* alone names no quarry.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t009",
+        "t010",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Possessive suffix realized as the subject pronoun *he* of the recast relative clause (rule 18, which places whatever English pronoun realizes the suffix).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Waw rendered by the adversative *But*, which rule 14 places on the connective morpheme the ASV wrote it for.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Construct noun *wealth* → *substance*. No article morpheme stands in the phrase, so the single written *the* is the supplied determiner of the nominal expression and joins this noun rather than the adjective it stands before (rules 15 and 29).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t013",
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Nomen rectum with the chain's relational *of* (rule 19), headed on the noun.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t016",
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Attributive adjective to its own word *precious*; the phrase's determiner is the construct noun's under rule 15.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Anarthrous substantival adjective construed by the ASV as the predicate of the verbless clause: the construction-supplied copula *is* joins the predicate under rule 20, the supplied *to* states what this bare nominal contributes under rule 33, and the supplied *the* makes it substantival under rule 46. Head on *diligent*, which carries the lexeme. The margin's *Or, is to be diligent* was read and set aside under rule 38.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019",
+        "t020",
+        "t021"
+      ],
+      "target_head": "t021"
+    }
+  ],
+  "ref": "PRO.12.27",
+  "review_notes": [
+    "All 10 source and 21 target IDs partitioned exactly once.",
+    "Both ASV marginal notes (*Or, catcheth not his prey*; *Or, is to be diligent*) were read and set aside; the printed text governs (rule 38).",
+    "The ASV italics on *is* and *to* corroborate but do not decide their placement (rule 7): *is* is rule 20's construction-supplied copula and *to* is rule 33's supplied function word for a bare nominal, so neither is `added`.",
+    "The materially different reading available at s004 is heading the recast phrase on *took* rather than *hunting*; noted in the unit."
+  ]
+}

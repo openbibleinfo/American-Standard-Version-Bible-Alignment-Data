@@ -1,0 +1,60 @@
+{
+  "ref": "JHN.14.25",
+  "alignments": [
+    {
+      "source": ["s001"],
+      "source_head": "s001",
+      "target": ["t001", "t002"],
+      "target_head": "t001",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Substantival demonstrative expanded with generic noun; head stays on the demonstrative per rule 17."
+    },
+    {
+      "source": ["s002"],
+      "source_head": "s002",
+      "target": ["t003", "t004", "t005"],
+      "target_head": "t005",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Inflected verb takes subject and auxiliary; head on the lexical verb."
+    },
+    {
+      "source": ["s003"],
+      "source_head": "s003",
+      "target": ["t006", "t007"],
+      "target_head": "t007",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Dative pronoun with case preposition unto."
+    },
+    {
+      "source": ["s006"],
+      "source_head": "s006",
+      "target": ["t008", "t009", "t010"],
+      "target_head": "t010",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Supplied subordinator while and yet are helpers on the participle; ASV italics are evidence only (rule 11)."
+    },
+    {
+      "source": ["s004"],
+      "source_head": "s004",
+      "target": ["t011"],
+      "target_head": "t011",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s005"],
+      "source_head": "s005",
+      "target": ["t012"],
+      "target_head": "t012",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    }
+  ],
+  "review_notes": []
+}

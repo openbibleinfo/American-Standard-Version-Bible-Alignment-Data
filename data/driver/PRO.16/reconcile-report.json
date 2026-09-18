@@ -1,0 +1,28 @@
+{
+  "chapter": "PRO.16",
+  "verdict": "changes",
+  "amendments": [],
+  "applied": [
+    "PRO.16.8"
+  ],
+  "rejected": {},
+  "conventions": [
+    "Where one Hebrew substantive is rendered by a multi-word English phrase, this chapter settles rule 31's tie-break by asking whether the Hebrew word names a member of the English noun's class. מַלְקוֹשׁ → *the latter rain* (16.15), אַלּוּף → *chief friends* (16.28) and מָקוֹר → *a well spring* (16.22) head on the class noun, because the ASV writes *rain*, *friend* and *spring* alone for other words of those classes and the second word is its specifier. קֶסֶם → *A divine sentence* (16.10), עָמֵל → *the laboring man* (16.26), תַּהְפֻּכוֹת → *perverse things* (16.30) and שֵׂיבָה → *The hoary head* (16.31) head on the modifier, because the English noun is a generic the ASV supplied to complete the phrase and the Hebrew word is no kind of sentence, man, thing or head. Each of the seven units names its competing head under rule 8.",
+    "Both rule 30 fusions in this chapter write more than one morpheme's sense inside the single English word — צוּף־דְּבַשׁ → *honeycomb* (16.24) and לֹא מִשְׁפָּט → *injustice* (16.8) — so neither is settled by rule 23's content sentence, and both head on the morpheme standing first and governing the rest. 16.8 was corrected at reconciliation from מִשְׁפָּט to לֹא: that the one English word writes a noun's own lexeme is a target-head criterion under rule 24 and not a source-head one."
+  ],
+  "promotions": [],
+  "promoted": {
+    "path": "config/alignment-instructions-hebrew.md",
+    "version": "ot-hebrew-verse-v180",
+    "rules": [],
+    "amended": []
+  },
+  "report": [
+    "Checked every flagged bucket in the 38-lemma candidate table. All but one are the ASV rendering one morpheme differently in a context the source licenses: ablative against comparative מִן (16.6 and 16.17 *from*, 16.16 and 16.32 *than*); a בְּ that is a clause predicate at 16.15 against one whose object the ASV promotes to a bare English object at 16.32; the same construct chain written with *of* at 16.2 and as an English possessive at 16.7, 16.9 and 16.15, whose determiner rule 29 puts on the possessor; and connectives read off the ASV throughout.",
+    "The one real split is a head, which is why the lemma table cannot show it. The chapter has two rule 30 fusions. צוּף־דְּבַשׁ → *honeycomb* (16.24) heads on the first and governing morpheme under rule 23's tie provision; לֹא מִשְׁפָּט → *injustice* (16.8) headed on מִשְׁפָּט on the ground that the English word writes that noun's lexeme. Rule 23 excludes that criterion for a source head in terms, and both of its other paths — a negation heads the unit it is fused into, and a tie between morphemes whose senses are both written goes to the one standing first and governing the rest — put the head on לֹא, as rule 35 heads a fused *no* or *Nor* on the negative. PRO.16.8 is patched; no edge moves and the target head stays on *injustice*.",
+    "BSB: neither disagreement is an error. 16.21 לַ is the impersonal קָרָא לְ recast as a personal passive, which is rule 40's own worked example; 16.32 בְּ is מָשַׁל בְּ with its object promoted to a bare English object. Both are the documented convention difference, BSB attaching the preposition to its phrase, and neither was touched to move the 99.4% figure.",
+    "Copula placement is uniform across the chapter's nine prepositional predicates in seven verses (16.1 twice, 16.10, 16.11, 16.15 twice, 16.27, 16.30, 16.33): each takes it on the preposition under rule 49, and the ASV's locative inversion is nowhere read as evidence about which side predicates. The already-accepted PRO.16.15 correction is what brought that verse into line, and no further verse departs from it.",
+    "Added units were read end to end, since the table is blind to them. Nine, all supplied English no morpheme licenses: two lexical verbs for verbless cola (16.5 *join*, 16.18 *goeth*), a lexical subject noun (16.6 *men*), four impersonal dummies (16.12, 16.16, 16.19, 16.30), a possessive with no suffix in the phrase (16.22 *their*) and a subordinator for a clause with no conjunction (16.5 *Though*). The chapter never folds one of these into a neighbouring morpheme, and never marks `added` a supplied word a present morpheme licenses — the italic *as* of 16.14 and 16.24 goes to the nominal under rule 33 and the italic *thereto* of 16.26 to the עַל under rule 11, each with the competing reading named.",
+    "No promotion. The three places this chapter tested a rule — rule 23's tie provision on a fused negative, rule 31's class-noun tie-break, rule 40's silenced prepositions — are each already decided in the rule's own text, and a restatement would only bury the sentences that did the work."
+  ]
+}

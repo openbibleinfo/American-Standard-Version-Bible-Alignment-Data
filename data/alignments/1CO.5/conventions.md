@@ -1,0 +1,6 @@
+# 1 Corinthians 5 alignment conventions
+
+Chapter-wide judgments, recorded as they were made. Read this before continuing an interrupted chapter or starting a review range. Conventions that generalize belong in the testament contract under `config/` once the chapter is finished.
+
+- The English *with* standing before the complement of συναναμίγνυμι is given to the Greek dative, not to the supplied *keep company* frame: πόρνοις at 5:9 and τοιούτῳ at 5:11 take it under rule 21, as the articular datives τοῖς at 5:10 take it on the article. Rule 21's support-verb-frame clause, which would keep the preposition inside the verb's unit because the supplied noun *company* licenses it, is refused chapter-wide so that the four parallel datives read alike (rule 24); the 5:9 unit's note names that competing reading.
+- A supplied English completion on the indefinite τις is decided by what licenses it and not by the lemma. The generic noun of *any man* at 5:11 folds onto τις under rules 17 and 69, no other token being able to carry it; the partitive *of you* at 5:1 is `added` under rule 103, its content belonging to ἐν ὑμῖν, which the same verse has already spent on *among you*. Folding *of you* onto τινα as a rule 7 helper remains defensible and stands in that unit's note.

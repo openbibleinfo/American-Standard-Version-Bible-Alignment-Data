@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "chapter": "1TH.5",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.1TH.5.2.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is only the presence of the article before ἡμέρα. ASV 'the day of the Lord' is definite either way, since the genitive κυρίου makes the phrase definite in English regardless; no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.5.3.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV begins the sentence asyndetically, 'When they are saying, Peace and safety', with no rendering of an inferential connective. ASV renders γάρ as 'for' consistently (cf. 5:5 'for ye are all sons of light'), so its absence here distinguishes the reading without γάρ."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.5.4.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text reads the singular, 'overtake you as a thief', and the mapped textual_variant note 'Some ancient authorities read as thieves' assigns the plural κλέπτας to the margin. The text follows κλέπτης."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.5.5.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV renders the connective: 'for ye are all sons of light'. That 'for' is γάρ, which the omitting reading lacks."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.5.6.v005",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant adds adverbial καί to ὡς ('as also the rest'). ASV 'as do the rest' neither renders nor excludes an ascensive καί, which ASV routinely leaves untranslated; no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.5.10.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "περί and ὑπέρ with the genitive are both rendered 'for us' in this benefactive sense, so ASV 'who died for us' does not distinguish them. The only note on the verse is classed alternative_rendering ('Or, watch') and concerns γρηγορῶμεν, not this unit."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.5.13.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ὑπερεκπερισσοῦ and ὑπερεκπερισσῶς are adverbial forms of the same word with the same force; ASV 'exceeding highly' answers to either. No note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.5.13.v008",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'Be at peace among yourselves', a reflexive referring back to the addressees, which renders ἐν ἑαυτοῖς. The variant αὐτοῖς would point to third parties ('among them')."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.5.15.v009",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant adds καί before εἰς ἀλλήλους, giving a correlative 'both toward one another and toward all'. ASV 'one toward another, and toward all' renders the second καί and leaves the first, if present, unexpressed — a coordination ASV states this way under either reading."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.5.25.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text reads simply 'Brethren, pray for us', and the mapped textual_variant note 'Some ancient authorities add also' places the added καί in the margin. The text follows the reading without καί."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.5.27.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ἐνορκίζω and the simplex ὁρκίζω are both rendered 'I adjure'; ASV's wording does not separate them. The verse's textual_variant note concerns the insertion of 'holy' and is mapped to the ἁγίοις unit, not to this verb."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.5.27.v012",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV text reads 'unto all the brethren', and the mapped textual_variant note 'Many ancient authorities insert holy' assigns ἁγίοις to the margin. The text follows the reading without ἁγίοις."
+    },
+    {
+      "unit_id": "SBLGNT.1TH.5.28.v013",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV ends 'be with you' with no closing 'Amen', which ASV renders where the underlying text has ἀμήν. The reading adding Ἀμήν is excluded by the English."
+    }
+  ]
+}

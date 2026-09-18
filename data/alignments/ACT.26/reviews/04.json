@@ -1,0 +1,14 @@
+{
+  "alignment_sha256": "d43ce191e3ae687935ed952853cfe1b02cc7c0d8e34901711170876f89869c4d",
+  "contract_version": "nt-greek-verse-v114",
+  "notes": [
+    "Independent review by claude-code — corrected",
+    "Corrected s009 and s012. The accepted alignment gave which to the article τήν and only was to γενομένην, citing rule 31's article-follows-its-noun clause. That clause decides where the English determiner sits; the relativizer is decided by whether the article's modifier carries a verb of its own. Here it does — γενομένην, rendered as the finite which was — and the head noun βίωσιν is expressed, so rule 31's first branch empties the article and gives the relativizer to the participle, exactly as τῷ θεῷ τῷ κτίσαντι → God who created does.",
+    "s006 is left unrepresented on different grounds: its modifier ἐκ νεότητος is verbless, so under rule 31 it would keep a supplied relativizer, but the ASV supplies none (from my youth up), which is the closing case of that rule.",
+    "A reference comparison will report s009 as a disagreement; rule 31 licenses it.",
+    "v006, v007 and v008 are underdetermined and resolve to the base; the English matches the base in each, so no rule 97 case arises."
+  ],
+  "ref": "ACT.26.4",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

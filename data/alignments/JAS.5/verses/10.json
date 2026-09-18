@@ -1,0 +1,207 @@
+{
+  "alignments": [
+    {
+      "note": "Imperative rendered by the bare English imperative 'Take'. The supplied 'for' of 'for an example' is not this verb's particle: rule 36's reasoning puts an English preposition governing a nominal on that nominal, not on the verb it depends on, even where 'take ... for' reads as phrasal.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Anarthrous vocative; no article competes and the ASV supplies no address word, so rule 89's anarthrous clause leaves the noun alone with its own English word.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "'for an example' realizes the accusative predicate noun: 'for' is the supplied case preposition and 'an' the supplied determiner, both rule 7 helpers on an anarthrous noun under rule 51's anarthrous clause. Headed on 'example' per rule 17. Discontinuous from the imperative under rule 15. The competing reading marks 'for' added under rule 86; rejected because a source token does license it — the accusative complement is present in this verse, which is exactly what rule 86's test asks for.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "The ASV writes 'of suffering' with no determiner, so the article has no English 'the' to anchor: rule 23, and rule 21 forbids leaving a bare 'of' on it.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Case preposition 'of' stays with the determinerless noun under rule 21's determinerless clause, as 'τῆς εἰρήνης' → 'of peace' does.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Expressed coordinating conjunction rendered 'and'.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "As s004: the ASV gives 'patience' no determiner, so the article realizes nothing (rule 23).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "unrepresented",
+      "target": [],
+      "target_head": null
+    },
+    {
+      "note": "Case preposition 'of' rides with the noun under rule 21.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009",
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Article realized by 'the' (rule 19), split from its noun under rule 26; no preposition or supplied determiner complicates it.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Head noun stands alone, its determiner taken by the article.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Expressed relative pronoun rendered 'who'; the ASV supplies no antecedent or generic noun, so rule 77 leaves the relativizer as head trivially.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Finite verb rendered by the simple past.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Expressed preposition realized by 'in' (rule 36); the following article keeps a bare 'the' under rule 19 since the preposition itself is written.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    },
+    {
+      "note": "Article realized by 'the' (rule 19).",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Noun stands alone, its determiner taken by the article.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "The projection is anarthrous here, so no article competes and the supplied 'the' is an ordinary rule 7 helper under rule 51's anarthrous clause, with the case preposition 'of' riding along under rule 21. Headed on 'Lord' per rule 17.",
+      "source": [
+        "s016"
+      ],
+      "source_head": "s016",
+      "status": "aligned",
+      "target": [
+        "t018",
+        "t019",
+        "t020"
+      ],
+      "target_head": "t020"
+    }
+  ],
+  "ref": "JAS.5.10",
+  "review_notes": [
+    "Reviewed against the accepted alignment and returned unchanged; all 16 source and 20 target ids are partitioned exactly once and no unit's edges or head required correction. Notes on s002, s001 and s013 were expanded to record the reasoning a later reader would otherwise have to redo.",
+    "s001 'for an example': the only materially different reading is marking 'for' added. It was rejected under rule 86 — the accusative predicate noun stands in this verse and licenses the supplied preposition — and rule 36's principle keeps it on the nominal rather than on 'Take', so the verb is not read as phrasal.",
+    "s004 and s007 are unrepresented because the ASV writes 'of suffering' and 'of patience' with no determiner. Rule 21's determinerless clause forbids a bare 'of' on the article, so each case preposition stays on its noun; this is rule 21's own 'τῆς εἰρήνης' → 'of peace' shape and not rule 23 by convenience.",
+    "s016 κυρίου is anarthrous in the projection (the packet's gloss brackets the article), so 'of the Lord' is one unit headed on the noun rather than an article-plus-noun split. Nothing here contradicts s014, where an expressed article does take its own 'the'.",
+    "λάβετε + ὑπόδειγμα is not rule 73's collapsed light-verb pair: the ASV spells both elements out as 'Take' and 'an example', so rule 2 splits them like any other pair.",
+    "Variant v007 is selected to the base and covers s003; v008 (s013 ἐν) is underdetermined with the base still among the compatible readings, so it carries no FALLBACK EXCLUDED mark and rule 97 is not in play. No textual decision was made in this file per rule 12."
+  ]
+}

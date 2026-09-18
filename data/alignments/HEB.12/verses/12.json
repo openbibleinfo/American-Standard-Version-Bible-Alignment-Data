@@ -1,0 +1,121 @@
+{
+  "alignments": [
+    {
+      "note": "Inferential conjunction rendered by the ASV's Wherefore.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "The article precedes the noun it governs, so it is that noun's determiner and takes the English the under rules 19 and 31. The relativizer that goes to the participle, which is the verb that carries the finite clause.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Attributive participle recast as a finite relative clause; the relativizer that is a rule 7/31 helper on the participle. Head on the lexical verb hang rather than on the relativizer or the particle down (rules 9, 17).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t006",
+        "t007",
+        "t008"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Head noun; its determiner stands on the article under rule 31.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Expressed coordinating conjunction.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Second article, preceding its own noun, takes the English the under rules 19 and 26; no relative clause is supplied here.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Attributive participle rendered by a bare adjective, with no supplied relativizer to distribute.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Head noun, determiner already on its article.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Aorist imperative rendered by the phrasal lift up; up is the verb's own particle and rides with it under rule 7. Head on lift, the word realizing the lexeme; the packet's gloss make straight is not the ASV's wording, so rule 17's make straight heads on straight has nothing to bear on here.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t002",
+        "t003"
+      ],
+      "target_head": "t002"
+    }
+  ],
+  "ref": "HEB.12.12",
+  "review_notes": [
+    "All nine source ids and all twelve target ids are partitioned exactly once.",
+    "The two article+participle+noun phrases are analysed alike (rule 24) except where the ASV's own rendering differs: the first supplies a finite relative clause, the second a bare adjective, so only the first has a relativizer to place.",
+    "Competing reading on s002: the discontinuous the … that could have gone to the article as in rule 31's tēn ek theou dikaiosynēn. That branch of rule 31 is scoped to a prepositional-phrase modifier with no verb to carry the relativizer; here a participle follows, so the participle takes it."
+  ]
+}

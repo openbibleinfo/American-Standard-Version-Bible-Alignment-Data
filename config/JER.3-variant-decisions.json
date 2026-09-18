@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "chapter": "JER.3",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the qere, which is what MACULA Hebrew projects; the alternative is the ketiv written in the Leningrad Codex.",
+  "decisions": [
+    {
+      "unit_id": "WLC.JER.3.2.v001",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'where hast thou not been lain with?' renders the qere שֻׁכַּבְתְּ (pual of שכב, to lie with); the ketiv שגלת (shagal, to ravish) would give the coarser 'been ravished'. The euphemistic English matches the qere lemma."
+    },
+    {
+      "unit_id": "WLC.JER.3.4.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Wilt thou not from this time cry unto me' makes the addressee the subject, matching the 2fs qere קָרָאת; the ketiv קראתי is 1cs 'I called', which the ASV does not render. The only note here is classed alternative_rendering ('Or, companion') and bears on the following clause, not on this reading."
+    },
+    {
+      "unit_id": "WLC.JER.3.5.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'thou hast spoken and hast done evil things' is second feminine singular, matching the qere דִבַּרְתְּ; the ketiv דברתי would be 1cs 'I have spoken'. Both notes are alternative_rendering and hebrew_gloss and do not touch the person of the verb."
+    },
+    {
+      "unit_id": "WLC.JER.3.7.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Qere וַתֵּרֶא and ketiv ותראה differ only in the final ה of the defective/plene spelling of the same wayyiqtol of ראה; both yield 'and she saw'. ASV 'and her treacherous sister Judah saw it' is compatible with either, and the two notes on this verse are alternative_rendering, bearing on the framing of 'And I said' and on 'She will return', not on this verb."
+    },
+    {
+      "unit_id": "WLC.JER.3.19.v005",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV text reads 'Ye shall call me My Father', a masculine plural subject matching the ketiv תקראו; the 2fs qere תִּקְרְאִי would give 'Thou shalt call'. The note classed textual_variant, 'Another reading is, Thou shalt . . . and shalt not etc.', explicitly relegates the qere to the margin, confirming that the ASV text renders the ketiv."
+    },
+    {
+      "unit_id": "WLC.JER.3.19.v006",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "The same textual_variant note, 'Another reading is, Thou shalt . . . and shalt not etc.', covers this verb as well as the preceding one, placing the 2fs qere תָשׁוּבִי in the margin; the ASV text 'and shall not turn away from following me' continues the plural subject 'Ye' and so renders the ketiv תשובו."
+    }
+  ]
+}

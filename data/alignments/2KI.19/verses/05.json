@@ -1,0 +1,107 @@
+{
+  "alignments": [
+    {
+      "note": "Waw rendered by the connective So (rule 14).",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Construct noun keeps only its own word. The phrase's single written the is the rectum's article fronted to the left edge, so no the is supplied here (rule 29).",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "The rectum carries an article and the ASV renders the rectum anarthrously (king Hezekiah), writing one the at the phrase's left edge; that morpheme takes it, exactly as in לֻחֹת הָאֲבָנִים → the two tables of stone and בְּנֵי הָרָמָה → The children of Ramah (rule 29). Correction: the accepted alignment marked this article unrepresented and supplied a the on the construct, which rule 29 permits only where no article morpheme is present.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Construct relation of on the rectum (rule 19).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    }
+  ],
+  "ref": "2KI.19.5",
+  "review_notes": [
+    "Corrected the placement of the phrase's single the: עַבְדֵי הַמֶּלֶךְ חִזְקִיָּהוּ writes an article on the rectum and the ASV renders the rectum anarthrously, so rule 29's fronting case governs and the article takes the written the while the construct stays bare.",
+    "This does not conflict with 2KI.19.1, where the same הַמֶּלֶךְ חִזְקִיָּהוּ stands with no the written for it at all and the article is unrepresented under rule 29's last sentence.",
+    "The competing reading, which the accepted alignment took, supplies a the on עַבְדֵי and leaves the article unrepresented; rule 29 permits a supplied the on a construct only where no article morpheme is present."
+  ]
+}

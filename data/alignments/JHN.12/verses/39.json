@@ -1,0 +1,87 @@
+{
+  "ref": "JHN.12.39",
+  "alignments": [
+    {
+      "source": ["s001"],
+      "source_head": "s001",
+      "target": ["t001", "t003"],
+      "target_head": "t001",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Rule 45: a Greek preposition is present, so the discontinuous 'For ... cause' belongs to dia and is headed on 'For'."
+    },
+    {
+      "source": ["s002"],
+      "source_head": "s002",
+      "target": ["t002"],
+      "target_head": "t002",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s003"],
+      "source_head": "s003",
+      "target": ["t006"],
+      "target_head": "t006",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The ASV spells the negation out separately, so rule 39's solid 'cannot' is not in question."
+    },
+    {
+      "source": ["s004"],
+      "source_head": "s004",
+      "target": ["t004", "t005"],
+      "target_head": "t005",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Subject pronoun is the inflected verb's helper (rules 7, 9); 'could' is dynamai's own lexical realization."
+    },
+    {
+      "source": ["s005"],
+      "source_head": "s005",
+      "target": ["t007"],
+      "target_head": "t007",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s006"],
+      "source_head": "s006",
+      "target": ["t008", "t009"],
+      "target_head": "t008",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "The ASV renders the conjunction with the two-word 'for that'; rule 43 does not apply since English realizes it."
+    },
+    {
+      "source": ["s007"],
+      "source_head": "s007",
+      "target": ["t012"],
+      "target_head": "t012",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Reordered target token (rule 15)."
+    },
+    {
+      "source": ["s008"],
+      "source_head": "s008",
+      "target": ["t011"],
+      "target_head": "t011",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s009"],
+      "source_head": "s009",
+      "target": ["t010"],
+      "target_head": "t010",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    }
+  ],
+  "review_notes": []
+}

@@ -1,0 +1,17 @@
+{
+  "alignment_sha256": "ec0c35e8dc4e7e18ebc4a313ac25009d042c6d302f0cba79e4d562d82ae48903",
+  "contract_version": "ot-hebrew-verse-v202",
+  "notes": [
+    "Independent review by claude-code — unchanged",
+    "All 37 source morphemes and all 51 target tokens are partitioned exactly once; one `added` unit and one two-token fusion.",
+    "`בַּבֹּקֶר מִמָּחֳרָת` → *on the morrow morning*: the single written *on* stands before *the morrow*, so it is `מִן`'s, and `בְּ` is `unrepresented` under rule 40 while `בֹּקֶר` keeps the bare *morning*. The single written *the* likewise stands before *morrow*, a noun carrying no article morpheme, so it is supplied under rule 15 and the assimilated article on `בֹּקֶר` is `unrepresented`. The competing reading — giving *on* and *the* to the `בְּ` and its article — is set aside on rule 29's count of which word each determiner stands before.",
+    "*lay cut off* is read under rule 20's copula sentence: *lay* is the linking verb the ASV writes where a copula would stand, adds no participant the Hebrew does not write, and so joins the participial predicate rather than being `added` as a supplied lexical verb. The italic corroborates the supply and decides nothing (rule 7).",
+    "*the stump of* answers to no morpheme, stands together and does one office, so it is one `added` unit headed on *stump* rather than divided word by word (rule 2).",
+    "`שְׁתֵּי כַּפּוֹת` → *both the palms*: the supplied determiner joins the counted noun and the numeral keeps only its own word (rule 15).",
+    "The margin's *Or, before it* was read and set aside (rule 38).",
+    "Scoped LS01 correction independently confirmed; evidence: data/audits/retrospective-new-chapters-2026-09-12/receipts/1SA.5.4.json. Original full-review coverage is carried forward only for unchanged content. The scoped assessment and independent confirmation cover the changed candidate units and their notes; no new full-verse review is claimed. Original reviewer, date fields and contract provenance are preserved; original receipt: data/audits/retrospective-new-chapters-2026-09-12/before/1SA.5.4/review.json."
+  ],
+  "ref": "1SA.5.4",
+  "reviewed_by": "claude-code",
+  "status": "reviewed"
+}

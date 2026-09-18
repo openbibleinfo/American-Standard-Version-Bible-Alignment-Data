@@ -1,0 +1,20 @@
+{
+  "ref": "2PE.1.9",
+  "alignments": [
+    {"source": ["s002"], "source_head": "s002", "target": ["t001"], "target_head": "t001", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s001"], "source_head": "s001", "target": ["t002", "t003"], "target_head": "t003", "status": "aligned", "confidence": "high", "note": "Relative pronoun with supplied bare antecedent; rule 77 heads on the relativizer."},
+    {"source": ["s003", "s004"], "source_head": "s004", "target": ["t004"], "target_head": "t004", "status": "noncompositional", "confidence": "medium", "note": "ASV collapses the negated existential into one verb; no part of 'lacketh' answers separately to the negative or to 'is present', so rule 39's test keeps the pair whole and rules 41/59 do not license emptying the negator."},
+    {"source": ["s005"], "source_head": "s005", "target": ["t005", "t006"], "target_head": "t005", "status": "aligned", "confidence": "high", "note": "Rule 17: generic noun expands the demonstrative, which stays the head."},
+    {"source": ["s007"], "source_head": "s007", "target": ["t007"], "target_head": "t007", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s006"], "source_head": "s006", "target": ["t008"], "target_head": "t008", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s008"], "source_head": "s008", "target": ["t009", "t010", "t011", "t012", "t013"], "target_head": "t009", "status": "aligned", "confidence": "high", "note": "One participle rendered by a whole English clause; rule 17 heads on the lexical verb."},
+    {"source": ["s009", "s010"], "source_head": "s009", "target": ["t014", "t015"], "target_head": "t015", "status": "aligned", "confidence": "high", "note": "Rule 73: light-verb pair collapsed into one English verb; 'forgotten' answers to the noun's lexeme, so the source head is the noun."},
+    {"source": ["s011"], "source_head": "s011", "target": ["t016"], "target_head": "t016", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s012"], "source_head": "s012", "target": ["t017"], "target_head": "t017", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s013"], "source_head": "s013", "target": [], "target_head": null, "status": "unrepresented", "confidence": "high", "note": "Rule 20: the genitive pronoun supplies the English possessive, so this article realizes nothing."},
+    {"source": ["s014"], "source_head": "s014", "target": ["t020"], "target_head": "t020", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s015"], "source_head": "s015", "target": ["t019"], "target_head": "t019", "status": "aligned", "confidence": "high", "note": ""},
+    {"source": ["s016"], "source_head": "s016", "target": ["t018", "t021"], "target_head": "t021", "status": "aligned", "confidence": "high", "note": "Rule 20: the case preposition stays with the noun where the possessive has displaced the article."}
+  ],
+  "review_notes": []
+}

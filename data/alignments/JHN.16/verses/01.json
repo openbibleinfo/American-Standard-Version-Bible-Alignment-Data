@@ -1,0 +1,60 @@
+{
+  "ref": "JHN.16.1",
+  "alignments": [
+    {
+      "source": ["s001"],
+      "source_head": "s001",
+      "target": ["t001", "t002"],
+      "target_head": "t001",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Substantival demonstrative expanded with generic *things*; head stays on *These* per rule 17."
+    },
+    {
+      "source": ["s002"],
+      "source_head": "s002",
+      "target": ["t003", "t004", "t005"],
+      "target_head": "t005",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Inflected verb takes subject and auxiliary; head on the lexical verb."
+    },
+    {
+      "source": ["s003"],
+      "source_head": "s003",
+      "target": ["t006", "t007"],
+      "target_head": "t007",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "*unto* realizes the dative case."
+    },
+    {
+      "source": ["s004"],
+      "source_head": "s004",
+      "target": ["t008"],
+      "target_head": "t008",
+      "status": "aligned",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "source": ["s005"],
+      "source_head": "s005",
+      "target": ["t011"],
+      "target_head": "t011",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Ordinary negative, not the fused cluster of rule 39."
+    },
+    {
+      "source": ["s006"],
+      "source_head": "s006",
+      "target": ["t009", "t010", "t012", "t013", "t014", "t015"],
+      "target_head": "t015",
+      "status": "aligned",
+      "confidence": "high",
+      "note": "Subject, modal and passive auxiliaries are helpers; the causative rendering heads on the meaning-bearing *stumble* per rule 17. Discontinuous around *not*."
+    }
+  ],
+  "review_notes": []
+}

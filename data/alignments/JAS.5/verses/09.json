@@ -1,0 +1,197 @@
+{
+  "alignments": [
+    {
+      "note": "Ordinary prohibitive negative with the imperative; the ASV writes it postposed as 'Murmur not'. Rule 44 does not apply, the clause being a command rather than a question, and rule 59 does not, no negative indefinite standing.",
+      "source": [
+        "s001"
+      ],
+      "source_head": "s001",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Present imperative rendered by the bare English imperative; its negator is its own unit under rule 2, each word answering to a token separately.",
+      "source": [
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Anarthrous vocative rendered by a bare 'brethren'; rule 89 is not in question, no article standing and no supplied address word written.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t003"
+      ],
+      "target_head": "t003"
+    },
+    {
+      "note": "Expressed preposition takes the English preposition under rule 36.",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t005"
+      ],
+      "target_head": "t005"
+    },
+    {
+      "note": "Reciprocal rendered by the two-word idiom, discontinuous around 'against' under rule 15. Headed on 'another' under rule 83, the word realizing the 'allos' lexeme, and not on the supplied completion 'one', which rule 17 forbids choosing merely because it stands first.",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t004",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Purpose conjunction realized by the word introducing its English clause under rule 40.",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t007"
+      ],
+      "target_head": "t007"
+    },
+    {
+      "note": "Ordinary negative in the purpose clause, aligned to 'not'. Rule 39's 'hina me' cluster does not apply: that rule wants the pair rendered by one English word such as 'lest', whereas the ASV writes 'that' and 'not' as separate words answering to the two tokens separately, so rule 2 splits them. Reading the pair as one noncompositional unit is the competing analysis and is rejected on rule 39's own test.",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t010"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Aorist passive subjunctive with its supplied subject 'ye' and passive auxiliary 'be' as rule 7 and rule 9 helpers, discontinuous around the negative under rule 15. Headed on the lexical verb 'judged' rather than the subject or auxiliary, as rules 9 and 17 require.",
+      "source": [
+        "s008"
+      ],
+      "source_head": "s008",
+      "status": "aligned",
+      "target": [
+        "t008",
+        "t009",
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Presentative particle rendered by 'behold'; the imperative morph tag is not a reason to look for a supplied subject.",
+      "source": [
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t012"
+      ],
+      "target_head": "t012"
+    },
+    {
+      "note": "Article before its expressed noun, realized by 'the' under rule 19 and split from the noun under rule 26.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    },
+    {
+      "note": "Noun stands bare behind its own article, the determiner having gone to the article under rule 19.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t014"
+      ],
+      "target_head": "t014"
+    },
+    {
+      "note": "Proper preposition rendered by a single English preposition; rules 67, 71 and 95 are not in question, the ASV supplying no complex frame.",
+      "source": [
+        "s012"
+      ],
+      "source_head": "s012",
+      "status": "aligned",
+      "target": [
+        "t016"
+      ],
+      "target_head": "t016"
+    },
+    {
+      "note": "Article takes the English determiner under rule 19; the case is realized by the expressed preposition 'before', so rule 21's 'of the' shape does not arise.",
+      "source": [
+        "s013"
+      ],
+      "source_head": "s013",
+      "status": "aligned",
+      "target": [
+        "t017"
+      ],
+      "target_head": "t017"
+    },
+    {
+      "note": "Noun stands bare behind its own article, split from it under rule 26.",
+      "source": [
+        "s014"
+      ],
+      "source_head": "s014",
+      "status": "aligned",
+      "target": [
+        "t018"
+      ],
+      "target_head": "t018"
+    },
+    {
+      "note": "Perfect with present sense rendered by the finite 'standeth', reordered before the prepositional phrase; rule 15 permits the reordering and no intervening word is absorbed.",
+      "source": [
+        "s015"
+      ],
+      "source_head": "s015",
+      "status": "aligned",
+      "target": [
+        "t015"
+      ],
+      "target_head": "t015"
+    }
+  ],
+  "ref": "JAS.5.9",
+  "review_notes": [
+    "Reviewed against nt-greek-verse-v65; the accepted alignment is returned unchanged. All 15 source ids and all 18 target ids are partitioned exactly once, and every unit is aligned, with no unrepresented, added or noncompositional units.",
+    "The one materially contestable unit is the s006/s007 pair. Rule 39 makes 'hina me' one noncompositional unit where the ASV renders it by a single word such as 'lest'; here the ASV writes 'that ye be not judged', two separate English words each answering to a source token, so rule 39's own test (whether some part of the English answers to a source token) splits them under rule 2 rather than joining them. Rule 94 states the same precondition from the other side for a prepositional pair: one unit only where the ASV wrote one English word. The joined reading remains the competing analysis and is named in the s007 note.",
+    "The head on 'another' for 'allelon' is settled rather than a judgment call: rule 83 records thirty corpus units on the 'allos'-word against four on 'one', none of the four giving head reasoning, and rule 17 forbids choosing 'one' merely because it stands first. The discontinuous 'one ... another' around 'against' is rule 15's ordinary case, with the preposition keeping its own English word under rule 36.",
+    "'kritheite' takes its supplied 'ye' and passive 'be' inside its own unit under rules 7 and 9 and heads on 'judged'. Rule 74 is not in question, no infinitive standing, and rule 85 is not, no supplied complementizer standing over a non-finite complement -- the 'that' here answers to an expressed 'hina' and is aligned under rule 40.",
+    "Both articles take a bare 'the' under rule 19. Neither is a candidate for rule 21's 'of the' shape, since 'pro' is expressed and realizes the genitive itself, and neither is emptied by rules 20, 38, 47, 49 or 57, no possessive, demonstrative, interposed genitive or English possessive-'s standing in either phrase.",
+    "Variant SBLGNT.JAS.5.9.v006 is underdetermined over s003-s005 and resolves to r00-base, which is compatible with the ASV's 'brethren ... one against another'. No FALLBACK EXCLUDED mark is present, so rule 97 is not in question and rule 12 forbids revisiting the textual decision inside the alignment file.",
+    "No chapter-convention question arises from this verse: nothing here departs from a reading its neighbours took, so there is nothing to record in the JAS.5 conventions log on its account."
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "chapter": "HEB.7",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.HEB.7.1.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'who met Abraham ... and blessed him' renders either the articular participle (ὁ συναντήσας) or the relative (ὃς συναντήσας) identically; English 'who met' does not distinguish them and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.7.4.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'unto whom Abraham, the patriarch, gave a tenth' with nothing rendering an adverbial καί; the ASV renders such a καί as 'even' (KJV here has 'to whom even the patriarch Abraham'), so its absence tracks the shorter ᾧ."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.7.6.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is only the article before the proper name Ἀβραάμ; ASV 'hath taken tithes of Abraham' is the same English either way and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.7.10.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is only the article before the proper name Μελχισέδεκ; ASV 'when Melchizedek met him' is the same English either way and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.7.11.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'for under it hath the people received the law' renders ἐπ' αὐτῆς, the genitive with ἐπί in its 'under/in the time of' sense; the dative ἐπ' αὐτῇ would give a basis or ground ('on it'), which the ASV wording does not express."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.7.11.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'hath the people received the law' is a perfect, matching the perfect νενομοθέτηται; the pluperfect νενομοθέτητο would have given 'had received'."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.7.14.v007",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'Moses spake nothing concerning priests' has the plural noun 'priests' (ἱερέων); the RP reading has the abstract singular ἱερωσύνης, 'priesthood', which the ASV does not render."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.7.16.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "σαρκίνης and σαρκικῆς are both rendered 'carnal'; ASV 'a carnal commandment' does not distinguish them, and the only note here is a greek_gloss on 'indissoluble' elsewhere in the verse."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.7.17.v009",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'for it is witnessed of him' is passive, rendering μαρτυρεῖται; the active μαρτυρεῖ would give 'he testifieth/witnesseth'."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.7.21.v010",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV ends the oath quotation at 'Thou art a priest for ever' with nothing rendering κατὰ τὴν τάξιν Μελχισεδέκ, which the ASV renders explicitly wherever it stands (cf. 7:17 'After the order of Melchizedek')."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.7.22.v011",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "τοσοῦτο and τοσοῦτον are orthographic variants of the same neuter form; ASV 'by so much' renders either and no note is mapped here."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.7.22.v012",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV 'by so much also hath Jesus become the surety' renders an adverbial καί; nothing else in the verse accounts for 'also', so the ASV reflects καὶ κρείττονος."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.7.26.v013",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV 'separated from sinners, and made higher than the heavens' renders the conjunction καί before the participle; the RP omission would leave the two phrases asyndetic."
+    }
+  ]
+}

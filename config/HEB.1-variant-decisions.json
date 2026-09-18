@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "chapter": "HEB.1",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.HEB.1.2.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "Pure word order: both readings hold the same three words. ASV 'through whom also he made the worlds' fixes English order by its own syntax and cannot show whether ἐποίησεν stood before or after τοὺς αἰῶνας. Both notes are greek_gloss on 'Son' and 'worlds' and say nothing of order."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.1.3.v002",
+      "status": "selected",
+      "selected_reading": "r01",
+      "compatible_readings": [
+        "r01"
+      ],
+      "evidence": "ASV reads simply 'when he had made purification of sins', with no instrumental phrase. Both r00-base (δι᾽ αὑτοῦ, reflexive) and r02 (αὐτοῦ δι᾽ ἑαυτοῦ) require an English 'by himself'/'through himself', which ASV neither prints nor italicises; the bare αὐτοῦ of r01 is what the ASV renders. The sole note is alternative_rendering on 'impress of his substance' and does not bear on this unit."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.1.3.v003",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV has 'purification of sins' without a possessive; r01 adds ἡμῶν, which the ASV renders elsewhere as 'our' and would print here. Absence of 'our' distinguishes the base reading."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.1.8.v004",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "Two things in the ASV distinguish it: the clause opens with 'And', rendering the καί that r01 lacks, and 'the sceptre of uprightness' stands articular as subject of 'is the sceptre of thy kingdom', matching ἡ ῥάβδος τῆς εὐθύτητος. The anarthrous ῥάβδος εὐθύτητος of r01 is a predicate ('a sceptre of uprightness'), which would reverse the ASV clause. The alternative_rendering note concerns 'Thy throne is God' and does not bear on this unit."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.1.8.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV prints 'the sceptre of thy kingdom', rendering σου; r01 αὐτοῦ would give 'his'. The note 'The two oldest Greek manuscripts read, his' is itself an acknowledgement that the ASV text did not follow αὐτοῦ, which the translators relegated to the margin."
+    },
+    {
+      "unit_id": "SBLGNT.HEB.1.12.v006",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV prints 'As a garment, and they shall be changed', a second simile beside 'as a mantle' in the preceding line; that phrase renders ὡς ἱμάτιον, which r01 omits. No note bears on this unit."
+    }
+  ]
+}

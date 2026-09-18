@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "chapter": "2CO.10",
+  "policy": "Review every closed candidate set. Select only when ASV wording or an explicit mapped textual note distinguishes a reading; otherwise mark underdetermined and retain the base fallback. The base candidate is the SBLGNT reading.",
+  "decisions": [
+    {
+      "unit_id": "SBLGNT.2CO.10.7.v001",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "ASV 'let him consider this again with himself' renders the prepositional phrase alike whether the preposition is ἐφ᾽ or ἀφ᾽; English 'with himself' distinguishes neither. The only note on the verse is classed alternative_rendering and concerns the interrogative wording of 'Ye look at the things that are before your face', not this unit. Base fallback carries the projection."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.10.7.v002",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV ends the verse 'so also are we', with no predicate after the verb, and supplies nothing in italics there. The RP reading ἡμεῖς Χριστοῦ would require a rendered 'so also are we Christ's', repeating the predicate the ASV has just used earlier in the verse ('that he is Christ's'); the ASV's bare 'so also are we' shows the shorter text."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.10.8.v003",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "τε is an untranslated connective particle absorbed into the concessive 'For though I should glory'; its presence or absence leaves the ASV wording identical. The verse carries no note. Base fallback carries the projection."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.10.8.v004",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The added καὶ with ἐάν is concessive-intensive ('even if'), and the ASV's 'though I should glory somewhat abundantly' already carries that force in 'though'; no separate 'even' is present or absent in a way the English settles. The verse carries no note. Base fallback carries the projection."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.10.8.v005",
+      "status": "selected",
+      "selected_reading": "r00-base",
+      "compatible_readings": [
+        "r00-base"
+      ],
+      "evidence": "ASV reads 'which the Lord gave for building you up', with no indirect object after 'gave' and nothing supplied in italics. The RP addition ἡμῖν would be rendered 'which the Lord gave us', an unmistakable English pronoun the ASV does not have; its absence shows the shorter text."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.10.10.v006",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "The variant is only the position of μέν relative to ἐπιστολαὶ; μέν is untranslated in ASV 'His letters, they say, are weighty and strong; but...', where the correlative force appears in the following 'but'. Word order here leaves the English identical. The verse carries no note. Base fallback carries the projection."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.10.13.v007",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "οὐκ and οὐχὶ are alternate forms of the same negative, both rendered by ASV 'we will not glory beyond our measure'. The verse's only note is classed alternative_rendering and concerns 'measure'/'limit', not the negative. Base fallback carries the projection."
+    },
+    {
+      "unit_id": "SBLGNT.2CO.10.18.v008",
+      "status": "underdetermined",
+      "selected_reading": null,
+      "compatible_readings": [
+        "r00-base",
+        "r01"
+      ],
+      "evidence": "συνιστάνων and συνιστῶν are alternate present participle forms of the same verb, both rendered by ASV 'he that commendeth himself'. The verse carries no note. Base fallback carries the projection."
+    }
+  ]
+}

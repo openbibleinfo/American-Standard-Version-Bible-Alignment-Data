@@ -1,0 +1,123 @@
+{
+  "alignments": [
+    {
+      "note": "Preposition fused with its construct noun into one English word, headed on the construct (rules 30, 23).",
+      "source": [
+        "s001",
+        "s002"
+      ],
+      "source_head": "s002",
+      "status": "aligned",
+      "target": [
+        "t001"
+      ],
+      "target_head": "t001"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s003"
+      ],
+      "source_head": "s003",
+      "status": "aligned",
+      "target": [
+        "t002"
+      ],
+      "target_head": "t002"
+    },
+    {
+      "note": "Construct noun with a supplied 'the', no article morpheme standing in the chain (rule 29).",
+      "source": [
+        "s005"
+      ],
+      "source_head": "s005",
+      "status": "aligned",
+      "target": [
+        "t003",
+        "t004"
+      ],
+      "target_head": "t004"
+    },
+    {
+      "note": "Nomen rectum takes the relational 'of' (rule 19).",
+      "source": [
+        "s006"
+      ],
+      "source_head": "s006",
+      "status": "aligned",
+      "target": [
+        "t005",
+        "t006"
+      ],
+      "target_head": "t006"
+    },
+    {
+      "note": "Finite verb rendered by copula plus adjective; head on the lexical word (rules 24, 44).",
+      "source": [
+        "s004"
+      ],
+      "source_head": "s004",
+      "status": "aligned",
+      "target": [
+        "t007",
+        "t008"
+      ],
+      "target_head": "t008"
+    },
+    {
+      "note": "Waw takes the 'And' written for it (rule 14).",
+      "source": [
+        "s007"
+      ],
+      "source_head": "s007",
+      "status": "aligned",
+      "target": [
+        "t009"
+      ],
+      "target_head": "t009"
+    },
+    {
+      "note": "Preposition fused with its construct noun (rules 30, 23), heading the predicate of the second colon's verbless clause. The italic 'goeth' is the linking verb the ASV writes where a copula would stand — rule 20 names 'come' among them and gives the 'come alike' of `הַכֹּל כַּאֲשֶׁר לַכֹּל` to the predicate morpheme — so it joins this predicate's unit under rule 49, exactly as rule 30's `לִפְנֵי` → *was before* carries a construction-supplied copula without defeating the one-rendering condition. Discontinuous around 'honor' under rule 25; the head stays on the word carrying the relation. Rule 20's subtraction decides it: dropping 'goeth' removes the English link, not a predication, since 'before honor' is written and no participant is added. Marking the italic 'goeth' added under rule 34's supplied-lexical-verb clause was the competing reading (rule 8).",
+      "source": [
+        "s008",
+        "s009"
+      ],
+      "source_head": "s009",
+      "status": "aligned",
+      "target": [
+        "t010",
+        "t012"
+      ],
+      "target_head": "t010"
+    },
+    {
+      "note": "Noun.",
+      "source": [
+        "s010"
+      ],
+      "source_head": "s010",
+      "status": "aligned",
+      "target": [
+        "t011"
+      ],
+      "target_head": "t011"
+    },
+    {
+      "note": "Noun, the subject of the verbless second colon.",
+      "source": [
+        "s011"
+      ],
+      "source_head": "s011",
+      "status": "aligned",
+      "target": [
+        "t013"
+      ],
+      "target_head": "t013"
+    }
+  ],
+  "ref": "PRO.18.12",
+  "review_notes": [
+    "Corrected: the accepted alignment marked the italic 'goeth' added under rule 34. But rule 34's supplied-lexical-verb clause governs a line whose predicate the Hebrew leaves unwritten altogether, as its 'cheweth' does; here לִפְנֵי כָבוֹד is a written prepositional predicate and 'goeth' merely links עֲנָוָה to it, adding no participant, which is rule 20's expanded copula and rule 49's placement of it on the preposition.",
+    "The verb of the first colon is יִגְבַּהּ, rendered 'is haughty', so 'goeth' is not a second realization of a written verb under rule 34's pro-verb sentence either."
+  ]
+}
