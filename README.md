@@ -146,6 +146,8 @@ are not part of the process repository.
 - `data/alignments/` — accepted verse judgments, reviews, and compiled ledgers
 - `src/alignment_research/` — preparation, validation, orchestration, and export
 - `scripts/` — command-line entry points
+- `jev/` — Jev, which aligns any English translation verse by verse (see its
+  [README](jev/README.md))
 - `tests/` — deterministic regression tests
 - `reports/` — corpus-wide original-language and KJV-associated difference views
 - `.claude/skills/align-chapter/` — chapter-level operating instructions

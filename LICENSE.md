@@ -5,7 +5,7 @@ license applies to every file or every field.
 
 1. Project code
 
-The software source code in scripts/, src/, and tests/, together with the
+The software source code in scripts/, src/, tests/, and jev/, together with the
 Makefiles and other code used to operate the pipeline, is offered under the MIT
 License reproduced below. Much of this code was generated with assistance from
 large language models. The project does not assert that machine-generated

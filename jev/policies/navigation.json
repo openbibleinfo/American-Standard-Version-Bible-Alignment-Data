@@ -1,0 +1,287 @@
+{
+  "format": "general-policy-navigation-v1",
+  "status": "experimental_not_validated_online",
+  "routing": "Only language and decision type filter eligibility. Linguistic relevance is decided by Jev through bounded family and policy choices. No verse reference, English lexeme, morphology pattern, or prior run selects a family in code.",
+  "coverage": "The catalog is partial; NEEDS_GUIDANCE is an explicit outcome. Navigation does not imply the remaining original contract rules have been generalized.",
+  "families": [
+    {
+      "id": "article_ownership",
+      "description": "Articles, determiners, possessive displacement, and nominal content supplied inside an article phrase.",
+      "policies": [
+        "hebrew.assimilated_article",
+        "hebrew.determined_state",
+        "hebrew.article_alternative_determiner",
+        "hebrew.article_in_name",
+        "hebrew.article_count",
+        "hebrew.article_realization",
+        "greek.article_possessive",
+        "greek.article_case_relation",
+        "greek.nominal_lexical_content",
+        "greek.article_supplied_nominal",
+        "greek.demonstrative_displacement",
+        "greek.possessive_adjective",
+        "greek.article_government",
+        "greek.article_demonstrative",
+        "greek.article_address",
+        "greek.appositional_intensifier",
+        "greek.article_realization",
+        "greek.article_indefinite"
+      ]
+    },
+    {
+      "id": "relative_nominals",
+      "description": "Substantival articles, participles, adjectives, and relative or antecedent realization.",
+      "policies": [
+        "hebrew.substantival_article",
+        "hebrew.attributive_article_relative",
+        "hebrew.articleless_relative",
+        "hebrew.resumptive_fusion",
+        "hebrew.anarthrous_substantive",
+        "greek.article_participle",
+        "greek.article_single_relative",
+        "greek.attributive_participle",
+        "greek.article_verbless_modifier",
+        "greek.article_nominal_head",
+        "greek.universal_article",
+        "greek.appositional_predicate",
+        "greek.substantival_article"
+      ]
+    },
+    {
+      "id": "supplied_determiners",
+      "description": "Bare nominal determiners, numeral determination, partitives, and construct-chain determiner counts.",
+      "policies": [
+        "hebrew.supplied_determiner",
+        "hebrew.determiner_explicit_owner",
+        "hebrew.partitive_phrase",
+        "hebrew.distributive_numeral_determiner",
+        "hebrew.construct_determiner_count",
+        "hebrew.construct_article_fronting",
+        "hebrew.possessive_construct_determiner",
+        "hebrew.attributive_construct_determiner",
+        "greek.anarthrous_phrase_completion",
+        "greek.anarthrous_determiner",
+        "greek.distributive_preposition"
+      ]
+    },
+    {
+      "id": "verb_frames",
+      "description": "Inflected verb subjects, auxiliaries, mood, presentative frames, and interrogative or relative recastings.",
+      "policies": [
+        "hebrew.verb_subject",
+        "hebrew.verb_mood",
+        "hebrew.relative_recasting",
+        "hebrew.question_auxiliary",
+        "hebrew.infinitive_subject_suffix",
+        "hebrew.compound_interrogative",
+        "hebrew.saying_preposition",
+        "hebrew.privative_frame",
+        "hebrew.infinitival_frame",
+        "hebrew.emphasis_auxiliary",
+        "hebrew.matrix_duration",
+        "greek.verbless_copula",
+        "greek.nonfinite_subject",
+        "greek.clause_introducer",
+        "greek.asyndetic_coordination",
+        "greek.converted_coordination",
+        "greek.articular_infinitive",
+        "greek.supplied_lexical_predicate",
+        "greek.interrogative_particle",
+        "greek.complementizer_realization",
+        "greek.correlative_particles",
+        "greek.comparative_correlative",
+        "greek.nonfinite_complementizer",
+        "greek.predicate_modifiers",
+        "greek.inflected_verb"
+      ],
+      "descriptions_by_language": {
+        "greek": "Clause introducers and omission, nonfinite subjects/complements, copula/supplied predicate roles, interrogative/correlative particles and licensed/unsupported coordination."
+      }
+    },
+    {
+      "id": "pronouns",
+      "description": "Pronominal suffixes, lexical antecedent expansions, resumptive pronouns, and unsupported possessives.",
+      "policies": [
+        "hebrew.suffix_realization",
+        "hebrew.pronoun_nominal_expansion",
+        "hebrew.suffix_relative",
+        "hebrew.unsupported_possessive",
+        "hebrew.nominal_resumption",
+        "hebrew.vocative",
+        "hebrew.lexicalized_title_suffix",
+        "greek.resumptive_pronoun",
+        "greek.crasis",
+        "greek.relative_antecedent"
+      ],
+      "descriptions_by_language": {
+        "greek": "Relative supplied antecedents, crasis and grammatical resumption; intensive/personal heads are in head_selection."
+      }
+    },
+    {
+      "id": "joint_renderings",
+      "description": "Multiple source members contributing to one shared or indivisible English rendering.",
+      "policies": [
+        "unit.noncompositional",
+        "hebrew.fusion_ownership",
+        "hebrew.preposition_construct_fusion",
+        "hebrew.nominal_fusion",
+        "hebrew.determination_fusion",
+        "hebrew.entreaty_formula",
+        "hebrew.noncompositional",
+        "hebrew.negative_fusion",
+        "greek.portmanteau",
+        "greek.prepositional_idiom",
+        "greek.particle_fusion",
+        "greek.compound_numeral",
+        "greek.duration_rendering",
+        "greek.negative_realization",
+        "greek.modal_generalizing_particle",
+        "greek.light_verb_fusion",
+        "greek.universal_negative_fusion",
+        "greek.adjective_noun_fusion"
+      ]
+    },
+    {
+      "id": "lexical_completions",
+      "description": "Generic nominal completions, substantival numerals, and elliptical nominal expressions.",
+      "policies": [
+        "hebrew.substantive_completion",
+        "hebrew.numeral_completion",
+        "hebrew.elliptical_nominal_completion",
+        "hebrew.construct_relation",
+        "hebrew.construct_quantifier",
+        "hebrew.directional_construct",
+        "hebrew.construct_verbal_recasting",
+        "hebrew.attributive_construct",
+        "hebrew.age_construction",
+        "greek.relationship_genitive"
+      ]
+    },
+    {
+      "id": "verb_helpers",
+      "description": "Support-frame relations, lexical complements, phrasal particles, objects, and valency-licensed prepositions.",
+      "policies": [
+        "hebrew.light_verb_helpers",
+        "hebrew.phrasal_particle",
+        "hebrew.object_pronoun",
+        "hebrew.supplied_object_noun",
+        "hebrew.valency_preposition",
+        "greek.frame_preposition",
+        "greek.preposition_class",
+        "greek.relational_frame",
+        "greek.preverb_particle",
+        "greek.expressed_preposition"
+      ],
+      "descriptions_by_language": {
+        "greek": "Actual expressed/case/frame relations, proper/improper lexical class, preverb competition, and fixed-projection absence diagnostics when relevant."
+      }
+    },
+    {
+      "id": "repetition",
+      "description": "Repeated lexical content versus repeated grammatical relations and licensed resumptive expressions.",
+      "policies": [
+        "hebrew.repeated_source",
+        "hebrew.distributed_scope",
+        "greek.repeated_function_word",
+        "greek.repeated_lexical_content"
+      ]
+    },
+    {
+      "id": "head_selection",
+      "description": "Lexical display anchors, compound cores, source heads, and genuinely tied alternatives.",
+      "policies": [
+        "head.source_singleton",
+        "head.source_multiple",
+        "head.target_anchor",
+        "head.lexical_predicate",
+        "hebrew.lexeme_subtraction",
+        "hebrew.source_head_fusion",
+        "hebrew.target_anchor",
+        "hebrew.lexical_predicate",
+        "hebrew.source_multiple",
+        "hebrew.relational_target_head",
+        "greek.generic_completion_head",
+        "greek.compound_head",
+        "greek.reciprocal_head",
+        "greek.intensive_head",
+        "greek.quality_degree_head",
+        "greek.head_basics",
+        "greek.lexical_evidence"
+      ]
+    },
+    {
+      "id": "general_membership",
+      "description": "Small independently defensible units, morpheme licensing, reordering, and transparent phrase members.",
+      "policies": [
+        "membership.independent_units",
+        "membership.discontinuous",
+        "membership.helpers",
+        "hebrew.morpheme_licensing",
+        "hebrew.no_convenience_merge",
+        "hebrew.added_expression",
+        "hebrew.independent_units",
+        "hebrew.discontinuous",
+        "greek.recoverable_nominal_members",
+        "greek.recoverable_phrase"
+      ]
+    },
+    {
+      "id": "input_and_structure",
+      "description": "Fixed input projection, occurrence coverage, structural status requirements, and source evidence.",
+      "policies": [
+        "unit.coverage",
+        "unit.aligned_shape",
+        "unit.unrepresented_shape",
+        "unit.added_shape",
+        "input.fixed_projection",
+        "explanation.alternatives",
+        "hebrew.romanization",
+        "hebrew.gloss_reliability",
+        "hebrew.verse_locality",
+        "hebrew.evidence_priority",
+        "hebrew.textual_divergence",
+        "hebrew.source_omission",
+        "greek.judgment_note",
+        "greek.independent_packet",
+        "greek.boundary_diagnostic",
+        "greek.projection_absence"
+      ]
+    },
+    {
+      "id": "connectives",
+      "description": "Written connective senses, correlated members, clause subordination and actual scope before surplus counting.",
+      "policies": [
+        "hebrew.connective_realization",
+        "hebrew.correlative_pair",
+        "hebrew.discourse_pair",
+        "hebrew.numeral_connectives",
+        "hebrew.subordinator"
+      ]
+    },
+    {
+      "id": "object_relations",
+      "description": "Marked object, nominal function, preposition, directional and paired endpoint relation ownership.",
+      "policies": [
+        "hebrew.object_marker",
+        "hebrew.relation_expansion",
+        "hebrew.paired_relations",
+        "hebrew.directive_morpheme",
+        "hebrew.nominal_case_helper",
+        "hebrew.unrealized_preposition"
+      ]
+    },
+    {
+      "id": "copular_predicates",
+      "description": "Actual predicate copulas, possession and existential frames versus unsupported events and dummy clauses.",
+      "policies": [
+        "hebrew.copula",
+        "hebrew.cleft_frame",
+        "hebrew.existential_verb",
+        "hebrew.possessive_ownership",
+        "hebrew.presentative_complementizer",
+        "hebrew.prepositional_predicate",
+        "hebrew.existential_particle"
+      ]
+    }
+  ]
+}

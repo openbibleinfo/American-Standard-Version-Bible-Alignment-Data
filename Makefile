@@ -192,3 +192,4 @@ clean-chapter:
 
 test:
 	PYTHONPATH=src $(PYTHON) -m unittest discover -s tests -v
+	$(PYTHON) -m unittest discover -s jev -v
